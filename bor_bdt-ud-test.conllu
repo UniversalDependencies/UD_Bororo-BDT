@@ -29,5 +29,47 @@
 # text_por = a onça os(as) matou
 1	adugore	adugo	NOUN	_	IF=Ass	3	nsubj	_	_
 2	emage	_	PRON	_	Number=Plur|Person=3	3	obj	_	_
-3	ebito	ebito	VERB	_	Number=Plur|Person=3	0	root	_	_
+3	ebito	ebito	VERB	_	Number[obj]=Plur|Person[obj]=3	0	root	_	_
+
+# sent_id = ABE-23
+# text = imi itaragydy
+# text_eng = I cried
+# text_por = Eu chorei
+1	imi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	itaragydy	aragydy	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+
+# sent_id = ABE-24
+# text = areme emode tamudö
+# text_eng = The women will rest
+# text_por = as mulheres vão descansar
+1	areme	_	NOUN	_	_	4	nsubj	_	_
+2-3	emode	_	_	_	_	_	dep	_	_
+2	emod	mody	X	_	Number=Plur|Person=3|Tense=Fut	3	dep	_	_
+3	e	re	X	_	IF=Ass	3	dep	_	_
+4	tamudö	amudö	VERB	_	Number=3|Reflex=Yes	0	root	_	_
+
+# sent_id = ABE-25
+# text = imi inokwa
+# text_eng = my mouth
+# text_por = minha boca
+1	imi	_	PRON	_	_	2	nmod	_	_
+2	inogwa	_	NOUN	_	_	0	root	_	_
+
+# sent_id = ABE-27
+# text = imedy ure karo kowuje
+# text_eng = the man ate the fish
+# text_por = O homem comeu o peixe
+1	imedy	_	NOUN	_	_	4	nsubj	_	_
+2	ure	re	X	_	IF=Ass|Number=Sing|Person=3	1	dep	_	_
+3	karo	_	NOUN	_	_	4	obj	_	_
+4	kowuje	kowuje	VERB	_	_	0	root	_	_
+
+# sent_id = ABE-28
+# text = imedy re karo kowuje
+# text_eng = the man ate the fish
+# text_por = O homem comeu o peixe
+1	imedy	_	NOUN	_	_	4	nsubj	_	_
+2	re	re	X	_	IF=Ass	1	dep	_	_
+3	karo	_	NOUN	_	_	4	obj	_	_
+4	kowuje	kowuje	VERB	_	_	0	root	_	_
 
