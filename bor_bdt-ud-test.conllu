@@ -23,3 +23,11 @@
 2	ipare	_	NOUN	_	_	1	obl	_	_
 3	etae	ae	ADP	_	Number=Plur|Person=3	2	case	_	_
 
+# sent_id = ABE-22
+# adugore emage ebito
+# text_eng = The jaguar killed them
+# text_por = a onça os(as) matou
+1	adugore	adugo	NOUN	_	IF=Ass	3	nsubj	_	_
+2	emage	_	PRON	_	Number=Plur|Person=3	3	obj	_	_
+3	ebito	ebito	VERB	_	Number=Plur|Person=3	0	root	_	_
+
