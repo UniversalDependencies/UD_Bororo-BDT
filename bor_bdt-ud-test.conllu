@@ -73,3 +73,10 @@
 3	karo	_	NOUN	_	_	4	obj	_	_
 4	kowuje	kowuje	VERB	_	_	0	root	_	_
 
+# sent_id = ABE-34
+# text = aredy pagare
+# text_eng = The woman waited
+# text_por = a mulher esperou
+1	aredy	_	NOUN	_	_	2	nsubj	_	_
+2	pagare	_	VERB	_	Number=Sing|Person=3	0	root	_	_
+
