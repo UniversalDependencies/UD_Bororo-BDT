@@ -19,8 +19,8 @@
 # text = maky ipare etae
 # text_eng = Give (it) to the young ones
 # text_por = dê-o aos jovens
-1	maky	_	VERB	v	_	0	root	_	_
-2	ipare	_	NOUN	n	_	1	obl	_	_
+1	maky	maky	VERB	v	_	0	root	_	_
+2	ipare	ipare	NOUN	n	_	1	obl	_	_
 3	etae	ae	ADP	_	Number=Plur|Person=3	2	case	_	_
 
 # sent_id = ABE-22
@@ -28,21 +28,21 @@
 # text_eng = The jaguar killed them
 # text_por = a onça os(as) matou
 1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	_
-2	emage	_	PRON	_	Number=Plur|Person=3	3	obj	_	_
+2	emage	mage	PRON	_	Number=Plur|Person=3	3	obj	_	_
 3	ebito	ebito	VERB	v	Number[obj]=Plur|Person[obj]=3	0	root	_	_
 
 # sent_id = ABE-23
 # text = imi itaragydy
 # text_eng = I cried
 # text_por = Eu chorei
-1	imi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	imi	imi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	itaragydy	aragydy	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
 # sent_id = ABE-24
 # text = areme emode tamudö
 # text_eng = The women will rest
 # text_por = as mulheres vão descansar
-1	areme	_	NOUN	n	_	4	nsubj	_	_
+1	areme	areme	NOUN	n	_	4	nsubj	_	_
 2-3	emode	_	_	_	_	_	dep	_	_
 2	emod	mody	X	_	Number=Plur|Person=3|Tense=Fut	3	dep	_	_
 3	e	re	X	_	IF=Ass	3	dep	_	_
@@ -52,7 +52,7 @@
 # text = imi inokwa
 # text_eng = my mouth
 # text_por = minha boca
-1	imi	_	PRON	_	_	2	nmod	_	_
+1	imi	imi	PRON	_	_	2	nmod	_	_
 2	inogwa	_	NOUN	n	_	0	root	_	_
 
 # sent_id = ABE-26
