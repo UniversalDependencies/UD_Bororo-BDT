@@ -85,13 +85,13 @@
 # text = imago
 # text_eng = I spoke
 # text_por = eu falei
-1	imago	mago	VERB	v	Number=Sing|Person=1	0	_	_	_
+1	imago	mago	VERB	v	Number=Sing|Person=1	0	root	_	_
 
 # sent_id = ABE-31
 # text = itaregödy
 # text_eng = I arrived
 # text_por = eu cheguei
-1	itaregödy	aregödy	VERB	v	Number=Sing|Person=1	0	_	_	_
+1	itaregödy	aregödy	VERB	v	Number=Sing|Person=1	0	root	_	_
 
 # sent_id = ABE-34
 # text = aredy pagare
