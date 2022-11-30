@@ -44,9 +44,9 @@
 # text_por = as mulheres vão descansar
 1	areme	areme	NOUN	n	_	4	nsubj	_	_
 2-3	emode	_	_	_	_	_	_	_	_
-2	emod	mody	X	_	Number=Plur|Person=3|Tense=Fut	3	dep	_	_
-3	e	re	X	_	IF=Ass	3	dep	_	_
-4	tamudö	amudö	VERB	v	Number=3|Reflex=Yes	0	root	_	_
+2	emod	mody	X	_	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
+3	e	re	X	_	IF=Ass	4	dep	_	_
+4	tamudö	amudö	VERB	v	Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = ABE-25
 # text = imi inokwa
