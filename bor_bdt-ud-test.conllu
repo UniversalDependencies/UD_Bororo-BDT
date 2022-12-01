@@ -209,6 +209,18 @@
 2	iwogure	wogu	VERB	_	IF=Ass|Number=Sing|Person=1	1	acl	_	fish;pesca
 3	jiwyge	ji	ADP	_	Number=Plur|Rel=Yes	2	obl	_	_
 
+# sent_id = ABE-151
+# text = imedy utyre ibaikae tubaiga bagai
+# text_eng = The man is going home for his weapon
+# text_por = o homem está indo na minha casa para (pegar) a arma dele
+1	imedy	imedy	NOUN	_	_	2	nsubj	_	man;homem
+2	utyre	ty	VERB	_	Aspect=Prog|IF=Ass|Number=Sing|Person=3	0	root	_	go;ir
+3-4	ibaikae	_	_	_	_	_	_	_	_
+3	ibai	bai	NOUN	_	Number=Sing|Person=1	2	obl	_	house;casa
+4	kae	ae	ADP	_	Number=Sing|Person=1	3	obl	_	house;casa
+5	tubaiga	baiga	_	_	Anaph=Yes|Person=3	_	_	_	weapon;arma
+6	bagai	_	_	_	_	_	_	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
