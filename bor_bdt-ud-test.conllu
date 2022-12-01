@@ -210,7 +210,7 @@
 3	jiwyge	ji	ADP	_	Number=Plur|Rel=Yes	2	obl	_	_
 
 # sent_id = ABE-355
-# text = Imi ire jao bai to
+# text = imi ire jao bai to
 # text_eng = I have already built a house
 # text_por = Eu já construí uma casa
 1	imi	imi	PRON	_	Number[subj]=Sing|Person[subj]=1|PronType=Prs	5	nsubj	_	I;eu
