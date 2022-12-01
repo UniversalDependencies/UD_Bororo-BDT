@@ -129,3 +129,14 @@
 3	e	re	X	_	IF=Ass	4	dep	_	_
 4	tamudö	amudö	VERB	_	Anaph=Yes|Person=3	0	root	_	_
 
+# sent_id = ABE-38
+# text = negedürogu jorudüre pudyi poboto
+# text_eng = The child saw itself in the water
+# text_por = a criança se viu na água
+1	negedürogu	negedürogu	NOUN	_	_	2	nsubj	_	child;criança
+2	jorudüre	jorudy	VERB	_	IF=Ass	0	root	_	see;ver
+3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
+4-5	poboto	_	_	_	_	_	_	_	_
+4	pobo	_	NOUN	_	_	2	obl	_	_
+5	to	_	ADP	_	_	4	case	_	_
+
