@@ -219,3 +219,11 @@
 4	bai	bai	NOUN	_	_	5	obj	_	house;casa
 5	to	to	VERB	_	_	0	root	_	make,do;fazer
 
+# sent_id = ABE-316
+# text = marenarore aki rema
+# text_eng = You are poor
+# text_por = Você é pobre
+1	marenarore	_	NOUN	_	IF=Ass	0	root	_	poor;pobre
+2	aki	aki	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	rema	rema	X	_	Pred=AtrEq	1	dep	_	_
+
