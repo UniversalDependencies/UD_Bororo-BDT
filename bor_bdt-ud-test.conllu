@@ -209,16 +209,6 @@
 2	iwogure	wogu	VERB	_	IF=Ass|Number=Sing|Person=1	1	acl	_	fish;pesca
 3	jiwyge	ji	ADP	_	Number=Plur|Rel=Yes	2	obl	_	_
 
-# sent_id = ABE-355
-# text = imi ire jao bai to
-# text_eng = I have already built a house
-# text_por = Eu já construí uma casa
-1	imi	imi	PRON	_	Number[subj]=Sing|Person[subj]=1|PronType=Prs	5	nsubj	_	I;eu
-2	ire	i	X	_	IF=Ass|Number=Sing|Person=1	5	dep	_	_
-3	jao	jao	ADV	_	_	5	advmod	_	_
-4	bai	bai	NOUN	_	_	5	obj	_	house;casa
-5	to	to	VERB	_	_	0	root	_	make,do;fazer
-
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
@@ -233,4 +223,21 @@
 # text_por = Você é pobre
 1	umode	_	X	_	IF=Ass|Number=Sing|Person=3|Tense=Fut	2	dep	_	_
 2	taredö	are	VERB	_	Anaph=Yes|Voice=Cau	0	root	_	jump;pular
+
+# sent_id = ABE-355
+# text = imi ire jao bai to
+# text_eng = I have already built a house
+# text_por = Eu já construí uma casa
+1	imi	imi	PRON	_	Number[subj]=Sing|Person[subj]=1|PronType=Prs	5	nsubj	_	I;eu
+2	ire	i	X	_	IF=Ass|Number=Sing|Person=1	5	dep	_	_
+3	jao	jao	ADV	_	_	5	advmod	_	_
+4	bai	bai	NOUN	_	_	5	obj	_	house;casa
+5	to	to	VERB	_	_	0	root	_	make,do;fazer
+
+# sent_id = ABE-360
+# text = arigaodoge ebire
+# text_eng = the dogs died
+# text_por = os cachorros morreram
+1	arigaodoge	arigao	NOUN	_	Number=Plur	2	nsubj	_	dog;cachorro
+2	ebire	bi	VERB	_	IF=Ass|Number=Plur|Person=3	0	root	_	die;morrer
 
