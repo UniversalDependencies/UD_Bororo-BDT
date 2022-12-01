@@ -186,3 +186,12 @@
 1	akore	ako	VERB	_	IF=Ass	0	root	_	_
 2	taregodyie	aregody	VERB	_	Anaph=Yes|Evident=Rep	1	xcomp	_	_
 
+# sent_id = ABE-49
+# text = inakore taregodyie
+# text_eng = He said (that) he arrived
+# text_por = ele disse que chegou
+1	inakore	ako	VERB	_	IF=Ass|Number=Sing|Person=3	0	root	_	_
+2	itaregodyie	aregody	VERB	_	Anaph=Yes|Evid=Rep|Number=Sing|Person=1	1	xcomp	_	_
+
+
+
