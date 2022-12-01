@@ -227,3 +227,10 @@
 2	aki	aki	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	rema	rema	X	_	Pred=AtrEq	1	dep	_	_
 
+# sent_id = ABE-343
+# text = umode taredö
+# text_eng = You are poor
+# text_por = Você é pobre
+1	umode	_	X	_	IF=Ass|Number=Sing|Person=3|Tense=Fut	2	dep	_	_
+2	taredö	are	VERB	_	Anaph=Yes|Voice=Cau	0	root	_	jump;pular
+
