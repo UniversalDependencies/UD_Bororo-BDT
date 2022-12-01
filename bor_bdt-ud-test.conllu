@@ -179,3 +179,10 @@
 2	apoe	apu	NOUN	_	Number=Plur	3	obj	_	paca;paca
 3	ebito	bito	VERB	_	Number=Plur|Person=3	0	root	_	kill,matar
 
+# sent_id = ABE-48
+# text = akore taregodyie
+# text_eng = He said (that) he arrived
+# text_por = ele disse que chegou
+1	akore	ako	VERB	_	IF=Ass	0	root	_	_
+2	taregodyie	aregody	VERB	_	Anaph=Yes|Evid=Rep	1	xcomp	_	_
+
