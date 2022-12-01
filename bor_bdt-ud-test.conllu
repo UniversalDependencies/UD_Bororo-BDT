@@ -221,6 +221,14 @@
 5	tubaiga	baiga	NOUN	_	Anaph=Yes|Person=3	3	obl	_	weapon;arma
 6	bagai	bagai	ADP	_	_	5	case	_	_
 
+# sent_id = ABE-152
+# text = iiemarure negedurogu bagai
+# text_eng = I am loking for the child
+# text_por = estou procurando a criança
+1	iiemarure	jemaru	VERB	_	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	negedurogu	negedurogu	NOUN	_	_	1	obj	_	_
+3	bagai	bagai	ADP	_	_	2	case	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
