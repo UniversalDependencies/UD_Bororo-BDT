@@ -193,7 +193,7 @@
 1	inakore	ako	VERB	_	IF=Ass|Number=Sing|Person=3	0	root	_	_
 2	itaregodyie	aregody	VERB	_	Anaph=Yes|Evident=Rep|Number=Sing|Person=1	1	xcomp	_	_
 
-# sent_id = ABE-49
+# sent_id = ABE-55
 # text = aki ko ika
 # text_eng = your canoe
 # text_por = tua canoa
@@ -201,7 +201,3 @@
 2	ako	ak	X	_	Number=Sing|Person=2|Poss=Yes	3	dep	_	_
 3	ika	ika	NOUN	_	_	0	root	_	canoe;canoa
 
-
-1	aki	aki	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nmod	_	you;você
-2	ako	ak	X	_	Number=Sing|Person=2|Poss=Yes	3	dep	_	_
-3	ika	ika	NOUN	_	_	0	root	_	canoe;canoa
