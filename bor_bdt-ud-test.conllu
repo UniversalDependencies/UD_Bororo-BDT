@@ -201,3 +201,11 @@
 2	ako	ak	X	_	Number=Sing|Person=2|Poss=Yes	3	dep	_	_
 3	ika	ika	NOUN	_	_	0	root	_	canoe;canoa
 
+# sent_id = ABE-62
+# text = kare iwogure jiwyge
+# text_eng = the fish (that) I fished
+# text_por = os peixes que eu pesquei
+1	kare	karo	NOUN	_	Number=Plur	0	root	_	fish;peixe
+2	iwogure	wogu	VERB	_	IF=Ass|Number=Sing|Person=1	1	acl	_	fish;pesca
+3	jiwyge	ji	ADP	_	Number=Plur|Rel=Yes	2	obl	_	_
+
