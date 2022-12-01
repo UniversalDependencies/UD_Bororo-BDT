@@ -100,7 +100,7 @@
 1	ino	o	NOUN	_	Number=Sing|Person=1	0	root	_	_
 
 # sent_id = ABE-33
-# text = ino
+# text = ikie
 # text_eng = my name
 # text_por = meu nome
 1	ikie	ie	NOUN	_	Number=Sing|Person=1	0	root	_	_
@@ -116,7 +116,8 @@
 # text = aredy padyre
 # text_eng = The woman laid down
 # text_por = a mulher editou
-1	ikie	ie	NOUN	_	Number=Sing|Person=1	0	root	_	_
+1	aredy	_	NOUN	_	_	2	nsubj	_	_
+2	padyre	pady	VERB	v	IF=Ass	0	root	_	_
 
 # sent_id = ABE-37
 # text = areme emode tamudö
