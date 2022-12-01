@@ -163,3 +163,19 @@
 5	ubai	bai	NOUN	_	_	1	obl	_	house;casa
 6	kae	ae	ADP	_	_	5	case	_	to;a
 
+# sent_id = ABE-42a
+# text = eimejeramode apu bito
+# text_eng = Their chief will kill the paca
+# text_por = o chefe deles vai matar a paca
+1	eimejeramode	imejera	NOUN	_	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
+2	apu	apu	NOUN	_	_	3	obj	_	paca;paca
+3	bito	bito	VERB	_	_	0	root	_	kill,matar
+
+# sent_id = ABE-42b
+# text = eimejeramode apoe ewido
+# text_eng = Their chief will kill the pacas
+# text_por = o chefe deles vai matar as pacas
+1	eimejeramode	imejera	NOUN	_	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
+2	apoe	apu	NOUN	_	Number=Plur	3	obj	_	paca;paca
+3	ebito	bito	VERB	_	Number=Plur|Person=3	0	root	_	kill,matar
+
