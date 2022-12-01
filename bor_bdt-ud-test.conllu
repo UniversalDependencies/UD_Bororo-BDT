@@ -140,3 +140,14 @@
 4	pobo	_	NOUN	_	_	2	obl	_	_
 5	to	_	ADP	_	_	4	case	_	_
 
+# sent_id = ABE-39
+# text = negekügüre erudüre pudüi poboto
+# text_eng = The children saw themselves in the water
+# text_por = as crianças se viram na água
+1	negekygyre	negedürogu	NOUN	_	_	2	nsubj	_	child;criança
+2	erudüre	jorudy	VERB	_	IF=Ass	0	root	_	see;ver
+3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
+4-5	poboto	_	_	_	_	_	_	_	_
+4	pobo	_	NOUN	_	_	2	obl	_	_
+5	to	_	ADP	_	_	4	case	_	_
+
