@@ -274,6 +274,13 @@
 4	dyji	_	X	x	_	3	mark	_	_
 5	?	_	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = ABE-218
+# text = mearudaere tumotyie
+# text_eng = (S)he thinks (s)he is pretty
+# text_por = ele(a) pensa que é bonito(a)
+1	mearudaere	mearudae	VERB	_	IF=Ass	0	root	_	think;pensar
+2	tumotyie	mody	VERB	_	Evid=Rep	1	ccomp	_	be.beautiful;ser.bonito
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
