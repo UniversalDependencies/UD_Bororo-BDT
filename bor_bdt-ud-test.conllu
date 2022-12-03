@@ -21,21 +21,21 @@
 # text_por = dê-o aos jovens
 1	maky	maky	VERB	v	_	0	root	_	_
 2	ipare	ipare	NOUN	n	_	1	obl	_	_
-3	etae	ae	ADP	_	Number=Plur|Person=3	2	case	_	_
+3	etae	ae	ADP	posp	Number=Plur|Person=3	2	case	_	_
 
 # sent_id = ABE-22
 # text = adugore emage ebito
 # text_eng = The jaguar killed them
 # text_por = a onça os(as) matou
 1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	_
-2	emage	mage	PRON	_	Number=Plur|Person=3	3	obj	_	_
+2	emage	mage	PRON	pron	Number=Plur|Person=3	3	obj	_	_
 3	ebito	ebito	VERB	v	Number[obj]=Plur|Person[obj]=3	0	root	_	_
 
 # sent_id = ABE-23
 # text = imi itaragydy
 # text_eng = I cried
 # text_por = Eu chorei
-1	imi	imi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	itaragydy	aragydy	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
 # sent_id = ABE-24
@@ -44,22 +44,22 @@
 # text_por = as mulheres vão descansar
 1	areme	areme	NOUN	n	_	4	nsubj	_	_
 2-3	emode	_	_	_	_	_	_	_	_
-2	emod	mody	X	_	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
-3	e	re	X	_	IF=Ass	4	dep	_	_
+2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
+3	e	re	X	x	IF=Ass	4	dep	_	_
 4	tamudö	amudö	VERB	v	Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = ABE-25
 # text = imi inokwa
 # text_eng = my mouth
 # text_por = minha boca
-1	imi	imi	PRON	_	_	2	nmod	_	_
+1	imi	imi	PRON	pron	_	2	nmod	_	_
 2	inokwa	_	NOUN	n	_	0	root	_	_
 
 # sent_id = ABE-26
 # text = ure karo kowuje
 # text_eng = He ate the fish
 # text_por = comeu o peixe
-1	ure	re	X	_	Number=Sing|Person=3	3	nsubj	_	_
+1	ure	re	X	x	Number=Sing|Person=3	3	nsubj	_	_
 2	karo	karo	NOUN	n	_	3	obj	_	_
 3	kowuje	kowuje	VERB	v	_	0	root	_	_
 
@@ -68,7 +68,7 @@
 # text_eng = the man ate the fish
 # text_por = O homem comeu o peixe
 1	imedy	_	NOUN	n	_	4	nsubj	_	_
-2	ure	re	X	_	IF=Ass|Number=Sing|Person=3	1	dep	_	_
+2	ure	re	X	x	IF=Ass|Number=Sing|Person=3	1	dep	_	_
 3	karo	karo	NOUN	n	_	4	obj	_	_
 4	kowuje	kowuje	VERB	v	_	0	root	_	_
 
@@ -77,7 +77,7 @@
 # text_eng = the man ate the fish
 # text_por = O homem comeu o peixe
 1	imedy	_	NOUN	n	_	4	nsubj	_	_
-2	re	re	X	_	IF=Ass	1	dep	_	_
+2	re	re	X	x	IF=Ass	1	dep	_	_
 3	karo	karo	NOUN	n	_	4	obj	_	_
 4	kowuje	kowuje	VERB	v	_	0	root	_	_
 
@@ -97,13 +97,13 @@
 # text = ino
 # text_eng = my thing
 # text_por = minha coisa
-1	ino	o	NOUN	_	Number=Sing|Person=1	0	root	_	_
+1	ino	o	NOUN	n	Number=Sing|Person=1	0	root	_	_
 
 # sent_id = ABE-33
 # text = ikie
 # text_eng = my name
 # text_por = meu nome
-1	ikie	ie	NOUN	_	Number=Sing|Person=1	0	root	_	_
+1	ikie	ie	NOUN	n	Number=Sing|Person=1	0	root	_	_
 
 # sent_id = ABE-34
 # text = aredy pagare
@@ -116,186 +116,186 @@
 # text = aredy padyre
 # text_eng = The woman laid down
 # text_por = a mulher editou
-1	aredy	_	NOUN	_	_	2	nsubj	_	_
+1	aredy	aredy	NOUN	n	_	2	nsubj	_	woman;mulher
 2	padyre	pady	VERB	v	IF=Ass	0	root	_	_
 
 # sent_id = ABE-37
 # text = areme emode tamudö
 # text_eng = The women will rest
 # text_por = as mulheres vão descansar
-1	areme	areme	NOUN	_	_	4	nsubj	_	_
+1	areme	areme	NOUN	n	_	4	nsubj	_	_
 2-3	emode	_	_	_	_	_	_	_	_
-2	emod	mody	X	_	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
-3	e	re	X	_	IF=Ass	4	dep	_	_
-4	tamudö	amudö	VERB	_	Anaph=Yes|Person=3	0	root	_	_
+2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
+3	e	re	X	x	IF=Ass	4	dep	_	_
+4	tamudö	amudö	VERB	v	Anaph=Yes|Person=3	0	root	_	_
 
 # sent_id = ABE-38
 # text = negedürogu jorudüre pudyi poboto
 # text_eng = The child saw itself in the water
 # text_por = a criança se viu na água
-1	negedürogu	negedürogu	NOUN	_	_	2	nsubj	_	child;criança
-2	jorudüre	jorudy	VERB	_	IF=Ass	0	root	_	see;ver
+1	negedürogu	negedürogu	NOUN	n	_	2	nsubj	_	child;criança
+2	jorudüre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
 3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
 4-5	poboto	_	_	_	_	_	_	_	_
-4	pobo	_	NOUN	_	_	2	obl	_	_
-5	to	_	ADP	_	_	4	case	_	_
+4	pobo	_	NOUN	n	_	2	obl	_	_
+5	to	_	ADP	posp	_	4	case	_	_
 
 # sent_id = ABE-39
 # text = negekygyre erudyre pudyi poboto
 # text_eng = The children saw themselves in the water
 # text_por = as crianças se viram na água
-1	negekygyre	negedürogu	NOUN	_	_	2	nsubj	_	child;criança
-2	erudyre	jorudy	VERB	_	IF=Ass	0	root	_	see;ver
+1	negekygyre	negedürogu	NOUN	n	_	2	nsubj	_	child;criança
+2	erudyre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
 3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
 4-5	poboto	_	_	_	_	_	_	_	_
-4	pobo	_	NOUN	_	_	2	obl	_	_
-5	to	_	ADP	_	_	4	case	_	_
+4	pobo	_	NOUN	n	_	2	obl	_	_
+5	to	_	ADP	posp	_	4	case	_	_
 
 # sent_id = ABE-40
 # text = etunure bytygy tabo pu ubaikae
 # text_eng = They are slowly going to each other's house
 # text_por = eles estão indo devagar um para a casa do outro
 1	etunure	tu	VERB	v	Aspect=Prog|IF=Ass	0	root	_	go;ir
-2	bytygy	_	NOUN	_	_	1	obl	_	slowlyness;lentidão
-3	tabo	tabo	ADP	_	_	2	case	_	with;com
-4	pu	pu	PRON	_	Reflex=Yes	5	nmod	_	_
+2	bytygy	_	NOUN	n	_	1	obl	_	slowlyness;lentidão
+3	tabo	tabo	ADP	posp	_	2	case	_	with;com
+4	pu	pu	PRON	pron	Reflex=Yes	5	nmod	_	_
 5-6	ubaikae	_	_	_	_	_	_	_	_
-5	ubai	bai	NOUN	_	_	1	obl	_	house;casa
-6	kae	ae	ADP	_	_	5	case	_	to;a
+5	ubai	bai	NOUN	n	_	1	obl	_	house;casa
+6	kae	ae	ADP	posp	_	5	case	_	to;a
 
 # sent_id = ABE-42a
 # text = eimejeramode apu bito
 # text_eng = Their chief will kill the paca
 # text_por = o chefe deles vai matar a paca
-1	eimejeramode	imejera	NOUN	_	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
-2	apu	apu	NOUN	_	_	3	obj	_	paca;paca
-3	bito	bito	VERB	_	_	0	root	_	kill,matar
+1	eimejeramode	imejera	NOUN	n	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
+2	apu	apu	NOUN	n	_	3	obj	_	paca;paca
+3	bito	bito	VERB	v	_	0	root	_	kill,matar
 
 # sent_id = ABE-42b
 # text = eimejeramode apoe ebito
 # text_eng = Their chief will kill the pacas
 # text_por = o chefe deles vai matar as pacas
-1	eimejeramode	imejera	NOUN	_	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
-2	apoe	apu	NOUN	_	Number=Plur	3	obj	_	paca;paca
-3	ebito	bito	VERB	_	Number=Plur|Person=3	0	root	_	kill,matar
+1	eimejeramode	imejera	NOUN	n	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
+2	apoe	apu	NOUN	n	Number=Plur	3	obj	_	paca;paca
+3	ebito	bito	VERB	v	Number=Plur|Person=3	0	root	_	kill,matar
 
 # sent_id = ABE-48
 # text = akore taregodyie
 # text_eng = He said (that) he arrived
 # text_por = ele disse que chegou
-1	akore	ako	VERB	_	IF=Ass	0	root	_	_
-2	taregodyie	aregody	VERB	_	Anaph=Yes|Evident=Rep	1	xcomp	_	_
+1	akore	ako	VERB	v	IF=Ass	0	root	_	_
+2	taregodyie	aregody	VERB	v	Anaph=Yes|Evident=Rep	1	xcomp	_	_
 
 # sent_id = ABE-49
 # text = inakore itaregodyie
 # text_eng = He said (that) he arrived
 # text_por = ele disse que chegou
-1	inakore	ako	VERB	_	IF=Ass|Number=Sing|Person=3	0	root	_	_
-2	itaregodyie	aregody	VERB	_	Anaph=Yes|Evident=Rep|Number=Sing|Person=1	1	xcomp	_	_
+1	inakore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	_
+2	itaregodyie	aregody	VERB	v	Anaph=Yes|Evident=Rep|Number=Sing|Person=1	1	xcomp	_	_
 
 # sent_id = ABE-55
 # text = aki ako ika
 # text_eng = your canoe
 # text_por = tua canoa
-1	aki	aki	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nmod	_	you;você
-2	ako	ak	X	_	Number=Sing|Person=2|Poss=Yes	3	dep	_	_
-3	ika	ika	NOUN	_	_	0	root	_	canoe;canoa
+1	aki	aki	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	_	you;você
+2	ako	ak	X	x	Number=Sing|Person=2|Poss=Yes	3	dep	_	_
+3	ika	ika	NOUN	n	_	0	root	_	canoe;canoa
 
 # sent_id = ABE-62
 # text = kare iwogure jiwyge
 # text_eng = the fish (that) I fished
 # text_por = os peixes que eu pesquei
-1	kare	karo	NOUN	_	Number=Plur	0	root	_	fish;peixe
-2	iwogure	wogu	VERB	_	IF=Ass|Number=Sing|Person=1	1	acl	_	fish;pesca
-3	jiwyge	ji	ADP	_	Number=Plur|Rel=Yes	2	obl	_	_
+1	kare	karo	NOUN	n	Number=Plur	0	root	_	fish;peixe
+2	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	1	acl	_	fish;pesca
+3	jiwyge	ji	ADP	posp	Number=Plur|Rel=Yes	2	obl	_	_
 
 # sent_id = ABE-151
 # text = imedy utyre ibaikae tubaiga bagai
 # text_eng = The man is going home for his weapon
 # text_por = o homem está indo na minha casa para (pegar) a arma dele
-1	imedy	imedy	NOUN	_	_	2	nsubj	_	man;homem
-2	utyre	ty	VERB	_	Aspect=Prog|IF=Ass|Number=Sing|Person=3	0	root	_	go;ir
+1	imedy	imedy	NOUN	n	_	2	nsubj	_	man;homem
+2	utyre	ty	VERB	v	Aspect=Prog|IF=Ass|Number=Sing|Person=3	0	root	_	go;ir
 3-4	ibaikae	_	_	_	_	_	_	_	_
-3	ibai	bai	NOUN	_	Number=Sing|Person=1	2	obl	_	house;casa
-4	kae	ae	ADP	_	Number=Sing|Person=1	3	obl	_	house;casa
-5	tubaiga	baiga	NOUN	_	Anaph=Yes|Person=3	3	obl	_	weapon;arma
-6	bagai	bagai	ADP	_	_	5	case	_	_
+3	ibai	bai	NOUN	n	Number=Sing|Person=1	2	obl	_	house;casa
+4	kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	house;casa
+5	tubaiga	baiga	NOUN	n	Anaph=Yes|Person=3	3	obl	_	weapon;arma
+6	bagai	bagai	ADP	posp	_	5	case	_	_
 
 # sent_id = ABE-152
 # text = iiemarure negedurogu bagai
 # text_eng = I am loking for the child
 # text_por = estou procurando a criança
-1	iiemarure	jemaru	VERB	_	Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	negedurogu	negedurogu	NOUN	_	_	1	obj	_	_
-3	bagai	bagai	ADP	_	_	2	case	_	_
+1	iiemarure	jemaru	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	negedurogu	negedurogu	NOUN	n	_	1	obj	_	_
+3	bagai	bagai	ADP	posp	_	2	case	_	_
 
 # sent_id = ABE-153
 # text = epagare toro ceno dinheiro bagai
 # text_eng = the waited there for our money
 # text_por = eles esperavam lá pelo nosso dinheiro
-1	epagare	paga	VERB	_	IF=Ass	0	root	_	wait;esperar
-2	toro	toro	ADV	_	_	1	advmod	_	there;lá
-3	ceno	ce	X	_	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes	4	nmod	_	_
-4	dinheiro	dinheiro	NOUN	_	_	1	obl	_	_
-5	bagai	bagai	ADP	_	_	4	case	_	for;por
+1	epagare	paga	VERB	v	IF=Ass	0	root	_	wait;esperar
+2	toro	toro	ADV	adv	_	1	advmod	_	there;lá
+3	ceno	ce	X	x	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes	4	nmod	_	_
+4	dinheiro	dinheiro	NOUN	n	_	1	obl	_	_
+5	bagai	bagai	ADP	posp	_	4	case	_	for;por
 
 # sent_id = ABE-214
 # text = ime emode aroia kabi
 # text_eng = The man will wash clothes
 # text_por = os homens vão lavar as roupas
-1	ime	imedu	NOUN	_	Number=Plur	4	nsubj	_	man;homem
-2	emode	modyre	X	_	IF=Ass|Number=Plur|Person=3|Tense=Fut	4	dep	_	_
-3	aroia	aroia	NOUN	_	_	4	obj	_	clothe;roupa
-4	kabi	kabi	VERB	_	_	0	root	_	wash;lavar
+1	ime	imedu	NOUN	n	Number=Plur	4	nsubj	_	man;homem
+2	emode	modyre	X	x	IF=Ass|Number=Plur|Person=3|Tense=Fut	4	dep	_	_
+3	aroia	aroia	NOUN	n	_	4	obj	_	clothe;roupa
+4	kabi	kabi	VERB	v	_	0	root	_	wash;lavar
 
 # sent_id = ABE-215
 # text = ime emodykare aroia kabi
 # text_eng = The man will wash clothes
 # text_por = os homens vão lavar as roupas
-1	ime	imedu	NOUN	_	Number=Plur	4	nsubj	_	_
-2	emodykare	modyre	X	_	IF=Ass|Number=Plur|Person=3|Polarity=Neg	4	dep	_	_
-3	aroia	aroia	NOUN	_	_	4	obj	_	_
-4	kabi	kabi	VERB	_	_	0	root	_	_
+1	ime	imedu	NOUN	n	Number=Plur	4	nsubj	_	_
+2	emodykare	modyre	X	x	IF=Ass|Number=Plur|Person=3|Polarity=Neg	4	dep	_	_
+3	aroia	aroia	NOUN	n	_	4	obj	_	_
+4	kabi	kabi	VERB	v	_	0	root	_	_
 
 # sent_id = ABE-216
 # text = boe ewogyre
 # text_eng = The Boror fished
 # text_por = os bororo pescaram
-1	boe	boe	NOUN	_	_	2	nsubj	_	people,boror;povo,gente,bororo
-2	ewogyre	wogy	VERB	_	IF=Ass|Number=Plur|Person=3	0	root	_	fish;pescar
+1	boe	boe	NOUN	n	_	2	nsubj	_	people,boror;povo,gente,bororo
+2	ewogyre	wogy	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	fish;pescar
 
 # sent_id = ABE-217
 # text = arydyre boe ewogyre dyji ?
 # text_eng = Did you see that the Boror fished?
 # text_por = você viu que os bororo pescaram?
-1	arydyre	_	VERB	_	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
-2	boe	boe	NOUN	_	_	3	nsubj	_	_
-3	ewogyre	wogy	VERB	_	IF=Ass|Number=Plur|Person=3	1	ccomp	_	fish;pescar
-4	dyji	_	X	_	_	3	mark	_	_
-5	?	_	PUNCT	_	_	1	punct	_	_
+1	arydyre	_	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	ewogyre	wogy	VERB	v	IF=Ass|Number=Plur|Person=3	1	ccomp	_	fish;pescar
+4	dyji	_	X	x	_	3	mark	_	_
+5	?	_	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
 # text_por = Você é pobre
-1	marenarore	_	NOUN	_	IF=Ass	0	root	_	poor;pobre
-2	aki	aki	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	rema	rema	X	_	Pred=AtrEq	1	dep	_	_
+1	marenarore	_	NOUN	n	IF=Ass	0	root	_	poor;pobre
+2	aki	aki	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	rema	rema	X	x	Pred=AtrEq	1	dep	_	_
 
 # sent_id = ABE-343
 # text = umode taredö
 # text_eng = You are poor
 # text_por = Você é pobre
-1	umode	_	X	_	IF=Ass|Number=Sing|Person=3|Tense=Fut	2	dep	_	_
-2	taredö	are	VERB	_	Anaph=Yes|Voice=Cau	0	root	_	jump;pular
+1	umode	_	X	x	IF=Ass|Number=Sing|Person=3|Tense=Fut	2	dep	_	_
+2	taredö	are	VERB	v	Anaph=Yes|Voice=Cau	0	root	_	jump;pular
 
 # sent_id = ABE-355
 # text = imi ire jao bai to
 # text_eng = I have already built a house
 # text_por = Eu já construí uma casa
-1	imi	imi	PRON	_	Number[subj]=Sing|Person[subj]=1|PronType=Prs	5	nsubj	_	I;eu
-2	ire	i	X	_	IF=Ass|Number=Sing|Person=1	5	dep	_	_
-3	jao	jao	ADV	_	_	5	advmod	_	_
+1	imi	imi	PRON	pron	Number[subj]=Sing|Person[subj]=1|PronType=Prs	5	nsubj	_	I;eu
+2	ire	i	X	x	IF=Ass|Number=Sing|Person=1	5	dep	_	_
+3	jao	jao	ADV	adv	_	5	advmod	_	_
 4	bai	bai	NOUN	n	_	5	obj	_	house;casa
 5	to	to	VERB	v	_	0	root	_	make,do;fazer
 
@@ -303,15 +303,15 @@
 # text = arigaodoge ebire
 # text_eng = the dogs died
 # text_por = os cachorros morreram
-1	arigaodoge	arigao	NOUN	_	Number=Plur	2	nsubj	_	dog;cachorro
+1	arigaodoge	arigao	NOUN	n	Number=Plur	2	nsubj	_	dog;cachorro
 2	ebire	bi	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	die;morrer
 
 # sent_id = ABE-366
 # text = imedu ure boeto ii
 # text_eng = The man hit me
 # text_por = O homem me bateu
-1	imedu	imedu	NOUN	_	_	3	nsubj	_	man;homem
-2	ure	_	X	_	IF=Ass	3	dep	_	_
-3	boeto	boeto	VERB	_	_	0	root	_	hit;bater
-4	ii	ji	ADP	_	Number=Sing|Person=1	3	obl	_	_
+1	imedu	imedu	NOUN	n	_	3	nsubj	_	man;homem
+2	ure	_	X	x	IF=Ass	3	dep	_	_
+3	boeto	boeto	VERB	v	_	0	root	_	hit;bater
+4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
 
