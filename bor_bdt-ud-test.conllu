@@ -272,7 +272,7 @@
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	ewogyre	wogy	VERB	v	IF=Ass|Number=Plur|Person=3	1	ccomp	_	fish;pescar
 4	dyji	_	X	x	_	3	mark	_	_
-5	?	_	PUNCT	punct	_	1	punct	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = ABE-218
 # text = mearudaere tumotyie
@@ -321,7 +321,7 @@
 1	patuwo	tu	VERB	_	Clusivity=In|Mood=Des|Number=Plur|Person=1	0	root	_	ir;go
 2-3	pabaikae	_	_	_	_	_	_	_	_
 2	pabai	bai	NOUN	_	Clusivity=In|Number=Plur|Person=1	1	obl	_	house;casa
-3	kae	kae	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	to;para
+3	kae	ae	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	to;para
 
 # sent_id = ABE-224
 # text = tarydyre iwogyi pobu bagaidyji
@@ -331,7 +331,7 @@
 2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	ccomp	_	fish;pescar
 3	pobu	_	NOUN	n	_	2	obj	_	pacu;pacu
 4-5	bagaidyji	_	_	_	_	_	_	_	_
-4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=3	3	case	_	_
+4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=3|Subord=Yes|	3	case	_	_
 5	ji	ji	ADP	posp	_	1	obl	_	_
 
 # sent_id = ABE-226
@@ -339,8 +339,30 @@
 # text_eng = You saw me not fishing
 # text_por = eles viram eu não pescar
 1	erydyre	jörydy	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	see;ver
-2	iwogukaidy	wogu	VERB	v	Number=Sing|Person=1|Polarity=Neg|VerbForm=Inf	1	ccomp	_	fish;pescar
+2	iwogukaidy	wogu	VERB	v	Number=Sing|Person=1|Polarity=Neg|Subord=Yes|VerbForm=Inf	1	ccomp	_	fish;pescar
 3	ji	ji	ADP	posp	_	1	obl	_	_
+
+# sent_id = ABE-227
+# text = iorüdyiwamode boe ebataruji
+# text_eng = I will know the language of the Bororo
+# text_por = eu saberei (falar) a língua bororo
+1	iorüdyiwamode	jorüdüiwa	VERB	v	IF=Ass|Number=Sing|Person=1|Tense=Fut	0	root	_	know;saber
+2	boe	boe	NOUN	n	_	3	nmod	_	_
+3-4	ebataruji	_	_	_	_	_	_	_	_
+3	ebataru	bataru	NOUN	n	Number=Plur|Person=3	1	obl	_	language;língua
+4	ji	ji	NOUN	n	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-228
+# text = Dario ure iorydyiwamodedydö boe ebataru ji
+# text_eng = Dario will teach the language of the Bororo
+# text_por = Dario vai ensinar a língua bororo
+1	Dario	Dario	PROPN	propn	_	3	nsubj	_	_
+2	ure	_	X	_	IF=Ass	3	dep	_	_
+3	iorydyiwamodedydö	_	VERB	_	Number=Sing|Person=3|Subord=Yes|Tense=Fut|Voice=Cau	0	root	_	_
+4	boe	boe	NOUN	n	_	5	nmod	_	_
+5-6	ebataruji	_	_	_	_	_	_	_	_
+5	ebataru	bataru	NOUN	n	Number=Plur|Person=3	3	obl	_	language;língua
+6	ji	ji	NOUN	n	Number=Sing|Person=3	5	case	_	_
 
 # sent_id = ABE-316
 # text = marenarore aki rema
