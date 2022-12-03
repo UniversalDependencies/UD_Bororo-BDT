@@ -2,7 +2,7 @@
 # text = imi iörydyre boetygyji
 # text_eng = I saw the cloud (myself)
 # text_por = eu (mesmo) vi a nuvem
-1	imi	_	NOUN	n	_	2	nsubj	_	I;eu
+1	imi	_	PRON	pro	_	2	nsubj	_	I;eu
 2	iörydyre	jörydy	VERB	IF=Ass	_	0	root	_	see;ver
 3-4	boetygyji	_	_	_	_	_	_	_	_
 3	boetygy	boetygy	NOUN	n	_	2	iobj	_	cloud;nuvem
