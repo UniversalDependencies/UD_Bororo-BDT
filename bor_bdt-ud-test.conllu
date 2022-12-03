@@ -303,6 +303,17 @@
 1	itaidyre	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	want;querer
 2	ikiguruduwo	kigurudu	VERB	v	Mood=Des|Number=Sing|Person=1	1	ccomp	_	urinate;urinar
 
+# sent_id = ABE-222
+# text = boere tugu mototo botuwo
+# text_eng = The Boror plant to grow/blosson
+# text_por = os bororo plantam (lit. 'enfiam na terra') para nascer
+1	boere	boe	NOUN	n	IF=Ass	2	nsubj	_	_
+2	tugu	tugu	VERB	v	Number=Sing|Person=3	0	root	_	earth;terra
+3-4	mototo	_	_	_	_	_	_	_	_
+3	moto	moto	NOUN	n	_	2	obl	_	put.in;enfiar
+4	to	to	ADP	posp	_	3	case	_	put.in;enfiar
+5	botuwo	botu	VERB	v	Mood=Des|Number=Sing|Person=3	2	xcomp	_	be.born;nascer
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
