@@ -314,6 +314,15 @@
 4	to	to	ADP	posp	_	3	case	_	put.in;enfiar
 5	botuwo	botu	VERB	v	Mood=Des|Number=Sing|Person=3	2	xcomp	_	be.born;nascer
 
+# sent_id = ABE-223
+# text = patuwo pabaikae
+# text_eng = Let's walk to our home
+# text_por = andemos para nossa casa
+1	patuwo	tu	VERB	_	Clusivity=In|Mood=Des|Number=Plur|Person=1	0	root	_	ir;go
+2-3	pabaikae	_	_	_	_	_	_	_	_
+2	pabai	bai	NOUN	_	Clusivity=In|Number=Plur|Person=1	1	obl	_	house;casa
+3	kae	kae	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	to;para
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
