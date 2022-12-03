@@ -281,6 +281,28 @@
 1	mearudaere	mearudae	VERB	_	IF=Ass	0	root	_	think;pensar
 2	tumotyie	mody	VERB	_	Evident=Rep	1	ccomp	_	be.beautiful;ser.bonito
 
+# sent_id = ABE-219
+# text = inakore imeruie
+# text_eng = I said (that) I hunted
+# text_por = eu disse que cacei
+1	inakore	ako	VERB	_	IF=Ass|Number=Sing|Person=1	0	root	_	say;dizer
+2	imeruie	meru	VERB	_	Evident=Rep|Number=Sing|Person=1	1	ccomp	_	hunt;caçar
+
+# sent_id = ABE-220
+# text = inakore imeruie
+# text_eng = I killed the dog (they say)
+# text_por = (eles pensam que) eu matei o cachorro
+1	iie	_	X	_	Evident=Rep|Number=Sing|Person=1	3	nsubj	_	_
+2	arigao	_	NOUN	_	_	3	obj	_	dog;cachorro
+3	bito	_	VERB	_	Number=Sing|Person=3	0	root	_	kill;matar
+
+# sent_id = ABE-221
+# text = itaidyre ikiguruduwo
+# text_eng = I want to urinate
+# text_por = eu quero urinar
+1	itaidyre	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	want;querer
+2	ikiguruduwo	kigurudu	VERB	v	Mood=Des|Number=Sing|Person=1	1	ccomp	_	urinate;urinar
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
