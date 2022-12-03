@@ -257,6 +257,23 @@
 3	aroia	aroia	NOUN	_	_	4	obj	_	_
 4	kabi	kabi	VERB	_	_	0	root	_	_
 
+# sent_id = ABE-216
+# text = boe ewogyre
+# text_eng = The Boror fished
+# text_por = os bororo pescaram
+1	boe	boe	NOUN	_	_	2	nsubj	_	people,boror;povo,gente,bororo
+2	ewogyre	wogy	VERB	_	IF=Ass|Number=Plur|Person=3	0	root	_	fish;pescar
+
+# sent_id = ABE-217
+# text = arydyre boe ewogyre dyji ?
+# text_eng = Did you see that the Boror fished?
+# text_por = você viu que os bororo pescaram?
+1	arydyre	_	VERB	_	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
+2	boe	boe	NOUN	_	_	3	nsubj	_	_
+3	ewogyre	wogy	VERB	_	IF=Ass|Number=Plur|Person=3	1	ccomp	_	fish;pescar
+4	dyji	_	X	_	_	3	mark	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
