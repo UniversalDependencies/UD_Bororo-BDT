@@ -334,6 +334,14 @@
 4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	ji	ji	ADP	posp	_	1	obl	_	_
 
+# sent_id = ABE-225
+# text = erydyre iwogukaidy ji
+# text_eng = You saw me not fishing
+# text_por = eles viram eu não pescar
+1	erydyre	jörydy	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	see;ver
+2	iwogukaidy	wogu	VERB	v	Number=Sing|Person=1|Polarity=Neg|VerbForm=Inf	1	cc	_	fish;pescar
+3	ji	ji	ADP	posp	_	1	obl	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
