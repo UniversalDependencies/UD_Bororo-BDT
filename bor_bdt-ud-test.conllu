@@ -324,8 +324,8 @@
 3	kae	kae	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	to;para
 
 # sent_id = ABE-224
-# text = tarydyre pabaikae
-# text_eng = You iwogyi pobu bagaidyji
+# text = iwogyi pobu bagaidyji
+# text_eng = You saw me fishing
 # text_por = você me viu pescar
 1	tarydyre	jorydy	VERB	_	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
 2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	ccomp	_	fish;pescar
