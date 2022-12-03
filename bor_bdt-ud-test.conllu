@@ -323,6 +323,17 @@
 2	pabai	bai	NOUN	_	Clusivity=In|Number=Plur|Person=1	1	obl	_	house;casa
 3	kae	kae	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	to;para
 
+# sent_id = ABE-224
+# text = tarydyre pabaikae
+# text_eng = You iwogyi pobu bagaidyji
+# text_por = você me viu pescar
+1	tarydyre	jorydy	VERB	_	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
+2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	ccomp	_	fish;pescar
+3	pobu	_	NOUN	n	_	2	obj	_	pacu;pacu
+4-5	bagaidyji	_	_	_	_	_	_	_	_
+4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=Plur	3	case	_	_
+5	ji	ji	ADP	posp	_	1	obl	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
