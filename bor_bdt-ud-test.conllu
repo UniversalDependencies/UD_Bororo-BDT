@@ -383,7 +383,7 @@
 4	kado	kado	VERB	v	_	0	root	_	cut;cortar
 
 # sent_id = ABE-235
-# text = imode iwaidogedö
+# text = imode ibaidogedö
 # text_eng = I'll make my houses (I'll cause my houses (to exist))
 # text_por = eu vou fazer as minhas casas
 1	imode	i	PRON	bi	IF=Ass|Tense=Fut	2	nsubj	_	I;eu
