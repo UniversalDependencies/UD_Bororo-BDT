@@ -416,7 +416,7 @@
 # text = emage ere karo ko
 # text_eng = they are eating (the) fish
 # text_por = eles(as) estão comendo o peixe
-1	emage	ema	PRON	pron	Number=Plur|=Person=3|PronType=Prs	4	nsubj	_	_
+1	emage	ema	PRON	pron	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 2	ere	e	PRON	bi	IF=Ass|Number=Plur|=Person=3	1	dep	_	_
 3	karo	karo	NOUN	_	_	4	obj	_	_
 4	ko	ko(wuje)	VERB	v	_	0	root	_	eat;comer
