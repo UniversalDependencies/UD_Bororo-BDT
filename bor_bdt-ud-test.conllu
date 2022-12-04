@@ -403,6 +403,24 @@
 # text_por = eu não vou mais
 1	itykadyre	ty	VERB	v	Aspect=Prog|IF=Ass|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	0	root	_	go;ir
 
+# sent_id = ABE-241
+# text = imakore baperato
+# text_eng = I am talking to the paper (I am reading)
+# text_por = estou falando com o papel (estou lendo)
+1	imakore	mako	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
+2-3	baperato	_	_	_	_	_	_	_	_
+2	bapera	bapera	NOUN	n	_	1	obl	_	paper;papel
+3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	to,with;para,com
+
+# sent_id = ABE-242
+# text = emage ere karo ko
+# text_eng = they are eating (the) fish
+# text_por = eles(as) estão comendo o peixe
+1	emage	ema	PRON	pron	Number=Plur|=Person=3|PronType=Prs	4	nsubj	_	_
+2	ere	e	PRON	bi	IF=Ass|Number=Plur|=Person=3	1	dep	_	_
+3	karo	karo	NOUN	_	_	4	obj	_	_
+4	ko	ko(wuje)	VERB	v	_	0	root	_	eat;comer
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
