@@ -455,6 +455,31 @@
 2	adugo	adugo	NOUN	n	_	3	obj	_	jaguar;onça
 3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
+# sent_id = ABE-246
+# text = takigodyre meriri aiwodö iagi
+# text_eng = You cause the metal to see in my mouth (you photograph inside my mouth)
+# text_por = vocês sempre fazem o metal ver dentro da minha boca (vocês sempre fotografam dentro da minha boca)
+1	takigodyre	ta	PRON	bi	Aspect=Hab|IF=Ass	3	nsubj	_	_
+2	meriri	meriri	NOUN	n	_	3	obl	_	metal;metal
+3	aiwodö	aiwo	VERB	v	Voice=Cau	0	root	_	see;ver
+4-5	iagi	_	_	_	_	_	_	_	_
+4	ia	ia	NOUN	n	_	3	obl	_	mouth;boca
+5	gi	_	ADP	posp	_	4	case	_	_
+
+# sent-id = ABE-247
+# text = iwogukidogüre
+# text_eng = I always fished
+# text_por = eu sempre pescava
+1	iwogukidogüre	wogu	VERB	v	Aspect=Hab|IF=Ass|Number=Sing|Person=1	0	root	_	fish;pescar
+
+# sent-id = ABE-248
+# text = iadukeje pobu kurire
+# text_eng = Perhaps it is a big pacu
+# text_por = talvez o pacu seja grand
+1	iadukeje	_	ADV	_	_	3	advcl	_	perhaps;talvez
+2	pobu	_	NOUN	_	_	3	nsubj	_	pacu;pacu
+3	kurire	kuri	ADJ	_	IF=Ass|Number=Sing|Person=3	0	root	_	be.big;ser.grande
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
