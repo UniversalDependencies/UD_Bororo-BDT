@@ -387,7 +387,7 @@
 # text_eng = I'll make my houses (I'll cause my houses (to exist))
 # text_por = eu vou fazer as minhas casas
 1	imode	i	PRON	bi	IF=Ass|Tense=Fut	2	nsubj	_	I;eu
-2	ibaidogedö	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1|Voice=Cau	0	root	house;casa	_
+2	ibaidogedö	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1|Voice=Cau	0	root	_	house;casa
 
 # sent_id = ABE-236
 # text = imode ibaidoge etowuje
