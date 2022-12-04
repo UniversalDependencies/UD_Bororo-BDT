@@ -480,13 +480,13 @@
 2	pobu	_	NOUN	_	_	3	nsubj	_	pacu;pacu
 3	kurire	kuri	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	be.big;ser.grande
 
-# sent_id = ABE-249 
+# sent_id = ABE-249
 # text = imearudaere pobu kurimodyie
 # text_eng = You are poor
 # text_por = eu acho que o pacu vai ser grande
-1	imearudaere	mearudae	VERB	v	IF=Ass|Number=sing|Person=1	0	root	_	_
+1	imearudaere	mearudae	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
 2	pobu	pobu	NOUN	n	_	3	nsubj	_	pacu;pacu
-3	kurimodyie	kuri	VERB	v	Evident=Rep|Tense=Fut	1	cc	_	be.big;ser.grande
+3	kurimodyie	kuri	VERB	v	Evident=Rep|Tense=Fut	1	ccomp	_	be.big;ser.grande
 
 # sent_id = ABE-316
 # text = marenarore aki rema
