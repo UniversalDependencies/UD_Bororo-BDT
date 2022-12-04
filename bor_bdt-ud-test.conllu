@@ -478,7 +478,7 @@
 # text_por = talvez o pacu seja grand
 1	iadukeje	_	ADV	_	_	3	advcl	_	perhaps;talvez
 2	pobu	_	NOUN	_	_	3	nsubj	_	pacu;pacu
-3	kurire	kuri	ADJ	_	IF=Ass|Number=Sing|Person=3	0	root	_	be.big;ser.grande
+3	kurire	kuri	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	be.big;ser.grande
 
 # sent_id = ABE-316
 # text = marenarore aki rema
