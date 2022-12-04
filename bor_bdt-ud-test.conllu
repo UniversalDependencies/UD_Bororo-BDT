@@ -439,6 +439,14 @@
 3	karo	karo	NOUN	_	_	4	obj	_	_
 4	ko	ko(wuje)	VERB	v	_	0	root	_	eat;comer
 
+# sent_id = ABE-244
+# text = ikadykigodykare karo ko
+# text_eng = I don't even eat fish
+# text_por = eu nem sempre como peixe
+1	ikadykigodykare	_	X	_	Aspect=Hab|IF=Ass|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	3	xcomp	_	_
+2	karo	karo	NOUN	n	_	3	nsubj	_	fish;peixe
+3	ko	ko	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
