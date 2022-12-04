@@ -420,6 +420,17 @@
 3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	to,with;para,com
 
 # sent_id = ABE-242
+# text = are akeragu karoji ?
+# text_eng = Are you catching fish?
+# text_por = você está pegando o peixe?
+1	are	_	PRON	bi	IF=Ass|Number=Sing|Person=2	2	nsubj	_	_
+2	akeragu	kera	NOUN	_	Number=Sing|Person=2|Voice=Cau	0	root	_	hand;mão
+3-4	karoji	_	_	_	_	_	_	_	_
+3	karo	karo	NOUN	n	_	2	obl	_	fish;peixe
+4	ji	karo	NOUN	n	_	3	case	_	fish;peixe
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = ABE-243
 # text = emage ere karo ko
 # text_eng = they are eating (the) fish
 # text_por = eles(as) estão comendo o peixe
