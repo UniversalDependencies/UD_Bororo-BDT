@@ -382,6 +382,13 @@
 3	i	i	NOUN	_	_	4	obj	_	tree;árvore
 4	kado	kado	VERB	v	_	0	root	_	cut;cortar
 
+# sent_id = ABE-235
+# text = imode iwaidogedö
+# text_eng = I'll make my houses (I'll cause my houses (to exist))
+# text_por = eu vou fazer as minhas casas
+1	imode	i	PRON	bi	IF=Ass|Tense=Fut	2	nsubj	_	I;eu
+2	ibaidogedö	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1|Voice=Cau	0	root	house;casa	_
+
 # sent_id = ABE-236
 # text = imode ibaidoge etowuje
 # text_eng = I will make my houses
