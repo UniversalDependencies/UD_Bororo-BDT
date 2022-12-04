@@ -342,7 +342,7 @@
 2	iwogukaidy	wogu	VERB	v	Number=Sing|Person=1|Polarity=Neg|Subord=Yes|VerbForm=Inf	1	ccomp	_	fish;pescar
 3	ji	ji	ADP	posp	_	1	obl	_	_
 
-# sent_id = ABE-227
+# sent_id = ABE-229
 # text = iorüdyiwamode boe ebataruji
 # text_eng = I will know the language of the Bororo
 # text_por = eu saberei (falar) a língua bororo
@@ -352,7 +352,7 @@
 3	ebataru	bataru	NOUN	n	Number=Plur|Person=3	1	obl	_	language;língua
 4	ji	ji	NOUN	n	Number=Sing|Person=3	3	case	_	_
 
-# sent_id = ABE-228
+# sent_id = ABE-230
 # text = Dario ure iorydyiwamodedydö boe ebataruji
 # text_eng = Dario will teach the language of the Bororo
 # text_por = Dario vai ensinar a língua bororo
@@ -363,6 +363,32 @@
 5-6	ebataruji	_	_	_	_	_	_	_	_
 5	ebataru	bataru	NOUN	n	Number=Plur|Person=3	3	obl	_	language;língua
 6	ji	ji	NOUN	n	Number=Sing|Person=3	5	case	_	_
+
+# sent_id = ABE-231
+# text = ikare awy i kado
+# text_eng = I do not cut this tree
+# text_por = eu não corto essa árvore
+1	ikare	i	X	_	IF=Ass|Number=Sing|Person=1|Polarity=Neg	4	nsubj	_	_
+2	awy	awy	DET	_	_	3	det	_	this;este,esta
+3	i	i	NOUN	_	_	4	obj	_	tree;árvore
+4	kado	kado	VERB	_	Number=Sing|Person=3	0	root	_	cut;cortar
+
+# sent_id = ABE-233
+# text = ire awy i kado
+# text_eng = I cut this tree
+# text_por = eu corto essa árvore
+1	ire	i	PRON	bi	_	4	nsubj	_	you;você
+2	awy	awy	DET	dem	_	3	det	_	this;este,esta
+3	i	i	NOUN	_	_	4	obj	_	tree;árvore
+4	kado	kado	VERB	v	_	0	root	_	cut;cortar
+
+# sent_id = ABE-236
+# text = imode ibaidoge etowuje
+# text_eng = I will make my houses
+# text_por = eu vou fazer as minhas casas
+1	imode	i	PRON	bi	IF=ASS|Number=Sing|Person=1	3	nsubj	_	I,me;eu,me,mim
+2	ibaidoge	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1	3	obj	_	house;casa
+3	etowuje	towuje	VERB	v	Number[obj]=Sing|Person[obj]=1	0	root	_	_
 
 # sent_id = ABE-316
 # text = marenarore aki rema
