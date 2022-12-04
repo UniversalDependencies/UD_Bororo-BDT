@@ -447,6 +447,14 @@
 2	karo	karo	NOUN	n	_	3	nsubj	_	fish;peixe
 3	ko	ko	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
+# sent_id = ABE-245
+# text = cekigodyre adugo kowuje
+# text_eng = We used to eat jaguar
+# text_por = nós sempre comíamos onça
+1	cekigodyre	ce	PRON	bi	Aspect=Hab|Clusivity=In|IF=Ass|Number=Plur|Person=Plur	_	_	_	we,us;nós,nos
+2	adugo	adugo	NOUN	n	_	_	_	_	jaguar;onça
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	_	_	_	eat;comer
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
