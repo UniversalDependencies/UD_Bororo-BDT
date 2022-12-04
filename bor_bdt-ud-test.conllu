@@ -443,7 +443,7 @@
 # text = ikadykigodykare karo ko
 # text_eng = I don't even eat fish
 # text_por = eu nem sempre como peixe
-1	ikadykigodykare	_	X	_	Aspect=Hab|IF=Ass|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	3	xcomp	_	_
+1	ikadykigodykare	i	PRON	bi	Aspect=Hab|IF=Ass|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	3	xcomp	_	_
 2	karo	karo	NOUN	n	_	3	nsubj	_	fish;peixe
 3	ko	ko	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
