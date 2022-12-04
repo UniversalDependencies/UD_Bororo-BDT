@@ -390,6 +390,19 @@
 2	ibaidoge	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1	3	obj	_	house;casa
 3	etowuje	towuje	VERB	v	Number[obj]=Sing|Person[obj]=1	0	root	_	_
 
+# sent_id = ABE-239
+# text = awogudö !
+# text_eng = (Go) fish!
+# text_por = vá pescar!
+1	awogudö	wogu	VERB	v	Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	fish;pescar
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = ABE-240
+# text = itykadyre
+# text_eng = I am not going anymore
+# text_por = eu não vou mais
+1	itykadyre	ty	VERB	v	Aspect=Prog|IF=Ass|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	0	root	_	go;ir
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
