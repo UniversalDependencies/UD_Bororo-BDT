@@ -502,7 +502,7 @@
 # text_eng = I do not fish much pacu
 # text_por = Eu não pesco muito pacu' (lit. 'para (ter) pacu não é muito o meu pescar')
 1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
-2	iwogure	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	_	_	fish;pescar
+2	iwogure	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	fish;pescar
 3	kurikare	kuri	ADV	adv	IF=Ass|Polarity=Neg	2	advmod	_	much;muito
 4	pobu	pobu	NOUN	n	_	2	obl	_	pacu;pacu
 5	bagai	bagai	ADP	posp	_	4	case	_	to,for,for.the.purpose.of;para,por
