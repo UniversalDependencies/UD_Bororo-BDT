@@ -500,7 +500,7 @@
 # sent_id = ABE-251
 # text = imi iwogure kurikare pobu bagai
 # text_eng = I do not fish much pacu
-# text_por = Eu não pesco muito pacu' (lit. 'para (ter) pacu não é muito o meu pescar')
+# text_por = Eu não pesco muito pacu (lit. para (ter) pacu não é muito o meu pescar)
 1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
 2	iwogure	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	fish;pescar
 3	kurikare	kuri	ADV	adv	IF=Ass|Polarity=Neg	2	advmod	_	much;muito
@@ -515,6 +515,25 @@
 2	ju	ju	NOUN	n	_	3	nmod	_	manioc;mandioca
 3	kudu	kudu	NOUN	n	_	4	obj	_	powder;pó
 4	kowuje	kowuje	VERB	v	_	0	root	_	eat;comer
+
+# sent_id = ABE-255
+# text = ju kudu kowujedy kurire
+# text_eng = Manioc flouer is eaten a lot (the eating of manioc flouer is a lot)
+# text_por = farinha de mandioca é muito comida
+1	ju	_	NOUN	n	_	2	nmod	_	_
+2	kudu	_	NOUN	n	_	3	nmod	_	_
+3	kowujedy	_	NOUN	n	Nomzr=Yes	4	nsubj	_	_
+4	kurire	kurire	VERB	v	IF=Ass	0	root	_	_
+
+# sent_id = ABE-256
+# text = ere ju kudu kowujedy kuridö
+# text_eng = Manioc flouer is eaten a lot (the eating of manioc flouer is a lot)
+# text_por = eles comem muito farinha de mandioca (lit. é causada por eles muita ingestão de mandioca)
+1	ere	e	PRON	bi	IF=Ass|Number=Plur|Person=3	5	nsubj	_	_
+2	ju	ju	NOUN	n	_	3	nmod	_	manioc;mandioca
+3	kudu	kudu	NOUN	n	_	4	nmod	_	powder,flour;pó,farinha
+4	kowujedy	kowuje	NOUN	n	Nomzr=Yes	5	obj	_	eat;comer
+5	kuridö	kuri	VERB	v	Voice=Cau	0	root	_	much;muito
 
 # sent_id = ABE-316
 # text = marenarore aki rema
