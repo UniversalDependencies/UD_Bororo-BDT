@@ -169,7 +169,7 @@
 # text_por = o chefe deles vai matar a paca
 1	eimejeramode	imejera	NOUN	n	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
 2	apu	apu	NOUN	n	_	3	obj	_	paca;paca
-3	bito	bito	VERB	v	_	0	root	_	kill,matar
+3	bito	to	VERB	v	_	0	root	_	kill,matar
 
 # sent_id = ABE-42b
 # text = eimejeramode apoe ebito
@@ -487,6 +487,34 @@
 1	imearudaere	mearudae	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
 2	pobu	pobu	NOUN	n	_	3	nsubj	_	pacu;pacu
 3	kurimodyie	kuri	VERB	v	Evident=Rep|Tense=Fut	1	ccomp	_	be.big;ser.grande
+
+# sent_id = ABE-250
+# text = imi iwogure pobu bagai
+# text_eng = I fish pacu (for pacu)
+# text_por = eu pesco pacu' (lit. 'para (ter) pacu')
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
+3	pobu	pogu	NOUN	n	_	2	obl	_	_
+4	bagai	bagai	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-251
+# text = imi iwogure kurikare pobu bagai
+# text_eng = I do not fish much pacu
+# text_por = Eu não pesco muito pacu' (lit. 'para (ter) pacu não é muito o meu pescar')
+1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
+2	iwogure	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	_	_	fish;pescar
+3	kurikare	kuri	ADV	adv	IF=Ass|Polarity=Neg	2	advmod	_	much;muito
+4	pobu	pobu	NOUN	n	_	2	obl	_	pacu;pacu
+5	bagai	bagai	ADP	posp	_	4	case	_	to,for,for.the.purpose.of;para,por
+
+# sent_id = ABE-253
+# text = ere ju kudu kowuje
+# text_eng = They eat manioc flower
+# text_por = eles comem farinha de mandioca
+1	ere	e	PRON	bi	IF=Ass|Number=Sing|Person=3	4	nsubj	_	_
+2	ju	ju	NOUN	n	_	3	nmod	_	manioc;mandioca
+3	kudu	kudu	NOUN	n	_	4	obj	_	powder;pó
+4	kowuje	kowuje	VERB	v	_	0	root	_	eat;comer
 
 # sent_id = ABE-316
 # text = marenarore aki rema
