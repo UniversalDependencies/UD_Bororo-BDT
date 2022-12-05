@@ -535,6 +535,22 @@
 4	kowujedy	kowuje	NOUN	n	Nomzr=Yes	5	obj	_	eat;comer
 5	kuridö	kuri	VERB	v	Voice=Cau	0	root	_	much;muito
 
+# sent_id = ABE-258
+# text = joruduiwabokware
+# text_eng = He is stupid
+# text_por = ele é estúpido
+1	joruduiwabokware	joruduiwa	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg	0	root	_	know;saber
+
+# sent_id = ABE-259
+# text = baraedy ukare kuiada a rawuje
+# text_eng = He is stupid
+# text_por = The non-indian does not ripe maize
+1	baraedy	baraedy	NOUN	n	_	5	nsubj	_	non.Indian;não.índio
+2	ukare	u	PRON	bi	IF=Ass|Number=Sing|Person=3|Polarity=Neg	5	dep	_	_
+3	kuiada	kuiada	NOUN	n	_	4	nmod	_	maize;milho
+4	a	a	NOUN	n	_	5	obj	_	seed;semente
+5	rawuje	rawuje	VERB	v	_	0	root	_	ripe;colher
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
