@@ -644,6 +644,43 @@
 2	ubai	bai	NOUN	n	_	3	nsubj	_	_
 3	köwydyre	köwy	NOUN	n	IF=Ass|Nomzr=Yes	0	root	_	_
 
+# sent_id = ABE-272
+# text = iogudyba imedyba ure köwyje ?
+# text_eng = Which man ate?
+# text_por = que homem comeu?
+1	iogudyba	iogudy	PRON	_	PronType=Int	2	nmod	_	who;quem
+2	imedyba	imedy	NOUN	_	PronType=Int	4	nsubj	_	man;homem
+3	ure	_	PRON	_	IF=Ass|Number=Sing|Person=3	4	dep	_	_
+4	köwyje	köwyje	VERB	_	Number=Sing|Person=3	0	root	_	eat;comer
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ABE-273
+# text = awy imedy ure kowuje
+# text_eng = That man ate
+# text_por = aquele homem comeu
+1	awy	awy	DET	dem	_	2	det	_	that;aquele
+2	imedy	imedy	NOUN	n	_	4	nsubj	_	man;homem
+3	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	dep	_	_
+4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+
+# sent_id = ABE-274
+# text = kaboba karoba ure kowuje ?
+# text_eng = Which fish did he eat?
+# text_por = que peixe ele(a) comeu?
+1	kaboba	kabo	PRON	pron	PronType=Int	2	nmod	_	what;o.que
+2	karoba	karo	NOUN	n	_	4	obj	_	fish;peixe
+3	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	nsubj	_	_
+4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = ABE-275
+# text = ure aiwo kowuje
+# text_eng = He ate the X fish
+# text_por = ele comeu o peixe cascudo
+1	ure	u	NOUN	n	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+2	aiwo	aiwo	NOUN	n	_	3	obj	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
