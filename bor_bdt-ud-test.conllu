@@ -598,6 +598,17 @@
 4	tygu	tygu	VERB	v	Aspect=Iter	3	dep	_	_
 5	woe	woe	ADV	adv	_	3	advmod	_	here;aqui
 
+# sent_id = ABE-267
+# text = kaboba amode maku Enawureudo ai?
+# text_eng = What will you give Enawureudo?
+# text_por = o que você vai dar ao Enawureudo? 
+1	kaboba	kabo	PRON	pron	PronType=Int	3	obj	_	what;o.que
+2	amode	_	X	_	IF=Ass|Number=Sing|Person=2|Tense=Fut	3	nsubj	_	_
+3	maku	maku	VERB	v	_	0	root	_	give;dar
+4	Enawureudo	Enawureudo	PROPN	propn	_	3	obl	_	_
+5	ai	ai	ADP	posp	_	4	case	_	to;para,a
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
