@@ -12,16 +12,16 @@
 # text = iörydyre ji
 # text_eng = I saw him 
 # text_por = Eu o vi
-1	iörydyre	jörydyre	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+1	iörydyre	jörydyre	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
 2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = ABE-21
 # text = maky ipare etae
 # text_eng = Give (it) to the young ones
 # text_por = dê-o aos jovens
-1	maky	maky	VERB	v	_	0	root	_	_
-2	ipare	ipare	NOUN	n	_	1	obl	_	_
-3	etae	ae	ADP	posp	Number=Plur|Person=3	2	case	_	_
+1	maky	maky	VERB	v	_	0	root	_	give;dar
+2	ipare	ipare	NOUN	n	_	1	obl	_	young;jovem
+3	etae	ae	ADP	posp	Number=Plur|Person=3	2	case	_	to;para
 
 # sent_id = ABE-22
 # text = adugore emage ebito
@@ -35,18 +35,18 @@
 # text = imi itaragydy
 # text_eng = I cried
 # text_por = Eu chorei
-1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	itaragydy	aragydy	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
+2	itaragydy	aragydy	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	cry;chorar
 
 # sent_id = ABE-24
 # text = areme emode tamudö
 # text_eng = The women will rest
 # text_por = as mulheres vão descansar
-1	areme	areme	NOUN	n	_	4	nsubj	_	_
+1	areme	areme	NOUN	n	_	4	nsubj	_	women;mulheres
 2-3	emode	_	_	_	_	_	_	_	_
 2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
 3	e	re	X	x	IF=Ass	4	dep	_	_
-4	tamudö	amudö	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+4	tamudö	amudö	VERB	v	Person=3|Reflex=Yes	0	root	_	rest;descansar
 
 # sent_id = ABE-25
 # text = imi inokwa
@@ -115,9 +115,9 @@
 # sent_id = ABE-35
 # text = aredy padyre
 # text_eng = The woman laid down
-# text_por = a mulher editou
+# text_por = a mulher deitou
 1	aredy	aredy	NOUN	n	_	2	nsubj	_	woman;mulher
-2	padyre	pady	VERB	v	IF=Ass	0	root	_	_
+2	padyre	pady	VERB	v	IF=Ass	0	root	_	lie.down;deitar
 
 # sent_id = ABE-37
 # text = areme emode tamudö
@@ -177,14 +177,14 @@
 # text_por = o chefe deles vai matar as pacas
 1	eimejeramode	imejera	NOUN	n	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
 2	apoe	apu	NOUN	n	Number=Plur	3	obj	_	paca;paca
-3	ebito	bito	VERB	v	Number=Plur|Person=3	0	root	_	kill,matar
+3	ebito	bito	VERB	v	Number=Plur|Person=3	0	root	_	kill;matar
 
 # sent_id = ABE-48
 # text = akore taregodyie
 # text_eng = He said (that) he arrived
 # text_por = ele disse que chegou
-1	akore	ako	VERB	v	IF=Ass	0	root	_	_
-2	taregodyie	aregody	VERB	v	Anaph=Yes|Evident=Rep	1	xcomp	_	_
+1	akore	ako	VERB	v	IF=Ass	0	root	_	say,speak;dizer,falar
+2	taregodyie	aregody	VERB	v	Anaph=Yes|Evident=Rep	1	xcomp	_	arrive;chegar
 
 # sent_id = ABE-49
 # text = inakore itaregodyie
@@ -254,8 +254,8 @@
 # text_por = os homens vão lavar as roupas
 1	ime	imedu	NOUN	n	Number=Plur	4	nsubj	_	_
 2	emodykare	modyre	X	x	IF=Ass|Number=Plur|Person=3|Polarity=Neg	4	dep	_	_
-3	aroia	aroia	NOUN	n	_	4	obj	_	_
-4	kabi	kabi	VERB	v	_	0	root	_	_
+3	aroia	aroia	NOUN	n	_	4	obj	_	cloth;roupa
+4	kabi	kabi	VERB	v	_	0	root	_	wash;lavar
 
 # sent_id = ABE-216
 # text = boe ewogyre
