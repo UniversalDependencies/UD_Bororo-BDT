@@ -579,6 +579,15 @@
 1	uwogu	wogu	VERB	v	Number=Sing|Person=3	0	root	_	fish;pescar
 2	motyre	moty	ADV	adv	IF=Ass	1	advmod	_	beautiful;bonito
 
+# sent_id = ABE-264
+# text = boere boe tygu woe
+# text_eng = People plant here
+# text_por = as pessoas plantam aqui
+1	boere	boe	NOUN	n	IF=Ass	3	nsubj	_	people,thing;gente,povo,coisa
+2	boe	boe	NOUN	n	_	3	obj	_	people,thing;gente,povo,coisa
+3	tygu	tygu	VERB	v	Number=Sing|Person=3	0	root	_	plant;plantar
+4	woe	woe	ADV	adv	_	3	advcl	_	here;aqui
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
