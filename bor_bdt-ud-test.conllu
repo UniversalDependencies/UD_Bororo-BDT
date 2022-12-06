@@ -562,6 +562,23 @@
 5	rawujedü	rawuje	NOUN	v	Nomzr=Yes	6	obj	_	_
 6	bokwadö	bokwa	VERB	v	Polarity=Neg|Voice=Cau	0	root	_	_
 
+# sent_id = ABE-261
+# text = ere ju kudu kowujedy kuridö
+# text_eng = They eat a lot of manioc (Ingestion of manioc is caused a lot by them)
+# text_por = eles comem muito mandioca (lit. é causada por eles muita ingestão de mandioca)
+1	ere	e	PRON	bi	IF=Ass	5	nsubj	_	_
+2	ju	ju	NOUN	n	_	3	nmod	_	_
+3	kudu	kudu	NOUN	n	_	4	nmod	_	_
+4	kowujedy	kowuje	NOUN	n	Nomzr=Yes	5	obj	_	_
+5	kuridö	kuri	VERB	v	Voice=Cau	0	root	_	_
+
+# sent_id = ABE-263
+# text = uwogu motyre
+# text_eng = He fishes beautifully
+# text_por = ele pesca bonito (lit. bonitamente)
+1	uwogu	wogu	VERB	v	Number=Sing|Person=3	0	root	_	fish;pescar
+2	motyre	moty	ADV	adv	IF=Ass	1	advmod	_	beautiful;bonito
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
