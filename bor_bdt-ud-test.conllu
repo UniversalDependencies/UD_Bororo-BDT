@@ -609,6 +609,41 @@
 5	ai	ai	ADP	posp	_	4	case	_	to;para,a
 6	?	?	PUNCT	punct	_	3	punct	_	_
 
+# sent_id = ABE-268
+# text = kaboba ure kowuje ?
+# text_eng = What did he eat?
+# text_por = o que ele comeu?
+1	kaboba	kabo	PRON	_	PronType=Int	3	obj	_	what;o.que
+2	ure	_	PRON	bi	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+3	kowuje	kowuje	VERB	_	_	0	root	_	eat;comer
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = ABE-269
+# text = iogudyba ure kowuje ?
+# text_eng = Who ate?
+# text_por = quem comeu?
+1	iogudyba	iogudy	PRON	pron	PronType=Int	3	obj	_	_
+2	ure	_	X	_	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+3	kowuje	kowuje	VERB	v	_	0	root	_	_
+4	?	?	PUNCT	_	Number=Sing|Person=3	3	punct	_	_
+
+# sent_id = ABE-270
+# text = iogudyba uwai köwydyre?
+# text_eng = Did the house burn?
+# text_por = a casa de quem queimou?
+1	iogudyba	iogudy	PRON	_	PronType=Int	2	nmod	_	_
+2	ubai	bai	NOUN	n	Number=Sing|Person=3	3	nsubj	_	house;casa
+3	köwydyre	köwy	NOUN	_	IF=Ass|Nomzr=Yes	0	root	_	burn;queimar
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = ABE-271
+# text = Enawurewy uwai köwydyre
+# text_eng = Enawurewy's house burnt
+# text_por = queimou a casa de Enawurewy
+1	Enawurewy	Enawurewy	PROPN	_	_	2	nmod	_	_
+2	ubai	bai	NOUN	n	_	3	nsubj	_	_
+3	köwydyre	köwy	NOUN	n	IF=Ass|Nomzr=Yes	0	root	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
