@@ -624,8 +624,8 @@
 # text_por = quem comeu?
 1	iogudyba	iogudy	PRON	pron	PronType=Int	3	obj	_	_
 2	ure	_	X	_	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
-3	kowuje	kowuje	VERB	v	_	0	root	_	_
-4	?	?	PUNCT	_	Number=Sing|Person=3	3	punct	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = ABE-270
 # text = iogudyba uwai köwydyre?
