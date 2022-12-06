@@ -696,7 +696,7 @@
 # text_eng = When did you see the jaguar?
 # text_por = quando você viu a onça?
 1	kaba	ka	PRON	pron	Int=Yes|PronType=Int	3	advmod	_	_
-2	kejeba	keje	ADP	posp	Int=Yes	1|Number=Sing|Person=3	1	case	_	about;sobre
+2	kejeba	keje	ADP	posp	Int=Yes|Number=Sing|Person=3	1	case	_	about;sobre
 3	arydyre	jorydyre	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
 4-5	adugoji	_	_	_	_	_	_	_	_
 4	adugo	adugo	NOUN	n	_	3	obl	_	jaguar;onça
