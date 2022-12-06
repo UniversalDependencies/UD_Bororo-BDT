@@ -555,7 +555,7 @@
 # text = baraedy ukare kuiada a rawuje
 # text_eng = The white man does not (know how) ripe maize
 # text_por = o branco nem sabe debulhar milho
-1	baraedü	baraedü	NOUN	n	_	6	nsubj	_	_
+1	baraedy	baraedy	NOUN	n	_	6	nsubj	_	_
 2	ure	u	PRON	bi	Number=Sing|Person=3	6	dep	_	_
 3	kuiada	kuiada	NOUN	n	_	4	nmod	_	maize,corn;milho
 4	a	a	NOUN	n	_	5	nmod	_	seed;semente
