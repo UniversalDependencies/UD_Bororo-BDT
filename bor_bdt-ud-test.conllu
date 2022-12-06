@@ -628,7 +628,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = ABE-270
-# text = iogudyba ubai köwydyre?
+# text = iogudyba ubai köwydyre ?
 # text_eng = Did the house burn?
 # text_por = a casa de quem queimou?
 1	iogudyba	iogudy	PRON	_	PronType=Int	2	nmod	_	_
@@ -637,7 +637,7 @@
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = ABE-271
-# text = Enawurewy uwai köwydyre
+# text = Enawurewy ubai köwydyre
 # text_eng = Enawurewy's house burnt
 # text_por = queimou a casa de Enawurewy
 1	Enawurewy	Enawurewy	PROPN	_	_	2	nmod	_	_
