@@ -599,7 +599,7 @@
 5	woe	woe	ADV	adv	_	3	advmod	_	here;aqui
 
 # sent_id = ABE-267
-# text = kaboba amode maku Enawureudo ai?
+# text = kaboba amode maku Enawureudo ai ?
 # text_eng = What will you give Enawureudo?
 # text_por = o que você vai dar ao Enawureudo? 
 1	kaboba	kabo	PRON	pron	PronType=Int	3	obj	_	what;o.que
