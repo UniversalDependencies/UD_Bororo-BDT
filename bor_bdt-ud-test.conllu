@@ -551,6 +551,17 @@
 4	a	a	NOUN	n	_	5	obj	_	seed;semente
 5	rawuje	rawuje	VERB	v	_	0	root	_	ripe;colher
 
+# sent_id = ABE-260
+# text = baraedy ukare kuiada a rawuje
+# text_eng = The white man does not (know how) ripe maize
+# text_por = o branco nem sabe debulhar milho
+1	baraedü	baraedü	NOUN	n	_	6	nsubj	_	_
+2	ure	u	PRON	bi	Number=Sing|Person=3	6	dep	_	_
+3	kuiada	kuiada	NOUN	n	_	4	nmod	_	maize,corn;milho
+4	a	a	NOUN	n	_	5	nmod	_	seed;semente
+5	rawujedü	rawuje	NOUN	v	Nomzr=Yes	6	obj	_	_
+6	bokwadö	bokwa	VERB	v	Polarity=Neg|Voice=Cau	0	root	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
