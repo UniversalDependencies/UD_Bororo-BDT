@@ -681,6 +681,16 @@
 2	aiwo	aiwo	NOUN	n	_	3	obj	_	_
 3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
 
+# sent_id = ABE-276
+# text = kaboba taboba ure bito ?
+# text_eng = With what did he kill?
+# text_por = com o que ele matou?
+1	kaboba	_	PRON	pron	Int=Yes|PronType=Int	4	obl	_	_
+2	taboba	tabo	ADP	posp	Int=Yes	1	case	_	_
+3	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	nsubj	_	_
+4	bito	bito	VERB	v	Number=Sing|Person=3	0	root	_	kill;matar
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
