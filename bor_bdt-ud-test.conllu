@@ -588,6 +588,16 @@
 3	tygu	tygu	VERB	v	Number=Sing|Person=3	0	root	_	plant;plantar
 4	woe	woe	ADV	adv	_	3	advcl	_	here;aqui
 
+# sent_id = ABE-265
+# text = boere boe tygu tygu woe
+# text_eng = People always plant here
+# text_por = as pessoas sempre plantam aqui
+1	boere	boe	NOUN	n	IF=Ass	3	nsubj	_	_
+2	boe	boe	NOUN	n	_	3	obj	_	_
+3	tygu	tygu	VERB	v	_	0	root	_	plant;plantar
+4	tygu	tygu	VERB	v	Aspect=Iter	3	dep	_	_
+5	woe	woe	ADV	adv	_	3	advmod	_	here;aqui
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
