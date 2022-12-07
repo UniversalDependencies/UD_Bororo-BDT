@@ -731,13 +731,24 @@
 
 # sent_id = ABE-281
 # text = kaiba jiba are akeragu?
-# text_eng =Where did you take what?
+# text_eng = Where did you take what?
 # text_por = onde você pegou o quê?
 1	kaiba	_	ADP	posp	Int=Yes	4	obl	_	to;a
 2	jiba	ji	ADP	posp	Int=Yes	1	case	_	_
 3	are	a	PRON	bi	IF=Ass|Number=Sing|Person=2|PronType=Prs	4	dep	_	_
 4	akeragu	kera	NOUN	n	Number=Sing|Person=2	0	root	_	hand;mão
 5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ABE-282
+# text = kaiba kaba kejeba arydyre adugoji?
+# text_eng = Where and when did you see the jaguar?
+# text_por = onde e quando você viu a onça?
+1	kaeba	kae	ADP	posp	Int=Yes	4	obl	_	to;a
+2	kaba	ka	ADV	adv	Int=Yes	1	case	_	how;como
+3	kejeba	keje	ADP	posp	Int=Yes	1	conj	_	on;sobre
+4	arydyre	jorydyre	VERB	v	_	0	root	_	see;ver
+5	adugoji	adugo	NOUN	n	_	4	obj	_	jaguar;onça
+6	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = ABE-316
 # text = marenarore aki rema
