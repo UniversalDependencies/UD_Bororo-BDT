@@ -11,9 +11,12 @@ UD_Bororo-BDT is a collection of annotated sentences in [Bororo](https://glottol
 
 The development of this treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
 
-## References
+## Sources
 
-* (citation)
+* Nonato, Rafael (2008) Ainore Boe egore: um estudo descritivo da língua bororo e conseqüências para a
+teoria de caso e concordância. UNICAMP. Unpublished PhD thesis. (ABG)
+
+* Crowell, Thomas Harris (1979) A grammar of Bororo. Cornell University. Unpublished PhD thesis. (CGB)
 
 
 # Changelog
