@@ -752,6 +752,18 @@
 6	ji	ji	ADP	posp	_	5	case	_	_
 7	?	?	PUNCT	punct	_	4	punct	_	_
 
+# sent_id = ABE-286
+# text = jawy meriji kaiba tyre?
+# text_eng = Where did he go yesterday?
+# text_por = ontem ele foi onde?
+1	jawy	jawy	X	x	_	5	dep	_	past;passado
+2-3	meriji	_	_	_	_	_	_	_	_
+2	meri	meri	NOUN	n	_	5	obl	_	day;dia
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	kaeba	kae	ADP	posp	Int=Yes	5	obl	_	_
+5	tyre	ty	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	go;ir
+6	?	?	PUNCT	_	_	5	punct	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
