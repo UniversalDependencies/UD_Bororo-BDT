@@ -719,7 +719,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = ABE-280
-# text = iogudyba koiaba ure karo kowuje?
+# text = iogudyba koiaba ure karo kowuje ?
 # text_eng = Who ate the fish
 # text_por = quem comeu o peixe?
 1	iogudyba	iogudy	PRON	pron	Int=Yes|PronType=Int	5	nsubj	_	who;quem
@@ -730,7 +730,7 @@
 6	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = ABE-281
-# text = kaiba jiba are akeragu?
+# text = kaiba jiba are akeragu ?
 # text_eng = Where did you take what?
 # text_por = onde você pegou o quê?
 1	kaiba	_	ADP	posp	Int=Yes	4	obl	_	to;a
@@ -740,7 +740,7 @@
 5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = ABE-282
-# text = kaiba kaba kejeba arydyre adugoji?
+# text = kaiba kaba kejeba arydyre adugoji ?
 # text_eng = Where and when did you see the jaguar?
 # text_por = onde e quando você viu a onça?
 1	kaeba	kae	ADP	posp	Int=Yes	4	obl	_	to;a
