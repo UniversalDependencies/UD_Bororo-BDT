@@ -73,7 +73,7 @@
 4	kowuje	kowuje	VERB	v	_	0	root	_	_
 
 # sent_id = ABE-28
-# text = imedy re karo kowuje
+# text = imedyre karo kowuje
 # text_eng = the man ate the fish
 # text_por = O homem comeu o peixe
 1	imedyre	imedy	NOUN	n	IF=Ass	3	nsubj	_	man;homem
