@@ -753,7 +753,7 @@
 7	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = ABE-286
-# text = jawy meriji kaeba tyre?
+# text = jawy meriji kaeba tyre ?
 # text_eng = Where did he go yesterday?
 # text_por = ontem ele foi onde?
 1	jawy	jawy	X	x	_	5	dep	_	past;passado
