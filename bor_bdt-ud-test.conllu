@@ -740,15 +740,17 @@
 5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = ABE-282
-# text = kaiba kaba kejeba arydyre adugoji ?
+# text = kaeba kaba kejeba arydyre adugoji ?
 # text_eng = Where and when did you see the jaguar?
 # text_por = onde e quando você viu a onça?
 1	kaeba	kae	ADP	posp	Int=Yes	4	obl	_	to;a
 2	kaba	ka	ADV	adv	Int=Yes	1	case	_	how;como
 3	kejeba	keje	ADP	posp	Int=Yes	1	conj	_	on;sobre
 4	arydyre	jorydyre	VERB	v	_	0	root	_	see;ver
-5	adugoji	adugo	NOUN	n	_	4	obj	_	jaguar;onça
-6	?	?	PUNCT	punct	_	4	punct	_	_
+5-6	adugoji	_	_	_	_	_	_	_	jaguar;onça
+5	adugo	adugo	NOUN	n	_	4	iobj	_	jaguar;onça
+6	ji	ji	ADP	posp	_	5	case	_	_
+7	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = ABE-316
 # text = marenarore aki rema
