@@ -2,7 +2,7 @@
 # text = imi iörydyre boetygyji
 # text_eng = I saw the cloud (myself)
 # text_por = eu (mesmo) vi a nuvem
-1	imi	_	PRON	pro	_	2	nsubj	_	I;eu
+1	imi	imi	PRON	pro	_	2	nsubj	_	I;eu
 2	iörydyre	jörydy	VERB	IF=Ass	_	0	root	_	see;ver
 3-4	boetygyji	_	_	_	_	_	_	_	_
 3	boetygy	boetygy	NOUN	n	_	2	iobj	_	cloud;nuvem
@@ -27,8 +27,8 @@
 # text = adugore emage ebito
 # text_eng = The jaguar killed them
 # text_por = a onça os(as) matou
-1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	_
-2	emage	mage	PRON	pron	Number=Plur|Person=3	3	obj	_	_
+1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	jaguar;onça
+2	emage	mage	PRON	pron	Number=Plur|Person=3|PronType=Prs	3	obj	_	_
 3	ebito	ebito	VERB	v	Number[obj]=Plur|Person[obj]=3	0	root	_	_
 
 # sent_id = ABE-23
@@ -52,23 +52,23 @@
 # text = imi inokwa
 # text_eng = my mouth
 # text_por = minha boca
-1	imi	imi	PRON	pron	_	2	nmod	_	_
-2	inokwa	_	NOUN	n	_	0	root	_	_
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	inokwa	ia	NOUN	n	Number=Sing|Person=1	0	root	_	_
 
 # sent_id = ABE-26
 # text = ure karo kowuje
 # text_eng = He ate the fish
 # text_por = comeu o peixe
-1	ure	re	X	x	Number=Sing|Person=3	3	nsubj	_	_
+1	ure	re	PRON	bi	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
 2	karo	karo	NOUN	n	_	3	obj	_	_
-3	kowuje	kowuje	VERB	v	_	0	root	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
 # sent_id = ABE-27
 # text = imedy ure karo kowuje
 # text_eng = the man ate the fish
 # text_por = O homem comeu o peixe
 1	imedy	_	NOUN	n	_	4	nsubj	_	_
-2	ure	re	X	x	IF=Ass|Number=Sing|Person=3	1	dep	_	_
+2	ure	re	PRON	bi	IF=Ass|Number=Sing|Person=3	1	dep	_	_
 3	karo	karo	NOUN	n	_	4	obj	_	_
 4	kowuje	kowuje	VERB	v	_	0	root	_	_
 
@@ -76,41 +76,40 @@
 # text = imedy re karo kowuje
 # text_eng = the man ate the fish
 # text_por = O homem comeu o peixe
-1	imedy	_	NOUN	n	_	4	nsubj	_	_
-2	re	re	X	x	IF=Ass	1	dep	_	_
-3	karo	karo	NOUN	n	_	4	obj	_	_
-4	kowuje	kowuje	VERB	v	_	0	root	_	_
+1	imedyre	imedy	NOUN	n	IF=Ass	3	nsubj	_	man;homem
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = ABE-30
 # text = imago
 # text_eng = I spoke
 # text_por = eu falei
-1	imago	mago	VERB	v	Number=Sing|Person=1	0	root	_	_
+1	imago	mago	VERB	v	Number=Sing|Person=1	0	root	_	speak;falar
 
 # sent_id = ABE-31
 # text = itaregödy
 # text_eng = I arrived
 # text_por = eu cheguei
-1	itaregödy	aregödy	VERB	v	Number=Sing|Person=1	0	root	_	_
+1	itaregödy	aregödy	VERB	v	Number=Sing|Person=1	0	root	_	arrive;chegar
 
 # sent_id = ABE-32
 # text = ino
 # text_eng = my thing
 # text_por = minha coisa
-1	ino	o	NOUN	n	Number=Sing|Person=1	0	root	_	_
+1	ino	o	NOUN	n	Number=Sing|Person=1	0	root	_	thing;coisa
 
 # sent_id = ABE-33
 # text = ikie
 # text_eng = my name
 # text_por = meu nome
-1	ikie	ie	NOUN	n	Number=Sing|Person=1	0	root	_	_
+1	ikie	ie	NOUN	n	Number=Sing|Person=1	0	root	_	name;nome
 
 # sent_id = ABE-34
 # text = aredy pagare
 # text_eng = The woman waited
 # text_por = a mulher esperou
-1	aredy	_	NOUN	n	_	2	nsubj	_	_
-2	pagare	_	VERB	v	Number=Sing|Person=3	0	root	_	_
+1	aredy	aredy	NOUN	n	_	2	nsubj	_	_
+2	pagare	paga	VERB	v	Number=Sing|Person=3	0	root	_	wait;esperar
 
 # sent_id = ABE-35
 # text = aredy padyre
@@ -123,7 +122,7 @@
 # text = areme emode tamudö
 # text_eng = The women will rest
 # text_por = as mulheres vão descansar
-1	areme	areme	NOUN	n	_	4	nsubj	_	_
+1	areme	areme	NOUN	n	_	4	nsubj	_	women;mulheres
 2-3	emode	_	_	_	_	_	_	_	_
 2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
 3	e	re	X	x	IF=Ass	4	dep	_	_
@@ -137,8 +136,8 @@
 2	jorudüre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
 3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
 4-5	poboto	_	_	_	_	_	_	_	_
-4	pobo	_	NOUN	n	_	2	obl	_	_
-5	to	_	ADP	posp	_	4	case	_	_
+4	pobo	_	NOUN	n	_	2	obl	_	water;água
+5	to	_	ADP	posp	_	4	case	_	in;em
 
 # sent_id = ABE-39
 # text = negekygyre erudyre pudyi poboto
@@ -148,8 +147,8 @@
 2	erudyre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
 3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
 4-5	poboto	_	_	_	_	_	_	_	_
-4	pobo	_	NOUN	n	_	2	obl	_	_
-5	to	_	ADP	posp	_	4	case	_	_
+4	pobo	_	NOUN	n	_	2	obl	_	water;água
+5	to	_	ADP	posp	_	4	case	_	in;em
 
 # sent_id = ABE-40
 # text = etunure bytygy tabo pu ubaikae
@@ -158,7 +157,7 @@
 1	etunure	tu	VERB	v	Aspect=Prog|IF=Ass	0	root	_	go;ir
 2	bytygy	_	NOUN	n	_	1	obl	_	slowlyness;lentidão
 3	tabo	tabo	ADP	posp	_	2	case	_	with;com
-4	pu	pu	PRON	pron	Reflex=Yes	5	nmod	_	_
+4	pu	pu	PRON	pron	Reflex=Yes	5	nmod	_	X;X
 5-6	ubaikae	_	_	_	_	_	_	_	_
 5	ubai	bai	NOUN	n	_	1	obl	_	house;casa
 6	kae	ae	ADP	posp	_	5	case	_	to;a
@@ -198,7 +197,7 @@
 # text_eng = your canoe
 # text_por = tua canoa
 1	aki	aki	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	_	you;você
-2	ako	ak	X	x	Number=Sing|Person=2|Poss=Yes	3	dep	_	_
+2	ako	ak	X	x	Number=Sing|Person=2|Poss=Yes	3	dep	_	possessor.mark;maracador.de.posse
 3	ika	ika	NOUN	n	_	0	root	_	canoe;canoa
 
 # sent_id = ABE-62
@@ -743,4 +742,3 @@
 2	ure	_	X	x	IF=Ass	3	dep	_	_
 3	boeto	boeto	VERB	v	_	0	root	_	hit;bater
 4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
-
