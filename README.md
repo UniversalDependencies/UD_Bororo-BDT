@@ -13,12 +13,12 @@ The development of this treebank is supported by the by European Research Counci
 
 ## Sources
 
-* Nonato, Rafael (2008) Ainore Boe egore: um estudo descritivo da língua bororo e conseqüências para a
-teoria de caso e concordância. UNICAMP. Unpublished PhD thesis. (ABG)
+* Nonato, Rafael (2008) _Ainore Boe egore: um estudo descritivo da língua bororo e conseqüências para a
+teoria de caso e concordância_. UNICAMP. Unpublished PhD thesis. (ABG)
 
-* Crowell, Thomas Harris (1979) A grammar of Bororo. Cornell University. Unpublished PhD thesis. (CGB)
+* Crowell, Thomas Harris (1979) _A grammar of Bororo_. Cornell University. Unpublished PhD thesis. (CGB)
 
-* Missão Salesiana de Mato Grosso (1983) Lendas bororo: boe eno bakaru (2 edição).
+* Missão Salesiana de Mato Grosso (1983) _Lendas bororo: boe eno bakaru_ (2 edição).
 
 
 # Changelog
