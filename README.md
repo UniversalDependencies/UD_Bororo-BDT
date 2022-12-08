@@ -18,6 +18,8 @@ teoria de caso e concordância. UNICAMP. Unpublished PhD thesis. (ABG)
 
 * Crowell, Thomas Harris (1979) A grammar of Bororo. Cornell University. Unpublished PhD thesis. (CGB)
 
+* Missão Salesiana de Mato Grosso (1983) Lendas bororo: boe eno bakaru (2 edição).
+
 
 # Changelog
 
