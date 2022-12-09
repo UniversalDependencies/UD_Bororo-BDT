@@ -783,7 +783,7 @@
 4	kae	ai	ADP	n	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = ABE-292
-# text = akore tudyie tubaikae
+# text = akore tubaikaie tudyre
 # text_eng = He said it was to his own house that he went
 # text_por = ele disse que foi para sua própria casa que ele foi
 1	akore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	say;dizer
