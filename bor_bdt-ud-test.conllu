@@ -792,6 +792,12 @@
 3	kaie	ai	NOUN	n	Evident=Rep	2	obl	_	to;a
 4	tudyre	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	go;ir
 
+# sent_id = ABE-294
+# text = rore
+# text_eng = It's tasty
+# text_por = (isso) é gostoso
+1	rore	ro	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	be.good,be.tasty;ser.bom,ser.gostoso
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
