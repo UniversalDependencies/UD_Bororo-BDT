@@ -773,7 +773,7 @@
 3	iwogumode	wogu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
 
 # sent_id = ABE-291
-# text = akore tudyie tubaikae kae
+# text = akore tudyie tubaikaekae
 # text_eng = ele disse que foi para sua casa
 # text_por = he said he went home (to his house)
 1	akore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	say;dizer
@@ -783,7 +783,7 @@
 4	kae	ai	ADP	n	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = ABE-292
-# text = akore tudyie tubaikae kae
+# text = akore tudyie tubaikaekae
 # text_eng = He said it was to his own house that he went
 # text_por = ele disse que foi para sua própria casa que ele foi
 1	akore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	say;dizer
