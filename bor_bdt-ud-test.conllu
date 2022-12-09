@@ -808,6 +808,16 @@
 4	rorewy	ro	VERB	v	IF=Ass|Subord=Yes	3	acl	_	_
 5	bitö	bitö	VERB	v	Number=Sing|Person=3	0	root	_	kill;matar
 
+# sent_id = ABE-296
+# text = are ia kare rorewyge ebitö
+# text_eng = You fished fishes that are tasty
+# text_por = você pescou peixes gostosos (que são gostosos)
+1	are	a	PRON	bi	IF=Ass|Number=Sing|Person=2	5	nsubj	_	you,your;você,se,si,seu,sua
+2	ia	ia	NUM	_	_	3	nummod	_	one;um
+3	kare	karo	NOUN	n	Number=Plur	5	obj	_	fish;peixe
+4	rorewyge	ro	VERB	_	IF=Ass|Number=Plur|Number[subj]=Sing|Person=3|Person[subj]=3|Subord=Yes	3	acl	_	_
+5	ebitö	bito	VERB	_	Number[obj]=Plur|Person[obj]=3	0	root	_	kill;matar
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
