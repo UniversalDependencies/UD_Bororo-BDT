@@ -764,6 +764,34 @@
 5	tyre	ty	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	go;ir
 6	?	?	PUNCT	_	_	5	punct	_	_
 
+# sent_id = ABE-290
+# text = awy merijire iwogumode
+# text_eng =It's today I will fish
+# text_por = é hoje que eu vou pescar
+1	awy	awy	DET	dem	_	2	nmod	_	this;este,esta
+2	merijire	meriju	ADV	adv	IF=Ass	3	advmod	_	day;dia
+3	iwogumode	wogu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+
+# sent_id = ABE-291
+# text = akore tudyie tubaikae kae
+# text_eng = ele disse que foi para sua casa
+# text_por = he said he went home (to his house)
+1	akore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	say;dizer
+2	tudyie	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
+3-4	tubaikae	_	_	_	_	_	_	_	_
+3	tubaikae	bai	NOUN	n	Evident=Rep|Number=Sing|Person=3	2	obl	_	_
+4	kae	ai	ADP	n	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-292
+# text = akore tudyie tubaikae kae
+# text_eng = He said it was to his own house that he went
+# text_por = ele disse que foi para sua própria casa que ele foi
+1	akore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	say;dizer
+2-3	tubaikaie	_	_	_	_	_	_	_	_
+2	tubai	bai	NOUN	n	Number=Sing|Person=3	4	obl	_	_
+3	kaie	ai	NOUN	n	Evident=Rep	2	obl	_	to;a
+4	tudyre	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	go;ir
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
