@@ -798,6 +798,16 @@
 # text_por = (isso) é gostoso
 1	rore	ro	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	be.good,be.tasty;ser.bom,ser.gostoso
 
+# sent_id = ABE-295
+# text = are ia karo rorewy bitö
+# text_eng = You fished a fish that is tasty
+# text_por = você pescou um peixe gostoso (que é gostoso)
+1	are	a	PRON	bi	IF=Ass|Number=Sing|Person=2	5	nsubj	_	I,me,my;eu,me,mim,meu,minha
+2	ia	ia	NUM	_	_	3	nummod	_	_
+3	karo	karo	NOUN	n	_	5	obj	_	_
+4	rorewy	ro	VERB	v	IF=Ass|Subord=Yes	3	acl	_	_
+5	bitö	bitö	VERB	v	Number=Sing|Person=3	0	root	_	kill;matar
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
