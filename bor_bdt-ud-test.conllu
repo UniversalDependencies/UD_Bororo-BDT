@@ -870,10 +870,19 @@
 # sent_id = ABE-302
 # text = iwogure buke tapo
 # text_eng = I fished without wanting it
-# text_por = eu pesquei sem querer
+# text_por = você viu que os bororos pescaramr
 1	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
 2	itaidykaredy	aidy	VERB	v	IF=Ass|Nomzr=Yes|Number=Sing|Person=1|	1	ccomp	_	want;querer
 3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+
+# sent_id = ABE-303
+# text = arydyre boe ewogure dyji
+# text_eng = Did you see (that) the Bororo fished
+# text_por = você viu que os bororos pescaram
+1	arydyre	jorydy	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	ewogure	wogu	VERB	v	Number=Plur|Person=3	1	ccomp	_	_
+4	dyji	ji	ADP	posp	_	3	obl	_	_
 
 # sent_id = ABE-316
 # text = marenarore aki rema
