@@ -881,8 +881,18 @@
 # text_por = você viu que os bororos pescaram
 1	arydyre	jorydy	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	ewogure	wogu	VERB	v	Number=Plur|Person=3	1	ccomp	_	_
-4	dyji	ji	ADP	posp	_	3	obl	_	_
+3	ewogure	wogu	VERB	v	IF=Ass|Number=Plur|Person=3	1	ccomp	_	_
+4	dyji	ji	ADP	posp	Nomzr=Yes	3	obl	_	_
+
+# sent_id = ABE-304
+# text = arydyre boe ewoguji
+# text_eng = Did you see (that) the Bororo fished
+# text_por = você viu que os bororos pescaram
+1	arydyre	jorydy	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3-4	ewoguji	_	_	_	_	_	_	_	_
+3	ewogu	wogu	VERB	posp	Number[subj]=Plur|Person[subj]=3	1	ccomp	_	_
+4	ji	ji	ADP	posp	_	3	obl	_	_
 
 # sent_id = ABE-316
 # text = marenarore aki rema
