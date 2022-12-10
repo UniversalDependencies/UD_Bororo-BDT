@@ -894,6 +894,32 @@
 3	ewogu	wogu	VERB	posp	Number[subj]=Plur|Person[subj]=3	1	ccomp	_	_
 4	ji	ji	ADP	posp	_	3	obl	_	_
 
+# sent_id = ABE-305
+# text = boecoji boe emerure taiwore kuiejedogei dytabo
+# text_eng = At night the Bororo hunt by looking at the stars 
+# text_por = à noite os bororo caçam se orientando pelas estrelas
+1	boecoji	boecoji	ADV	adv	_	3	advmod	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	emerure	meru	VERB	v	IF=Ass|Numbe[subj]r=Plur|Person[subj]=3	0	root	_	hunt;caçar
+4	taiwore	aiwo	VERB	v	IF=Ass|Number=Sing|Person=3	3	obl	_	_
+5-6	kuiejedogei	_	_	_	_	_	_	_	_
+5	kuiejedoge	kuiejedoge	NOUN	n	_	4	obl	_	star;estrela
+6	i	ji	ADP	n	Number=Plur|Person=3	5	case	_	_
+7	dytabo	tabo	ADP	posp	Nomzr=Yes	4	case	_	with;com
+
+# sent_id = ABE-306
+# text = boecoji boe emerure taiwo tabo kuiejedogei
+# text_eng = At night the Bororo hunt by looking at the stars 
+# text_por = à noite os bororo caçam se orientando pelas estrelas
+1	boecoji	boecoji	ADV	adv	_	3	advmod	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	emerure	meru	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3	0	root	_	_
+4	taiwo	aiwo	VERB	v	Number=Sing|Person=3	3	obl	_	_
+5	tabo	tabo	ADP	posp	_	4	case	_	_
+6-7	kuiejedogei	_	_	_	_	_	_	_	_
+6	kuiejedoge	_	NOUN	_	_	4	obl	_	_
+7	i	ji	ADP	posp	Number=Plur|Person=3	6	case	_	_
+
 # sent_id = ABE-316
 # text = marenarore aki rema
 # text_eng = You are poor
