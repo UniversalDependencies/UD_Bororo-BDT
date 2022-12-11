@@ -823,10 +823,10 @@
 # text_eng = I killed the fish that I fished
 # text_por = eu matei o peixe que eu pesquei
 1	ire	i	PRON	bi	IF=Ass	5	nsubj	_	_
-2	iwogure	wogu	VERB	v	IF=Ass|Number=sing|Person=1	5	acl	_	_
-3	bagaiwy	bagai	ADP	posp	Number=sing|Person=3|Subord=Yes	2	obl	_	with.the.purpose.of;com.o.propósito.de
+2	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	5	acl	_	_
+3	bagaiwy	bagai	ADP	posp	Number=Sing|Person=3|Subord=Yes	2	obl	_	with.the.purpose.of;com.o.propósito.de
 4	karo	karo	NOUN	n	_	5	obj	_	_
-5	bito	bito	VERB	v	Number=sing|Person=3	0	root	_	_
+5	bito	bito	VERB	v	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = ABE-298
 # text = ire ure kowujewy karo bito
@@ -834,9 +834,9 @@
 # text_por = eu matei o peixe que comeu (e.g. a isca)/eu matei o peixe que ele(a) comeu
 1	ire	i	PRON	bi	IF=Ass	5	nsubj	_	_
 2	ure	wogu	VERB	v	IF=Ass|Number=sing|Person=3	3	nsubj	_	_
-3	kowujewy	kowuje	VERB	posp	Number=sing|Person=3|Subord=Yes	5	acl	_	eat;comer
+3	kowujewy	kowuje	VERB	posp	Number=Sing|Person=3|Subord=Yes	5	acl	_	eat;comer
 4	karo	karo	NOUN	n	_	5	obj	_	fish;peixe
-5	bito	bito	VERB	v	Number=sing|Person=3	0	root	_	kill;matar
+5	bito	bito	VERB	v	Number=Sing|Person=3	0	root	_	kill;matar
 
 # sent_id = ABE-299
 # text = ure ture kowujewy karo bito
