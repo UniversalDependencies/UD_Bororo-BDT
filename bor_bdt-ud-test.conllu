@@ -868,7 +868,7 @@
 3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	with,commitative.postposition;com,posposição.comitativo
 
 # sent_id = ABE-302
-# text = iwogure buke tapo
+# text = iwogure itaidykaredy tapo
 # text_eng = I fished without wanting it
 # text_por = você viu que os bororos pescaramr
 1	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
@@ -900,7 +900,7 @@
 # text_por = à noite os bororo caçam se orientando pelas estrelas
 1	boecoji	boecoji	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	emerure	meru	VERB	v	IF=Ass|Numbe[subj]r=Plur|Person[subj]=3	0	root	_	hunt;caçar
+3	emerure	meru	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
 4	taiwore	aiwo	VERB	v	IF=Ass|Number=Sing|Person=3	3	obl	_	_
 5-6	kuiejedogei	_	_	_	_	_	_	_	_
 5	kuiejedoge	kuiejedoge	NOUN	n	_	4	obl	_	star;estrela
@@ -971,7 +971,7 @@
 # text = iiodore awy
 # text_eng = Este é meu bastão
 # text_por = this is my cane/stick
-1	iiodore	iodo	NOUN	n	IF=Ass|Number=Sing|Person=1	0	root	_	stick,cane,staff,bat;bastão
+1	iiodore	iodo	NOUN	n	IF=Ass|Number[psor]=Sing|Person[psor]=1	0	root	_	stick,cane,staff,bat;bastão
 2	awy	awy	DET	dem	Number=Sing|Person=1	1	_	_	this;este,esta
 
 # sent_id = ABE-318
