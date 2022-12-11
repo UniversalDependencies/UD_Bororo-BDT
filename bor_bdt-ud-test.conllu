@@ -833,7 +833,7 @@
 # text_eng = I killed the fish that ate (the bait) / I killed the fish that (s)he/it ate
 # text_por = eu matei o peixe que comeu (e.g. a isca)/eu matei o peixe que ele(a) comeu
 1	ire	i	PRON	bi	IF=Ass	5	nsubj	_	_
-2	ure	wogu	VERB	v	IF=Ass|Number=sing|Person=3	3	nsubj	_	_
+2	ure	wogu	VERB	v	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
 3	kowujewy	kowuje	VERB	posp	Number=Sing|Person=3|Subord=Yes	5	acl	_	eat;comer
 4	karo	karo	NOUN	n	_	5	obj	_	fish;peixe
 5	bito	bito	VERB	v	Number=Sing|Person=3	0	root	_	kill;matar
@@ -849,7 +849,7 @@
 5	bito	bito	VERB	v	_	0	root	_	_
 
 # sent_id = ABE-300
-# text = ire iwogure bagai wyge ebito
+# text = ire iwogure bagaiwyge ebito
 # text_eng = I killed (those that) I fished
 # text_por = eu matei os que eu pesquei
 1	ire	i	PRON	bi	IF=Ass|Number[subj]=Sing|Person[subj]=1	5	nsubj	_	_
@@ -865,7 +865,7 @@
 # text_por = eu pesquei com rede
 1	iwogure	wogu	VERB	v	IF=Ass|Numer=Sing|Person=1	0	root	_	_
 2	buke	buke	NOUN	n	_	1	obl	_	net,fishnet;rede.de.pesca
-3	tapo	apo	ADP	posp	Numer=Sing|Person=3	2	case	_	with,commitative.postposition;com,posposição.comitativo
+3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	with,commitative.postposition;com,posposição.comitativo
 
 # sent_id = ABE-302
 # text = iwogure buke tapo
@@ -925,7 +925,7 @@
 # text_eng = I don't know where the man killed the fish
 # text_por = eu não sei onde o homem matou os peixes
 1	ioruduiwakare	joruduiwa	VERB	v	IF=Ass|Number=Sing|Person=1|Polarity=Neg	0	root	_	know;saber
-2	kaiba	kae	PRON	pron	PronType=Int	5	advmod	_	where;onde
+2	kaiba	kae	ADV	adv	PronType=Int	5	advmod	_	where;onde
 3	imedyre	imedy	NOUN	n	IF=Ass	5	nsubj	_	man;homem
 4	karo	karo	NOUN	n	_	5	obj	_	_
 5	bito	bito	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
