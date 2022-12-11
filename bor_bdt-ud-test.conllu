@@ -863,7 +863,7 @@
 # text = iwogure buke tapo
 # text_eng = I fished with fishnet
 # text_por = eu pesquei com rede
-1	iwogure	wogu	VERB	v	IF=Ass|Numer=Sing|Person=1	0	root	_	_
+1	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
 2	buke	buke	NOUN	n	_	1	obl	_	net,fishnet;rede.de.pesca
 3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	with,commitative.postposition;com,posposição.comitativo
 
@@ -872,7 +872,7 @@
 # text_eng = I fished without wanting it
 # text_por = você viu que os bororos pescaramr
 1	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
-2	itaidykaredy	aidy	VERB	v	IF=Ass|Nomzr=Yes|Number=Sing|Person=1|	1	ccomp	_	want;querer
+2	itaidykaredy	aidy	NOUN	n	IF=Ass|Nomzr=Yes|Number=Sing|Person=1	1	ccomp	_	want;querer
 3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = ABE-303
