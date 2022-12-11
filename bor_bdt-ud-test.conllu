@@ -934,10 +934,10 @@
 # text = ibaimodükare
 # text_eng = My house will not exist (there won't be my house)
 # text_por = minha casa não vai existir (não vou ter uma casa)
-1	ibaimodükare	bai	NOUN	n	IF=Ass|Number[psor]=Sing|Person[psor]=1Polarity=Neg|Tense=Fut	0	root	_	_
+1	ibaimodükare	bai	NOUN	n	IF=Ass|Number[psor]=Sing|Person[psor]=1|Polarity=Neg|Tense=Fut	0	root	_	_
 
 # sent_id = ABE-313
-# text = boekareimi
+# text = boekare imi
 # text_eng = I am not Bororo
 # text_por = Eu não sou bororo
 1	boekare	boe	NOUN	n	IF=Ass|Polarity=Neg	0	root	_	_
@@ -972,7 +972,7 @@
 # text_eng = Este é meu bastão
 # text_por = this is my cane/stick
 1	iiodore	iodo	NOUN	n	IF=Ass|Number[psor]=Sing|Person[psor]=1	0	root	_	stick,cane,staff,bat;bastão
-2	awy	awy	DET	dem	Number=Sing|Person=1	1	_	_	this;este,esta
+2	awy	awy	DET	dem	_	1	det	_	this;este,esta
 
 # sent_id = ABE-318
 # text = iiodoreno
