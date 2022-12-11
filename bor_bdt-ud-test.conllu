@@ -911,13 +911,13 @@
 # text = boecoji boe emerure taiwo tabo kuiejedogei
 # text_eng = At night the Bororo hunt by looking at the stars 
 # text_por = à noite os bororo caçam se orientando pelas estrelas
-1	boecoji	boecoji	ADV	adv	_	3	advmod	_	_
+1	boecoji	boecoji	ADV	adv	_	3	advmod	_	at.night;à.noite
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	emerure	meru	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3	0	root	_	_
-4	taiwo	aiwo	VERB	v	Number=Sing|Person=3	3	obl	_	_
+3	emerure	meru	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
+4	taiwo	aiwo	VERB	v	Number=Sing|Person=3	3	obl	_	see;ver
 5	tabo	tabo	ADP	posp	_	4	case	_	_
 6-7	kuiejedogei	_	_	_	_	_	_	_	_
-6	kuiejedoge	_	NOUN	_	_	4	obl	_	_
+6	kuiejedoge	_	NOUN	_	_	4	obl	_	star;estrela
 7	i	ji	ADP	posp	Number=Plur|Person=3	6	case	_	_
 
 # sent_id = ABE-311
@@ -925,8 +925,8 @@
 # text_eng = I don't know where the man killed the fish
 # text_por = eu não sei onde o homem matou os peixes
 1	ioruduiwakare	joruduiwa	VERB	v	IF=Ass|Number=Sing|Person=1|Polarity=Neg	0	root	_	know;saber
-2	kaiba	kae	PRON	pron	PronType=Int	5	advmod	_	_
-3	imedyre	imedy	NOUN	n	IF=Ass	5	nsubj	_	_
+2	kaiba	kae	PRON	pron	PronType=Int	5	advmod	_	where;onde
+3	imedyre	imedy	NOUN	n	IF=Ass	5	nsubj	_	man;homem
 4	karo	karo	NOUN	n	_	5	obj	_	_
 5	bito	bito	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
@@ -942,6 +942,22 @@
 # text_por = Eu não sou bororo
 1	boekare	boe	NOUN	n	IF=Ass|Polarity=Neg	0	root	_	_
 2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+
+# sent_id = ABE-314
+# text = boere emage
+# text_eng = They are Bororo
+# text_por = eles são bororo
+1	boere	boe	NOUN	n	IF=Ass	0	root	_	_
+2	emage	emage	PRON	pron	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	they;eles,elas
+
+# sent_id = ABE-315
+# text = karore orari pobu roko
+# text_eng = 
+# text_por = o pacu, o pintado e a corimba são peixes
+1	karore	karo	NOUN	n	IF=Ass	0	root	_	fish;peixe
+2	orari	orari	NOUN	n	_	1	nsubj	_	pacu
+3	pobu	pobu	NOUN	n	_	2	conj	_	pintado
+4	roko	roko	NOUN	n	_	2	conj	_	corimba
 
 # sent_id = ABE-316
 # text = marenarore aki rema
