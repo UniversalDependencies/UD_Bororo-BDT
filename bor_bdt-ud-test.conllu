@@ -1026,7 +1026,7 @@
 # text_eng = I went away
 # text_por = Eu fui embora
 1	Imi	imi	PRON	pron	Number[subj]=Sing|Person[subj]=1|PronType=Prs	2	nsubj	_	_
-2	ityre	ty	VERB	v	IF=Ass	Person=1|PronType=Prs	0	root	_	go,go.away;ir,ir.embora
+2	ityre	ty	VERB	v	IF=AssPerson=1|PronType=Prs	0	root	_	go,go.away;ir,ir.embora
 
 # sent_id = ABE-324
 # text = Tiago Fabrício etaregodyre
