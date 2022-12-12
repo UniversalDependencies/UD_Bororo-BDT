@@ -984,8 +984,8 @@
 
 # sent_id = ABE-319
 # text = iiodorece
-# text_eng = aquele é meu bastão
-# text_por = That is my cane/stick
+# text_eng = That is my cane/stick
+# text_por = Aquele é meu bastão
 1-2	iiodorece	_	_	_	_	_	_	_	_
 1	iiodore	iodo	NOUN	n	IF=Ass|Number=Sing|Person=1	0	root	_	_
 2	ce	cewu	DET	dem	_	1	det	_	that;aquele;aquela
@@ -993,7 +993,7 @@
 # sent_id = ABE-320
 # text = rary baru ekaworyre
 # text_eng = The leave and the sky are blue
-# text_por = a folha e o céu são verdes/azuis
+# text_por = A folha e o céu são verdes/azuis
 1	rary	rary	NOUN	n	_	3	nsubj	_	leaf;folha
 2	baru	baru	NOUN	n	_	1	conj	_	sky;céu
 3	ekaworyre	kawory	NOUN	n	IF=Ass|Number=Plur|Person=3	0	root	_	green,blue;verde,azul
@@ -1001,7 +1001,7 @@
 # sent_id = ABE-321
 # text = imode karo maky imedy rakydy negedyrogu rakydy ai
 # text_eng = I'll give the fish to a the man or to the boy
-# text_por = eu vou dar o peixe ou ao homem ou ao menino
+# text_por = Eu vou dar o peixe ou ao homem ou ao menino
 1	imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	_
 2	karo	karo	NOUN	n	_	3	obj	_	fish;peixe
 3	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	give;dar
@@ -1014,12 +1014,34 @@
 # sent_id = ABE-322
 # text = cenai morikare mare tagai morire
 # text_eng = It is paid for us but it is not payed for you
-# text_por = para nós não é pago, mas para vocês é pago
-1	cenai	ai	ADP	posp	Clusivity=EX|Number=Sing|Person=1	2	obl	_	we.(ex);nós.(ex)
+# text_por = Para nós não é pago, mas para vocês é pago
+1	cenai	ai	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	we.(ex);nós.(ex)
 2	morikare	mori	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg	0	root	_	pay;pagar
 3	mare	mare	CCONJ	ccad	_	5	cc	_	but;mas
 4	tagai	ai	ADP	posp	Number=Sing|Person=2	5	obl	_	for,to;a,para
 5	morire	morire	VERB	v	IF=Ass|Number=Sing|Person=3	2	conj	_	pay;pagar
+
+# sent_id = ABE-323
+# text = Imi ityre
+# text_eng = I went away
+# text_por = Eu fui embora
+1	Imi	imi	PRON	pron	Number[subj]=Sing|Person[subj]=1|PronType=Prs	2	subj	_	_
+2	ityre	ty	VERB	v	IF=Ass	Person=1|PronType=Prs	0	root	_	go,go.away;ir,ir.embora
+
+# sent_id = ABE-324
+# text = Tiago Fabrício etaregodyre
+# text_eng = Tiago and Fabrício (have) arrived
+# text_por = Tiago e Fabrício chegaram
+1	Tiago	Tiago	PROPN	propn	_	3	nsubj	_	_
+2	Fabrício	Fabrício	PROPN	propn	_	1	conj	_	_
+3	etaregodyre	aregody	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	arrive;chegar
+
+# sent_id = ABE-325
+# text = Eko butumodykare
+# text_eng = The pequi (fruit) won 't fall
+# text_por = O pequi não vai vair
+1	Eko	_	NOUN	n	_	2	nsubj	_	Caryocar.brasiliense;pequi
+2	butumodykare	mody	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	0	root	_	fall;cair
 
 # sent_id = ABE-343
 # text = umode taredö
