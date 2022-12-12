@@ -990,6 +990,37 @@
 1	iiodore	iodo	NOUN	n	IF=Ass|Number=Sing|Person=1	0	root	_	_
 2	ce	cewu	DET	dem	_	1	det	_	that;aquele;aquela
 
+# sent_id = ABE-320
+# text = rary baru ekaworyre
+# text_eng = The leave and the sky are blue
+# text_por = a folha e o céu são verdes/azuis
+1	rary	rary	NOUN	n	_	3	nsubj	_	leaf;folha
+2	baru	baru	NOUN	n	_	1	conj	_	sky;céu
+3	ekaworyre	kawory	NOUN	n	IF=Ass|Numbr=Plur|Person=3	0	root	_	green,blue;verde,azul
+
+# sent_id = ABE-321
+# text = imode karo maky imedy rakydy negedyrogu rakydy ai
+# text_eng = I'll give the fish to a the man or to the boy
+# text_por = eu vou dar o peixe ou ao homem ou ao menino
+1	imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	fish;peixe
+3	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	give;dar
+4	imedy	imedy	NOUN	n	_	3	obl	_	man;homem
+5	rakydy	rakydy	CCONJ	ccd	_	4	ccad	_	or;ou
+6	negedyrogu	negedyrogu	NOUN	_	_	4	conj	_	child;criança
+7	rakydy	rakydy	CCONJ	cc	_	6	ccd	_	or;ou
+8	ai	ai	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = ABE-322
+# text = cenai morikare mare tagai morire
+# text_eng = It is paid for us but it is not payed for you
+# text_por = para nós não é pago, mas para vocês é pago
+1	cenai	ai	ADP	posp	Clusivity=EX|Number=Sing|Person=1	2	obl	_	we.(ex);nós.(ex)
+2	morikare	mori	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg	0	root	_	pay;pagar
+3	mare	mare	CCONJ	ccad	_	5	cc	_	but;mas
+4	tagai	ai	ADP	posp	Number=Sing|Person=2	5	obl	_	for,to;a,para
+5	morire	morire	VERB	v	IF=Ass|Number=Sing|Person=3	2	conj	_	pay;pagar
+
 # sent_id = ABE-343
 # text = umode taredö
 # text_eng = You are poor
