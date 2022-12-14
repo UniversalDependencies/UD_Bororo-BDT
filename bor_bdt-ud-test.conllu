@@ -27,7 +27,7 @@
 # text = adugore emage ebito
 # text_eng = The jaguar killed them
 # text_por = a onça os(as) matou
-1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	jaguar;onça
+1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	[aḁˈdɯɡwɔɔ̥];jaguar;onça
 2	emage	mage	PRON	pron	Number=Plur|Person=3|PronType=Prs	3	obj	_	_
 3	ebito	ebito	VERB	v	Number[obj]=Plur|Person[obj]=3	0	root	_	_
 
