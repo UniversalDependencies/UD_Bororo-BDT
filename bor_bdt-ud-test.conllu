@@ -126,7 +126,7 @@
 2-3	emode	_	_	_	_	_	_	_	_
 2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
 3	e	re	X	x	IF=Ass	4	dep	_	_
-4	tamudö	amudö	VERB	v	Anaph=Yes|Person=3	0	root	_	_
+4	tamudö	amudö	VERB	v	Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = ABE-38
 # text = negedürogu jorudüre pudyi poboto
@@ -134,7 +134,7 @@
 # text_por = a criança se viu na água
 1	negedürogu	negedürogu	NOUN	n	_	2	nsubj	_	child;criança
 2	jorudüre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
-3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
+3	pudyi	ji	ADP	posp	Person=3|Reflex=Yes	2	obl	_	_
 4-5	poboto	_	_	_	_	_	_	_	_
 4	pobo	_	NOUN	n	_	2	obl	_	water;água
 5	to	_	ADP	posp	_	4	case	_	in;em
@@ -145,7 +145,7 @@
 # text_por = as crianças se viram na água
 1	negekygyre	negedürogu	NOUN	n	_	2	nsubj	_	child;criança
 2	erudyre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
-3	pudyi	ji	ADP	posp	Anaph=Yes|Person=3	2	obl	_	_
+3	pudyi	ji	ADP	posp	Person=3|Reflex=Yes	2	obl	_	_
 4-5	poboto	_	_	_	_	_	_	_	_
 4	pobo	_	NOUN	n	_	2	obl	_	water;água
 5	to	_	ADP	posp	_	4	case	_	in;em
@@ -183,14 +183,14 @@
 # text_eng = He said (that) he arrived
 # text_por = ele disse que chegou
 1	akore	ako	VERB	v	IF=Ass	0	root	_	say,speak;dizer,falar
-2	taregodyie	aregody	VERB	v	Anaph=Yes|Evident=Rep	1	xcomp	_	arrive;chegar
+2	taregodyie	aregody	VERB	v	Evident=Rep|Reflex=Yes	1	xcomp	_	arrive;chegar
 
 # sent_id = ABE-49
 # text = inakore itaregodyie
 # text_eng = He said (that) he arrived
 # text_por = ele disse que chegou
 1	inakore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	_
-2	itaregodyie	aregody	VERB	v	Anaph=Yes|Evident=Rep|Number=Sing|Person=1	1	xcomp	_	_
+2	itaregodyie	aregody	VERB	v	Evident=Rep|Number=Sing|Person=1|Reflex=Yes	1	xcomp	_	_
 
 # sent_id = ABE-55
 # text = aki ako ika
@@ -217,7 +217,7 @@
 3-4	ibaikae	_	_	_	_	_	_	_	_
 3	ibai	bai	NOUN	n	Number=Sing|Person=1	2	obl	_	house;casa
 4	kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	house;casa
-5	tubaiga	baiga	NOUN	n	Anaph=Yes|Person=3	3	obl	_	weapon;arma
+5	tubaiga	baiga	NOUN	n	Person=3|Reflex=Yes	3	obl	_	weapon;arma
 6	bagai	bagai	ADP	posp	_	5	case	_	_
 
 # sent_id = ABE-152
@@ -1091,7 +1091,7 @@
 # text_eng = You are poor
 # text_por = Você é pobre
 1	umode	_	X	x	IF=Ass|Number=Sing|Person=3|Tense=Fut	2	dep	_	_
-2	taredö	are	VERB	v	Anaph=Yes|Voice=Cau	0	root	_	jump;pular
+2	taredö	are	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	jump;pular
 
 # sent_id = ABE-355
 # text = imi ire jao bai to
