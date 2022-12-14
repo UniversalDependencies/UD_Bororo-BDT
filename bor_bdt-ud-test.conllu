@@ -1043,6 +1043,49 @@
 1	Eko	_	NOUN	n	_	2	nsubj	_	Caryocar.brasiliense;pequi
 2	butumodykare	mody	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	0	root	_	fall;cair
 
+# sent_id = ABE-326
+# text = Fabrício ure awagoe ebito
+# text_eng = Fabrício killed the snakes
+# text_por = Fabrício matou as cobras
+1	Fabrício	Fabrício	PROPN	propn	_	4	nsubj	_	_
+2	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	dep	_	_
+3	awagoe	awagy	NOUN	n	Number=Plur	4	obj	_	snake;cobra
+4	ebito	bito	VERB	v	Number[obj]=Plur|Person[obj]=3	0	root	_	_
+
+# sent_id = ABE-327
+# text = Fabrício umodykare pagi pabito
+# text_eng = Fabrício won't kill us
+# text_por = Fabrício não vai nos matar
+1	Fabrício	Fabrício	PROPN	_	_	4	nsubj	_	_
+2	umodykare	u	PRON	bi	IF=Ass|Polarity=Neg|Tense=Fut	4	dep	_	_
+3	pagi	pagi	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	obj	_	we.inclusive;nós.inclusivo
+4	pabito	bito	VERB	v	_	0	root	_	_
+
+# sent_id = ABE-328
+# text = Fabrício umodykare pagi pabito
+# text_eng = Fabrício didn't bring the cigarret
+# text_por = Fabrício não trouxe o cigarro
+1	Fabrício	_	PROPN	_	_	4	nsubj	_	_
+2	ukare	u	PRON	bi	IF=Ass|Polarity=Neg	4	dep	_	_
+3	mea	mea	NOUN	n	_	4	obj	_	cigarret;cigarro
+4	arego	arego	VERB	_	Number=Sing|Person=3	0	root	_	bring;trazer
+
+# sent_id = ABE-329
+# text = João Maria ebitodyre
+# text_eng = João and Maria died
+# text_por = João e Maria morreram
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	ebitodyre	bito	VERB	v	Number[subj]=Plur|Person[subj]=3	0	root	_	_
+
+# sent_id = ABE-330
+# text = João Maria etaregodyre
+# text_eng = João and Maria (have)arrived
+# text_por = João e Maria chegaram
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	etaregodyre	arego	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	arrive;chegar
+
 # sent_id = ABE-343
 # text = umode taredö
 # text_eng = You are poor
