@@ -42,7 +42,7 @@
 # text = areme emode tamudö
 # text_eng = The women will rest
 # text_por = as mulheres vão descansar
-1	areme	areme	NOUN	n	_	4	nsubj	_	women;mulheres
+1	areme	aredy	NOUN	nu	_	4	nsubj	_	[aˈɾɛdɨ];women;mulheres
 2-3	emode	_	_	_	_	_	_	_	_
 2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
 3	e	re	X	x	IF=Ass	4	dep	_	_
