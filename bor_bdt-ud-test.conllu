@@ -1152,10 +1152,27 @@
 
 # sent_id = ABE-343
 # text = umode taredö
-# text_eng = You are poor
-# text_por = Você é pobre
-1	umode	_	X	x	IF=Ass|Number=Sing|Person=3|Tense=Fut	2	dep	_	_
+# text_eng = He will jump
+# text_por = Ele vai pular
+1	umode	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi|Tense=Fut	2	dep	_	_
 2	taredö	are	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	jump;pular
+
+# sent_id = ABE-344
+# text = Imode ikinorudö bope piji
+# text_eng = I'll escape the evil spirit
+# text_por = Eu vou escapar do espírito mal
+1	Imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi|Tense=Fut	2	nsubj	_	_
+2	ikinorudö	kinoru	VERB	n	Number=Sing|Person=1|Voice=Cau	0	root	_	freedom;liberdade
+3	bope	bope	NOUN	n	_	2	obl	_	daemon,evil.spirit;demônio,espírito.mau
+4	piji	piji	ADP	posp	Number=Sing|Person=3	3	case	_	from;de
+
+# sent_id = ABE-345
+# text = Cemode boedo eji
+# text_eng = I'll escape the evil spirit
+# text_por = Nós vamos bater neles
+1	Cemode	ce	PRON	bi	Clusivity=Ex|IF=Ass|Number[subj]=Plur|Person[subj]=1|PronType=Bi|Tense=Fut	2	nsubj	_	_
+2	boedo	boe	VERB	v	Voice=Cau	0	root	_	people,thing;coisa,gente,povo
+3	eji	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = ABE-355
 # text = imi ire jao bai to
