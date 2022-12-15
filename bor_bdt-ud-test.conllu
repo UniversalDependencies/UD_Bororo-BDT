@@ -1086,6 +1086,70 @@
 2	Maria	Maria	PROPN	propn	_	1	conj	_	_
 3	etaregodyre	arego	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	arrive;chegar
 
+# sent_id = ABE-333
+# text = ibai pemegamodykare
+# text_eng = My house won't be good
+# text_por = Minha casa não vai ser boa
+1	Ibai	bai	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
+2	pemegamodykare	pemega	VERB	v	IF=Ass|Polarity=Neg|Tense=Fut	0	root	_	good,well;bom,bem
+
+# sent_id = ABE-334
+# text = João Maria etaregody pemegare
+# text_eng = João and Maria arrived well
+# text_por = João e Maria chegaram bem
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	etaregody	arego	VERB	v	Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	bring;trazer
+4	pemegare	pemega	ADV	adv	IF=Ass	3	advmod	_	good,well;bom,bem
+
+# sent_id = ABE-336
+# text = Imi iwogu pemegare
+# text_eng = I fish well
+# text_por = eu pesco bem
+1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	iwogu	wogu	VERB	v	Number=Sing|Person=1	0	root	_	_
+3	pemegare	pemega	ADV	IF=Ass	_	2	advmod	_	_
+
+# sent_id = ABE-337
+# text = Eko butu pemegare
+# text_eng = The piqui fell well
+# text_por = O piqui caiu bem
+1	Eko	eko	NOUN	n	_	2	nsubj	_	_
+2	butu	butu	VERB	v	_	0	root	_	fall;cair
+3	pemegare	pemega	ADV	adv	IF=Ass	2	advmod	_	_
+
+# sent_id = ABE-339
+# text = Fabrício ure pagi parego
+# text_eng = Fabrício makes us run (runs us)
+# text_por = Fabrício nos faz correr (lit. F. corre-nos)
+1	Fabrício	_	PROPN	propn	_	4	nsubj	_	_
+2	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi	4	dep	_	_
+3	pagi	pagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	4	obj	_	_
+4	parego	reko	VERB	v	Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	run;correr
+
+# sent_id = ABE-340
+# text = Pagi parekodyre
+# text_eng = We ran
+# text_por = Nós corremos
+1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.inclusive;nós.inclusivo
+2	parekodyre	reko	VERB	v	IF=Ass|Clusivity=In|Number=Plur|Person=1|Voice=Antip	0	root	_	_
+
+# sent_id = ABE-341
+# text = Fabrício ure pagi papagudugo
+# text_eng = Fabrício made us yell (yelled us)
+# text_por = Fabrício nos fez gritar’ (lit. F. nos gritou)
+1	Fabrício	_	PROPN	_	_	4	nsubj	_	_
+2	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi	4	dep	_	_
+3	pagi	pagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	4	obj	_	_
+4	papagudugo	pagudugo	VERB	v	Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	yell;gritar
+
+# sent_id = ABE-342
+# text = Pagi pabagudugodyre
+# text_eng = We yelled
+# text_por = Nós gritamos
+1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	_
+2	pabagudugodyre	pagudugo	VERB	v	IF=Ass|Clusivity=In|Number=Plur|Person=1|Voice=Antip	0	root	_	_
+
 # sent_id = ABE-343
 # text = umode taredö
 # text_eng = You are poor
