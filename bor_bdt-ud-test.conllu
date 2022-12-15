@@ -1090,7 +1090,7 @@
 # text = ibai pemegamodykare
 # text_eng = My house won't be good
 # text_por = Minha casa não vai ser boa
-1	Ibai	bai	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
+1	ibai	bai	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
 2	pemegamodykare	pemega	VERB	v	IF=Ass|Polarity=Neg|Tense=Fut	0	root	_	good,well;bom,bem
 
 # sent_id = ABE-334
@@ -1132,7 +1132,7 @@
 # text_eng = We ran
 # text_por = Nós corremos
 1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.inclusive;nós.inclusivo
-2	parekodyre	reko	VERB	v	IF=Ass|Clusivity=In|Number=Plur|Person=1|Voice=Antip	0	root	_	_
+2	parekodyre	reko	VERB	v	Clusivity=In|IF=Ass|Number=Plur|Person=1|Voice=Antip	0	root	_	_
 
 # sent_id = ABE-341
 # text = Fabrício ure pagi papagudugo
@@ -1148,7 +1148,7 @@
 # text_eng = We yelled
 # text_por = Nós gritamos
 1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	_
-2	pabagudugodyre	pagudugo	VERB	v	IF=Ass|Clusivity=In|Number=Plur|Person=1|Voice=Antip	0	root	_	_
+2	pabagudugodyre	pagudugo	VERB	v	Clusivity=In|IF=Ass|Number=Plur|Person=1|Voice=Antip	0	root	_	_
 
 # sent_id = ABE-343
 # text = umode taredö
@@ -1209,7 +1209,7 @@
 2	ebire	bi	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	die;morrer
 
 # sent_id = ABE-362
-# text = Adugodoge ere arigaodoge ewido
+# text = Adugodoge ere arigaodoge ebito
 # text_eng = The jaguars killed the dogs
 # text_por = As onças mataram os cachorros
 1	Adugodoge	adugo	NOUN	n	Number=Plur	4	nsubj	_	jaguar;onça
@@ -1218,11 +1218,11 @@
 4	ebito	bito	VERB	v	Number[obj]=Plur|Person[obj]=3	0	root	_	_
 
 # sent_id = ABE-366
-# text = imedu ure boeto ii
+# text = imedu ure boeto iji
 # text_eng = The man hit me
 # text_por = O homem me bateu
 1	imedu	imedu	NOUN	n	_	3	nsubj	_	man;homem
 2	ure	_	X	x	IF=Ass	3	dep	_	_
 3	boeto	boeto	VERB	v	_	0	root	_	hit;bater
-4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
+4	iji	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
 
