@@ -1234,3 +1234,23 @@
 2	boeto	boeto	VERB	v	_	0	root	_	hit;bater
 3	iji	ji	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 
+# sent_id = OBE-p75.1
+# text = ure turemo poboto
+# text_eng = He entered the water
+# text_por = Ele entrou na água
+1	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	turemo	remo	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	enter;entrar
+3-4	poboto	_	_	_	_	_	_	_	_
+3	pobo	pobo	NOUN	n	_	2	obl	_	water;água
+4	to	to	ADP	posp	_	3	case	_	in;em
+
+# sent_id = OBE-p75.2
+# text = okwagere karo koduji
+# text_eng = He ate fish meat
+# text_por = Ele comeu carne de peixe
+1	okwagere	okwage	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	eat;comer
+2	karo	karo	NOUN	n	_	3	nmod	_	_
+3-4	koduji	_	_	_	_	_	_	_	_
+3	kodu	kodu	NOUN	n	_	1	obl	_	meat;carne
+4	ji	ji	ADP	posp	_	3	case	_	_
+
