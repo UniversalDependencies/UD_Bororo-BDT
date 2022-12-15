@@ -1184,12 +1184,38 @@
 4	bai	bai	NOUN	n	_	5	obj	_	house;casa
 5	to	to	VERB	v	_	0	root	_	make,do;fazer
 
+# sent_id = ABE-358
+# text = imi iture jao
+# text_eng = I went (away) before
+# text_por = Eu (já) fui embora antes
+1	imi	ime	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	iture	tu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+3	jao	jao	ADV	adv	_	2	advmod	_	early,before;anteriormente
+
+# sent_id = ABE-359
+# text = João Maria etaregodure jao
+# text_eng = João and Maria (have) arrived before
+# text_por = João e Maria já chegaram antes
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	etaregodure	aregodu	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	arrive;chegar
+4	jao	jao	ADV	adv	_	3	advmod	_	_
+
 # sent_id = ABE-360
 # text = arigaodoge ebire
 # text_eng = the dogs died
 # text_por = os cachorros morreram
 1	arigaodoge	arigao	NOUN	n	Number=Plur	2	nsubj	_	dog;cachorro
 2	ebire	bi	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	die;morrer
+
+# sent_id = ABE-362
+# text = Adugodoge ere arigaodoge ewido
+# text_eng = The jaguars killed the dogs
+# text_por = As onças mataram os cachorros
+1	Adugodoge	adugo	NOUN	n	Number=Plur	4	nsubj	_	jaguar;onça
+2	ere	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	4	dep	_	they;eles,elas
+3	arigaodoge	arigao	NOUN	n	Number=Plur	4	obj	_	dog;cachorro
+4	ebito	bito	VERB	v	Number[obj]=Plur|Person[obj]=3	0	root	_	_
 
 # sent_id = ABE-366
 # text = imedu ure boeto ii
