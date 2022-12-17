@@ -233,7 +233,7 @@
 # text_eng = the waited there for our money
 # text_por = eles esperavam lá pelo nosso dinheiro
 1	epagare	paga	VERB	v	IF=Ass	0	root	_	wait;esperar
-2	toro	toro	ADV	adv	_	1	advmod	_	there;lá
+2	toro	toro	ADV	adv	AdvType=Loc	1	advmod	_	there;lá
 3	ceno	ce	X	x	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes	4	nmod	_	_
 4	dinheiro	dinheiro	NOUN	n	_	1	obl	_	_
 5	bagai	bagai	ADP	posp	_	4	case	_	for;por
@@ -694,7 +694,7 @@
 # text = kaba kejeba arydyre adugoji ?
 # text_eng = When did you see the jaguar?
 # text_por = quando você viu a onça?
-1	kaba	ka	ADV	pron	Int=Yes|PronType=Int	3	advmod	_	_
+1	kaba	ka	ADV	pron	Int=Yes|PronType=Int	3	advmod	_	when;quando
 2	kejeba	keje	ADP	posp	Int=Yes|Number=Sing|Person=3	1	case	_	about;sobre
 3	arydyre	jorydyre	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
 4-5	adugoji	_	_	_	_	_	_	_	_
@@ -714,7 +714,7 @@
 # text = kaeba awogumode ?
 # text_eng = Where are you going to fish?
 # text_por = onde você vai pescar?
-1	kaeba	kae	ADP	posp	Int=Yes	2	advcl	_	_
+1	kaeba	kae	ADP	posp	Int=Yes	2	advcl	_	where;como
 2	awogumode	wogu	VERB	v	IF=Ass|Number=Sing|Person=2|Tense=Fut	0	root	_	_
 3	?	?	PUNCT	_	_	2	punct	_	_
 
@@ -769,7 +769,7 @@
 # text_eng =It's today I will fish
 # text_por = é hoje que eu vou pescar
 1	awy	awy	DET	dem	_	2	nmod	_	this;este,esta
-2	merijire	meriju	ADV	adv	IF=Ass	3	advmod	_	day;dia
+2	merijire	meriju	ADV	adv	AdvType=Temp|IF=Ass	3	advmod	_	day;dia
 3	iwogumode	wogu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
 
 # sent_id = ABE-291
@@ -898,7 +898,7 @@
 # text = boecoji boe emerure taiwore kuiejedogei dytabo
 # text_eng = At night the Bororo hunt by looking at the stars 
 # text_por = à noite os bororo caçam se orientando pelas estrelas
-1	boecoji	boecoji	ADV	adv	_	3	advmod	_	_
+1	boecoji	boecoji	ADV	adv	AdvType=Temp	3	advmod	_	at.night;à.noite,de.noite
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	emerure	meru	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
 4	taiwore	aiwo	VERB	v	IF=Ass|Number=Sing|Person=3	3	obl	_	_
@@ -1108,7 +1108,7 @@
 # text_por = eu pesco bem
 1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	iwogu	wogu	VERB	v	Number=Sing|Person=1	0	root	_	_
-3	pemegare	pemega	ADV	IF=Ass	_	2	advmod	_	_
+3	pemegare	pemega	ADV	IF=Ass	_	2	advmod	_	good,well;bom,bem
 
 # sent_id = ABE-337
 # text = Eko butu pemegare
@@ -1179,8 +1179,8 @@
 # text_eng = I have already built a house
 # text_por = Eu já construí uma casa
 1	imi	imi	PRON	pron	Number[subj]=Sing|Person[subj]=1|PronType=Prs	5	nsubj	_	I;eu
-2	ire	i	X	x	IF=Ass|Number=Sing|Person=1	5	dep	_	_
-3	jao	jao	ADV	adv	_	5	advmod	_	_
+2	ire	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi	5	dep	_	_
+3	jao	jao	ADV	adv	AdvType=Temp	5	advmod	_	_
 4	bai	bai	NOUN	n	_	5	obj	_	house;casa
 5	to	to	VERB	v	_	0	root	_	make,do;fazer
 
@@ -1190,7 +1190,7 @@
 # text_por = Eu (já) fui embora antes
 1	imi	ime	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	iture	tu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
-3	jao	jao	ADV	adv	_	2	advmod	_	early,before;anteriormente
+3	jao	jao	ADV	adv	AdvType=Temp	2	advmod	_	early,before;anteriormente
 
 # sent_id = ABE-359
 # text = João Maria etaregodure jao
