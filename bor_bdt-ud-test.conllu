@@ -1304,3 +1304,12 @@
 4	boe	boe	NOUN	n	_	2	obl	_	_
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
 
+# sent_id = CGPB-p19.3
+# text = Itaidure boei
+# text_eng = I like the Bororo
+# text_por = EU gosto dos bororo
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2-3	boei	_	_	_	_	_	_	_	_
+2	boe	boe	NOUN	n	_	1	obl	_	_
+3	i	ji	ADP	posp	_	2	case	_	_
+
