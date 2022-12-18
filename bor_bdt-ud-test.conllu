@@ -1299,7 +1299,7 @@
 # text_eng = I want to live here with the Bororo
 # text_por = Eu quero morar aqui com os bororos
 1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
-2	imuguwo	mugu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
+2	imuguwo	mugu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
 3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	_
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
@@ -1312,4 +1312,15 @@
 2-3	boei	_	_	_	_	_	_	_	_
 2	boe	boe	NOUN	n	_	1	obl	_	_
 3	i	ji	ADP	posp	_	2	case	_	_
+
+# sent_id = CGPB-p19.4
+# text = Itaidure iorudiwawo boe eroji
+# text_eng = I want to know the traditions of the Bororo
+# text_por = Eu quero conhecer os costumes dos bororo
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know;saber
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4-5	eroji	_	_	_	_	_	_	_	_
+4	ero	ro	NOUN	n	_	2	obl	_	habits,tradition;costume,tradição
+5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 
