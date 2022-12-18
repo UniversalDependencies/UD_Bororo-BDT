@@ -1264,10 +1264,43 @@
 3	to	to	ADP	posp	_	2	case	_	to;a
 
 # sent_id = CGPB-p13.1
-# text = Kaiba akodumody ?
+# text = Kaiba akodumode ?
 # text_eng = Where are you going?
 # text_por = Onde você está indo?
 1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	where;aonde
-2	akodumody	kodu	VERB	v	Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
+2	akodumode	kodu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
 3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = CGPB-p13.2
+# text = Ikodumode poboto ?
+# text_eng = Where are you going?
+# text_por = Ande você vai/está indo?
+1	Ikodumode	kodu	VERB	vi	IF=Ass|Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
+2-3	poboto	_	_	_	_	_	_	_	_
+2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
+3	to	to	ADP	posp	_	2	case	_	to;a
+
+# sent_id = CGPB-p13.3
+# text = Kodiba ?
+# text_eng = Why?
+# text_por = Por que?
+1	Kodiba	Kodi	PRON	pron	PronType=Int	_	_	_	why;por.que
+2	?	P	PUNCT	_	_	1	punct	_	_
+
+# sent_id = CGPB-p13.4
+# text = Iwogumode kodi
+# text_eng = Because I will fish
+# text_por = Porque eu vou pescar
+1	Iwogumode	wogu	VERB	_	IF=Ass|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+2	kodi	kodi	ADV	adv	_	1	mark	_	because;por.que
+
+# sent_id = CGPB-p19.1
+# text = Itaidure imuguwo woe boe ebo
+# text_eng = I want to live here with the Bororo
+# text_por = Eu quero morar aqui com os bororos
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
+2	imuguwo	mugu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
+3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
+4	boe	boe	NOUN	n	_	2	obl	_	_
+5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
 
