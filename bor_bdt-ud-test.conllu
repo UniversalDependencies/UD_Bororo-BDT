@@ -1254,3 +1254,20 @@
 3	kodu	kodu	NOUN	n	_	1	obl	_	meat;carne
 4	ji	ji	ADP	posp	_	3	case	_	_
 
+# sent_id = CGPB-p11.1
+# text = Uture poboto
+# text_eng = He went to the river
+# text_por = Ele foi ao rio
+1	Uture	u	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=3	0	root	_	go;ir
+2-3	poboto	_	_	_	_	_	_	_	_
+2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
+3	to	to	ADP	posp	_	2	case	_	to;a
+
+# sent_id = CGPB-p13.1
+# text = Kaiba akodumody ?
+# text_eng = Where are you going?
+# text_por = Onde você está indo?
+1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	where;aonde
+2	akodumody	kodu	VERB	v	Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
+3	?	?	PUNCT	_	_	2	punct	_	_
+
