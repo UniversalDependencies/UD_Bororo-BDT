@@ -1356,3 +1356,40 @@
 2	pagodure	kodu	VERB	v	IF=Ass|Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
 3	?	?	PUNCT	punct	2	punct	_	_	_
 
+# sent_id = CGPB-p24.1
+# text = Itaidure imuguwo woe boe ebo
+# text_eng = I want to live close to the Bororo
+# text_por = Eu quero morar aqui perto dos bororo
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	imuguwo	mugu	VERB	v	Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	_
+3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
+4	boe	boe	NOUN	n	_	2	obl	_	_
+5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	_
+
+# sent_id = CGPB-p24.2
+# text = Itaidure amuguwo woe
+# text_eng = I want yo to live here
+# text_por = Eu quero que você more aqui
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	ccomp	_	_
+3	woe	woe	ADV	adv	_	2	advcl	_	_
+
+# sent_id = CGPB-p31.1
+# text = Itaidure erudiwawo
+# text_eng = I want them to learn/know
+# text_por = Eu quero que eles aprendam/conheçam
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|SUbord=Yes	1	ccomp	_	_
+
+# sent_id = CGPB-p31.2
+# text = Imagore akabo Joãoji
+# text_eng = I spoke to you about João
+# text_por = Eu falei com você sobre o João
+1	Imagore	mako	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	speak;falar
+2-3	akabo	_	_	_	_	_	_	_	_
+2	ak	a	PRON	bi	Number=Sing|Person=2	1	obl	_	_
+3	abo	apo	ADP	posp	_	2	case	_	_
+4-5	Joãoji	_	_	_	_	_	_	_	_
+4	João	João	PROPN	propn	_	1	obl	_	_
+5	ji	ji	ADP	posp	_	4	case	_	_
+
