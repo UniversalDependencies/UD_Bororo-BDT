@@ -1338,7 +1338,7 @@
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3	boe	boe	NOUN	n	_	4	nmod	_	_
 4-5	ewadaruji	_	_	_	_	_	_	_	_
-4	ewadaru	wadaru	NOUN	n	_	2	obl	_	language;língua,idioma
+4	ewadaru	wadaru	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
 5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 
 # sent_id = CGPB-p21.1
@@ -1347,4 +1347,12 @@
 # text_por = Nós pescamos lá
 1	Cewogure	wogu	VERB	v	Clusivity=Ex|IF=Ass|Number[subj]=Plur|Person=1	0	root	_	_
 2	toro	toro	ADV	adv	_	1	advmod	_	there;lá
+
+# sent_id = CGPB-p21.2
+# text = Kaiba pagodure ?
+# text_eng = Where did we go?
+# text_por = Aonde nós fomos
+1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	_
+2	pagodure	kodu	VERB	v	IF=Ass|Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
+3	?	?	PUNCT	punct	2	punct	_	_	_
 
