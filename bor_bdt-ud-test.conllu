@@ -1483,3 +1483,33 @@
 1	Cere	ce	PRON	bi	IF=Ass|Clusivity=Ex|Number=Plur|Person=1|PronType=Bi	2	nsubj	_	we.exclusive;nós.exclusivo
 2	cetaimo	aimo	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	0	root	_	bathe;banhar
 
+# sent_id = CGPB-p55.1
+# text = Akaiwodo, imana . Ire karo bito
+# text_eng = Look here, older brother, I killed a fish
+# text_por = Olhe aqui, irmão mais velho. Eu matei um peixe.
+1	Akaiwodo	aiwo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	look.at;olhar.para
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	imana	imana	NOUN	n	_	1	vocative	_	older.brother;irmão.mais.velho
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Ire	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi	7	nsubj	_	_
+6	karo	karo	NOUN	n	_	7	obj	_	_
+7	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	parataxis	_	_
+
+# sent_id = CGPB-p55.2
+# text = Akaiwodo, imana . Ire karo bito
+# text_eng = Ok, it is a good thing. I am hungry. Are we gong to eat the fish?
+# text_por = Tá bom, é uma boa notícia. Estou com fome. Nós vamos comer o peixe?
+1	U	u	INTJ	intj	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	boe	_	NOUN	n	_	4	nsubj	_	_
+4	pemegare	pemega	VERB	v	IF=Ass	0	root	_	_
+5	.	_	PUNCT	punct	_	4	punct	_	_
+6	Ike	ke	NOUN	_	Number=Sing|Person=1	7	nsubj	_	food;comida
+7	boere	boe	VERB	v	IF=Ass	4	parataxis	_	_
+8	ii	ji	ADP	posp	_	7	obl	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+10	Pamode	pa	PRON	bi	IF=Ass|Clusivity=In|Number=Plur|Person=1|PronType=Bi|Tense=Fut	4	parataxis	_	_
+11	karo	karo	NOUN	_	_	12	obj	_	_
+12	kowuje	kowuje	VERB	v	_	10	xcomp	_	_
+13	?	?	PUNCT	punct	_	12	punct	_	_
+
