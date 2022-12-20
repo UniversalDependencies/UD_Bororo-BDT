@@ -1426,6 +1426,22 @@
 2	karo	karo	NOUN	n	_	3	obj	_	_
 3	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cur;cortar
 
+# sent_id = CGPB-p49.1
+# text = Ire karo kado
+# text_eng = I cut fish
+# text_por = Eu corto peixe
+1	Ire	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cur;cortar
+
+# sent_id = CGPB-p49.2
+# text = Imode karo kado
+# text_eng = I'll cut fish
+# text_por = Eu vour cortar peixe
+1	Imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi|Tense=Fut	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cur;cortar
+
 # sent_id = CGPB-p46.3
 # text = Inure ike kowuje
 # text_eng = I am eating my food
@@ -1433,4 +1449,30 @@
 1	Inure	i	PRON	bi	Aspect=Prog|IF=Ass|Number[subj]=Sing|Person[subj]=1|PronType=Bi	3	nsubj	_	_
 2	ike	ke	NOUN	n	Number=Sing|Person=1	3	obj	_	fod;comida
 3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = CGPB-p46.3
+# text = Inure aroia kabi
+# text_eng = I am washing clothes
+# text_por = Estou lavando roupa
+1	Inure	i	PRON	bi	Aspect=Prog|IF=Ass|Number[subj]=Sing|Person[subj]=1|PronType=Bi	3	nsubj	_	_
+2	aroia	aroia	NOUN	n	Number=Sing|Person=1	3	obj	_	clothe;roupa
+3	kabi	kabi	VERB	v	Number=Sing|Person=3	0	root	_	wash;lavar
+
+# sent_id = CGPB-p50.1
+# text = Ire barigu moto kae
+# text_eng = I threw it on the floor
+# text_por = Eu o joguei ao chão
+1	Ire	i	PRON	pron	IF=Ass|Number[subj]=Sing|Person[subj]=1	2	nsubj	_	_
+2	barigu	barigu	VERB	v	Number=Sing|Person=3	0	root	_	throw;jogar,lançar
+3	moto	moto	NOUN	n	_	2	obl	_	floor;chão
+4	kae	kae	ADP	posp	_	3	case	_	_
+
+# sent_id = CGPB-p51.1
+# text = Ere tuwarigu moto kae
+# text_eng = They threw themselves on the floor
+# text_por = Eles se jogaram no chão
+1	Ere	e	PRON	bi	IF=Ass|Number[subj]=Plur|Person[subj]=3	2	nsubj	_	_
+2	tuwarigu	barigu	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+3	moto	moto	NOUN	n	_	2	obl	_	_
+4	kae	kae	ADP	posp	_	3	case	_	_
 
