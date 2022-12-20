@@ -1338,7 +1338,7 @@
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3	boe	boe	NOUN	n	_	4	nmod	_	_
 4-5	ewadaruji	_	_	_	_	_	_	_	_
-4	ewadaru	wadaru	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
+4	ewadaru	bataru	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
 5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 
 # sent_id = CGPB-p21.1
@@ -1392,4 +1392,37 @@
 4-5	Joãoji	_	_	_	_	_	_	_	_
 4	João	João	PROPN	propn	_	1	obl	_	_
 5	ji	ji	ADP	posp	_	4	case	_	_
+
+# sent_id = CGPB-p40.1
+# text = Akogodure ?
+# text_eng = Are you sick?
+# text_por = Você está doente?
+1	Akogodure	kogodu	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	sick,ill;doente
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = CGPB-p40.2
+# text = Iwiri urure
+# text_eng = My skin is hot (I have fever)
+# text_por = Minhapele está quente (estou com febre)
+1	Iwiri	wiri	NOUN	n	PronType=Bi|Number=Sing|Person=1	2	nsubj	_	skin;pele
+2	urure	uru	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	hot;quente
+
+# sent_id = CGPB-p46.1
+# text = Kaboba jiba aro aroino ?
+# text_eng = What are you doing?
+# text_por = O que você está fazendo?
+1	Kaboba	kabo	PRON	PronType=Int	_	3	obl	_	what;oque
+2	jiba	ji	ADP	posp	_	1	case	_	_
+3-4	aroino	_	_	_	_	_	_	_	_
+3	aro	ro	VERB	v	_	0	root	_	do;fazer
+4	aroino	aino	ADV	adv	Number=Sing|Person=2	3	advmod	_	thus,this.way,like.this;assim,detsa.maneira
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = CGPB-p46.2
+# text = Inure karo kado
+# text_eng = I am cutting fish
+# text_por = Estou cortando peixe
+1	Inure	i	PRON	bi	Aspect=Prog|IF=Ass|Number=Sing|Person=1|PronType=Bi	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cur;cortar
 
