@@ -1476,3 +1476,10 @@
 3	moto	moto	NOUN	n	_	2	obl	_	_
 4	kae	kae	ADP	posp	_	3	case	_	_
 
+# sent_id = CGPB-p51.2
+# text = Cere cetaimo
+# text_eng = We bathed ourselves
+# text_por = Nós nos banhamos
+1	Cere	ce	PRON	bi	IF=Ass|Clusivity=Ex|Number=Plur|Person=1|PronType=Bi	2	nsubj	_	we.exclusive;nós.exclusivo
+2	cetaimo	aimo	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	0	root	_	bathe;banhar
+
