@@ -1513,3 +1513,10 @@
 12	kowuje	kowuje	VERB	v	_	10	xcomp	_	_
 13	?	?	PUNCT	punct	_	12	punct	_	_
 
+# sent_id = CGPB-p55.3
+# text = Pamode ko
+# text_eng = Let's eat it
+# text_por = Vamos comê-lo
+1	Pamode	pa	PRON	bi	Clusivity=In|IF=Ass|Number[subj]=Plur|Person[subj]=1|Tense=Fut	2	nsubj	_	we.inclusive;nós.inclusivo
+2	ko	ko	VERB	v	Number[obj]=Sing|Person[obj]=3	0	root	_	eat,bite;comer,morder
+
