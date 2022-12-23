@@ -1527,3 +1527,30 @@
 1	tare	ta	PRON	bi	IF=Ass|Number[subj]=Plur|Person[subj]=2|PronType=Bi	2	nsubj	_	_
 2	etudo	u	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	_
 
+# sent_id = CGPB-p56.2
+# text = Are ake rogu tugo meriri to
+# text_eng = You put your food in the pan
+# text_por = Você pôs a sua comida dentro da panela
+1	Are	a	PRON	bi	IF=Ass|Number=Sing|Person=2|PronType=Bi	4	nsubj	_	_
+2	ake	ke	NOUN	n	Number=Sing|Person=2|PronType=Bi	3	clf	_	_
+3	rogu	rogu	NOUN	n	_	4	obj	_	foor;comida
+4	tugo	tugo	VERB	v	_	0	root	_	put.in;colocar.dentro
+
+# sent_id = CGPB-p56.3
+# text = Pare ado ake rogu tugo meriri to
+# text_eng = We made you put your food in the pan
+# text_por = Nós fizemos você pôr sua comida dentro da panela
+1	Pare	_	PRON	bi	IF=Ass|Clusivity=In|Number=Plur|Person=1|PronType=Bi	5	nsubj	_	_
+2	ado	ke	PRON	bi	Number=Sing|Person=2|Voice=Cau	5	_	_	_
+3	ake	ke	NOUN	n	Number=Sing|Person=2	4	clf	_	_
+4	rogu	rogu	NOUN	n	_	5	obj	_	_
+
+
+5	tugo	tugo	VERB	v	_	0	root	_	_
+6-7	meririto	_	_	_	_	_	_	_	_
+6	meriri	_	NOUN	n	_	5	obl	_	_
+7	to	to	ADP	posp	_	6	case	_	_
+5-6	meririto	_	_	_	_	_	_	_	_
+5	meriri	meriri	NOUN	n	_	4	obl	_	pan;panela
+6	to	to	ADP	posp	_	5	case	_	_
+
