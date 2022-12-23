@@ -1,18 +1,18 @@
 # sent_id = ABE-19
-# text = imi iörydyre boetygyji
+# text = imi irydyre boetygyji
 # text_eng = I saw the cloud (myself)
 # text_por = eu (mesmo) vi a nuvem
-1	imi	imi	PRON	pro	_	2	nsubj	_	I;eu
-2	iörydyre	jörydy	VERB	IF=Ass	_	0	root	_	[dʒɔˈɾɯdɨ];see;ver
+1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
+2	iorydyre	jorydy	VERB	IF=Ass	_	0	root	_	[dʒɔˈɾɯdɨ];see;ver
 3-4	boetygyji	_	_	_	_	_	_	_	_
 3	boetygy	boetygy	NOUN	n	_	2	iobj	_	[bɔɛ̯ˈtɯɡɨɨ̥];cloud;nuvem
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = ABE-20
-# text = iörydyre ji
+# text = iorydyre ji
 # text_eng = I saw him 
 # text_por = Eu o vi
-1	iörydyre	jörydyre	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
+1	iorydyre	jrydyre	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
 2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = ABE-21
