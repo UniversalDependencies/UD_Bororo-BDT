@@ -1567,7 +1567,7 @@
 # text_por = As pessoas não querem trabalhar hoje, porque elas cantaram a noite inteira.
 1	Boe	_	NOUN	_	_	2	nmod	_	_
 2	etaidukare	aidu	VERB	v	IF=Ass|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
-3	tumaragoduwo	ragodu	VERB	Number=Plur|Person=3	_	2	ccomp	_	work;trabalhar
+3	tumaragoduwo	ragodu	VERB	Number=Plur|Person=3|Reflex=Yes	_	2	ccomp	_	work;trabalhar
 4	awu	_	DET	dem	_	5	nmod	_	this;este,esta
 5-6	meriji	_	_	_	_	_	_	_	_
 5	meri	_	NOUN	n	_	2	obl	_	day;dia
