@@ -1552,6 +1552,30 @@
 6	meriri	_	NOUN	n	_	5	obl	_	_
 7	to	to	ADP	posp	_	6	case	_	_
 
+# sent_id = CGPB-p56.4
+# text = Are epagududo
+# text_eng = You scared them
+# text_por = Você os amedrontou
+1	Are	a	PRON	bi	IF=Ass|Number[subj]=Sing|Person[subj]=2|PronType=Bi	2	nsubj	_	you,your;você;te,ti,teu
+2	epagududo	pagudu	VERB	v	Number[obj]=PlurPerson[obj]=3|Voice=Cau	0	root	_	fear;ter.medo
+
+# sent_id = CGPB-p56.6
+# text = Baiga core
+# text_eng = The bow is black
+# text_por = O arco é preto
+1	Baiga	baiga	NOUN	n	_	2	nsubj	_	bow;arco
+2	core	core	VERB	v	_	0	root	_	black;preto
+
+# sent_id = CGPB-p56.7
+# text = Pare arududo iito
+# text_eng = Nós fizemos você subir na árvore
+# text_por = We made you clim the tree
+1	Pare	pare	PRON	pron	IF=Ass|Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.incl.;nós.incl.
+2	arududo	_	VERB	v	Number[obj]=Sing|Person[obj]=2|Voice=Cau	0	root	_	climb;subir,escalar
+3-4	iito	_	_	_	_	_	_	_	_
+3	ii	ii	NOUN	n	_	2	obl	_	tree;árvore
+4	to	to	ADP	posp	_	3	case	_	in,on;em
+
 # sent_id = CGPB-p61.1
 # text = Imi karega. Imaragodymodykare
 # text_eng = Not me. I will not work
@@ -1576,4 +1600,57 @@
 8	Eragodyre	_	VERB	_	IF=Ass|Number=Plur|Person=3	2	advcl	_	sing;cantar
 9	boecoji	_	ADV	_	_	8	advmod	_	at.night;à.noite
 10	kodi	kodi	SCONJ	_	_	8	mark	_	because;porque
+
+# sent_id = CGPB-p65.1
+# text = Atudo poboto
+# text_eng = Go to the river!
+# text_por = Vá para o rio!
+1	Atudo	tu	VERB	v	Number=Sing|Person=2|Mood=Imp	0	root	_	_
+2-3	poboto	_	_	_	_	_	_	_	_
+2	pobo	pobo	NOUN	_	_	1	obl	_	water,river;água,rio
+3	to	to	ADP	_	_	2	case	_	_
+
+# sent_id = CGPB-p72.1
+# text = Jorubutu bato , boe emode kurodo kurugoaji
+# text_eng = When the time of drought arrives, the Bororo go to poison the flooded stream.
+# text_por = Quando chega o tempo da seca, os Bororo vão envenenar o alagado do córrego.
+1	Jorubutu	jorubutu	NOUN	n	_	6	advcl	_	dry.season,year;estação.seca,ano
+2	bato	bato	NOUN	n	_	1	mark	_	village;aldeia
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	boe	boe	NOUN	_	_	6	nsubj	_	_
+5	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	6	dep	_	they;eles,elas
+6	kurodo	kuro	NOUN	n	Voice=Cau	0	root	_	liana;timbó
+7-8	kurugoaji	_	_	_	_	_	_	_	_
+7	kurugoa	kurugoa	NOUN	n	_	6	obl	_	_
+8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
+
+# sent_id = CGPB-p72.2
+# text = Boe emode baibora bu kajeje . Mare woere boe emode tugerago kuroji , awu korogedy jipaji woe , jice kapau tada
+# text_eng = They will make a grass (straw) fence in the middle of it. But, it is here (that) they will get timbó, in the bed of the stream, on the banks here, there in the middle of the tall bushes.
+# text_por = Eles vão fazer uma cerca de capim (palha) no meio dele. Mas, é aqui (que) eles vão arranjar timbó, no leito do córrego, às margens aqui, lá no meio do mato alto.
+1	Boe	boe	NOUN	_	_	5	nsubj	_	_
+2	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	5	dep	_	_
+3-4	baibora	_	_	_	_	_	_	_	_
+3	bai	bai	NOUN	_	_	4	nmod	_	straw;palha
+4	bora	bora	NOUN	_	_	5	obj	_	fence,chest;cerca,peitoral
+5	bu	bu	VERB	v	_	0	root	_	put,place;pôr,colocar
+6	kajeje	kajeje	ADP	_	_	5	obl	_	around;ao.redor,em.volta
+7	.	.	PUNCT	_	_	5	punct	_	_
+8	Mare	mare	CCONJ	cconj	_	12	cc	_	but;mas
+9	woere	woe	ADV	adv	IF=Ass	12	advmod	_	here;aqui
+10	boe	boe	NOUN	n	_	12	nsubj	_	_
+11	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
+12	tukerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3|Voice=ICau	5	conj	_	hand;mão
+13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
+14	,	,	PUNCT	punct	_	12	punct	_	_
+15	awu	awu	DET	dem	_	16	det	_	_
+16	korogedy	_	NOUN	_	_	17	nmod	_	stream;córrego
+17-18	jipaji	_	_	_	_	_	_	_	_
+17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
+18	ji	ji	ADP	posp	_	17	case	_	_
+19	woe	woe	ADV	adv	_	12	advmod	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	jice	jice	ADV	adv	_	_	22	advmod	there;lá
+22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
+23	tada	tada	ADP	posp	_	22	case	_	inside;dentro
 
