@@ -16,9 +16,9 @@ The development of this treebank is supported by the by European Research Counci
 * Nonato, Rafael (2008) _Ainore Boe egore: um estudo descritivo da língua bororo e conseqüências para a
 teoria de caso e concordância_. UNICAMP. Unpublished PhD thesis. (ABG)
 
-* Ochoa, Gonçalo Camargo (2014) Boe Ewadaru. UCDB. (OBE) 
+* Ochoa, Gonçalo Camargo (2014) _Boe Ewadaru_. UCDB. (OBE) 
 
-* Ochoa, Gonçalo Cibaikare and Etua, Frederico C. T. (1990) História mítica bororo. Vol. 1. Missão Salesiana de Mato Grosso (HMB)
+* Ochoa, Gonçalo Cibaikare and Etua, Frederico C. T. (1990) _História mítica bororo_. Vol. 1. Missão Salesiana de Mato Grosso (HMB)
 
 * Missão Salesiana de Mato Grosso (1983) _Lendas bororo: boe eno bakaru_ (2 edição). (BEB)
 
@@ -26,7 +26,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished PhD thesis. (ABG)
 
 * Crowell, Thomas Harris (2013) _Gramática Pedagógica Bororo_. SIL-Brasil. (CGPB)
 
-* Ferraz Gerardi, Fabrício (in preparation) A grammar of Bororo. (FGGB)
+* Ferraz Gerardi, Fabrício (in preparation) _A grammar of Bororo_. (FGGB)
 
 
 # Changelog
