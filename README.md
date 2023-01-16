@@ -26,6 +26,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished PhD thesis. (ABG)
 
 * Crowell, Thomas Harris (2013) _Gramática Pedagógica Bororo_. SIL-Brasil. (CGPB)
 
+* Ferraz Gerardi, Fabrício (in preparation) A grammar of Bororo.
 
 
 # Changelog
