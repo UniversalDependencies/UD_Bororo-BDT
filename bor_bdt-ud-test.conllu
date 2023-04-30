@@ -1,5 +1,5 @@
 # sent_id = ABE-19
-# text = imi irydyre boetygyji
+# text = imi iorydyre boetygyji
 # text_eng = I saw the cloud (myself)
 # text_por = eu (mesmo) vi a nuvem
 1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
@@ -1353,7 +1353,7 @@
 # text_eng = Where did we go?
 # text_por = Aonde nós fomos
 1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	_
-2	pagodure	kodu	VERB	v	IF=Ass|Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
+2	pagodure	kodu	VERB	v	Clusivity=In|IF=Ass|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
 3	?	?	PUNCT	punct	2	_	_	_	_
 
 # sent_id = CGPB-p24.1
@@ -1586,7 +1586,7 @@
 4	Imaragodymodykare	maragody	VERB	v	IF=Ass|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	1	parataxis	_	work;trabalhar
 
 # sent_id = CGPB-p61.2
-# text = Boe etaidukare tumaragoduwo awu meri ji. Eragodyre boecoji kodi
+# text = Boe etaidukare tumaragoduwo awu meriji . Eragodyre boecoji kodi
 # text_eng = The people do not want to work today, becasue they sang all nighk
 # text_por = As pessoas não querem trabalhar hoje, porque elas cantaram a noite inteira.
 1	Boe	_	NOUN	_	_	2	nmod	_	_
@@ -1605,7 +1605,7 @@
 # text = Atudo poboto
 # text_eng = Go to the river!
 # text_por = Vá para o rio!
-1	Atudo	tu	VERB	v	Number=Sing|Mood=Imp|Person=2	0	root	_	_
+1	Atudo	tu	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	poboto	_	_	_	_	_	_	_	_
 2	pobo	pobo	NOUN	_	_	1	obl	_	water,river;água,rio
 3	to	to	ADP	_	_	2	case	_	_
