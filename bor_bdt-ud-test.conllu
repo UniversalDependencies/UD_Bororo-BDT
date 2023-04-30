@@ -1285,8 +1285,8 @@
 # text = Kodiba ?
 # text_eng = Why?
 # text_por = Por que?
-1	Kodiba	Kodi	PRON	pron	PronType=Int	_	_	_	why;por.que
-2	?	P	PUNCT	_	_	1	punct	_	_
+1	Kodiba	Kodi	PRON	pron	PronType=Int	0	root	_	why;por.que
+2	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = CGPB-p13.4
 # text = Iwogumode kodi
@@ -1379,7 +1379,7 @@
 # text_eng = I want them to learn/know
 # text_por = Eu quero que eles aprendam/conheçam
 1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|SUbord=Yes	1	ccomp	_	_
+2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|Subord=Yes	1	ccomp	_	_
 
 # sent_id = CGPB-p31.2
 # text = Imagore akabo Joãoji
