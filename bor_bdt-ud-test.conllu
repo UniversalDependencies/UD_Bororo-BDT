@@ -1480,7 +1480,7 @@
 # text = Cere cetaimo
 # text_eng = We bathed ourselves
 # text_por = Nós nos banhamos
-1	Cere	ce	PRON	bi	IF=Ass|Clusivity=Ex|Number=Plur|Person=1|PronType=Bi	2	nsubj	_	we.exclusive;nós.exclusivo
+1	Cere	ce	PRON	bi	Clusivity=Ex|IF=Ass|Number=Plur|Person=1|PronType=Bi	2	nsubj	_	we.exclusive;nós.exclusivo
 2	cetaimo	aimo	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	0	root	_	bathe;banhar
 
 # sent_id = CGPB-p55.1
@@ -1496,7 +1496,7 @@
 7	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	parataxis	_	_
 
 # sent_id = CGPB-p55.2
-# text = U, boe pemegare . Ike boere ii . Pamode karo kowuje ?
+# text = U , boe pemegare . Ike boere ii . Pamode karo kowuje ?
 # text_eng = Ok, it is a good thing. I am hungry. Are we gong to eat the fish?
 # text_por = Tá bom, é uma boa notícia. Estou com fome. Nós vamos comer o peixe?
 1	U	u	INTJ	intj	_	4	discourse	_	_
@@ -1540,7 +1540,7 @@
 6	to	to	ADP	posp	_	5	case	_	_
 
 # sent_id = CGPB-p56.3
-# text = Pare ado ake rogu tugo meriri to
+# text = Pare ado ake rogu tugo meririto
 # text_eng = We made you put your food in the pan
 # text_por = Nós fizemos você pôr sua comida dentro da panela
 1	Pare	_	PRON	bi	Clusivity=In|IF=Ass|Number=Plur|Person=1|PronType=Bi	5	nsubj	_	_
@@ -1570,7 +1570,7 @@
 # text = Pare arududo iito
 # text_eng = Nós fizemos você subir na árvore
 # text_por = We made you clim the tree
-1	Pare	pare	PRON	pron	IF=Ass|Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.incl.;nós.incl.
+1	Pare	pare	PRON	pron	Clusivity=In|IF=Ass|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.incl.;nós.incl.
 2	arududo	_	VERB	v	Number[obj]=Sing|Person[obj]=2|Voice=Cau	0	root	_	climb;subir,escalar
 3-4	iito	_	_	_	_	_	_	_	_
 3	ii	ii	NOUN	n	_	2	obl	_	tree;árvore
