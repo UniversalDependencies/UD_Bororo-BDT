@@ -1059,7 +1059,7 @@
 1	Fabrício	Fabrício	PROPN	_	_	4	nsubj	_	_
 2	umodykare	u	PRON	bi	IF=Ass|Polarity=Neg|Tense=Fut	4	dep	_	_
 3	pagi	pagi	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	obj	_	we.inclusive;nós.inclusivo
-4	pabito	bi	VERB	v	Clusivity=In|Number[obj]=Plur|Number[obj]=1|Voice=Cau	0	root	_	die;morrer
+4	pabito	bi	VERB	v	Clusivity=In|Number[obj]=Plur|Person[obj]=1|Voice=Cau	0	root	_	die;morrer
 
 # sent_id = ABE-328
 # text = Fabrício ukare mea arego
@@ -1408,10 +1408,10 @@
 2	urure	uru	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	hot;quente
 
 # sent_id = CGPB-p46.1
-# text = Kaboba jiba aro aroino ?
+# text = Kaboba jiba aroino ?
 # text_eng = What are you doing?
 # text_por = O que você está fazendo?
-1	Kaboba	kabo	PRON	PronType=Int	_	3	obl	_	what;oque
+1	Kaboba	kabo	PRON	_	PronType=Int	_	3	obl	_	what;oque
 2	jiba	ji	ADP	posp	_	1	case	_	_
 3-4	aroino	_	_	_	_	_	_	_	_
 3	aro	ro	VERB	v	_	0	root	_	do;fazer
@@ -1484,7 +1484,7 @@
 2	cetaimo	aimo	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	0	root	_	bathe;banhar
 
 # sent_id = CGPB-p55.1
-# text = Akaiwodo, imana . Ire karo bito
+# text = Akaiwodo , imana . Ire karo bito
 # text_eng = Look here, older brother, I killed a fish
 # text_por = Olhe aqui, irmão mais velho. Eu matei um peixe.
 1	Akaiwodo	aiwo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	look.at;olhar.para
@@ -1496,7 +1496,7 @@
 7	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	parataxis	_	_
 
 # sent_id = CGPB-p55.2
-# text = Akaiwodo, imana . Ire karo bito
+# text = U, boe pemegare . Ike boere ii . Pamode karo kowuje ?
 # text_eng = Ok, it is a good thing. I am hungry. Are we gong to eat the fish?
 # text_por = Tá bom, é uma boa notícia. Estou com fome. Nós vamos comer o peixe?
 1	U	u	INTJ	intj	_	4	discourse	_	_
@@ -1543,7 +1543,7 @@
 # text = Pare ado ake rogu tugo meriri to
 # text_eng = We made you put your food in the pan
 # text_por = Nós fizemos você pôr sua comida dentro da panela
-1	Pare	_	PRON	bi	IF=Ass|Clusivity=In|Number=Plur|Person=1|PronType=Bi	5	nsubj	_	_
+1	Pare	_	PRON	bi	Clusivity=In|IF=Ass|Number=Plur|Person=1|PronType=Bi	5	nsubj	_	_
 2	ado	ke	PRON	bi	Number=Sing|Person=2|Voice=Cau	5	_	_	_
 3	ake	ke	NOUN	n	Number=Sing|Person=2	4	clf	_	_
 4	rogu	rogu	NOUN	n	_	5	obj	_	_
