@@ -1628,29 +1628,29 @@
 # text = Boe emode baibora bu kajeje . Mare woere boe emode tugerago kuroji , awu korogedy jipaji woe , jice kapau tada
 # text_eng = They will make a grass (straw) fence in the middle of it. But, it is here (that) they will get timbó, in the bed of the stream, on the banks here, there in the middle of the tall bushes.
 # text_por = Eles vão fazer uma cerca de capim (palha) no meio dele. Mas, é aqui (que) eles vão arranjar timbó, no leito do córrego, às margens aqui, lá no meio do mato alto.
-1	Boe	boe	NOUN	_	_	5	nsubj	5:nsubj	_
-2	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	5	dep	5:dep	_
+1	Boe	boe	NOUN	_	_	5	nsubj	_	_
+2	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	5	dep	_	_
 3-4	baibora	_	_	_	_	_	_	_	_
-3	bai	bai	NOUN	_	_	4	nmod	4:nmod	straw;palha
-4	bora	bora	NOUN	_	_	5	obj	5:obj	fence,chest;cerca,peitoral
-5	bu	bu	VERB	v	_	0	root	0:root	put,place;pôr,colocar
-6	kajeje	kajeje	ADP	_	_	5	obl	5:obl	around;ao.redor,em.volta
-7	.	.	PUNCT	_	_	5	punct	5:punct	_
-8	Mare	mare	CCONJ	cconj	_	12	cc	12:cc	but;mas
-9	woere	woe	ADV	adv	IF=Ass	12	advmod	12:advmod	here;aqui
-10	boe	boe	NOUN	n	_	12	nsubj	12:nsubj	_
-11	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	12:dep	_
-12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	5:conj	hand;mão
-13	kuroji	kuroji	NOUN	n	_	12	obj	12:obj	_
-14	,	,	PUNCT	punct	_	12	punct	12:punct	_
-15	awu	awu	DET	dem	_	16	det	16:det	_
-16	korogedy	_	NOUN	_	_	17	nmod	17:nmod	stream;córrego
+3	bai	bai	NOUN	_	_	4	nmod	_	straw;palha
+4	bora	bora	NOUN	_	_	5	obj	_	fence,chest;cerca,peitoral
+5	bu	bu	VERB	v	_	0	root	_	put,place;pôr,colocar
+6	kajeje	kajeje	ADP	_	_	5	obl	_	around;ao.redor,em.volta
+7	.	.	PUNCT	_	_	5	punct	_	_
+8	Mare	mare	CCONJ	cconj	_	12	cc	_	but;mas
+9	woere	woe	ADV	adv	IF=Ass	12	advmod	_	here;aqui
+10	boe	boe	NOUN	n	_	12	nsubj	_	_
+11	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
+12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	_	hand;mão
+13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
+14	,	,	PUNCT	punct	_	12	punct	_	_
+15	awu	awu	DET	dem	_	16	det	_	_
+16	korogedy	_	NOUN	_	_	17	nmod	_	stream;córrego
 17-18	jipaji	_	_	_	_	_	_	_	_
-17	jipa	jipa	NOUN	n	_	19	obl	19:obl	margin,side,cheek;margem,lado,bochecha
-18	ji	ji	ADP	posp	_	17	case	17:case	_
-19	woe	woe	ADV	adv	_	12	advmod	12:advmod	_
-20	,	,	PUNCT	punct	_	19	punct	19:punct	_
-21	jice	jice	ADV	adv	_	22	advmod	22:advmod	there;lá
-22	kapau	kapau	NOUN	n	_	12	obl	12:obl	tall.bush;mato.alto
-23	tada	tada	ADP	posp	_	22	case	22:case	inside;dentro
+17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
+18	ji	ji	ADP	posp	_	17	case	_	_
+19	woe	woe	ADV	adv	_	12	advmod	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	jice	jice	ADV	adv	_	22	advmod	_	there;lá
+22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
+23	tada	tada	ADP	posp	_	22	case	_	inside;dentro
 
