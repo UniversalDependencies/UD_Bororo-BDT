@@ -1,30 +1,1656 @@
+# sent_id = ABE-19
+# text = imi iorydyre boetygyji
+# text_eng = I saw the cloud (myself)
+# text_por = eu (mesmo) vi a nuvem
+1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
+2	iorydyre	jorydy	VERB	IF=Ass	_	0	root	_	[dʒɔˈɾɯdɨ];see;ver
+3-4	boetygyji	_	_	_	_	_	_	_	_
+3	boetygy	boetygy	NOUN	n	_	2	iobj	_	[bɔɛ̯ˈtɯɡɨɨ̥];cloud;nuvem
+4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-20
+# text = iorydyre ji
+# text_eng = I saw him 
+# text_por = Eu o vi
+1	iorydyre	jrydyre	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
+2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	_
+
+# sent_id = ABE-21
+# text = maky ipare etae
+# text_eng = Give (it) to the young ones
+# text_por = dê-o aos jovens
+1	maky	maky	VERB	v	_	0	root	_	give;dar
+2	ipare	ipare	NOUN	n	_	1	obl	_	young;jovem
+3	etae	ae	ADP	posp	Number=Plur|Person=3	2	case	_	to;para
+
+# sent_id = ABE-22
+# text = adugore emage ebito
+# text_eng = The jaguar killed them
+# text_por = a onça os(as) matou
+1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	[aḁˈdɯɡwɔɔ̥];jaguar;onça
+2	emage	mage	PRON	pron	Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+3	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-23
+# text = imi itaragydy
+# text_eng = I cried
+# text_por = Eu chorei
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
+2	itaragydy	aragydy	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	cry;chorar
+
+# sent_id = ABE-24
+# text = areme emode tamudö
+# text_eng = The women will rest
+# text_por = as mulheres vão descansar
+1	areme	aredy	NOUN	nu	_	4	nsubj	_	[aˈɾɛdɨ];women;mulheres
+2-3	emode	_	_	_	_	_	_	_	_
+2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
+3	e	re	X	x	IF=Ass	4	dep	_	_
+4	tamudö	amudö	VERB	v	Person=3|Reflex=Yes	0	root	_	rest;descansar
+
+# sent_id = ABE-25
+# text = imi inokwa
+# text_eng = my mouth
+# text_por = minha boca
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	inokwa	ia	NOUN	n	Number=Sing|Person=1	0	root	_	_
+
+# sent_id = ABE-26
+# text = ure karo kowuje
+# text_eng = He ate the fish
+# text_por = comeu o peixe
+1	ure	re	PRON	bi	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+
+# sent_id = ABE-27
+# text = imedy ure karo kowuje
+# text_eng = the man ate the fish
+# text_por = O homem comeu o peixe
+1	imedy	_	NOUN	n	_	4	nsubj	_	_
+2	ure	re	PRON	bi	IF=Ass|Number=Sing|Person=3	1	dep	_	_
+3	karo	karo	NOUN	n	_	4	obj	_	_
+4	kowuje	kowuje	VERB	v	_	0	root	_	_
+
+# sent_id = ABE-28
+# text = imedyre karo kowuje
+# text_eng = the man ate the fish
+# text_por = O homem comeu o peixe
+1	imedyre	imedy	NOUN	n	IF=Ass	3	nsubj	_	man;homem
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = ABE-30
+# text = imago
+# text_eng = I spoke
+# text_por = eu falei
+1	imago	mago	VERB	v	Number=Sing|Person=1	0	root	_	speak;falar
+
+# sent_id = ABE-31
+# text = itaregödy
+# text_eng = I arrived
+# text_por = eu cheguei
+1	itaregödy	aregödy	VERB	v	Number=Sing|Person=1	0	root	_	arrive;chegar
+
+# sent_id = ABE-32
+# text = ino
+# text_eng = my thing
+# text_por = minha coisa
+1	ino	o	NOUN	n	Number=Sing|Person=1	0	root	_	thing;coisa
+
+# sent_id = ABE-33
+# text = ikie
+# text_eng = my name
+# text_por = meu nome
+1	ikie	ie	NOUN	n	Number=Sing|Person=1	0	root	_	name;nome
+
+# sent_id = ABE-34
+# text = aredy pagare
+# text_eng = The woman waited
+# text_por = a mulher esperou
+1	aredy	aredy	NOUN	n	_	2	nsubj	_	_
+2	pagare	paga	VERB	v	Number=Sing|Person=3	0	root	_	wait;esperar
+
+# sent_id = ABE-35
+# text = aredy padyre
+# text_eng = The woman laid down
+# text_por = a mulher deitou
+1	aredy	aredy	NOUN	n	_	2	nsubj	_	woman;mulher
+2	padyre	pady	VERB	v	IF=Ass	0	root	_	lie.down;deitar
+
+# sent_id = ABE-37
+# text = areme emode tamudö
+# text_eng = The women will rest
+# text_por = as mulheres vão descansar
+1	areme	areme	NOUN	n	_	4	nsubj	_	women;mulheres
+2-3	emode	_	_	_	_	_	_	_	_
+2	emod	mody	X	x	Number=Plur|Person=3|Tense=Fut	4	dep	_	_
+3	e	re	X	x	IF=Ass	4	dep	_	_
+4	tamudö	amudö	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+
+# sent_id = ABE-38
+# text = negedürogu jorudüre pudyi poboto
+# text_eng = The child saw itself in the water
+# text_por = a criança se viu na água
+1	negedürogu	negedürogu	NOUN	n	_	2	nsubj	_	child;criança
+2	jorudüre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
+3	pudyi	ji	ADP	posp	Person=3|Reflex=Yes	2	obl	_	_
+4-5	poboto	_	_	_	_	_	_	_	_
+4	pobo	_	NOUN	n	_	2	obl	_	water;água
+5	to	_	ADP	posp	_	4	case	_	in;em
+
+# sent_id = ABE-39
+# text = negekygyre erudyre pudyi poboto
+# text_eng = The children saw themselves in the water
+# text_por = as crianças se viram na água
+1	negekygyre	negedürogu	NOUN	n	_	2	nsubj	_	child;criança
+2	erudyre	jorudy	VERB	v	IF=Ass	0	root	_	see;ver
+3	pudyi	ji	ADP	posp	Person=3|Reflex=Yes	2	obl	_	_
+4-5	poboto	_	_	_	_	_	_	_	_
+4	pobo	_	NOUN	n	_	2	obl	_	water;água
+5	to	_	ADP	posp	_	4	case	_	in;em
+
+# sent_id = ABE-40
+# text = etunure bytygy tabo pu ubaikae
+# text_eng = They are slowly going to each other's house
+# text_por = eles estão indo devagar um para a casa do outro
+1	etunure	tu	VERB	v	Aspect=Prog|IF=Ass	0	root	_	go;ir
+2	bytygy	_	NOUN	n	_	1	obl	_	slowlyness;lentidão
+3	tabo	tabo	ADP	posp	_	2	case	_	with;com
+4	pu	pu	PRON	pron	Reflex=Yes	5	nmod	_	X;X
+5-6	ubaikae	_	_	_	_	_	_	_	_
+5	ubai	bai	NOUN	n	_	1	obl	_	house;casa
+6	kae	ae	ADP	posp	_	5	case	_	to;a
+
+# sent_id = ABE-42a
+# text = eimejeramode apu bito
+# text_eng = Their chief will kill the paca
+# text_por = o chefe deles vai matar a paca
+1	eimejeramode	imejera	NOUN	n	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
+2	apu	apu	NOUN	n	_	3	obj	_	paca;paca
+3	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	die,morrer
+
+# sent_id = ABE-42b
+# text = eimejeramode apoe ebito
+# text_eng = Their chief will kill the pacas
+# text_por = o chefe deles vai matar as pacas
+1	eimejeramode	imejera	NOUN	n	IF=Ass|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
+2	apoe	apu	NOUN	n	Number=Plur	3	obj	_	paca;paca
+3	ebito	bi	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	die,morrer
+
+# sent_id = ABE-48
+# text = akore taregodyie
+# text_eng = He said (that) he arrived
+# text_por = ele disse que chegou
+1	akore	ako	VERB	v	IF=Ass	0	root	_	say,speak;dizer,falar
+2	taregodyie	aregody	VERB	v	Evident=Rep|Reflex=Yes	1	xcomp	_	arrive;chegar
+
+# sent_id = ABE-49
+# text = inakore itaregodyie
+# text_eng = He said (that) he arrived
+# text_por = ele disse que chegou
+1	inakore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	_
+2	itaregodyie	aregody	VERB	v	Evident=Rep|Number=Sing|Person=1|Reflex=Yes	1	xcomp	_	_
+
+# sent_id = ABE-55
+# text = aki ako ika
+# text_eng = your canoe
+# text_por = tua canoa
+1	aki	aki	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	_	you;você
+2	ako	ak	X	x	Number=Sing|Person=2|Poss=Yes	3	dep	_	possessor.mark;maracador.de.posse
+3	ika	ika	NOUN	n	_	0	root	_	canoe;canoa
+
+# sent_id = ABE-62
+# text = kare iwogure jiwyge
+# text_eng = the fish (that) I fished
+# text_por = os peixes que eu pesquei
+1	kare	karo	NOUN	n	Number=Plur	0	root	_	fish;peixe
+2	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	1	acl	_	fish;pesca
+3	jiwyge	ji	ADP	posp	Number=Plur|Rel=Yes	2	obl	_	_
+
+# sent_id = ABE-151
+# text = imedy utyre ibaikae tubaiga bagai
+# text_eng = The man is going home for his weapon
+# text_por = o homem está indo na minha casa para (pegar) a arma dele
+1	imedy	imedy	NOUN	n	_	2	nsubj	_	man;homem
+2	utyre	ty	VERB	v	Aspect=Prog|IF=Ass|Number=Sing|Person=3	0	root	_	go;ir
+3-4	ibaikae	_	_	_	_	_	_	_	_
+3	ibai	bai	NOUN	n	Number=Sing|Person=1	2	obl	_	house;casa
+4	kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	house;casa
+5	tubaiga	baiga	NOUN	n	Person=3|Reflex=Yes	3	obl	_	weapon;arma
+6	bagai	bagai	ADP	posp	_	5	case	_	_
+
+# sent_id = ABE-152
+# text = iiemarure negedurogu bagai
+# text_eng = I am loking for the child
+# text_por = estou procurando a criança
+1	iiemarure	jemaru	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	negedurogu	negedurogu	NOUN	n	_	1	obj	_	_
+3	bagai	bagai	ADP	posp	_	2	case	_	_
+
+# sent_id = ABE-153
+# text = epagare toro ceno dinheiro bagai
+# text_eng = the waited there for our money
+# text_por = eles esperavam lá pelo nosso dinheiro
+1	epagare	paga	VERB	v	IF=Ass	0	root	_	wait;esperar
+2	toro	toro	ADV	adv	_	1	advmod	_	there;lá
+3	ceno	ce	X	x	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes	4	nmod	_	_
+4	dinheiro	dinheiro	NOUN	n	_	1	obl	_	_
+5	bagai	bagai	ADP	posp	_	4	case	_	for;por
+
+# sent_id = ABE-214
+# text = ime emode aroia kabi
+# text_eng = The man will wash clothes
+# text_por = os homens vão lavar as roupas
+1	ime	imedu	NOUN	n	Number=Plur	4	nsubj	_	man;homem
+2	emode	modyre	X	x	IF=Ass|Number=Plur|Person=3|Tense=Fut	4	dep	_	_
+3	aroia	aroia	NOUN	n	_	4	obj	_	clothe;roupa
+4	kabi	kabi	VERB	v	_	0	root	_	wash;lavar
+
+# sent_id = ABE-215
+# text = ime emodykare aroia kabi
+# text_eng = The man will wash clothes
+# text_por = os homens vão lavar as roupas
+1	ime	imedu	NOUN	n	Number=Plur	4	nsubj	_	_
+2	emodykare	modyre	X	x	IF=Ass|Number=Plur|Person=3|Polarity=Neg	4	dep	_	_
+3	aroia	aroia	NOUN	n	_	4	obj	_	cloth;roupa
+4	kabi	kabi	VERB	v	_	0	root	_	wash;lavar
+
+# sent_id = ABE-216
+# text = boe ewogyre
+# text_eng = The Boror fished
+# text_por = os bororo pescaram
+1	boe	boe	NOUN	n	_	2	nsubj	_	people,boror;povo,gente,bororo
+2	ewogyre	wogy	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	fish;pescar
+
+# sent_id = ABE-217
+# text = arydyre boe ewogyre dyji ?
+# text_eng = Did you see that the Boror fished?
+# text_por = você viu que os bororo pescaram?
+1	arydyre	_	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	ewogyre	wogy	VERB	v	IF=Ass|Number=Plur|Person=3	1	ccomp	_	fish;pescar
+4	dyji	_	X	x	_	3	mark	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = ABE-218
+# text = mearudaere tumotyie
+# text_eng = (S)he thinks (s)he is pretty
+# text_por = ele(a) pensa que é bonito(a)
+1	mearudaere	mearudae	VERB	_	IF=Ass	0	root	_	think;pensar
+2	tumotyie	mody	VERB	_	Evident=Rep	1	ccomp	_	be.beautiful;ser.bonito
+
+# sent_id = ABE-219
+# text = inakore imeruie
+# text_eng = I said (that) I hunted
+# text_por = eu disse que cacei
+1	inakore	ako	VERB	_	IF=Ass|Number=Sing|Person=1	0	root	_	say;dizer
+2	imeruie	meru	VERB	_	Evident=Rep|Number=Sing|Person=1	1	ccomp	_	hunt;caçar
+
+# sent_id = ABE-220
+# text = iie arigao bito
+# text_eng = I killed the dog (they say)
+# text_por = (eles pensam que) eu matei o cachorro
+1	iie	_	X	_	Evident=Rep|Number=Sing|Person=1	3	nsubj	_	_
+2	arigao	arigao	NOUN	_	_	3	obj	_	dog;cachorro
+3	bito	bi	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	morrer;die
+
+# sent_id = ABE-221
+# text = itaidyre ikiguruduwo
+# text_eng = I want to urinate
+# text_por = eu quero urinar
+1	itaidyre	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	want;querer
+2	ikiguruduwo	kigurudu	VERB	v	Mood=Des|Number=Sing|Person=1	1	ccomp	_	urinate;urinar
+
+# sent_id = ABE-222
+# text = boere tugu mototo botuwo
+# text_eng = The Boror plant to grow/blosson
+# text_por = os bororo plantam (lit. 'enfiam na terra') para nascer
+1	boere	boe	NOUN	n	IF=Ass	2	nsubj	_	_
+2	tugu	tugu	VERB	v	Number=Sing|Person=3	0	root	_	earth;terra
+3-4	mototo	_	_	_	_	_	_	_	_
+3	moto	moto	NOUN	n	_	2	obl	_	put.in;enfiar
+4	to	to	ADP	posp	_	3	case	_	put.in;enfiar
+5	botuwo	botu	VERB	v	Mood=Des|Number=Sing|Person=3	2	xcomp	_	be.born;nascer
+
+# sent_id = ABE-223
+# text = patuwo pabaikae
+# text_eng = Let's walk to our home
+# text_por = andemos para nossa casa
+1	patuwo	tu	VERB	_	Clusivity=In|Mood=Des|Number=Plur|Person=1	0	root	_	ir;go
+2-3	pabaikae	_	_	_	_	_	_	_	_
+2	pabai	bai	NOUN	_	Clusivity=In|Number=Plur|Person=1	1	obl	_	house;casa
+3	kae	ae	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	to;para
+
+# sent_id = ABE-224
+# text = tarydyre iwogyi pobu bagaidyji
+# text_eng = You saw me fishing
+# text_por = você me viu pescar
+1	tarydyre	jorydy	VERB	_	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
+2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	ccomp	_	fish;pescar
+3	pobu	_	NOUN	n	_	2	obj	_	pacu;pacu
+4-5	bagaidyji	_	_	_	_	_	_	_	_
+4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=3|Subord=Yes	3	case	_	_
+5	ji	ji	ADP	posp	_	1	obl	_	_
+
+# sent_id = ABE-226
+# text = erydyre iwogukaidy ji
+# text_eng = You saw me not fishing
+# text_por = eles viram eu não pescar
+1	erydyre	jörydy	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	see;ver
+2	iwogukaidy	wogu	VERB	v	Number=Sing|Person=1|Polarity=Neg|Subord=Yes|VerbForm=Inf	1	ccomp	_	fish;pescar
+3	ji	ji	ADP	posp	_	1	obl	_	_
+
+# sent_id = ABE-229
+# text = iorüdyiwamode boe ebataruji
+# text_eng = I will know the language of the Bororo
+# text_por = eu saberei (falar) a língua bororo
+1	iorüdyiwamode	jorüdüiwa	VERB	v	IF=Ass|Number=Sing|Person=1|Tense=Fut	0	root	_	know;saber
+2	boe	boe	NOUN	n	_	3	nmod	_	_
+3-4	ebataruji	_	_	_	_	_	_	_	_
+3	ebataru	bataru	NOUN	n	Number=Plur|Person=3	1	obl	_	language;língua
+4	ji	ji	NOUN	n	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-230
+# text = Dario ure iorydyiwamodedydö boe ebataruji
+# text_eng = Dario will teach the language of the Bororo
+# text_por = Dario vai ensinar a língua bororo
+1	Dario	Dario	PROPN	propn	_	3	nsubj	_	_
+2	ure	_	X	_	IF=Ass	3	dep	_	_
+3	iorydyiwamodedydö	_	VERB	_	Number=Sing|Person=3|Subord=Yes|Tense=Fut|Voice=Cau	0	root	_	_
+4	boe	boe	NOUN	n	_	5	nmod	_	_
+5-6	ebataruji	_	_	_	_	_	_	_	_
+5	ebataru	bataru	NOUN	n	Number=Plur|Person=3	3	obl	_	language;língua
+6	ji	ji	NOUN	n	Number=Sing|Person=3	5	case	_	_
+
+# sent_id = ABE-231
+# text = ikare awy i kado
+# text_eng = I do not cut this tree
+# text_por = eu não corto essa árvore
+1	ikare	i	X	_	IF=Ass|Number=Sing|Person=1|Polarity=Neg	4	nsubj	_	_
+2	awy	awy	DET	_	_	3	det	_	this;este,esta
+3	i	i	NOUN	_	_	4	obj	_	tree;árvore
+4	kado	kado	VERB	_	Number=Sing|Person=3	0	root	_	cut;cortar
+
+# sent_id = ABE-233
+# text = ire awy i kado
+# text_eng = I cut this tree
+# text_por = eu corto essa árvore
+1	ire	i	PRON	bi	IF=Ass	4	nsubj	_	you;você
+2	awy	awy	DET	dem	_	3	det	_	this;este,esta
+3	i	i	NOUN	_	_	4	obj	_	tree;árvore
+4	kado	kado	VERB	v	_	0	root	_	cut;cortar
+
+# sent_id = ABE-235
+# text = imode ibaidogedö
+# text_eng = I'll make my houses (I'll cause my houses (to exist))
+# text_por = eu vou fazer as minhas casas
+1	imode	i	PRON	bi	IF=Ass|Tense=Fut	2	nsubj	_	I;eu
+2	ibaidogedö	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1|Voice=Cau	0	root	_	house;casa
+
+# sent_id = ABE-236
+# text = imode ibaidoge etowuje
+# text_eng = I will make my houses
+# text_por = eu vou fazer as minhas casas
+1	imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1	3	nsubj	_	I,me;eu,me,mim
+2	ibaidoge	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1	3	obj	_	house;casa
+3	etowuje	towuje	VERB	v	Number[obj]=Sing|Person[obj]=1	0	root	_	_
+
+# sent_id = ABE-239
+# text = awogudö !
+# text_eng = (Go) fish!
+# text_por = vá pescar!
+1	awogudö	wogu	VERB	v	Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	fish;pescar
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = ABE-240
+# text = itykadyre
+# text_eng = I am not going anymore
+# text_por = eu não vou mais
+1	itykadyre	ty	VERB	v	Aspect=Prog|IF=Ass|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	0	root	_	go;ir
+
+# sent_id = ABE-241
+# text = imakore baperato
+# text_eng = I am talking to the paper (I am reading)
+# text_por = estou falando com o papel (estou lendo)
+1	imakore	mako	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
+2-3	baperato	_	_	_	_	_	_	_	_
+2	bapera	bapera	NOUN	n	_	1	obl	_	paper;papel
+3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	to,with;para,com
+
+# sent_id = ABE-242
+# text = are akeragu karoji ?
+# text_eng = Are you catching fish?
+# text_por = você está pegando o peixe?
+1	are	_	PRON	bi	IF=Ass|Number=Sing|Person=2	2	nsubj	_	_
+2	akeragu	kera	NOUN	_	Number=Sing|Person=2|Voice=Cau	0	root	_	hand;mão
+3-4	karoji	_	_	_	_	_	_	_	_
+3	karo	karo	NOUN	n	_	2	obl	_	fish;peixe
+4	ji	karo	NOUN	n	_	3	case	_	fish;peixe
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = ABE-243
+# text = emage ere karo ko
+# text_eng = they are eating (the) fish
+# text_por = eles(as) estão comendo o peixe
+1	emage	ema	PRON	pron	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	ere	e	PRON	bi	IF=Ass|Number=Plur|Person=3	1	dep	_	_
+3	karo	karo	NOUN	_	_	4	obj	_	_
+4	ko	ko(wuje)	VERB	v	_	0	root	_	eat;comer
+
+# sent_id = ABE-244
+# text = ikadykigodykare karo ko
+# text_eng = I don't even eat fish
+# text_por = eu nem sempre como peixe
+1	ikadykigodykare	i	PRON	bi	Aspect=Hab|IF=Ass|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	3	xcomp	_	_
+2	karo	karo	NOUN	n	_	3	nsubj	_	fish;peixe
+3	ko	ko	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+
+# sent_id = ABE-245
+# text = cekigodyre adugo kowuje
+# text_eng = We used to eat jaguar
+# text_por = nós sempre comíamos onça
+1	cekigodyre	ce	PRON	bi	Aspect=Hab|Clusivity=In|IF=Ass|Number=Plur|Person=1	3	nsubj	_	we,us;nós,nos
+2	adugo	adugo	NOUN	n	_	3	obj	_	jaguar;onça
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+
+# sent_id = ABE-246
+# text = takigodyre meriri aiwodö iagi
+# text_eng = You cause the metal to see in my mouth (you photograph inside my mouth)
+# text_por = vocês sempre fazem o metal ver dentro da minha boca (vocês sempre fotografam dentro da minha boca)
+1	takigodyre	ta	PRON	bi	Aspect=Hab|IF=Ass	3	nsubj	_	_
+2	meriri	meriri	NOUN	n	_	3	obl	_	metal;metal
+3	aiwodö	aiwo	VERB	v	Voice=Cau	0	root	_	see;ver
+4-5	iagi	_	_	_	_	_	_	_	_
+4	ia	ia	NOUN	n	_	3	obl	_	mouth;boca
+5	gi	_	ADP	posp	_	4	case	_	_
+
+# sent_id = ABE-247
+# text = iwogukidogüre
+# text_eng = I always fished
+# text_por = eu sempre pescava
+1	iwogukidogüre	wogu	VERB	v	Aspect=Hab|IF=Ass|Number=Sing|Person=1	0	root	_	fish;pescar
+
+# sent_id = ABE-248
+# text = iadukeje pobu kurire
+# text_eng = Perhaps it is a big pacu
+# text_por = talvez o pacu seja grand
+1	iadukeje	_	ADV	_	_	3	advcl	_	perhaps;talvez
+2	pobu	_	NOUN	_	_	3	nsubj	_	pacu;pacu
+3	kurire	kuri	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	be.big;ser.grande
+
+# sent_id = ABE-249
+# text = imearudaere pobu kurimodyie
+# text_eng = You are poor
+# text_por = eu acho que o pacu vai ser grande
+1	imearudaere	mearudae	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
+2	pobu	pobu	NOUN	n	_	3	nsubj	_	pacu;pacu
+3	kurimodyie	kuri	VERB	v	Evident=Rep|Tense=Fut	1	ccomp	_	be.big;ser.grande
+
+# sent_id = ABE-250
+# text = imi iwogure pobu bagai
+# text_eng = I fish pacu (for pacu)
+# text_por = eu pesco pacu' (lit. 'para (ter) pacu')
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
+3	pobu	pogu	NOUN	n	_	2	obl	_	_
+4	bagai	bagai	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-251
+# text = imi iwogure kurikare pobu bagai
+# text_eng = I do not fish much pacu
+# text_por = Eu não pesco muito pacu (lit. para (ter) pacu não é muito o meu pescar)
+1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
+2	iwogure	_	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	fish;pescar
+3	kurikare	kuri	ADV	adv	IF=Ass|Polarity=Neg	2	advmod	_	much;muito
+4	pobu	pobu	NOUN	n	_	2	obl	_	pacu;pacu
+5	bagai	bagai	ADP	posp	_	4	case	_	to,for,for.the.purpose.of;para,por
+
+# sent_id = ABE-253
+# text = ere ju kudu kowuje
+# text_eng = They eat manioc flower
+# text_por = eles comem farinha de mandioca
+1	ere	e	PRON	bi	IF=Ass|Number=Sing|Person=3	4	nsubj	_	_
+2	ju	ju	NOUN	n	_	3	nmod	_	manioc;mandioca
+3	kudu	kudu	NOUN	n	_	4	obj	_	powder;pó
+4	kowuje	kowuje	VERB	v	_	0	root	_	eat;comer
+
+# sent_id = ABE-255
+# text = ju kudu kowujedy kurire
+# text_eng = Manioc flouer is eaten a lot (the eating of manioc flouer is a lot)
+# text_por = farinha de mandioca é muito comida
+1	ju	_	NOUN	n	_	2	nmod	_	_
+2	kudu	_	NOUN	n	_	3	nmod	_	_
+3	kowujedy	_	NOUN	n	Nomzr=Yes	4	nsubj	_	_
+4	kurire	kurire	VERB	v	IF=Ass	0	root	_	_
+
+# sent_id = ABE-256
+# text = ere ju kudu kowujedy kuridö
+# text_eng = Manioc flouer is eaten a lot (the eating of manioc flouer is a lot)
+# text_por = eles comem muito farinha de mandioca (lit. é causada por eles muita ingestão de mandioca)
+1	ere	e	PRON	bi	IF=Ass|Number=Plur|Person=3	5	nsubj	_	_
+2	ju	ju	NOUN	n	_	3	nmod	_	manioc;mandioca
+3	kudu	kudu	NOUN	n	_	4	nmod	_	powder,flour;pó,farinha
+4	kowujedy	kowuje	NOUN	n	Nomzr=Yes	5	obj	_	eat;comer
+5	kuridö	kuri	VERB	v	Voice=Cau	0	root	_	much;muito
+
+# sent_id = ABE-258
+# text = joruduiwabokware
+# text_eng = He is stupid
+# text_por = ele é estúpido
+1	joruduiwabokware	joruduiwa	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg	0	root	_	know;saber
+
+# sent_id = ABE-259
+# text = baraedy ukare kuiada a rawuje
+# text_eng = He is stupid
+# text_por = The non-indian does not ripe maize
+1	baraedy	baraedy	NOUN	n	_	5	nsubj	_	non.Indian;não.índio
+2	ukare	u	PRON	bi	IF=Ass|Number=Sing|Person=3|Polarity=Neg	5	dep	_	_
+3	kuiada	kuiada	NOUN	n	_	4	nmod	_	maize;milho
+4	a	a	NOUN	n	_	5	obj	_	seed;semente
+5	rawuje	rawuje	VERB	v	_	0	root	_	ripe;colher
+
+# sent_id = ABE-260
+# text = baraedy ure kuiada a rawujedy bokwadö
+# text_eng = The white man does not (know how) ripe maize
+# text_por = o branco nem sabe debulhar milho
+1	baraedy	baraedy	NOUN	n	_	6	nsubj	_	_
+2	ure	u	PRON	bi	Number=Sing|Person=3	6	dep	_	_
+3	kuiada	kuiada	NOUN	n	_	4	nmod	_	maize,corn;milho
+4	a	a	NOUN	n	_	5	nmod	_	seed;semente
+5	rawujedy	rawuje	NOUN	v	Nomzr=Yes	6	obj	_	_
+6	bokwadö	bokwa	VERB	v	Polarity=Neg|Voice=Cau	0	root	_	_
+
+# sent_id = ABE-261
+# text = ere ju kudu kowujedy kuridö
+# text_eng = They eat a lot of manioc (Ingestion of manioc is caused a lot by them)
+# text_por = eles comem muito mandioca (lit. é causada por eles muita ingestão de mandioca)
+1	ere	e	PRON	bi	IF=Ass	5	nsubj	_	_
+2	ju	ju	NOUN	n	_	3	nmod	_	_
+3	kudu	kudu	NOUN	n	_	4	nmod	_	_
+4	kowujedy	kowuje	NOUN	n	Nomzr=Yes	5	obj	_	_
+5	kuridö	kuri	VERB	v	Voice=Cau	0	root	_	_
+
+# sent_id = ABE-263
+# text = uwogu motyre
+# text_eng = He fishes beautifully
+# text_por = ele pesca bonito (lit. bonitamente)
+1	uwogu	wogu	VERB	v	Number=Sing|Person=3	0	root	_	fish;pescar
+2	motyre	moty	ADV	adv	IF=Ass	1	advmod	_	beautiful;bonito
+
+# sent_id = ABE-264
+# text = boere boe tygu woe
+# text_eng = People plant here
+# text_por = as pessoas plantam aqui
+1	boere	boe	NOUN	n	IF=Ass	3	nsubj	_	people,thing;gente,povo,coisa
+2	boe	boe	NOUN	n	_	3	obj	_	people,thing;gente,povo,coisa
+3	tygu	tygu	VERB	v	Number=Sing|Person=3	0	root	_	plant;plantar
+4	woe	woe	ADV	adv	_	3	advcl	_	here;aqui
+
+# sent_id = ABE-265
+# text = boere boe tygu tygu woe
+# text_eng = People always plant here
+# text_por = as pessoas sempre plantam aqui
+1	boere	boe	NOUN	n	IF=Ass	3	nsubj	_	_
+2	boe	boe	NOUN	n	_	3	obj	_	_
+3	tygu	tygu	VERB	v	_	0	root	_	plant;plantar
+4	tygu	tygu	VERB	v	Aspect=Iter	3	dep	_	_
+5	woe	woe	ADV	adv	_	3	advmod	_	here;aqui
+
+# sent_id = ABE-267
+# text = kaboba amode maku Enawureudo ai ?
+# text_eng = What will you give Enawureudo?
+# text_por = o que você vai dar ao Enawureudo? 
+1	kaboba	kabo	PRON	pron	PronType=Int	3	obj	_	what;o.que
+2	amode	_	X	_	IF=Ass|Number=Sing|Person=2|Tense=Fut	3	nsubj	_	_
+3	maku	maku	VERB	v	_	0	root	_	give;dar
+4	Enawureudo	Enawureudo	PROPN	propn	_	3	obl	_	_
+5	ai	ai	ADP	posp	_	4	case	_	to;para,a
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = ABE-268
+# text = kaboba ure kowuje ?
+# text_eng = What did he eat?
+# text_por = o que ele comeu?
+1	kaboba	kabo	PRON	_	PronType=Int	3	obj	_	what;o.que
+2	ure	_	PRON	bi	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+3	kowuje	kowuje	VERB	_	_	0	root	_	eat;comer
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = ABE-269
+# text = iogudyba ure kowuje ?
+# text_eng = Who ate?
+# text_por = quem comeu?
+1	iogudyba	iogudy	PRON	pron	PronType=Int	3	obj	_	_
+2	ure	_	X	_	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ABE-270
+# text = iogudyba ubai köwydyre ?
+# text_eng = Did the house burn?
+# text_por = a casa de quem queimou?
+1	iogudyba	iogudy	PRON	_	PronType=Int	2	nmod	_	_
+2	ubai	bai	NOUN	n	Number=Sing|Person=3	3	nsubj	_	house;casa
+3	köwydyre	köwy	NOUN	_	IF=Ass|Nomzr=Yes	0	root	_	burn;queimar
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = ABE-271
+# text = Enawurewy ubai köwydyre
+# text_eng = Enawurewy's house burnt
+# text_por = queimou a casa de Enawurewy
+1	Enawurewy	Enawurewy	PROPN	_	_	2	nmod	_	_
+2	ubai	bai	NOUN	n	_	3	nsubj	_	_
+3	köwydyre	köwy	NOUN	n	IF=Ass|Nomzr=Yes	0	root	_	_
+
+# sent_id = ABE-272
+# text = iogudyba imedyba ure köwyje ?
+# text_eng = Which man ate?
+# text_por = que homem comeu?
+1	iogudyba	iogudy	PRON	_	Int=Yes|PronType=Int	2	nmod	_	who;quem
+2	imedyba	imedy	NOUN	_	Int=Yes	4	nsubj	_	man;homem
+3	ure	_	PRON	_	IF=Ass|Number=Sing|Person=3	4	dep	_	_
+4	köwyje	köwyje	VERB	_	Number=Sing|Person=3	0	root	_	eat;comer
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ABE-273
+# text = awy imedy ure kowuje
+# text_eng = That man ate
+# text_por = aquele homem comeu
+1	awy	awy	DET	dem	_	2	det	_	that;aquele
+2	imedy	imedy	NOUN	n	_	4	nsubj	_	man;homem
+3	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	dep	_	_
+4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+
+# sent_id = ABE-274
+# text = kaboba karoba ure kowuje ?
+# text_eng = Which fish did he eat?
+# text_por = que peixe ele(a) comeu?
+1	kaboba	kabo	PRON	pron	Int=Yes|PronType=Int	2	nmod	_	what;o.que
+2	karoba	karo	NOUN	n	Int=Yes	4	obj	_	fish;peixe
+3	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	nsubj	_	_
+4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = ABE-275
+# text = ure aiwo kowuje
+# text_eng = He ate the X fish
+# text_por = ele comeu o peixe cascudo
+1	ure	u	NOUN	n	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+2	aiwo	aiwo	NOUN	n	_	3	obj	_	_
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = ABE-276
+# text = kaboba taboba ure bito ?
+# text_eng = With what did he kill?
+# text_por = com o que ele matou?
+1	kaboba	_	PRON	pron	Int=Yes|PronType=Int	4	obl	_	_
+2	taboba	tabo	ADP	posp	Int=Yes	1	case	_	_
+3	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	nsubj	_	_
+4	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	die;morrer
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = ABE-277
+# text = kaba kejeba arydyre adugoji ?
+# text_eng = When did you see the jaguar?
+# text_por = quando você viu a onça?
+1	kaba	ka	ADV	pron	Int=Yes|PronType=Int	3	advmod	_	when;quando
+2	kejeba	keje	ADP	posp	Int=Yes|Number=Sing|Person=3	1	case	_	about;sobre
+3	arydyre	jorydyre	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	see;ver
+4-5	adugoji	_	_	_	_	_	_	_	_
+4	adugo	adugo	NOUN	n	_	3	obl	_	jaguar;onça
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = ABE-278
+# text = inoba akiere ?
+# text_eng = What is your name
+# text_por = como é o teu nome?
+1	inoba	ino	ADV	adv	Int=Yes	2	advmod	_	how;como
+2	akiere	ie	NOUN	n	IF=Ass|Number=Sing|Person=2	0	root	_	name;nome
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = ABE-279
+# text = kaeba awogumode ?
+# text_eng = Where are you going to fish?
+# text_por = onde você vai pescar?
+1	kaeba	kae	ADP	posp	Int=Yes	2	advcl	_	where;como
+2	awogumode	wogu	VERB	v	IF=Ass|Number=Sing|Person=2|Tense=Fut	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ABE-280
+# text = iogudyba koiaba ure karo kowuje ?
+# text_eng = Who ate the fish
+# text_por = quem comeu o peixe?
+1	iogudyba	iogudy	PRON	pron	Int=Yes|PronType=Int	5	nsubj	_	who;quem
+2	koiaba	koi	ADP	posp	Int=Yes|Number=Sing|Person=3	1	obl	_	because.of;por.causa.de
+3	ure	pron	PRON	bi	IF=Ass|Number=Sing|Person=3	5	dep	_	_
+4	karo	karo	NOUN	n	_	5	obj	_	_
+5	kowuje	kowuje	VERB	v	_	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = ABE-281
+# text = kaiba jiba are akeragu ?
+# text_eng = Where did you take what?
+# text_por = onde você pegou o quê?
+1	kaiba	_	ADP	posp	Int=Yes	4	obl	_	to;a
+2	jiba	ji	ADP	posp	Int=Yes	1	case	_	_
+3	are	a	PRON	bi	IF=Ass|Number=Sing|Person=2|PronType=Prs	4	dep	_	_
+4	akeragu	kera	NOUN	n	Number=Sing|Person=2	0	root	_	hand;mão
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ABE-282
+# text = kaeba kaba kejeba arydyre adugoji ?
+# text_eng = Where and when did you see the jaguar?
+# text_por = onde e quando você viu a onça?
+1	kaeba	kae	ADP	posp	Int=Yes	4	obl	_	to;a
+2	kaba	ka	ADV	adv	Int=Yes	1	case	_	how;como
+3	kejeba	keje	ADP	posp	Int=Yes	1	conj	_	on;sobre
+4	arydyre	jorydyre	VERB	v	_	0	root	_	see;ver
+5-6	adugoji	_	_	_	_	_	_	_	jaguar;onça
+5	adugo	adugo	NOUN	n	_	4	iobj	_	jaguar;onça
+6	ji	ji	ADP	posp	_	5	case	_	_
+7	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = ABE-286
+# text = jawy meriji kaeba tyre ?
+# text_eng = Where did he go yesterday?
+# text_por = ontem ele foi onde?
+1	jawy	jawy	X	x	_	5	dep	_	past;passado
+2-3	meriji	_	_	_	_	_	_	_	_
+2	meri	meri	NOUN	n	_	5	obl	_	day;dia
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	kaeba	kae	ADP	posp	Int=Yes	5	obl	_	_
+5	tyre	ty	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	go;ir
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ABE-290
+# text = awy merijire iwogumode
+# text_eng =It's today I will fish
+# text_por = é hoje que eu vou pescar
+1	awy	awy	DET	dem	_	2	nmod	_	this;este,esta
+2	merijire	meriju	ADV	adv	IF=Ass	3	advmod	_	day;dia
+3	iwogumode	wogu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+
+# sent_id = ABE-291
+# text = akore tudyie tubaikae
+# text_eng = ele disse que foi para sua casa
+# text_por = he said he went home (to his house)
+1	akore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	say;dizer
+2	tudyie	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
+3-4	tubaikae	_	_	_	_	_	_	_	_
+3	tubaikae	bai	NOUN	n	Evident=Rep|Number=Sing|Person=3	2	obl	_	_
+4	kae	ai	ADP	n	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-292
+# text = akore tubaikaie tudyre
+# text_eng = He said it was to his own house that he went
+# text_por = ele disse que foi para sua própria casa que ele foi
+1	akore	ako	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	say;dizer
+2-3	tubaikaie	_	_	_	_	_	_	_	_
+2	tubai	bai	NOUN	n	Number=Sing|Person=3	4	obl	_	_
+3	kaie	ai	NOUN	n	Evident=Rep	2	obl	_	to;a
+4	tudyre	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	go;ir
+
+# sent_id = ABE-294
+# text = rore
+# text_eng = It's tasty
+# text_por = (isso) é gostoso
+1	rore	ro	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	be.good,be.tasty;ser.bom,ser.gostoso
+
+# sent_id = ABE-295
+# text = are ia karo rorewy bito
+# text_eng = You fished a fish that is tasty
+# text_por = você pescou um peixe gostoso (que é gostoso)
+1	are	a	PRON	bi	IF=Ass|Number=Sing|Person=2	5	nsubj	_	I,me,my;eu,me,mim,meu,minha
+2	ia	ia	NUM	_	_	3	nummod	_	_
+3	karo	karo	NOUN	n	_	5	obj	_	_
+4	rorewy	ro	VERB	v	IF=Ass|Subord=Yes	3	acl	_	_
+5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-296
+# text = are ia kare rorewyge ebitö
+# text_eng = You fished fishes that are tasty
+# text_por = você pescou peixes gostosos (que são gostosos)
+1	are	a	PRON	bi	IF=Ass|Number=Sing|Person=2	5	nsubj	_	you,your;você,se,si,seu,sua
+2	ia	ia	NUM	_	_	3	nummod	_	one;um
+3	kare	karo	NOUN	n	Number=Plur	5	obj	_	fish;peixe
+4	rorewyge	ro	VERB	_	IF=Ass|Number=Plur|Number[subj]=Sing|Person=3|Person[subj]=3|Subord=Yes	3	acl	_	_
+5	ebitö	bito	VERB	_	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-297
+# text = ire iwogure bagaiwy karo bito
+# text_eng = I killed the fish that I fished
+# text_por = eu matei o peixe que eu pesquei
+1	ire	i	PRON	bi	IF=Ass	5	nsubj	_	_
+2	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	5	acl	_	_
+3	bagaiwy	bagai	ADP	posp	Number=Sing|Person=3|Subord=Yes	2	obl	_	with.the.purpose.of;com.o.propósito.de
+4	karo	karo	NOUN	n	_	5	obj	_	_
+5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-298
+# text = ire ure kowujewy karo bito
+# text_eng = I killed the fish that ate (the bait) / I killed the fish that (s)he/it ate
+# text_por = eu matei o peixe que comeu (e.g. a isca)/eu matei o peixe que ele(a) comeu
+1	ire	i	PRON	bi	IF=Ass	5	nsubj	_	_
+2	ure	wogu	VERB	v	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
+3	kowujewy	kowuje	VERB	posp	Number=Sing|Person=3|Subord=Yes	5	acl	_	eat;comer
+4	karo	karo	NOUN	n	_	5	obj	_	fish;peixe
+5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-299
+# text = ure ture kowujewy karo bito
+# text_eng = Hi killed the fish that he (himself) ate
+# text_por = ele matou o peixe que (ele próprio) comeu
+1	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	5	nsubj	_	coreferential;coreferencial
+2	ture	tu	PRON	bi	IF=Ass|Number=Sing|Person=3|Reflex=Yes	3	nsubj	_	_
+3	kowujewy	kowuje	VERB	v	Subord=Yes	5	ccomp	_	_
+4	karo	karo	NOUN	n	_	5	obj	_	_
+5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = ABE-300
+# text = ire iwogure bagaiwyge ebito
+# text_eng = I killed (those that) I fished
+# text_por = eu matei os que eu pesquei
+1	ire	i	PRON	bi	IF=Ass|Number[subj]=Sing|Person[subj]=1	5	nsubj	_	_
+2	iwogure	wogu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	5	ccomp	_	_
+3-4	bagaiwyge	_	_	_	_	_	_	_	_
+3	bagai	bagai	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+4	wyge	wy	X	x	Number=Plur|Subord=Yes	2	dep	_	relativizer;relativo
+5	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-301
+# text = iwogure buke tapo
+# text_eng = I fished with fishnet
+# text_por = eu pesquei com rede
+1	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
+2	buke	buke	NOUN	n	_	1	obl	_	net,fishnet;rede.de.pesca
+3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	with,commitative.postposition;com,posposição.comitativo
+
+# sent_id = ABE-302
+# text = iwogure itaidykaredy tapo
+# text_eng = I fished without wanting it
+# text_por = você viu que os bororos pescaramr
+1	iwogure	wogu	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	_
+2	itaidykaredy	aidy	NOUN	n	IF=Ass|Nomzr=Yes|Number=Sing|Person=1	1	ccomp	_	want;querer
+3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+
+# sent_id = ABE-303
+# text = arydyre boe ewogure dyji
+# text_eng = Did you see (that) the Bororo fished
+# text_por = você viu que os bororos pescaram
+1	arydyre	jorydy	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	ewogure	wogu	VERB	v	IF=Ass|Number=Plur|Person=3	1	ccomp	_	_
+4	dyji	ji	ADP	posp	Nomzr=Yes	3	obl	_	_
+
+# sent_id = ABE-304
+# text = arydyre boe ewoguji
+# text_eng = Did you see (that) the Bororo fished
+# text_por = você viu que os bororos pescaram
+1	arydyre	jorydy	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3-4	ewoguji	_	_	_	_	_	_	_	_
+3	ewogu	wogu	VERB	posp	Number[subj]=Plur|Person[subj]=3	1	ccomp	_	_
+4	ji	ji	ADP	posp	_	3	obl	_	_
+
+# sent_id = ABE-305
+# text = boecoji boe emerure taiwore kuiejedogei dytabo
+# text_eng = At night the Bororo hunt by looking at the stars 
+# text_por = à noite os bororo caçam se orientando pelas estrelas
+1	boecoji	boecoji	ADV	adv	_	3	advmod	_	at.night;à.noite,de.noite
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	emerure	meru	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
+4	taiwore	aiwo	VERB	v	IF=Ass|Number=Sing|Person=3	3	obl	_	_
+5-6	kuiejedogei	_	_	_	_	_	_	_	_
+5	kuiejedoge	kuiejedoge	NOUN	n	_	4	obl	_	star;estrela
+6	i	ji	ADP	n	Number=Plur|Person=3	5	case	_	_
+7	dytabo	tabo	ADP	posp	Nomzr=Yes	4	case	_	with;com
+
+# sent_id = ABE-306
+# text = boecoji boe emerure taiwo tabo kuiejedogei
+# text_eng = At night the Bororo hunt by looking at the stars 
+# text_por = à noite os bororo caçam se orientando pelas estrelas
+1	boecoji	boecoji	ADV	adv	_	3	advmod	_	at.night;à.noite
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	emerure	meru	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
+4	taiwo	aiwo	VERB	v	Number=Sing|Person=3	3	obl	_	see;ver
+5	tabo	tabo	ADP	posp	_	4	case	_	_
+6-7	kuiejedogei	_	_	_	_	_	_	_	_
+6	kuiejedoge	_	NOUN	_	_	4	obl	_	star;estrela
+7	i	ji	ADP	posp	Number=Plur|Person=3	6	case	_	_
+
+# sent_id = ABE-311
+# text = ioruduiwakare kaiba imedyre karo bito
+# text_eng = I don't know where the man killed the fish
+# text_por = eu não sei onde o homem matou os peixes
+1	ioruduiwakare	joruduiwa	VERB	v	IF=Ass|Number=Sing|Person=1|Polarity=Neg	0	root	_	know;saber
+2	kaiba	kae	ADV	adv	PronType=Int	5	advmod	_	where;onde
+3	imedyre	imedy	NOUN	n	IF=Ass	5	nsubj	_	man;homem
+4	karo	karo	NOUN	n	_	5	obj	_	_
+5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	ccomp	_	_
+
+# sent_id = ABE-312
+# text = ibaimodükare
+# text_eng = My house will not exist (there won't be my house)
+# text_por = minha casa não vai existir (não vou ter uma casa)
+1	ibaimodükare	bai	NOUN	n	IF=Ass|Number[psor]=Sing|Person[psor]=1|Polarity=Neg|Tense=Fut	0	root	_	_
+
+# sent_id = ABE-313
+# text = boekare imi
+# text_eng = I am not Bororo
+# text_por = Eu não sou bororo
+1	boekare	boe	NOUN	n	IF=Ass|Polarity=Neg	0	root	_	_
+2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+
+# sent_id = ABE-314
+# text = boere emage
+# text_eng = They are Bororo
+# text_por = eles são bororo
+1	boere	boe	NOUN	n	IF=Ass	0	root	_	_
+2	emage	emage	PRON	pron	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	they;eles,elas
+
+# sent_id = ABE-315
+# text = karore orari pobu roko
+# text_eng = 
+# text_por = o pacu, o pintado e a corimba são peixes
+1	karore	karo	NOUN	n	IF=Ass	0	root	_	fish;peixe
+2	orari	orari	NOUN	n	_	1	nsubj	_	pacu
+3	pobu	pobu	NOUN	n	_	2	conj	_	pintado
+4	roko	roko	NOUN	n	_	2	conj	_	corimba
+
+# sent_id = ABE-316
+# text = marenarore aki rema
+# text_eng = You are poor
+# text_por = este é o meu bastão
+1	marenarore	_	NOUN	n	IF=Ass	0	root	_	poor;pobre
+2	aki	aki	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	rema	rema	X	x	Pred=AtrEq	1	dep	_	_
+
+# sent_id = ABE-317
+# text = iiodore awy
+# text_eng = Este é meu bastão
+# text_por = this is my cane/stick
+1	iiodore	iodo	NOUN	n	IF=Ass|Number[psor]=Sing|Person[psor]=1	0	root	_	stick,cane,staff,bat;bastão
+2	awy	awy	DET	dem	_	1	det	_	this;este,esta
+
+# sent_id = ABE-318
+# text = iiodoreno
+# text_eng = Este é meu bastão
+# text_por = this is my cane/stick
+1-2	iiodoreno	_	_	_	_	_	_	_	_
+1	iiodore	iodo	NOUN	n	IF=Ass|Number=Sing|Person=1	0	root	_	_
+2	no	nowu	DET	dem	_	1	det	_	this;este,esta
+
+# sent_id = ABE-319
+# text = iiodorece
+# text_eng = That is my cane/stick
+# text_por = Aquele é meu bastão
+1-2	iiodorece	_	_	_	_	_	_	_	_
+1	iiodore	iodo	NOUN	n	IF=Ass|Number=Sing|Person=1	0	root	_	_
+2	ce	cewu	DET	dem	_	1	det	_	that;aquele;aquela
+
+# sent_id = ABE-320
+# text = rary baru ekaworyre
+# text_eng = The leave and the sky are blue
+# text_por = A folha e o céu são verdes/azuis
+1	rary	rary	NOUN	n	_	3	nsubj	_	leaf;folha
+2	baru	baru	NOUN	n	_	1	conj	_	sky;céu
+3	ekaworyre	kawory	NOUN	n	IF=Ass|Number=Plur|Person=3	0	root	_	green,blue;verde,azul
+
+# sent_id = ABE-321
+# text = imode karo maky imedy rakydy negedyrogu rakydy ai
+# text_eng = I'll give the fish to a the man or to the boy
+# text_por = Eu vou dar o peixe ou ao homem ou ao menino
+1	imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	fish;peixe
+3	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	give;dar
+4	imedy	imedy	NOUN	n	_	3	obl	_	man;homem
+5	rakydy	rakydy	CCONJ	ccd	_	4	cc	_	or;ou
+6	negedyrogu	negedyrogu	NOUN	_	_	4	conj	_	child;criança
+7	rakydy	rakydy	CCONJ	ccd	_	6	cc	_	or;ou
+8	ai	ai	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = ABE-322
+# text = cenai morikare mare tagai morire
+# text_eng = It is paid for us but it is not payed for you
+# text_por = Para nós não é pago, mas para vocês é pago
+1	cenai	ai	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	we.(ex);nós.(ex)
+2	morikare	mori	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg	0	root	_	pay;pagar
+3	mare	mare	CCONJ	ccad	_	5	cc	_	but;mas
+4	tagai	ai	ADP	posp	Number=Sing|Person=2	5	obl	_	for,to;a,para
+5	morire	morire	VERB	v	IF=Ass|Number=Sing|Person=3	2	conj	_	pay;pagar
+
+# sent_id = ABE-323
+# text = Imi ityre
+# text_eng = I went away
+# text_por = Eu fui embora
+1	Imi	imi	PRON	pron	Number[subj]=Sing|Person[subj]=1|PronType=Prs	2	nsubj	_	_
+2	ityre	ty	VERB	v	IF=Ass|Number=Sing|Person=1	0	root	_	go,go.away;ir,ir.embora
+
+# sent_id = ABE-324
+# text = Tiago Fabrício etaregodyre
+# text_eng = Tiago and Fabrício (have) arrived
+# text_por = Tiago e Fabrício chegaram
+1	Tiago	Tiago	PROPN	propn	_	3	nsubj	_	_
+2	Fabrício	Fabrício	PROPN	propn	_	1	conj	_	_
+3	etaregodyre	aregody	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	arrive;chegar
+
+# sent_id = ABE-325
+# text = Eko butumodykare
+# text_eng = The pequi (fruit) won 't fall
+# text_por = O pequi não vai vair
+1	Eko	_	NOUN	n	_	2	nsubj	_	Caryocar.brasiliense;pequi
+2	butumodykare	mody	VERB	v	IF=Ass|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	0	root	_	fall;cair
+
+# sent_id = ABE-326
+# text = Fabrício ure awagoe ebito
+# text_eng = Fabrício killed the snakes
+# text_por = Fabrício matou as cobras
+1	Fabrício	Fabrício	PROPN	propn	_	4	nsubj	_	_
+2	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3	4	dep	_	_
+3	awagoe	awagy	NOUN	n	Number=Plur	4	obj	_	snake;cobra
+4	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	_
+
+# sent_id = ABE-327
+# text = Fabrício umodykare pagi pabito
+# text_eng = Fabrício won't kill us
+# text_por = Fabrício não vai nos matar
+1	Fabrício	Fabrício	PROPN	_	_	4	nsubj	_	_
+2	umodykare	u	PRON	bi	IF=Ass|Polarity=Neg|Tense=Fut	4	dep	_	_
+3	pagi	pagi	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	obj	_	we.inclusive;nós.inclusivo
+4	pabito	bi	VERB	v	Clusivity=In|Number[obj]=Plur|Person[obj]=1|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-328
+# text = Fabrício ukare mea arego
+# text_eng = Fabrício didn't bring the cigarret
+# text_por = Fabrício não trouxe o cigarro
+1	Fabrício	_	PROPN	_	_	4	nsubj	_	_
+2	ukare	u	PRON	bi	IF=Ass|Polarity=Neg	4	dep	_	_
+3	mea	mea	NOUN	n	_	4	obj	_	cigarret;cigarro
+4	arego	arego	VERB	_	Number=Sing|Person=3	0	root	_	bring;trazer
+
+# sent_id = ABE-329
+# text = João Maria ebitodyre
+# text_eng = João and Maria died
+# text_por = João e Maria morreram
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	ebitodyre	bi	VERB	v	Number[subj]=Plur|Person[subj]=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-330
+# text = João Maria etaregodyre
+# text_eng = João and Maria (have)arrived
+# text_por = João e Maria chegaram
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	etaregodyre	arego	VERB	v	IF=Ass|Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	arrive;chegar
+
+# sent_id = ABE-333
+# text = ibai pemegamodykare
+# text_eng = My house won't be good
+# text_por = Minha casa não vai ser boa
+1	ibai	bai	NOUN	n	Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
+2	pemegamodykare	pemega	VERB	v	IF=Ass|Polarity=Neg|Tense=Fut	0	root	_	good,well;bom,bem
+
+# sent_id = ABE-334
+# text = João Maria etaregody pemegare
+# text_eng = João and Maria arrived well
+# text_por = João e Maria chegaram bem
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	etaregody	arego	VERB	v	Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	bring;trazer
+4	pemegare	pemega	ADV	adv	IF=Ass	3	advmod	_	good,well;bom,bem
+
+# sent_id = ABE-336
+# text = Imi iwogu pemegare
+# text_eng = I fish well
+# text_por = eu pesco bem
+1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	iwogu	wogu	VERB	v	Number=Sing|Person=1	0	root	_	_
+3	pemegare	pemega	ADV	IF=Ass	_	2	advmod	_	good,well;bom,bem
+
+# sent_id = ABE-337
+# text = Eko butu pemegare
+# text_eng = The piqui fell well
+# text_por = O piqui caiu bem
+1	Eko	eko	NOUN	n	_	2	nsubj	_	_
+2	butu	butu	VERB	v	_	0	root	_	fall;cair
+3	pemegare	pemega	ADV	adv	IF=Ass	2	advmod	_	_
+
+# sent_id = ABE-339
+# text = Fabrício ure pagi parego
+# text_eng = Fabrício makes us run (runs us)
+# text_por = Fabrício nos faz correr (lit. F. corre-nos)
+1	Fabrício	_	PROPN	propn	_	4	nsubj	_	_
+2	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi	4	dep	_	_
+3	pagi	pagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	4	obj	_	_
+4	parego	reko	VERB	v	Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	run;correr
+
+# sent_id = ABE-340
+# text = Pagi parekodyre
+# text_eng = We ran
+# text_por = Nós corremos
+1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.inclusive;nós.inclusivo
+2	parekodyre	reko	VERB	v	Clusivity=In|IF=Ass|Number=Plur|Person=1|Voice=Antip	0	root	_	_
+
+# sent_id = ABE-341
+# text = Fabrício ure pagi papagudugo
+# text_eng = Fabrício made us yell (yelled us)
+# text_por = Fabrício nos fez gritar’ (lit. F. nos gritou)
+1	Fabrício	_	PROPN	_	_	4	nsubj	_	_
+2	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi	4	dep	_	_
+3	pagi	pagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	4	obj	_	_
+4	papagudugo	pagudugo	VERB	v	Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	yell;gritar
+
+# sent_id = ABE-342
+# text = Pagi pabagudugodyre
+# text_eng = We yelled
+# text_por = Nós gritamos
+1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	_
+2	pabagudugodyre	pagudugo	VERB	v	Clusivity=In|IF=Ass|Number=Plur|Person=1|Voice=Antip	0	root	_	_
+
+# sent_id = ABE-343
+# text = umode taredö
+# text_eng = He will jump
+# text_por = Ele vai pular
+1	umode	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi|Tense=Fut	2	dep	_	_
+2	taredö	are	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	jump;pular
+
+# sent_id = ABE-344
+# text = Imode ikinorudö bope piji
+# text_eng = I'll escape the evil spirit
+# text_por = Eu vou escapar do espírito mal
+1	Imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi|Tense=Fut	2	nsubj	_	_
+2	ikinorudö	kinoru	VERB	n	Number=Sing|Person=1|Voice=Cau	0	root	_	freedom;liberdade
+3	bope	bope	NOUN	n	_	2	obl	_	daemon,evil.spirit;demônio,espírito.mau
+4	piji	piji	ADP	posp	Number=Sing|Person=3	3	case	_	from;de
+
+# sent_id = ABE-345
+# text = Cemode boedo eji
+# text_eng = I'll escape the evil spirit
+# text_por = Nós vamos bater neles
+1	Cemode	ce	PRON	bi	Clusivity=Ex|IF=Ass|Number[subj]=Plur|Person[subj]=1|PronType=Bi|Tense=Fut	2	nsubj	_	_
+2	boedo	boe	VERB	v	Voice=Cau	0	root	_	people,thing;coisa,gente,povo
+3	eji	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+
+# sent_id = ABE-355
+# text = imi ire jao bai to
+# text_eng = I have already built a house
+# text_por = Eu já construí uma casa
+1	imi	imi	PRON	pron	Number[subj]=Sing|Person[subj]=1|PronType=Prs	5	nsubj	_	I;eu
+2	ire	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi	5	dep	_	_
+3	jao	jao	ADV	adv	_	5	advmod	_	_
+4	bai	bai	NOUN	n	_	5	obj	_	house;casa
+5	to	to	VERB	v	_	0	root	_	make,do;fazer
+
+# sent_id = ABE-358
+# text = imi iture jao
+# text_eng = I went (away) before
+# text_por = Eu (já) fui embora antes
+1	imi	ime	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	iture	tu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+3	jao	jao	ADV	adv	_	2	advmod	_	early,before;anteriormente
+
+# sent_id = ABE-359
+# text = João Maria etaregodure jao
+# text_eng = João and Maria (have) arrived before
+# text_por = João e Maria já chegaram antes
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	etaregodure	aregodu	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	arrive;chegar
+4	jao	jao	ADV	adv	_	3	advmod	_	_
+
+# sent_id = ABE-360
+# text = arigaodoge ebire
+# text_eng = the dogs died
+# text_por = os cachorros morreram
+1	arigaodoge	arigao	NOUN	n	Number=Plur	2	nsubj	_	dog;cachorro
+2	ebire	bi	VERB	v	IF=Ass|Number=Plur|Person=3	0	root	_	die;morrer
+
+# sent_id = ABE-362
+# text = Adugodoge ere arigaodoge ebito
+# text_eng = The jaguars killed the dogs
+# text_por = As onças mataram os cachorros
+1	Adugodoge	adugo	NOUN	n	Number=Plur	4	nsubj	_	jaguar;onça
+2	ere	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	4	dep	_	they;eles,elas
+3	arigaodoge	arigao	NOUN	n	Number=Plur	4	obj	_	dog;cachorro
+4	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-366
+# text = imedu ure boeto iji
+# text_eng = The man hit me
+# text_por = O homem me bateu
+1	imedu	imedu	NOUN	n	_	3	nsubj	_	man;homem
+2	ure	_	X	x	IF=Ass	3	dep	_	_
+3	boeto	boeto	VERB	v	_	0	root	_	hit;bater
+4	iji	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
+
+# sent_id = ABE-367
+# text = imedure boeto iji
+# text_eng = The man hit me
+# text_por = O homem me bateu
+1	imedure	imedu	NOUN	n	_	2	nsubj	_	man;homem
+2	boeto	boeto	VERB	v	_	0	root	_	hit;bater
+3	iji	ji	ADP	posp	Number=Sing|Person=1	2	obl	_	_
+
+# sent_id = OBE-p75.1
+# text = ure turemo poboto
+# text_eng = He entered the water
+# text_por = Ele entrou na água
+1	ure	u	PRON	bi	IF=Ass|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	turemo	remo	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	enter;entrar
+3-4	poboto	_	_	_	_	_	_	_	_
+3	pobo	pobo	NOUN	n	_	2	obl	_	water;água
+4	to	to	ADP	posp	_	3	case	_	in;em
+
+# sent_id = OBE-p75.2
+# text = okwagere karo koduji
+# text_eng = He ate fish meat
+# text_por = Ele comeu carne de peixe
+1	okwagere	okwage	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	eat;comer
+2	karo	karo	NOUN	n	_	3	nmod	_	_
+3-4	koduji	_	_	_	_	_	_	_	_
+3	kodu	kodu	NOUN	n	_	1	obl	_	meat;carne
+4	ji	ji	ADP	posp	_	3	case	_	_
+
+# sent_id = CGPB-p11.1
+# text = Uture poboto
+# text_eng = He went to the river
+# text_por = Ele foi ao rio
+1	Uture	u	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=3	0	root	_	go;ir
+2-3	poboto	_	_	_	_	_	_	_	_
+2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
+3	to	to	ADP	posp	_	2	case	_	to;a
+
+# sent_id = CGPB-p13.1
+# text = Kaiba akodumode ?
+# text_eng = Where are you going?
+# text_por = Onde você está indo?
+1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	where;aonde
+2	akodumode	kodu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = CGPB-p13.2
+# text = Ikodumode poboto ?
+# text_eng = Where are you going?
+# text_por = Ande você vai/está indo?
+1	Ikodumode	kodu	VERB	vi	IF=Ass|Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
+2-3	poboto	_	_	_	_	_	_	_	_
+2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
+3	to	to	ADP	posp	_	2	case	_	to;a
+4	?	?	PUNCT	punct	_	1	punct	_	to;a
+
+# sent_id = CGPB-p13.3
+# text = Kodiba ?
+# text_eng = Why?
+# text_por = Por que?
+1	Kodiba	Kodi	PRON	pron	PronType=Int	_	_	_	why;por.que
+2	?	P	PUNCT	_	_	1	punct	_	_
+
+# sent_id = CGPB-p13.4
+# text = Iwogumode kodi
+# text_eng = Because I will fish
+# text_por = Porque eu vou pescar
+1	Iwogumode	wogu	VERB	_	IF=Ass|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+2	kodi	kodi	ADV	adv	_	1	mark	_	because;por.que
+
+# sent_id = CGPB-p19.1
+# text = Itaidure imuguwo woe boe ebo
+# text_eng = I want to live here with the Bororo
+# text_por = Eu quero morar aqui com os bororos
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
+2	imuguwo	mugu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
+3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
+4	boe	boe	NOUN	n	_	2	obl	_	_
+5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
+
+# sent_id = CGPB-p19.3
+# text = Itaidure boei
+# text_eng = I like the Bororo
+# text_por = EU gosto dos bororo
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2-3	boei	_	_	_	_	_	_	_	_
+2	boe	boe	NOUN	n	_	1	obl	_	_
+3	i	ji	ADP	posp	_	2	case	_	_
+
+# sent_id = CGPB-p19.3.1
+# text = Akaregodure
+# text_eng = You came (hello/wellcome)
+# text_por = Você veio
+1	Akaregodure	aregodu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=2	0	root	_	_
+
+# sent_id = CGPB-p19.4
+# text = Itaidure iorudiwawo boe eroji
+# text_eng = I want to know the traditions of the Bororo
+# text_por = Eu quero conhecer os costumes dos bororo
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
+2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4-5	eroji	_	_	_	_	_	_	_	_
+4	ero	ro	NOUN	n	_	2	obl	_	habits,tradition;costume,tradição
+5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
+
+# sent_id = CGPB-p19.5
+# text = Itaidure iorudiwawo ewadaruji
+# text_eng = I want to know the language of the Bororo
+# text_por = Eu quero conhecer a língua dos bororo
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
+2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
+3-4	ewadaruji	_	_	_	_	_	_	_	_
+3	ewadaru	bataru	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
+4	ji	ji	ADP	posp	Number=Plur|Person=3	3	case	_	_
+
+# sent_id = CGPB-p21.1
+# text = Cewogure toro
+# text_eng = We fished there
+# text_por = Nós pescamos lá
+1	Cewogure	wogu	VERB	v	Clusivity=Ex|IF=Ass|Number[subj]=Plur|Person=1	0	root	_	_
+2	toro	toro	ADV	adv	_	1	advmod	_	there;lá
+
+# sent_id = CGPB-p21.2
+# text = Kaiba pagodure ?
+# text_eng = Where did we go?
+# text_por = Aonde nós fomos
+1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	_
+2	pagodure	kodu	VERB	v	Clusivity=In|IF=Ass|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = CGPB-p24.1
+# text = Itaidure imuguwo woe boe ebo
+# text_eng = I want to live close to the Bororo
+# text_por = Eu quero morar aqui perto dos bororo
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	imuguwo	mugu	VERB	v	Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	_
+3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
+4	boe	boe	NOUN	n	_	2	obl	_	_
+5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	_
+
+# sent_id = CGPB-p24.2
+# text = Itaidure amuguwo woe
+# text_eng = I want yo to live here
+# text_por = Eu quero que você more aqui
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	ccomp	_	_
+3	woe	woe	ADV	adv	_	2	advcl	_	_
+
+# sent_id = CGPB-p31.1
+# text = Itaidure erudiwawo
+# text_eng = I want them to learn/know
+# text_por = Eu quero que eles aprendam/conheçam
+1	Itaidure	aidu	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|SUbord=Yes	1	ccomp	_	_
+
+# sent_id = CGPB-p31.2
+# text = Imagore akabo Joãoji
+# text_eng = I spoke to you about João
+# text_por = Eu falei com você sobre o João
+1	Imagore	mako	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	speak;falar
+2-3	akabo	_	_	_	_	_	_	_	_
+2	ak	a	PRON	bi	Number=Sing|Person=2	1	obl	_	_
+3	abo	apo	ADP	posp	_	2	case	_	_
+4-5	Joãoji	_	_	_	_	_	_	_	_
+4	João	João	PROPN	propn	_	1	obl	_	_
+5	ji	ji	ADP	posp	_	4	case	_	_
+
+# sent_id = CGPB-p40.1
+# text = Akogodure ?
+# text_eng = Are you sick?
+# text_por = Você está doente?
+1	Akogodure	kogodu	VERB	v	IF=Ass|Number=Sing|Person=2	0	root	_	sick,ill;doente
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = CGPB-p40.2
+# text = Iwiri urure
+# text_eng = My skin is hot (I have fever)
+# text_por = Minhapele está quente (estou com febre)
+1	Iwiri	wiri	NOUN	n	Number=Sing|Person=1|PronType=Bi	2	nsubj	_	skin;pele
+2	urure	uru	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	hot;quente
+
+# sent_id = CGPB-p46.1
+# text = Kaboba jiba aroino ?
+# text_eng = What are you doing?
+# text_por = O que você está fazendo?
+1	Kaboba	kabo	PRON	_	PronType=Int	3	obl	_	what;oque
+2	jiba	ji	ADP	posp	_	1	case	_	_
+3-4	aroino	_	_	_	_	_	_	_	_
+3	aro	ro	VERB	v	_	0	root	_	do;fazer
+4	ino	ino	ADV	adv	Number=Sing|Person=2	3	advmod	_	thus,this.way,like.this;assim,detsa.maneira
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = CGPB-p46.2
+# text = Inure karo kado
+# text_eng = I am cutting fish
+# text_por = Estou cortando peixe
+1	Inure	i	PRON	bi	Aspect=Prog|IF=Ass|Number=Sing|Person=1|PronType=Bi	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cur;cortar
+
+# sent_id = CGPB-p49.1
+# text = Ire karo kado
+# text_eng = I cut fish
+# text_por = Eu corto peixe
+1	Ire	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cur;cortar
+
+# sent_id = CGPB-p49.2
+# text = Imode karo kado
+# text_eng = I'll cut fish
+# text_por = Eu vour cortar peixe
+1	Imode	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi|Tense=Fut	3	nsubj	_	_
+2	karo	karo	NOUN	n	_	3	obj	_	_
+3	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cur;cortar
+
+# sent_id = CGPB-p46.3.1
+# text = Inure ike kowuje
+# text_eng = I am eating my food
+# text_por = Estou comendo minha comida
+1	Inure	i	PRON	bi	Aspect=Prog|IF=Ass|Number[subj]=Sing|Person[subj]=1|PronType=Bi	3	nsubj	_	_
+2	ike	ke	NOUN	n	Number=Sing|Person=1	3	obj	_	fod;comida
+3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = CGPB-p46.3.2
+# text = Inure aroia kabi
+# text_eng = I am washing clothes
+# text_por = Estou lavando roupa
+1	Inure	i	PRON	bi	Aspect=Prog|IF=Ass|Number[subj]=Sing|Person[subj]=1|PronType=Bi	3	nsubj	_	_
+2	aroia	aroia	NOUN	n	Number=Sing|Person=1	3	obj	_	clothe;roupa
+3	kabi	kabi	VERB	v	Number=Sing|Person=3	0	root	_	wash;lavar
+
+# sent_id = CGPB-p50.1
+# text = Ire barigu moto kae
+# text_eng = I threw it on the floor
+# text_por = Eu o joguei ao chão
+1	Ire	i	PRON	pron	IF=Ass|Number[subj]=Sing|Person[subj]=1	2	nsubj	_	_
+2	barigu	barigu	VERB	v	Number=Sing|Person=3	0	root	_	throw;jogar,lançar
+3	moto	moto	NOUN	n	_	2	obl	_	floor;chão
+4	kae	kae	ADP	posp	_	3	case	_	_
+
+# sent_id = CGPB-p51.1
+# text = Ere tuwarigu moto kae
+# text_eng = They threw themselves on the floor
+# text_por = Eles se jogaram no chão
+1	Ere	e	PRON	bi	IF=Ass|Number[subj]=Plur|Person[subj]=3	2	nsubj	_	_
+2	tuwarigu	barigu	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+3	moto	moto	NOUN	n	_	2	obl	_	_
+4	kae	kae	ADP	posp	_	3	case	_	_
+
+# sent_id = CGPB-p51.2
+# text = Cere cetaimo
+# text_eng = We bathed ourselves
+# text_por = Nós nos banhamos
+1	Cere	ce	PRON	bi	Clusivity=Ex|IF=Ass|Number=Plur|Person=1|PronType=Bi	2	nsubj	_	we.exclusive;nós.exclusivo
+2	cetaimo	aimo	VERB	v	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	0	root	_	bathe;banhar
+
+# sent_id = CGPB-p55.1
+# text = Akaiwodo , imana . Ire karo bito
+# text_eng = Look here, older brother, I killed a fish
+# text_por = Olhe aqui, irmão mais velho. Eu matei um peixe.
+1	Akaiwodo	aiwo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	look.at;olhar.para
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	imana	imana	NOUN	n	_	1	vocative	_	older.brother;irmão.mais.velho
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Ire	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi	7	nsubj	_	_
+6	karo	karo	NOUN	n	_	7	obj	_	_
+7	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	parataxis	_	_
+
+# sent_id = CGPB-p55.2
+# text = U , boe pemegare . Ike boere ii . Pamode karo kowuje ?
+# text_eng = Ok, it is a good thing. I am hungry. Are we gong to eat the fish?
+# text_por = Tá bom, é uma boa notícia. Estou com fome. Nós vamos comer o peixe?
+1	U	u	INTJ	intj	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	boe	_	NOUN	n	_	4	nsubj	_	_
+4	pemegare	pemega	VERB	v	IF=Ass	0	root	_	_
+5	.	_	PUNCT	punct	_	4	punct	_	_
+6	Ike	ke	NOUN	_	Number=Sing|Person=1|PronType=Bi	7	nsubj	_	food;comida
+7	boere	boe	VERB	v	IF=Ass	4	parataxis	_	_
+8	ii	ji	ADP	posp	_	7	obl	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
+10	Pamode	pa	PRON	bi	Clusivity=In|IF=Ass|Number=Plur|Person=1|PronType=Bi|Tense=Fut	4	parataxis	_	_
+11	karo	karo	NOUN	_	_	12	obj	_	_
+12	kowuje	kowuje	VERB	v	_	10	xcomp	_	_
+13	?	?	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = CGPB-p55.3
+# text = Pamode ko
+# text_eng = Let's eat it
+# text_por = Vamos comê-lo
+1	Pamode	pa	PRON	bi	Clusivity=In|IF=Ass|Number[subj]=Plur|Person[subj]=1|PronType=Bi|Tense=Fut	2	nsubj	_	we.inclusive;nós.inclusivo
+2	ko	ko	VERB	v	Number[obj]=Sing|Person[obj]=3	0	root	_	eat,bite;comer,morder
+
+# sent_id = CGPB-p57.1
+# text = tare etudo
+# text_eng = You made them go
+# text_por = Vocês os fizeram ir
+1	tare	ta	PRON	bi	IF=Ass|Number[subj]=Plur|Person[subj]=2|PronType=Bi	2	nsubj	_	_
+2	etudo	u	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	_
+
+# sent_id = CGPB-p56.2
+# text = Are ake rogu tugo meririto
+# text_eng = You put your food in the pan
+# text_por = Você pôs a sua comida dentro da panela
+1	Are	a	PRON	bi	IF=Ass|Number=Sing|Person=2|PronType=Bi	4	nsubj	_	_
+2	ake	ke	NOUN	n	Number=Sing|Person=2|PronType=Bi	3	clf	_	_
+3	rogu	rogu	NOUN	n	_	4	obj	_	foor;comida
+4	tugo	tugo	VERB	v	_	0	root	_	put.in;colocar.dentro
+5-6	meririto	_	_	_	_	_	_	_	_
+5	meriri	_	NOUN	n	_	4	obl	_	_
+6	to	to	ADP	posp	_	5	case	_	_
+
+# sent_id = CGPB-p56.3
+# text = Pare ado ake rogu tugo meririto
+# text_eng = We made you put your food in the pan
+# text_por = Nós fizemos você pôr sua comida dentro da panela
+1	Pare	_	PRON	bi	Clusivity=In|IF=Ass|Number=Plur|Person=1|PronType=Bi	5	nsubj	_	_
+2	ado	ke	PRON	bi	Number=Sing|Person=2|Voice=Cau	5	_	_	_
+3	ake	ke	NOUN	n	Number=Sing|Person=2	4	clf	_	_
+4	rogu	rogu	NOUN	n	_	5	obj	_	_
+5	tugo	tugo	VERB	v	_	0	root	_	_
+6-7	meririto	_	_	_	_	_	_	_	_
+6	meriri	_	NOUN	n	_	5	obl	_	_
+7	to	to	ADP	posp	_	6	case	_	_
+
+# sent_id = CGPB-p56.4
+# text = Are epagududo
+# text_eng = You scared them
+# text_por = Você os amedrontou
+1	Are	a	PRON	bi	IF=Ass|Number[subj]=Sing|Person[subj]=2|PronType=Bi	2	nsubj	_	you,your;você;te,ti,teu
+2	epagududo	pagudu	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	fear;ter.medo
+
+# sent_id = CGPB-p56.6
+# text = Baiga core
+# text_eng = The bow is black
+# text_por = O arco é preto
+1	Baiga	baiga	NOUN	n	_	2	nsubj	_	bow;arco
+2	core	core	VERB	v	_	0	root	_	black;preto
+
+# sent_id = CGPB-p56.7
+# text = Pare arududo iito
+# text_eng = Nós fizemos você subir na árvore
+# text_por = We made you clim the tree
+1	Pare	pare	PRON	pron	Clusivity=In|IF=Ass|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.incl.;nós.incl.
+2	arududo	_	VERB	v	Number[obj]=Sing|Person[obj]=2|Voice=Cau	0	root	_	climb;subir,escalar
+3-4	iito	_	_	_	_	_	_	_	_
+3	ii	ii	NOUN	n	_	2	obl	_	tree;árvore
+4	to	to	ADP	posp	_	3	case	_	in,on;em
+
+# sent_id = CGPB-p61.1
+# text = Imi karega . Imaragodymodykare
+# text_eng = Not me. I will not work
+# text_por = Eu não. Não vou trabalhar
+1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	karega	karega	ADV	adv	Polarity=Neg	1	advmod	_	negates.other.than.the.predicate;negação.mão.de.predicado
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	Imaragodymodykare	maragody	VERB	v	IF=Ass|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	1	parataxis	_	work;trabalhar
+
+# sent_id = CGPB-p61.2
+# text = Boe etaidukare tumaragoduwo awu meriji . Eragodyre boecoji kodi
+# text_eng = The people do not want to work today, becasue they sang all nighk
+# text_por = As pessoas não querem trabalhar hoje, porque elas cantaram a noite inteira.
+1	Boe	_	NOUN	_	_	2	nmod	_	_
+2	etaidukare	aidu	VERB	v	IF=Ass|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
+3	tumaragoduwo	ragodu	VERB	v	Number=Plur|Person=3|Reflex=Yes	2	ccomp	_	work;trabalhar
+4	awu	_	DET	dem	_	5	nmod	_	this;este,esta
+5-6	meriji	_	_	_	_	_	_	_	_
+5	meri	_	NOUN	n	_	2	obl	_	day;dia
+6	ji	_	ADP	posp	_	5	case	_	_
+7	.	_	PUNCT	punct	_	2	punct	_	_
+8	Eragodyre	_	VERB	_	IF=Ass|Number=Plur|Person=3	2	advcl	_	sing;cantar
+9	boecoji	_	ADV	_	_	8	advmod	_	at.night;à.noite
+10	kodi	kodi	SCONJ	_	_	8	mark	_	because;porque
+
+# sent_id = CGPB-p65.1
+# text = Atudo poboto
+# text_eng = Go to the river!
+# text_por = Vá para o rio!
+1	Atudo	tu	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2-3	poboto	_	_	_	_	_	_	_	_
+2	pobo	pobo	NOUN	_	_	1	obl	_	water,river;água,rio
+3	to	to	ADP	_	_	2	case	_	_
+
+# sent_id = CGPB-p72.1
+# text = Jorubutu bato , boe emode kurodo kurugoaji
+# text_eng = When the time of drought arrives, the Bororo go to poison the flooded stream.
+# text_por = Quando chega o tempo da seca, os Bororo vão envenenar o alagado do córrego.
+1	Jorubutu	jorubutu	NOUN	n	_	6	advcl	_	dry.season,year;estação.seca,ano
+2	bato	bato	NOUN	n	_	1	mark	_	village;aldeia
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	boe	boe	NOUN	_	_	6	nsubj	_	_
+5	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	6	dep	_	they;eles,elas
+6	kurodo	kuro	NOUN	n	Voice=Cau	0	root	_	liana;timbó
+7-8	kurugoaji	_	_	_	_	_	_	_	_
+7	kurugoa	kurugoa	NOUN	n	_	6	obl	_	_
+8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
+
 # sent_id = CGPB-p72.2
 # text = Boe emode baibora bu kajeje . Mare woere boe emode tugerago kuroji , awu korogedy jipaji woe , jice kapau tada
 # text_eng = They will make a grass (straw) fence in the middle of it. But, it is here (that) they will get timbó, in the bed of the stream, on the banks here, there in the middle of the tall bushes.
 # text_por = Eles vão fazer uma cerca de capim (palha) no meio dele. Mas, é aqui (que) eles vão arranjar timbó, no leito do córrego, às margens aqui, lá no meio do mato alto.
-1	Boe	boe	NOUN	_	_	5	nsubj	_	_
-2	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	5	dep	_	_
+1	Boe	boe	NOUN	_	_	5	nsubj	5:nsubj	_
+2	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	5	dep	5:dep	_
 3-4	baibora	_	_	_	_	_	_	_	_
-3	bai	bai	NOUN	_	_	4	nmod	_	straw;palha
-4	bora	bora	NOUN	_	_	5	obj	_	fence,chest;cerca,peitoral
-5	bu	bu	VERB	v	_	0	root	_	put,place;pôr,colocar
-6	kajeje	kajeje	ADP	_	_	5	obl	_	around;ao.redor,em.volta
-7	.	.	PUNCT	_	_	5	punct	_	_
-8	Mare	mare	CCONJ	cconj	_	12	cc	_	but;mas
-9	woere	woe	ADV	adv	IF=Ass	12	advmod	_	here;aqui
-10	boe	boe	NOUN	n	_	12	nsubj	_	_
-11	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
-12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	_	hand;mão
-13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
-14	,	,	PUNCT	punct	_	12	punct	_	_
-15	awu	awu	DET	dem	_	16	det	_	_
-16	korogedy	_	NOUN	_	_	17	nmod	_	stream;córrego
+3	bai	bai	NOUN	_	_	4	nmod	4:nmod	straw;palha
+4	bora	bora	NOUN	_	_	5	obj	5:obj	fence,chest;cerca,peitoral
+5	bu	bu	VERB	v	_	0	root	0:root	put,place;pôr,colocar
+6	kajeje	kajeje	ADP	_	_	5	obl	5:obl	around;ao.redor,em.volta
+7	.	.	PUNCT	_	_	5	punct	5:punct	_
+8	Mare	mare	CCONJ	cconj	_	12	cc	12:cc	but;mas
+9	woere	woe	ADV	adv	IF=Ass	12	advmod	12:advmod	here;aqui
+10	boe	boe	NOUN	n	_	12	nsubj	12:nsubj	_
+11	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	12:dep	_
+12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	5:conj	hand;mão
+13	kuroji	kuroji	NOUN	n	_	12	obj	12:obj	_
+14	,	,	PUNCT	punct	_	12	punct	12:punct	_
+15	awu	awu	DET	dem	_	16	det	16:det	_
+16	korogedy	_	NOUN	_	_	17	nmod	17:nmod	stream;córrego
 17-18	jipaji	_	_	_	_	_	_	_	_
-17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
-18	ji	ji	ADP	posp	_	17	case	_	_
-19	woe	woe	ADV	adv	_	12	advmod	_	_
-20	,	,	PUNCT	punct	_	19	punct	_	_
-21	jice	jice	ADV	adv	_	22	advmod	_	there;lá
-22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
-23	tada	tada	ADP	posp	_	22	case	_	inside;dentro
+17	jipa	jipa	NOUN	n	_	19	obl	19:obl	margin,side,cheek;margem,lado,bochecha
+18	ji	ji	ADP	posp	_	17	case	17:case	_
+19	woe	woe	ADV	adv	_	12	advmod	12:advmod	_
+20	,	,	PUNCT	punct	_	19	punct	19:punct	_
+21	jice	jice	ADV	adv	_	22	advmod	22:advmod	there;lá
+22	kapau	kapau	NOUN	n	_	12	obl	12:obl	tall.bush;mato.alto
+23	tada	tada	ADP	posp	_	22	case	22:case	inside;dentro
 
