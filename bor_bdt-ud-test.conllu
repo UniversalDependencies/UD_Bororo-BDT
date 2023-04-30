@@ -1404,7 +1404,7 @@
 # text = Iwiri urure
 # text_eng = My skin is hot (I have fever)
 # text_por = Minhapele está quente (estou com febre)
-1	Iwiri	wiri	NOUN	n	Number=Sing|Person=1|PronType=Bi	2	nsubj	_	skin;pele
+1	Iwiri	wiri	NOUN	n	Number=Sing|Person=1	2	nsubj	_	skin;pele
 2	urure	uru	VERB	v	IF=Ass|Number=Sing|Person=3	0	root	_	hot;quente
 
 # sent_id = CGPB-p46.1
@@ -1415,7 +1415,7 @@
 2	jiba	ji	ADP	posp	_	1	case	_	_
 3-4	aroino	_	_	_	_	_	_	_	_
 3	aro	ro	VERB	v	_	0	root	_	do;fazer
-4	ino	ino	ADV	adv	Number=Sing|Person=2	3	advmod	_	thus,this.way,like.this;assim,detsa.maneira
+4	ino	ino	ADV	adv	_	3	advmod	_	thus,this.way,like.this;assim,detsa.maneira
 5	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = CGPB-p46.2
@@ -1504,7 +1504,7 @@
 3	boe	_	NOUN	n	_	4	nsubj	_	_
 4	pemegare	pemega	VERB	v	IF=Ass	0	root	_	_
 5	.	_	PUNCT	punct	_	4	punct	_	_
-6	Ike	ke	NOUN	_	Number=Sing|Person=1|PronType=Bi	7	nsubj	_	food;comida
+6	Ike	ke	NOUN	_	Number=Sing|Person=1	7	nsubj	_	food;comida
 7	boere	boe	VERB	v	IF=Ass	4	parataxis	_	_
 8	ii	ji	ADP	posp	_	7	obl	_	_
 9	.	_	PUNCT	_	_	7	punct	_	_
@@ -1532,7 +1532,7 @@
 # text_eng = You put your food in the pan
 # text_por = Você pôs a sua comida dentro da panela
 1	Are	a	PRON	bi	IF=Ass|Number=Sing|Person=2|PronType=Bi	4	nsubj	_	_
-2	ake	ke	NOUN	n	Number=Sing|Person=2|PronType=Bi	3	clf	_	_
+2	ake	ke	NOUN	n	Number=Sing|Person=2	3	clf	_	_
 3	rogu	rogu	NOUN	n	_	4	obj	_	foor;comida
 4	tugo	tugo	VERB	v	_	0	root	_	put.in;colocar.dentro
 5-6	meririto	_	_	_	_	_	_	_	_
@@ -1544,7 +1544,7 @@
 # text_eng = We made you put your food in the pan
 # text_por = Nós fizemos você pôr sua comida dentro da panela
 1	Pare	_	PRON	bi	Clusivity=In|IF=Ass|Number=Plur|Person=1|PronType=Bi	5	nsubj	_	_
-2	ado	ke	PRON	bi	Number=Sing|Person=2|Voice=Cau	5	_	_	_
+2	ado	a	PRON	bi	Number=Sing|Person=2|Voice=Cau	5	_	_	_
 3	ake	ke	NOUN	n	Number=Sing|Person=2	4	clf	_	_
 4	rogu	rogu	NOUN	n	_	5	obj	_	_
 5	tugo	tugo	VERB	v	_	0	root	_	_
