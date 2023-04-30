@@ -1411,7 +1411,7 @@
 # text = Kaboba jiba aroino ?
 # text_eng = What are you doing?
 # text_por = O que você está fazendo?
-1	Kaboba	kabo	PRON	_	PronType=Int	_	3	obl	_	what;oque
+1	Kaboba	kabo	PRON	_	PronType=Int	3	obl	_	what;oque
 2	jiba	ji	ADP	posp	_	1	case	_	_
 3-4	aroino	_	_	_	_	_	_	_	_
 3	aro	ro	VERB	v	_	0	root	_	do;fazer
@@ -1591,7 +1591,7 @@
 # text_por = As pessoas não querem trabalhar hoje, porque elas cantaram a noite inteira.
 1	Boe	_	NOUN	_	_	2	nmod	_	_
 2	etaidukare	aidu	VERB	v	IF=Ass|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
-3	tumaragoduwo	ragodu	VERB	v	Number=Plur|Person=3|Reflex=Yes	_	2	ccomp	_	work;trabalhar
+3	tumaragoduwo	ragodu	VERB	v	Number=Plur|Person=3|Reflex=Yes	2	ccomp	_	work;trabalhar
 4	awu	_	DET	dem	_	5	nmod	_	this;este,esta
 5-6	meriji	_	_	_	_	_	_	_	_
 5	meri	_	NOUN	n	_	2	obl	_	day;dia
@@ -1640,7 +1640,7 @@
 9	woere	woe	ADV	adv	IF=Ass	12	advmod	_	here;aqui
 10	boe	boe	NOUN	n	_	12	nsubj	_	_
 11	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
-12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3|Voice=ICau	5	conj	_	hand;mão
+12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	_	hand;mão
 13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
 14	,	,	PUNCT	punct	_	12	punct	_	_
 15	awu	awu	DET	dem	_	16	det	_	_
