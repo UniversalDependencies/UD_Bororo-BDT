@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>184</sentences><tokens>648</tokens><words>692</words><fused>44</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>184</sentences><tokens>648</tokens><words>692</words><fused>44</fused></test>
+  </size>
+  <lemmas unique="204" /><!-- ji, boe, karo, ?, i, wogu, bi, kowuje, u, bai, imi, to, a, e, aidu -->
+  <forms unique="333" /><!-- ?, boe, karo, ure, ji, kowuje, to, imi, bito, ire, Itaidure, iwogure, ., Fabrício, are -->
+  <fusions unique="33" /><!-- poboto, adugoji, ebataruji, emode, kuiejedogei, meriji, meririto, Joãoji, akabo, aroino, bagaidyji, bagaiwyge, baibora, baperato, boei -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADP">78</tag><!-- ji, to, bagai, _, ai, kae, ae, tabo, apo, bo -->
+    <tag name="ADV">30</tag><!-- woe, jao, pemega, _, boecoji, ino, ka, toro, jice, kae -->
+    <tag name="CCONJ">4</tag><!-- mare, rakydy -->
+    <tag name="DET">9</tag><!-- awy, _, awu, cewu, nowu -->
+    <tag name="INTJ">1</tag><!-- u -->
+    <tag name="NOUN">198</tag><!-- karo, boe, _, bai, imedy, adugo, imedu, ke, pobo, aredy -->
+    <tag name="NUM">2</tag><!-- ia -->
+    <tag name="PRON">96</tag><!-- i, u, imi, e, a, _, pagi, iogudy, kabo, ce -->
+    <tag name="PROPN">19</tag><!-- João, Maria, Fabrício, _, Dario, Enawureudo, Enawurewy, Tiago -->
+    <tag name="PUNCT">35</tag><!-- ?, ,, ., _, ! -->
+    <tag name="SCONJ">2</tag><!-- bato, kodi -->
+    <tag name="VERB">200</tag><!-- wogu, bi, kowuje, aidu, _, ty, ako, kado, aiwo, jorydy -->
+    <tag name="X">18</tag><!-- _, mody, modyre, re, ak, ce, i, jawy, rema, wy -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="42">
+    <feat name="Aspect" value="Hab" upos="PRON,VERB">4</feat><!-- cekigodyre, ikadykigodykare, iwogukidogüre, takigodyre -->
+    <feat name="Aspect" value="Iter" upos="VERB">1</feat><!-- tygu -->
+    <feat name="Aspect" value="Prog" upos="PRON,VERB">6</feat><!-- Inure, etunure, itykadyre, utyre -->
+    <feat name="Clusivity" value="Ex" upos="ADP,PRON,VERB,X">6</feat><!-- Cemode, Cere, Cewogure, cenai, ceno, cetaimo -->
+    <feat name="Clusivity" value="In" upos="ADP,NOUN,PRON,VERB">19</feat><!-- pagi, Pamode, Pare, cekigodyre, kae, pabagudugodyre, pabai, pabito, pagodure, papagudugo -->
+    <feat name="Evident" value="Rep" upos="NOUN,VERB,X">8</feat><!-- iie, imeruie, itaregodyie, kaie, kurimodyie, taregodyie, tubaikae, tumotyie -->
+    <feat name="IF" value="Ass" upos="ADV,NOUN,PRON,VERB,X">181</feat><!-- ure, ire, Itaidure, iwogure, are, ere, boere, imode, arydyre, emode -->
+    <feat name="Int" value="Yes" upos="ADP,ADV,NOUN,PRON">18</feat><!-- kaeba, iogudyba, kaba, kaboba, kejeba, imedyba, inoba, jiba, kaiba, karoba -->
+    <feat name="Mood" value="Des" upos="VERB">3</feat><!-- botuwo, ikiguruduwo, patuwo -->
+    <feat name="Mood" value="Imp" upos="VERB">2</feat><!-- Atudo, awogudö -->
+    <feat name="Nomzr" value="Yes" upos="ADP,NOUN">9</feat><!-- kowujedy, köwydyre, dyji, dytabo, itaidykaredy, rawujedy -->
+    <feat name="Number" value="Plur" upos="ADP,NOUN,PRON,VERB,X">62</feat><!-- emode, emage, ere, arigaodoge, ebataru, ebo, eimejeramode, emod, ewogyre, i -->
+    <feat name="Number" value="Sing" upos="ADP,NOUN,PRON,VERB,X">186</feat><!-- ure, bito, imi, kowuje, ji, iwogure, are, arydyre, imode, kado -->
+    <feat name="Number[obj]" value="Plur" upos="PRON,VERB">10</feat><!-- ebito, pagi, ebitö, epagududo, etudo, pabito -->
+    <feat name="Number[obj]" value="Sing" upos="VERB">3</feat><!-- arududo, etowuje, ko -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN">6</feat><!-- ibai, ibaidoge, ibaidogedö, ibaimodükare, iiodore, tugerago -->
+    <feat name="Number[subj]" value="Plur" upos="PRON,VERB">17</feat><!-- Pagi, emerure, Cemode, Cewogure, Ere, Pamode, Pare, ebitodyre, etaregody, etaregodyre -->
+    <feat name="Number[subj]" value="Sing" upos="PRON,VERB">30</feat><!-- Itaidure, Inure, imi, imuguwo, ire, iwogumode, Akaregodure, Are, Ikodumode, Imagore -->
+    <feat name="Person" value="1" upos="ADP,NOUN,PRON,VERB,X">77</feat><!-- imi, iwogure, imode, ire, iiodore, iji, ike, iorudiwawo, kae, Cere -->
+    <feat name="Person" value="2" upos="ADP,NOUN,PRON,VERB,X">27</feat><!-- are, arydyre, ake, akeragu, Akaiwodo, Akogodure, Atudo, ado, ak, aki -->
+    <feat name="Person" value="3" upos="ADP,NOUN,PRON,VERB,X">138</feat><!-- ure, bito, ji, kowuje, emode, ere, kado, emage, akore, bagai -->
+    <feat name="Person[obj]" value="1" upos="PRON,VERB">4</feat><!-- pagi, etowuje, pabito -->
+    <feat name="Person[obj]" value="2" upos="VERB">1</feat><!-- arududo -->
+    <feat name="Person[obj]" value="3" upos="VERB">8</feat><!-- ebito, ebitö, epagududo, etudo, ko -->
+    <feat name="Person[psor]" value="1" upos="NOUN">5</feat><!-- ibai, ibaidoge, ibaidogedö, ibaimodükare, iiodore -->
+    <feat name="Person[psor]" value="3" upos="NOUN">1</feat><!-- tugerago -->
+    <feat name="Person[subj]" value="1" upos="PRON,VERB">31</feat><!-- Itaidure, Inure, Pagi, imi, imuguwo, ire, iwogumode, Cemode, Imagore, Pamode -->
+    <feat name="Person[subj]" value="2" upos="PRON,VERB">5</feat><!-- Akaregodure, Are, Ikodumode, akodumode, tare -->
+    <feat name="Person[subj]" value="3" upos="PRON,VERB">10</feat><!-- emerure, Ere, Uture, ebitodyre, etaregody, etaregodyre, ewogu, rorewyge, turemo -->
+    <feat name="Polarity" value="Neg" upos="ADV,NOUN,PRON,VERB,X">20</feat><!-- ukare, Imaragodymodykare, boekare, bokwadö, butumodykare, emodykare, etaidukare, ibaimodükare, ikadykigodykare, ikare -->
+    <feat name="Poss" value="Yes" upos="X">2</feat><!-- ako, ceno -->
+    <feat name="Pred" value="AtrEq" upos="X">1</feat><!-- rema -->
+    <feat name="PronType" value="Bi" upos="PRON">24</feat><!-- Inure, emode, ire, ure, Are, Imode, Pamode, Cemode, Cere, Pare -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">14</feat><!-- kaboba, iogudyba, kaiba, Kodiba, kaba -->
+    <feat name="PronType" value="Prs" upos="PRON">23</feat><!-- imi, pagi, emage, aki, Pare, are -->
+    <feat name="Reflex" value="Yes" upos="ADP,NOUN,PRON,VERB">13</feat><!-- pudyi, tamudö, cetaimo, itaregodyie, pu, taredö, taregodyie, tubaiga, tumaragoduwo, ture -->
+    <feat name="Rel" value="Yes" upos="ADP">1</feat><!-- jiwyge -->
+    <feat name="Subord" value="Yes" upos="ADP,PRON,VERB,X">17</feat><!-- imuguwo, iorudiwawo, kowujewy, amuguwo, bagaidy, bagaiwy, erudiwawo, ikadykigodykare, iorydyiwamodedydö, itykadyre -->
+    <feat name="Tense" value="Fut" upos="NOUN,PRON,VERB,X">29</feat><!-- imode, emode, Pamode, eimejeramode, emod, iwogumode, Cemode, Ikodumode, Imaragodymodykare, akodumode -->
+    <feat name="VerbForm" value="Inf" upos="VERB">2</feat><!-- iwogukaidy, iwogyi -->
+    <feat name="Voice" value="Antip" upos="VERB">4</feat><!-- etaregody, etaregodyre, pabagudugodyre, parekodyre -->
+    <feat name="Voice" value="Cau" upos="NOUN,PRON,VERB">34</feat><!-- bito, ebito, kuridö, Akaiwodo, ado, aiwodö, akeragu, arududo, awogudö, boedo -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="23">
+    <dep name="acl">5</dep>
+    <dep name="advcl">6</dep>
+    <dep name="advmod">25</dep>
+    <dep name="case">57</dep>
+    <dep name="cc">4</dep>
+    <dep name="ccomp">22</dep>
+    <dep name="clf">2</dep>
+    <dep name="conj">12</dep>
+    <dep name="dep">32</dep>
+    <dep name="det">7</dep>
+    <dep name="discourse">1</dep>
+    <dep name="iobj">2</dep>
+    <dep name="mark">4</dep>
+    <dep name="nmod">27</dep>
+    <dep name="nsubj">121</dep>
+    <dep name="nummod">2</dep>
+    <dep name="obj">55</dep>
+    <dep name="obl">79</dep>
+    <dep name="parataxis">4</dep>
+    <dep name="punct">35</dep>
+    <dep name="root">184</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">5</dep>
+  </deps>
+</treebank>
