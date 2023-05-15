@@ -27,6 +27,8 @@ teoria de caso e concordância_. UNICAMP. Unpublished PhD thesis. (ABG)
 
 * Ferraz Gerardi, Fabrício (in preparation) _A grammar of Bororo_. (FGGB)
 
+* Ferraz Gerardi, Fabrício (2022-2023) Fieldwork material
+
 
 # Changelog
 
