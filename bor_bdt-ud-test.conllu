@@ -2240,6 +2240,33 @@
 3	inaidy	ai	ADP	posp	Number=Sing|Person=2|Rel=Nomzr	2	obl	_	_
 4	piji	piji	ADP	posp	_	1	obl	_	_
 
+# sent_id = 0068a.PessGr
+# text = Ipere ererure , du kejere ere taimo
+# text_eng = The young men danced and bathed afterwards
+# text_por = Os rapazes dançaram, depois tomaram banho.
+1	Ipere	ipere	NOUN	_	Number=Plur	2	nsubj	_	[ipaːɾe];young.men;rapazes,jovens
+2	ererure	reru	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	['ɾeɾu];dance;dançar
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	dykejere	dykejere	SCONJ	_	_	6	mark	_	_
+5	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
+6	taimo	aimo	VERB	_	Person=3|Reflex=Yes	2	advcl	_	bathe;banhar-se
+
+# sent_id = 0068b.PessGr
+# text = Jukore tuge okoge reko boeki kae , du kaere adugo aregodure
+# text_eng = 
+# text_por = O macaco levou seu peixe dourado para o seco, ai a onça chegou
+1	Jukore	jukore	NOUN	_	Mood=Ind	4	nsubj	_	[ˈdʒukʷɔ];monkey;macaco
+2	tuge	_	X	_	_	4	dep	_	_
+3	okoge	koge	NOUN	_	Number=Plur|Person=3|Poss=Yes	4	obj	_	[ˈkʷɔɡe];;dourado.(peixe)
+4	reko	_	VERB	_	_	0	root	_	_
+5	boe	boe	NOUN	_	_	4	obl	_	_
+6	ki	ki	NOUN	_	_	5	nmod	_	['ki];dry;seco
+7	kae	kae	ADP	_	_	5	case	_	_
+8	,	_	PUNCT	_	_	4	punct	_	_
+9	dykaere	dykaere	SCONJ	sconj	_	11	mark	_	_
+10	adugo	_	NOUN	_	_	11	nsubj	_	[aˈdɯɡʷɔ];jaguar;onça
+11	aregodure	_	VERB	_	_	4	advcl	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !  
 # text_eng = work!
