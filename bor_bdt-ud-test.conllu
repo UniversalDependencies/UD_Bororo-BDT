@@ -73,7 +73,7 @@
 # text = imedyre karo kowuje
 # text_eng = the man ate the fish
 # text_por = O homem comeu o peixe
-1	imedyre	imedy	NOUN	n	Mood=Ind	3	nsubj	_	man;homem
+1	imedyre	imedy	NOUN	n	Mood=Ind|Number=Sing	3	nsubj	_	[iˈmɛdɨ];man;homem
 2	karo	karo	NOUN	n	_	3	obj	_	_
 3	kowuje	kowuje	VERB	vt	Number=Sing|Person=3	0	root	_	_
 
