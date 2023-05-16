@@ -12,7 +12,7 @@
 # text = iorydyre ji
 # text_eng = I saw him 
 # text_por = Eu o vi
-1	iorydyre	jrydyre	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
+1	iorydyre	jorudyre	VERB	v	IF=Ass|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
 2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = ABE-21
