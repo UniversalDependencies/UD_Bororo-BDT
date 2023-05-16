@@ -1963,7 +1963,7 @@
 1	Makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	jiboe	jiboe	_	_	_	1	dep	_	_
 
-# sent_id = 00.PessGr
+# sent_id = 0057pp.PessGr
 # text = Imearudyre makore jiboe ji 
 # text_eng = 
 # text_por = escutei o que ele falou
@@ -2257,7 +2257,7 @@
 # text_por = O macaco levou seu peixe dourado para o seco, ai a onça chegou
 1	Jukore	jukore	NOUN	_	Mood=Ind	4	nsubj	_	[ˈdʒukʷɔ];monkey;macaco
 2	tuge	ke	NOUN	_	Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	obj	_	['ke];food.classifier.for.food;comida;classificador.de.comida
-3	okoge	koge	NOUN	_	Number=Plur|Person=3|Poss=Yes	4	obj	_	[ˈkʷɔɡe];;dourado.(peixe)
+3	okoge	koge	NOUN	_	Number=Plur|Person=3|Poss=Yes	4	obj	_	[ˈkʷɔɡe];fish.sp.(Salminus brasiliensis);dourado (espécied de ßeixe).(Salminus brasiliensis)
 4	reko	_	VERB	_	_	0	root	_	_
 5	boe	boe	NOUN	_	_	4	obl	_	_
 6	ki	ki	NOUN	_	_	5	nmod	_	['ki];dry;seco
