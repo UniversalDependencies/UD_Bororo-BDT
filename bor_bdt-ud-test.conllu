@@ -15,7 +15,7 @@
 11	ji	ji	ADP	posp	_	10	case	_	_
 
 # sent_id = 0.2.BEBE
-# text = Iwo tarydywado barogo ie ji , karo ieji , kiogo ie ji . Boe ero jamedu boe ji
+# text = Iwo tarydywado barogo ie ji , karo ieji , kiogo ie ji , boe ero jamedu boe ji
 # text_eng = 
 # text_por = Vou ensinar-vos os nomes dos bichos, dos peixes e das pássaros. Tudo o que os bororo fazem.
 1	Iwo	bo	VERB	v	_	2	nsubj	_	_
@@ -118,7 +118,7 @@
 7	roino	roino	ADV	adv	_	6	advmod	_	_
 
 # sent_id = 0.8.BEBE
-# text = Pegareure rokare ino , meardae bokwareu , jordae bokwarewu imedyre, rokare ino , aredyre rokare ino , dyre rokare ino
+# text = Pegareure rokare ino , mearydae bokwareu , jordae bokwarewu imedyre, rokare ino , aredyre rokare ino , dyre rokare ino
 # text_eng = 
 # text_por = Mas o ruim não faz assim. O homem, a mulher que não pensa, que não sabe, não faz assim.
 1	Pegareure	pega	VERB	v	Nomzr=Rel	2	ccomp	_	bad;mal,mau,ruim
@@ -246,12 +246,12 @@
 25	ji	ji	ADP	posp	_	24	case	_	_
 
 # sent_id = criacao_06
-# text = Deu ure kiogo rogu to , ure kare towuje , nowu jamedu boe ure towuje
+# text = Deu ure kiogorogu to , ure kare towuje , nowu jamedu boe ure towuje
 # text_eng = 
 # text_por = Deus fez o passarinhos, fez os peixes, fez tudo isso
 1	Deu	Deu	NOUN	n	_	4	nsubj	_	_
 2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
-3	kiogorogu	kiogo	NOUN	n	Dim=Yes	4	obj	_	bird;pássaro,ave
+3	kiogorogu	kiogo	NOUN	n	Degree=Dim	4	obj	_	bird;pássaro,ave
 4	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	ure	re	PART	prcl	Number=Plur|Person=3	8	dep	_	_
@@ -306,14 +306,14 @@
 7	boe	boe	NOUN	n	_	8	dep	_	_
 8	akedudo	akedudo	_	_	_	14	advcl	_	_
 9	tuje	tuje	VERB	v	Number=Plur|Person=3	8	xcomp	_	_
-10	du	du	_	_	_	11	dep	_	_
+10	dy	dy	_	_	_	11	dep	_	_
 11	keje	keje	_	_	_	14	mark	_	_
 12	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	14	dep	_	_
 13	imedu	imedu	NOUN	n	_	14	obj	_	man;homem
 14	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 
 # sent_id = criacao_09
-# text = Deu ure boe pa pemegaguragare , boe epa moturewu to , cowu imedu muguwo keje , muguwo tada
+# text = Deu ure boepa pemegaguragare , boe epa moturewu to , cowu imedu muguwo keje , muguwo tada
 # text_eng = 
 # text_por = Ele fez uma roça perfeita, fez uma roça bonita, para aquele homem viver nela, viver dentro dela
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
@@ -378,7 +378,7 @@
 8	jamedy	jamedy	ADV	adv	_	4	advmod	_	also;também
 
 # sent_id = criacao_13
-# text = Deu akore ei akore enogwageiagu jii nowu boepa tadawu boe jamedy , nowu iguru jamedy boe ji , mare rakojere boe eiadadawu ekare ko
+# text = Deu akore ei akore enogwageiagu ji nowu boepa tadawu boe jamedy , nowu iguru jamedy boe ji , mare rakojere boe eiadadawu ekare ko
 # text_eng = 
 # text_por = Deus falou para eles comerem tudo que existia naquela roça, para comerem dos frutos da árvore, menos das arvores do meio
 1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
@@ -386,7 +386,7 @@
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
 4	akore	ko	_	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
 5	enokwageiagu	okwage	VERB	v	Number=Plur|Person=3|Tense=Prosp	4	xcomp	_	eat;comer
-6	ji	ji	PART	prcl	_	5	iobj	_	for.a.long.time;por.muito.tempo
+6	ji	ji	ADP	posp	_	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowu	nowu	DET	dem	_	8	det	_	_
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
 9	tadawu	tada	NOUN	n	Nomzr=Rel	10	nmod	_	_
@@ -407,7 +407,7 @@
 24	eko	ko	VERB	v	Number=Plur|Person=3	5	conj	_	eat;comer
 
 # sent_id = criacao_14
-# text = ia meri keje Satanae aregodyre aredy ae , Satanae ure bopedoge eiamedu boe eimejera ema , ema koiare ure ero-jai , eko-jai
+# text = ia meri keje Satanae aregodyre aredy ae , Satanae ure bopedoge eiamedu boe eimejera ema , ema koiare ure erojai , ekojai
 # text_eng = 
 # text_por = Um certo dia Satanae se aproximou da mulher, Satanae, o chefe de todos demonios, por causa dele ele os fez fazer assim e eles assim ficaram
 1	ia	_	DET	_	_	2	det	_	_
@@ -444,10 +444,10 @@
 5	towuje	towuje	NOUN	_	_	0	root	_	_
 6	ure	re	PRON	_	_	8	dep	_	_
 7	bope	_	NOUN	_	_	8	obj	_	_
-8	towuje	_	_	_	_	5	parataxis	_	_
+8	towuje	_	VERB	_	_	5	parataxis	_	_
 9	boekare	_	ADV	_	_	10	advmod	_	_
 10	etaidure	_	VERB	_	_	5	parataxis	_	_
-11	tugoduwo	_	VERB	_	_	10	xcomp	_	_
+11	etugoduwo	_	VERB	_	_	10	xcomp	_	_
 12	pudumiwo	_	VERB	_	_	11	obj	_	_
 13	tugurire	_	VERB	_	_	11	xcomp	_	_
 14	,	,	PUNCT	_	_	13	punct	_	_
@@ -471,16 +471,16 @@
 4	kimore	_	_	_	_	3	advmod	_	_
 5	toro	toro	ADV	adv	_	3	advmod	_	_
 6	Deu	Deu	NOUN	n	_	3	obl	_	_
-7	apo	_	_	_	_	6	obl	_	_
+7	apo	_	ADP	_	_	6	obl	_	_
 8	toro	toro	ADV	_	_	3	advmod	_	there;lá
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	11	nsubj	_	_
-11	rojai	_	_	_	_	3	parataxis	_	_
-12	jiboe	_	_	_	_	11	acl	_	_
-13	jamedy	_	_	_	_	11	obj	_	_
-14	boe	_	_	_	_	13	fixed	_	_
+11	rojai	_	VERB	_	_	3	parataxis	_	_
+12	jiboe	_	X	_	_	11	acl	_	_
+13	jamedy	_	X	_	_	11	obj	_	_
+14	boe	_	NOUN	_	_	13	fixed	_	_
 15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	16	dep	_	_
-16	pemegado	pemega	_	_	Voice=Cau	11	parataxis	_	_
+16	pemegado	pemega	VERB	_	Voice=Cau	11	parataxis	_	_
 
 # sent_id = ABE-19
 # text = imi iorydyre boetygy ji
@@ -495,7 +495,7 @@
 # text = iorydyre ji
 # text_eng = I saw him 
 # text_por = Eu o vi
-1	iorudyre	jorydyre	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
+1	iorydyre	jorydyre	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
 2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	['dʒi]
 
 # sent_id = ABE-21
@@ -2190,7 +2190,7 @@
 # text = Ikodure
 # text_eng = 
 # text_por = I went
-1	ikodure	tu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+1	Ikodure	tu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 00.46aPessGr
 # text = Ure iwido
@@ -2236,10 +2236,10 @@
 8	bire	bi	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = 0055d.PessGr
-# text = Iordyre amaregädui boepa tada dy ji
+# text = Iorydyre amaragädui boepa tada dy ji
 # text_eng = 
 # text_por = Vi você trabalhando na roça
-1	Iordyre	jordy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+1	Iorydyre	jordy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	amaragädui	maragädu	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	ccomp	_	[maɾaɣʌdɨ];work;trabalhar
 3	boepa	boepa	NOUN	n	_	2	obl	_	_
 4	tada	tada	ADP	posp	_	3	case	_	inside;dentro.de
@@ -2247,7 +2247,7 @@
 6	ji	ji	ADP	posp	_	2	case	_	_
 
 # sent_id = 0055e.PessGr
-# text = Akore tumaragodymodyie duji
+# text = Akore tumaragädymodyie duji
 # text_eng = 
 # text_por = Falou que iria trabalhar
 1	Akore	ako	VERB	v	_	0	root	_	_
@@ -2298,7 +2298,7 @@
 4	ji	ji	ADP	posp	_	3	case	_	_
 
 # sent_id = 0057a.PessGr
-# text = Maragodure boepa tadawu ime emagare
+# text = Maragädyre boepa tadawu ime emagare
 # text_eng = 
 # text_por = os homens que trabalham na roça são muitos
 1	Maragädyre	maragädy	VERB	v	Mood=Ind|Numer=Plur|Person=3	5	acl	_	_
@@ -2325,7 +2325,7 @@
 3	reo	reo	X	x	_	1	discourse	_	_
 
 # sent_id = 0057d.PessGr
-# text = Biapagare makudumode pudaiboe bogai
+# text = Biapagare makudymode pudaiboe bogai
 # text_eng = wait for that which will be given to you
 # text_por = esperar por aquilo que lhe será dado
 1	Biapagare	biapaga	VERB	v	Mood=Ind	0	root	_	_
@@ -2335,7 +2335,7 @@
 5	bogai	bogai	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = 0057e.PessGr
-# text = Iorudyware kaiba amerumode duji
+# text = Iorudyware kaiba amerumode dy ji
 # text_eng = I know where you'll hunt
 # text_por = Eu sei onde você vai caçar
 1	Iorudyware	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2352,7 +2352,7 @@
 2	amerumodewujy	meru	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=2|Tense=Fut	1	ccomp	_	_
 
 # sent_id = 0057g.PessGr
-# text = Adugo aregodyre juko rakojere kekeboe kae
+# text = Adugo aregodyre juko rakojere kejeboe kae
 # text_eng = the jaguar arrived where the monkey was
 # text_por = a onça chegou aonde estava o macaco
 1	Adugo	adugo	NOUN	n	_	2	nsubj	_	_
@@ -2456,7 +2456,7 @@
 4	ji	ji	ADP	_	_	1	case	_	_
 
 # sent_id = 0057q.PessGr
-# text = U , duboe , imanamage , ituiemage
+# text = U , duboe , imanamage , ityiemage
 # text_eng = 
 # text_por = Sim! É isso, meus irmãos e minhas irmãs
 1	U	u	INTJ	_	_	0	root	_	yes;sim
@@ -2468,7 +2468,7 @@
 7	ityiemage	tyie	NOUN	n	Number=Plur|Person=1	5	conj	_	[ˈtɯi̯e];older.sister;irmã.mais.velha
 
 # sent_id = 0057r.PessGr
-# text = Iorudyware imedu makomodewo ji
+# text = Iorudyware imedu makomodewy ji
 # text_eng = 
 # text_por = Sei o lugar onde o homem vai falar
 1	Iorudyware	jorydywa	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2486,7 +2486,7 @@
 4	piji	piji	ADP	posp	_	3	case	_	[ˈpidʒi];from;de
 
 # sent_id = 0062a.PessGr
-# text = Akeamireu
+# text = Akeamirewy
 # text_eng = 
 # text_por = Teu pão
 1	Akeamirewy	amirewy	NOUN	n	Class=Food|Number=Sing|Person=2	0	root	_	bread;pão
