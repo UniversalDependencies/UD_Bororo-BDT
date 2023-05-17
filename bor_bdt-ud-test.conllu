@@ -38,6 +38,38 @@
 18	boe	boe	NOUN	n	_	17	compound	_	_
 19	ji	ji	ADP	posp	_	16	case	_	_
 
+# sent_id = 0.3.BEBE
+# text = Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo .
+# text_eng = 
+# text_por = O que eles fazem com os bichos, o que eles fazem com os peixes, o que eles fazem com as aves, com a flecha, com o arco e com a espingarda.
+1	Inoba	inoba	PRON	whp	PronType=Int	3	obj	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	barägy	barägy	NOUN	n	_	3	obl	_	[ɓaˈɾʌɡʷɤ];animal;animal,bicho
+5	ji	ji	ADP	posp	_	4	case	_	_
+6	,	,	PUNCT	punct	_	3	PUNCT	punct	_
+7	inoba	inoba	PRON	whp	PronType=Int	9	obj	_	_
+8	boe	boe	NOUN	n	_	9	nsubj	_	_
+9	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+10	karo	karo	NOUN	n	_	9	obl	_	_
+11	ji	ji	ADP	posp	_	10	case	_	_
+12	,	,	PUNCT	punct	_	9	PUNCT	punct	_
+13	inoba	inoba	PRON	whp	PronType=Int	15	obj	_	_
+14	boe	boe	NOUN	n	_	15	case	_	_
+15	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	9	parataxis	_	_
+16	kiogy	kiogy	NOUN	n	_	15	obl	_	_
+17	ji	ji	ADP	posp	_	16	case	_	_
+18	,	,	PUNCT	punct	_	15	PUNCT	punct	_
+19	tygä	tygä	NOUN	n	_	15	obl	_	['tɯgʌ];arrow;flecha
+20	tabo	apo	ADP	posp	Reflex=Yes	19	case	_	_
+21	,	,	PUNCT	punct	_	19	PUNCT	punct	_
+22	baiga	baiga	NOUN	n	_	19	cc	_	_
+23	tabo	apo	ADP	posp	Reflex=Yes	22	case	_	_
+24	,	,	PUNCT	punct	_	22	PUNCT	punct	_
+25	baiga	baiga	NOUN	n	_	19	cc	_	_
+26	akorewu	ako	ADJ	adj	Nomzr=Rel	25	nmod	_	_
+27	tabo	apo	ADP	posp	Reflex=Yes	25	case	_	_
+
 # sent_id = ABE-19
 # text = imi iorydyre boetygyji
 # text_eng = I saw the cloud (myself)
