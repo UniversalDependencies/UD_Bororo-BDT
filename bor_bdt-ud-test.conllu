@@ -105,6 +105,18 @@
 29	tubore	tubore	NOUN	n	_	4	cc	_	fish.(genus Astyanax);lambari.(genus Astyanax)
 30	ji	ji	ADP	posp	_	29	case	_	_
 
+# sent_id = 0.7.BEBE
+# text = Roiwarewu , mearydaerewu , joryduwarewu emare roino 
+# text_eng = 
+# text_por = O que tem capacidade, o que pensa, o que sabe faz assim.
+1	Roiwarewu	roiwa	VERB	v	Nomzr=Rel	6	ccomp	_	_
+2	,	,	PUNCT	punct	_	6	punct	_	_
+3	mearydaerewu	mearydae	VERB	v	Nomzr=Rel	1	cc	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	joryduwarewu	oryduwa	VERB	v	Nomzr=Rel	3	cc	_	_
+6	emare	mare	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+7	roino	roino	ADV	adv	_	6	advmod	_	_
+
 # sent_id = ABE-19
 # text = imi iorydyre boetygyji
 # text_eng = I saw the cloud (myself)
