@@ -34,7 +34,7 @@
 14	,	,	PUNCT	punct	_	12	punct	_	_
 15	Boe	boe	NOUN	n	_	16	nmod	_	['bɔɛ̯];thing,people;coisa,pessoa
 16	ero	ro	NOUN	v	Number=Plur|Person=3	2	obl	_	['ɾɔ];do,make;fazer
-17	jamedu	jamedu	PRON	pron	PronType=Tot	16	det	_	all;tudo,todos
+17	jamedu	jamedu	PRON	pron	_	16	det	_	all;tudo,todos
 18	boe	boe	NOUN	n	_	17	compound	_	_
 19	ji	ji	ADP	posp	_	16	case	_	_
 
