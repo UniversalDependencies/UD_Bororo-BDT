@@ -808,7 +808,7 @@
 1	tarydyre	jorydy	VERB	_	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
 2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	ccomp	_	fish;pescar
 3	pobu	_	NOUN	n	_	2	obj	_	pacu;pacu
-4-5	bagaidyji	_	_	_	_	_	_	_	_
+4-5	bagaidyji	ji	ADP	posp	_	_	_	_	_
 4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=3|Subord=Yes	3	case	_	_
 5	ji	ji	ADP	posp	_	1	obl	_	_
 
@@ -826,7 +826,7 @@
 # text_por = eu saberei (falar) a língua bororo
 1	iorydyiwamode	jorydyiwa	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	know;saber
 2	boe	boe	NOUN	n	_	3	nmod	_	_
-3-4	ebataruji	_	_	_	_	_	_	_	_
+3-4	ebataruji	ji	ADP	posp	_	_	_	_	_
 3	ebataru	bataru	NOUN	n	Number=Plur|Person=3	1	obl	_	language;língua
 4	ji	ji	NOUN	n	Number=Sing|Person=3	3	case	_	_
 
@@ -838,7 +838,7 @@
 2	ure	_	X	_	Mood=Ind	3	dep	_	_
 3	iorydyiwamodedydä	_	VERB	_	Number=Sing|Person=3|Subord=Yes|Tense=Fut|Voice=Cau	0	root	_	_
 4	boe	boe	NOUN	n	_	5	nmod	_	_
-5-6	ebataruji	_	_	_	_	_	_	_	_
+5-6	ebataruji	ji	ADP	posp	_	_	_	_	_
 5	ebataru	bataru	NOUN	n	Number=Plur|Person=3	3	obl	_	language;língua
 6	ji	ji	NOUN	n	Number=Sing|Person=3	5	case	_	_
 
@@ -903,7 +903,7 @@
 # text_por = você está pegando o peixe?
 1	are	_	PRON	bi	Mood=Ind|Number=Sing|Person=2	2	nsubj	_	_
 2	akeragu	kera	NOUN	n	Number=Sing|Person=2|Voice=Cau	0	root	_	hand;mão
-3-4	karoji	_	_	_	_	_	_	_	_
+3-4	karoji	ji	ADP	posp	_	_	_	_	_
 3	karo	karo	NOUN	n	_	2	obl	_	fish;peixe
 4	ji	karo	NOUN	n	_	3	case	_	fish;peixe
 5	?	?	PUNCT	punct	punct	2	punct	_	_
@@ -1176,7 +1176,7 @@
 1	kaba	ka	ADV	pron	Int=Yes|PronType=Int	3	advmod	_	when;quando
 2	kejeba	keje	ADP	posp	Int=Yes|Number=Sing|Person=3	1	case	_	about;sobre
 3	arydyre	jorydyre	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
-4-5	adugoji	_	_	_	_	_	_	_	_
+4-5	adugoji	ji	ADP	posp	_	_	_	_	_
 4	adugo	adugo	NOUN	n	_	3	obl	_	jaguar;onça
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	?	?	PUNCT	PUNCT	punct	3	punct	_	_
@@ -1226,7 +1226,7 @@
 2	kaba	ka	ADV	adv	Int=Yes	1	case	_	how;como
 3	kejeba	keje	ADP	posp	Int=Yes	1	conj	_	on;sobre
 4	arydyre	jorydyre	VERB	v	_	0	root	_	see;ver
-5-6	adugoji	_	_	_	_	_	_	_	jaguar;onça
+5-6	adugoji	ji	ADP	posp	_	_	_	_	jaguar;onça
 5	adugo	adugo	NOUN	n	_	4	iobj	_	jaguar;onça
 6	ji	ji	ADP	posp	_	5	case	_	_
 7	?	?	PUNCT	PUNCT	_	4	punct	_	_
@@ -1236,7 +1236,7 @@
 # text_eng = Where did he go yesterday?
 # text_por = ontem ele foi onde?
 1	jawy	jawy	X	x	_	5	dep	_	past;passado
-2-3	meriji	_	_	_	_	_	_	_	_
+2-3	meriji	ji	ADP	posp	_	_	_	_	_
 2	meri	meri	NOUN	n	_	5	obl	_	day;dia
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	kaeba	kae	ADP	posp	Int=Yes	5	obl	_	_
@@ -1369,7 +1369,7 @@
 # text_por = você viu que os bororos pescaram
 1	arydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3-4	ewoguji	_	_	_	_	_	_	_	_
+3-4	ewoguji	ji	ADP	posp	_	_	_	_	_
 3	ewogu	wogu	VERB	posp	Number[subj]=Plur|Person[subj]=3	1	ccomp	_	_
 4	ji	ji	ADP	posp	_	3	obl	_	_
 
@@ -1729,7 +1729,7 @@
 # text_por = Ele comeu carne de peixe
 1	okwagere	okwage	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	eat;comer
 2	karo	karo	NOUN	n	_	3	nmod	_	_
-3-4	koduji	_	_	_	_	_	_	_	_
+3-4	koduji	ji	ADP	posp	_	_	_	_	_
 3	kodu	kodu	NOUN	n	_	1	obl	_	meat;carne
 4	ji	ji	ADP	posp	_	3	case	_	_
 
@@ -1806,7 +1806,7 @@
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3	boe	boe	NOUN	n	_	4	nmod	_	_
-4-5	eroji	_	_	_	_	_	_	_	_
+4-5	eroji	ji	ADP	posp	_	_	_	_	_
 4	ero	ro	NOUN	n	_	2	obl	_	habits,tradition;costume,tradição
 5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 
@@ -1816,7 +1816,7 @@
 # text_por = Eu quero conhecer a língua dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
-3-4	ewadaruji	_	_	_	_	_	_	_	_
+3-4	ewadaruji	ji	ADP	posp	_	_	_	_	_
 3	ewadaru	bataru	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
 4	ji	ji	ADP	posp	Number=Plur|Person=3	3	case	_	_
 
@@ -1868,7 +1868,7 @@
 2-3	akabo	_	_	_	_	_	_	_	_
 2	ak	a	PRON	bi	Number=Sing|Person=2	1	obl	_	_
 3	abo	apo	ADP	posp	_	2	case	_	_
-4-5	Joãoji	_	_	_	_	_	_	_	_
+4-5	Joãoji	ji	ADP	posp	_	_	_	_	_
 4	João	João	PROPN	propn	_	1	obl	_	_
 5	ji	ji	ADP	posp	_	4	case	_	_
 
@@ -2072,7 +2072,7 @@
 2	etaidukare	aidu	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
 3	tumaragodywo	ragodu	VERB	v	Number=Plur|Person=3|Reflex=Yes	2	ccomp	_	work;trabalhar
 4	awu	_	DET	dem	_	5	nmod	_	this;este,esta
-5-6	meriji	_	_	_	_	_	_	_	_
+5-6	meriji	ji	ADP	posp	_	_	_	_	_
 5	meri	meri	NOUN	n	_	2	obl	_	day;dia
 6	ji	ji	ADP	posp	_	5	case	_	_
 7	.	.	PUNCT	PUNCT	punct	2	punct	_	_
@@ -2123,7 +2123,7 @@
 14	,	,	PUNCT	PUNCT	punct	12	punct	_	_
 15	awu	awu	DET	dem	_	16	det	_	_
 16	korogedy	_	NOUN	n	_	17	nmod	_	stream;córrego
-17-18	jipaji	_	_	_	_	_	_	_	_
+17-18	jipaji	ji	ADP	posp	_	_	_	_	_
 17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
 18	ji	ji	ADP	posp	_	17	case	_	_
 19	woe	woe	ADV	adv	_	12	advmod	_	_
@@ -2429,7 +2429,7 @@
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	imedu	imedu	_	_	_	1	obl	_	_
 3	makorewy	mako	VERB	v	Nomzr=Rel	2	amod	_	_
-4	ji	_	_	_	_	2	case	_	_
+4	ji	ji	ADP	posp	_	2	case	_	_
 
 # sent_id = 0057o.PessGr
 # text = Imearudymode makomodewy ji
@@ -2437,23 +2437,23 @@
 # text_por = Escutarei aquele que falará
 1	Imearudymode	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
 2	makomodewy	mako	_	_	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3|Tense=Fut	1	obl	_	_
-3	ji	_	_	_	_	2	case	_	_
+3	ji	ji	ADP	posp	_	2	case	_	_
 
 # sent_id = 0057p.PessGr
 # text = Makore jiboe
 # text_eng = 
 # text_por = O que ele falou
 1	Makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	jiboe	jiboe	_	_	_	1	dep	_	_
+2	jiboe	jiboe	X	_	_	1	dep	_	_
 
 # sent_id = 0057pp.PessGr
 # text = Imearudyre makore jiboe ji
 # text_eng = 
 # text_por = escutei o que ele falou
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	makore	_	_	_	Mood=Ind|Number=Sing|Person=3	1	cc	_	_
-3	jiboe	_	_	_	_	2	mark	_	_
-4	ji	ji	_	_	_	1	case	_	_
+2	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	1	cc	_	_
+3	jiboe	_	X	_	_	2	mark	_	_
+4	ji	ji	ADP	_	_	1	case	_	_
 
 # sent_id = 0057q.PessGr
 # text = U , duboe , imanamage , ituiemage
