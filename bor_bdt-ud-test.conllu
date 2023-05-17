@@ -142,6 +142,346 @@
 19	dyre	dy	X	_	_	20	ccomp	_	_
 20	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	16	parataxis	_	_
 
+# sent_id = criacao_01
+# text = Marigudu boe erydykare motoji , baruji , iaboeji , iaboeji
+# text_eng = 
+# text_por = Antigamente não se via terra, céu, nada, nada
+1	Marigudu	marigudu	ADV	_	_	3	advmod	_	early,in.the.past;antigamente
+2	boe	boe	NOUN	n	_	3	nsubj	_	people,thing,Bororo;pessoa,coisa,bororo
+3	erydykare	jorydy	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	see;ver
+4	moto	moto	NOUN	n	_	3	iobj	_	earth;terra
+5	ji	ji	ADP	posp	_	4	case	_	_
+6	,	,	PUNCT	punct	_	4	PUNCT	punct	_
+7	baru	baru	NOUN	n	_	4	conj	_	sky;céu
+8	ji	_	ADP	posp	_	7	case	_	_
+9	,	,	PUNCT	punct	_	8	PUNCT	punct	_
+10	iaboe	_	NOUN	n	_	4	conj	_	_
+11	ji	ji	ADP	posp	_	10	case	_	_
+12	,	,	PUNCT	punct	_	10	PUNCT	punct	_
+13	iaboe	_	NOUN	n	_	4	conj	_	_
+14	ji	ji	ADP	posp	_	13	case	_	_
+
+# sent_id = criacao_02
+# text = Deu ure tuje , onaregedyre ure tuje
+# text_eng = 
+# text_por = Só tinha Deus e o filho dele
+1	Deu	Deu	NOUN	n	_	3	nsubj	_	God;Deus
+2	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	3	dep	_	_
+3	tuje	je	VERB	v	Number=Sing|Person=3	0	root	_	exist,live;existir,viver
+4	,	,	PUNCT	punct	_	3	PUNCT	punct	_
+5	onaregedyre	onaregedy	NOUN	n	Mood=Ind	7	nsubj	_	son;filho
+6	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	7	dep	_	_
+7	tuje	je	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
+
+# sent_id = criacao_03
+# text = Marigudu Deu ure moto to , ure baru to , ure pobo to , ure tori to
+# text_eng = 
+# text_por = Antigamente Deus fez a terra, o céu, a água e as pedras
+1	Marigudu	marigudu	_	_	_	5	advcl	_	_
+2	Deu	Deu	NOUN	n	_	5	nsubj	_	_
+3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
+4	moto	moto	NOUN	n	_	5	obj	_	_
+5	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	PUNCT	punct	_
+7	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	9	dep	_	_
+8	baru	baru	NOUN	n	_	9	obj	_	_
+9	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	PUNCT	punct	_
+11	ure	re	PART	prcl	_	13	dep	_	_
+12	pobo	pobo	NOUN	n	_	13	obj	_	water;água
+13	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+14	,	,	PUNCT	punct	_	_	_	_	_
+15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	17	dep	_	_
+16	tori	tori	NOUN	n	_	17	obj	_	stone;pedra
+17	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	make,cause;fazer,criar
+
+# sent_id = criacao_04
+# text = Deu ure meri joku to , ure ari joku to , ure kuiejedoge eioku to
+# text_eng = 
+# text_por = Deus fez o brilho do sol, da lua, das estrelas
+1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
+2	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
+3	meri	meri	NOUN	n	_	4	nmod	_	sun,day;sol,dia
+4	joku	joku	NOUN	n	_	5	obj	_	eye,shine;olho;brilho
+5	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	PUNCT	punct	_
+7	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	10	dep	_	_
+8	ari	ari	NOUN	n	_	9	nmod	_	moon;lua
+9	joku	joku	NOUN	n	_	10	obj	_	star;estrela
+10	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	PUNCT	punct	_
+12	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	15	dep	_	_
+13	kuiejedoge	kuieje	NOUN	n	Number=Plur	14	nmod	_	_
+14	eioku	joku	NOUN	n	Number=Plur|Person=3	15	obj	_	_
+15	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+
+# sent_id = criacao_05
+# text = Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedu boe ure to boe enogwagewu ji
+# text_eng = 
+# text_por = Deus fez o cerrado, fez a floresta, Deus fez a mandioca, milho, arroz fez tudo isso de alimento para as pessoas se alimentarem
+1	Deu	Deu	NOUN	n	_	4	nsubj	_	god;Dues
+2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
+3	boku	boku	NOUN	n	_	4	obj	_	cerrado;cerrado
+4	to	to	VERB	v	_	0	root	_	_
+5	,	,	,	PUNCT	punct	4	punct	_	_
+6	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
+7	itura	itura	NOUN	n	_	8	obj	_	forest;floresta
+8	to	to	VERB	v	_	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	Deu	Deu	NOUN	n	_	22	nsubj	_	_
+11	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	_
+12	ju	ju	NOUN	n	_	22	obj	_	manioc;mandioca
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	kuiada	kuiada	NOUN	n	_	12	conj	_	corn,maize;milho
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	aroe	aroe	NOUN	n	_	12	conj	_	rice;arroz
+17	nowu	nowu	DET	_	_	18	nmod	_	_
+18	boe	boe	NOUN	n	_	12	conj	_	_
+19	jamedu	_	_	_	_	20	nmod	_	_
+20	boe	boe	NOUN	n	_	12	conj	_	_
+21	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	_
+22	to	to	VERB	v	Number=Sing|Person=3	4	parataxis	_	_
+23	boe	boe	NOUN	n	_	24	nsubj	_	_
+24	enogwagewu	ogwage	NOUN	n	Number=Plur|Person=3|Rel=Yes	4	advcl	_	eat;come
+25	ji	ji	ADP	posp	_	24	case	_	_
+
+# sent_id = criacao_06
+# text = Deu ure kiogo rogu to , ure kare towuje , nowu jamedu boe ure towuje
+# text_eng = 
+# text_por = Deus fez o passarinhos, fez os peixes, fez tudo isso
+1	Deu	Deu	NOUN	n	_	4	nsubj	_	_
+2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
+3	kiogorogu	kiogo	NOUN	n	Dim=Yes	4	obj	_	bird;pássaro,ave
+4	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ure	re	PART	prcl	Number=Plur|Person=3	8	dep	_	_
+7	kare	kare	_	_	_	8	obj	_	_
+8	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	nowu	_	_	_	_	12	det	_	_
+11	jamedu	_	_	_	_	12	det	_	_
+12	boe	boe	NOUN	n	_	14	obj	_	_
+13	ure	re	PART	prcl	Number=Plur|Person=3	14	dep	_	_
+14	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+
+# sent_id = criacao_07
+# text = Deu ure arigao to , ure kuwaru to , ure tapira to , ure popogo to , ure adugo to  jamedu boe ure to
+# text_eng = 
+# text_por = Deus fez o cachorro, fez o cavalo, fez a vaca, fez o veado, fez a onça-pintada, fez tudo isso
+1	Deu	Deu	_	_	_	4	nsubj	_	_
+2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
+3	arigao	_	_	_	_	4	obj	_	dog;cachorro
+4	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
+7	kuwaru	kuwaru	NOUN	n	_	8	obj	_	horse;cavalo
+8	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	12	dep	_	_
+11	tapira	tapira	NOUN	n	_	12	obj	_	cow;vaca
+12	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	16	dep	_	_
+15	popogo	popogo	NOUN	n	_	16	obj	_	deer;veado
+16	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	20	dep	_	_
+19	adugo	adugo	NOUN	n	_	20	obj	_	jaguar;onça
+20	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+21	jamedu	_	_	_	_	22	det	_	_
+22	boe	boe	NOUN	n	_	24	obj	_	_
+23	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	24	dep	_	_
+24	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+
+# sent_id = criacao_08
+# text = Deu ure nowu boe jameduji boe akedudo tuje du keje ure imedu to
+# text_eng = 
+# text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
+1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
+2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
+3	nowu	nowu	_	_	_	4	det	_	_
+4	boe	boe	NOUN	n	_	8	iobj	_	_
+5	jamedu	jamedu	_	_	_	4	det	_	_
+6	ji	ji	ADP	posp	_	4	case	_	_
+7	boe	boe	NOUN	n	_	8	dep	_	_
+8	akedudo	akedudo	_	_	_	14	advcl	_	_
+9	tuje	tuje	VERB	v	Number=Plur|Person=3	8	xcomp	_	_
+10	du	du	_	_	_	11	dep	_	_
+11	keje	keje	_	_	_	14	mark	_	_
+12	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	14	dep	_	_
+13	imedu	imedu	NOUN	n	_	14	obj	_	man;homem
+14	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+
+# sent_id = criacao_09
+# text = Deu ure boe pa pemegaguragare , boe epa moturewu to , cowu imedu muguwo keje , muguwo tada
+# text_eng = 
+# text_por = Ele fez uma roça perfeita, fez uma roça bonita, para aquele homem viver nela, viver dentro dela
+1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
+2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
+3	boepa	boepa	NOUN	n	_	8	obj	_	slash,garden;roça
+4	pemegaguragare	pemega	_	_	Intens=Yes|Mood=Ind	3	nmod	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	boepa	boepa	NOUN	n	_	3	appos	_	_
+7	moturewu	moture	_	_	Rel=Yes	6	nmod	_	_
+8	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	cowu	cowu	_	_	_	11	det	_	_
+11	imedu	imedu	NOUN	n	_	12	nsubj	_	_
+12	muguwo	mugo	_	_	Rel=Yes	8	xcomp	_	live,stay;morar,ficar
+13	keje	keje	ADP	_	_	12	case	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	muguwo	mugu	_	_	Rel=Yes	12	conj	_	_
+16	tada	tada	ADP	posp	_	15	case	_	_
+
+# sent_id = criacao_10
+# text = Deu ure ia aredu to , nowu oredu iere Adão , oreduje iere Eva
+# text_eng = 
+# text_por = Deus fez uma mulher, o esposo dela chamado Adão, e a esposa se chama Eva
+1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
+2	ure	re	PART	prcl	_	5	dep	_	_
+3	ia	ia	DET	art	_	4	det	_	_
+4	aredu	aredu	NOUN	n	_	5	obj	_	_
+5	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	nowu	nowu	DET	dem	_	8	det	_	_
+8	oredu	oredu	NOUN	n	_	9	nmod	_	husband;marido,esposo
+9	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	name;nome
+10	Adão	Adão	PROPN	n	_	5	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	oreduje	oreduje	NOUN	n	_	13	nmod	_	wife;esposa
+13	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	14	nsubj	_	_
+14	Eva	Eva	PROPN	n	_	5	parataxis	_	_
+
+# sent_id = criacao_11
+# text = Deu aidy rakaguragare cowu imedyje , aredyje
+# text_eng = 
+# text_por = Deus gostou muito daquele home e da mulher 
+1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
+2	aidy	aidy	VERB	v	Number=Sing|Person=3	0	root	_	want,like;gostar,querer
+3	rakaguragare	raka	_	_	Intens=Yes|Mood=Ind	2	advmod	_	_
+4	cowu	cowu	DET	dem	_	5	det	_	that,that.one;aquele
+5	imedyje	imedyje	NOUN	n	_	2	obj	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	aredyje	aredyje	NOUN	n	_	5	conj	_	_
+
+# sent_id = criacao_12
+# text = Aredy , imedy aidy rakaguragare Deu ji jamedy
+# text_eng = 
+# text_por = A mulher e o homem gostaram bastante de Deus tambem
+1	Aredy	aredy	NOUN	n	_	4	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	imedy	imedy	NOUN	n	_	1	conj	_	_
+4	aidy	aidy	NOUN	n	Number=Sing|Person=3	0	root	_	_
+5	rakaguragare	raka	ADV	_	Intens=Yes|Mood=Ind	4	advmod	_	_
+6	Deu	Deu	NOUN	n	_	4	iobj	_	_
+7	ji	ji	ADP	posp	_	6	case	_	_
+8	jamedy	jamedy	ADV	adv	_	4	advmod	_	also;também
+
+# sent_id = criacao_13
+# text = Deu akore ei akore enogwageiagu jii nowu boepa tadawu boe jamedy , nowu iguru jamedy boe ji , mare rakojere boe eiadadawu ekare ko
+# text_eng = 
+# text_por = Deus falou para eles comerem tudo que existia naquela roça, para comerem dos frutos da árvore, menos das arvores do meio
+1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
+2	akore	ako	_	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
+4	akore	ko	_	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
+5	enokwageiagu	okwage	VERB	v	Number=Plur|Person=3|Tense=Prosp	4	xcomp	_	eat;comer
+6	ji	ji	PART	prcl	_	5	iobj	_	for.a.long.time;por.muito.tempo
+7	nowu	nowu	DET	dem	_	8	det	_	_
+8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
+9	tadawu	tada	NOUN	n	Rel=Yes	10	nmod	_	_
+10	boe	boe	NOUN	n	_	5	obj	_	_
+11	jamedy	jamedy	NOUN	n	_	10	fixed	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	nowu	nowu	DET	dem	_	14	nmod	_	_
+14	iguru	iguru	NOUN	n	_	15	nmod	_	tree,wood;madeira,árvore
+15	jamedy	jamedy	_	_	_	10	conj	_	_
+16	boe	boe	NOUN	n	_	15	fixed	_	_
+17	ji	ji	ADP	posp	_	15	obl	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	mare	mare	CCONJ	cc	_	24	cc	_	but;mas,porém
+20	rakojere	rakoje	VERB	v	Mood=Ind	24	parataxis	_	_
+21	boe	boe	NOUN	n	_	20	nsubj	_	_
+22	eiadadawu	oiado	NOUN	n	Rel=Yes	21	acl	_	in.the.middle;no.meio.de
+23	ekare	re	PART	prcl	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	24	dep	_	_
+24	eko	ko	VERB	v	Number=Plur|Person=3	5	conj	_	eat;comer
+
+# sent_id = criacao_14
+# text = ia meri keje Satanae aregodyre aredy ae , Satanae ure bopedoge eiamedu boe eimejera ema , ema koiare ure ero-jai , eko-jai
+# text_eng = 
+# text_por = Um certo dia Satanae se aproximou da mulher, Satanae, o chefe de todos demonios, por causa dele ele os fez fazer assim e eles assim ficaram
+1	ia	_	DET	_	_	2	det	_	_
+2	meri	meri	NOUN	n	_	5	advmod	_	sun,day;sol,dia
+3	keje	keje	ADP	_	_	2	case	_	in,inside;em,dentro
+4	Satanae	Satanae	PROPN	_	_	5	nsubj	_	_
+5	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	arrive;chegar
+6	aredy	aredy	NOUN	n	_	5	obl	_	woman;mulher
+7	ae	ae	ADP	posp	_	6	case	_	_
+8	,	_	PUNCT	_	_	5	punct	_	_
+9	Satanae	_	PROPN	_	_	14	nsubj	_	_
+10	ure	_	PART	prcl	_	14	dep	_	_
+11	bopedoge	_	NOUN	n	_	12	nmod	_	_
+12	eiamedu	_	NOUN	n	_	14	nmod	_	_
+13	boe	_	NOUN	n	_	14	nmod	_	_
+14	eimejera	imejera	NOUN	n	_	5	parataxis	_	_
+15	ema	_	PRON	_	_	14	discourse	_	_
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	ema	_	PRON	_	_	18	nsubj	_	_
+18	koiare	_	VERB	_	_	14	parataxis	_	_
+19	ure	re	PART	prcl	_	20	dep	_	_
+20	erojai	rojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	_
+21	,	,	PUNCT	punct	_	20	punct	_	_
+22	ekojai	kojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	_
+
+# sent_id = criacao_15
+# text = Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ere rugadu barigu
+# text_eng = 
+# text_por = Deus que fez Satanáe, fez o demonio, antes eles eram bons mas depois eles quíseram ser maior do que Deus, por isso que Deus o expulsou 
+1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
+2	koiare	koiare	_	_	_	5	advmod	_	thus;assim,por.isso
+3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
+4	Satanae	Satanae	_	_	_	5	obj	_	_
+5	towuje	towuje	_	_	_	0	root	_	_
+6	ure	re	_	_	_	8	dep	_	_
+7	bope	_	_	_	_	8	obj	_	_
+8	towuje	_	_	_	_	5	parataxis	_	_
+9	boekare	_	_	_	_	10	advmod	_	_
+10	etaidure	_	_	_	_	5	parataxis	_	_
+11	tugoduwo	_	_	_	_	10	xcomp	_	_
+12	pudumiwo	_	_	_	_	11	obj	_	_
+13	tugurire	_	_	_	_	11	xcomp	_	_
+14	,	,	_	_	_	13	punct	_	_
+15	pudumiwo	pudumi	_	_	_	16	obj	_	_
+16	tugodure	agodyre	_	_	_	11	xcomp	_	_
+17	Deu	Deu	_	_	_	16	obl	_	_
+18	kori	kori	_	_	_	17	case	_	_
+19	kocare	kocare	_	_	_	23	discourse	_	_
+20	Deu	Deu	_	_	_	23	nsubj	_	_
+21	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	23	dep	_	_
+22	rugadu	rugadu	_	_	_	23	discourse	_	_
+23	barigu	barigu	_	_	_	16	parataxis	_	_
+
+# sent_id = criacao_16
+# text = Ahh joru rakoje kimore toro Deu apo toro , ure rojae jiboe jamedy boe ure pemegado
+# text_eng = 
+# text_por = Ahh o milagre que estava com Deus, e transformou o mal no bem
+1	Ahh	Ahh	INTJ	intj	_	3	discourse	_	_
+2	joru	joru	NOUN	n	_	3	nsubj	_	eye;olho
+3	rakoje	rakoje	VERB	_	_	0	root	_	_
+4	kimore	_	_	_	_	3	advmod	_	_
+5	toro	toro	ADV	adv	_	3	advmod	_	_
+6	Deu	Deu	NOUN	n	_	3	obl	_	_
+7	apo	_	_	_	_	6	obl	_	_
+8	toro	toro	ADV	_	_	3	advmod	_	there;lá
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	11	nsubj	_	_
+11	rojai	_	_	_	_	3	parataxis	_	_
+12	jiboe	_	_	_	_	11	acl	_	_
+13	jamedy	_	_	_	_	11	obj	_	_
+14	boe	_	_	_	_	13	fixed	_	_
+15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	16	dep	_	_
+16	pemegado	pemega	_	_	Voice=Cau	11	parataxis	_	_
+
 # sent_id = ABE-19
 # text = imi iorydyre boetygyji
 # text_eng = I saw the cloud (myself)
