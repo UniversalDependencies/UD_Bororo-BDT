@@ -294,7 +294,7 @@
 24	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = criacao_08
-# text = Deu ure nowu boe jamedu ji boe akedudo tuje du keje ure imedu to
+# text = Deu ure nowu boe jamedu ji boe akedudo tuje dy keje ure imedu to
 # text_eng = 
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
@@ -2211,7 +2211,7 @@
 6	pemegare	pemega	NOUN	n	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 00.55bPessGr
-# text = Taregodui pobo to du tabore , bire
+# text = Taregodui pobo to dy tabore , bire
 # text_eng = 
 # text_por = Ao chegar ao rio morreu
 1	Taregodui	aregody	VERB	v	Number=Sing|Perso=3|VerbForm=Ger	7	advcl	_	arrive;chegar
@@ -2373,7 +2373,7 @@
 5	kae	kae	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = 0057i.PessGr
-# text = Makore iwogai , du pemegare
+# text = Makore iwogai , dy pemegare
 # text_eng = 
 # text_por = Chamou-me, isso é bom (o que é bom).
 1	Makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -2383,7 +2383,7 @@
 5	pemegare	pemega	VERB	verb	Mood=Ind|Number=Sing|Person=3	1	advcl	_	_
 
 # sent_id = 0057j.PessGr
-# text = Imearudyre makoi iwagai duji
+# text = Imearudyre makoi iwagai dy ji
 # text_eng = 
 # text_por = escutei que me chamava
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -2414,7 +2414,7 @@
 4	ji	ji	ADP	posp	_	2	case	_	_
 
 # sent_id = 0057m.PessGr
-# text = Imearudyre makoi jitu ji
+# text = Imearudyre makoi jity ji
 # text_eng = 
 # text_por = Escutei que falava (falando) com ele
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2724,7 +2724,7 @@
 4	piji	piji	ADP	posp	_	1	obl	_	_
 
 # sent_id = 0068a.PessGr
-# text = Ipere ererure , du kejere ere taimo
+# text = Ipere ererure , dy kejere ere taimo
 # text_eng = The young men danced and bathed afterwards
 # text_por = Os rapazes dançaram, depois tomaram banho.
 1	Ipere	ipere	NOUN	_	Number=Plur	2	nsubj	_	[ipaːɾe];young.men;rapazes,jovens
@@ -2735,7 +2735,7 @@
 6	taimo	aimo	VERB	_	Person=3|Reflex=Yes	2	advcl	_	bathe;banhar-se
 
 # sent_id = 0068b.PessGr
-# text = Jukore tuge okoge reko boeki kae , du kaere adugo aregodyre
+# text = Jukore tuge okoge reko boeki kae , dy kaere adugo aregodyre
 # text_eng = 
 # text_por = O macaco levou seu peixe dourado para o seco, ai a onça chegou
 1	Jukore	jukore	NOUN	_	Mood=Ind	4	nsubj	_	[ˈdʒukʷɔ];monkey;macaco
