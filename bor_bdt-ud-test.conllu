@@ -2489,13 +2489,13 @@
 # text = Akeamireu
 # text_eng = 
 # text_por = Teu pão
-1	Akeamirewy	amirewy	NOUN	n	Class=Food|Number=Sing|Person=2	0	_	_	bread;pão
+1	Akeamirewy	amirewy	NOUN	n	Class=Food|Number=Sing|Person=2	0	root	_	bread;pão
 
 # sent_id = 0062b.PessGr
 # text = Pagaguarigao
 # text_eng = 
 # text_por = Our dog
-1	Pagaguarigao	arigao	NOUN	n	Class=DA|Clusivity=In|Number=Plur|Person=1	0	_	_	_
+1	Pagaguarigao	arigao	NOUN	n	Class=DA|Clusivity=In|Number=Plur|Person=1	0	root	_	_
 
 # sent_id = 0064a.PessGr
 # text = Ikimopariko
@@ -2768,7 +2768,7 @@
 # text =  Amaragädyre
 # text_eng = You worked
 # text_por = Você trabalhou
-1	Amaragädyre	maragädy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	_	_	_
+1	Amaragädyre	maragädy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 00100b.PessGr
 # text = Ire amaragädydo
