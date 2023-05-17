@@ -1,5 +1,5 @@
 # sent_id = 0.1.BEBE
-# text = Itaidyre iwo taryduwado boe enogiegidaeji , boe eno ie ji
+# text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng = 
 # text_por = Eu quero ensinar-vos os nomes dos bororo, os nomes das coisas dos bororo.
 1	Itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	want,like;querer,gostar
@@ -15,7 +15,7 @@
 11	ji	ji	ADP	posp	_	10	case	_	_
 
 # sent_id = 0.2.BEBE
-# text = Iwo tarydywado barogo ie ji , karo ieji , kiogo ieji . Boe ero jamedu boeji
+# text = Iwo tarydywado barogo ie ji , karo ieji , kiogo ieji . Boe ero jamedu boe ji
 # text_eng = 
 # text_por = Vou ensinar-vos os nomes dos bichos, dos peixes e das pássaros. Tudo o que os bororo fazem.
 1	Iwo	bo	VERB	v	_	2	nsubj	_	_
