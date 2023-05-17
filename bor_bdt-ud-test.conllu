@@ -117,6 +117,31 @@
 6	emare	mare	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	roino	roino	ADV	adv	_	6	advmod	_	_
 
+# sent_id = 0.8.BEBE
+# text = Pegareure rokare ino , meardae bokwareu , jordae bokwarewu imedyre, rokare ino , aredyre rokare ino , dyre rokare ino
+# text_eng = 
+# text_por = Mas o ruim não faz assim. O homem, a mulher que não pensa, que não sabe, não faz assim.
+1	Pegareure	pega	VERB	v	Nomzr=Rel	2	ccomp	_	bad;mal,mau,ruim
+2	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
+3	ino	ino	ADV	adv	_	2	advmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	mearydae	mearydae	VERB	v	_	10	acl	_	_
+6	bokwarewu	_	VERB	v	Polarity=Neg	5	dep	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	jorydae	jorydae	VERB	_	_	5	cc	_	_
+9	bokwareu	_	X	_	Polarity=Neg	8	dep	_	_
+10	imedyre	imedy	NOUN	n	Mood=Ind	12	nsubj	_	_
+11	,	,	PUNCT	punct	_	12	punct	_	_
+12	rokare	ro	VERB	v	_	2	parataxis	_	_
+13	ino	ino	ADV	adv	_	12	advmod	_	_
+14	,	,	PUNCT	punct	_	12	punct	_	_
+15	aredyre	aredy	VERB	v	Mood=Ind	16	nsubj	_	woman;mulher
+16	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	12	parataxis	_	_
+17	ino	ino	ADV	_	_	16	advmod	_	_
+18	,	,	PUNCT	punct	_	16	punct	_	_
+19	dyre	dy	X	_	_	20	ccomp	_	_
+20	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	16	parataxis	_	_
+
 # sent_id = ABE-19
 # text = imi iorydyre boetygyji
 # text_eng = I saw the cloud (myself)
