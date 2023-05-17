@@ -13,7 +13,7 @@ The development of this treebank is supported by the by European Research Counci
 ## Sources
 
 * Nonato, Rafael (2008) _Ainore Boe egore: um estudo descritivo da língua bororo e conseqüências para a
-teoria de caso e concordância_. UNICAMP. Unpublished PhD thesis. (ABG)
+teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 
 * Ochoa, Gonçalo Camargo (2014) _Boe Ewadaru_. UCDB. (OBE) 
 
