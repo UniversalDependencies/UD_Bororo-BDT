@@ -2301,11 +2301,11 @@
 # text = Maragädyre boepa tadawu ime emagare
 # text_eng = 
 # text_por = os homens que trabalham na roça são muitos
-1	Maragädyre	maragädy	VERB	v	Mood=Ind|Numer=Plur|Person=3	5	acl	_	_
+1	Maragädyre	maragädy	VERB	v	Mood=Ind|Number=Plur|Person=3	5	acl	_	_
 2	boepa	boepa	NOUN	n	_	1	obl	_	_
 3	tadawu	tada	ADP	posp	Nomzr=Rel	2	case	_	_
 4	ime	ime	NOUN	n	Number=Sing	1	nsubj	_	_
-5	emagare	maka	VERB	v	Mood=Ind|Numer=Plur|Person=3	0	root	_	_
+5	emagare	maka	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 
 # sent_id = 0057b.PessGr
 # text = Imearudyre amagore jiboe ji
