@@ -15,10 +15,10 @@
 11	ji	ji	ADP	posp	_	10	case	_	_
 
 # sent_id = 0.2.BEBE
-# text = Iwo tarydywado barogo ie ji , karo ieji, kiogo ieji . Boe ero jamedu boeji .
+# text = Iwo tarydywado barogo ie ji , karo ieji, kiogo ieji . Boe ero jamedu boeji
 # text_eng = 
 # text_por = Vou ensinar-vos os nomes dos bichos, dos peixes e das pássaros. Tudo o que os bororo fazem.
-1	Iwo	_	X	_	_	2	nsubj	_	_
+1	Iwo	bo	VERB	v	_	2	nsubj	_	_
 2	tarydywado	jorydywa	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	_
 3	barogo	barogo	NOUN	n	Number=Sing	4	nmod	_	_
 4	ie	ie	NOUN	n	_	2	obl	_	_
@@ -39,7 +39,7 @@
 19	ji	ji	ADP	posp	_	16	case	_	_
 
 # sent_id = 0.3.BEBE
-# text = Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo .
+# text = Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo
 # text_eng = 
 # text_por = O que eles fazem com os bichos, o que eles fazem com os peixes, o que eles fazem com as aves, com a flecha, com o arco e com a espingarda.
 1	Inoba	inoba	PRON	whp	PronType=Int	3	obj	_	_
@@ -71,7 +71,7 @@
 27	tabo	apo	ADP	posp	Reflex=Yes	25	case	_	_
 
 # sent_id = 0.4.BEBE
-# text = Inoba boe erore buke tabo , bukerogu tabo , buwodo tabo , tygä tabo jamedu ; ika tabo , tyraiga tabo , kyro tabo , karoji , tuboreji .
+# text = Inoba boe erore buke tabo , bukerogu tabo , buwodo tabo , tygä tabo jamedu ; ika tabo , tyraiga tabo , kyro tabo , karoji , tuboreji
 # text_eng = 
 # text_por = Como os bororo fazem com a rede, com a rede pequena, com o anzol, com a flecha tambem, com a canoa, com o remo e com o timbó para pescar.
 1	Inoba	inoba	PRON	whp	PronType=Int	3	obj	_	_
@@ -106,7 +106,7 @@
 30	ji	ji	ADP	posp	_	29	case	_	_
 
 # sent_id = 0.7.BEBE
-# text = Roiwarewu , mearydaerewu , joryduwarewu emare roino 
+# text = Roiwarewu , mearydaerewu , joryduwarewu emare roino
 # text_eng = 
 # text_por = O que tem capacidade, o que pensa, o que sabe faz assim.
 1	Roiwarewu	roiwa	VERB	v	Nomzr=Rel	6	ccomp	_	_
@@ -2212,7 +2212,7 @@
 6	pemegare	pemega	NOUN	n	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 00.55bPessGr
-# text = Taregodui poboto du tabore , bire 
+# text = Taregodui poboto du tabore , bire
 # text_eng = 
 # text_por = Ao chegar ao rio morreu
 1	Taregodui	aregody	VERB	v	Number=Sing|Perso=3|VerbForm=Ger	7	advcl	_	arrive;chegar
@@ -2267,7 +2267,7 @@
 5	iwie	bie	VERB	v	Number=Sing|Person=1	0	root	_	[bi:e];warn;avisar
 
 # sent_id = 0055g.PessGr
-# text = Akodumode kawaru tabodu pegakare 
+# text = Akodumode kawaru tabodu pegakare
 # text_eng = 
 # text_por = o fato de você ir a cavalo não é mau
 1	Akodumode	tu	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	5	ccomp	_	_
@@ -2277,7 +2277,7 @@
 5	pegakare	pega	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = 0056a.PessGr
-# text = Ure adugo bitowu imedu mugure nowu bai tada 
+# text = Ure adugo bitowu imedu mugure nowu bai tada
 # text_eng = 
 # text_por = O homem que matou a onça mora nesta casa
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
@@ -2290,7 +2290,7 @@
 8	tada	tada	ADP	posp	_	7	case	_	_
 
 # sent_id = 0056b.PessGr
-# text = Iorduware aregädymodewu imeduji 
+# text = Iorduware aregädymodewu imeduji
 # text_eng = 
 # text_por = Eu conheço o homem que vai chegar
 1	Iorduware	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2299,7 +2299,7 @@
 4	ji	ji	ADP	posp	_	3	case	_	_
 
 # sent_id = 0057a.PessGr
-# text = Maragodure boepa tadawu ime emagare  
+# text = Maragodure boepa tadawu ime emagare
 # text_eng = 
 # text_por = os homens que trabalham na roça são muitos
 1	Maragädyre	maragädy	VERB	v	Mood=Ind|Numer=Plur|Person=3	5	acl	_	_
@@ -2326,7 +2326,7 @@
 3	reo	reo	X	x	_	1	discourse	_	_
 
 # sent_id = 0057d.PessGr
-# text = Biapagare makudumode pudaiboe bogai 
+# text = Biapagare makudumode pudaiboe bogai
 # text_eng = wait for that which will be given to you
 # text_por = esperar por aquilo que lhe será dado
 1	Biapagare	biapaga	VERB	v	Mood=Ind	0	root	_	_
@@ -2384,7 +2384,7 @@
 5	pemegare	pemega	VERB	verb	Mood=Ind|Number=Sing|Person=3	1	advcl	_	_
 
 # sent_id = 0057j.PessGr
-# text = Imearudyre makoi iwagai duji 
+# text = Imearudyre makoi iwagai duji
 # text_eng = 
 # text_por = escutei que me chamava
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -2415,7 +2415,7 @@
 4	ji	ji	ADP	posp	_	2	case	_	_
 
 # sent_id = 0057m.PessGr
-# text = Imearudyre makoi jitu ji 
+# text = Imearudyre makoi jitu ji
 # text_eng = 
 # text_por = Escutei que falava (falando) com ele
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2433,7 +2433,7 @@
 4	ji	_	_	_	_	2	case	_	_
 
 # sent_id = 0057o.PessGr
-# text = Imearudymode makomodewy ji 
+# text = Imearudymode makomodewy ji
 # text_eng = 
 # text_por = Escutarei aquele que falará
 1	Imearudymode	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
@@ -2448,7 +2448,7 @@
 2	jiboe	jiboe	_	_	_	1	dep	_	_
 
 # sent_id = 0057pp.PessGr
-# text = Imearudyre makore jiboe ji 
+# text = Imearudyre makore jiboe ji
 # text_eng = 
 # text_por = escutei o que ele falou
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2469,7 +2469,7 @@
 7	ityiemage	tyie	NOUN	n	Number=Plur|Person=1	5	conj	_	[ˈtɯi̯e];older.sister;irmã.mais.velha
 
 # sent_id = 0057r.PessGr
-# text = Iorudyware imedu makomodewo ji 
+# text = Iorudyware imedu makomodewo ji
 # text_eng = 
 # text_por = Sei o lugar onde o homem vai falar
 1	Iorudyware	jorydywa	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2478,7 +2478,7 @@
 4	ji	ji	ADP	posp	_	3	case	_	_
 
 # sent_id = 0058.PessGr
-# text = Imedu aregodure tumaragodyrewy piji 
+# text = Imedu aregodure tumaragodyrewy piji
 # text_eng = 
 # text_por = O homem chegou do lugar onde trabalha
 1	Imedu	imedu	NOUN	n	Number=Sing	2	nsubj	_	_
@@ -2493,19 +2493,19 @@
 1	Akeamirewy	amirewy	NOUN	n	Class=Food|Number=Sing|Person=2	0	_	_	bread;pão
 
 # sent_id = 0062b.PessGr
-# text = Pagaguarigao 
+# text = Pagaguarigao
 # text_eng = 
 # text_por = Our dog
 1	Pagaguarigao	arigao	NOUN	n	Class=DA|Clusivity=In|Number=Plur|Person=1	0	_	_	_
 
 # sent_id = 0064a.PessGr
-# text = Ikimopariko 
+# text = Ikimopariko
 # text_eng = 
 # text_por = Meu cocar
 1	Ikimopariko	pariko	NOUN	n	Class=Adorn|Number=Sing|Person=1	0	_	_	_ 
 
 # sent_id = 0064b.PessGr
-# text = Ukuiepowari 
+# text = Ukuiepowari
 # text_eng = 
 # text_por = sua (dele) cabacinha
 1	Ukuiepowari	powari	NOUN	n	Class=Neckl|Number=Sing|Person=3	0	_	_	_
@@ -2529,7 +2529,7 @@
 4	?	?	PUNCT	punct	_	3	PUNCT	punct	_
 
 # sent_id = 0066c.PessGr
-# text = kaboba jiba akaidyre ?  
+# text = kaboba jiba akaidyre ?
 # text_eng = 
 # text_por = O que você quer?
 1	kaboba	kaboba	PRON	_	PronType=Int	3	obl	_	_
@@ -2610,7 +2610,7 @@
 3	boetoji	_	ADV	adv	_	2	advmod	_	_
 
 # sent_id = 0067f.PessGr
-# text = Aregodyre meri rutu pijiwy 
+# text = Aregodyre meri rutu pijiwy
 # text_eng = 
 # text_por = Aquele que veio do oriente
 1	Aregodyre	aregody	VERB	vi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -2675,7 +2675,7 @@
 5	ji	ji	ADP	posp	_	1	obl	_	_
 
 # sent_id = 0067l.PessGr
-# text = Imearudyre amagore inai dy ji 
+# text = Imearudyre amagore inai dy ji
 # text_eng = 
 # text_por = escutei o que você me falou
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2752,14 +2752,14 @@
 11	aregodure	_	VERB	_	_	4	advcl	_	_
 
 # sent_id = 0099a.PessGr
-# text = Amaragädydo !  
+# text = Amaragädydo !
 # text_eng = work!
 # text_por = trabalha!
 1	Amaragädydo	maragädu	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	[maɾaɡʌ'dɨdʌ];work;trabalhar
 2	!	!	PUNCT	PUNCT	punct	1	PUNCT	punct	_
 
 # sent_id = 0099b.PessGr
-# text = Tamaragädudo ! 
+# text = Tamaragädudo !
 # text_eng = work!
 # text_por = trabalhai!
 1	Tamaragädydo	maragädy	VERB	v	|Number=Plur|Person=2|Voice=Cau	0	root	_	_
@@ -2772,14 +2772,14 @@
 1	Amaragädyre	maragädy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	_	_	_
 
 # sent_id = 00100b.PessGr
-# text = Ire amaragädydo 
+# text = Ire amaragädydo
 # text_eng = I made you work
 # text_por = Eu te fiz trabalhar
 1	Ire	i	X	bi	Mood=Ind|Number=Sing|Person=1	2	nsubj	_	_
 2	amaragädydo	maragädy	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
 
 # sent_id = 00100c.PessGr
-# text = Are boe maku 
+# text = Are boe maku
 # text_eng = You gave something
 # text_por = você deu algo
 1	Are	a	X	bi	Mood=Ind|Number=Sing|Person=1	3	nsubj	_	_
@@ -2787,7 +2787,7 @@
 3	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 00100d.PessGr
-# text = Ire ado boe maky 
+# text = Ire ado boe maky
 # text_eng = I made you give something
 # text_por = Eu fiz você dar algo
 1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	_	_	_	_
