@@ -1672,12 +1672,12 @@
 3	jao	jao	ADV	adv	_	2	advmod	_	early,before;anteriormente
 
 # sent_id = ABE-359
-# text = João Maria etaregodure jao
+# text = João Maria etaregodyre jao
 # text_eng = João and Maria (have) arrived before
 # text_por = João e Maria já chegaram antes
 1	João	João	PROPN	propn	_	3	nsubj	_	_
 2	Maria	Maria	PROPN	propn	_	1	conj	_	_
-3	etaregodure	aregodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	arrive;chegar
+3	etaregodyre	aregodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	arrive;chegar
 4	jao	jao	ADV	adv	_	3	advmod	_	_
 
 # sent_id = ABE-360
@@ -1794,10 +1794,10 @@
 3	i	ji	ADP	posp	_	2	case	_	_
 
 # sent_id = CGPB-p19.3.1
-# text = Akaregodure
+# text = Akaregodyre
 # text_eng = You came (hello/wellcome)
 # text_por = Você veio
-1	Akaregodure	aregodu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=2	0	root	_	_
+1	Akaregodyre	aregodu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 
 # sent_id = CGPB-p19.4
 # text = Itaidure iorudiwawo boe eroji
@@ -2352,22 +2352,22 @@
 2	amerumodewujy	meru	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=2|Tense=Fut	1	ccomp	_	_
 
 # sent_id = 0057g.PessGr
-# text = Adugo aregodure juko rakojere kekeboe kae
+# text = Adugo aregodyre juko rakojere kekeboe kae
 # text_eng = the jaguar arrived where the monkey was
 # text_por = a onça chegou aonde estava o macaco
 1	Adugo	adugo	NOUN	n	_	2	nsubj	_	_
-2	aregodure	aregod	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	aregodyre	aregod	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	juko	juko	NOUN	n	_	4	nsubj	_	_
 4	rakojere	rakoje	VERB	v	Mood=Ind|Number=Sing|Person=3	2	advcl	_	_
 5	kejeboe	_	ADV	adv	_	4	obj	_	_
 6	kae	kae	ADP	posp	_	5	case	_	_
 
 # sent_id = 0057h.PessGr
-# text = Adugo aregodure juko rakojerewo kae
+# text = Adugo aregodyre juko rakojerewo kae
 # text_eng = the jaguar arrived where the monkey was
 # text_por = a onça chegou aonde estava o macaco
 1	Adugo	adugo	NOUN	n	_	2	nsubj	_	_
-2	aregodure	aregod	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	aregodyre	aregod	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	juko	juko	NOUN	n	_	4	nsubj	_	_
 4	rakojerewo	rakoje	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	advmod	_	_
 5	kae	kae	ADP	posp	Number=Sing|Person=3	4	case	_	_
@@ -2477,7 +2477,7 @@
 4	ji	ji	ADP	posp	_	3	case	_	_
 
 # sent_id = 0058.PessGr
-# text = Imedu aregodure tumaragodyrewy piji
+# text = Imedu aregodyre tumaragodyrewy piji
 # text_eng = 
 # text_por = O homem chegou do lugar onde trabalha
 1	Imedu	imedu	NOUN	n	Number=Sing	2	nsubj	_	_
@@ -2537,7 +2537,7 @@
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0066d.PessGr
-# text = Ioguduba apoba akaregodure ?
+# text = Ioguduba apoba akaregodyre ?
 # text_eng = 
 # text_por = Com quem você chegou?
 1	Ioguduba	_	PRON	_	PronType=Int	3	obl	_	_
@@ -2735,7 +2735,7 @@
 6	taimo	aimo	VERB	_	Person=3|Reflex=Yes	2	advcl	_	bathe;banhar-se
 
 # sent_id = 0068b.PessGr
-# text = Jukore tuge okoge reko boeki kae , du kaere adugo aregodure
+# text = Jukore tuge okoge reko boeki kae , du kaere adugo aregodyre
 # text_eng = 
 # text_por = O macaco levou seu peixe dourado para o seco, ai a onça chegou
 1	Jukore	jukore	NOUN	_	Mood=Ind	4	nsubj	_	[ˈdʒukʷɔ];monkey;macaco
@@ -2748,7 +2748,7 @@
 8	,	_	PUNCT	_	_	4	punct	_	_
 9	dykaere	dykaere	SCONJ	sconj	_	11	mark	_	_
 10	adugo	_	NOUN	_	_	11	nsubj	_	[aˈdɯɡʷɔ];jaguar;onça
-11	aregodure	_	VERB	_	_	4	advcl	_	_
+11	aregodyre	_	VERB	_	_	4	advcl	_	_
 
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
