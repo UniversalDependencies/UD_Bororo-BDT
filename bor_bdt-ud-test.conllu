@@ -8,7 +8,7 @@
 4	boe	boe	NOUN	n	_	5	nmod	_	_
 5	enogiegidae	okiegidae	NOUN	n	_	3	obl	_	_
 6	ji	ji	ADP	posp	_	5	case	_	_
-7	,	,	PUNCT	punct	_	1	punct	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
 8	boe	boe	NOUN	n	_	9	nmod	_	_
 9	eno	o	NOUN	n	Number=Plur|Person=3|Poss=Yes	10	nmod	_	_
 10	ie	ie	NOUN	n	_	3	obl	_	_
