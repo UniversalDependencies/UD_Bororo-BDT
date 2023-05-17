@@ -15,7 +15,7 @@
 11	ji	ji	ADP	posp	_	10	case	_	_
 
 # sent_id = 0.2.BEBE
-# text = Iwo tarydywado barogo ie ji , karo ieji , kiogo ieji . Boe ero jamedu boe ji
+# text = Iwo tarydywado barogo ie ji , karo ieji , kiogo ie ji . Boe ero jamedu boe ji
 # text_eng = 
 # text_por = Vou ensinar-vos os nomes dos bichos, dos peixes e das pássaros. Tudo o que os bororo fazem.
 1	Iwo	bo	VERB	v	_	2	nsubj	_	_
@@ -71,7 +71,7 @@
 27	tabo	apo	ADP	posp	Reflex=Yes	25	case	_	_
 
 # sent_id = 0.4.BEBE
-# text = Inoba boe erore buke tabo , bukerogu tabo , buwodo tabo , tygä tabo jamedu ; ika tabo , tyraiga tabo , kyro tabo , karoji , tuboreji
+# text = Inoba boe erore buke tabo , bukerogu tabo , buwodo tabo , tygä tabo jamedu ; ika tabo , tyraiga tabo , kyro tabo , karo ji , tubore ji
 # text_eng = 
 # text_por = Como os bororo fazem com a rede, com a rede pequena, com o anzol, com a flecha tambem, com a canoa, com o remo e com o timbó para pescar.
 1	Inoba	inoba	PRON	whp	PronType=Int	3	obj	_	_
@@ -143,7 +143,7 @@
 20	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	16	parataxis	_	_
 
 # sent_id = criacao_01
-# text = Marigudu boe erydykare motoji , baruji , iaboeji , iaboeji
+# text = Marigudu boe erydykare moto ji , baru ji , iaboe ji , iaboe ji
 # text_eng = 
 # text_por = Antigamente não se via terra, céu, nada, nada
 1	Marigudu	marigudu	ADV	_	_	3	advmod	_	early,in.the.past;antigamente
@@ -153,7 +153,7 @@
 5	ji	ji	ADP	posp	_	4	case	_	_
 6	,	,	PUNCT	punct	_	4	PUNCT	punct	_
 7	baru	baru	NOUN	n	_	4	conj	_	sky;céu
-8	ji	_	ADP	posp	_	7	case	_	_
+8	ji	ji	ADP	posp	_	7	case	_	_
 9	,	,	PUNCT	punct	_	8	PUNCT	punct	_
 10	iaboe	_	NOUN	n	_	4	conj	_	_
 11	ji	ji	ADP	posp	_	10	case	_	_
@@ -294,7 +294,7 @@
 24	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = criacao_08
-# text = Deu ure nowu boe jameduji boe akedudo tuje du keje ure imedu to
+# text = Deu ure nowu boe jamedu ji boe akedudo tuje du keje ure imedu to
 # text_eng = 
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
@@ -483,7 +483,7 @@
 16	pemegado	pemega	_	_	Voice=Cau	11	parataxis	_	_
 
 # sent_id = ABE-19
-# text = imi iorydyre boetygyji
+# text = imi iorydyre boetygy ji
 # text_eng = I saw the cloud (myself)
 # text_por = eu (mesmo) vi a nuvem
 1	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	I;eu
@@ -608,7 +608,7 @@
 3	tamudä	amudä	VERB	v	Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = ABE-38
-# text = negedyrogu jorydyre pudyi poboto
+# text = negedyrogu jorydyre pudyi pobo to
 # text_eng = The child saw itself in the water
 # text_por = a criança se viu na água
 1	negedyrogu	negedyrogu	NOUN	n	Number=Sing	2	nsubj	_	[neɡedɨˈɾoɡʷu];child;criança
@@ -629,7 +629,7 @@
 5	to	_	ADP	posp	_	4	case	_	in;em
 
 # sent_id = ABE-40
-# text = etunure bytygy tabo pu ubaikae
+# text = etunure bytygy tabo pu ubai kae
 # text_eng = They are slowly going to each other's house
 # text_por = eles estão indo devagar um para a casa do outro
 1	etunure	tu	VERB	v	Aspect=Prog|Mood=Ind	0	root	_	go;ir
@@ -2169,7 +2169,7 @@
 2	imedu	imedu	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = 00.40aPessGr
-# text = Awuji pamode bapera atugodo boe ewadaruji
+# text = Awuji pamode bapera atugodo boe ewadaru ji
 # text_eng = 
 # text_por = Hoje vamos escrever em bororo
 1	Awuji	awuji	ADV	ADV	adv	4	advmod	_	today;hoje
@@ -2212,7 +2212,7 @@
 6	pemegare	pemega	NOUN	n	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 00.55bPessGr
-# text = Taregodui poboto du tabore , bire
+# text = Taregodui pobo to du tabore , bire
 # text_eng = 
 # text_por = Ao chegar ao rio morreu
 1	Taregodui	aregody	VERB	v	Number=Sing|Perso=3|VerbForm=Ger	7	advcl	_	arrive;chegar
@@ -2224,7 +2224,7 @@
 7	bire	bi	VERB	v	Mood=Ind	0	root	_	die;morrer
 
 # sent_id = 00.55cPessGr
-# text = Tui taredo poboto dy kejere , bire
+# text = Tui taredo pobo to dy kejere , bire
 # text_eng = 
 # text_por = morreu depois que pulou na água
 1	Tui	_	_	_	_	_	_	_	_
@@ -2267,7 +2267,7 @@
 5	iwie	bie	VERB	v	Number=Sing|Person=1	0	root	_	[bi:e];warn;avisar
 
 # sent_id = 0055g.PessGr
-# text = Akodumode kawaru tabodu pegakare
+# text = Akodumode kawaru tabo dy pegakare
 # text_eng = 
 # text_por = o fato de você ir a cavalo não é mau
 1	Akodumode	tu	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	5	ccomp	_	_
@@ -2290,7 +2290,7 @@
 8	tada	tada	ADP	posp	_	7	case	_	_
 
 # sent_id = 0056b.PessGr
-# text = Iorduware aregädymodewu imeduji
+# text = Iorduware aregädymodewu imedu ji
 # text_eng = 
 # text_por = Eu conheço o homem que vai chegar
 1	Iorduware	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2309,7 +2309,7 @@
 5	emagare	maka	VERB	v	Mood=Ind|Numer=Plur|Person=3	0	root	_	_
 
 # sent_id = 0057b.PessGr
-# text = Imearudyre amagore jiboeji
+# text = Imearudyre amagore jiboe ji
 # text_eng = 
 # text_por = Escutei aquilo que você falou
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -2406,7 +2406,7 @@
 7	iwogai	_	ADP	posp	_	6	obl	_	_
 
 # sent_id = 0057l.PessGr
-# text = Imearudyre makore jitu ji
+# text = Imearudyre makore jity ji
 # text_eng = 
 # text_por = Escutei o que lhe disse
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
