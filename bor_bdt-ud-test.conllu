@@ -70,6 +70,41 @@
 26	akorewu	ako	ADJ	adj	Nomzr=Rel	25	nmod	_	_
 27	tabo	apo	ADP	posp	Reflex=Yes	25	case	_	_
 
+# sent_id = 0.4.BEBE
+# text = Inoba boe erore buke tabo , bukerogu tabo , buwodo tabo , tygä tabo jamedu ; ika tabo , tyraiga tabo , kyro tabo , karoji , tuboreji .
+# text_eng = 
+# text_por = Como os bororo fazem com a rede, com a rede pequena, com o anzol, com a flecha tambem, com a canoa, com o remo e com o timbó para pescar.
+1	Inoba	inoba	PRON	whp	PronType=Int	3	obj	_	_
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	buke	buke	NOUN	n	_	3	obl	_	fishnet;rede.de.pesca
+5	tabo	apo	ADP	posp	Reflex=Yes	4	case	_	_
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	bukerogu	buke	NOUN	n	Degree=Dim	4	cc	_	_
+8	tabo	apo	ADP	posp	Reflex=Yes	7	case	_	_
+9	,	,	PUNCT	punct	_	7	punct	_	_
+10	buwodo	buwodo	NOUN	n	_	4	cc	_	fishhook;anzol
+11	tabo	apo	ADP	posp	Reflex=Yes	10	case	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	tygä	tygä	NOUN	n	_	4	cc	_	_
+14	tabo	apo	ADP	posp	Reflex=Yes	13	case	_	_
+15	jamedu	jamedu	ADV	adv	_	3	advmod	_	_
+16	;	;	PUNCT	punct	_	13	punct	_	_
+17	ika	ika	NOUN	n	_	4	cc	_	canoe;canoa
+18	tabo	apo	ADP	posp	Reflex=Yes	17	case	_	_
+19	,	,	PUNCT	punct	_	17	punct	_	_
+20	tyraiga	tyraiga	NOUN	n	_	4	cc	_	oar,paddle;remo
+21	tabo	apo	ADP	posp	Reflex=Yes	20	case	_	_
+22	,	,	PUNCT	punct	_	20	punct	_	_
+23	kyro	kyro	NOUN	n	_	4	cc	_	[ˈkɯɾo];;timbó
+24	tabo	apo	ADP	posp	Reflex=Yes	23	case	_	_
+25	,	,	PUNCT	punct	_	23	punct	_	_
+26	karo	karo	NOUN	n	_	4	cc	_	_
+27	ji	ji	ADP	posp	_	26	case	_	_
+28	,	,	PUNCT	punct	_	26	punct	_	_
+29	tubore	tubore	NOUN	n	_	4	cc	_	fish.(genus Astyanax);lambari.(genus Astyanax)
+30	ji	ji	ADP	posp	_	29	case	_	_
+
 # sent_id = ABE-19
 # text = imi iorydyre boetygyji
 # text_eng = I saw the cloud (myself)
