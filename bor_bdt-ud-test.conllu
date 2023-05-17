@@ -242,7 +242,7 @@
 21	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	_
 22	to	to	VERB	v	Number=Sing|Person=3	4	parataxis	_	_
 23	boe	boe	NOUN	n	_	24	nsubj	_	_
-24	enogwagewu	ogwage	NOUN	n	Number=Plur|Person=3|Rel=Yes	4	advcl	_	eat;come
+24	enogwagewu	ogwage	NOUN	n	Nomzr=Rel|Number=Plur|Person=3	4	advcl	_	eat;come
 25	ji	ji	ADP	posp	_	24	case	_	_
 
 # sent_id = criacao_06
@@ -322,15 +322,15 @@
 4	pemegaguragare	pemega	_	_	Intens=Yes|Mood=Ind	3	nmod	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
 6	boepa	boepa	NOUN	n	_	3	appos	_	_
-7	moturewu	moture	_	_	Rel=Yes	6	nmod	_	_
+7	moturewu	moture	_	_	Nomzr=Rel	6	nmod	_	_
 8	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	cowu	cowu	_	_	_	11	det	_	_
 11	imedu	imedu	NOUN	n	_	12	nsubj	_	_
-12	muguwo	mugo	_	_	Rel=Yes	8	xcomp	_	live,stay;morar,ficar
+12	muguwo	mugo	_	_	Nomzr=Rel	8	xcomp	_	live,stay;morar,ficar
 13	keje	keje	ADP	_	_	12	case	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
-15	muguwo	mugu	_	_	Rel=Yes	12	conj	_	_
+15	muguwo	mugu	_	_	Nomzr=Rel	12	conj	_	_
 16	tada	tada	ADP	posp	_	15	case	_	_
 
 # sent_id = criacao_10
@@ -389,7 +389,7 @@
 6	ji	ji	PART	prcl	_	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowu	nowu	DET	dem	_	8	det	_	_
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
-9	tadawu	tada	NOUN	n	Rel=Yes	10	nmod	_	_
+9	tadawu	tada	NOUN	n	Nomzr=Rel	10	nmod	_	_
 10	boe	boe	NOUN	n	_	5	obj	_	_
 11	jamedy	jamedy	NOUN	n	_	10	fixed	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
@@ -402,7 +402,7 @@
 19	mare	mare	CCONJ	cc	_	24	cc	_	but;mas,porém
 20	rakojere	rakoje	VERB	v	Mood=Ind	24	parataxis	_	_
 21	boe	boe	NOUN	n	_	20	nsubj	_	_
-22	eiadadawu	oiado	NOUN	n	Rel=Yes	21	acl	_	in.the.middle;no.meio.de
+22	eiadadawu	oiado	NOUN	n	Nomzr=Rel	21	acl	_	in.the.middle;no.meio.de
 23	ekare	re	PART	prcl	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	24	dep	_	_
 24	eko	ko	VERB	v	Number=Plur|Person=3	5	conj	_	eat;comer
 
