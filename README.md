@@ -23,11 +23,11 @@ teoria de caso e concordância_. UNICAMP. Unpublished PhD thesis. (ABG)
 
 * Crowell, Thomas Harris (1979) _A grammar of Bororo_. Cornell University. Unpublished PhD thesis. (CGB)
 
-* Crowell, Thomas Harris (2013) _Gramática Pedagógica Bororo_. SIL-Brasil. (CGPB)
-
 * Ferraz Gerardi, Fabrício (in preparation) _A grammar of Bororo_. (FGGB)
 
 * Ferraz Gerardi, Fabrício (2022-2023) Fieldwork material
+
+* Ure Towujewu, Antônio K. and Enaureu Apo, Mário B. (2020) Boe enogiegidae barege eie. Campo Grande: Missão Salesiana do Mato Grosso. (BEBE)
 
 
 # Changelog
