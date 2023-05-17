@@ -440,26 +440,26 @@
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
 2	koiare	koiare	_	_	_	5	advmod	_	thus;assim,por.isso
 3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
-4	Satanae	Satanae	_	_	_	5	obj	_	_
-5	towuje	towuje	_	_	_	0	root	_	_
-6	ure	re	_	_	_	8	dep	_	_
-7	bope	_	_	_	_	8	obj	_	_
+4	Satanae	Satanae	PROPN	_	_	5	obj	_	_
+5	towuje	towuje	NOUN	_	_	0	root	_	_
+6	ure	re	PRON	_	_	8	dep	_	_
+7	bope	_	NOUN	_	_	8	obj	_	_
 8	towuje	_	_	_	_	5	parataxis	_	_
-9	boekare	_	_	_	_	10	advmod	_	_
-10	etaidure	_	_	_	_	5	parataxis	_	_
-11	tugoduwo	_	_	_	_	10	xcomp	_	_
-12	pudumiwo	_	_	_	_	11	obj	_	_
-13	tugurire	_	_	_	_	11	xcomp	_	_
-14	,	,	_	_	_	13	punct	_	_
-15	pudumiwo	pudumi	_	_	_	16	obj	_	_
-16	tugodure	agodyre	_	_	_	11	xcomp	_	_
-17	Deu	Deu	_	_	_	16	obl	_	_
-18	kori	kori	_	_	_	17	case	_	_
-19	kocare	kocare	_	_	_	23	discourse	_	_
-20	Deu	Deu	_	_	_	23	nsubj	_	_
+9	boekare	_	ADV	_	_	10	advmod	_	_
+10	etaidure	_	VERB	_	_	5	parataxis	_	_
+11	tugoduwo	_	VERB	_	_	10	xcomp	_	_
+12	pudumiwo	_	VERB	_	_	11	obj	_	_
+13	tugurire	_	VERB	_	_	11	xcomp	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	pudumiwo	pudumi	VERB	_	_	16	obj	_	_
+16	tugodure	agodyre	VERB	_	_	11	xcomp	_	_
+17	Deu	Deu	PROPN	_	_	16	obl	_	_
+18	kori	kori	ADP	_	_	17	case	_	_
+19	kocare	kocare	X	_	_	23	discourse	_	_
+20	Deu	Deu	PROPN	_	_	23	nsubj	_	_
 21	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	23	dep	_	_
-22	rugadu	rugadu	_	_	_	23	discourse	_	_
-23	barigu	barigu	_	_	_	16	parataxis	_	_
+22	rugadu	rugadu	X	_	_	23	discourse	_	_
+23	barigu	barigu	X	_	_	16	parataxis	_	_
 
 # sent_id = criacao_16
 # text = Ahh joru rakoje kimore toro Deu apo toro , ure rojae jiboe jamedy boe ure pemegado
