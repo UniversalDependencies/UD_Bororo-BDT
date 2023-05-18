@@ -1000,7 +1000,7 @@
 # text_por = farinha de mandioca é muito comida
 1	ju	_	NOUN	n	_	2	nmod	_	_
 2	kudu	_	NOUN	n	_	3	nmod	_	_
-3	kowujedy	_	NOUN	n	Nomzr=Yes	4	nsubj	_	_
+3	kowujedy	_	NOUN	n	Nomzr=Rel	4	nsubj	_	_
 4	kurire	kurire	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = ABE-256
@@ -1010,7 +1010,7 @@
 1	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
 2	ju	ju	NOUN	n	_	3	nmod	_	manioc;mandioca
 3	kudu	kudu	NOUN	n	_	4	nmod	_	powder,flour;pó,farinha
-4	kowujedy	kowuje	NOUN	n	Nomzr=Yes	5	obj	_	eat;comer
+4	kowujedy	kowuje	NOUN	n	Nomzr=Rel	5	obj	_	eat;comer
 5	kuridä	kuri	VERB	v	Voice=Cau	0	root	_	much;muito
 
 # sent_id = ABE-258
@@ -1037,7 +1037,7 @@
 2	ure	u	PRON	bi	Number=Sing|Person=3	6	dep	_	_
 3	kuiada	kuiada	NOUN	n	_	4	nmod	_	maize,corn;milho
 4	a	a	NOUN	n	_	5	nmod	_	seed;semente
-5	rawujedy	rawuje	NOUN	v	Nomzr=Yes	6	obj	_	_
+5	rawujedy	rawuje	NOUN	v	Nomzr=Rel	6	obj	_	_
 6	bokwadä	bokwa	VERB	v	Polarity=Neg|Voice=Cau	0	root	_	_
 
 # sent_id = ABE-261
@@ -1047,7 +1047,7 @@
 1	ere	e	PRON	bi	Mood=Ind	5	nsubj	_	_
 2	ju	ju	NOUN	n	_	3	nmod	_	_
 3	kudu	kudu	NOUN	n	_	4	nmod	_	_
-4	kowujedy	kowuje	NOUN	n	Nomzr=Yes	5	obj	_	_
+4	kowujedy	kowuje	NOUN	n	Nomzr=Rel	5	obj	_	_
 5	kuridä	kuri	VERB	v	Voice=Cau	0	root	_	_
 
 # sent_id = ABE-263
@@ -1111,7 +1111,7 @@
 # text_por = a casa de quem queimou?
 1	iogudyba	iogudy	PRON	_	PronType=Int	2	nmod	_	_
 2	ubai	bai	NOUN	n	Number=Sing|Person=3	3	nsubj	_	house;casa
-3	käwydyre	käwy	NOUN	n	Mood=Ind|Nomzr=Yes	0	root	_	burn;queimar
+3	käwydyre	käwy	NOUN	n	Mood=Ind|Nomzr=Rel	0	root	_	burn;queimar
 4	?	?	PUNCT	PUNCT	punct	3	punct	_	_
 
 # sent_id = ABE-271
@@ -1120,7 +1120,7 @@
 # text_por = queimou a casa de Enawurewy
 1	Enawurewy	Enawurewy	PROPN	_	_	2	nmod	_	_
 2	ubai	bai	NOUN	n	_	3	nsubj	_	_
-3	käwydyre	käwy	NOUN	n	Mood=Ind|Nomzr=Yes	0	root	_	_
+3	käwydyre	käwy	NOUN	n	Mood=Ind|Nomzr=Rel	0	root	_	_
 
 # sent_id = ABE-272
 # text = iogudyba imedyba ure käwyje ?
@@ -1351,7 +1351,7 @@
 # text_eng = I fished without wanting it
 # text_por = você viu que os bororos pescaramr
 1	iwogure	wogu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	itaidykaredy	aidy	NOUN	n	Mood=Ind|Nomzr=Yes|Number=Sing|Person=1	1	ccomp	_	want;querer
+2	itaidykaredy	aidy	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Sing|Person=1	1	ccomp	_	want;querer
 3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = ABE-303
@@ -1361,7 +1361,7 @@
 1	arydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	ewogure	wogu	VERB	v	Mood=Ind|Number=Plur|Person=3	1	ccomp	_	_
-4	dyji	ji	ADP	posp	Nomzr=Yes	3	obl	_	_
+4	dyji	ji	ADP	posp	Nomzr=Rel	3	obl	_	_
 
 # sent_id = ABE-304
 # text = arydyre boe ewoguji
@@ -1384,7 +1384,7 @@
 5-6	kuiejedogei	_	_	_	_	_	_	_	_
 5	kuiejedoge	kuiejedoge	NOUN	n	_	4	obl	_	star;estrela
 6	i	ji	ADP	n	Number=Plur|Person=3	5	case	_	_
-7	dytabo	tabo	ADP	posp	Nomzr=Yes	4	case	_	with;com
+7	dytabo	tabo	ADP	posp	Nomzr=Rel	4	case	_	with;com
 
 # sent_id = ABE-306
 # text = boecoji boe emerure taiwo tabo kuiejedogei
