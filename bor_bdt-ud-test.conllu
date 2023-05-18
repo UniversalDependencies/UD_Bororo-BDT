@@ -314,7 +314,7 @@
 14	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 
 # sent_id = criacao_09
-# text = Deu ure boepa pemegaguragare , boeepa moturewu to , cowu imedu muguwo keje , muguwo tada
+# text = Deu ure boepa pemegaguragare , boepa moturewu to , cowu imedu muguwo keje , muguwo tada
 # text_eng = 
 # text_por = Ele fez uma roça perfeita, fez uma roça bonita, para aquele homem viver nela, viver dentro dela
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
@@ -386,7 +386,7 @@
 2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
 4	akore	ko	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
-5	enokwageiagu	okwage	VERB	v	Number=Plur|Person=3	4	xcomp	_	eat;comer
+5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	_	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowu	nowu	DET	dem	_	8	det	_	_
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
