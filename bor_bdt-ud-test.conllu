@@ -105,8 +105,8 @@
 29	tubore	tubore	NOUN	n	_	4	conj	_	fish.(genus Astyanax);lambari.(genus Astyanax)
 30	ji	ji	ADP	posp	_	29	case	_	_
 
-# sent_id = 0.1.BEBE
-# text = dy taboba boere bito , boere karo bito , boere kiogo bito tugeje , toredyje ukeje , tonaregedu ukeje , tonaregedu ukeje , kädy tabo , kuru tabo ,kaguru tabo
+# sent_id = 0.5.BEBE
+# text = dy taboba boere bito , boere karo bito , boere kiogo bito tugeje , toredyje ukeje , tonaregedu ukeje , kädy tabo , kuru tabo ,kaguru tabo
 # text_eng = 
 # text_por = Como os bororo matam, como matam bicho, como matam peixe, como matam pássaro para alimentar sua esposa, para alimentar seu filho com carne, com clado e com gordura
 1	dy	_	X	_	_	2	dep	_	_
