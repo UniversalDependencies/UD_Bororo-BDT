@@ -2658,13 +2658,13 @@
 # text_por = As crianças impediram que os rapazes dançassem
 1	Boe	boe	NOUN	n	_	6	nsubj	_	_
 2	etore	etore	NOUN	n	_	1	compound	_	_
-3	ere	e	PRON	bi	Mood=ind|Number=Plur|Person=3	6	dep	_	_
+3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	dep	_	_
 4	ipare	ipare	NOUN	n	_	5	nsubj	_	[i'paɾe];young.person;jovem
 5	ereruidy	reru	VERB	v	Nomzr=Rel|VerbForm=Ger	6	ccomp	_	['ɾɛɾu];dance;dançar
 6	kado	kado	VERB	v	_	0	root	_	['kadɔ];cut,interrupt;cortar,interromper
 
 # sent_id = 0067k.PessGr
-# text = Imeardure amagoi inai dy ji
+# text = Imeardyre amagoi inai dy ji
 # text_eng = 
 # text_por = Escutei que você me falava
 1	Imearydure	_	VERB	v	_	0	root	_	_
