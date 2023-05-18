@@ -223,7 +223,7 @@
 2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
 3	boku	boku	NOUN	n	_	4	obj	_	cerrado;cerrado
 4	to	to	VERB	v	_	0	root	_	_
-5	,	,	,	PUNCT	punct	4	punct	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
 6	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
 7	itura	itura	NOUN	n	_	8	obj	_	forest;floresta
 8	to	to	VERB	v	_	4	parataxis	_	_
