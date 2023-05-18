@@ -1695,12 +1695,11 @@
 3	iji	ji	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 
 # sent_id = OBE-p75.1
-# text = ure turemo poboto
+# text = ure turemo pobo to
 # text_eng = He entered the water
 # text_por = Ele entrou na água
 1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
 2	turemo	remo	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	enter;entrar
-3-4	poboto	_	_	_	_	_	_	_	_
 3	pobo	pobo	NOUN	n	_	2	obl	_	water;água
 4	to	to	ADP	posp	_	3	case	_	in;em
 
@@ -1714,11 +1713,10 @@
 4	ji	ji	ADP	posp	_	3	case	_	_
 
 # sent_id = CGPB-p11.1
-# text = Uture poboto
+# text = Uture pobo to
 # text_eng = He went to the river
 # text_por = Ele foi ao rio
 1	Uture	u	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=3	0	root	_	go;ir
-2-3	poboto	_	_	_	_	_	_	_	_
 2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
 3	to	to	ADP	posp	_	2	case	_	to;a
 
@@ -1731,11 +1729,10 @@
 3	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = CGPB-p13.2
-# text = Ikodumode poboto ?
+# text = Ikodumode pobo to ?
 # text_eng = Where are you going?
 # text_por = Ande você vai/está indo?
 1	Ikodumode	kodu	VERB	vi	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
-2-3	poboto	_	_	_	_	_	_	_	_
 2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
 3	to	to	ADP	posp	_	2	case	_	to;a
 4	?	?	PUNCT	PUNCT	punct	1	punct	_	to;a
@@ -1765,11 +1762,10 @@
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
 
 # sent_id = CGPB-p19.3
-# text = Itaidure boei
+# text = Itaidure boe i
 # text_eng = I like the Bororo
 # text_por = EU gosto dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2-3	boei	_	_	_	_	_	_	_	_
 2	boe	boe	NOUN	n	_	1	obl	_	_
 3	i	ji	ADP	posp	_	2	case	_	_
 
@@ -1780,23 +1776,21 @@
 1	Akaregodyre	aregodu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 
 # sent_id = CGPB-p19.4
-# text = Itaidure iorudiwawo boe eroji
+# text = Itaidure iorudiwawo boe ero ji
 # text_eng = I want to know the traditions of the Bororo
 # text_por = Eu quero conhecer os costumes dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3	boe	boe	NOUN	n	_	4	nmod	_	_
-4-5	eroji	ji	ADP	posp	_	_	_	_	_
 4	ero	ro	NOUN	n	_	2	obl	_	habits,tradition;costume,tradição
 5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 
 # sent_id = CGPB-p19.5
-# text = Itaidure iorudiwawo ewadaruji
+# text = Itaidure iorudiwawo ewadaru ji
 # text_eng = I want to know the language of the Bororo
 # text_por = Eu quero conhecer a língua dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
-3-4	ewadaruji	ji	ADP	posp	_	_	_	_	_
 3	ewadaru	bataru	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
 4	ji	ji	ADP	posp	Number=Plur|Person=3	3	case	_	_
 
@@ -1841,11 +1835,10 @@
 2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|Subord=Yes	1	ccomp	_	_
 
 # sent_id = CGPB-p31.2
-# text = Imagore akabo João ji
+# text = Imagore ak abo João ji
 # text_eng = I spoke to you about João
 # text_por = Eu falei com você sobre o João
 1	Imagore	mako	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	speak;falar
-2-3	akabo	_	_	_	_	_	_	_	_
 2	ak	a	PRON	bi	Number=Sing|Person=2	1	obl	_	_
 3	abo	apo	ADP	posp	_	2	case	_	_
 4	João	João	PROPN	propn	_	1	obl	_	_
@@ -1866,12 +1859,11 @@
 2	urure	uru	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	hot;quente
 
 # sent_id = CGPB-p46.1
-# text = Kaboba jiba aroino ?
+# text = Kaboba jiba aro ino ?
 # text_eng = What are you doing?
 # text_por = O que você está fazendo?
 1	Kaboba	kabo	PRON	_	PronType=Int	3	obl	_	what;oque
 2	jiba	ji	ADP	posp	_	1	case	_	_
-3-4	aroino	_	_	_	_	_	_	_	_
 3	aro	ro	VERB	v	_	0	root	_	do;fazer
 4	ino	ino	ADV	adv	_	3	advmod	_	thus,this.way,like.this;assim,detsa.maneira
 5	?	?	PUNCT	PUNCT	punct	3	punct	_	_
@@ -1986,19 +1978,18 @@
 2	etudo	u	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	_
 
 # sent_id = CGPB-p56.2
-# text = Are ake rogu tugo meririto
+# text = Are ake rogu tugo meriri to
 # text_eng = You put your food in the pan
 # text_por = Você pôs a sua comida dentro da panela
 1	Are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|PronType=Bi	4	nsubj	_	_
 2	ake	ke	NOUN	n	Number=Sing|Person=2	3	clf	_	_
 3	rogu	rogu	NOUN	n	_	4	obj	_	foor;comida
 4	tugo	tugo	VERB	v	_	0	root	_	put.in;colocar.dentro
-5-6	meririto	_	_	_	_	_	_	_	_
 5	meriri	_	NOUN	n	_	4	obl	_	_
 6	to	to	ADP	posp	_	5	case	_	_
 
 # sent_id = CGPB-p56.3
-# text = Pare ado ake rogu tugo meririto
+# text = Pare ado ake rogu tugo meriri to
 # text_eng = We made you put your food in the pan
 # text_por = Nós fizemos você pôr sua comida dentro da panela
 1	Pare	_	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1|PronType=Bi	5	nsubj	_	_
@@ -2006,7 +1997,6 @@
 3	ake	ke	NOUN	n	Number=Sing|Person=2	4	clf	_	_
 4	rogu	rogu	NOUN	n	_	5	obj	_	_
 5	tugo	tugo	VERB	v	_	0	root	_	_
-6-7	meririto	_	_	_	_	_	_	_	_
 6	meriri	_	NOUN	n	_	5	obl	_	_
 7	to	to	ADP	posp	_	6	case	_	_
 
@@ -2025,12 +2015,11 @@
 2	core	core	VERB	v	_	0	root	_	black;preto
 
 # sent_id = CGPB-p56.7
-# text = Pare arududo iito
+# text = Pare arududo ii to
 # text_eng = Nós fizemos você subir na árvore
 # text_por = We made you clim the tree
 1	Pare	pare	PRON	pron	Clusivity=In|Mood=Ind|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.incl.;nós.incl.
 2	arududo	_	VERB	v	Number[obj]=Sing|Person[obj]=2|Voice=Cau	0	root	_	climb;subir,escalar
-3-4	iito	_	_	_	_	_	_	_	_
 3	ii	ii	NOUN	n	_	2	obl	_	tree;árvore
 4	to	to	ADP	posp	_	3	case	_	in,on;em
 
@@ -2044,14 +2033,13 @@
 4	Imaragodymodykare	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	1	parataxis	_	work;trabalhar
 
 # sent_id = CGPB-p61.2
-# text = Boe etaidukare tumaragodywo awu meriji . Eragodyre boecoji kodi
+# text = Boe etaidukare tumaragodywo awu meri ji . Eragodyre boecoji kodi
 # text_eng = The people do not want to work today, becasue they sang all nighk
 # text_por = As pessoas não querem trabalhar hoje, porque elas cantaram a noite inteira.
 1	Boe	boe	NOUN	n	_	2	nmod	_	_
 2	etaidukare	aidu	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
 3	tumaragodywo	ragodu	VERB	v	Number=Plur|Person=3|Reflex=Yes	2	ccomp	_	work;trabalhar
 4	awu	_	DET	dem	_	5	nmod	_	this;este,esta
-5-6	meriji	ji	ADP	posp	_	_	_	_	_
 5	meri	meri	NOUN	n	_	2	obl	_	day;dia
 6	ji	ji	ADP	posp	_	5	case	_	_
 7	.	.	PUNCT	PUNCT	punct	2	punct	_	_
@@ -2060,11 +2048,10 @@
 10	kodi	kodi	SCONJ	sconj	_	8	mark	_	[ˈkʷɔdi];because;porque
 
 # sent_id = CGPB-p65.1
-# text = Atudo poboto
+# text = Atudo pobo to
 # text_eng = Go to the river!
 # text_por = Vá para o rio!
 1	Atudo	tu	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-2-3	poboto	_	_	_	_	_	_	_	_
 2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
 3	to	to	ADP	posp	_	2	case	_	_
 
