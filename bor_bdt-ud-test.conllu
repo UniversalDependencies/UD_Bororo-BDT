@@ -2659,7 +2659,7 @@
 # text = Imeardyre amagoi inai dy ji
 # text_eng = 
 # text_por = Escutei que você me falava
-1	Imearydure	_	VERB	v	_	0	root	_	_
+1	Imearydyre	_	VERB	v	_	0	root	_	_
 2	amagoi	mako	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	ccomp	_	_
 3	inai	_	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 4	dy	dy	PART	prcl	_	2	mark	_	_
