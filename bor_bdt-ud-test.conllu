@@ -382,9 +382,9 @@
 # text_eng = 
 # text_por = Deus falou para eles comerem tudo que existia naquela roça, para comerem dos frutos da árvore, menos das arvores do meio
 1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
-2	akore	ako	_	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
-4	akore	ko	_	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
+4	akore	ko	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
 5	enokwageiagu	okwage	VERB	v	Number=Plur|Person=3|Tense=Prosp	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	_	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowu	nowu	DET	dem	_	8	det	_	_
@@ -395,7 +395,7 @@
 12	,	,	PUNCT	punct	_	11	punct	_	_
 13	nowu	nowu	DET	dem	_	14	nmod	_	_
 14	iguru	iguru	NOUN	n	_	15	nmod	_	tree,wood;madeira,árvore
-15	jamedy	jamedy	_	_	_	10	conj	_	_
+15	jamedy	jamedy	ADV	_	_	10	conj	_	_
 16	boe	boe	NOUN	n	_	15	fixed	_	_
 17	ji	ji	ADP	posp	_	15	obl	_	_
 18	,	,	PUNCT	punct	_	17	punct	_	_
@@ -2174,7 +2174,7 @@
 # text = Taregodui pobo to dy tabore , bire
 # text_eng = 
 # text_por = Ao chegar ao rio morreu
-1	Taregodui	aregody	VERB	v	Number=Sing|Perso=3|VerbForm=Ger	7	advcl	_	arrive;chegar
+1	Taregodui	aregody	VERB	v	Number=Sing|Person=3|VerbForm=Ger	7	advcl	_	arrive;chegar
 2	pobo	pobo	NOUN	n	_	1	obl	_	water;água
 3	to	to	ADP	posp	_	2	case	_	water;água
 4	dy	dy	PART	prcl	Nomzr=Rel	1	dep	_	_
