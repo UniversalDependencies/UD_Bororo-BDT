@@ -747,7 +747,7 @@
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	ewogyre	wogy	VERB	v	Mood=Ind|Number=Plur|Person=3	1	ccomp	_	fish;pescar
 4	dyji	_	X	x	_	3	mark	_	_
-5	?	?	PUNCT	PUNCT	punct	1	punct	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = ABE-218
 # text = mearudaere tumotyie
@@ -872,7 +872,7 @@
 # text_eng = (Go) fish!
 # text_por = vá pescar!
 1	awogudä	wogu	VERB	v	Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	fish;pescar
-2	!	!	PUNCT	PUNCT	punct	1	punct	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = ABE-240
 # text = itykadyre
@@ -1074,7 +1074,7 @@
 3	maku	maku	VERB	v	_	0	root	_	give;dar
 4	Enawureudo	Enawureudo	PROPN	propn	_	3	obl	_	_
 5	ai	ai	ADP	posp	_	4	case	_	to;para,a
-6	?	?	PUNCT	PUNCT	punct	3	punct	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = ABE-268
 # text = kaboba ure kowuje ?
@@ -1083,7 +1083,7 @@
 1	kaboba	kabo	PRON	_	PronType=Int	3	obj	_	what;o.que
 2	ure	_	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 3	kowuje	kowuje	VERB	_	_	0	root	_	eat;comer
-4	?	?	PUNCT	PUNCT	punct	3	punct	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = ABE-269
 # text = iogudyba ure kowuje ?
@@ -1101,7 +1101,7 @@
 1	iogudyba	iogudy	PRON	_	PronType=Int	2	nmod	_	_
 2	ubai	bai	NOUN	n	Number=Sing|Person=3	3	nsubj	_	house;casa
 3	käwydyre	käwy	NOUN	n	Mood=Ind|Nomzr=Rel	0	root	_	burn;queimar
-4	?	?	PUNCT	PUNCT	punct	3	punct	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = ABE-271
 # text = Enawurewy ubai käwydyre
@@ -1138,7 +1138,7 @@
 2	karoba	karo	NOUN	n	Int=Yes	4	obj	_	fish;peixe
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
-5	?	?	PUNCT	PUNCT	punct	4	punct	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = ABE-275
 # text = ure aiwo kowuje
@@ -1156,7 +1156,7 @@
 2	taboba	tabo	ADP	posp	Int=Yes	1	case	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 4	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	die;morrer
-5	?	?	PUNCT	PUNCT	punct	4	punct	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = ABE-277
 # text = kaba kejeba arydyre adugo ji ?
@@ -1167,7 +1167,7 @@
 3	arydyre	jorydyre	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
 4	adugo	adugo	NOUN	n	_	3	obl	_	jaguar;onça
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
-6	?	?	PUNCT	PUNCT	punct	3	punct	_	_
+6	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = ABE-278
 # text = inoba akiere ?
@@ -1175,7 +1175,7 @@
 # text_por = como é o teu nome?
 1	inoba	ino	ADV	adv	Int=Yes	2	advmod	_	how;como
 2	akiere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=2	0	root	_	name;nome
-3	?	?	PUNCT	PUNCT	punct	2	punct	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = ABE-279
 # text = kaeba awogumode ?
@@ -1194,7 +1194,7 @@
 3	ure	pron	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
 4	karo	karo	NOUN	n	_	5	obj	_	_
 5	kowuje	kowuje	VERB	v	_	0	root	_	_
-6	?	?	PUNCT	PUNCT	punct	5	punct	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = ABE-281
 # text = kaiba jiba are akeragu ?
@@ -1731,7 +1731,7 @@
 1	Ikodumode	kodu	VERB	vi	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Fut	0	root	_	exit,leave;sair
 2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
 3	to	to	ADP	posp	_	2	case	_	to;a
-4	?	?	PUNCT	PUNCT	punct	1	punct	_	to;a
+4	?	?	PUNCT	punct	_	1	punct	_	to;a
 
 # sent_id = CGPB-p13.3
 # text = Kodiba ?
@@ -1803,7 +1803,7 @@
 # text_por = Aonde nós fomos
 1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	_
 2	pagodure	kodu	VERB	v	Clusivity=In|Mood=Ind|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
-3	?	?	PUNCT	PUNCT	punct	2	punct	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = CGPB-p24.1
 # text = Itaidure imuguwo woe boe ebo
@@ -1845,7 +1845,7 @@
 # text_eng = Are you sick?
 # text_por = Você está doente?
 1	Akogodure	kogodu	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	sick,ill;doente
-2	?	?	PUNCT	PUNCT	punct	1	punct	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = CGPB-p40.2
 # text = Iwiri urure
@@ -1862,7 +1862,7 @@
 2	jiba	ji	ADP	posp	_	1	case	_	_
 3	aro	ro	VERB	v	_	0	root	_	do;fazer
 4	ino	ino	ADV	adv	_	3	advmod	_	thus,this.way,like.this;assim,detsa.maneira
-5	?	?	PUNCT	PUNCT	punct	3	punct	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = CGPB-p46.2
 # text = Inure karo kado
@@ -1934,9 +1934,9 @@
 # text_eng = Look here, older brother, I killed a fish
 # text_por = Olhe aqui, irmão mais velho. Eu matei um peixe.
 1	Akaiwodo	aiwo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	look.at;olhar.para
-2	,	,	PUNCT	PUNCT	punct	1	punct	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
 3	imana	imana	NOUN	n	_	1	vocative	_	older.brother;irmão.mais.velho
-4	.	.	PUNCT	PUNCT	punct	3	punct	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
 5	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|PronType=Bi	7	nsubj	_	_
 6	karo	karo	NOUN	n	_	7	obj	_	_
 7	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	parataxis	_	_
@@ -1946,10 +1946,10 @@
 # text_eng = Ok, it is a good thing. I am hungry. Are we gong to eat the fish?
 # text_por = Tá bom, é uma boa notícia. Estou com fome. Nós vamos comer o peixe?
 1	U	u	INTJ	intj	_	4	discourse	_	_
-2	,	,	PUNCT	PUNCT	punct	1	punct	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
 3	boe	_	NOUN	n	_	4	nsubj	_	_
 4	pemegare	pemega	VERB	v	Mood=Ind	0	root	_	_
-5	.	_	PUNCT	PUNCT	punct	4	punct	_	_
+5	.	_	PUNCT	punct	_	4	punct	_	_
 6	Ike	ke	NOUN	n	Number=Sing|Person=1	7	nsubj	_	food;comida
 7	boere	boe	VERB	v	Mood=Ind	4	parataxis	_	_
 8	ii	ji	ADP	posp	_	7	obl	_	_
@@ -1957,7 +1957,7 @@
 10	Pamode	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1|PronType=Bi|Tense=Fut	4	parataxis	_	_
 11	karo	karo	NOUN	n	_	12	obj	_	_
 12	kowuje	kowuje	VERB	v	_	10	xcomp	_	_
-13	?	?	PUNCT	PUNCT	punct	12	punct	_	_
+13	?	?	PUNCT	punct	_	12	punct	_	_
 
 # sent_id = CGPB-p55.3
 # text = Pamode ko
@@ -2038,7 +2038,7 @@
 4	awu	_	DET	dem	_	5	nmod	_	this;este,esta
 5	meri	meri	NOUN	n	_	2	obl	_	day;dia
 6	ji	ji	ADP	posp	_	5	case	_	_
-7	.	.	PUNCT	PUNCT	punct	2	punct	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
 8	Eragodyre	ragody	VERB	_	Mood=Ind|Number=Plur|Person=3	2	advcl	_	[ɾaˈɡʌdɯ];sing;cantar
 9	boecoji	boecoji	ADV	adv	_	8	advmod	_	at.night;à.noite
 10	kodi	kodi	SCONJ	sconj	_	8	mark	_	[ˈkʷɔdi];because;porque
@@ -2081,13 +2081,13 @@
 11	emode	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
 12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	_	hand;mão
 13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
-14	,	,	PUNCT	PUNCT	punct	12	punct	_	_
+14	,	,	PUNCT	punct	_	12	punct	_	_
 15	awu	awu	DET	dem	_	16	det	_	_
 16	korogedy	_	NOUN	n	_	17	nmod	_	stream;córrego
 17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
 18	ji	ji	ADP	posp	_	17	case	_	_
 19	woe	woe	ADV	adv	_	12	advmod	_	_
-20	,	,	PUNCT	PUNCT	punct	19	punct	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
 21	jice	jice	ADV	adv	_	22	advmod	_	there;lá
 22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
 23	tada	tada	ADP	posp	_	22	case	_	inside;dentro
@@ -2359,7 +2359,7 @@
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	imedu	imedu	NOUN	n	Number=Sing	1	obl	_	_
 3	ji	ji	ADP	posp	_	2	case	_	_
-4	,	,	PUNCT	PUNCT	punct	1	punct	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
 5	dywu	dy	X	x	Nomzr=Rel	6	nsubj	_	_
 6	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	acl	_	_
 7	iwogai	_	ADP	posp	_	6	obl	_	_
