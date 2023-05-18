@@ -320,18 +320,18 @@
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
 2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
 3	boepa	boepa	NOUN	n	_	8	obj	_	slash,garden;roça
-4	pemegaguragare	pemega	_	_	Intens=Yes|Mood=Ind	3	nmod	_	_
+4	pemegaguragare	pemega	ADJ	_	Intens=Yes|Mood=Ind	3	nmod	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
 6	boepa	boepa	NOUN	n	_	3	appos	_	_
-7	moturewu	moture	_	_	Nomzr=Rel	6	nmod	_	_
+7	moturewu	moture	ADJ	_	Nomzr=Rel	6	nmod	_	_
 8	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	cowu	cowu	_	_	_	11	det	_	_
+10	cowu	cowu	DET	_	_	11	det	_	_
 11	imedu	imedu	NOUN	n	_	12	nsubj	_	_
-12	muguwo	mugo	_	_	Nomzr=Rel	8	xcomp	_	live,stay;morar,ficar
+12	muguwo	mugo	VERB	_	Nomzr=Rel	8	xcomp	_	live,stay;morar,ficar
 13	keje	keje	ADP	_	_	12	case	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
-15	muguwo	mugu	_	_	Nomzr=Rel	12	conj	_	_
+15	muguwo	mugu	VERB	_	Nomzr=Rel	12	conj	_	_
 16	tada	tada	ADP	posp	_	15	case	_	_
 
 # sent_id = criacao_10
