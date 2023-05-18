@@ -138,6 +138,35 @@
 27	kaguru	kaguru	NOUN	_	_	21	conj	_	[kaˈɡwuɾu̥];fat;gordura
 28	tabo	apo	ADP	_	Reflex=Yes	27	case	_	_
 
+# sent_id = 0.6.BEBE
+# text = Oinore boe erore . Boe enure togwagedo , boe enure toredyje okwagedo , boe enure tonaregedy okwagedo . Kodire boe ewikare tuge boi koia
+# text_eng = 
+# text_por = è assim que fazem os bororo. Eles se alimentam, eles alimentam suas esposas e alimentam os seus filhos. Por isso os bororo não morrem de fome
+1	Oinore	_	ADV	_	Mood=Ind	3	advcl	_	_
+2	boe	_	NOUN	_	_	3	nsubj	_	_
+3	erore	ro	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	Boe	_	NOUN	_	_	7	nsubj	_	_
+6	enure	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	7	dep	_	_
+7	togwagedo	okwa	VERB	_	Reflex=Yes|Voice=Cau	3	parataxis	_	_
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	boe	_	NOUN	_	_	10	nsubj	_	_
+10	enure	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	12	dep	_	_
+11	toredyje	_	NOUN	_	Reflex=Yes	12	obj	_	_
+12	okwagedo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	7	conj	_	_
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	boe	_	NOUN	_	_	17	nsubj	_	_
+15	enure	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	17	dep	_	_
+16	tonaregedy	_	NOUN	_	Reflex=Yes	17	obj	_	_
+17	okwagedo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	7	conj	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
+19	Kodire	Kodire	ADV	_	_	21	advmod	_	_
+20	boe	boe	NOUN	_	_	21	nsubj	_	_
+21	ewikare	bi	VERB	_	Mood=Ind|Number=Plur|Person=3	3	advcl	_	_
+22	tuge	ke	NOUN	_	Reflex=Yes	23	nmod	_	_
+23	boi	_	NOUN	_	_	21	obl	_	_
+24	koia	_	ADP	_	_	23	case	_	_
+
 # sent_id = 0.7.BEBE
 # text = Roiwarewu , mearydaerewu , joryduwarewu emare roino
 # text_eng = 
