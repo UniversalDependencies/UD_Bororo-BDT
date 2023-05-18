@@ -2186,7 +2186,7 @@
 # text = Tui taredo pobo to dy kejere , bire
 # text_eng = 
 # text_por = morreu depois que pulou na água
-1	Tui	_	_	_	_	_	_	_	_
+1	Tui	_	PRON	_	Reflex=Yes	2	nsubj	_	_
 2	taredo	_	VERB	v	_	8	advcl	_	jump;pular
 3	pobo	pobo	NOUN	n	_	2	obl	_	_
 4	to	to	ADP	posp	_	3	case	_	_
@@ -2329,7 +2329,7 @@
 1	Adugo	adugo	NOUN	n	_	2	nsubj	_	_
 2	aregodyre	aregod	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	juko	juko	NOUN	n	_	4	nsubj	_	_
-4	rakojerewo	rakoje	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	advmod	_	_
+4	rakojerewo	rakoje	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	advcl	_	_
 5	kae	kae	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = 0057i.PessGr
@@ -2492,7 +2492,7 @@
 # text_eng = 
 # text_por = O que você quer?
 1	kaboba	kaboba	PRON	_	PronType=Int	3	obl	_	_
-2	jiba	ji	ADP	posp	Int=yes	1	case	_	_
+2	jiba	ji	ADP	posp	Int=Yes	1	case	_	_
 3	akaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -2608,8 +2608,8 @@
 1	Aroe	aroe	NOUN	n	Number=Plur	4	nsubj	_	_
 2	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
 3	ki	ki	NOUN	n	_	4	obj	_	['ki];tapir;anta
-4	bito	bito	VERB	v	Number=Sing|Person=3	6	conj	_	_
-5	dy	dy	X	x	_	4	dep	_	_
+4	bito	bito	VERB	v	Number=Sing|Person=3	6	ccomp	_	_
+5	dy	dy	X	x	_	4	mark	_	_
 6	pemegare	pemega	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = 0067j.PessGr
@@ -2749,8 +2749,8 @@
 # text = Ire ado boe maky
 # text_eng = I made you give something
 # text_por = Eu fiz você dar algo
-1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	_	_	_	_
-2	ado	a	PRON	bi	Number=Sing|Person=2|Voice=Cau	4	nsubj	_	_
+1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	4	nsubj	_	_
+2	ado	a	PRON	bi	Number=Sing|Person=2|Voice=Cau	4	dep	_	_
 3	boe	boe	NOUN	n	_	4	obj	_	_
 4	maky	maky	VERB	v	_	0	root	_	_
 
