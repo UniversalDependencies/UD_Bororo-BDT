@@ -2588,7 +2588,7 @@
 # text = Boetojiwy kodumode boe
 # text_eng = 
 # text_por = o que é o primeiro irá de ultimo
-1	boetojiwy	boetoji	NOUN	n	Nomzr=Rel	2	nsubj	_	first;primeiro
+1	Boetojiwy	boetoji	NOUN	n	Nomzr=Rel	2	nsubj	_	first;primeiro
 2	kodumode	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	['kodu];exit,go,leave;sair,ir
 3	boe	boe	ADV	adv	_	2	advmod	_	_
 
@@ -2596,7 +2596,7 @@
 # text = Boewy kodumode boetoji
 # text_eng = 
 # text_por = O que é o último irá de primeiro
-1	boewy	boe	NOUN	n	_	2	nsubj	_	first;primeiro
+1	Boewy	boe	NOUN	n	_	2	nsubj	_	first;primeiro
 2	kodumode	kodu	VERB	vi	_	0	root	_	['kodu];exit,go,leave;sair,ir
 3	boetoji	_	ADV	adv	_	2	advmod	_	_
 
@@ -2680,7 +2680,7 @@
 # text_eng = 
 # text_por = Você falou que ia dançar
 1	Amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
-2	arerumodyie	_	VERB	v	Mood=Irr|Number=Sing|Person=2|Tense=Fut|Speech=Ind	1	ccomp	_	_
+2	arerumodyie	_	VERB	v	Mood=Irr|Number=Sing|Person=2|Speech=Ind|Tense=Fut	1	ccomp	_	_
 3	dy	dy	PART	prcl	_	2	mark	_	_
 4	ji	ji	ADP	posp	_	1	obl	_	_
 
