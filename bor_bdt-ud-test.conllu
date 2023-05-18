@@ -793,22 +793,20 @@
 5	botuwo	botu	VERB	v	Mood=Des|Number=Sing|Person=3	2	xcomp	_	be.born;nascer
 
 # sent_id = ABE-223
-# text = patuwo pabaikae
+# text = patuwo pabai kae
 # text_eng = Let's walk to our home
 # text_por = andemos para nossa casa
 1	patuwo	tu	VERB	_	Clusivity=In|Mood=Des|Number=Plur|Person=1	0	root	_	ir;go
-2-3	pabaikae	_	_	_	_	_	_	_	_
 2	pabai	bai	NOUN	n	Clusivity=In|Number=Plur|Person=1	1	obl	_	house;casa
 3	kae	ae	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	to;para
 
 # sent_id = ABE-224
-# text = tarydyre iwogyi pobu bagaidyji
+# text = tarydyre iwogyi pobu bagaidy ji
 # text_eng = You saw me fishing
 # text_por = você me viu pescar
 1	tarydyre	jorydy	VERB	_	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
 2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	ccomp	_	fish;pescar
 3	pobu	_	NOUN	n	_	2	obj	_	pacu;pacu
-4-5	bagaidyji	ji	ADP	posp	_	_	_	_	_
 4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=3|Subord=Yes	3	case	_	_
 5	ji	ji	ADP	posp	_	1	obl	_	_
 
@@ -821,24 +819,22 @@
 3	ji	ji	ADP	posp	_	1	obl	_	_
 
 # sent_id = ABE-229
-# text = iorydyiwamode boe ebataruji
+# text = iorydyiwamode boe ebataru ji
 # text_eng = I will know the language of the Bororo
 # text_por = eu saberei (falar) a língua bororo
 1	iorydyiwamode	jorydyiwa	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	know;saber
 2	boe	boe	NOUN	n	_	3	nmod	_	_
-3-4	ebataruji	ji	ADP	posp	_	_	_	_	_
 3	ebataru	bataru	NOUN	n	Number=Plur|Person=3	1	obl	_	language;língua
 4	ji	ji	NOUN	n	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = ABE-230
-# text = Dario ure iorydyiwamodedydä boe ebataruji
+# text = Dario ure iorydyiwamodedydä boe ebataru ji
 # text_eng = Dario will teach the language of the Bororo
 # text_por = Dario vai ensinar a língua bororo
 1	Dario	Dario	PROPN	propn	_	3	nsubj	_	_
 2	ure	_	X	_	Mood=Ind	3	dep	_	_
 3	iorydyiwamodedydä	_	VERB	_	Number=Sing|Person=3|Subord=Yes|Tense=Fut|Voice=Cau	0	root	_	_
 4	boe	boe	NOUN	n	_	5	nmod	_	_
-5-6	ebataruji	ji	ADP	posp	_	_	_	_	_
 5	ebataru	bataru	NOUN	n	Number=Plur|Person=3	3	obl	_	language;língua
 6	ji	ji	NOUN	n	Number=Sing|Person=3	5	case	_	_
 
@@ -889,21 +885,19 @@
 1	itykadyre	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	0	root	_	go;ir
 
 # sent_id = ABE-241
-# text = imakore baperato
+# text = imakore bapera to
 # text_eng = I am talking to the paper (I am reading)
 # text_por = estou falando com o papel (estou lendo)
 1	imakore	mako	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2-3	baperato	_	_	_	_	_	_	_	_
 2	bapera	bapera	NOUN	n	_	1	obl	_	paper;papel
 3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	to,with;para,com
 
 # sent_id = ABE-242
-# text = are akeragu karoji ?
+# text = are akeragu karo ji ?
 # text_eng = Are you catching fish?
 # text_por = você está pegando o peixe?
 1	are	_	PRON	bi	Mood=Ind|Number=Sing|Person=2	2	nsubj	_	_
 2	akeragu	kera	NOUN	n	Number=Sing|Person=2|Voice=Cau	0	root	_	hand;mão
-3-4	karoji	ji	ADP	posp	_	_	_	_	_
 3	karo	karo	NOUN	n	_	2	obl	_	fish;peixe
 4	ji	karo	NOUN	n	_	3	case	_	fish;peixe
 5	?	?	PUNCT	punct	punct	2	punct	_	_
@@ -934,13 +928,12 @@
 3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
 # sent_id = ABE-246
-# text = takigodyre meriri aiwodä iagi
+# text = takigodyre meriri aiwodä ia gi
 # text_eng = You cause the metal to see in my mouth (you photograph inside my mouth)
 # text_por = vocês sempre fazem o metal ver dentro da minha boca (vocês sempre fotografam dentro da minha boca)
 1	takigodyre	ta	PRON	bi	Aspect=Hab|Mood=Ind	3	nsubj	_	_
 2	meriri	meriri	NOUN	n	_	3	obl	_	metal;metal
 3	aiwodä	aiwo	VERB	v	Voice=Cau	0	root	_	see;ver
-4-5	iagi	_	_	_	_	_	_	_	_
 4	ia	ia	NOUN	n	_	3	obl	_	mouth;boca
 5	gi	_	ADP	posp	_	4	case	_	_
 
@@ -1170,13 +1163,12 @@
 5	?	?	PUNCT	PUNCT	punct	4	punct	_	_
 
 # sent_id = ABE-277
-# text = kaba kejeba arydyre adugoji ?
+# text = kaba kejeba arydyre adugo ji ?
 # text_eng = When did you see the jaguar?
 # text_por = quando você viu a onça?
 1	kaba	ka	ADV	pron	Int=Yes|PronType=Int	3	advmod	_	when;quando
 2	kejeba	keje	ADP	posp	Int=Yes|Number=Sing|Person=3	1	case	_	about;sobre
 3	arydyre	jorydyre	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
-4-5	adugoji	ji	ADP	posp	_	_	_	_	_
 4	adugo	adugo	NOUN	n	_	3	obl	_	jaguar;onça
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	?	?	PUNCT	PUNCT	punct	3	punct	_	_
@@ -1231,11 +1223,10 @@
 7	?	?	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = ABE-286
-# text = jawy meriji kaeba tyre ?
+# text = jawy meri ji kaeba tyre ?
 # text_eng = Where did he go yesterday?
 # text_por = ontem ele foi onde?
 1	jawy	jawy	X	x	_	5	dep	_	past;passado
-2-3	meriji	ji	ADP	posp	_	_	_	_	_
 2	meri	meri	NOUN	n	_	5	obl	_	day;dia
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	kaeba	kae	ADP	posp	Int=Yes	5	obl	_	_
@@ -1251,21 +1242,19 @@
 3	iwogumode	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
 
 # sent_id = ABE-291
-# text = akore tudyie tubaikae
+# text = akore tudyie tubai kae
 # text_eng = ele disse que foi para sua casa
 # text_por = he said he went home (to his house)
 1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	say;dizer
 2	tudyie	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
-3-4	tubaikae	_	_	_	_	_	_	_	_
-3	tubaikae	bai	NOUN	n	Evident=Rep|Number=Sing|Person=3	2	obl	_	_
+3	tubai	bai	NOUN	n	Evident=Rep|Number=Sing|Person=3	2	obl	_	_
 4	kae	ai	ADP	n	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = ABE-292
-# text = akore tubaikaie tudyre
+# text = akore tubai kaie tudyre
 # text_eng = He said it was to his own house that he went
 # text_por = ele disse que foi para sua própria casa que ele foi
 1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	say;dizer
-2-3	tubaikaie	_	_	_	_	_	_	_	_
 2	tubai	bai	NOUN	n	Number=Sing|Person=3	4	obl	_	_
 3	kaie	ai	NOUN	n	Evident=Rep	2	obl	_	to;a
 4	tudyre	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	go;ir
@@ -1448,18 +1437,16 @@
 2	awy	awy	DET	dem	_	1	det	_	this;este,esta
 
 # sent_id = ABE-318
-# text = iiodoreno
+# text = iiodore no
 # text_eng = Este é meu bastão
 # text_por = this is my cane/stick
-1-2	iiodoreno	_	_	_	_	_	_	_	_
 1	iiodore	iodo	NOUN	n	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	no	nowu	DET	dem	_	1	det	_	this;este,esta
 
 # sent_id = ABE-319
-# text = iiodorece
+# text = iiodore ce
 # text_eng = That is my cane/stick
 # text_por = Aquele é meu bastão
-1-2	iiodorece	_	_	_	_	_	_	_	_
 1	iiodore	iodo	NOUN	n	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	ce	cewu	DET	dem	_	1	det	_	that;aquele;aquela
 
@@ -2095,12 +2082,11 @@
 8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
 
 # sent_id = CGPB-p72.2
-# text = Boe emode baibora bu kajeje . Mare woere boe emode tugerago kuroji , awu korogedy jipaji woe , jice kapau tada
+# text = Boe emode bai bora bu kajeje . Mare woere boe emode tugerago kuroji , awu korogedy jipa ji woe , jice kapau tada
 # text_eng = They will make a grass (straw) fence in the middle of it. But, it is here (that) they will get timbó, in the bed of the stream, on the banks here, there in the middle of the tall bushes.
 # text_por = Eles vão fazer uma cerca de capim (palha) no meio dele. Mas, é aqui (que) eles vão arranjar timbó, no leito do córrego, às margens aqui, lá no meio do mato alto.
 1	Boe	boe	NOUN	n	_	5	nsubj	_	_
 2	emode	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi	5	dep	_	_
-3-4	baibora	_	_	_	_	_	_	_	_
 3	bai	bai	NOUN	n	_	4	nmod	_	straw;palha
 4	bora	bora	NOUN	n	_	5	obj	_	fence,chest;cerca,peitoral
 5	bu	bu	VERB	v	_	0	root	_	put,place;pôr,colocar
@@ -2115,7 +2101,6 @@
 14	,	,	PUNCT	PUNCT	punct	12	punct	_	_
 15	awu	awu	DET	dem	_	16	det	_	_
 16	korogedy	_	NOUN	n	_	17	nmod	_	stream;córrego
-17-18	jipaji	ji	ADP	posp	_	_	_	_	_
 17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
 18	ji	ji	ADP	posp	_	17	case	_	_
 19	woe	woe	ADV	adv	_	12	advmod	_	_
@@ -2211,7 +2196,7 @@
 3	to	to	ADP	posp	_	2	case	_	water;água
 4	dy	dy	PART	prcl	Nomzr=Rel	1	dep	_	_
 5	tabore	tabo	ADP	posp	Mood=Ind	1	mark	_	with;com
-6	,	,	PUNCT	PUNCT	punct	1	punct	_	_
+6	,	,	PUNCT	PUNCT	_	1	punct	_	_
 7	bire	bi	VERB	v	Mood=Ind	0	root	_	die;morrer
 
 # sent_id = 00.55cPessGr
