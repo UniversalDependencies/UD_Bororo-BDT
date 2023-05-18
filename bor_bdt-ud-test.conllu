@@ -379,7 +379,7 @@
 8	jamedy	jamedy	ADV	adv	_	4	advmod	_	also;também
 
 # sent_id = criacao_13
-# text = Deu akore ei akore enogwageiagu ji nowu boepa tadawu boe jamedy , nowu iguru jamedy boe ji , mare rakojere boe eiadadawu ekare ko
+# text = Deu akore ei akore enogwageiagu ji nowu boepa tadawu boe jamedy , nowu iguru jamedy boe ji , mare rakojere boe eiadadawu ekare eko
 # text_eng = 
 # text_por = Deus falou para eles comerem tudo que existia naquela roça, para comerem dos frutos da árvore, menos das arvores do meio
 1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
@@ -400,7 +400,7 @@
 16	boe	boe	NOUN	n	_	15	fixed	_	_
 17	ji	ji	ADP	posp	_	15	obl	_	_
 18	,	,	PUNCT	punct	_	17	punct	_	_
-19	mare	mare	CCONJ	conj	_	24	conj	_	but;mas,porém
+19	mare	mare	CCONJ	conj	_	24	cc	_	but;mas,porém
 20	rakojere	rakoje	VERB	v	Mood=Ind	24	parataxis	_	_
 21	boe	boe	NOUN	n	_	20	nsubj	_	_
 22	eiadadawu	oiado	NOUN	n	Nomzr=Rel	21	acl	_	in.the.middle;no.meio.de
@@ -411,8 +411,8 @@
 # text = ia meri keje Satanae aregodyre aredy ae , Satanae ure bopedoge eiamedu boe eimejera ema , ema koiare ure erojai , ekojai
 # text_eng = 
 # text_por = Um certo dia Satanae se aproximou da mulher, Satanae, o chefe de todos demonios, por causa dele ele os fez fazer assim e eles assim ficaram
-1	ia	_	DET	_	_	2	det	_	_
-2	meri	meri	NOUN	n	_	5	advmod	_	sun,day;sol,dia
+1	ia	ia	DET	ia	_	2	det	_	_
+2	meri	meri	NOUN	n	_	5	obl	_	sun,day;sol,dia
 3	keje	keje	ADP	_	_	2	case	_	in,inside;em,dentro
 4	Satanae	Satanae	PROPN	_	_	5	nsubj	_	_
 5	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	arrive;chegar
@@ -439,7 +439,7 @@
 # text_eng = 
 # text_por = Deus que fez Satanáe, fez o demonio, antes eles eram bons mas depois eles quíseram ser maior do que Deus, por isso que Deus o expulsou 
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
-2	koiare	koiare	_	_	_	5	advmod	_	thus;assim,por.isso
+2	koiare	koiare	ADV	_	_	5	advmod	_	thus;assim,por.isso
 3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
 4	Satanae	Satanae	PROPN	_	_	5	obj	_	_
 5	towuje	towuje	NOUN	_	_	0	root	_	_
