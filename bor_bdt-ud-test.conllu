@@ -1718,12 +1718,11 @@
 4	to	to	ADP	posp	_	3	case	_	in;em
 
 # sent_id = OBE-p75.2
-# text = okwagere karo koduji
+# text = okwagere karo kodu ji
 # text_eng = He ate fish meat
 # text_por = Ele comeu carne de peixe
 1	okwagere	okwage	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	eat;comer
 2	karo	karo	NOUN	n	_	3	nmod	_	_
-3-4	koduji	ji	ADP	posp	_	_	_	_	_
 3	kodu	kodu	NOUN	n	_	1	obl	_	meat;carne
 4	ji	ji	ADP	posp	_	3	case	_	_
 
@@ -2240,7 +2239,7 @@
 6	ji	ji	ADP	posp	_	2	case	_	_
 
 # sent_id = 0055e.PessGr
-# text = Akore tumaragädymodyie duji
+# text = Akore tumaragädymodyie dy ji
 # text_eng = 
 # text_por = Falou que iria trabalhar
 1	Akore	ako	VERB	v	_	0	root	_	_
@@ -2748,14 +2747,14 @@
 # text_eng = work!
 # text_por = trabalha!
 1	Amaragädydo	maragädu	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	[maɾaɡʌ'dɨdʌ];work;trabalhar
-2	!	!	PUNCT	PUNCT	punct	1	punct	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0099b.PessGr
 # text = Tamaragädydo !
 # text_eng = work!
 # text_por = trabalhai!
 1	Tamaragädydo	maragädy	VERB	v	|Number=Plur|Person=2|Voice=Cau	0	root	_	_
-2	!	!	PUNCT	PUNCT	punct	1	punct	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 00100a.PessGr
 # text =  Amaragädyre
