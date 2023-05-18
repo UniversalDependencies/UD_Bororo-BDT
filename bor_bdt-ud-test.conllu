@@ -298,15 +298,11 @@
 # text = Deu ure nowu boe jamedy ji boe akedudo tuje dy keje ure imedu to
 # text_eng = 
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
-# sent_id = criacao_08
-# text = Deu ure nowu boe jamedy ji boe akedudo tuje dy keje ure imedu to
-# text_eng = 
-# text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
 2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
 3	nowu	nowu	DET	_	_	4	det	_	_
 4	boe	boe	NOUN	n	_	8	iobj	_	_
-5	jamedy	jamedy	ADV	_	_	4	det	_	_
+5	jamedy	jamedy	ADV	_	_	4	advmod	_	_
 6	ji	ji	ADP	posp	_	4	case	_	_
 7	boe	boe	NOUN	n	_	8	dep	_	_
 8	akedudo	akedudo	VERB	_	_	13	advcl	_	_
