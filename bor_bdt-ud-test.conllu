@@ -191,7 +191,7 @@
 11	ure	re	PART	prcl	_	13	dep	_	_
 12	pobo	pobo	NOUN	n	_	13	obj	_	water;água
 13	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
-14	,	,	PUNCT	punct	_	_	punct	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
 15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	17	dep	_	_
 16	tori	tori	NOUN	n	_	17	obj	_	stone;pedra
 17	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	make,cause;fazer,criar
@@ -238,7 +238,7 @@
 16	aroe	aroe	NOUN	n	_	12	conj	_	rice;arroz
 17	nowu	nowu	DET	_	_	18	nmod	_	_
 18	boe	boe	NOUN	n	_	12	conj	_	_
-19	jamedy	_	_	_	_	20	nmod	_	_
+19	jamedy	_	ADV	_	_	20	nmod	_	_
 20	boe	boe	NOUN	n	_	12	conj	_	_
 21	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	_
 22	to	to	VERB	v	Number=Sing|Person=3	4	parataxis	_	_
@@ -260,7 +260,7 @@
 8	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	nowu	nowu	DET	dem	_	12	det	_	_
-11	jamedy	_	X	_	_	12	det	_	_
+11	jamedy	_	ADV	_	_	12	advmod	_	_
 12	boe	boe	NOUN	n	_	14	obj	_	_
 13	ure	re	PART	prcl	Number=Plur|Person=3	14	dep	_	_
 14	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
@@ -289,7 +289,7 @@
 18	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	20	dep	_	_
 19	adugo	adugo	NOUN	n	_	20	obj	_	jaguar;onça
 20	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
-21	jamedy	_	ADV	_	_	22	det	_	_
+21	jamedy	_	ADV	_	_	22	advmod	_	_
 22	boe	boe	NOUN	n	_	24	obj	_	_
 23	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	24	dep	_	_
 24	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
