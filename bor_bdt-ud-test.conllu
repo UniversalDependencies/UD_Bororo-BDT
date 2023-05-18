@@ -2588,9 +2588,9 @@
 # text = Boetojiwy kodumode boe
 # text_eng = 
 # text_por = o que é o primeiro irá de ultimo
-1	boetojiwy	boetoji	NOUN	n	_	2	nsubj	_	first;primeiro
+1	boetojiwy	boetoji	NOUN	n	Nomzr=Rel	2	nsubj	_	first;primeiro
 2	kodumode	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	['kodu];exit,go,leave;sair,ir
-3	boe	_	ADV	adv	_	2	advmod	_	_
+3	boe	boe	ADV	adv	_	2	advmod	_	_
 
 # sent_id = 0067e.PessGr
 # text = Boewy kodumode boetoji
