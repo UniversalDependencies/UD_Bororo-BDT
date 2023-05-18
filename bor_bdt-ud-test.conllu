@@ -110,9 +110,9 @@
 # text_eng = 
 # text_por = O que tem capacidade, o que pensa, o que sabe faz assim.
 1	Roiwarewu	roiwa	VERB	v	Nomzr=Rel	6	ccomp	_	_
-2	,	,	PUNCT	punct	_	6	punct	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
 3	mearydaerewu	mearydae	VERB	v	Nomzr=Rel	1	conj	_	_
-4	,	,	PUNCT	punct	_	6	punct	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
 5	joryduwarewu	oryduwa	VERB	v	Nomzr=Rel	3	conj	_	_
 6	emare	mare	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	roino	roino	ADV	adv	_	6	advmod	_	_
@@ -129,7 +129,7 @@
 6	bokwarewu	_	VERB	v	Polarity=Neg	5	dep	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8	jorydae	jorydae	VERB	_	_	5	conj	_	_
-9	bokwareu	_	X	_	Polarity=Neg	8	dep	_	_
+9	bokwarewu	_	X	_	Polarity=Neg	8	dep	_	_
 10	imedyre	imedy	NOUN	n	Mood=Ind	12	nsubj	_	_
 11	,	,	PUNCT	punct	_	12	punct	_	_
 12	rokare	ro	VERB	v	_	2	parataxis	_	_
