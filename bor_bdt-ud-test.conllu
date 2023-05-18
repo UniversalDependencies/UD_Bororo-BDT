@@ -105,6 +105,41 @@
 29	tubore	tubore	NOUN	n	_	4	conj	_	fish.(genus Astyanax);lambari.(genus Astyanax)
 30	ji	ji	ADP	posp	_	29	case	_	_
 
+# sent_id = 0.1.BEBE
+# text = dy taboba boere bito , boere karo bito , boere kiogo bito tugeje , toredyje ukeje , tonaregedu ukeje , tonaregedu ukeje , kädy tabo , kuru tabo ,kaguru tabo
+# text_eng = 
+# text_por = Como os bororo matam, como matam bicho, como matam peixe, como matam pássaro para alimentar sua esposa, para alimentar seu filho com carne, com clado e com gordura
+1	dy	_	X	_	_	2	dep	_	_
+2	taboba	_	PRON	_	_	4	advmod	_	_
+3	boere	boe	NOUN	n	Mood=Ind	4	nsubj	_	_
+4	bito	bito	VERB	_	_	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	boere	boe	NOUN	n	Mood=Ind	8	nsubj	_	_
+7	karo	karo	NOUN	_	_	8	obj	_	_
+8	bito	bito	VERB	_	_	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	boere	boe	NOUN	_	Mood=Ind	12	nsubj	_	_
+11	kiogo	kiogo	NOUN	n	_	12	obj	_	_
+12	bito	bito	VERB	_	_	4	parataxis	_	_
+13	tugeje	keje	ADP	_	Reflex=Yes	12	obl	_	_
+14	,	,	PUNCT	punct	_	12	punct	_	_
+15	toredyje	oredyje	NOUN	_	Reflex=Yes	12	obl	_	[ɔɾɛˈdɯdʒe];wife;esposa
+16	ukeje	keje	NOUN	n	_	15	case	_	_
+17	,	,	PUNCT	_	_	15	punct	_	_
+18	tonaregedu	onaregedu	NOUN	_	Reflex=Yes	15	conj	_	[ʌnaɾɛˈɡɛdɨ];son,daughter;filhoe,filha
+19	ukeje	keje	ADP	_	Number=Sing|Person=3	18	case	_	above;sobre
+20	,	,	PUNCT	punct	_	18	punct	_	_
+21	kädy	kädy	NOUN	_	_	12	obl	_	[ˈkʌdɨ]
+22	tabo	apo	ADP	_	Reflex=Yes	21	case	_	_
+23	,	,	PUNCT	punct	_	21	punct	_	_
+24	kuru	kuru	NOUN	_	_	21	conj	_	[ˈkwuɾu];liquid,juice;caldo,seiva,líquido
+25	tabo	apo	ADP	_	Reflex=Yes	24	case	_	_
+26	,	,	PUNCT	punct	_	24	punct	_	_
+27	kaguru	kaguru	NOUN	_	_	21	conj	_	[kaˈɡwuɾu̥];fat;gordura
+28	tabo	apo	ADP	_	Reflex=Yes	27	case	_	_
+
+
+
 # sent_id = 0.7.BEBE
 # text = Roiwarewu , mearydaerewu , joryduwarewu emare roino
 # text_eng = 
