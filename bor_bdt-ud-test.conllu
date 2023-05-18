@@ -15,7 +15,7 @@
 11	ji	ji	ADP	posp	_	10	case	_	_
 
 # sent_id = 0.2.BEBE
-# text = Iwo tarydywado barogo ie ji , karo ie ji , kiogo ie ji , boe ero jamedu boe ji
+# text = Iwo tarydywado barogo ie ji , karo ie ji , kiogo ie ji , boe ero jamedy boe ji
 # text_eng = 
 # text_por = Vou ensinar-vos os nomes dos bichos, dos peixes e das pássaros. Tudo o que os bororo fazem.
 1	Iwo	bo	VERB	v	_	2	nsubj	_	_
@@ -34,7 +34,7 @@
 14	,	,	PUNCT	punct	_	12	punct	_	_
 15	boe	boe	NOUN	n	_	16	nmod	_	['bɔɛ̯];thing,people;coisa,pessoa
 16	ero	ro	NOUN	v	Number=Plur|Person=3	2	obl	_	['ɾɔ];do,make;fazer
-17	jamedu	jamedu	PRON	pron	_	16	det	_	all;tudo,todos
+17	jamedy	jamedy	PRON	pron	_	16	det	_	all;tudo,todos
 18	boe	boe	NOUN	n	_	17	compound	_	_
 19	ji	ji	ADP	posp	_	16	case	_	_
 
@@ -71,7 +71,7 @@
 27	tabo	apo	ADP	posp	Reflex=Yes	25	case	_	_
 
 # sent_id = 0.4.BEBE
-# text = Inoba boe erore buke tabo , bukerogu tabo , buwodo tabo , tygä tabo jamedu ; ika tabo , tyraiga tabo , kyro tabo , karo ji , tubore ji
+# text = Inoba boe erore buke tabo , bukerogu tabo , buwodo tabo , tygä tabo jamedy ; ika tabo , tyraiga tabo , kyro tabo , karo ji , tubore ji
 # text_eng = 
 # text_por = Como os bororo fazem com a rede, com a rede pequena, com o anzol, com a flecha tambem, com a canoa, com o remo e com o timbó para pescar.
 1	Inoba	inoba	PRON	whp	PronType=Int	3	obj	_	_
@@ -88,7 +88,7 @@
 12	,	,	PUNCT	punct	_	10	punct	_	_
 13	tygä	tygä	NOUN	n	_	4	conj	_	_
 14	tabo	apo	ADP	posp	Reflex=Yes	13	case	_	_
-15	jamedu	jamedu	ADV	adv	_	3	advmod	_	_
+15	jamedy	jamedy	ADV	adv	_	3	advmod	_	_
 16	;	;	PUNCT	punct	_	15	punct	_	_
 17	ika	ika	NOUN	n	_	4	conj	_	canoe;canoa
 18	tabo	apo	ADP	posp	Reflex=Yes	17	case	_	_
@@ -217,7 +217,7 @@
 15	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
 
 # sent_id = criacao_05
-# text = Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedu boe ure to boe enogwagewu ji
+# text = Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedy boe ure to boe enogwagewu ji
 # text_eng = 
 # text_por = Deus fez o cerrado, fez a floresta, Deus fez a mandioca, milho, arroz fez tudo isso de alimento para as pessoas se alimentarem
 1	Deu	Deu	NOUN	n	_	4	nsubj	_	god;Dues
@@ -238,7 +238,7 @@
 16	aroe	aroe	NOUN	n	_	12	conj	_	rice;arroz
 17	nowu	nowu	DET	_	_	18	nmod	_	_
 18	boe	boe	NOUN	n	_	12	conj	_	_
-19	jamedu	_	_	_	_	20	nmod	_	_
+19	jamedy	_	_	_	_	20	nmod	_	_
 20	boe	boe	NOUN	n	_	12	conj	_	_
 21	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	_
 22	to	to	VERB	v	Number=Sing|Person=3	4	parataxis	_	_
@@ -247,7 +247,7 @@
 25	ji	ji	ADP	posp	_	24	case	_	_
 
 # sent_id = criacao_06
-# text = Deu ure kiogorogu to , ure kare towuje , nowu jamedu boe ure towuje
+# text = Deu ure kiogorogu to , ure kare towuje , nowu jamedy boe ure towuje
 # text_eng = 
 # text_por = Deus fez o passarinhos, fez os peixes, fez tudo isso
 1	Deu	Deu	NOUN	n	_	4	nsubj	_	_
@@ -259,14 +259,14 @@
 7	kare	kare	NOUN	_	_	8	obj	_	_
 8	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	nowu	_	DET	_	_	12	det	_	_
-11	jamedu	_	X	_	_	12	det	_	_
+10	nowu	nowu	DET	dem	_	12	det	_	_
+11	jamedy	_	X	_	_	12	det	_	_
 12	boe	boe	NOUN	n	_	14	obj	_	_
 13	ure	re	PART	prcl	Number=Plur|Person=3	14	dep	_	_
 14	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = criacao_07
-# text = Deu ure arigao to , ure kuwaru to , ure tapira to , ure popogo to , ure adugo to  jamedu boe ure to
+# text = Deu ure arigao to , ure kuwaru to , ure tapira to , ure popogo to , ure adugo to  jamedy boe ure to
 # text_eng = 
 # text_por = Deus fez o cachorro, fez o cavalo, fez a vaca, fez o veado, fez a onça-pintada, fez tudo isso
 1	Deu	Deu	PROPN	_	_	4	nsubj	_	_
@@ -289,20 +289,20 @@
 18	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	20	dep	_	_
 19	adugo	adugo	NOUN	n	_	20	obj	_	jaguar;onça
 20	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
-21	jamedu	_	_	_	_	22	det	_	_
+21	jamedy	_	ADV	_	_	22	det	_	_
 22	boe	boe	NOUN	n	_	24	obj	_	_
 23	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	24	dep	_	_
 24	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = criacao_08
-# text = Deu ure nowu boe jamedu ji boe akedudo tuje dy keje ure imedu to
+# text = Deu ure nowu boe jamedy ji boe akedudo tuje dy keje ure imedu to
 # text_eng = 
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
 2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
 3	nowu	nowu	DET	_	_	4	det	_	_
 4	boe	boe	NOUN	n	_	8	iobj	_	_
-5	jamedu	jamedu	X	_	_	4	det	_	_
+5	jamedy	jamedy	ADV	_	_	4	det	_	_
 6	ji	ji	ADP	posp	_	4	case	_	_
 7	boe	boe	NOUN	n	_	8	dep	_	_
 8	akedudo	akedudo	ADV	_	_	14	advcl	_	_
