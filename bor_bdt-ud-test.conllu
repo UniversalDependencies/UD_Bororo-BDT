@@ -137,10 +137,11 @@
 14	,	,	PUNCT	punct	_	12	punct	_	_
 15	aredyre	aredy	VERB	v	Mood=Ind	16	nsubj	_	woman;mulher
 16	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	12	parataxis	_	_
-17	ino	ino	ADV	_	_	16	advmod	_	_
+17	ino	ino	ADV	adv	_	16	advmod	_	_
 18	,	,	PUNCT	punct	_	16	punct	_	_
 19	dyre	dy	X	_	_	20	ccomp	_	_
 20	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	16	parataxis	_	_
+21	ino	ino	ADV	adv	_	20	advmod	_	_
 
 # sent_id = criacao_01
 # text = Marigudu boe erydykare moto ji , baru ji , iaboe ji , iaboe ji
