@@ -106,11 +106,11 @@
 30	ji	ji	ADP	posp	_	29	case	_	_
 
 # sent_id = 0.5.BEBE
-# text = dy taboba boere bito , boere karo bito , boere kiogo bito tugeje , toredyje ukeje , tonaregedu ukeje , kädy tabo , kuru tabo ,kaguru tabo
+# text = dy taboba boere bito , boere karo bito , boere kiogo bito tugeje , toredyje ukeje , tonaregedu ukeje , kädy tabo , kuru tabo , kaguru tabo
 # text_eng = 
 # text_por = Como os bororo matam, como matam bicho, como matam peixe, como matam pássaro para alimentar sua esposa, para alimentar seu filho com carne, com clado e com gordura
-1	dy	_	X	_	_	2	dep	_	_
-2	taboba	_	PRON	_	_	4	advmod	_	_
+1	dy	dy	X	x	_	2	dep	_	_
+2	taboba	taboba	ADV	adv	_	4	advmod	_	_
 3	boere	boe	NOUN	n	Mood=Ind	4	nsubj	_	_
 4	bito	bito	VERB	_	_	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
