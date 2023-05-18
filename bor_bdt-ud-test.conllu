@@ -618,13 +618,12 @@
 5	to	_	ADP	posp	_	4	case	_	in;em
 
 # sent_id = ABE-39
-# text = negekygyre erudyre pudyi poboto
+# text = negekygyre erudyre pudyi pobo to
 # text_eng = The children saw themselves in the water
 # text_por = as crianças se viram na água
 1	negekygyre	negedyrogu	NOUN	n	_	2	nsubj	_	child;criança
 2	erudyre	jorydy	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	see;ver
 3	pudyi	ji	ADP	posp	Person=3|Reflex=Yes	2	obl	_	_
-4-5	poboto	_	_	_	_	_	_	_	_
 4	pobo	_	NOUN	n	_	2	obl	_	water;água
 5	to	_	ADP	posp	_	4	case	_	in;em
 
@@ -678,22 +677,20 @@
 3	ika	ika	NOUN	n	_	0	root	_	canoe;canoa
 
 # sent_id = ABE-62
-# text = kare iwogure jiwyge
+# text = kare iwogure ji wyge
 # text_eng = the fish (that) I fished
 # text_por = os peixes que eu pesquei
 1	kare	karo	NOUN	n	Number=Plur	0	root	_	fish;peixe
 2	iwogure	wogu	VERB	v	Mood=Ind|Number=Sing|Person=1	1	acl	_	[ˈwoɡu];fish;pesca
-3-4	jiwyge	_	_	_	_	_	_	_	_
 3	ji	ji	ADP	posp	_	2	obl	_	_
 4	wyge	wy	X	x	Nomzr=Rel|Number=Plur	2	dep	_	_
 
 # sent_id = ABE-151
-# text = imedy utyre ibaikae tubaiga bagai
+# text = imedy utyre ibai kae tubaiga bagai
 # text_eng = The man is going home for his weapon
 # text_por = o homem está indo na minha casa para (pegar) a arma dele
 1	imedy	imedy	NOUN	n	_	2	nsubj	_	man;homem
 2	utyre	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	0	root	_	go;ir
-3-4	ibaikae	_	_	_	_	_	_	_	_
 3	ibai	bai	NOUN	n	Number=Sing|Person=1	2	obl	_	house;casa
 4	kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	house;casa
 5	tubaiga	baiga	NOUN	n	Person=3|Reflex=Yes	3	obl	_	weapon;arma
@@ -782,12 +779,11 @@
 2	ikiguruduwo	kigurudu	VERB	v	Mood=Des|Number=Sing|Person=1	1	ccomp	_	urinate;urinar
 
 # sent_id = ABE-222
-# text = boere tugu mototo botuwo
+# text = boere tugu moto to botuwo
 # text_eng = The Boror plant to grow/blosson
 # text_por = os bororo plantam (lit. 'enfiam na terra') para nascer
 1	boere	boe	NOUN	n	Mood=Ind	2	nsubj	_	_
 2	tugu	tugu	VERB	v	Number=Sing|Person=3	0	root	_	earth;terra
-3-4	mototo	_	_	_	_	_	_	_	_
 3	moto	moto	NOUN	n	_	2	obl	_	put.in;enfiar
 4	to	to	ADP	posp	_	3	case	_	put.in;enfiar
 5	botuwo	botu	VERB	v	Mood=Des|Number=Sing|Person=3	2	xcomp	_	be.born;nascer
