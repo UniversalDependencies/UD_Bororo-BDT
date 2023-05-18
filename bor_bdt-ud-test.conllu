@@ -2542,14 +2542,14 @@
 # text = Maragädyrewu okwagemode
 # text_eng = 
 # text_por = Quem trabalha comerá
-1	Maragädyrewu	maragädy	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	conj	_	_
+1	Maragädyrewu	maragädy	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	ccomp	_	_
 2	okwagemode	okwage	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
 
 # sent_id = 0067c.PessGr
 # text = Biajarewu mearudymode
 # text_eng = 
 # text_por = Aquele que tem ouvidos vai escutar
-1	Biajarewu	biaja	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	nsubj	_	_
+1	Biajarewu	biaja	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	ccomp	_	_
 2	mearudymode	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
 
 # sent_id = 0067d.PessGr
