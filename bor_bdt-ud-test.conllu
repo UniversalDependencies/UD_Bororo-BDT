@@ -356,10 +356,10 @@
 # sent_id = criacao_11
 # text = Deu aidy rakaguragare cowu imedyje , aredyje
 # text_eng = 
-# text_por = Deus gostou muito daquele home e da mulher 
+# text_por = Deus gostou muito daquele homem e da mulher 
 1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
 2	aidy	aidy	VERB	v	Number=Sing|Person=3	0	root	_	want,like;gostar,querer
-3	rakaguragare	raka	_	_	Intens=Yes|Mood=Ind	2	advmod	_	_
+3	rakaguragare	raka	ADV	adv	Intens=Yes|Mood=Ind	2	advmod	_	_
 4	cowu	cowu	DET	dem	_	5	det	_	that,that.one;aquele
 5	imedyje	imedyje	NOUN	n	_	2	obj	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
@@ -386,7 +386,7 @@
 2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
 4	akore	ko	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
-5	enokwageiagu	okwage	VERB	v	Number=Plur|Person=3|Tense=Prosp	4	xcomp	_	eat;comer
+5	enokwageiagu	okwage	VERB	v	Number=Plur|Person=3	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	_	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowu	nowu	DET	dem	_	8	det	_	_
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
