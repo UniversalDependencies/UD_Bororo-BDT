@@ -15,7 +15,7 @@
 11	ji	ji	ADP	posp	_	10	case	_	_
 
 # sent_id = 0.2.BEBE
-# text = Iwo tarydywado barogo ie ji , karo ieji , kiogo ie ji , boe ero jamedu boe ji
+# text = Iwo tarydywado barogo ie ji , karo ie ji , kiogo ie ji , boe ero jamedu boe ji
 # text_eng = 
 # text_por = Vou ensinar-vos os nomes dos bichos, dos peixes e das pássaros. Tudo o que os bororo fazem.
 1	Iwo	bo	VERB	v	_	2	nsubj	_	_
@@ -32,7 +32,7 @@
 12	ie	ie	NOUN	n	_	4	cc	_	_
 13	ji	ji	ADP	posp	_	12	case	_	_
 14	,	,	PUNCT	punct	_	12	punct	_	_
-15	Boe	boe	NOUN	n	_	16	nmod	_	['bɔɛ̯];thing,people;coisa,pessoa
+15	boe	boe	NOUN	n	_	16	nmod	_	['bɔɛ̯];thing,people;coisa,pessoa
 16	ero	ro	NOUN	v	Number=Plur|Person=3	2	obl	_	['ɾɔ];do,make;fazer
 17	jamedu	jamedu	PRON	pron	_	16	det	_	all;tudo,todos
 18	boe	boe	NOUN	n	_	17	compound	_	_
