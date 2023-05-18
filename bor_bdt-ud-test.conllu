@@ -118,7 +118,7 @@
 7	roino	roino	ADV	adv	_	6	advmod	_	_
 
 # sent_id = 0.8.BEBE
-# text = Pegareure rokare ino , mearydae bokwareu , jordae bokwarewu imedyre, rokare ino , aredyre rokare ino , dyre rokare ino
+# text = Pegareure rokare ino , mearydae bokwarewu , jordae bokwarewu imedyre, rokare ino , aredyre rokare ino , dyre rokare ino
 # text_eng = 
 # text_por = Mas o ruim não faz assim. O homem, a mulher que não pensa, que não sabe, não faz assim.
 1	Pegareure	pega	VERB	v	Nomzr=Rel	2	ccomp	_	bad;mal,mau,ruim
@@ -313,7 +313,7 @@
 14	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 
 # sent_id = criacao_09
-# text = Deu ure boepa pemegaguragare , boe epa moturewu to , cowu imedu muguwo keje , muguwo tada
+# text = Deu ure boepa pemegaguragare , boeepa moturewu to , cowu imedu muguwo keje , muguwo tada
 # text_eng = 
 # text_por = Ele fez uma roça perfeita, fez uma roça bonita, para aquele homem viver nela, viver dentro dela
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
@@ -434,7 +434,7 @@
 22	ekojai	kojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	_
 
 # sent_id = criacao_15
-# text = Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ere rugadu barigu
+# text = Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ure rugadu barigu
 # text_eng = 
 # text_por = Deus que fez Satanáe, fez o demonio, antes eles eram bons mas depois eles quíseram ser maior do que Deus, por isso que Deus o expulsou 
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
@@ -462,7 +462,7 @@
 23	barigu	barigu	X	_	_	16	parataxis	_	_
 
 # sent_id = criacao_16
-# text = Ahh joru rakoje kimore toro Deu apo toro , ure rojae jiboe jamedy boe ure pemegado
+# text = Ahh joru rakoje kimore toro Deu apo toro , ure rojai jiboe jamedy boe ure pemegado
 # text_eng = 
 # text_por = Ahh o milagre que estava com Deus, e transformou o mal no bem
 1	Ahh	Ahh	INTJ	intj	_	3	discourse	_	_
@@ -2656,7 +2656,7 @@
 6	kado	kado	VERB	v	_	0	root	_	['kadɔ];cut,interrupt;cortar,interromper
 
 # sent_id = 0067k.PessGr
-# text = Imeardyre amagoi inai dy ji
+# text = Imearydyre amagoi inai dy ji
 # text_eng = 
 # text_por = Escutei que você me falava
 1	Imearydyre	_	VERB	v	_	0	root	_	_
