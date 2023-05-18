@@ -255,11 +255,11 @@
 4	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	ure	re	PART	prcl	Number=Plur|Person=3	8	dep	_	_
-7	kare	kare	_	_	_	8	obj	_	_
+7	kare	kare	NOUN	_	_	8	obj	_	_
 8	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	nowu	_	_	_	_	12	det	_	_
-11	jamedu	_	_	_	_	12	det	_	_
+10	nowu	_	DET	_	_	12	det	_	_
+11	jamedu	_	X	_	_	12	det	_	_
 12	boe	boe	NOUN	n	_	14	obj	_	_
 13	ure	re	PART	prcl	Number=Plur|Person=3	14	dep	_	_
 14	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
@@ -268,9 +268,9 @@
 # text = Deu ure arigao to , ure kuwaru to , ure tapira to , ure popogo to , ure adugo to  jamedu boe ure to
 # text_eng = 
 # text_por = Deus fez o cachorro, fez o cavalo, fez a vaca, fez o veado, fez a onça-pintada, fez tudo isso
-1	Deu	Deu	_	_	_	4	nsubj	_	_
+1	Deu	Deu	PROPN	_	_	4	nsubj	_	_
 2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
-3	arigao	_	_	_	_	4	obj	_	dog;cachorro
+3	arigao	_	NOUN	_	_	4	obj	_	dog;cachorro
 4	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
@@ -299,15 +299,15 @@
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
 2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
-3	nowu	nowu	_	_	_	4	det	_	_
+3	nowu	nowu	DET	_	_	4	det	_	_
 4	boe	boe	NOUN	n	_	8	iobj	_	_
-5	jamedu	jamedu	_	_	_	4	det	_	_
+5	jamedu	jamedu	X	_	_	4	det	_	_
 6	ji	ji	ADP	posp	_	4	case	_	_
 7	boe	boe	NOUN	n	_	8	dep	_	_
-8	akedudo	akedudo	_	_	_	14	advcl	_	_
+8	akedudo	akedudo	ADV	_	_	14	advcl	_	_
 9	tuje	tuje	VERB	v	Number=Plur|Person=3	8	xcomp	_	_
-10	dy	dy	_	_	_	11	dep	_	_
-11	keje	keje	_	_	_	14	mark	_	_
+10	dy	dy	X	_	_	11	dep	_	_
+11	keje	keje	X	_	_	14	mark	_	_
 12	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	14	dep	_	_
 13	imedu	imedu	NOUN	n	_	14	obj	_	man;homem
 14	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
