@@ -2543,7 +2543,7 @@
 # text_por = Com que você o matou?
 1	kaboba	_	_	_	PronType=Int	4	obl	_	_
 2	taboba	_	ADP	posp	Int=Yes	1	case	_	_
-3	are	a	_	bi	Mood=Ind|Number=Sing|Person=2	4	nsubj	_	_
+3	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|PronType=Bi	4	nsubj	_	_
 4	bito	_	_	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	?	_	PUNCT	punct	_	4	punct	_	_
 
@@ -2553,7 +2553,7 @@
 # text_por = A quem você o deu?
 1	Ioguduba	_	PRON	_	PronType=Int	4	obl	_	_
 2	aiba	_	ADP	posp	Int=Yes	1	case	_	_
-3	are	_	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	nsubj	_	_
+3	are	_	PRON	bi	Mood=Ind|Number=Sing|Person=2|PronType=Bi	4	nsubj	_	_
 4	maku	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	?	_	PUNCT	punct	_	4	punct	_	_
 
