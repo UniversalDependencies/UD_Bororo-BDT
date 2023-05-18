@@ -23,13 +23,13 @@
 3	barogo	barogo	NOUN	n	Number=Sing	4	nmod	_	_
 4	ie	ie	NOUN	n	_	2	obl	_	_
 5	ji	ji	ADP	posp	_	4	case	_	_
-6	,	,	PUNCT	punct	_	2	punct	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
 7	karo	karo	NOUN	n	Number=Sing	8	nmod	_	[ˈkaːɾʌ];fish;peixe
-8	ie	ie	NOUN	_	_	4	conj	_	_
+8	ie	ie	NOUN	_	_	4	cc	_	_
 9	ji	ji	NOUN	_	_	8	case	_	_
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	kiogo	kiogo	NOUN	n	_	12	nmod	_	[kʰiˈoɡɤ];bird;ave,pásssaro
-12	ie	ie	NOUN	n	_	4	conj	_	_
+12	ie	ie	NOUN	n	_	4	cc	_	_
 13	ji	ji	ADP	posp	_	12	case	_	_
 14	,	,	PUNCT	punct	_	12	punct	_	_
 15	boe	boe	NOUN	n	_	16	nmod	_	['bɔɛ̯];thing,people;coisa,pessoa
@@ -79,7 +79,7 @@
 3	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	buke	buke	NOUN	n	_	3	obl	_	fishnet;rede.de.pesca
 5	tabo	apo	ADP	posp	Reflex=Yes	4	case	_	_
-6	,	,	PUNCT	punct	_	3	punct	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
 7	bukerogu	buke	NOUN	n	Degree=Dim	4	conj	_	_
 8	tabo	apo	ADP	posp	Reflex=Yes	7	case	_	_
 9	,	,	PUNCT	punct	_	7	punct	_	_
@@ -89,7 +89,7 @@
 13	tygä	tygä	NOUN	n	_	4	conj	_	_
 14	tabo	apo	ADP	posp	Reflex=Yes	13	case	_	_
 15	jamedu	jamedu	ADV	adv	_	3	advmod	_	_
-16	;	;	PUNCT	punct	_	13	punct	_	_
+16	;	;	PUNCT	punct	_	15	punct	_	_
 17	ika	ika	NOUN	n	_	4	conj	_	canoe;canoa
 18	tabo	apo	ADP	posp	Reflex=Yes	17	case	_	_
 19	,	,	PUNCT	punct	_	17	punct	_	_
@@ -118,7 +118,7 @@
 7	roino	roino	ADV	adv	_	6	advmod	_	_
 
 # sent_id = 0.8.BEBE
-# text = Pegareure rokare ino , mearydae bokwarewu , jordae bokwarewu imedyre, rokare ino , aredyre rokare ino , dyre rokare ino
+# text = Pegareure rokare ino , mearydae bokwarewu , jorydae bokwarewu imedyre , rokare ino , aredyre rokare ino , dyre rokare ino
 # text_eng = 
 # text_por = Mas o ruim não faz assim. O homem, a mulher que não pensa, que não sabe, não faz assim.
 1	Pegareure	pega	VERB	v	Nomzr=Rel	2	ccomp	_	bad;mal,mau,ruim
@@ -177,7 +177,7 @@
 # text = Marigudu Deu ure moto to , ure baru to , ure pobo to , ure tori to
 # text_eng = 
 # text_por = Antigamente Deus fez a terra, o céu, a água e as pedras
-1	Marigudu	marigudu	_	_	_	5	advcl	_	_
+1	Marigudu	marigudu	ADV	_	_	5	advcl	_	_
 2	Deu	Deu	NOUN	n	_	5	nsubj	_	_
 3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
 4	moto	moto	NOUN	n	_	5	obj	_	_
@@ -190,7 +190,7 @@
 11	ure	re	PART	prcl	_	13	dep	_	_
 12	pobo	pobo	NOUN	n	_	13	obj	_	water;água
 13	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
-14	,	,	PUNCT	punct	_	_	_	_	_
+14	,	,	PUNCT	punct	_	_	punct	_	_
 15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	17	dep	_	_
 16	tori	tori	NOUN	n	_	17	obj	_	stone;pedra
 17	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	make,cause;fazer,criar
