@@ -2735,7 +2735,7 @@
 6	taimo	aimo	VERB	_	Person=3|Reflex=Yes	2	advcl	_	bathe;banhar-se
 
 # sent_id = 0068b.PessGr
-# text = Jukore tuge okoge reko boeki kae , dy kaere adugo aregodyre
+# text = Jukore tuge okoge reko boeki kae , dykaere adugo aregodyre
 # text_eng = 
 # text_por = O macaco levou seu peixe dourado para o seco, ai a onça chegou
 1	Jukore	jukore	NOUN	_	Mood=Ind	4	nsubj	_	[ˈdʒukʷɔ];monkey;macaco
@@ -2758,7 +2758,7 @@
 2	!	!	PUNCT	PUNCT	punct	1	punct	_	_
 
 # sent_id = 0099b.PessGr
-# text = Tamaragädudo !
+# text = Tamaragädydo !
 # text_eng = work!
 # text_por = trabalhai!
 1	Tamaragädydo	maragädy	VERB	v	|Number=Plur|Person=2|Voice=Cau	0	root	_	_
@@ -2778,7 +2778,7 @@
 2	amaragädydo	maragädy	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
 
 # sent_id = 00100c.PessGr
-# text = Are boe maku
+# text = Are boe maky
 # text_eng = You gave something
 # text_por = você deu algo
 1	Are	a	X	bi	Mood=Ind|Number=Sing|Person=1	3	nsubj	_	_
