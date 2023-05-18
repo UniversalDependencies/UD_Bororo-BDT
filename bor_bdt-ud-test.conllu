@@ -3,8 +3,8 @@
 # text_eng = 
 # text_por = Eu quero ensinar-vos os nomes dos bororo, os nomes das coisas dos bororo.
 1	Itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	want,like;querer,gostar
-2	iwo	bo	VERB	v	Number=Sing|Person=1	1	conjomp	_	_
-3	taryduwado	jorydywado	VERB	v	Number=Plur|Person=2|Voice=Cau	1	conjomp	_	[dʒɔɾɯˈdɯdɤ];teach;ensinar
+2	iwo	bo	VERB	v	Number=Sing|Person=1	1	ccomp	_	_
+3	taryduwado	jorydywado	VERB	v	Number=Plur|Person=2|Voice=Cau	1	ccomp	_	[dʒɔɾɯˈdɯdɤ];teach;ensinar
 4	boe	boe	NOUN	n	_	5	nmod	_	_
 5	enogiegidae	okiegidae	NOUN	n	_	3	obl	_	_
 6	ji	ji	ADP	posp	_	5	case	_	_
@@ -109,7 +109,7 @@
 # text = Roiwarewu , mearydaerewu , joryduwarewu emare roino
 # text_eng = 
 # text_por = O que tem capacidade, o que pensa, o que sabe faz assim.
-1	Roiwarewu	roiwa	VERB	v	Nomzr=Rel	6	conjomp	_	_
+1	Roiwarewu	roiwa	VERB	v	Nomzr=Rel	6	ccomp	_	_
 2	,	,	PUNCT	punct	_	6	punct	_	_
 3	mearydaerewu	mearydae	VERB	v	Nomzr=Rel	1	conj	_	_
 4	,	,	PUNCT	punct	_	6	punct	_	_
@@ -121,7 +121,7 @@
 # text = Pegareure rokare ino , mearydae bokwarewu , jordae bokwarewu imedyre, rokare ino , aredyre rokare ino , dyre rokare ino
 # text_eng = 
 # text_por = Mas o ruim não faz assim. O homem, a mulher que não pensa, que não sabe, não faz assim.
-1	Pegareure	pega	VERB	v	Nomzr=Rel	2	conjomp	_	bad;mal,mau,ruim
+1	Pegareure	pega	VERB	v	Nomzr=Rel	2	ccomp	_	bad;mal,mau,ruim
 2	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 3	ino	ino	ADV	adv	_	2	advmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
@@ -139,7 +139,7 @@
 16	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	12	parataxis	_	_
 17	ino	ino	ADV	_	_	16	advmod	_	_
 18	,	,	PUNCT	punct	_	16	punct	_	_
-19	dyre	dy	X	_	_	20	conjomp	_	_
+19	dyre	dy	X	_	_	20	ccomp	_	_
 20	rokare	ro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	16	parataxis	_	_
 
 # sent_id = criacao_01
@@ -399,7 +399,7 @@
 16	boe	boe	NOUN	n	_	15	fixed	_	_
 17	ji	ji	ADP	posp	_	15	obl	_	_
 18	,	,	PUNCT	punct	_	17	punct	_	_
-19	mare	mare	conjONJ	conj	_	24	conj	_	but;mas,porém
+19	mare	mare	CCONJ	conj	_	24	conj	_	but;mas,porém
 20	rakojere	rakoje	VERB	v	Mood=Ind	24	parataxis	_	_
 21	boe	boe	NOUN	n	_	20	nsubj	_	_
 22	eiadadawu	oiado	NOUN	n	Nomzr=Rel	21	acl	_	in.the.middle;no.meio.de
@@ -748,7 +748,7 @@
 # text_por = você viu que os bororo pescaram?
 1	arydyre	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	ewogyre	wogy	VERB	v	Mood=Ind|Number=Plur|Person=3	1	conjomp	_	fish;pescar
+3	ewogyre	wogy	VERB	v	Mood=Ind|Number=Plur|Person=3	1	ccomp	_	fish;pescar
 4	dyji	_	X	x	_	3	mark	_	_
 5	?	?	PUNCT	PUNCT	punct	1	punct	_	_
 
@@ -757,14 +757,14 @@
 # text_eng = (S)he thinks (s)he is pretty
 # text_por = ele(a) pensa que é bonito(a)
 1	mearudaere	mearudae	VERB	_	Mood=Ind	0	root	_	think;pensar
-2	tumotyie	mody	VERB	_	Evident=Rep	1	conjomp	_	be.beautiful;ser.bonito
+2	tumotyie	mody	VERB	_	Evident=Rep	1	ccomp	_	be.beautiful;ser.bonito
 
 # sent_id = ABE-219
 # text = inakore imeruie
 # text_eng = I said (that) I hunted
 # text_por = eu disse que cacei
 1	inakore	ako	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	say;dizer
-2	imeruie	meru	VERB	_	Evident=Rep|Number=Sing|Person=1	1	conjomp	_	hunt;caçar
+2	imeruie	meru	VERB	_	Evident=Rep|Number=Sing|Person=1	1	ccomp	_	hunt;caçar
 
 # sent_id = ABE-220
 # text = iie arigao bito
@@ -779,7 +779,7 @@
 # text_eng = I want to urinate
 # text_por = eu quero urinar
 1	itaidyre	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	want;querer
-2	ikiguruduwo	kigurudu	VERB	v	Mood=Des|Number=Sing|Person=1	1	conjomp	_	urinate;urinar
+2	ikiguruduwo	kigurudu	VERB	v	Mood=Des|Number=Sing|Person=1	1	ccomp	_	urinate;urinar
 
 # sent_id = ABE-222
 # text = boere tugu mototo botuwo
@@ -806,7 +806,7 @@
 # text_eng = You saw me fishing
 # text_por = você me viu pescar
 1	tarydyre	jorydy	VERB	_	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
-2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	conjomp	_	fish;pescar
+2	iwogyi	wogy	VERB	v	Number=Sing|Person=1|VerbForm=Inf	1	ccomp	_	fish;pescar
 3	pobu	_	NOUN	n	_	2	obj	_	pacu;pacu
 4-5	bagaidyji	ji	ADP	posp	_	_	_	_	_
 4	bagaidy	bagaidy	ADP	posp	Number=Sing|Person=3|Subord=Yes	3	case	_	_
@@ -817,7 +817,7 @@
 # text_eng = You saw me not fishing
 # text_por = eles viram eu não pescar
 1	erydyre	järydy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	see;ver
-2	iwogukaidy	wogu	VERB	v	Number=Sing|Person=1|Polarity=Neg|Subord=Yes|VerbForm=Inf	1	conjomp	_	fish;pescar
+2	iwogukaidy	wogu	VERB	v	Number=Sing|Person=1|Polarity=Neg|Subord=Yes|VerbForm=Inf	1	ccomp	_	fish;pescar
 3	ji	ji	ADP	posp	_	1	obl	_	_
 
 # sent_id = ABE-229
@@ -964,7 +964,7 @@
 # text_por = eu acho que o pacu vai ser grande
 1	imearudaere	mearudae	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	pobu	pobu	NOUN	n	_	3	nsubj	_	pacu;pacu
-3	kurimodyie	kuri	VERB	v	Evident=Rep|Tense=Fut	1	conjomp	_	be.big;ser.grande
+3	kurimodyie	kuri	VERB	v	Evident=Rep|Tense=Fut	1	ccomp	_	be.big;ser.grande
 
 # sent_id = ABE-250
 # text = imi iwogure pobu bagai
@@ -1255,7 +1255,7 @@
 # text_eng = ele disse que foi para sua casa
 # text_por = he said he went home (to his house)
 1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	say;dizer
-2	tudyie	ty	VERB	v	Number=Sing|Person=3	1	conjomp	_	_
+2	tudyie	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 3-4	tubaikae	_	_	_	_	_	_	_	_
 3	tubaikae	bai	NOUN	n	Evident=Rep|Number=Sing|Person=3	2	obl	_	_
 4	kae	ai	ADP	n	Number=Sing|Person=3	3	case	_	_
@@ -1268,7 +1268,7 @@
 2-3	tubaikaie	_	_	_	_	_	_	_	_
 2	tubai	bai	NOUN	n	Number=Sing|Person=3	4	obl	_	_
 3	kaie	ai	NOUN	n	Evident=Rep	2	obl	_	to;a
-4	tudyre	ty	VERB	v	Number=Sing|Person=3	1	conjomp	_	go;ir
+4	tudyre	ty	VERB	v	Number=Sing|Person=3	1	ccomp	_	go;ir
 
 # sent_id = ABE-294
 # text = rore
@@ -1322,7 +1322,7 @@
 # text_por = ele matou o peixe que (ele próprio) comeu
 1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	coreferential;coreferencial
 2	ture	tu	PRON	bi	Mood=Ind|Number=Sing|Person=3|Reflex=Yes	3	nsubj	_	_
-3	kowujewy	kowuje	VERB	v	Subord=Yes	5	conjomp	_	_
+3	kowujewy	kowuje	VERB	v	Subord=Yes	5	ccomp	_	_
 4	karo	karo	NOUN	n	_	5	obj	_	_
 5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
@@ -1331,7 +1331,7 @@
 # text_eng = I killed (those that) I fished
 # text_por = eu matei os que eu pesquei
 1	ire	i	PRON	bi	Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	nsubj	_	_
-2	iwogure	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	conjomp	_	_
+2	iwogure	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	ccomp	_	_
 3	bagaiwyge	bagai	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	2	obl	_	_
 4	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
 
@@ -1348,7 +1348,7 @@
 # text_eng = I fished without wanting it
 # text_por = você viu que os bororos pescaramr
 1	iwogure	wogu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	itaidykaredy	aidy	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Sing|Person=1	1	conjomp	_	want;querer
+2	itaidykaredy	aidy	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Sing|Person=1	1	ccomp	_	want;querer
 3	tapo	apo	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = ABE-303
@@ -1357,7 +1357,7 @@
 # text_por = você viu que os bororos pescaram
 1	arydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	ewogure	wogu	VERB	v	Mood=Ind|Number=Plur|Person=3	1	conjomp	_	_
+3	ewogure	wogu	VERB	v	Mood=Ind|Number=Plur|Person=3	1	ccomp	_	_
 4	dyji	ji	ADP	posp	Nomzr=Rel	3	obl	_	_
 
 # sent_id = ABE-304
@@ -1366,7 +1366,7 @@
 # text_por = você viu que os bororos pescaram
 1	arydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	ewogu	wogu	VERB	posp	Number[subj]=Plur|Person[subj]=3	1	conjomp	_	_
+3	ewogu	wogu	VERB	posp	Number[subj]=Plur|Person[subj]=3	1	ccomp	_	_
 4	ji	ji	ADP	posp	_	3	obl	_	_
 
 # sent_id = ABE-305
@@ -1401,7 +1401,7 @@
 2	kaiba	kae	ADV	adv	PronType=Int	5	advmod	_	where;onde
 3	imedyre	imedy	NOUN	n	Mood=Ind	5	nsubj	_	man;homem
 4	karo	karo	NOUN	n	_	5	obj	_	_
-5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	conjomp	_	_
+5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	ccomp	_	_
 
 # sent_id = ABE-312
 # text = ibaimodykare
@@ -1479,9 +1479,9 @@
 2	karo	karo	NOUN	n	_	3	obj	_	fish;peixe
 3	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	give;dar
 4	imedy	imedy	NOUN	n	_	3	obl	_	man;homem
-5	rakydy	rakydy	conjONJ	conjd	_	4	conj	_	or;ou
+5	rakydy	rakydy	CCONJ	ccd	_	4	conj	_	or;ou
 6	negedyrogu	negedyrogu	NOUN	n	_	4	conj	_	child;criança
-7	rakydy	rakydy	conjONJ	conjd	_	6	conj	_	or;ou
+7	rakydy	rakydy	CCONJ	ccd	_	6	conj	_	or;ou
 8	ai	ai	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = ABE-322
@@ -1490,7 +1490,7 @@
 # text_por = Para nós não é pago, mas para vocês é pago
 1	cenai	ai	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	we.(ex);nós.(ex)
 2	morikare	mori	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	pay;pagar
-3	mare	mare	conjONJ	conjad	_	5	conj	_	but;mas
+3	mare	mare	CCONJ	ccad	_	5	conj	_	but;mas
 4	tagai	ai	ADP	posp	Number=Sing|Person=2	5	obl	_	for,to;a,para
 5	morire	morire	VERB	v	Mood=Ind|Number=Sing|Person=3	2	conj	_	pay;pagar
 
@@ -1772,7 +1772,7 @@
 # text_eng = I want to live here with the Bororo
 # text_por = Eu quero morar aqui com os bororos
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
-2	imuguwo	mugu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	conjomp	_	live,be.home,sit;viver,morar,estar.sentado
+2	imuguwo	mugu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
 3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	_
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
@@ -1797,7 +1797,7 @@
 # text_eng = I want to know the traditions of the Bororo
 # text_por = Eu quero conhecer os costumes dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
-2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	conjomp	_	know,learn;saber,aprender
+2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3	boe	boe	NOUN	n	_	4	nmod	_	_
 4-5	eroji	ji	ADP	posp	_	_	_	_	_
 4	ero	ro	NOUN	n	_	2	obl	_	habits,tradition;costume,tradição
@@ -1808,7 +1808,7 @@
 # text_eng = I want to know the language of the Bororo
 # text_por = Eu quero conhecer a língua dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
-2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	conjomp	_	know,learn;saber,aprender
+2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3-4	ewadaruji	ji	ADP	posp	_	_	_	_	_
 3	ewadaru	bataru	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
 4	ji	ji	ADP	posp	Number=Plur|Person=3	3	case	_	_
@@ -1833,7 +1833,7 @@
 # text_eng = I want to live close to the Bororo
 # text_por = Eu quero morar aqui perto dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	imuguwo	mugu	VERB	v	Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	conjomp	_	_
+2	imuguwo	mugu	VERB	v	Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	_
 3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	_
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	_
@@ -1843,7 +1843,7 @@
 # text_eng = I want yo to live here
 # text_por = Eu quero que você more aqui
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	conjomp	_	_
+2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	ccomp	_	_
 3	woe	woe	ADV	adv	_	2	advcl	_	_
 
 # sent_id = CGPB-p31.1
@@ -1851,7 +1851,7 @@
 # text_eng = I want them to learn/know
 # text_por = Eu quero que eles aprendam/conheçam
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|Subord=Yes	1	conjomp	_	_
+2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|Subord=Yes	1	ccomp	_	_
 
 # sent_id = CGPB-p31.2
 # text = Imagore akabo João ji
@@ -2062,7 +2062,7 @@
 # text_por = As pessoas não querem trabalhar hoje, porque elas cantaram a noite inteira.
 1	Boe	boe	NOUN	n	_	2	nmod	_	_
 2	etaidukare	aidu	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
-3	tumaragodywo	ragodu	VERB	v	Number=Plur|Person=3|Reflex=Yes	2	conjomp	_	work;trabalhar
+3	tumaragodywo	ragodu	VERB	v	Number=Plur|Person=3|Reflex=Yes	2	ccomp	_	work;trabalhar
 4	awu	_	DET	dem	_	5	nmod	_	this;este,esta
 5-6	meriji	ji	ADP	posp	_	_	_	_	_
 5	meri	meri	NOUN	n	_	2	obl	_	day;dia
@@ -2106,7 +2106,7 @@
 5	bu	bu	VERB	v	_	0	root	_	put,place;pôr,colocar
 6	kajeje	kajeje	ADP	posp	_	5	obl	_	around;ao.redor,em.volta
 7	.	.	PUNCT	punct	_	5	punct	_	_
-8	Mare	mare	conjONJ	conjonj	_	12	conj	_	but;mas
+8	Mare	mare	CCONJ	cconj	_	12	conj	_	but;mas
 9	woere	woe	ADV	adv	Mood=Ind	12	advmod	_	here;aqui
 10	boe	boe	NOUN	n	_	12	nsubj	_	_
 11	emode	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
@@ -2198,7 +2198,7 @@
 1	Tare	ta	X	bi	Mood=Ind|Number=Plur|Person=2	4	dep	_	_
 2	ju	ju	NOUN	n	_	4	obj	_	[dʒu];manioc;mandioca
 3	ika	ika	NOUN	n	_	2	nmod	_	_
-4	tugu	tugu	VERB	v	Number=Sing|Person=3	6	conjomp	_	[tɯɡʷu];plant;plantar
+4	tugu	tugu	VERB	v	Number=Sing|Person=3	6	ccomp	_	[tɯɡʷu];plant;plantar
 5	mototody	moto	NOUN	n	Voice=Cau	4	compound	_	earth;terra
 6	pemegare	pemega	NOUN	n	Number=Sing|Person=3	0	root	_	_
 
@@ -2232,7 +2232,7 @@
 # text_eng = 
 # text_por = Vi você trabalhando na roça
 1	Iorydyre	jordy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	amaragädui	maragädu	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	conjomp	_	[maɾaɣʌdɨ];work;trabalhar
+2	amaragädui	maragädu	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	ccomp	_	[maɾaɣʌdɨ];work;trabalhar
 3	boepa	boepa	NOUN	n	_	2	obl	_	_
 4	tada	tada	ADP	posp	_	3	case	_	inside;dentro.de
 5	dy	dy	PART	prcl	Nomzr=Rel	2	dep	_	_
@@ -2243,7 +2243,7 @@
 # text_eng = 
 # text_por = Falou que iria trabalhar
 1	Akore	ako	VERB	v	_	0	root	_	_
-2	tumaragädymodyie	maragädy	VERB	v	Mood=Ind|Number=Sing|Person=3|Speech=Ind|Tense=Fut	1	conjomp	_	_
+2	tumaragädymodyie	maragädy	VERB	v	Mood=Ind|Number=Sing|Person=3|Speech=Ind|Tense=Fut	1	ccomp	_	_
 3	dy	dy	PART	prcl	_	2	dep	_	_
 4	ji	ji	ADP	posp	_	2	obl	_	_
 
@@ -2261,7 +2261,7 @@
 # text = Akodumode kawaru tabo dy pegakare
 # text_eng = 
 # text_por = o fato de você ir a cavalo não é mau
-1	Akodumode	tu	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	5	conjomp	_	_
+1	Akodumode	tu	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	5	ccomp	_	_
 2	kawaru	kawaru	NOUN	n	_	1	obl	_	_
 3	tabo	tabo	ADP	posp	_	2	case	_	_
 4	dy	dy	PART	prcl	_	1	dep	_	_
@@ -2332,7 +2332,7 @@
 # text_por = Eu sei onde você vai caçar
 1	Iorudyware	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	kaiba	kaiba	ADV	adv	_	3	advmod	_	_
-3	amerumode	meru	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	1	conjomp	_	_
+3	amerumode	meru	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	1	ccomp	_	_
 4	dy	dy	X	x	_	3	dep	_	_
 5	ji	i	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
@@ -2341,7 +2341,7 @@
 # text_eng = 
 # text_por = Eu sei onde você vai caçar
 1	Iorudyware	jorydywa	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	amerumodewujy	meru	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=2|Tense=Fut	1	conjomp	_	_
+2	amerumodewujy	meru	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=2|Tense=Fut	1	ccomp	_	_
 
 # sent_id = 0057g.PessGr
 # text = Adugo aregodyre juko rakojere kejeboe kae
@@ -2379,7 +2379,7 @@
 # text_eng = 
 # text_por = escutei que me chamava
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-2	makoi	mako	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	conjomp	_	_
+2	makoi	mako	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	ccomp	_	_
 3	iwagai	bagai	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 4	dy	dy	X	x	_	2	mark	_	_
 5	ji	i	ADP	posp	Number=Sing|Person=3	2	mark	_	_
@@ -2401,7 +2401,7 @@
 # text_eng = 
 # text_por = Escutei o que lhe disse
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	conjomp	_	_
+2	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	ccomp	_	_
 3	jity	jity	X	x	_	2	mark	_	_
 4	ji	ji	ADP	posp	_	2	case	_	_
 
@@ -2465,7 +2465,7 @@
 # text_por = Sei o lugar onde o homem vai falar
 1	Iorudyware	jorydywa	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	imedu	imedu	NOUN	n	_	3	nsubj	_	_
-3	makomodewy	mako	VERB	v	Nomzr=Rel|Number=Sing|Person=1|Tense=Fut	1	conjomp	_	_
+3	makomodewy	mako	VERB	v	Nomzr=Rel|Number=Sing|Person=1|Tense=Fut	1	ccomp	_	_
 4	ji	ji	ADP	posp	_	3	case	_	_
 
 # sent_id = 0058.PessGr
@@ -2652,7 +2652,7 @@
 2	etore	etore	NOUN	n	_	1	compound	_	_
 3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	dep	_	_
 4	ipare	ipare	NOUN	n	_	5	nsubj	_	[i'paɾe];young.person;jovem
-5	ereruidy	reru	VERB	v	Nomzr=Rel|VerbForm=Ger	6	conjomp	_	['ɾɛɾu];dance;dançar
+5	ereruidy	reru	VERB	v	Nomzr=Rel|VerbForm=Ger	6	ccomp	_	['ɾɛɾu];dance;dançar
 6	kado	kado	VERB	v	_	0	root	_	['kadɔ];cut,interrupt;cortar,interromper
 
 # sent_id = 0067k.PessGr
@@ -2660,7 +2660,7 @@
 # text_eng = 
 # text_por = Escutei que você me falava
 1	Imearydyre	_	VERB	v	_	0	root	_	_
-2	amagoi	mako	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	conjomp	_	_
+2	amagoi	mako	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	ccomp	_	_
 3	inai	_	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 4	dy	dy	PART	prcl	_	2	mark	_	_
 5	ji	ji	ADP	posp	_	1	obl	_	_
@@ -2670,7 +2670,7 @@
 # text_eng = 
 # text_por = escutei o que você me falou
 1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=1	1	conjomp	_	_
+2	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=1	1	ccomp	_	_
 3	inai	ai	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 4	dy	dy	PART	prcl	_	2	mark	_	_
 5	ji	ji	ADP	posp	_	1	obl	_	_
@@ -2680,7 +2680,7 @@
 # text_eng = 
 # text_por = Você falou que ia dançar
 1	Amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
-2	arerumodyie	_	VERB	v	Mood=Irr|Number=Sing|Person=2|Speech=Ind|Tense=Fut	1	conjomp	_	_
+2	arerumodyie	_	VERB	v	Mood=Irr|Number=Sing|Person=2|Speech=Ind|Tense=Fut	1	ccomp	_	_
 3	dy	dy	PART	prcl	_	2	mark	_	_
 4	ji	ji	ADP	posp	_	1	obl	_	_
 
@@ -2689,7 +2689,7 @@
 # text_eng = 
 # text_por = eu vi que você dançava no pátio
 1	Iorudyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	arerui	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	conjomp	_	_
+2	arerui	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	ccomp	_	_
 3	bororo	bororo	NOUN	n	_	2	obl	_	_
 4	ji	ji	ADP	posp	_	3	case	_	_
 5	ty	dy	PART	prcl	_	2	mark	_	_
@@ -2702,7 +2702,7 @@
 1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	2	nsubj	_	_
 2	imearudae	mearudy	NOUN	n	Number=Sing|Person=1	3	obj	_	_
 3	tugu	tugu	VERB	v	Number=Sing|Person=3	0	root	_	_
-4	amagoi	mako	VERB	v	Number=Sing|Person=2|VerbForm=Ger	3	conjomp	_	_
+4	amagoi	mako	VERB	v	Number=Sing|Person=2|VerbForm=Ger	3	ccomp	_	_
 5	inai	ai	ADP	posp	Number=Sing|Person=1	4	obl	_	_
 6	dyto	dyto	X	x	_	4	dep	_	_
 
@@ -2711,7 +2711,7 @@
 # text_eng = I forgot that which you told me
 # text_por = Esqueci aquilo que você me falou
 1	Iwiagodure	biagodu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	1	conjomp	_	_
+2	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	1	ccomp	_	_
 3	inaidy	ai	ADP	posp	Nomzr=Rel|Number=Sing|Person=2	2	obl	_	_
 4	piji	piji	ADP	posp	_	1	obl	_	_
 
