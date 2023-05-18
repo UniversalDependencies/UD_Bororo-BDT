@@ -2680,7 +2680,7 @@
 # text_eng = 
 # text_por = Você falou que ia dançar
 1	Amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
-2	arerumodyie	_	VERB	v	Disc=Ind|Mood=Irr|Number=Sing|Person=2|Tense=Fut	1	ccomp	_	_
+2	arerumodyie	_	VERB	v	Mood=Irr|Number=Sing|Person=2|Tense=Fut|Speech=Ind	1	ccomp	_	_
 3	dy	dy	PART	prcl	_	2	mark	_	_
 4	ji	ji	ADP	posp	_	1	obl	_	_
 
