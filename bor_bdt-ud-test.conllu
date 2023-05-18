@@ -1219,14 +1219,13 @@
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = ABE-282
-# text = kaeba kaba kejeba arydyre adugoji ?
+# text = kaeba kaba kejeba arydyre adugo ji ?
 # text_eng = Where and when did you see the jaguar?
 # text_por = onde e quando você viu a onça?
 1	kaeba	kae	ADP	posp	Int=Yes	4	obl	_	to;a
 2	kaba	ka	ADV	adv	Int=Yes	1	case	_	how;como
 3	kejeba	keje	ADP	posp	Int=Yes	1	conj	_	on;sobre
 4	arydyre	jorydyre	VERB	v	_	0	root	_	see;ver
-5-6	adugoji	ji	ADP	posp	_	_	_	_	jaguar;onça
 5	adugo	adugo	NOUN	n	_	4	iobj	_	jaguar;onça
 6	ji	ji	ADP	posp	_	5	case	_	_
 7	?	?	PUNCT	PUNCT	_	4	punct	_	_
@@ -1331,12 +1330,10 @@
 # text = ire iwogure bagaiwyge ebito
 # text_eng = I killed (those that) I fished
 # text_por = eu matei os que eu pesquei
-1	ire	i	PRON	bi	Mood=Ind|Number[subj]=Sing|Person[subj]=1	5	nsubj	_	_
-2	iwogure	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	5	ccomp	_	_
-3-4	bagaiwyge	_	_	_	_	_	_	_	_
-3	bagai	bagai	ADP	posp	Number=Sing|Person=3	2	obl	_	_
-4	wyge	wy	X	x	Number=Plur|Subord=Yes	2	dep	_	relativizer;relativo
-5	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
+1	ire	i	PRON	bi	Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	nsubj	_	_
+2	iwogure	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	ccomp	_	_
+3	bagaiwyge	bagai	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	2	obl	_	_
+4	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
 
 # sent_id = ABE-301
 # text = iwogure buke tapo
@@ -1364,30 +1361,28 @@
 4	dyji	ji	ADP	posp	Nomzr=Rel	3	obl	_	_
 
 # sent_id = ABE-304
-# text = arydyre boe ewoguji
+# text = arydyre boe ewogu ji
 # text_eng = Did you see (that) the Bororo fished
 # text_por = você viu que os bororos pescaram
 1	arydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3-4	ewoguji	ji	ADP	posp	_	_	_	_	_
 3	ewogu	wogu	VERB	posp	Number[subj]=Plur|Person[subj]=3	1	ccomp	_	_
 4	ji	ji	ADP	posp	_	3	obl	_	_
 
 # sent_id = ABE-305
-# text = boecoji boe emerure taiwore kuiejedogei dytabo
+# text = boecoji boe emerure taiwore kuiejedoge i dytabo
 # text_eng = At night the Bororo hunt by looking at the stars 
 # text_por = à noite os bororo caçam se orientando pelas estrelas
 1	boecoji	boecoji	ADV	adv	_	3	advmod	_	at.night;à.noite,de.noite
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	emerure	meru	VERB	v	Mood=Ind|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
 4	taiwore	aiwo	VERB	v	Mood=Ind|Number=Sing|Person=3	3	obl	_	_
-5-6	kuiejedogei	_	_	_	_	_	_	_	_
 5	kuiejedoge	kuiejedoge	NOUN	n	_	4	obl	_	star;estrela
 6	i	ji	ADP	n	Number=Plur|Person=3	5	case	_	_
 7	dytabo	tabo	ADP	posp	Nomzr=Rel	4	case	_	with;com
 
 # sent_id = ABE-306
-# text = boecoji boe emerure taiwo tabo kuiejedogei
+# text = boecoji boe emerure taiwo tabo kuiejedoge i
 # text_eng = At night the Bororo hunt by looking at the stars 
 # text_por = à noite os bororo caçam se orientando pelas estrelas
 1	boecoji	boecoji	ADV	adv	_	3	advmod	_	at.night;à.noite
@@ -1395,7 +1390,6 @@
 3	emerure	meru	VERB	v	Mood=Ind|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
 4	taiwo	aiwo	VERB	v	Number=Sing|Person=3	3	obl	_	see;ver
 5	tabo	tabo	ADP	posp	_	4	case	_	_
-6-7	kuiejedogei	_	_	_	_	_	_	_	_
 6	kuiejedoge	_	NOUN	n	_	4	obl	_	star;estrela
 7	i	ji	ADP	posp	Number=Plur|Person=3	6	case	_	_
 
@@ -1861,14 +1855,13 @@
 2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|Subord=Yes	1	ccomp	_	_
 
 # sent_id = CGPB-p31.2
-# text = Imagore akabo Joãoji
+# text = Imagore akabo João ji
 # text_eng = I spoke to you about João
 # text_por = Eu falei com você sobre o João
 1	Imagore	mako	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	speak;falar
 2-3	akabo	_	_	_	_	_	_	_	_
 2	ak	a	PRON	bi	Number=Sing|Person=2	1	obl	_	_
 3	abo	apo	ADP	posp	_	2	case	_	_
-4-5	Joãoji	ji	ADP	posp	_	_	_	_	_
 4	João	João	PROPN	propn	_	1	obl	_	_
 5	ji	ji	ADP	posp	_	4	case	_	_
 
