@@ -2785,6 +2785,16 @@
 10	adugo	_	NOUN	_	_	11	nsubj	_	[aˈdɯɡʷɔ];jaguar;onça
 11	aregodyre	_	VERB	_	_	4	advcl	_	_
 
+# sent_id = 0068c.PessGr
+# text = Aregodyre jawujiwu aredy uture pugeje
+# text_eng = 
+# text_por = a mulher que veio ontem foi embora de novo
+1	Aregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	4	acl	_	_
+2	jawujiwu	jawujiwu	ADV	adv	_	1	advmod	_	_
+3	aredy	aredy	NOUN	n	Number=Sing	4	nsubj	_	[aˈɾɛdɨ];woman;mulher
+4	uture	tu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	pugeje	pugeje	ADV	adv	_	4	advmod	_	[puˈɡḛdʒe];again,still;aind,de.novo,novamente
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
