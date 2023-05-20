@@ -2745,6 +2745,19 @@
 3	inaidy	ai	ADP	posp	Nomzr=Rel|Number=Sing|Person=2	2	obl	_	_
 4	piji	piji	ADP	posp	_	1	obl	_	_
 
+# sent_id = 0067q.PessGr
+# text = Aroe etaregodymode dykeje, boekuru bytymode baito
+# text_eng = 
+# text_por = Quando as almas chegarem, a canjica será levada para a casa central
+1	Aroe	aroe	NOUN	n	_	2	nsubj	_	[aˈɾɔɛ̯];soul.(of.the.dead);alma.(dos.mortos)
+2	etaregodymode	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Fut	6	advcl	_	_
+3	dykeje	dykeje	SCONJ	sconj	_	2	mark	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	boekuru	boekuru	NOUN	n	_	6	nsubj	_	_
+6	bytymode	byty	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	[bɯtɨ];move,take;levar,mover
+7	bai	bai	NOUN	n	_	6	obl	_	_
+8	to	to	ADP	posp	_	7	case	_	_
+
 # sent_id = 0068a.PessGr
 # text = Ipere ererure , dykejere ere taimo
 # text_eng = The young men danced and bathed afterwards
