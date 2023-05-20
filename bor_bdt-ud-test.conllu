@@ -2792,7 +2792,7 @@
 1	Aregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	4	acl	_	_
 2	jawujiwu	jawujiwu	ADV	adv	_	1	advmod	_	_
 3	aredy	aredy	NOUN	n	Number=Sing	4	nsubj	_	[aˈɾɛdɨ];woman;mulher
-4	uture	tu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	pugeje	pugeje	ADV	adv	_	4	advmod	_	[puˈɡḛdʒe];again,still;aind,de.novo,novamente
 
 # sent_id = 0068d.PessGr
@@ -2803,13 +2803,22 @@
 2	maiwydä	maiwy	NOUN	n	Gender=Fem|Nomzr=Rel|Number=Sing|Person=3	1	acl	_	_
 3	rerugodyre	rerugody	VERB	Mood=Ind|Number=Sing|Person=3	_	0	root	_	_
 
-# sent_id = 00711.PessGr
+# sent_id = 0071a.PessGr
 # text = imagoi oino dykeje
 # text_eng = 
 # text_por = tendo eu falado assim
 1	imagoi	mako	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 2	oino	oino	ADV	adv	_	1	advmod	_	_
 3	dykeje	dykeje	X	x	_	1	mark	_	_
+
+# sent_id = 0071b.PessGr
+# text = aregodyre turoi oino dytabo
+# text_eng = 
+# text_por = chegou fazendo assim
+1	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	turoi	ro	VERB	v	Reflex=Yes|VerbForm=Ger	1	xcomp	_	_
+3	oino	oino	ADV	adv	_	2	advmod	_	_
+4	dytabo	dytabo	SCONJ	_	_	2	mark	_	_
 
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
