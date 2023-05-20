@@ -2803,6 +2803,14 @@
 2	maiwydä	maiwy	NOUN	n	Gender=Fem|Nomzr=Rel|Number=Sing|Person=3	1	acl	_	_
 3	rerugodyre	rerugody	VERB	Mood=Ind|Number=Sing|Person=3	_	0	root	_	_
 
+# sent_id = 00711.PessGr
+# text = imagoi oino dykeje
+# text_eng = 
+# text_por = tendo eu falado assim
+1	imagoi	mako	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+2	oino	oino	ADV	adv	_	1	advmod	_	_
+3	dykeje	dykeje	X	x	_	1	mark	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
