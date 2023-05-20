@@ -2870,6 +2870,13 @@
 2	kana	kana	PART	prcl	Foc=Yes|Int=Yes	1	dep	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 0072a.PessGr
+# text = maragädydädyre .
+# text_eng = 
+# text_por = Foi feito trabalhar
+1	maragädydädyre	maragädydä	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	_	_	_
+2	.	.	PUNCT	punct	_	1	_	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
