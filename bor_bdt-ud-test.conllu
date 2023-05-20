@@ -2800,7 +2800,7 @@
 # text_eng = 
 # text_por = a mulher que é nova dança
 1	Aredy	aredy	NOUN	n	Number=Sing	3	nsubj	_	_
-2	maiwydä	maiwy	NOUN	n	Number=Sing|Person=3|Voice=Cau	1	acl	_	_
+2	maiwydä	maiwy	NOUN	n	Gender=Fem|Nomzr=Rel|Number=Sing|Person=3	1	acl	_	_
 3	rerugodyre	rerugody	VERB	Mood=Ind|Number=Sing|Person=3	_	0	root	_	_
 
 # sent_id = 0099a.PessGr
