@@ -2795,7 +2795,8 @@
 4	uture	tu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 5	pugeje	pugeje	ADV	adv	_	4	advmod	_	[puˈɡḛdʒe];again,still;aind,de.novo,novamente
 
-# text = Aredy maiwudo rerugodyre
+# sent_id = 0068d.PessGr
+# text = Aredy maiwydä rerugodyre
 # text_eng = 
 # text_por = a mulher que é nova dança
 1	Aredy	aredy	NOUN	n	Number=Sing	3	nsubj	_	_
