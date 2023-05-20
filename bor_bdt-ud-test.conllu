@@ -2877,6 +2877,13 @@
 1	maragädydädyre	maragädydä	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	_	_	_
 2	.	.	PUNCT	punct	_	1	_	_	_
 
+# sent_id = 0072b.PessGr
+# text = ere pumaky
+# text_eng = They gave themselves to each other
+# text_por = Eles se deram um ao outro
+1	ere	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	2	nsubj	_	_
+2	pumaku	maky	VERB	_	PronType=Bi|Reflex=Yes	0	root	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
