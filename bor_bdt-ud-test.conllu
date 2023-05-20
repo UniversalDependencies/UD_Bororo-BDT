@@ -2746,7 +2746,7 @@
 4	piji	piji	ADP	posp	_	1	obl	_	_
 
 # sent_id = 0067q.PessGr
-# text = Aroe etaregodymode dykeje, boekuru bytymode baito
+# text = Aroe etaregodymode dykeje , boekuru bytymode baito
 # text_eng = 
 # text_por = Quando as almas chegarem, a canjica será levada para a casa central
 1	Aroe	aroe	NOUN	n	_	2	nsubj	_	[aˈɾɔɛ̯];soul.(of.the.dead);alma.(dos.mortos)
