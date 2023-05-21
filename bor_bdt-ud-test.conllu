@@ -2845,11 +2845,11 @@
 2	nure	nu	X	x	Aspect=Prog|Mood=Ind	1	dep	_	_
 
 # sent_id = 0071f.PessGr
-# text = kaeba bogaiba akaregodyre ? 
+# text = kaeba bogaiba akaregodyre ?
 # text_eng = 
 # text_por = para quê você veio?
 1	kaeba	kaeba	ADV	adv	_	3	advmod	_	_
-2	bogaiba	bogai	ADP	posp	Int=Yes	3	advmod	_	_
+2	bogaiba	bogai	ADV	adv	Int=Yes	3	advmod	_	_
 3	akaregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -2857,7 +2857,7 @@
 # text = aki na akaregodyre ?
 # text_eng = 
 # text_por = foi você que chegou?
-1	aki	aki	PRON	pron	Number=sing|Person=2|PronType=Prs	3	nsubj	_	_
+1	aki	aki	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	na	na	PART	prcl	Foc=Yes|Int=Yes	1	dep	_	_
 3	akaregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 4	?	?	PUNCT	punct	_	3	punct	_	_
