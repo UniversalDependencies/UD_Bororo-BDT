@@ -2854,9 +2854,9 @@
 4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 0071g.PessGr
-# text = aki na akaregodyre ? 
+# text = aki na akaregodyre ?
 # text_eng = 
-# text_por = foi você que chegou?)
+# text_por = foi você que chegou?
 1	aki	aki	PRON	pron	Number=sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	na	na	PART	prcl	Foc=Yes|Int=Yes	1	dep	_	_
 3	akaregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=2	_	_	_	_
@@ -2871,10 +2871,10 @@
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0072a.PessGr
-# text = maragädydädyre .
+# text = Maragädydädyre .
 # text_eng = 
 # text_por = Foi feito trabalhar
-1	maragädydädyre	maragädydä	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	_	_	_
+1	Maragädydädyre	maragädydä	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	_	_	_
 2	.	.	PUNCT	punct	_	1	_	_	_
 
 # sent_id = 0072b.PessGr
@@ -2892,7 +2892,7 @@
 2	maragädydä	maragädy	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 0072d.PessGr
-# text = ire iwai kurido
+# text = ire iwai kuridä
 # text_eng = I increased my house
 # text_por = Eu aumentei minha casa
 1	ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|PronType=Bi	3	nsubj	_	_
@@ -2935,7 +2935,7 @@
 # text_eng = 
 # text_por = Quem fôr comigo vencerá
 1	kodumode	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	acl	_	_
-2	itabowy	apo	ADP	posp	Number=Sing|Nomzr=Rel|Person=3|PronType=Bi	1	obl	_	_
+2	itabowy	apo	ADP	posp	Nomzr=Rel|Number=Sing|Person=3|PronType=Bi	1	obl	_	_
 3	umode	u	PRON	bi	Number=Sing|Person=3|PronType=Bi|Tense=Fut	4	nsubj	_	_
 4	tumorido	morido	VERB	v	Reflex=Yes	0	root	_	_
 
