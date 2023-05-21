@@ -2884,6 +2884,43 @@
 1	ere	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	2	nsubj	_	_
 2	pumaku	maky	VERB	_	PronType=Bi|Reflex=Yes	0	root	_	_
 
+# sent_id = 0072c.PessGr
+# text = Ire maragädydä
+# text_eng = I made him work
+# text_por = Eu o fiz trabalhar
+1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|PronType=Bi	2	nsubj	_	_
+2	maragädydä	maragädy	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 0072d.PessGr
+# text = ire iwai kurido
+# text_eng = I increased my house
+# text_por = Eu aumentei minha casa
+1	ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|PronType=Bi	3	nsubj	_	_
+2	iwai	bai	NOUN	n	Number=Sing|Person=1|PronType=Bi	3	obj	_	_
+3	kuridä	kuri	NOUN	n	Voice=Cau	0	root	_	_
+
+# sent_id = 0072e.PessGr
+# text = Aregodyre tumaragädywy
+# text_eng = He came (in order) to work
+# text_por = Veio para trabalhar
+1	Aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3|PronType=Bi	0	root	_	_
+2	tumaragädywy	maragädy	VERB	v	Nomzr=Rel|Number=Sing|Person=3|PronType=Bi|Reflex=Yes	1	xcomp	_	_
+
+# sent_id = 0072f.PessGr
+# text = Mako pemegare
+# text_eng = He spoke well
+# text_por = Ele falou bem
+1	Mako	mako	VERB	v	Number=Sing|Person=3	0	root	_	_
+2	pemegare	pemega	ADV	adv	Mood=Ind	1	advmod	_	_
+
+# sent_id = 0072g.PessGr
+# text = Tamaragädyi woedy pemegare
+# text_eng = 
+# text_por = (O fato de) você trabalhar aqui é bom
+1	Tamaragädyi	maragädy	VERB	v	Number=Plur|Person=2|VerbForm=Ger	3	ccomp	_	_
+2	woedy	woe	ADV	adv	Nomzr=Clau	1	advmod	_	_
+3	pemegare	pemega	NOUN	n	Mood=Ind	0	root	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
