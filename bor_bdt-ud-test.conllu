@@ -2956,8 +2956,8 @@
 # text = ure akuno
 # text_eng = 
 # text_por = Ele te alimentou
-1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
-2	akuno	kuno	VERB	vt	Number=Sing|Person=2	0	root	_	feed;alimentar
+1	Pedrore	Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
+2	akuno	kuno	VERB	v	Number=Sing|Person=2	0	root	_	feed;alimentar
 
 # sent_id = 0075b.PessGr
 # text = Pedrore akuno
