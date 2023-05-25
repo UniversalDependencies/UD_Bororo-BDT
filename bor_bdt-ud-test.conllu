@@ -3040,3 +3040,14 @@
 3	boe	boe	NOUN	n	_	4	obj	_	_
 4	maky	maky	VERB	v	_	0	root	_	_
 
+# sent_id = 00FFW.antonioWhatsApp.1
+# text = Kaba kejeba atumode mato cewugai pugeje ?
+# text_eng = 
+# text_por = Quando você virá à nossa terra novamente?
+1	Kaba	kaba	ADV	adv	PronType=Int	3	advmod	_	_
+2	kejeba	keje	ADV	adv	Int=Yes	1	dep	_	_
+3	atumode	atumode	VERB	vi	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	_	_
+4	mato	mato	NOUN	n	_	3	obl	_	_
+5	cewugai	kai	ADP	posp	Clusivity=Ex|Number=Plur|Person=1|Nomzr=Rel	4	case	_	_
+6	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
+
