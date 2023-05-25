@@ -2953,18 +2953,18 @@
 1	imaragodyrumode	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
 
 # sent_id = 0075a.PessGr
-# text = Pedrore akuno
+# text = Ure akuno
 # text_eng = 
 # text_por = Ele te alimentou
-1	Pedrore	Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
-2	akuno	kuno	VERB	v	Number=Sing|Person=2	0	root	_	feed;alimentar
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	akuno	kuno	VERB	vt	Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 0075b.PessGr
 # text = Pedrore akuno
 # text_eng =
 # text_por = Pedro te alimentou
-1	Pedrore	Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
-2	akuno	kuno	VERB	v	Number=Sing|Person=2	0	root	_	_
+1	Pedrore	Pedro	PROPN	propn	_	2	nsubj	_	_
+2	akuno	kuno	VERB	vt	Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 0076a.PessGr
 # text = Ure ki bito
