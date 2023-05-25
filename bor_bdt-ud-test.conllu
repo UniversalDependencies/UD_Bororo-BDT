@@ -2939,6 +2939,64 @@
 3	umode	u	PRON	bi	Number=Sing|Person=3|PronType=Bi|Tense=Fut	4	nsubj	_	_
 4	tumorido	morido	VERB	v	Reflex=Yes	0	root	_	_
 
+# sent_id = 0073a.PessGr
+# text = aregodyre tumaragodywo
+# text_eng = 
+# text_por = (Ele) veio para trabalhar
+1	aregodyre	aregody	VERB	vi	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+2	tumaragodywo	maragody	VERB	v	Nomzr=Rel|Reflex=Yes	1	xcomp	_	_
+
+
+# sent_id = 0073b.PessGr
+# text = imaragodyrumode 
+# text_eng = 
+# text_por = terei que trabalhar
+1	imaragodyrumode	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	_	_	_
+
+# sent_id = 0075a.PessGr
+# text = ure akuno
+# text_eng = 
+# text_por = Ele te alimentou
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	akuno	kuno	VERB	vt	Number=Sing|Person=2	0	root	_	feed;alimentar
+
+# sent_id = 0075b.PessGr
+# text = Pedrore akuno
+# text_eng = 
+# text_por = Pedro te alimentou
+1	Pedrore Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
+2	akuno	kuno	VERB	v	Number=Sing|Person=2	0	root	_	_
+
+# sent_id = 0076a.PessGr
+# text = Ure ki bito
+# text_eng = 
+# text_por = Ele matou a onça
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+2	ki	ki	NOUN	n	_	3	obj	_	_
+3	bito	bito	VERB	vt	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 0076b.PessGr
+# text = Ure bito
+# text_eng = 
+# text_por = Ele a/o matou
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	bito	bito	VERB	vt	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 0077a.PessGr
+# text = Ure tore etaimo
+# text_eng = 
+# text_por = Ela deu banho nos seus filhos
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+2	tore	tore	NOUN	n	Number=Plur|Person=3	3	obj	_	children,sons;filhos
+3	etaimo	taimo	VERB	vt	Number=Plur|Person=3	0	root	_	_
+
+# sent_id = 0077b.PessGr
+# text = ure tugirimi
+# text_eng = 
+# text_por = ele voltou
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	_	_	_
+2	tugirimi	kirimi	VERB	v	Reflex=Yes	0	root	_	[kʰiˑɾimi];return;voltar
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
