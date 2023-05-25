@@ -2996,6 +2996,22 @@
 1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	tugirimi	kirimi	VERB	v	Reflex=Yes	0	root	_	[kʰiˑɾimi];return;voltar
 
+# sent_id = 0078a.PessGr
+# text = Ure ido maky
+# text_eng = 
+# text_por = Ele me fez dar
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	ido	i	PRON	bi	Number=Sing|Person=1|PronType=Bi|Voice=Cau	0	root	_	_
+3	maky	maky	VERB	vt	_	2	xcomp	_	_
+
+# sent_id = 0078b.PessGr
+# text = Are udo ewido
+# text_eng = 
+# text_por = Você o fez matá-los
+1	Are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|PronType=Bi	2	nsubj	_	_
+2	udo	u	PRON	bi	Number=Sing|Person=3|PronType=Bi|Voice=Cau	0	root	_	_
+3	ewido	bito	VERB	v	Number=Plur|Person=3	2	xcomp	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
