@@ -2947,7 +2947,7 @@
 2	tumaragodywo	maragody	VERB	v	Nomzr=Rel|Reflex=Yes	1	xcomp	_	_
 
 # sent_id = 0073b.PessGr
-# text = imaragodyrumode 
+# text = imaragodyrumode
 # text_eng = 
 # text_por = terei que trabalhar
 1	imaragodyrumode	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
@@ -2963,7 +2963,7 @@
 # text = Pedrore akuno
 # text_eng = 
 # text_por = Pedro te alimentou
-1	Pedrore Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
+1	Pedrore	Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
 2	akuno	kuno	VERB	v	Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 0076a.PessGr
