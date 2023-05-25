@@ -2961,7 +2961,7 @@
 
 # sent_id = 0075b.PessGr
 # text = Pedrore akuno
-# text_eng = 
+# text_eng =
 # text_por = Pedro te alimentou
 1	Pedrore	Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
 2	akuno	kuno	VERB	v	Number=Sing|Person=2	0	root	_	_
