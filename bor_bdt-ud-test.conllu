@@ -2953,7 +2953,7 @@
 1	imaragodyrumode	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
 
 # sent_id = 0075a.PessGr
-# text = ure akuno
+# text = Pedrore akuno
 # text_eng = 
 # text_por = Ele te alimentou
 1	Pedrore	Pedro	PROPN	propn	Mood=Ind	_	2	nsubj	_	_
@@ -2993,7 +2993,7 @@
 # text = ure tugirimi
 # text_eng = 
 # text_por = ele voltou
-1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	_	_	_
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	tugirimi	kirimi	VERB	v	Reflex=Yes	0	root	_	[kʰiˑɾimi];return;voltar
 
 # sent_id = 0099a.PessGr
