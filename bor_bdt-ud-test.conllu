@@ -3012,6 +3012,42 @@
 2	udo	u	PRON	bi	Number=Sing|Person=3|PronType=Bi|Voice=Cau	0	root	_	_
 3	ewido	bito	VERB	v	Number=Plur|Person=3	2	xcomp	_	_
 
+# sent_id = 0086a.PessGr
+# text = Cere pubarigu pobo to
+# text_eng = 
+# text_por = nos jogamos uns aos outro na água
+1	Cere	cere	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|PronType=Bi	2	nsubj	_	_
+2	pubarigu	barigu	VERB	v	Refelex=Yes	0	root	_	[baˈɾiɡɨ],[baˈɾiɡʷu];loose,throw.away,pour;perder,jogar.fora,derramar
+3	pobo	pobo	NOUN	n	_	2	obl	_	_
+4	to	to	ADP	posp	_	3	case	_	_
+
+# sent_id = 0087a.PessGr
+# text = Cedaiwore pui
+# text_eng = 
+# text_por =  olhamo nos mutuamente
+1	Cedaiwore	aiwo	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|PronType=Prs	0	root	_	[ˈaiwɔ];look.at;olhar
+2	pui	i	ADP	posp	Reflex=Yes	1	obl	_	_
+
+# sent_id = 0088a.PessGr
+# text = Pedro akore tumodyie kare ewido
+# text_eng = 
+# text_por = Pedro falou que ele mesmo mataria peixes
+1	Pedro	Pedro	PROPN	propn	_	2	nsubj	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+3	tumodyie	ty	PRON	bi	Mood=Irr|Reflex=Yes|Tense=Fut|PronType=Bi	2	dep	_	_
+4	kare	kare	NOUN	n	_	5	obj	_	_
+5	ewido	bito	VERB	vt	Number=Plur|Person=3	2	ccomp	_	_
+
+# sent_id = 0088b.PessGr
+# text = Pedro uture tuwo kare ewido
+# text_eng = 
+# text_por = Pedro foi para (ele mesmo) matar peixes
+1	Pedro	Pedro	PROPN	_	_	2	nsubj	_	_
+2	uture	tu	VERB	vi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	tuwo	tu	PRON	bi	Nomzr=Rel|Reflex=Yes	5	nsubj	_	_
+4	kare	kare	NOUN	n	_	5	obj	_	_
+5	ewido	bito	VERB	vt	Number=Plur|Person=3	2	xcomp	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
