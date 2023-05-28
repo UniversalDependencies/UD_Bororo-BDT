@@ -3137,6 +3137,36 @@
 3	ewadaru	bataru	NOUN	n	Number=Plur|Person=3|PronType=Bi	1	obl	_	[baˈtaɾo];language;língua
 4	ji	ji	ADP	posp	_	3	case	_	_
 
+# sent_id = 0094f.PessGr
+# text = Imaragädywy
+# text_eng = (In order) for me to work
+# text_por = Para eu trabalhar
+1	Imaragädywy	maragädy	VERB	vi	Nomzr=Rel|Number=Sing|Person=1|PronType=Bi	0	root	_	_
+
+# sent_id = 0095a.PessGr
+# text = Awo maky
+# text_eng = In order for you to give
+# text_por = Para você dar
+1	Awo	a	PRON	bi	Nomzr=Rel|Number=Sing|Person=2|PronType=Bi	2	nsubj	_	_
+2	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 0095b.PessGr
+# text = Itaidure imaragädywy
+# text_eng = I want to worl
+# text_por = Eu quero trabalhar
+1	Itaidure	aidu	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi	0	root	_	_
+2	imaragädywy	maragädy	VERB	vi	Nomzr=Rel|Number=Sing|Person=1|PronType=Bi	1	xcomp	_	_
+
+# sent_id = 0095c.PessGr
+# text = Itaidure ioruduwawo boe ewadaru ji 
+# text_eng = I want to learn Bororo
+# text_por = Eu quero aprender bororo
+1	Itaidure	aidu	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi	0	root	_	_
+2	ioruduwawo	jorydyiwa	VERB	v	Nomzr=Rel|Number=Sing|Person=1|PronType=Bi	1	xcomp	_	_
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4	ewadaru	bataru	NOUN	n	Number=Plur|Person=3|PronType=Bi	2	obl	_	_
+5	ji	ji	ADP	posp	_	4	case	_	_
+
 # sent_id = 0099a.PessGr
 # text = Amaragädydo !
 # text_eng = work!
