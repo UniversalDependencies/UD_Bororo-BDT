@@ -3091,21 +3091,21 @@
 # text = Inure maky
 # text_eng = I am giving it
 # text_por = Eu o estou dando
-1	Inure	i	PRON	bi	Aspect=Prog|Mood=ind|Number=Sing|Person=1|PronType=Bi	2	nsubj	_	_
+1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|PronType=Bi	2	nsubj	_	_
 2	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 0093a.PessGr
 # text = Imaragädymode ma
 # text_eng = If I work
 # text_por = Se eu trabalhar
-1	Imaragädymode	maragädy	VERB	vi	Mood=ind|Number=Sing|Person=1|PronType=Bi|Tense=Fut	0	root	_	_
+1	Imaragädymode	maragädy	VERB	vi	Mood=Ind|Number=Sing|Person=1|PronType=Bi|Tense=Fut	0	root	_	_
 2	ma	ma	SCONJ	sconj	_	1	mark	_	_
 
 # sent_id = 0093b.PessGr
 # text = Imaragädymode dukeje
 # text_eng = Quando eu trabalahr / depois que eu trabalhar
 # text_por = When I work / After I work
-1	Imaragädymode	maragädy	VERB	_	Mood=ind|Number=Sing|Person=1|PronType=Bi|Tense=Fut	0	root	_	_
+1	Imaragädymode	maragädy	VERB	_	Mood=Ind|Number=Sing|Person=1|PronType=Bi|Tense=Fut	0	root	_	_
 2	dukeje	ma	SCONJ	sconj	_	1	mark	_	_
 
 # sent_id = 0093c.PessGr
