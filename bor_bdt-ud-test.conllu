@@ -3017,7 +3017,7 @@
 # text_eng = 
 # text_por = nos jogamos uns aos outro na água
 1	Cere	cere	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|PronType=Bi	2	nsubj	_	_
-2	pubarigu	barigu	VERB	v	Refelex=Yes	0	root	_	[baˈɾiɡɨ],[baˈɾiɡʷu];loose,throw.away,pour;perder,jogar.fora,derramar
+2	pubarigu	barigu	VERB	v	Reflex=Yes	0	root	_	[baˈɾiɡɨ],[baˈɾiɡʷu];loose,throw.away,pour;perder,jogar.fora,derramar
 3	pobo	pobo	NOUN	n	_	2	obl	_	_
 4	to	to	ADP	posp	_	3	case	_	_
 
@@ -3129,7 +3129,7 @@
 2	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 0094c.PessGr
-# text = iordywaia boe ewadaryji
+# text = iordywaia boe ewadary ji
 # text_eng = If i knew Bororo
 # text_por = Se eu soubess bororo
 1	iordywaia	jordywa	VERB	v	Mood=Irr|Number=Sing|Person=1|PronType=Bi	0	root	_	_
@@ -3158,7 +3158,7 @@
 2	imaragädywy	maragädy	VERB	vi	Nomzr=Rel|Number=Sing|Person=1|PronType=Bi	1	xcomp	_	_
 
 # sent_id = 0095c.PessGr
-# text = Itaidure ioruduwawo boe ewadaru ji 
+# text = Itaidure ioruduwawo boe ewadaru ji
 # text_eng = I want to learn Bororo
 # text_por = Eu quero aprender bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi	0	root	_	_
