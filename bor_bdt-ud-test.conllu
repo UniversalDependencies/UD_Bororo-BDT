@@ -3054,7 +3054,7 @@
 # text_por = eles se deram coisas mutuamente
 1	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	obj	_	_
-3	maky	maky	VERB	v	Number=Plur|Person=	0	root	_	_
+3	maky	maky	VERB	v	Number=Plur|Person=3	0	root	_	_
 4	puae	ae	ADP	posp	Reflex=Yes	3	obl	_	_
 
 # sent_id = 0089a.PessGr
