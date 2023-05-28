@@ -3084,12 +3084,12 @@
 # text = Inure maky
 # text_eng = I am giving it
 # text_por = Eu o estou dando
-1	Inure	i	PRON	bi	Aspect=Prog|Mood=ind|Number=Sing|Person=1|PronType=Bi	2	nsubj	_	_
+1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|PronType=Bi	2	nsubj	_	_
 2	maky	maky	X	x	Number=Sing|Person=3	0	root	_	_
 
-# sent_id = 0091b.PessGr
+# sent_id = 0091e.PessGr
 # text = Inure maky
-# text_eng = 
+# text_eng = I am giving it
 # text_por = Eu o estou dando
 1	Inure	i	PRON	bi	Aspect=Prog|Mood=ind|Number=Sing|Person=1|PronType=Bi	2	nsubj	_	_
 2	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
