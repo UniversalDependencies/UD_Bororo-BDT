@@ -3229,6 +3229,14 @@
 # text_por = está sendo dado
 1	makydynure	maky	VERB	v	Aspect=Prog|Mood=Ind|Polarity=Neg|Voice=Pass	0	root	_	_
 
+# sent_id = 101d.PessGr
+# text = Makydy karega ure
+# text_eng = (it) is not being given
+# text_por = não está sendo dado
+1	Makydy	maky	VERB	v	Voice=Pass	0	root	_	_
+2	karega	karega	PART	prcl	Polarity=Neg	1	dep	_	_
+3	ure	u	PRON	bi	Number=Sing|Person=3|PronType=Bi	1	nsubj	_	_
+
 # sent_id = 00FFW.001-antonioWWA.1
 # text = Kaba kejeba atumode mato cewy gai pugeje ?
 # text_eng = 
