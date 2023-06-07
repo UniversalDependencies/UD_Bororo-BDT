@@ -3211,6 +3211,24 @@
 3	boe	boe	NOUN	n	_	4	obj	_	_
 4	maky	maky	VERB	v	_	0	root	_	_
 
+# sent_id = 101a.PessGr
+# text = makydyre
+# text_eng = (It) was given
+# text_por = foi dado
+1	makydyre	maky	VERB	v	Mood=Ind|Voice=Pass	0	root	_	_
+
+# sent_id = 101b.PessGr
+# text = makydykare
+# text_eng = (it) was not given
+# text_por = não foi dado
+1	makydyre	maky	VERB	v	Mood=Ind|Polarity=Neg|Voice=Pass	0	root	_	_
+
+# sent_id = 101c.PessGr
+# text = makydynure
+# text_eng = (it) is being given
+# text_por = está sendo dado
+1	makydynure	maky	VERB	v	Aspect=Prog|Mood=Ind|Polarity=Neg|Voice=Pass	0	root	_	_
+
 # sent_id = 00FFW.001-antonioWWA.1
 # text = Kaba kejeba atumode mato cewy gai pugeje ?
 # text_eng = 
