@@ -3237,6 +3237,54 @@
 2	karega	karega	PART	prcl	Polarity=Neg	1	dep	_	_
 3	ure	u	PRON	bi	Number=Sing|Person=3|PronType=Bi	1	nsubj	_	_
 
+# sent_id = 101e.PessGr
+# text = Makydymode
+# text_eng = (it) will be given
+# text_por = será dado
+1	Makydymode	maky	VERB	v	Mood=Ind|Tense=Fut|Voice=Pass	0	root	_	_
+
+# sent_id = 101f.PessGr
+# text = Makydymodukare 
+# text_eng = (it) will not be given
+# text_por = não será dado
+1	Makydymodykare	maky	VERB	v	Mood=Ind|Polarity=Neg|Tense=Fut|Voice=Pass	0	root	_	_
+
+# sent_id = 101g.PessGr
+# text = Makydywä
+# text_eng = (in order) to be given
+# text_por = para ser dado
+1	Makydywä	maky	VERB	v	Purp=Yes|Voice=Pass	0	root	_	_
+
+# sent_id = 101h.PessGr
+# text = Makydykawä
+# text_eng = (in order) not to be given
+# text_por = para não ser dado
+1	Makydykawä	maky	VERB	v	Polarity=Neg|Purp=Yes|Voice=Pass	0	root	_	_
+
+# sent_id = 101i.PessGr
+# text = Makydyiagu
+# text_eng = 
+# text_por = que é para ser dado
+1	Makydyiagu	maky	VERB	v	Purp=Trans|Voice=Pass	0	root	_	_
+
+# sent_id = 101j.PessGr
+# text = Makydykaiagu
+# text_eng = 
+# text_por = que é para não ser dado
+1	Makydyiagu	maky	VERB	v	Polarity=Neg|Purp=Trans|Voice=Pass	0	root	_	_
+
+# sent_id = 101k.PessGr
+# text = makydyrewu
+# text_eng = which was given
+# text_por = o que foi dado
+1	Makydyrewu	maky	VERB	v	Rel=Yes|Voice=Pass	0	root	_	_
+
+# sent_id = 101l.PessGr
+# text = Makydykarewu
+# text_eng = which was not given
+# text_por = o que não foi dado
+1	Makydyrewu	maky	VERB	v	Polarity=Neg|Rel=Yes|Voice=Pass	0	root	_	_
+
 # sent_id = 00FFW.001-antonioWWA.1
 # text = Kaba kejeba atumode mato cewy gai pugeje ?
 # text_eng = 
