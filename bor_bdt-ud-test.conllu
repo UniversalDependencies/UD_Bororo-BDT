@@ -3285,6 +3285,54 @@
 # text_por = o que não foi dado
 1	Makydyrewu	maky	VERB	v	Polarity=Neg|Rel=Yes|Voice=Pass	0	root	_	_
 
+# sent_id = 101m.PessGr
+# text = Maragädydädyre
+# text_eng = 
+# text_por = Foi feito trabalhar
+1	Maragädydädyre	maragödy	VERB	v	Mood=Ind|Voice=Cau	0	root	_	_
+
+# sent_id = 101n.PessGr
+# text = Maragädydädyre
+# text_eng = 
+# text_por = Não foi feito trabalhar
+1	Maragädydädykare	maragödy	VERB	v	Mood=Ind|Polarity=Neg|Voice=Cau	0	root	_	_
+
+# sent_id = 101o.PessGr
+# text = Maragädydädymode
+# text_eng = 
+# text_por = Será feito trabalhar
+1	Maragädydädymode	maragödy	VERB	v	Mood=Ind|Tense=Fut|Voice=Cau	0	root	_	_
+
+# sent_id = 101p.PessGr
+# text = Maragädydädymodykare
+# text_eng = 
+# text_por =
+1	Maragädydädymodykare	maragödy	VERB	v	Mood=Ind|Polarity=Neg|Tense=Fut|Voice=Cau	0	root	_	_
+
+# sent_id = 101q.PessGr
+# text = Maragädydädywä
+# text_eng = 
+# text_por = Para ser feito trabalhar
+1	Maragädydädywä	maragödy	VERB	v	Mood=Ind|Purp=Yes|Voice=Cau	0	root	_	_
+
+# sent_id = 101r.PessGr
+# text = Maragädydädykawä
+# text_eng = 
+# text_por = Para não ser feito trabalhar
+1	Maragädydädykawä	maragödy	VERB	v	Mood=Ind|Polarity=Neg|Purp=Yes|Voice=Cau	0	root	_	_ 
+
+# sent_id = 101s.PessGr
+# text = Maragädydädyrewo
+# text_eng = 
+# text_por = O que foi trabalhar
+1	Maragädydädyrewu	maragödy	VERB	v	Mood=Ind|Rel=Yes|Voice=Cau	0	root	_	_
+
+# sent_id = 101t.PessGr
+# text = Maragädydädykarewu
+# text_eng = 
+# text_por = O que não foi trabalhar
+1	Maragädydädykarewu	maragödy	VERB	v	Mood=Ind|Polarity=neg|Rel=Yes|Voice=Cau	0	root	_	_
+
 # sent_id = 00FFW.001-antonioWWA.1
 # text = Kaba kejeba atumode mato cewy gai pugeje ?
 # text_eng = 
