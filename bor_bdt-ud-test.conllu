@@ -3351,6 +3351,6 @@
 # text_eng = That the ball was thrown was bad
 # text_por = Que a bola foi jogada foi/é ruim
 1	Bola	bola	NOUN	n	_	2	nsubj	_	_
-2	barigudy	barigu	VERB	v	_	3	csubj	_	[baˈɾiɡɨ];throw;jogar,lançar
+2	barigudy	barigu	VERB	v	Nomzr=Clau	3	csubj	_	[baˈɾiɡɨ];throw;jogar,lançar
 3	pegare	pega	VERB	v	Mood=Ind	0	root	_	_
 
