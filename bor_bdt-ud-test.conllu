@@ -3721,3 +3721,18 @@
 8	umode	_	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	7	ccomp	_	_
 9	rugadu	_	ADV	_	_	8	advcl	_	_
 
+# sent_id = sabia.015
+# text = Du kejere icare ere iogwarido ji , egore Wa !
+# text_eng = 
+# text_por = Aí todos o aclamaram: Wa!
+1	Du	du	X	_	_	2	fixed	_	_
+2	kejere	_	ADV	_	_	5	advmod	_	_
+3	icare	_	ADV	_	_	5	advcl	_	_
+4	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
+5	iogwarido	_	VERB	_	_	0	root	_	_
+6	ji	ji	ADP	posp	Number=Plur|Person=3	5	obl	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	5	xcomp	_	_
+9	Wa	_	INTJ	_	_	8	cc	_	_
+10	!	_	PUNCT	_	_	9	punct	_	_
+
