@@ -3406,7 +3406,7 @@
 15	Baru	baru	NOUN	n	_	16	nmod	_	_
 16	kuru	kuru	NOUN	n	_	17	nsubj	_	_
 17	bytydo	byty	VERB	_	Voice=Cau	14	ccomp	_	fall;cair
-18	mato	mato	ADV	ADV	adv	17	advmod	_	thither;para cá
+18	mato	mato	ADV	adv	_	17	advmod	_	thither;para cá
 19	,	,	PUNCT	punct	_	17	punct	_	_
 20	pobo	pobo	NOUN	n	_	21	nsubj	_	water;água
 21	boire	boi	VERB	v	_	14	parataxis	_	desire;desejar
@@ -3437,7 +3437,7 @@
 17	kuri	kuri	ADV	adv	_	16	conj	_	_
 18	kuri	kuri	ADV	ADV	_	16	conj	_	_
 19	,	,	PUNCT	punct	_	15	punct	_	_
-20	iegare	jekare	NOUN	n	Number=Sing|Person=1	_	_	_	happyness;alegria
+20	iegare	jekare	NOUN	n	Number=Sing|Person=1	12	obl	_	happyness;alegria
 21	tabo	tabo	ADP	posp	_	20	case	_	with;com
 
 # sent_id = sabia.004
