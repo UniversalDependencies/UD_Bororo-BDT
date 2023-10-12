@@ -3283,7 +3283,7 @@
 # text = Makydykarewu
 # text_eng = which was not given
 # text_por = o que não foi dado
-1	Makydyrewu	maky	VERB	v	Polarity=Neg|Rel=Yes|Voice=Pass	0	root	_	_
+1	Makydykarewu	maky	VERB	v	Polarity=Neg|Rel=Yes|Voice=Pass	0	root	_	_
 
 # sent_id = 101m.PessGr
 # text = Maragädydädyre
@@ -3292,7 +3292,7 @@
 1	Maragädydädyre	maragödy	VERB	v	Mood=Ind|Voice=Cau	0	root	_	_
 
 # sent_id = 101n.PessGr
-# text = Maragädydädyre
+# text = Maragädydädykare
 # text_eng = 
 # text_por = Não foi feito trabalhar
 1	Maragädydädykare	maragödy	VERB	v	Mood=Ind|Polarity=Neg|Voice=Cau	0	root	_	_
