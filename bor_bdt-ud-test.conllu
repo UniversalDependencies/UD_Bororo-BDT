@@ -3579,8 +3579,8 @@
 # text = Du keje icare awy kiogo akogodure akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
 # text_eng = 
 # text_por = Depois o passarinho começou a cantar dizendo: Céu líquido se derrama, céu líquido se derrama, br!, br!, se derrama, se derrama, se derrama br je!
-1	Du	du	X	_	_	2	fixed	_	_
-2	keje	keje	ADP	_	_	6	advmod	_	_
+1	Du	du	X	_	_	6	advmod	_	_
+2	keje	keje	ADP	_	_	1	fixed	_	_
 3	icare	icare	ADV	_	_	6	advmod	_	_
 4	awy	awy	DET	_	_	5	det	_	_
 5	kiogo	kiogo	NOUN	_	_	6	nsubj	_	_
@@ -3589,7 +3589,7 @@
 8	:	_	PUNCT	_	_	7	punct	_	_
 9	Baru	_	NOUN	_	_	11	nsubj	_	_
 10	kuru	_	NOUN	_	_	9	nmod	_	_
-11	ciri	_	VERB	_	_	7	cc	_	_
+11	ciri	_	VERB	_	_	7	parataxis	_	_
 12	,	_	PUNCT	_	_	11	punct	_	_
 13	baru	_	NOUN	_	_	15	nsubj	_	_
 14	kuru	_	NOUN	_	_	13	nmod	_	_
