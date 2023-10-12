@@ -3451,7 +3451,7 @@
 5	piji	piji	ADP	posp	_	4	case	_	from;de
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	1	parataxis	_	hear,listen;ouvir,escutar
-8	,	,	VERB	_	_	7	PUNCT	_	_
+8	,	,	VERB	_	_	7	punct	_	_
 9	amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
@@ -3470,7 +3470,7 @@
 # text_por = Eu não vou voltar mais para você, mas quando você falar assim, vou fazer cair água sobre você, vou mandar água para você.
 1	Itaregodymodykare	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	awogai	bogai	ADP	posp	Number=Sing|Person=2	1	obl	_	_
-3	pugeje	pugeje	ADV	ADV	adv	1	advmod	_	_
+3	pugeje	pugeje	ADV	ADV	_	1	advmod	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	mare	mare	CCONJ	_	_	13	cc	_	_
 6	nonore	nonore	ADV	adv	Mood=Ind	7	advmod	_	thus;assim
