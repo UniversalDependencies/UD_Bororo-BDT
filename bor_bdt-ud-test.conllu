@@ -3691,3 +3691,19 @@
 10	Tuiamedu	jamedu	PRON	_	PronType=Tot	3	obl	_	_
 11	tabo	_	ADP	_	_	10	case	_	_
 
+# sent_id = sabia.016
+# text = Icare Birimodo akore : Kode , nonore iemode , nonore akarumode
+# text_eng = 
+# text_por = Então Birimodo desse: Então! É assim que vai se chamar, esse vai ser seu nome.
+1	Icare	_	ADV	_	_	3	advmod	_	_
+2	Birimodo	_	PRON	_	_	3	nsubj	_	_
+3	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	:	_	PUNCT	_	_	3	punct	_	_
+5	Kode	_	ADV	_	_	7	advmod	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	nonore	_	ADV	_	Mood=Ind	3	ccomp	_	_
+8	iemode	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	7	ccomp	_	_
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	nonore	_	ADV	_	_	7	parataxis	_	_
+11	akarumode	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	10	cc	_	_
+
