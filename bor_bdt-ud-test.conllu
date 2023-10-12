@@ -3331,7 +3331,7 @@
 # text = Maragädydädykarewu
 # text_eng = 
 # text_por = O que não foi trabalhar
-1	Maragädydädykarewu	maragödy	VERB	v	Mood=Ind|Polarity=neg|Rel=Yes|Voice=Cau	0	root	_	_
+1	Maragädydädykarewu	maragödy	VERB	v	Mood=Ind|Polarity=Neg|Rel=Yes|Voice=Cau	0	root	_	_
 
 # sent_id = 00FFW.001-antonioWWA.1
 # text = Kaba kejeba atumode mato cewy gai pugeje ?
