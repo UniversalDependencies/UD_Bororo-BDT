@@ -3475,7 +3475,7 @@
 5	mare	mare	CCONJ	_	_	13	cc	_	_
 6	nonore	nonore	ADV	adv	Mood=Ind	7	advmod	_	thus;assim
 7	akagomode	ako	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	13	advcl	_	_
-8	du	du	X	X	x	7	advmod	_	_
+8	du	du	X	x	_	7	advmod	_	_
 9	keje	keje	ADP	posp	_	8	fixed	_	_
 10	,	,	PUNCT	punct	_	7	punct	_	_
 11	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	13	nsubj	_	_
