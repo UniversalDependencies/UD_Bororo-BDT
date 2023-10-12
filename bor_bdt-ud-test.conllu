@@ -3462,7 +3462,7 @@
 # text_eng = 
 # text_por = Sim !
 1	Uw	uw	PART	_	_	0	root	_	yes;sim
-2	!	!	PUNCT	punct	_	1	PUNCT	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = sabia.006
 # text = Itaregodymodykare awogai pugeje , mare nonore akagomode du keje , imode pobo butudo awugeje , imode pobo arego awogai
@@ -3471,7 +3471,7 @@
 1	Itaregodymodykare	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	awogai	bogai	ADP	posp	Number=Sing|Person=2	1	obl	_	_
 3	pugeje	pugeje	ADV	ADV	adv	1	advmod	_	_
-4	,	,	PUNCT	punct	_	1	PUNCT	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
 5	mare	mare	CCONJ	_	_	13	cc	_	_
 6	nonore	nonore	ADV	adv	Mood=Ind	7	advmod	_	thus;assim
 7	akagomode	ako	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	13	advcl	_	_
