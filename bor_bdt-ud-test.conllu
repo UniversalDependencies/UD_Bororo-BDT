@@ -3675,3 +3675,19 @@
 13	oinore	_	ADV	_	Mood=Ind	3	parataxis	_	_
 14	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	13	ccomp	_	_
 
+# sent_id = sabia.015
+# text = I are egore : U ! Nonore akore . Tuiamedu tabo
+# text_eng = 
+# text_por = Aí todos responderam: Sim! É assim que falou.
+1	I	i	ADV	_	_	3	advmod	_	_
+2	are	_	PRON	_	_	3	nsubj	_	_
+3	egore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	:	_	PUNCT	_	_	3	punct	_	_
+5	U	_	PART	_	_	3	ccomp	_	_
+6	!	_	PUNCT	_	_	5	punct	_	_
+7	Nonore	_	ADV	_	_	8	advmod	_	_
+8	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
+10	Tuiamedu	jamedu	PRON	_	Number=Sing|PronType=Tot	3	obl	_	_
+11	tabo	_	ADP	_	_	10	case	_	_
+
