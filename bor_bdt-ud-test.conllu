@@ -3433,9 +3433,9 @@
 13	,	,	PUNCT	punct	_	12	punct	_	_
 14	iwo	i	PRON	bi	Number=Sing|Person=1|PronType=Bi	15	mark	_	_
 15	itaredo	aredo	NOUN	n	Number=Sing|Person=1	12	conj	_	jump;pular,saltar
-16	kuri	kuri	ADV	ADV	adv	15	xcomp	_	soon;logo
-17	kuri	kuri	ADV	ADV	adv	15	dep	_	_
-18	kuri	kuri	ADV	ADV	adv	15	dep	_	_
+16	kuri	kuri	ADV	ADV	advmod	15	xcomp	_	soon;logo
+17	kuri	kuri	ADV	ADV	conj	16	dep	_	_
+18	kuri	kuri	ADV	ADV	conj	16	dep	_	_
 19	,	,	PUNCT	punct	_	15	punct	_	_
 20	iegare	jekare	NOUN	n	Number=Sing|Person=1	_	_	_	happyness;alegria
 21	tabo	tabo	ADP	posp	_	20	case	_	with;com
