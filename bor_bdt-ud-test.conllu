@@ -1480,10 +1480,10 @@
 4	roko	roko	NOUN	n	_	2	conj	_	corimba
 
 # sent_id = ABE-316
-# text = marenarore aki rema
+# text = marenarure aki rema
 # text_eng = You are poor
-# text_por = este é o meu bastão
-1	marenarore	_	NOUN	n	Mood=Ind	0	root	_	poor;pobre
+# text_por = Você é pobre (você é a pobreza)
+1	marenarure	_	NOUN	n	Mood=Ind	0	root	_	poor;pobre
 2	aki	aki	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	rema	rema	X	x	Pred=AtrEq	1	dep	_	_
 
