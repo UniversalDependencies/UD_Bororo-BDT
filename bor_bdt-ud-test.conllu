@@ -3740,12 +3740,11 @@
 # text = Kocare iere oinono Baru kuru ciri , nowy tuwadaru kae . Ie remawure Kogae Cereu rema .
 # text_eng = 
 # text_por = Por isso se chama assim "Baru kuru ciri"(céu líquido se derrama), por causa de seu canto. O seu nome verdadeiro é Kogae Cereu.
-1	Kocare	_	ADV	_	_	2	advmod	_	_
 2	iere	_	VERB	_	Number=Sing|Person=3	0	root	_	_
 3	oinono	_	ADV	_	_	2	advmod	_	_
 4	Baru	_	NOUN	_	_	2	nsubj	_	_
-5	kuru	_	NOUN	_	_	4	goeswith	_	_
-6	ciri	_	VERB	_	_	5	goeswith	_	_
+5	kuru	_	NOUN	_	_	4	flat	_	_
+6	ciri	_	VERB	_	_	5	flat	_	_
 7	,	_	PUNCT	_	_	6	punct	_	_
 8	nowuy	_	DET	_	_	9	det	_	_
 9	tuwadaru	bataru	NOUN	_	_	2	obl	_	_
@@ -3754,7 +3753,7 @@
 12	Ie	_	NOUN	_	_	2	parataxis	_	_
 13	remawure	_	ADV	_	Mood=Ind	12	advmod	_	_
 14	Kogae	_	PROPN	_	_	12	nsubj	_	_
-15	Cereu	_	PROPN	_	_	14	goeswith	_	_
+15	Cereu	_	PROPN	_	_	14	flat	_	_
 16	rema	_	AUX	cop	_	12	cop	_	_
 17	.	_	PUNCT	_	_	12	punct	_	_
 
