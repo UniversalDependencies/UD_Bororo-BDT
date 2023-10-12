@@ -1278,7 +1278,7 @@
 4	arydyre	jorydyre	VERB	v	_	0	root	_	see;ver
 5	adugo	adugo	NOUN	n	_	4	iobj	_	jaguar;onça
 6	ji	ji	ADP	posp	_	5	case	_	_
-7	?	?	PUNCT	PUNCT	punct	4	punct	_	_
+7	?	?	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = ABE-286
 # text = jawy meri ji kaeba tyre ?
@@ -2241,7 +2241,7 @@
 3	to	to	ADP	posp	_	2	case	_	water;água
 4	dy	dy	PART	prcl	Nomzr=Rel	1	dep	_	_
 5	tabore	tabo	ADP	posp	Mood=Ind	1	mark	_	with;com
-6	,	,	PUNCT	PUNCT	punct	1	punct	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
 7	bire	bi	VERB	v	Mood=Ind	0	root	_	die;morrer
 
 # sent_id = 00.55cPessGr
@@ -3389,7 +3389,7 @@
 # text = Icare makore ji , akore Boerumode ai , pobo boimode ai du kejere amagomode Baru kuru bytydo mato , pobo boire ii , ikuduwo
 # text_por = Aí falou com ele e lhe disse: - Quando você tiver calor, quando tiver sede, fale assim: "Céu líquido caia para cá, tenho sede, pare eu beber.
 # text_eng =
-1	Icare	icare	ADV	ADV	adv	2	advmod	_	then;então
+1	Icare	icare	ADV	adv	_	2	advmod	_	then;então
 2	makore	mako	VERB	v	Mood=Ind	0	root	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
@@ -3435,7 +3435,7 @@
 15	itaredo	aredo	NOUN	n	Number=Sing|Person=1	12	conj	_	jump;pular,saltar
 16	kuri	kuri	ADV	adv	_	15	xcomp	_	soon;logo
 17	kuri	kuri	ADV	adv	_	16	conj	_	_
-18	kuri	kuri	ADV	ADV	adv	16	conj	_	_
+18	kuri	kuri	ADV	adv	_	16	conj	_	_
 19	,	,	PUNCT	punct	_	15	punct	_	_
 20	iegare	jekare	NOUN	n	Number=Sing|Person=1	12	obl	_	happyness;alegria
 21	tabo	tabo	ADP	posp	_	20	case	_	with;com
@@ -3470,7 +3470,7 @@
 # text_por = Eu não vou voltar mais para você, mas quando você falar assim, vou fazer cair água sobre você, vou mandar água para você.
 1	Itaregodymodykare	_	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	awogai	bogai	ADP	posp	Number=Sing|Person=2	1	obl	_	_
-3	pugeje	pugeje	ADV	ADV	adv	1	advmod	_	_
+3	pugeje	pugeje	ADV	adv	_	1	advmod	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	mare	mare	CCONJ	_	_	13	cc	_	_
 6	nonore	nonore	ADV	adv	Mood=Ind	7	advmod	_	thus;assim
