@@ -3244,7 +3244,7 @@
 1	Makydymode	maky	VERB	v	Mood=Ind|Tense=Fut|Voice=Pass	0	root	_	_
 
 # sent_id = 101f.PessGr
-# text = Makydymodukare 
+# text = Makydymodykare 
 # text_eng = (it) will not be given
 # text_por = não será dado
 1	Makydymodykare	maky	VERB	v	Mood=Ind|Polarity=Neg|Tense=Fut|Voice=Pass	0	root	_	_
