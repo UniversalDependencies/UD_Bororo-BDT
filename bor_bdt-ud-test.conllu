@@ -3441,7 +3441,7 @@
 21	tabo	tabo	ADP	posp	_	20	case	_	with;com
 
 # sent_id = sabia.004
-# text = Oinore akagomode nowu baru poji . Amearydure , amearydure , amearydure ?
+# text = Oinore akagomode nowu baru piji . Amearydure , amearydure , amearydure ?
 # text_eng = 
 # text_por = Assim que você vai falar para a água do céu. Escutou? Escutou? Escutou?
 1	Oinore	oino	ADV	adv	Mood=Ind	0	root	_	thus,this way;assim
@@ -3458,14 +3458,14 @@
 12	?	?	PUNCT	punct	_	11	punct	_	_
 
 # sent_id = sabia.005
-# text = U !
+# text = Uw !
 # text_eng = 
 # text_por = Sim !
 1	Uw	uw	PART	_	_	0	root	_	yes;sim
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = sabia.006
-# text = Itaregodymodykare awogai pugeje , mare nonore akagomode du keje , imode pobo butudo awugeje , imode pobo arego awogai
+# text = Itaregodymodykare awogai pugeje , mare nonore akagomode du keje , imode pobo bytydo awugeje , imode pobo arego awogai
 # text_eng = 
 # text_por = Eu não vou voltar mais para você, mas quando você falar assim, vou fazer cair água sobre você, vou mandar água para você.
 1	Itaregodymodykare	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
@@ -3515,7 +3515,7 @@
 21	taci	taci	ADV	adv	_	20	advmod	_	soon,quickly;logo,rapidinho
 
 # sent_id = sabia.008
-# text = Nonore arore , nonore akagore . Akaiwo nure ia boetugu rogu bogai , akaiwo nure ia iporodu bogai , tore amode awiado pobo kuricigore du keje . Akore ji
+# text = Nonore arore , nonore akagore . Akaiwo nure ia boetugurogu bogai , akaiwo nure ia iporodu bogai , tore amode awiado pobo kuricigore du keje . Akore ji
 # text_eng = 
 # text_por = Assim você faz, assim você fala. Procura uma sombra, procura um pau, e ali você se esconde quando a chuva for muita, disse-lhe.
 1	Nonore	nonore	ADV	_	_	2	advmod	_	_
@@ -3555,7 +3555,7 @@
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = sabia.010
-# text = Du kejere icare uture piji , taci toro baru to , aroei pudumi du tabo
+# text = Du kejere icare uture piji , taci toro baru to , aroe i pudumi du tabo
 # text_eng = 
 # text_por = Depois foi embora dele logo lá para o céu, convertido em aroe.
 1	Du	du	X	x	_	4	advmod	_	_
@@ -3576,7 +3576,7 @@
 16	tabo	tabo	ADP	posp	_	15	fixed	_	_
 
 # sent_id = sabia.011
-# text = Du keje icare awy kiogo akogodure akore : Baru kuri ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
+# text = Du keje icare awy kiogo akogodure akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
 # text_eng = 
 # text_por = Depois o passarinho começou a cantar dizendo: Céu líquido se derrama, céu líquido se derrama, br!, br!, se derrama, se derrama, se derrama br je!
 1	Du	du	X	_	_	2	fixed	_	_
