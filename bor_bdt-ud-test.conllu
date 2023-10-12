@@ -3322,10 +3322,10 @@
 1	Maragädydädykawä	maragödy	VERB	v	Mood=Ind|Polarity=Neg|Purp=Yes|Voice=Cau	0	root	_	_ 
 
 # sent_id = 101s.PessGr
-# text = Maragädydädyrewo
+# text = Maragädydädyrewy
 # text_eng = 
 # text_por = O que foi trabalhar
-1	Maragädydädyrewu	maragödy	VERB	v	Mood=Ind|Rel=Yes|Voice=Cau	0	root	_	_
+1	Maragädydädyrewy	maragödy	VERB	v	Mood=Ind|Rel=Yes|Voice=Cau	0	root	_	_
 
 # sent_id = 101t.PessGr
 # text = Maragädydädykarewu
