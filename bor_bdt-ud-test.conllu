@@ -3392,11 +3392,11 @@
 1	Icare	icare	ADV	ADV	adv	2	advmod	_	then;então
 2	makore	mako	VERB	_	Mood=Ind	_	_	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
-4	,	,	PUNCT	punct	_	2	PUNCT	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
 5	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=2	2	conj	_	_
 6	Boerumode	boeru	NOUN	n	Mood=Ind|Tense=Fut	14	advcl	_	_
 7	ai	ji	_	_	Number=Sing|Person=2	6	obl	_	_
-8	,	,	PUNCT	punct	_	6	PUNCT	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
 9	pobo	pobo	NOUN	n	_	_	_	_	_
 10	boimode	boi	NOUN	n	Mood=Ind|Tense=Fut	6	conj	_	desire;desejar
 11	ai	ji	ADP	posp	Number=Sing|Person=2	10	obl	_	_
@@ -3407,11 +3407,11 @@
 16	kuru	kuru	NOUN	n	_	17	nsubj	_	_
 17	bytydo	byty	VERB	_	Voice=Cau	14	ccomp	_	fall;cair
 18	mato	mato	ADV	ADV	adv	17	advmod	_	thither;para cá
-19	,	,	PUNCT	punct	_	17	PUNCT	_	_
+19	,	,	PUNCT	punct	_	17	punct	_	_
 20	pobo	pobo	NOUN	n	_	21	nsubj	_	water;água
 21	boire	boi	VERB	v	_	14	parataxis	_	desire;desejar
 22	ii	ji	ADP	posp	Number=Sing|Person=1	21	obl	_	_
-23	,	,	PUNCT	punct	_	21	PUNCT	_	_
+23	,	,	PUNCT	punct	_	21	punct	_	_
 24	ikuduwo	kudu	VERB	vi	Number=Sing|Person=1	21	parataxis	_	drink;beber
 
 # sent_id = sabia.003
@@ -3422,21 +3422,21 @@
 2	kuru	kuru	NOUN	n	_	3	nsubj	_	liquid;líquido
 3	bytydo	byty	VERB	vi	Voice=Cau	0	root	_	_
 4	mato	mato	ADV	ADV	adv	3	obl	_	_
-5	,	,	PUNCT	punct	_	3	PUNCT	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
 6	baru	baru	NOUN	n	_	_	_	_	_
 7	piji	piji	ADP	posp	_	6	obl	_	from;de (origem)
 8	piji	piji	ADP	posp	_	6	dep	_	_
 9	piji	piji	ADP	posp	_	6	dep	_	_
-10	,	,	PUNCT	punct	_	6	PUNCT	_	_
+10	,	,	PUNCT	punct	_	6	punct	_	_
 11	iwo	1	PRON	bi	Number=Sing|Person=1	12	mark	_	_
 12	itaimo	taimo	NOUN	n	Number=Sing|Person=1|PronType=Bi	3	acl	_	_
-13	,	,	PUNCT	punct	_	12	PUNCT	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
 14	iwo	i	PRON	bi	Number=Sing|Person=1|PronType=Bi	15	mark	_	_
 15	itaredo	aredo	NOUN	n	Number=Sing|Person=1	12	conj	_	jump;pular,saltar
 16	kuri	kuri	ADV	ADV	adv	15	xcomp	_	soon;logo
 17	kuri	kuri	ADV	ADV	adv	15	dep	_	_
 18	kuri	kuri	ADV	ADV	adv	15	dep	_	_
-19	,	,	PUNCT	punct	_	15	PUNCT	_	_
+19	,	,	PUNCT	punct	_	15	punct	_	_
 20	iegare	jekare	NOUN	n	Number=Sing|Person=1	_	_	_	happyness;alegria
 21	tabo	tabo	ADP	posp	_	20	case	_	with;com
 
@@ -3449,13 +3449,13 @@
 3	nowu	nowu	DET	_	_	4	nsubj	_	this;este
 4	baru	baru	NOUN	n	_	2	obl	_	sky;céu
 5	piji	piji	ADP	posp	_	4	case	_	from;de
-6	.	.	PUNCT	punct	_	4	PUNCT	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	1	parataxis	_	hear,listen;ouvir,escutar
 8	,	,	VERB	_	_	7	PUNCT	_	_
 9	amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
-10	,	,	PUNCT	punct	_	9	PUNCT	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
 11	amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
-12	?	?	PUNCT	punct	_	11	PUNCT	_	_
+12	?	?	PUNCT	punct	_	11	punct	_	_
 
 # sent_id = sabia.005
 # text = U !
@@ -3548,7 +3548,7 @@
 28	ji	ji	ADP	_	_	27	obl	_	_
 
 # sent_id = sabia.009
-# text = U !
+# text = Uw !
 # text_eng = 
 # text_por = Sim !
 1	Uw	uw	PART	_	_	0	root	_	yes;sim
@@ -3604,7 +3604,7 @@
 23	br	br	X	ideo	_	11	parataxis	_	_
 24	!	!	PUNCT	_	_	23	punct	_	_
 25	br	br	X	ideo	_	11	parataxis	_	_
-26	!	!	PUNCT	_	_	25	punct	_	_
+26	!	!	PUNCT	punct	_	25	punct	_	_
 27	je	je	ADV	_	_	7	advcl	_	thus;assim
 
 # sent_id = sabia.012
