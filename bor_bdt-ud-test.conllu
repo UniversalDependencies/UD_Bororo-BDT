@@ -3740,6 +3740,7 @@
 # text = Kocare iere oinono Baru kuru ciri , nowy tuwadaru kae . Ie remawure Kogae Cereu rema .
 # text_eng = 
 # text_por = Por isso se chama assim "Baru kuru ciri"(céu líquido se derrama), por causa de seu canto. O seu nome verdadeiro é Kogae Cereu.
+1	Kocare	_	ADV	_	_	2	advmod	_	_
 2	iere	_	VERB	_	Number=Sing|Person=3	0	root	_	_
 3	oinono	_	ADV	_	_	2	advmod	_	_
 4	Baru	_	NOUN	_	_	2	nsubj	_	_
