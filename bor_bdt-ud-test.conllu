@@ -3717,7 +3717,7 @@
 4	:	_	PUNCT	_	_	3	punct	_	_
 5	U	_	PART	_	_	7	advmod	_	_
 6	!	_	PUNCT	_	_	5	punct	_	_
-7	Nonore	_	ADV	_	_	3	cc	_	_
+7	Nonore	_	ADV	_	_	3	ccomp	_	_
 8	umode	_	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	7	ccomp	_	_
 9	rugadu	_	ADV	_	_	8	advcl	_	_
 
