@@ -3355,7 +3355,7 @@
 3	pegare	pega	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = sabia.001
-# text = Ia imedu , iere Kogae Cereu cedu, Ceraedu , Badojeba Cobugiwu , ure ia kiogorogu towuje , muguwo tumugato , aroei pudumi du keje
+# text = Ia imedy , iere Kogae Cereu cedu, Ceraedu , Badojeba Cobugiwu , ure ia kiogorogu towuje , muguwo tumuga to , aroei pudumi du keje
 # text_por = Um homem chamado Kogae Cereu, da metade dos Ecerae, do clã dos Badojebage Cobugiwuge, fêz um passarinho, para ficar no lugar dele, quando se converter em aroe
 # text_eng =
 1	Ia	_	DET	_	Definite=Ind|PronType=Art	2	det	_	_
@@ -3382,7 +3382,7 @@
 22	,	,	PUNCT	punct	_	19	punct	_	_
 23	aroei	aroe	NOUN	n	_	19	advcl	_	spirit,soul;espírito,alma
 24	pudumi	pudumi	PRON	_	Reflex=Yes	23	nsubj	_	_
-25	du	du	X	x	x	23	advmod	_	_
+25	du	du	X	x	_	23	advmod	_	_
 26	keje	keje	ADP	posp	_	25	fixed	_	_
 
 # sent_id = sabia.002
