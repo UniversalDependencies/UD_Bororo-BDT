@@ -3365,7 +3365,7 @@
 5	Kogae	Kogae	PROPN	_	_	4	nsubj	_	_
 6	Cereu	Cereu	PROPN	_	_	5	fixed	_	_
 7	cedu	_	X	_	_	6	dep	_	_
-8	,	,	PUNCT	_	_	_	_	_	_
+8	,	,	PUNCT	punct	_	_	7	punct	_
 9	Ceraedu	Ceraedu	NOUN	n	Gender=Masc	4	parataxis	_	Person from the Ecerae moiety; pessoa da metade Ecerae
 10	,	,	PUNCT	punct	_	9	punct	punct	_
 11	Badojeba	Badojeba	PROPN	_	_	12	nmod	_	_
