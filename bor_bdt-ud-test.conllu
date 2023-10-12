@@ -3364,7 +3364,7 @@
 4	iere	ie	NOUN	v	Mood=Ind|Number=Sing|Person=3	2	appos	_	name;nome
 5	Kogae	Kogae	PROPN	_	_	4	nsubj	_	_
 6	Cereu	Cereu	PROPN	_	_	5	fixed	_	_
-7	cedu	_	_	_	_	_	_	_	_
+7	cedu	_	X	_	_	_	_	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	Ceraedu	Ceraedu	NOUN	n	Gender=Masc	4	parataxis	_	Person from the Ecerae moiety; pessoa da metade Ecerae
 10	,	,	PUNCT	punct	_	9	punct	punct	_
@@ -3395,13 +3395,13 @@
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=2	2	conj	_	_
 6	Boerumode	boeru	NOUN	n	Mood=Ind|Tense=Fut	14	advcl	_	_
-7	ai	ji	_	_	Number=Sing|Person=2	6	obl	_	_
+7	ai	ji	ADP	_	Number=Sing|Person=2	6	obl	_	_
 8	,	,	PUNCT	punct	_	6	punct	_	_
 9	pobo	pobo	NOUN	n	_	_	_	_	_
 10	boimode	boi	NOUN	n	Mood=Ind|Tense=Fut	6	conj	_	desire;desejar
 11	ai	ji	ADP	posp	Number=Sing|Person=2	10	obl	_	_
 12	du	du	X	x	_	6	advmod	_	_
-13	kejere	keje	_	_	Mood=Ind	12	fixed	_	_
+13	kejere	keje	X	_	Mood=Ind	12	fixed	_	_
 14	amagomode	mako	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	5	ccomp	_	_
 15	Baru	baru	NOUN	n	_	16	nmod	_	_
 16	kuru	kuru	NOUN	n	_	17	nsubj	_	_
