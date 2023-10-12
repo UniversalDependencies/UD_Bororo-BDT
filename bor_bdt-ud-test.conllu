@@ -3552,7 +3552,7 @@
 # text_eng = 
 # text_por = Sim !
 1	Uw	uw	PART	_	_	0	root	_	yes;sim
-2	!	!	PUNCT	punct	_	1	PUNCT	punct	_
+2	!	!	PUNCT	punct	_	1	PUNCT	_	_
 
 # sent_id = sabia.010
 # text = Du kejere icare uture piji , taci toro baruto , aroei pudumi du tabo
@@ -3605,7 +3605,7 @@
 24	!	!	PUNCT	_	_	23	punct	_	_
 25	br	br	X	ideo	_	11	parataxis	_	_
 26	!	!	PUNCT	_	_	25	punct	_	_
-27	je	je	advmod	_	_	7	advcl	_	thus;assim
+27	je	je	ADV	_	_	7	advcl	_	thus;assim
 
 # sent_id = sabia.012
 # text = Icare Birimodo , Kaboreu , Manobaru , Tadugo , Aroia Kurireu , Kogebowu , Buturegadu , Akaruio Boroge , Apuie Eceba , Kuruguga , Meriribaru , ere tudo pui , egore : inoba awy kiogorogu akore ?
@@ -3643,7 +3643,7 @@
 30	,	,	PUNCT	_	_	28	punct	_	_
 31	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	28	parataxis	_	_
 32	:	:	PUNCT	_	_	31	punct	_	_
-33	inoba	_	advmod	_	_	36	advmod	_	_
+33	inoba	_	ADV	_	_	36	advmod	_	_
 34	awy	awy	DET	_	_	35	det	_	_
 35	kiogorogu	kiogo	NOUN	_	Degree=Dim	36	nsubj	_	_
 36	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	31	ccomp	_	_
