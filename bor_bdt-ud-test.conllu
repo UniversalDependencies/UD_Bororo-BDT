@@ -3423,8 +3423,8 @@
 3	bytydo	byty	VERB	vi	Voice=Cau	0	root	_	_
 4	mato	mato	ADV	adv	_	3	obl	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
-6	baru	baru	NOUN	n	_	_	_	_	_
-7	piji	piji	ADP	posp	_	6	obl	_	from;de (origem)
+6	baru	baru	NOUN	n	_	3	obl	_	_
+7	piji	piji	ADP	posp	_	6	case	_	from;de (origem)
 8	piji	piji	ADP	posp	_	6	dep	_	_
 9	piji	piji	ADP	posp	_	6	dep	_	_
 10	,	,	PUNCT	punct	_	6	punct	_	_
