@@ -3688,6 +3688,6 @@
 7	Nonore	_	ADV	_	_	8	advmod	_	_
 8	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 9	.	_	PUNCT	_	_	8	punct	_	_
-10	Tuiamedu	jamedu	PRON	_	Number=Sing|PronType=Tot	3	obl	_	_
+10	Tuiamedu	jamedu	PRON	_	PronType=Tot	3	obl	_	_
 11	tabo	_	ADP	_	_	10	case	_	_
 
