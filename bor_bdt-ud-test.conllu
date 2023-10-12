@@ -3451,7 +3451,7 @@
 5	piji	piji	ADP	posp	_	4	case	_	from;de
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	1	parataxis	_	hear,listen;ouvir,escutar
-8	,	,	VERB	_	_	7	punct	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
 9	amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	amearydure	mearydu	VERB	_	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
@@ -3537,7 +3537,7 @@
 17	bogai	bogai	ADP	_	_	16	case	_	_
 18	,	,	PUNCT	_	_	16	punct	_	_
 19	tore	to	ADV	_	_	20	advmod	_	_
-20	amode	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|Prontype=Bi|Tense=Fut	21	nsubj	_	_
+20	amode	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|PronType=Bi|Tense=Fut	21	nsubj	_	_
 21	awiado	bia	VERB	_	Mood=Imp|Number=Sing|Person=2|Voice=Cau	7	parataxis	_	_
 22	pobo	pobo	NOUN	_	_	21	advcl	_	_
 23	kuricigore	kurucigo	NOUN	_	Mood=Ind	22	nmod	_	_
@@ -3582,7 +3582,7 @@
 1	Du	du	X	_	_	2	fixed	_	_
 2	keje	keje	ADP	_	_	6	advmod	_	_
 3	icare	icare	ADV	_	_	6	advmod	_	_
-4	awy	awy	DET	_	_	_	_	_	_
+4	awy	awy	DET	_	_	5	det	_	_
 5	kiogo	kiogo	NOUN	_	_	6	nsubj	_	_
 6	akogodure	akogody	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 7	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	6	xcomp	_	_
