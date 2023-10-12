@@ -3364,7 +3364,7 @@
 4	iere	ie	NOUN	v	Mood=Ind|Number=Sing|Person=3	2	appos	_	name;nome
 5	Kogae	Kogae	PROPN	_	_	4	nsubj	_	_
 6	Cereu	Cereu	PROPN	_	_	5	fixed	_	_
-7	cedu	_	X	_	_	_	_	_	_
+7	cedu	_	X	_	_	6	dep	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	Ceraedu	Ceraedu	NOUN	n	Gender=Masc	4	parataxis	_	Person from the Ecerae moiety; pessoa da metade Ecerae
 10	,	,	PUNCT	punct	_	9	punct	punct	_
@@ -3374,7 +3374,7 @@
 14	ure	u	PRON	bi	Number=Sing|Person=3|PronType=Bi	17	nsubj	_	_
 15	ia	ia	DET	_	_	16	det	_	_
 16	kiogorogu	kiogo	NOUN	n	Degree=Dim	17	obj	_	bird;pássaro
-17	towuje	towuje	VERB	vt	Number=Sing|Person=3	4	parataxis	_	do,make;fazer,criar
+17	towuje	towuje	VERB	vt	Number=Sing|Person=3	_	_	_	do,make;fazer,criar
 18	,	,	PUNCT	punct	_	17	punct	_	_
 19	muguwo	muga	VERB	_	_	17	xcomp	_	sit,dwell;assento,morada
 20	tumuga	muga	NOUN	n	Person=3|Reflex=Yes	19	obl	_	_
