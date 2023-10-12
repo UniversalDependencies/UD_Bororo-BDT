@@ -3244,7 +3244,7 @@
 1	Makydymode	maky	VERB	v	Mood=Ind|Tense=Fut|Voice=Pass	0	root	_	_
 
 # sent_id = 101f.PessGr
-# text = Makydymodykare 
+# text = Makydymodykare
 # text_eng = (it) will not be given
 # text_por = não será dado
 1	Makydymodykare	maky	VERB	v	Mood=Ind|Polarity=Neg|Tense=Fut|Voice=Pass	0	root	_	_
@@ -3271,7 +3271,7 @@
 # text = Makydykaiagu
 # text_eng = 
 # text_por = que é para não ser dado
-1	Makydyiagu	maky	VERB	v	Polarity=Neg|Purp=Trans|Voice=Pass	0	root	_	_
+1	Makydykaiagu	maky	VERB	v	Polarity=Neg|Purp=Trans|Voice=Pass	0	root	_	_
 
 # sent_id = 101k.PessGr
 # text = Makydyrewu
