@@ -3428,10 +3428,10 @@
 8	piji	piji	ADP	posp	_	6	dep	_	_
 9	piji	piji	ADP	posp	_	6	dep	_	_
 10	,	,	PUNCT	punct	_	6	punct	_	_
-11	iwo	1	PRON	bi	Number=Sing|Person=1	12	mark	_	_
+11	iwo	wo	SCONJ	sc	Number=Sing|Person=1	12	mark	_	_
 12	itaimo	taimo	NOUN	n	Number=Sing|Person=1|PronType=Bi	3	acl	_	_
 13	,	,	PUNCT	punct	_	12	punct	_	_
-14	iwo	i	PRON	bi	Number=Sing|Person=1|PronType=Bi	15	mark	_	_
+14	iwo	wo	SCONJ	sc	Number=Sing|Person=1|PronType=Bi	15	mark	_	_
 15	itaredo	aredo	NOUN	n	Number=Sing|Person=1	12	conj	_	jump;pular,saltar
 16	kuri	kuri	ADV	adv	_	15	xcomp	_	soon;logo
 17	kuri	kuri	ADV	adv	_	16	conj	_	_
@@ -3705,5 +3705,5 @@
 8	iemode	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	7	ccomp	_	_
 9	,	_	PUNCT	_	_	8	punct	_	_
 10	nonore	_	ADV	_	_	7	parataxis	_	_
-11	akarumode	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	10	cc	_	_
+11	akarumode	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	10	ccomp	_	_
 
