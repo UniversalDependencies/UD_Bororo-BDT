@@ -3397,7 +3397,7 @@
 6	Boerumode	boeru	NOUN	n	Mood=Ind|Tense=Fut	14	advcl	_	_
 7	ai	ji	ADP	_	Number=Sing|Person=2	6	obl	_	_
 8	,	,	PUNCT	punct	_	6	punct	_	_
-9	pobo	pobo	NOUN	n	_	_	_	_	_
+9	pobo	pobo	NOUN	n	_	10	nsubj	_	_
 10	boimode	boi	NOUN	n	Mood=Ind|Tense=Fut	6	conj	_	desire;desejar
 11	ai	ji	ADP	posp	Number=Sing|Person=2	10	obl	_	_
 12	du	du	X	x	_	6	advmod	_	_
