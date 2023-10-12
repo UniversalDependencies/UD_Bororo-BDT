@@ -1,5 +1,5 @@
 # sent_id = 0.1.BEBE
-# text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
+# text = Itaidyre iwo taryduwadä boe enogiegidae ji , boe eno ie ji
 # text_eng = 
 # text_por = Eu quero ensinar-vos os nomes dos bororo, os nomes das coisas dos bororo.
 1	Itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[ˈai̯dɨ];want,like;querer,gostar
@@ -3221,7 +3221,7 @@
 # text = makydykare
 # text_eng = (it) was not given
 # text_por = não foi dado
-1	makydyre	maky	VERB	v	Mood=Ind|Polarity=Neg|Voice=Pass	0	root	_	_
+1	makydykare	maky	VERB	v	Mood=Ind|Polarity=Neg|Voice=Pass	0	root	_	_
 
 # sent_id = 101c.PessGr
 # text = makydynure
