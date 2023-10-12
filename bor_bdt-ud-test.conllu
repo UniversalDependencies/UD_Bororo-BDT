@@ -3477,12 +3477,12 @@
 7	akagomode	ako	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	13	advcl	_	_
 8	du	du	X	X	x	7	advmod	_	_
 9	keje	keje	ADP	posp	_	8	fixed	_	_
-10	,	,	PUNCT	punct	_	7	PUNCT	_	_
+10	,	,	PUNCT	punct	_	7	punct	_	_
 11	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	13	nsubj	_	_
 12	pobo	pobo	NOUN	n	_	13	obj	_	_
 13	bytydo	byty	VERB	_	Voice=Cau	1	parataxis	_	_
 14	awugeje	bukeje	ADP	posp	Number=Sing|Person=2	13	obl	_	_
-15	,	,	PUNCT	punct	_	13	PUNCT	_	_
+15	,	,	PUNCT	punct	_	13	punct	_	_
 16	imode	i	PRON	bi	Mood=Ind|Tense=Fut	18	nsubj	_	_
 17	pobo	pobo	NOUN	n	_	18	obj	_	_
 18	arego	arego	VERB	_	_	13	parataxis	_	bring,fetch;trazer,buscar
@@ -3555,7 +3555,7 @@
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = sabia.010
-# text = Du kejere icare uture piji , taci toro baruto , aroei pudumi du tabo
+# text = Du kejere icare uture piji , taci toro baru to , aroei pudumi du tabo
 # text_eng = 
 # text_por = Depois foi embora dele logo lá para o céu, convertido em aroe.
 1	Du	du	X	x	_	4	advmod	_	_
