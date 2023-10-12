@@ -3274,10 +3274,10 @@
 1	Makydyiagu	maky	VERB	v	Polarity=Neg|Purp=Trans|Voice=Pass	0	root	_	_
 
 # sent_id = 101k.PessGr
-# text = makydyrewu
+# text = Makydyrewu
 # text_eng = which was given
 # text_por = o que foi dado
-1	Makydyrewu	maky	VERB	v	Rel=Yes|Voice=Pass	0	root	_	_
+1	Makydyrewu	maky	VERB	v	Nomzr=Rel|Voice=Pass	0	root	_	_
 
 # sent_id = 101l.PessGr
 # text = Makydykarewu
