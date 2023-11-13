@@ -1,6 +1,6 @@
 # Summary
 
-UD_Bororo-BDT is a collection of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). All known sources in this language are being annotated: grammar examples, myths, and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io) and Carolina C. Aragon.
+UD_Bororo-BDT is a collection of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). All known sources in this language are being annotated: grammar examples, myths, and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io).
 
 # Introduction
 
