@@ -3868,7 +3868,7 @@
 # text_eng = 
 # text_por = comprar-se-á tabaco para vós.
 1	Mea	mea	NOUN	n	_	2	nsubj	_	_
-2	akirodody	akirodo	VERB	v	Number=Sing|Person=3|Voice=Pas	0	root	_	exchange;troca
+2	akirodody	akirodo	VERB	v	Number=Sing|Person=3|Voice=Pass	0	root	_	exchange;troca
 3	mode	mody-re	X	_	Mood=Ind|Tense=Fut	2	dep	_	_
 4	tageje	keje	ADP	_	Number=Sing|Person=3	2	obl	_	_
 
