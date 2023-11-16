@@ -3765,7 +3765,7 @@
 1	Iaguduba	iaguduba	PRON	_	_	2	nsubj	_	who;quem
 2	ako	ako	VERB	v	Number=Sing|Person=3	0	root	_	_
 3	oino	oino	ADV	adv	_	2	advmod	_	_
-4	?	?	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+4	?	?	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = 002.EncIEx
 # text = Mea okori umode boe etajiado
@@ -3852,7 +3852,7 @@
 # text_por = Falar-vos-ei, escutai.
 1	inagomode	ako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	word,speak,say,voice;palavra,voz,dizer,falar
 2	tae	ae	ADP	posp	Number=Sing|Person=2	1	obl	_	_
-3	:	:	PUNCT	punct	_	1	PUNCT	punct	_
+3	:	:	PUNCT	punct	_	1	punct	_	_
 4	tawiapagado	biapaga	VERB	v	Number=Plur|Person=2|Voice=Cau	1	parataxis	_	listen,pay attention;escutar,prestar atenção
 
 # sent_id = 012.EncIEx
@@ -3973,7 +3973,7 @@
 4	boigodumode	boigodu	VERB	v	Number=Sing|Person=3|Tense=Fut	1	ccomp	_	begin_to_desire;começar a sentir
 5	kuri	_	ADV	ADV	adv	4	advmod	_	soon,immediately;logo,imediatamente
 6	ji	ji	ADP	posp	_	4	obl	_	_
-7	,	_	PUNCT	punct	punct	4	punct	_	_
+7	,	,	PUNCT	punct	_	4	punct	_	_
 8	tubiji	_	ADV	ADV	adv	4	advmod	_	_
 9	dyji	dyji	PART	prcl	_	4	mark	_	_
 
@@ -4010,22 +4010,22 @@
 # text_por = A cigarra falou: senta aqui, aqui ao pé desta árvore; eu mesma me agarrarei no pé da árvore; olhemo-nos um ao outro com honestidade nos olhos
 1	Konorigi	_	NOUN	n	_	2	nsubj	_	_
 2	akore	_	VERB	v	_	0	root	_	_
-3	:	:	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+3	:	:	PUNCT	punct	_	2	punct	_	_
 4	woere	woe	ADV	adv	Mood=Ind	5	advmod	_	_
 5	amugure	mugu	VERB	v	 Mood=Ind|Number=Sing|Person=2	2	ccomp	_	sit;sentar
 6	tu	_	PART	prcl	_	5	advmod	_	_
-7	,	_	PUNCT	PUNCT	punct	5	PUNCT	PUNCT	punct
+7	,	_	PUNCT	punct	_	5	punct	_	_
 8	woe	_	ADV	ADV	adv	11	advmod	_	_
 9	awy	_	DET	_	_	11	det	_	_
 10	i	_	NOUN	n	_	11	nmod	_	_
 11	paru	_	NOUN	n	_	5	advmod	_	_
-12	,	_	PUNCT	PUNCT	punct	11	PUNCT	PUNCT	punct
+12	,	_	PUNCT	punct	_	11	punct	_	_
 13	imire	imi	PRON	pron	Mood=Ind|Number=Sing|Person=1	14	nsubj	_	I;eu
 14	iedumode	_	VERB	v	_	5	parataxis	_	hold on to;segurar,agarrar
 15	i	_	NOUN	n	_	16	nmod	_	tree;árvore
 16	paru	paru	NOUN	n	_	14	obl	_	foot;pé
 17	to	_	NOUN	n	_	16	case	_	_
-18	,	,	PUNCT	PUNCT	punct	14	PUNCT	PUNCT	punct
+18	,	,	PUNCT	punct	_	14	punct	_	_
 19	pagaiwo	aiwo	VERB	v	Clusivity=In|Mood=Subj|Number=Plur|Person=1	5	parataxis	_	look at;olhar
 20	birigodywo	birigody	ADV	ADV	adv	19	advmod	_	kindness,honesty;bondade,honestidade
 21	tu	_	PART	prcl	_	20	advmod	_	_
@@ -4059,7 +4059,7 @@
 5	i	i	NOUN	n	_	6	nmod	_	_
 6	paru	paru	NOUN	n	_	3	obl	_	_
 7	to	to	ADP	posp	_	6	case	_	_
-8	.	_	PUNCT	PUNCT	punct	3	PUNCT	PUNCT	punct
+8	.	_	PUNCT	punct	_	3	punct	_	_
 9	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
 10	tuiejodo	jejodo	VERB	v	Number=Sing|Person=3	3	parataxis	_	look down;inclinar o rosto
 11	moto	_	NOUN	n	_	10	obl	_	soil,floor;chão,solo
@@ -4104,7 +4104,7 @@
 5	raka	_	ADV	ADV	ADV	adv	_	_	_
 6	guragare	_	VERB	v	_	0	root	_	_
 7	ji	_	ADP	posp	_	6	obl	_	_
-8	,	_	PUNCT	PUNCT	punct	6	PUNCT	PUNCT	punct
+8	,	_	PUNCT	punct	_	6	punct	_	_
 9	icare	_	ADV	ADV	adv	9	advcl	_	_
 10	bigodure	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
 11	tuge	_	NOUN	n	_	_	nmod	_	_
@@ -4118,18 +4118,18 @@
 1	Dykodi	_	ADV	ADV	adv	3	advmod	_	_
 2	icare	_	ADV	ADV	adv	1	fixed	_	_
 3	akore	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-4	:	_	PUNCT	PUNCT	punct	3	PUNCT	PUNCT	punct
+4	:	_	PUNCT	punct	_	3	punct	_	_
 5	awy	_	DET	_	_	3	cc	_	_
-6	!	_	PUNCT	PUNCT	punct	5	PUNCT	PUNCT	punct
+6	!	_	PUNCT	punct	_	5	punct	_	_
 7	Ino	_	NOUN	n	Number=Plur|Person=1	3	parataxis	_	_
 8	kogorigi	kogorigi	NOUN	n	_	7	dep	_	_
 9	ji	ji	ADP	posp	_	8	discourse	_	_
-10	,	,	PUNCT	PUNCT	punct	8	PUNCT	PUNCT	punct
+10	,	,	PUNCT	punct	_	8	punct	_	_
 11	tywo	ty	PRON	bi	Number=Sing|Person=3|PronType=Bi|Reflex=Yes|Voice=Cau	12	nsubj	_	_
 12	tugerado	_	VERB	v	Number=Sing|Person=3|Reflex=Yes	3	parataxis	_	_
 13	Ca	ca	X	ideo	_	12	obl	_	_
 14	keje	keje	ADP	posp	_	13	case	_	_
-15	,	_	PUNCT	PUNCT	punct	12	PUNCT	PUNCT	punct
+15	,	_	PUNCT	punct	_	12	punct	_	_
 16	tugeje	_	NOUN	n	Reflex=Yes	12	advcl	_	_
 
 
@@ -4142,7 +4142,7 @@
 3	iera	iera	NOUN	n	Number=Sing|Person=3	4	obj	_	hand;mão
 4	pado	pado	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	put,cross;colocar,atravessar
 5	bo	bo	NOUN	n	_	4	obl	_	plumage,carapace;plumagem,carapaça
-6	,	,	PUNCT	PUNCT	punct	4	PUNCT	PUNCT	punct
+6	,	,	PUNCT	punct	_	4	punct	_	_
 7	bo	bo	NOUN	n	_	4	obl	_	_
 8	kajeje	kajeje	ADP	posp	_	7	case	_	around;ao redor de
 
@@ -4159,7 +4159,7 @@
 # text_por = Na verdade, a cigarra tinha rachado suas costas
 1	Konorigi	konorigi	NOUN	n	_	5	nsubj	_	_
 2	rade	rade	ADV	ADV	adv	5	advmod	_	truly,in fact;na verdade,de fato
-3	,	,	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+3	,	,	PUNCT	punct	_	2	PUNCT	punct	_
 4	tuboru	poru	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	nmod	_	back;costas,dorso
 5	bo	bo	NOUN	n	_	6	obj	_	_
 6	pao	pao	X	ideo	_	0	root	_	_
@@ -4186,13 +4186,13 @@
 # text_por = Então, na verdade, deixou a onça esperando sentada, aqui com seu casco vazio
 1	Dykeje	dykeje	ADV	ADV	adv	6	advmod	_	_
 2	rade	rade	ADV	ADV	adv	6	advmod	_	_
-3	,	,	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+3	,	,	PUNCT	punct	_	2	PUNCT	punct	_
 4	ure	u	PRON	bi	_	6	nsubj	_	_
 5	adygo	adygo	NOUN	n	_	6	obj	_	_
 6	mugu	mugu	VERB	v	Number=Sing|Person=3	0	root	_	_
 7	pagado	_	VERB	v	Number=Sing|Person=3|Voice=Cau	_	_	_	wait;esperar
 8	tu	tu	ADV	ADV	adv	6	advmod	_	thus;assim
-9	,	,	PUNCT	PUNCT	punct	6	PUNCT	PUNCT	punct
+9	,	,	PUNCT	punct	_	6	PUNCT	punct	_
 10	woe	woe	ADV	ADV	adv	6	advmod	_	here;aqui
 11	tuwiri	biri	NOUN	n	Number=Sing|Person=3|Reflex=Yes	6	obl	_	skin;pele
 12	bioro	bioro	_	_	_	_	_	_	empty;vazio
@@ -4208,7 +4208,7 @@
 4	oinody	oinody	ADV	ADV	adv	5	advmod	_	thus;assim
 5	akedykare	akedy	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 6	roga	roga	ADV	ADV	adv	5	advmod	_	still;ainda
-7	.	.	PUNCT	PUNCT	punct	5	PUNCT	punct	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = 001.IETKB
 # text = Boe emagore jiboe , boe egore jiboe , kuricigo , makaguragare
@@ -4217,13 +4217,13 @@
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
 2	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	jiboe	_	PRON	pron	_	2	obj	_	_
-4	,	,	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+4	,	,	PUNCT	punct	_	2	PUNCT	punct	_
 5	boe	boe	NOUN	n	_	6	nsubj	_	_
 6	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	_	_	_	_
 7	jiboe	jiboe	PRON	pron	_	_	_	_	_
-8	,	,	PUNCT	PUNCT	punct	6	PUNCT	PUNCT	punct
+8	,	,	PUNCT	punct	_	6	PUNCT	punct	_
 9	kuricigo	kuricigo	_	_	_	6	advcl	_	_
-10	,	,	PUNCT	PUNCT	punct	6	PUNCT	PUNCT	punct
+10	,	,	PUNCT	punct	_	6	PUNCT	punct	_
 11	makaguragare	makaguraga	_	_	Mood=Ind|PronType=Ind	6	advmod	_	_
 
 # sent_id = 002.IETKB
@@ -4236,10 +4236,10 @@
 4	eregodaji	rekodaji	ADP	posp	Number=Plur|Person=3	3	case	_	behind,after;atrás,depois
 5	moto	moto	NOUN	n	_	2	obl	_	_
 6	to	to	ADP	posp	_	5	case	_	_
-7	,	,	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+7	,	,	PUNCT	punct	_	2	PUNCT	punct	_
 8	pobo	pobo	NOUN	n	_	2	obl	_	_
 9	to	to	ADP	posp	_	8	case	_	_
-10	,	,	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+10	,	,	PUNCT	punct	_	2	PUNCT	punct	_
 11	baru	baru	NOUN	n	_	2	obl	_	_
 12	to	to	ADP	posp	Number=Sing|Person=3	11	case	_	sky,heaven;céu
 
@@ -4262,7 +4262,7 @@
 1	Iordydywa	_	VERB	v	Number=Sing|Person=1	0	root	_	_
 2	rakakare	_	NOUN	n	Mood=Ind|Polarity=Neg	1	obl	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
-4	,	,	PUNCT	PUNCT	punct	1	PUNCT	PUNCT	punct
+4	,	,	PUNCT	punct	_	1	PUNCT	punct	_
 5	mare	mare	CCONJ	cconj	_	7	cc	_	_
 6	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	7	nsubj	_	_
 7	by	by	VERB	v	Number=Sing|Person=3	1	conj	_	_
@@ -4275,11 +4275,11 @@
 # text_eng = 
 # text_por = Milho. Os bororo tinham milho. Assim havia milho para os bororo
 1	Kuiada	kuiada	NOUN	n	Mood=Ind	5	discourse	_	maize,corn;milho
-2	.	_	PUNCT	PUNCT	punct	1	PUNCT	PUNCT	punct
+2	.	_	PUNCT	punct	_	1	PUNCT	punct	_
 3	boe	_	NOUN	n	_	4	nmod	_	_
 4	eno	_	NOUN	n	_	5	nsubj	_	_
 5	kuiadare	kuiada	NOUN	n	Mood=Ind	0	root	_	_
-6	.	_	PUNCT	PUNCT	punct	5	PUNCT	PUNCT	punct
+6	.	_	PUNCT	punct	_	5	PUNCT	punct	_
 7	Kodire	kodire	ADV	adv	_	8	advmod	_	_
 8	kuiadare	kuiada	NOUN	n	Mood=Ind	5	parataxis	_	_
 9	boe	boe	NOUN	n	_	8	obl	_	_
@@ -4292,7 +4292,7 @@
 1	Burekoibo	Burekoibo	PROPN	propn	_	2	nmod	_	_
 2	ore	o	NOUN	n	Mood=Ind	3	nsubj	_	_
 3	kuiada	kuiada	NOUN	n	_	0	root	_	_
-4	.	.	PUNCT	PUNCT	punct	3	PUNCT	PUNCT	punct
+4	.	.	PUNCT	punct	_	3	PUNCT	punct	_
 5	Kuieje	Kuieje	PROPN	propn	_	7	nmod	_	_
 6	Bakidobo	Bakidobo	PROPN	propn	_	5	goeswith	_	_
 7	ore	o	NOUN	n	Mood=Ind	8	nsubj	_	_
@@ -4329,7 +4329,7 @@
 # text_por = E aqui os bororo se encontram
 1	Woere	woe	ADV	adv	Mood=Ind	5	advmod	_	_
 2	icare	icare	ADV	ADV	adv	1	goeswith	_	_
-3	,	,	PUNCT	PUNCT	punct	1	PUNCT	PUNCT	punct
+3	,	,	PUNCT	punct	_	1	PUNCT	punct	_
 4	boe	boe	NOUN	n	_	5	nsubj	_	_
 5	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	come,arrive;vir,chegar
 6	pu	pu	PRON	pron	PronType=Rcp|Reflex=Yes	5	_	_	_
@@ -4352,7 +4352,7 @@
 2	aregodyre	_	VERB	v	_	0	root	_	_
 3	pu	pu	PRON	_	PronType=Rcp|Reflex=Yes	2	obl	_	_
 4	ae	ae	ADP	posp	_	3	case	_	_
-5	.	.	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+5	.	.	PUNCT	punct	_	2	PUNCT	punct	_
 6	Kodire	kodire	ADV	adv	_	10	advmod	_	_
 7	awy	awy	DET	_	_	8	det	_	_
 8	areme	aredy	NOUN	n	Number=Plur	10	nsubj	_	_
@@ -4360,7 +4360,7 @@
 10	okwakare	okwa	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	parataxis	_	hide,loose;perder,esconder
 11	oino	oino	ADV	adv	_	10	advmod	_	_
 12	epiji	piji	ADP	posp	Number=Plur|Person=3	10	obl	_	_
-13	:	_	PUNCT	PUNCT	PUNCT	punct	_	_	_
+13	:	_	PUNCT	punct	_	_	_	_	_
 14	pady	_	_	_	_	_	_	_	_
 15	kimore	kimo	ADV	adv	Mood=Ind	_	_	_	_
 16	oino	oino	ADV	ADV	adv	_	_	_	_
@@ -4374,7 +4374,7 @@
 2	kaere	kae	ADP	posp	Mood=Ind|Number=Sing|Person=3	1	case	_	_
 3	areme	aredy	NOUN	n	Number=Plur	4	nsubj	_	_
 4	etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-5	.	.	PUNCT	PUNCT	punct	4	PUNCT	PUNCT	punct
+5	.	.	PUNCT	punct	_	4	PUNCT	punct	_
 6	Etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
 7	toro	toro	ADP	posp	Number=Sing|Person=3	6	advmod	_	_
 8	kuiada	kuiada	NOUN	n	_	6	obl	_	_
@@ -4393,11 +4393,11 @@
 # text_eng = 
 # text_por = Elas disseram: vamos ao milho, vamos ao milho
 1	Egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-2	:	:	PUNCT	PUNCT	punct	1	PUNCT	PUNCT	punct
+2	:	:	PUNCT	punct	_	1	PUNCT	punct	_
 3	padywo	ty	VERB	v	Clusivity=In|Mood=Subj|Number=Plur|Person=1	1	cc	_	_
 4	kuiada	kuiada	NOUN	n	_	3	obl	_	_
 5	kae	kae	ADP	posp	Number=Sing|Person=3	4	case	_	_
-6	,	,	PUNCT	PUNCT	punct	3	PUNCT	PUNCT	punct
+6	,	,	PUNCT	punct	_	3	PUNCT	punct	_
 7	padywo	ty	VERB	v	Clusivity=In|Mood=Subj|Number=Plur|Person=1	3	parataxis	_	_
 8	kuiada	kuiada	NOUN	n	_	7	obl	_	_
 9	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
@@ -4431,7 +4431,7 @@
 1	Meri	meri	NOUN	n	_	2	nsubj	_	day,sun;dia,sol
 2	kodyre	kody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	jii	jii	ADV	ADV	adv	2	advmod	_	for a long time;por muito tempo,até
-4	...	...	PUNCT	PUNCT	punct	2	PUNCT	PUNCT	punct
+4	...	...	PUNCT	punct	_	2	PUNCT	punct	_
 5	meri	meri	NOUN	n	_	6	nmod	_	_
 6	rekody	rekody	NOUN	n	Number=Sing|Person=3	8	obl	_	run;correr
 7	tabo	apo	ADP	posp	Number=Sing|Person=3	6	case	_	_
@@ -4451,12 +4451,12 @@
 # text_eng = They said: our mothers are coming wiht maize, our mothers are coming wiht maize, 
 # text_por = Exclamaram: nossas mães estão chegando com milho! Nossas mães estão chegando com milho!
 1	Egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-2	:	:	PUNCT	PUNCT	punct	1	PUNCT	punct	_
+2	:	:	PUNCT	punct	_	1	PUNCT	punct	_
 3	pajemage	muga	NOUN	n	Clusivity=In|Number=Plur|Person=3	4	nsubj	_	mother;mãe
 4	etaregody	aregody	VERB	v	Number=Plur|Person=3	1	cc	_	_
 5	kuiada	kuiada	NOUN	n	_	4	obl	_	_
 6	tabo	apo	ADP	posp	Number=Sing|Person=3	5	case	_	_
-7	.	.	PUNCT	PUNCT	punct	4	PUNCT	punct	_
+7	.	.	PUNCT	punct	_	4	PUNCT	punct	_
 8	Pajemage	muga	NOUN	n	Clusivity=In|Number=Plur|Person=1	9	nsubj	_	mother;mãe
 9	etaregody	aregody	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 10	kuiada	kuiada	NOUN	n	_	9	obl	_	_
@@ -4474,9 +4474,9 @@
 # text_eng = It's nothing
 # text_por = Não é nada!
 1	Hum	_	X	x	_	0	root	_	_
-2	!	!	PUNCT	PUNCT	punct	1	PUNCT	punct	_
+2	!	!	PUNCT	punct	_	1	PUNCT	punct	_
 3	Hum	_	X	x	_	1	parataxis	_	_
-4	!	!	PUNCT	PUNCT	punct	3	PUNCT	punct	_
+4	!	!	PUNCT	punct	_	3	PUNCT	punct	_
 5	Boekimore	boekimo	ADV	adv	Mood=Ind	1	parataxis	_	nothing;nada
 
 # sent_id = 022.IETKB
@@ -4581,7 +4581,7 @@
 # text_por = Foram e deixaram seus filinhos de novo com a avó
 1	Etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	toro	toro	ADP	posp	_	1	advmod	_	_
-3	,	,	PUNCT	PUNCT	punct	1	PUNCT	punct	_
+3	,	,	PUNCT	punct	_	1	PUNCT	punct	_
 4	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi	7	nsubj	_	_
 5	tore	tore	NOUN	n	_	_	_	_	_
 6	kugure	kuguri	NOUN	n	Number=Plur	5	nmod	_	_
