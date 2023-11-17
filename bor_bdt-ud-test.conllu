@@ -3549,7 +3549,7 @@
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = sabia.010
-# text = Dykejere icare uture piji , taci toro baru to , aroe i pudumi du tabo
+# text = Dykejere icare uture piji , taci toro baru to , aroe i pudumi dytabo
 # text_eng = 
 # text_por = Depois foi embora dele logo lá para o céu, convertido em aroe.
 1	Dykejere	keje	ADV	adv	Mood=Ind	3	advmod	_	_
@@ -3568,36 +3568,35 @@
 14	dytabo	du	SCONJ	x	_	13	mark	_	_
 
 # sent_id = sabia.011
-# text = Du keje icare awy kiogo akogodure akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
+# text = Dykeje icare awy kiogo akogodure akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
 # text_eng = 
 # text_por = Depois o passarinho começou a cantar dizendo: Céu líquido se derrama, céu líquido se derrama, br!, br!, se derrama, se derrama, se derrama br je!
-1	Du	du	X	_	_	6	advmod	_	_
-2	keje	keje	ADP	_	_	1	compound	_	_
-3	icare	icare	ADV	adv	_	6	advmod	_	_
-4	awy	awy	DET	_	_	5	det	_	_
-5	kiogo	kiogo	NOUN	n	_	6	nsubj	_	_
-6	akogodure	akogody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-7	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	6	xcomp	_	_
-8	:	_	PUNCT	punct	_	7	punct	_	_
-9	Baru	_	NOUN	n	_	11	nsubj	_	_
-10	kuru	_	NOUN	n	_	9	nmod	_	_
-11	ciri	_	VERB	v	_	7	parataxis	_	_
-12	,	,	PUNCT	punct	_	11	punct	_	_
-13	baru	_	NOUN	n	_	15	nsubj	_	_
-14	kuru	_	NOUN	n	_	13	nmod	_	_
-15	ciri	_	VERB	v	_	11	parataxis	_	_
-16	br	br	X	ideo	_	11	parataxis	_	_
-17	!	!	PUNCT	punct	_	16	punct	_	_
-18	br	br	X	ideo	_	11	parataxis	_	_
-19	!	!	PUNCT	punct	_	18	punct	_	_
-20	ciri	_	VERB	v	_	11	parataxis	_	_
-21	ciri	_	VERB	v	_	11	parataxis	_	_
-22	ciri	_	VERB	v	_	11	parataxis	_	_
-23	br	br	X	ideo	_	11	parataxis	_	_
-24	!	!	PUNCT	punct	_	23	punct	_	_
-25	br	br	X	ideo	_	11	parataxis	_	_
-26	!	!	PUNCT	punct	_	25	punct	_	_
-27	je	je	ADV	adv	_	7	advcl	_	thus;assim
+1	dykeje	keje	ADV	_	_	5	advmod	_	_
+2	icare	icare	ADV	adv	_	5	advmod	_	_
+3	awy	awy	DET	_	_	4	det	_	_
+4	kiogo	kiogo	NOUN	n	_	5	nsubj	_	_
+5	akogodure	akogody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+6	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	5	xcomp	_	_
+7	:	_	PUNCT	punct	_	6	punct	_	_
+8	Baru	_	NOUN	n	_	10	nsubj	_	_
+9	kuru	_	NOUN	n	_	8	nmod	_	_
+10	ciri	_	VERB	v	_	6	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	baru	_	NOUN	n	_	14	nsubj	_	_
+13	kuru	_	NOUN	n	_	12	nmod	_	_
+14	ciri	_	VERB	v	_	10	parataxis	_	_
+15	br	br	X	ideo	_	10	parataxis	_	_
+16	!	!	PUNCT	punct	_	15	punct	_	_
+17	br	br	X	ideo	_	10	parataxis	_	_
+18	!	!	PUNCT	punct	_	17	punct	_	_
+19	ciri	_	VERB	v	_	10	parataxis	_	_
+20	ciri	_	VERB	v	_	10	parataxis	_	_
+21	ciri	_	VERB	v	_	10	parataxis	_	_
+22	br	br	X	ideo	_	10	parataxis	_	_
+23	!	!	PUNCT	punct	_	22	punct	_	_
+24	br	br	X	ideo	_	10	parataxis	_	_
+25	!	!	PUNCT	punct	_	24	punct	_	_
+26	je	je	ADV	adv	_	6	advcl	_	thus;assim
 
 # sent_id = sabia.012
 # text = Icare Birimodo , Kaboreu , Manobaru , Tadugo , Aroia Kurireu , Kogebowu , Buturegadu , Akaruio Boroge , Apuie Eceba , Kuruguga , Meriribaru , ere tudo pui , egore : inoba awy kiogorogu akore ?
@@ -3714,19 +3713,18 @@
 9	rugadu	_	ADV	adv	_	8	advcl	_	_
 
 # sent_id = sabia.018
-# text = Du kejere icare ere iogwarido ji , egore Wa !
+# text = Dykejere icare ere iogwarido ji , egore Wa !
 # text_eng = 
 # text_por = Aí todos o aclamaram: Wa!
-1	Du	du	X	_	_	5	advmod	_	_
-2	kejere	_	ADV	adv	_	1	compound	_	_
-3	icare	_	ADV	adv	_	5	advcl	_	_
-4	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
-5	iogwarido	_	VERB	v	_	0	root	_	_
-6	ji	ji	ADP	posp	Number=Plur|Person=3	5	obl	_	_
-7	,	,	PUNCT	punct	_	6	punct	_	_
-8	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	5	xcomp	_	_
-9	Wa	wa	INTJ	_	_	8	ccomp	_	_
-10	!	!	PUNCT	punct	_	9	punct	_	_
+1	Dykejere	_	ADV	adv	_	4	advmod	_	_
+2	icare	_	ADV	adv	_	4	advcl	_	_
+3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
+4	iogwarido	_	VERB	v	_	0	root	_	_
+5	ji	ji	ADP	posp	Number=Plur|Person=3	4	obl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	4	xcomp	_	_
+8	Wa	wa	INTJ	_	_	7	ccomp	_	_
+9	!	!	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = sabia.019
 # text = Kocare iere oinono Baru kuru ciri , nowy tuwadaru kae . Ie remawure Kogae Cereu rema .
@@ -3929,7 +3927,7 @@
 2	ma	ma	SCONJ	sconj	_	1	mark	_	_
 3	akagoridodomode	agorido	VERB	v	Number=Sing|Person=2|Tense=Fut|Voice=Cau	0	root	_	_
 
-# sent_id = 020.EncIE
+# sent_id = 021.EncIE
 # text = Inagoridody keje , itonaregedy oragydyre
 # text_eng = 
 # text_por = Meu filho chorou quando eu fui escarnecido
@@ -3945,10 +3943,10 @@
 # text_por = A cigarra disse que ia medir a resistência do seu desejo de comida com o da onça
 1	Konorigi	konorigi	NOUN	n	_	2	nsubj	_	cicada;cigarra
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	tuiagu	_	PART	prcl	Number=Sing|Person=3|Reflex=Yes	6	dep	_	_
+3	tuiagu	_	PART	prcl	Number=Sing|Person=3|Reflex=Yes	2	ccomp	_	_
 4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	nmod	_	_
 5	boi	boi	NOUN	n	_	6	obj	_	_
-6	remagu	remagu	VERB	v	_	2	ccomp	_	measure;medir
+6	remagu	remagu	VERB	v	_	3	xcomp	_	measure;medir
 7	adygo	adygo	NOUN	n	_	8	nmod	_	_
 8	uke	ke	NOUN	n	Number=Sing|Person=3	9	nmod	_	food;alimento,comida
 9	boi	boi	NOUN	n	_	6	obl	_	desire,wish;desejo,vontade
