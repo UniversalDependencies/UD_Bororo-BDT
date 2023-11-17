@@ -4592,7 +4592,7 @@
 10	?	?	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = 033.IETKB
-# text = Kocare pajemage egore kuiada koduie mai . Icare pejemage etyre , kuiada kae , kuiada kae . Inoba ure ?
+# text = Kocare pajemage egore kuiada koduie mai . Icare pejemage etyre kuiada kae , kuiada kae . Inoba ure ?
 # text_eng = 
 # text_por = E logo nossas mães dizem de esperar o milho ainda um pouco e depois elas sempre vão ao milho. Como é?
 1	Kocare	kocare	ADV	adv	_	3	advmod	_	_
@@ -4710,7 +4710,7 @@
 9	kocare	kocare	INTJ	_	_	5	discourse	_	_
 
 # sent_id = 003.dialogomulherAeB
-# text = Booio ... kocare ca tagagoi oino ii marenaryrogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dykodi , oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
+# text = Booio ... kocare ca tagagoi oino ii marenaryrogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dykodi , oredyrogy rugady nowy iwie oredy ... ema... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
 # text_eng = 
 # text_por = vixi, nossa vocês estão falando isso de mim, eu sou uma coitada, não é meu marido, ela que quer que eu fique com ele mas ela que quer ele,  maridinho dela mesmo dessa minha prima.... ela... mas não é meu marido não ió... por que vocês que querem que eu tenha marido
 1	Booio	booio	INTJ	_	_	5	discourse	_	_
@@ -4786,7 +4786,7 @@
 # text_eng = 
 # text_por = eu me chamo Koe Makarewudo, meu pai se chama José Kadagare, minha mae se chama Amelinha Agua
 1	Ikiere	iere	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
-2	Koe	Koe	PROPN	propn	_	Koe	1	nsubj	_	_
+2	Koe	Koe	PROPN	propn	_	1	nsubj	_	_
 3	Makarewudo	Makarewudo	PROPN	propn	_	2	compound	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	ioga	oga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	6	nmod	_	_
@@ -4795,7 +4795,7 @@
 8	Kadagare	_	PROPN	propn	_	7	compound	_	_
 9	,	_	PUNCT	punct	_	7	punct	_	_
 10	muga	muga	NOUN	n	_	11	nmod	_	_
-11	iere	iere	NOUN	n	Number=Sing|Number=Sing	12	nsubj	_	_
+11	iere	iere	NOUN	n	Number=Sing|Number[psor]=Sing	12	nsubj	_	_
 12	Amelinha	Amelinha	PROPN	propn	_	1	conj	_	_
 13	Agwa	Agwa	PROPN	propn	_	12	compound	_	_
 
