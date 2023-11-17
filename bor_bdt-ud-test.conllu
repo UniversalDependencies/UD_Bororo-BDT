@@ -4694,7 +4694,7 @@
 11	hm	hm	X	ideo	_	4	discourse	_	_
 
 # sent_id = 001.dialogomulherAeB
-# text = Kocare ure tugogedy ukare paruduiwado ukare pawi
+# text = Kocare ure tugogedy ukare parydywado ukare pawiie
 # text_eng = 
 # text_por = Oh ela arranjou um marido e não nos deixou sabendo, não nos avisou
 1	Kocare	kocare	ADV	adv	_	3	discourse	_	_
@@ -4764,7 +4764,7 @@
 39	ikogedy	kogedy	VERB	_	Number=Sing|Person=1	37	ccomp	_	marry;casar-se
 
 # sent_id = 004.dialogomulherAeB
-# text = Ca , tare ikogedy iorudywa bokwa dytabo , inudyre ty je ca iedadyre iorudyre tagagoi i dyji , kajawu imode ikogedy mare kajawu
+# text = Ca , tare ikogedy iorudywa bokwa dytabo , inudyre ty je ca iedadyre iorudyre tagagoi ii dyji , kajawu imode ikogedy mare kajawu
 # text_eng = 
 # text_por = Vocês me deram marido sem eu saber, eu tava dormindo e acordei e vi vocês falando isso de mim, esperem vou ter marido mas esperem
 1	Ca	ca	INTJ	_	_	3	discourse	_	_
