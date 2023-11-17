@@ -4861,7 +4861,7 @@
 9	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	big;grande
 10	.	.	PUNCT	punct	_	2	punct	_	_
 11	Imagomode	mako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	parataxis	_	_
-12	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	12	nsubj	_	_
+12	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	11	nsubj	_	_
 13	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	10	conj	_	_
 14	ji	ji	ADP	posp	_	12	obl	_	_
 15	boeji	boeji	X	_	_	12	obj	_	_
