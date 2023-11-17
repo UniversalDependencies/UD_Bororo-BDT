@@ -3571,7 +3571,7 @@
 # text = Dykeje icare awy kiogo akogodure akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
 # text_eng = 
 # text_por = Depois o passarinho começou a cantar dizendo: Céu líquido se derrama, céu líquido se derrama, br!, br!, se derrama, se derrama, se derrama br je!
-1	dykeje	keje	ADV	_	_	5	advmod	_	_
+1	Dykeje	keje	ADV	_	_	5	advmod	_	_
 2	icare	icare	ADV	adv	_	5	advmod	_	_
 3	awy	awy	DET	_	_	4	det	_	_
 4	kiogo	kiogo	NOUN	n	_	5	nsubj	_	_
@@ -3943,7 +3943,7 @@
 # text_por = A cigarra disse que ia medir a resistência do seu desejo de comida com o da onça
 1	Konorigi	konorigi	NOUN	n	_	2	nsubj	_	cicada;cigarra
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	tuiagu	_	PART	prcl	Number=Sing|Person=3|Reflex=Yes	2	ccomp	_	_
+3	tuiagu	_	PRON	pron	Number=Sing|Person=3|Reflex=Yes	2	ccomp	_	_
 4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	nmod	_	_
 5	boi	boi	NOUN	n	_	6	obj	_	_
 6	remagu	remagu	VERB	v	_	3	xcomp	_	measure;medir
@@ -3967,7 +3967,7 @@
 9	dyji	dyji	PART	prcl	_	4	mark	_	_
 
 # sent_id = 003.KJB
-# text = Mare adygo akore boroie, konorigie uke boigodumode ji tubiji
+# text = Mare adygo akore boroie , konorigie uke boigodumode ji tubiji
 # text_eng = 
 # text_por = Mas a onça falou que não, que a cigarra dentiria desejo de comida antes
 1	Mare	mare	CCONJ	cconj	_	3	conj	_	_
