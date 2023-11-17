@@ -4716,7 +4716,7 @@
 2	iorydywakare	jordywa	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 3	ty	ty	ADV	adv	_	2	advmod	_	_
 4	ia	_	DET	_	_	5	det	_	_
-5	iwagedyre	bagedy	NOUN	n	Mood=Ind|Number=Sing|Person=1	2	cc	_	kinship term;termo de parentesco
+5	iwagedyre	bagedy	NOUN	n	Mood=Ind|Number=Sing|Person=1	2	conj	_	kinship term;termo de parentesco
 6	ie	ie	NOUN	n	Number=Sing|Person=3	5	obl	_	_
 7	dyji	dyji	X	_	_	5	dep	_	_
 8	,	,	PUNCT	punct	_	5	punct	_	_
@@ -4735,7 +4735,7 @@
 7	ii	ji	ADP	_	Number=Sing|Person=1	5	obl	_	_
 8	marenaryrogunure	marenary	NOUN	_	Aspect=Prog|Degree=Dim|Mood=Ind	5	parataxis	_	humble,poor;pobre,coitado
 9	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-10	,	,	PUNCT	_	_	8	_	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
 11	itoredy	oredy	NOUN	_	Number=Sing|Person=1	5	parataxis	_	_
 12	karega	_	X	_	Polarity=Neg	11	dep	_	_
 13	,	,	PUNCT	_	_	11	punct	_	_
@@ -4790,7 +4790,7 @@
 18	,	,	PUNCT	_	_	13	punct	_	_
 19	kajao	kajao	INTJ	_	_	21	discourse	_	_
 20	imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|PronType=Bi|Tense=Fut	21	nsubj	_	_
-21	ikogedy	kogedy	_	_	Number=Sing|Person=1	13	parataxis	_	_
+21	ikogedy	kogedy	VERB	_	Number=Sing|Person=1	13	parataxis	_	_
 22	mare	mare	CCONJ	cconj	_	23	cc	_	_
 23	kajao	kajao	INTJ	_	_	21	parataxis	_	_
 
