@@ -889,7 +889,7 @@
 # text = Dario ure iorydyiwamodedydo boe ebataru ji
 # text_eng = Dario will teach the language of the Bororo
 # text_por = Dario vai ensinar a língua bororo
-1	Dario	Dario	PROPN	propn	_	_	3	nsubj	_	_
+1	Dario	Dario	PROPN	propn	_	3	nsubj	_	_
 2	ure	_	X	_	Mood=Ind	3	dep	_	_
 3	iorydyiwamodedydo	_	VERB	v	Number=Sing|Person=3|Subord=Yes|Tense=Fut|Voice=Cau	0	root	_	_
 4	boe	boe	NOUN	n	_	5	nmod	_	_
@@ -1134,7 +1134,7 @@
 1	kaboba	kabo	PRON	pron	PronType=Int	3	obj	_	what;o.que
 2	amode	_	X	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	3	nsubj	_	_
 3	maku	maku	VERB	v	_	0	root	_	give;dar
-4	Enawureudo	Enawureudo	PROPN	propn	_	_	3	obl	_	_
+4	Enawureudo	Enawureudo	PROPN	propn	_	3	obl	_	_
 5	ai	ai	ADP	posp	_	4	case	_	to;para,a
 6	?	?	PUNCT	punct	_	3	punct	_	_
 
@@ -1550,8 +1550,8 @@
 # text = Tiago Fabrício etaregodyre
 # text_eng = Tiago and Fabrício (have) arrived
 # text_por = Tiago e Fabrício chegaram
-1	Tiago	Tiago	PROPN	propn	_	_	3	nsubj	_	_
-2	Fabrício	Fabrício	PROPN	propn	_	_	1	conj	_	_
+1	Tiago	Tiago	PROPN	propn	_	3	nsubj	_	_
+2	Fabrício	Fabrício	PROPN	propn	_	1	conj	_	_
 3	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	arrive;chegar
 
 # sent_id = ABE-325
@@ -1565,7 +1565,7 @@
 # text = Fabrício ure awagoe ebito
 # text_eng = Fabrício killed the snakes
 # text_por = Fabrício matou as cobras
-1	Fabrício	Fabrício	PROPN	propn	_	_	4	nsubj	_	_
+1	Fabrício	Fabrício	PROPN	propn	_	4	nsubj	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	dep	_	_
 3	awagoe	awagy	NOUN	n	Number=Plur	4	obj	_	snake;cobra
 4	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	_
@@ -1592,16 +1592,16 @@
 # text = João Maria ebitodyre
 # text_eng = João and Maria died
 # text_por = João e Maria morreram
-1	João	João	PROPN	propn	_	_	3	nsubj	_	_
-2	Maria	Maria	PROPN	propn	_	_	1	conj	_	_
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
 3	ebitodyre	bi	VERB	v	Number[subj]=Plur|Person[subj]=3|Voice=Cau	0	root	_	die;morrer
 
 # sent_id = ABE-330
 # text = João Maria etaregodyre
 # text_eng = João and Maria (have)arrived
 # text_por = João e Maria chegaram
-1	João	João	PROPN	propn	_	_	3	nsubj	_	_
-2	Maria	Maria	PROPN	propn	_	_	1	conj	_	_
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
 3	etaregodyre	arego	VERB	v	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	arrive;chegar
 
 # sent_id = ABE-333
@@ -1615,8 +1615,8 @@
 # text = João Maria etaregody pemegare
 # text_eng = João and Maria arrived well
 # text_por = João e Maria chegaram bem
-1	João	João	PROPN	propn	_	_	3	nsubj	_	_
-2	Maria	Maria	PROPN	propn	_	_	1	conj	_	_
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
 3	etaregody	arego	VERB	v	Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	bring;trazer
 4	pemegare	pemega	ADV	adv	Mood=Ind	3	advmod	_	good,well;bom,bem
 
@@ -1640,7 +1640,7 @@
 # text = Fabrício ure pagi parego
 # text_eng = Fabrício makes us run (runs us)
 # text_por = Fabrício nos faz correr (lit. F. corre-nos)
-1	Fabrício	_	PROPN	propn	_	_	4	nsubj	_	_
+1	Fabrício	_	PROPN	propn	_	4	nsubj	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	4	dep	_	_
 3	pagi	pagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	4	obj	_	_
 4	parego	reko	VERB	v	Clusivity=In|Number[subj]=Plur|Person[subj]=1	0	root	_	run;correr
@@ -1714,8 +1714,8 @@
 # text = João Maria etaregodyre jao
 # text_eng = João and Maria (have) arrived before
 # text_por = João e Maria já chegaram antes
-1	João	João	PROPN	propn	_	_	3	nsubj	_	_
-2	Maria	Maria	PROPN	propn	_	_	1	conj	_	_
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
 3	etaregodyre	aregodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	arrive;chegar
 4	jao	jao	ADV	adv	_	3	advmod	_	_
 
@@ -1899,7 +1899,7 @@
 1	Imagore	mako	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	speak;falar
 2	ak	a	PRON	bi	Number=Sing|Person=2	1	obl	_	_
 3	abo	apo	ADP	posp	_	2	case	_	_
-4	João	João	PROPN	propn	_	_	1	obl	_	_
+4	João	João	PROPN	propn	_	1	obl	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = CGPB-p40.1
@@ -2963,7 +2963,7 @@
 # text = Pedrore akuno
 # text_eng =
 # text_por = Pedro te alimentou
-1	Pedrore	Pedro	PROPN	propn	_	_	2	nsubj	_	_
+1	Pedrore	Pedro	PROPN	propn	_	2	nsubj	_	_
 2	akuno	kuno	VERB	vt	Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 0076a.PessGr
@@ -3032,7 +3032,7 @@
 # text = Pedro akore tumodyie kare ewido
 # text_eng = 
 # text_por = Pedro falou que ele mesmo mataria peixes
-1	Pedro	Pedro	PROPN	propn	_	_	2	nsubj	_	_
+1	Pedro	Pedro	PROPN	propn	_	2	nsubj	_	_
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 3	tumodyie	ty	PRON	bi	Mood=Irr|PronType=Bi|Reflex=Yes|Tense=Fut	2	dep	_	_
 4	kare	kare	NOUN	n	_	5	obj	_	_
@@ -4275,12 +4275,12 @@
 # text = Burekoibo ore kuiada . Kuieje Bakidobo ore kuiada
 # text_eng = 
 # text_por = O milho era burekoibo (nome de espírito) e de kuieje bakidobo
-1	Burekoibo	Burekoibo	PROPN	propn	_	_	2	nmod	_	_
+1	Burekoibo	Burekoibo	PROPN	propn	_	2	nmod	_	_
 2	ore	o	NOUN	n	Mood=Ind	3	nsubj	_	_
 3	kuiada	kuiada	NOUN	n	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
-5	Kuieje	Kuieje	PROPN	propn	_	_	7	nmod	_	_
-6	Bakidobo	Bakidobo	PROPN	propn	_	_	5	compound	_	_
+5	Kuieje	Kuieje	PROPN	propn	_	7	nmod	_	_
+6	Bakidobo	Bakidobo	PROPN	propn	_	5	compound	_	_
 7	ore	o	NOUN	n	Mood=Ind	8	nsubj	_	_
 8	kuiada	kuiada	NOUN	n	_	3	parataxis	_	_
 
