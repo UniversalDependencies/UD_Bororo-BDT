@@ -4217,7 +4217,7 @@
 # text = Macare akedu nure boe eregodaji mototo , poboto , baruto
 # text_eng = 
 # text_por = Mas (tudo) está acabando atrás dos bororo para o chão , para a água , para o céu
-1	Macare	macare	CCONJ	cconj	_	2	conj	_	_
+1	Macare	macare	CCONJ	cconj	_	2	dep	_	_
 2	akedunure	akedu	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	boe	boe	NOUN	n	_	2	obl	_	_
 4	eregodaji	rekodaji	ADP	posp	Number=Plur|Person=3	3	case	_	behind,after;atrás,depois
@@ -4243,7 +4243,7 @@
 7	bokware	_	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = 004.IETKB
-# text = Iordydywa rakakare ji , mare imode by ty oino kajejej
+# text = Iordydywa rakakare ji , mare imode by ty oino kajeje
 # text_eng = 
 # text_por = Eu não sei muito, mas vou contar (por) assim
 1	Iordydywa	_	VERB	v	Number=Sing|Person=1	0	root	_	_
