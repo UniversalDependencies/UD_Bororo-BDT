@@ -4711,7 +4711,7 @@
 9	kocare	kocare	INTJ	_	_	5	discourse	_	_
 
 # sent_id = 003.dialogomulherAeB
-# text = Booio ... kocare ca tagagoi oino ii marenaryrogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dy kodi oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
+# text = Booio ... kocare ca tagagoi oino ii marenaryrogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dykodi oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
 # text_eng = 
 # text_por = vixi, nossa vocês estão falando isso de mim, eu sou uma coitada, não é meu marido, ela que quer que eu fique com ele mas ela que quer ele,  maridinho dela mesmo dessa minha prima.... ela... mas não é meu marido não ió... por que vocês que querem que eu tenha marido
 1	Booio	booio	INTJ	_	_	5	discourse	_	_
@@ -4729,7 +4729,7 @@
 13	,	,	PUNCT	_	_	11	punct	_	_
 14	emare	ema	PRON	pron	Mood=Ind|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	aidyre	aidy	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
-16	imuguwo	mugu	VERB	_	Mood=Sub|Number=Sing|Person=1	15	cc	_	_
+16	imuguwo	mugu	VERB	_	Mood=Sub|Number=Sing|Person=1	15	ccomp	_	_
 17	apo	apo	ADP	_	_	15	obl	_	_
 18	taidy	aidy	VERB	_	Number=Sing|Person=3|Reflex=Yes	15	parataxis	_	_
 19	koia	koia	SCONJ	_	_	18	obl	_	_
