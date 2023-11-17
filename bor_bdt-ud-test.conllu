@@ -4758,7 +4758,7 @@
 30	...	_	PUNCT	_	_	29	punct	_	_
 31	ma	ma	PART	_	_	32	cc	_	_
 32	itoredy	oredy	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	29	parataxis	_	_
-33	karega	karega	_	_	Polarity=Neg	32	dep	_	_
+33	karega	karega	ADV	adv	Polarity=Neg	32	dep	_	_
 34	io	io	INTJ	_	_	32	discourse	_	_
 35	...	_	PUNCT	_	_	32	punct	_	_
 36	kocare	kocare	ADV	_	_	37	advmod	_	_
