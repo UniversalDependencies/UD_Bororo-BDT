@@ -4449,7 +4449,7 @@
 1	Egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	:	:	PUNCT	punct	_	1	punct	_	_
 3	pajemage	muga	NOUN	n	Clusivity=In|Number=Plur|Person=3	4	nsubj	_	mother;mãe
-4	etaregody	aregody	VERB	v	Number=Plur|Person=3	1	cc	_	_
+4	etaregody	aregody	VERB	v	Number=Plur|Person=3	1	conj	_	_
 5	kuiada	kuiada	NOUN	n	_	4	obl	_	_
 6	tabo	apo	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
