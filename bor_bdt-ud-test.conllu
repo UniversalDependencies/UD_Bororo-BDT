@@ -4582,8 +4582,8 @@
 # text_por = Então as criancinhas disseram: como é ?
 1	Icare	icare	ADV	adv	_	6	advmod	_	_
 2	nowy	nowy	DET	_	_	4	det	_	_
-3	boe	boe	NOUN	n	_	4	punct	_	_
-4	etore	onaregedy	NOUN	n	Number=Plur|Number[psor]=Plur|Person=3	3	compound	_	_
+3	boe	boe	NOUN	n	_	4	compound	_	_
+4	etore	onaregedy	NOUN	n	Number=Plur|Number[psor]=Plur|Person=3	6	nsubj	_	_
 5	kugure	kuguri	NOUN	n	Number=Plur	4	nmod	_	_
 6	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	:	:	PUNCT	punct	_	6	punct	_	_
