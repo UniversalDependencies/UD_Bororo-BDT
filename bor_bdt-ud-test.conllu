@@ -4165,16 +4165,16 @@
 # text = Icare rutu rade iki jii toro tudu tabo adygo piji
 # text_eng = 
 # text_por = E em verdade, suibiu à ponta da árvore, indo longe da onça
-1	Icare	_	ADV	adv	_	2	advmod	_	_
-2	rutu	_	VERB	v	Number=Sing|Person=3	0	root	_	go up,jump,climb;subir,pular,escalar
-3	rade	_	ADV	adv	_	2	advmod	_	_
-4	iki	_	_	_	_	_	_	_	_
-5	jii	_	ADV	adv	_	_	_	_	until,up to;até
-6	toro	_	ADV	adv	_	_	_	_	there;lá
-7	tudu	_	_	_	Number=Sing|Person=3|Reflex=Yes	_	_	_	_
-8	tabo	_	ADP	posp	_	_	_	_	_
-9	adygo	_	NOUN	n	_	7	obl	_	_
-10	piji	_	ADP	posp	_	9	case	_	_
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	rutu	rutu	VERB	v	Number=Sing|Person=3	0	root	_	go up,jump,climb;subir,pular,escalar
+3	rade	rade	ADV	adv	_	2	advmod	_	_
+4	iki	iki	NOUN	_	_	2	obl	_	_
+5	jii	jii	ADV	adv	_	4	case	_	until,up to;até
+6	toro	toro	ADV	adv	_	7	advmod	_	there;lá
+7	tudu	tudu	VERB	_	Number=Sing|Person=3|Reflex=Yes	2	advcl	_	_
+8	tabo	apo	ADV	posp	Number=Sing|Person=3	7	advmod	_	_
+9	adygo	adygo	NOUN	n	_	7	obl	_	_
+10	piji	piji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 
 # sent_id = 016.KJB
 # text = Dykeje rade , ure adygo mugu pagado tu woe tuwiri bioro keje
