@@ -4619,7 +4619,7 @@
 19	?	?	PUNCT	punct	_	17	punct	_	_
 
 # sent_id = 034.IETKB
-# text = Icare ia akore : imire kodymode . Ikodymode iorydywo
+# text = Icare ia akore : imire ikodymode . Ikodymode iorydywo
 # text_eng = 
 # text_por = Então um deles falou: eu irei . Eu irei para ver
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
@@ -4630,7 +4630,7 @@
 6	ikodymode	kody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	ccomp	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 8	Ikodymode	kody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	6	parataxis	_	_
-9	iorydywo	jorydy	VERB	v	Mood=Sub|Number=Sing|Person=1	8	_	_	see;ver
+9	iorydywo	jorydy	VERB	v	Mood=Sub|Number=Sing|Person=1	8	advcl	_	see;ver
 
 # sent_id = 035.IETKB
 # text = Egore : Uwy akodydo !
