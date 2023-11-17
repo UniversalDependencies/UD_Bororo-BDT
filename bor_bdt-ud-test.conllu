@@ -4257,7 +4257,7 @@
 10	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	7	obl	_	_
 
 # sent_id = 005.IETKB
-# text = Kuiada . Boe eno kuidare . Kodire kuiadare boe etai
+# text = Kuiada . Boe eno kuiadare . Kodire kuiadare boe etai
 # text_eng = 
 # text_por = Milho. Os bororo tinham milho. Assim havia milho para os bororo
 1	Kuiada	kuiada	NOUN	n	Mood=Ind	5	discourse	_	maize,corn;milho
@@ -4795,7 +4795,7 @@
 8	Kadagare	_	PROPN	propn	_	7	compound	_	_
 9	,	_	PUNCT	punct	_	7	punct	_	_
 10	muga	muga	NOUN	n	_	11	nmod	_	_
-11	iere	iere	NOUN	n	Number=Sing|Number[psor]=Sing|	12	nsubj	_	_
+11	iere	iere	NOUN	n	Number=Sing|Number=Sing	12	nsubj	_	_
 12	Amelinha	Amelinha	PROPN	propn	_	1	conj	_	_
 13	Agwa	Agwa	PROPN	propn	_	12	compound	_	_
 
