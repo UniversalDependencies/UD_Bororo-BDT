@@ -4207,7 +4207,7 @@
 4	oinody	oinody	ADV	adv	_	5	advmod	_	thus;assim
 5	akedykare	akedy	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 6	roga	roga	ADV	adv	_	5	advmod	_	still;ainda
-7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+7	.	.	PUNCT	punct	_	5	punct	_	_
 
 # sent_id = 001.IETKB
 # text = Boe emagore jiboe , boe egore jiboe , kuricigo , makaguragare
