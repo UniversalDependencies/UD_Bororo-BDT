@@ -3970,7 +3970,7 @@
 # text = Mare adygo akore boroie , konorigie uke boigodumode ji tubiji
 # text_eng = 
 # text_por = Mas a onça falou que não, que a cigarra dentiria desejo de comida antes
-1	Mare	mare	CCONJ	cconj	_	3	conj	_	_
+1	Mare	mare	CCONJ	cconj	_	3	dep	_	_
 2	adygo	adygo	NOUN	n	_	3	nsubj	_	_
 3	akore	ako	VERB	v	_	0	root	_	_
 4	boroie	_	PART	prcl	_	3	ccomp	_	_
@@ -3991,10 +3991,10 @@
 4	tuge	ke	NOUN	n	Number=Plur|Person=3|Reflex=Yes	5	nmod	_	_
 5	boi	boi	NOUN	n	_	6	obj	_	_
 6	remagu	remagu	VERB	v	_	0	root	_	_
-7	pui	pui	ADP	posp	Refelex=Yes	6	case	_	_
+7	pui	pui	ADP	posp	Reflex=Yes	6	case	_	_
 
 # sent_id = 005.KJB
-# text = Konorigi akore : woere amugure tu , woe awy i paru , imire iedumode i paruto , pagaiwo birigodywo , tu pu jokuto
+# text = Konorigi akore : woere amugure tu , woe awy i paru , imire iedumode i paru to , pagaiwo birigodywo , tu pu jokuto
 # text_eng = 
 # text_por = A cigarra falou: senta aqui, aqui ao pé desta árvore; eu mesma me agarrarei no pé da árvore; olhemo-nos um ao outro com honestidade nos olhos
 1	Konorigi	_	NOUN	n	_	2	nsubj	_	_
@@ -4006,8 +4006,8 @@
 7	,	_	PUNCT	punct	_	5	punct	_	_
 8	woe	_	ADV	adv	_	11	advmod	_	_
 9	awy	_	DET	_	_	11	det	_	_
-10	i	_	NOUN	n	_	11	nmod	_	_
-11	paru	_	NOUN	n	_	5	advmod	_	_
+10	i	i	NOUN	n	_	11	nmod	_	_
+11	paru	paru	NOUN	n	_	5	obl	_	_
 12	,	_	PUNCT	punct	_	11	punct	_	_
 13	imire	imi	PRON	pron	Mood=Ind|Number=Sing|Person=1	14	nsubj	_	I;eu
 14	iedumode	_	VERB	v	_	5	parataxis	_	hold on to;segurar,agarrar
