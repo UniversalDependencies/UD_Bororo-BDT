@@ -4093,19 +4093,19 @@
 # text = Icare adygo uke boi , rakaguragare ji , icare bigodure tuge boi koia
 # text_eng = 
 # text_por = E a onça teve muito desejo de comida e estava para desmaiar pelo desejo de comida
-1	Icare	_	ADV	adv	_	6	advmod	_	_
-2	adygo	_	NOUN	n	_	6	nsubj	_	_
+1	Icare	_	ADV	adv	_	4	advmod	_	_
+2	adygo	_	NOUN	n	_	4	nsubj	_	_
 3	uke	_	NOUN	n	Number=Plur|Person=3|PronType=Bi	4	nmod	_	_
-4	boi	_	NOUN	n	_	_	_	_	_
-5	raka	_	ADV	adv	ADV	_	_	_	_
-6	guragare	_	VERB	v	_	0	root	_	_
+4	boi	_	NOUN	n	_	0	root	_	_
+5	raka	_	ADV	adv	ADV	4	advmod	_	_
+6	guragare	_	VERB	v	_	4	advmod	_	_
 7	ji	_	ADP	posp	_	6	obl	_	_
 8	,	_	PUNCT	punct	_	6	punct	_	_
-9	icare	_	ADV	adv	_	9	advcl	_	_
-10	bigodure	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
-11	tuge	_	NOUN	n	_	_	nmod	_	_
-12	boi	_	NOUN	n	_	_	obl	_	_
-13	koia	_	ADP	posp	_	_	case	_	_
+9	icare	_	ADV	adv	_	10	advmod	_	_
+10	bigodure	_	VERB	v	Mood=Ind|Number=Sing|Person=3	4	conj	_	_
+11	tuge	_	NOUN	n	_	12	nmod	_	_
+12	boi	_	NOUN	n	_	10	obl	_	_
+13	koia	_	ADP	posp	_	12	case	_	_
 
 # sent_id = 011.KJB
 # text = Dykodi icare akore : awy ! Ino kogorigiji , tywo tugerado , Ca keje , tugeje
