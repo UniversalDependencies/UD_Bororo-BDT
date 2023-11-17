@@ -4858,13 +4858,13 @@
 6	,	,	PUNCT	punct	_	2	punct	_	_
 7	boe	boe	NOUN	n	_	3	conj	_	_
 8	kurirewu	kuri	NOUN	_	Nomzr=Rel	7	nmod	_	big;grande
-8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	big;grande
-9	.	.	PUNCT	punct	_	2	punct	_	_
-10	Imagomode	mako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	parataxis	_	_
-11	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	12	nsubj	_	_
-12	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	10	conj	_	_
-13	ji	ji	ADP	posp	_	12	obl	_	_
-14	boeji	boeji	X	_	_	12	obj	_	_
+9	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	big;grande
+10	.	.	PUNCT	punct	_	2	punct	_	_
+11	Imagomode	mako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	parataxis	_	_
+12	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	12	nsubj	_	_
+13	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	10	conj	_	_
+14	ji	ji	ADP	posp	_	12	obl	_	_
+15	boeji	boeji	X	_	_	12	obj	_	_
 
 # sent_id = 006.KoeMakarewudo
 # text = Ioga akore Meriri Poro koiaie ure boe etagedydo , koiaie ure boe pegado dykodyie icare Aroe Jakomea apore boe etagedydo
