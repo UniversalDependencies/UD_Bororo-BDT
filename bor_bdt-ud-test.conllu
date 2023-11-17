@@ -4738,7 +4738,7 @@
 13	,	,	PUNCT	_	_	11	punct	_	_
 14	emare	ema	PRON	pron	Mood=Ind|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	aidyre	aidy	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
-16	imuguwo	mugu	VERB	_	Mood=Sub|Number=Sing|Person=1	15	cc	_	_
+16	imuguwo	mugu	VERB	_	Mood=Sub|Number=Sing|Person=1	15	conj	_	_
 17	apo	apo	ADP	_	_	15	obl	_	_
 18	taidy	aidy	VERB	_	Number=Sing|Person=3|Reflex=Yes	15	parataxis	_	_
 19	koia	koia	SCONJ	_	_	18	obl	_	_
