@@ -4488,7 +4488,7 @@
 7	kodomai	kodomai	ADV	adv	_	4	parataxis	_	_
 
 # sent_id = 023.IETKB
-# text = Boecodyre , bagogwa kododyre
+# text = Boecodyre , barogwa kododyre
 # text_eng = 
 # text_por = Anoiteceu e amanheceu
 1	Boecodyre	boecody	NOUN	n	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -4579,7 +4579,7 @@
 2	toro	toro	ADP	posp	_	1	advmod	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi	7	nsubj	_	_
-5	tore	tore	NOUN	n	_	_	_	_	_
+5	tore	tore	NOUN	n	_	_	obj	_	_
 6	kugure	kuguri	NOUN	n	Number=Plur	5	nmod	_	_
 7	edo	e	PRON	bi	Number=Plur|Person=3|Voice=Cau	1	parataxis	_	_
 8	tujarygo	arygo	NOUN	n	Reflex=Yes	7	obl	_	mother-in-law;sogra
@@ -4717,7 +4717,7 @@
 6	ie	ie	NOUN	n	Number=Sing|Person=3	5	obl	_	_
 7	dyji	dyji	X	_	_	5	dep	_	_
 8	,	,	PUNCT	punct	_	5	punct	_	_
-9	kocare	kocare	_	_	_	5	discourse	_	_
+9	kocare	kocare	INTJ	_	_	5	discourse	_	_
 
 # sent_id = 003.dialogomulherAeB
 # text = Booio ... kocare ca tagagoi ino i marenary rogy nyre imi itoredy karega emare aidyre imuguwo apo taidy koia ji dy kodi oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega ió... kocare tagaidyre iwo ikogedy
