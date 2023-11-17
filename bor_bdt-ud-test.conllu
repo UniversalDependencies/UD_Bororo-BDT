@@ -3773,7 +3773,7 @@
 # text_por = o forte fumo fará espirrar os bororo
 1	Mea	mean	NOUN	n	_	5	nsubj	_	tobacco;tabaco,fumo
 2	okori	okori	NOUN	n	_	1	nmod	_	pai,wound;dor,ferida
-3	umode	u	PRON	by	Mood=Ind|Number=Sing|Person=3|PronType=Bi|Tese=Fut	5	dep	_	_
+3	umode	u	PRON	by	Mood=Ind|Number=Sing|Person=3|PronType=Bi|Tense=Fut	5	dep	_	_
 4	boe	boe	NOUN	n	_	5	obj	_	_
 5	etajiado	aciado	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	sneeze;espirrar
 
@@ -3948,7 +3948,7 @@
 5	oragydyre	oragydy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 001.KJB
-# text = Konorigi akore tuiagu tuge boi remagu adygo uke boiji
+# text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would meas^ure its food desire with that of the jaguar
 # text_por = A cigarra disse que ia medir a resistência do seu desejo de comida com o da onça
 1	Konorigi	konorigi	NOUN	n	_	2	nsubj	_	cicada;cigarra
@@ -4004,8 +4004,8 @@
 7	pui	pui	ADP	posp	Refelex=Yes	6	case	_	_
 
 # sent_id = 005.KJB
-# text = 
-# text_eng = Konorigi akore : woere amugure tu , woe awy i paru , imire iedumode i paruto , pagaiwo birigodywo , tu pu jokuto
+# text = Konorigi akore : woere amugure tu , woe awy i paru , imire iedumode i paruto , pagaiwo birigodywo , tu pu jokuto
+# text_eng = 
 # text_por = A cigarra falou: senta aqui, aqui ao pé desta árvore; eu mesma me agarrarei no pé da árvore; olhemo-nos um ao outro com honestidade nos olhos
 1	Konorigi	_	NOUN	n	_	2	nsubj	_	_
 2	akore	_	VERB	v	_	0	root	_	_
