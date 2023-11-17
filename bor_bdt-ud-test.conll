@@ -3937,7 +3937,7 @@
 2	ma	ma	SCONJ	sconj	_	1	mark	_	_
 3	akagoridodomode	agorido	VERB	v	Number=Sing|Person=2|Tense=Fut|Voice=Cau	0	root	_	_
 
-# sent_id = 021.EncIE
+# sent_id = 020.EncIE
 # text = Inagoridody keje , itonaregedy oragydyre
 # text_eng = 
 # text_por = Meu filho chorou quando eu fui escarnecido
@@ -3970,10 +3970,10 @@
 2	adygo	adygo	NOUN	n	_	4	nsubj	_	_
 3	uke	_	NOUN	n	Number=Sing|Person=3	4	obj	_	_
 4	boigodumode	boigodu	VERB	v	Number=Sing|Person=3|Tense=Fut	1	ccomp	_	begin_to_desire;começar a sentir
-5	kuri	_	ADV	ADV	adv	4	advmod	_	soon,immediately;logo,imediatamente
+5	kuri	_	ADV	adv	_	4	advmod	_	soon,immediately;logo,imediatamente
 6	ji	ji	ADP	posp	_	4	obl	_	_
 7	,	,	PUNCT	punct	_	4	punct	_	_
-8	tubiji	_	ADV	ADV	adv	4	advmod	_	_
+8	tubiji	_	ADV	adv	_	4	advmod	_	_
 9	dyji	dyji	PART	prcl	_	4	mark	_	_
 
 # sent_id = 003.KJB
@@ -3995,8 +3995,8 @@
 # text = Dykodi icare ere tuge boi remagu pui
 # text_eng = 
 # text_por = E por isso mediram seu desejo de comida entre si
-1	Dykodi	dykodi	ADV	ADV	adv	6	advmod	_	_
-2	icare	icare	ADV	ADV	adv	1	fixed	_	_
+1	Dykodi	dykodi	ADV	adv	_	6	advmod	_	_
+2	icare	icare	ADV	adv	_	1	fixed	_	_
 3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
 4	tuge	ke	NOUN	n	Number=Plur|Person=3|Reflex=Yes	5	nmod	_	_
 5	boi	boi	NOUN	n	_	6	obj	_	_
@@ -4014,7 +4014,7 @@
 5	amugure	mugu	VERB	v	 Mood=Ind|Number=Sing|Person=2	2	ccomp	_	sit;sentar
 6	tu	_	PART	prcl	_	5	advmod	_	_
 7	,	_	PUNCT	punct	_	5	punct	_	_
-8	woe	_	ADV	ADV	adv	11	advmod	_	_
+8	woe	_	ADV	adv	_	11	advmod	_	_
 9	awy	_	DET	_	_	11	det	_	_
 10	i	_	NOUN	n	_	11	nmod	_	_
 11	paru	_	NOUN	n	_	5	advmod	_	_
@@ -4026,7 +4026,7 @@
 17	to	_	NOUN	n	_	16	case	_	_
 18	,	,	PUNCT	punct	_	14	punct	_	_
 19	pagaiwo	aiwo	VERB	v	Clusivity=In|Mood=Subj|Number=Plur|Person=1	5	parataxis	_	look at;olhar
-20	birigodywo	birigody	ADV	ADV	adv	19	advmod	_	kindness,honesty;bondade,honestidade
+20	birigodywo	birigody	ADV	adv	_	19	advmod	_	kindness,honesty;bondade,honestidade
 21	tu	_	PART	prcl	_	20	advmod	_	_
 22	pujoku	joku	NOUN	n	PronType=Rcp|Reflex=Yes	19	obl	_	eye;olho
 23	to	_	ADP	posp	_	22	case	_	_
@@ -4035,14 +4035,14 @@
 # text = Dykodi icare adugore boe kodu kuricigody dytabore icare uture konorigi bogai
 # text_eng = 
 # text_por =  E por isso a onça consumiu muita comida e depois foi à procura da cigarra
-1	Dykodi	_	ADV	ADV	adv	6	advmod	_	_
-2	icare	_	ADV	ADV	adv	1	fixed	_	_
+1	Dykodi	_	ADV	adv	_	6	advmod	_	_
+2	icare	_	ADV	adv	_	1	fixed	_	_
 3	adugore	_	NOUN	n	Mood=Ind	5	nsubj	_	_
 4	boe	_	NOUN	n	_	5	nmod	_	_
 5	kodu	kodu	NOUN	n	_	6	obj	_	meat;carne
 6	kuricigody	kuricigody	VERB	v	Number=Sing|Person=3	0	root	_	_
 7	dytabore	_	ADV	adv	Mood=Ind	9	advmod	_	_
-8	icare	_	ADV	ADV	adv	7	fixed	_	_
+8	icare	_	ADV	adv	_	7	fixed	_	_
 9	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	6	parataxis	_	_
 10	konorigi	_	NOUN	n	_	9	obl	_	_
 11	bogai	bogai	ADP	posp	_	10	case	_	towards;em direção a
@@ -4051,7 +4051,7 @@
 # text = Icare konorigire tuiedu tu i paru to . Ure tuiejodo moto kae
 # text_eng = 
 # text_por = E a cigarra agarrou-se no pé da árvore. Ela virou a cara para o chão
-1	Icare	_	ADV	ADV	adv	3	advmod	_	_
+1	Icare	_	ADV	adv	_	3	advmod	_	_
 2	konorigire	_	NOUN	n	Mood=Ind	3	nsubj	_	_
 3	tuiedu	jetu	VERB	v	Number=Sing|Person=3	0	root	_	be at;estar
 4	tu	_	PART	prcl	_	3	advmod	_	_
@@ -4072,11 +4072,11 @@
 2	ure	_	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 3	udo	_	PRON	bi	Number=Sing|Person=3|Voice=Cau	4	dep	_	_
 4	tumugudo	mugudo	VERB	v	Number=Sing|Person=3|Reflex=Yes|Voice=Cau	0	root	_	place,sit;colocar,assentar
-5	tu	_	ADV	ADV	adv	4	advmod	_	_
+5	tu	_	ADV	adv	_	4	advmod	_	_
 6	i	_	NOUN	n	_	7	nmod	_	_
 7	paru	_	NOUN	n	_	4	_	_	_
-8	dytabore	_	ADV	ADV	adv	11	advmod	_	_
-9	icare	_	ADV	ADV	adv	8	fixed	_	_
+8	dytabore	_	ADV	adv	_	11	advmod	_	_
+9	icare	_	ADV	adv	_	8	fixed	_	_
 10	ere	_	PRON	bi	Mood=Ind|Number=Plur|Person=3	11	nsubj	_	_
 11	tado	_	VERB	v	_	4	advcl	_	observe,seek,see;observara,procurar,ver,olhar
 12	pujoku	joku	NOUN	bi	PronType=Rcp|Reflex=Yes	11	obl	_	_
@@ -4089,22 +4089,22 @@
 1	Etaiwore	_	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	pujoku	joku	NOUN	n	PronType=Rcp|Reflex=Yes	1	obl	_	_
 3	to	_	ADP	posp	_	2	case	_	_
-4	jii	_	ADV	ADV	adv	1	advmod	_	for a long time;por muito tempo
-5	je	_	ADV	ADV	adv	1	advmod	_	thus;assim
+4	jii	_	ADV	adv	_	1	advmod	_	for a long time;por muito tempo
+5	je	_	ADV	adv	_	1	advmod	_	thus;assim
 
 # sent_id = 010.KJB
 # text = Icare adygo uke boi , rakaguragare ji , icare bigodure tuge boi koia
 # text_eng = 
 # text_por = E a onça teve muito desejo de comida e estava para desmaiar pelo desejo de comida
-1	Icare	_	ADV	ADV	adv	6	advmod	_	_
+1	Icare	_	ADV	adv	_	6	advmod	_	_
 2	adygo	_	NOUN	n	_	6	nsubj	_	_
 3	uke	_	NOUN	n	Number=Plur|Person=3|PronType=Bi	4	nmod	_	_
 4	boi	_	NOUN	n	_	_	_	_	_
-5	raka	_	ADV	ADV	ADV	adv	_	_	_
+5	raka	_	ADV	adv	ADV	_	_	_	_
 6	guragare	_	VERB	v	_	0	root	_	_
 7	ji	_	ADP	posp	_	6	obl	_	_
 8	,	_	PUNCT	punct	_	6	punct	_	_
-9	icare	_	ADV	ADV	adv	9	advcl	_	_
+9	icare	_	ADV	adv	_	9	advcl	_	_
 10	bigodure	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
 11	tuge	_	NOUN	n	_	_	nmod	_	_
 12	boi	_	NOUN	n	_	_	obl	_	_
@@ -4114,8 +4114,8 @@
 # text = Dykodi icare akore : awy ! Ino kogorigiji , tywo tugerado , Ca keje , tugeje
 # text_eng = 
 # text_por = E então disse: Esta cigarra é minha, dando lhe um "pa", uma patada para comê-la
-1	Dykodi	_	ADV	ADV	adv	3	advmod	_	_
-2	icare	_	ADV	ADV	adv	1	fixed	_	_
+1	Dykodi	_	ADV	adv	_	3	advmod	_	_
+2	icare	_	ADV	adv	_	1	fixed	_	_
 3	akore	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	:	_	PUNCT	punct	_	3	punct	_	_
 5	awy	_	DET	_	_	3	cc	_	_
@@ -4149,7 +4149,7 @@
 # text = Boekimo rema
 # text_eng = 
 # text_por = Não há comentários
-1	Boekimo	_	ADV	ADV	adv	0	root	_	_
+1	Boekimo	_	ADV	adv	_	0	root	_	_
 2	rema	_	CCONJ	cconj	_	1	fixed	_	_
 
 # sent_id = 014.KJB
@@ -4157,23 +4157,23 @@
 # text_eng = 
 # text_por = Na verdade, a cigarra tinha rachado suas costas
 1	Konorigi	konorigi	NOUN	n	_	5	nsubj	_	_
-2	rade	rade	ADV	ADV	adv	5	advmod	_	truly,in fact;na verdade,de fato
+2	rade	rade	ADV	adv	_	5	advmod	_	truly,in fact;na verdade,de fato
 3	,	,	PUNCT	punct	_	2	PUNCT	punct	_
 4	tuboru	poru	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	nmod	_	back;costas,dorso
 5	bo	bo	NOUN	n	_	6	obj	_	_
 6	pao	pao	X	ideo	_	0	root	_	_
-7	je	je	ADV	ADV	adv	6	advmod	_	_
+7	je	je	ADV	adv	_	6	advmod	_	_
 
 # sent_id = 015.KJB
 # text = Icare rutu rade iki jii toro tudu tabo adygo piji
 # text_eng = 
 # text_por = E em verdade, suibiu à ponta da árvore, indo longe da onça
-1	Icare	_	ADV	ADV	adv	2	advmod	_	_
+1	Icare	_	ADV	adv	_	2	advmod	_	_
 2	rutu	_	VERB	v	Number=Sing|Person=3	0	root	_	go up,jump,climb;subir,pular,escalar
-3	rade	_	ADV	ADV	adv	2	advmod	_	_
+3	rade	_	ADV	adv	_	2	advmod	_	_
 4	iki	_	_	_	_	_	_	_	_
-5	jii	_	ADV	ADV	adv	_	_	_	until,up to;até
-6	toro	_	ADV	ADV	adv	_	_	_	there;lá
+5	jii	_	ADV	adv	_	_	_	_	until,up to;até
+6	toro	_	ADV	adv	_	_	_	_	there;lá
 7	tudu	_	_	_	Number=Sing|Person=3|Reflex=Yes	_	_	_	_
 8	tabo	_	ADP	posp	_	_	_	_	_
 9	adygo	_	NOUN	n	_	7	obl	_	_
@@ -4183,16 +4183,16 @@
 # text = Dykeje rade , ure adygo mugu pagado tu woe tuwiri bioro keje
 # text_eng = 
 # text_por = Então, na verdade, deixou a onça esperando sentada, aqui com seu casco vazio
-1	Dykeje	dykeje	ADV	ADV	adv	6	advmod	_	_
-2	rade	rade	ADV	ADV	adv	6	advmod	_	_
+1	Dykeje	dykeje	ADV	adv	_	6	advmod	_	_
+2	rade	rade	ADV	adv	_	6	advmod	_	_
 3	,	,	PUNCT	punct	_	2	PUNCT	punct	_
 4	ure	u	PRON	bi	_	6	nsubj	_	_
 5	adygo	adygo	NOUN	n	_	6	obj	_	_
 6	mugu	mugu	VERB	v	Number=Sing|Person=3	0	root	_	_
 7	pagado	_	VERB	v	Number=Sing|Person=3|Voice=Cau	_	_	_	wait;esperar
-8	tu	tu	ADV	ADV	adv	6	advmod	_	thus;assim
+8	tu	tu	ADV	adv	_	6	advmod	_	thus;assim
 9	,	,	PUNCT	punct	_	6	PUNCT	punct	_
-10	woe	woe	ADV	ADV	adv	6	advmod	_	here;aqui
+10	woe	woe	ADV	adv	_	6	advmod	_	here;aqui
 11	tuwiri	biri	NOUN	n	Number=Sing|Person=3|Reflex=Yes	6	obl	_	skin;pele
 12	bioro	bioro	_	_	_	_	_	_	empty;vazio
 13	keje	keje	ADP	posp	Number=Sing|Person=3	11	case	_	_
@@ -4204,9 +4204,9 @@
 1	Dykodire	dykodire	ADV	adv	Mood=Ind	5	advcl	_	_
 2	konorigi	konorigi	NOUN	n	_	5	nsubj	_	_
 3	ro	ro	NOUN	n	_	5	obj	_	_
-4	oinody	oinody	ADV	ADV	adv	5	advmod	_	thus;assim
+4	oinody	oinody	ADV	adv	_	5	advmod	_	thus;assim
 5	akedykare	akedy	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
-6	roga	roga	ADV	ADV	adv	5	advmod	_	still;ainda
+6	roga	roga	ADV	adv	_	5	advmod	_	still;ainda
 7	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = 001.IETKB
@@ -4327,7 +4327,7 @@
 # text_eng = 
 # text_por = E aqui os bororo se encontram
 1	Woere	woe	ADV	adv	Mood=Ind	5	advmod	_	_
-2	icare	icare	ADV	ADV	adv	1	fixed	_	_
+2	icare	icare	ADV	adv	_	1	fixed	_	_
 3	,	,	PUNCT	punct	_	1	PUNCT	punct	_
 4	boe	boe	NOUN	n	_	5	nsubj	_	_
 5	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	come,arrive;vir,chegar
@@ -4362,7 +4362,7 @@
 13	:	_	PUNCT	punct	_	_	_	_	_
 14	pady	_	_	_	_	_	_	_	_
 15	kimore	kimo	ADV	adv	Mood=Ind	_	_	_	_
-16	oino	oino	ADV	ADV	adv	_	_	_	_
+16	oino	oino	ADV	adv	_	_	_	_	_
 17	ewygeje	bukeje	ADP	posp	Number=Plur|Person=3	_	_	_	_
 
 # sent_id = 012.IETKB
@@ -4383,7 +4383,7 @@
 # text = Icare barogwa kododyre
 # text_eng = It became morning
 # text_por = Então amanheceu
-1	Icare	icare	ADV	ADV	adv	3	advmod	_	_
+1	Icare	icare	ADV	adv	_	3	advmod	_	_
 2	barogwa	barogwa	NOUN	n	_	3	nsubj	_	morning;manhã
 3	kododyre	kodody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	increase;aumento
 
@@ -4409,7 +4409,7 @@
 2	tore	oredy	NOUN	n	Number=Plur|Person=3|Reflex=Yes	_	_	_	_
 3	kugure	kuguri	NOUN	n	Number=Plur	2	nmod	_	_
 4	edo	jedo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	Caused to live;fez viver
-5	ty	ty	ADV	ADV	adv	4	advmod	_	_
+5	ty	ty	ADV	adv	_	4	advmod	_	_
 6	tujarugo	carugo	NOUN	n	_	4	obl	_	_
 7	apo	apo	ADP	posp	_	6	case	_	_
 
@@ -4417,8 +4417,8 @@
 # text = Dykejere icare etyre kuiada apo
 # text_eng = And afterwards they went to the corn (field)
 # text_por = E depois foram ao milho
-1	Dykejere	dykejere	ADV	ADV	adv	3	advmod	_	_
-2	icare	icare	ADV	ADV	adv	3	advmod	_	_
+1	Dykejere	dykejere	ADV	adv	_	3	advmod	_	_
+2	icare	icare	ADV	adv	_	3	advmod	_	_
 3	etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	kuiada	kuiada	NOUN	n	_	3	obl	_	_
 5	apo	apo	ADP	posp	Number=Sing|Person=3	4	case	_	_
@@ -4429,7 +4429,7 @@
 # text_por = Passou o dia até que de tarde chegaram de volta
 1	Meri	meri	NOUN	n	_	2	nsubj	_	day,sun;dia,sol
 2	kodyre	kody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	jii	jii	ADV	ADV	adv	2	advmod	_	for a long time;por muito tempo,até
+3	jii	jii	ADV	adv	_	2	advmod	_	for a long time;por muito tempo,até
 4	...	...	PUNCT	punct	_	2	PUNCT	punct	_
 5	meri	meri	NOUN	n	_	6	nmod	_	_
 6	rekody	rekody	NOUN	n	Number=Sing|Person=3	8	obl	_	run;correr
@@ -4536,7 +4536,7 @@
 6	rekody	rekody	NOUN	n	_	2	parataxis	_	run,flee;correr,fugir
 7	tabo	apo	ADP	posp	_	6	obl	_	_
 8	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
-9	pugeje	pugeje	ADV	ADV	adv	8	advmod	_	_
+9	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
 
 # sent_id = 027.IETKB
 # text = Etore kugure egarere ei etaregody ji
@@ -4587,7 +4587,7 @@
 7	edo	e	PRON	bi	Number=Plur|Person=3|Voice=Cau	1	parataxis	_	_
 8	tujarygo	arygo	NOUN	n	Reflex=Yes	7	obl	_	mother-in-law;sogra
 9	apo	apo	ADP	posp	Number=Sing|Person=3	8	case	_	_
-10	pugeje	pugeje	ADV	ADV	adv	7	advmod	_	_
+10	pugeje	pugeje	ADV	adv	_	7	advmod	_	_
 
 # sent_id = 032.IETKB
 # text = Icare nowy boe etore kugure egore : inoba ure ?
