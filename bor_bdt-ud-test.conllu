@@ -4242,7 +4242,7 @@
 6	boe	_	NOUN	n	_	7	nsubj	_	_
 7	bokware	_	VERB	v	Mood=Ind	0	root	_	_
 
-# sent_id = 003.IETKB
+# sent_id = 004.IETKB
 # text = Iordydywa rakakare ji , mare imode by ty oino kajejej
 # text_eng = 
 # text_por = Eu não sei muito, mas vou contar (por) assim
@@ -4257,7 +4257,7 @@
 9	oino	oino	ADV	adv	_	8	compound	_	_
 10	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	7	obl	_	_
 
-# sent_id = 004.IETKB
+# sent_id = 005.IETKB
 # text = Kuiada boe eno kuidare . Kodire kuidare boe etai
 # text_eng = 
 # text_por = Milho. Os bororo tinham milho. Assim havia milho para os bororo
@@ -4272,7 +4272,7 @@
 9	boe	boe	NOUN	n	_	8	obl	_	_
 10	etai	ai	ADP	posp	Number=Plur|Person=3	9	case	_	to;para,a
 
-# sent_id = 005.IETKB
+# sent_id = 006.IETKB
 # text = Burekoibo ore kuiada . Kuieje Bakidobo ore kuiada
 # text_eng = 
 # text_por = O milho era burekoibo (nome de espírito) e de kuieje bakidobo
@@ -4285,14 +4285,14 @@
 7	ore	o	NOUN	n	Mood=Ind	8	nsubj	_	_
 8	kuiada	kuiada	NOUN	n	_	3	parataxis	_	_
 
-# sent_id = 006.IETKB
+# sent_id = 007.IETKB
 # text = Oinore ure
 # text_eng = 
 # text_por = Assim era
 1	Oinore	oino	ADV	adv	Mood=Ind	0	root	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	1	nsubj	_	_
 
-# sent_id = 007.IETKB
+# sent_id = 008.IETKB
 # text = Kuiada kaere areme etyre
 # text_eng = 
 # text_por = As mulheres foram a procura do milho
@@ -4301,7 +4301,7 @@
 3	areme	aredy	NOUN	n	Number=Plur	4	nsubj	_	_
 4	etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 
-# sent_id = 008.IETKB
+# sent_id = 009.IETKB
 # text = Mare areme ewadarodui makaguraga
 # text_eng = 
 # text_por = Mas as mulheres diziam muitas mentiras
@@ -4310,7 +4310,7 @@
 3	ewadarodui	batarodui	VERB	V	Number=Plur|Person=3	0	root	_	_
 4	makaguraga	makaguraga	PRON	pron	PronType=Ind	3	det	_	_
 
-# sent_id = 009.IETKB
+# sent_id = 0010.IETKB
 # text = Woere icare , boe etaregodyre pu iato
 # text_eng = 
 # text_por = E aqui os bororo se encontram
@@ -4322,7 +4322,7 @@
 6	pu	pu	PRON	pron	PronType=Rcp|Reflex=Yes	5	obl	_	_
 7	iato	iato	ADV	adv	_	5	advmod	_	there;lá
 
-# sent_id = 010.IETKB
+# sent_id = 011.IETKB
 # text = Boe etaregodyre barae eiato
 # text_eng = 
 # text_por = Os bororo chegaram entre os brancos
@@ -4331,7 +4331,7 @@
 3	barae	barae	NOUN	n	_	2	obl	_	_
 4	eiato	_	ADP	posp	Number=Plur|Person=3	3	obl	_	_
 
-# sent_id = 011.IETKB
+# sent_id = 012.IETKB
 # text = Ewadary aregodyre pu ae . Kodire awy areme eawadarodae okwakare oino epiji : pady kimore oino ewygeje
 # text_eng = 
 # text_por = Por isso as mulheres não perderam o costume de mentir . Ele ainda está nelas
@@ -4353,7 +4353,7 @@
 16	oino	oino	ADV	adv	_	14	advmod	_	_
 17	ewygeje	bukeje	ADP	posp	Number=Plur|Person=3	14	obl	_	_
 
-# sent_id = 012.IETKB
+# sent_id = 013.IETKB
 # text = Kuiada kaere areme etyre . Etyre toro kuiada kae
 # text_eng = 
 # text_por = As mulheres foram ao milharal. Elas foram lá buscar milho
@@ -4367,7 +4367,7 @@
 8	kuiada	kuiada	NOUN	n	_	6	obl	_	_
 9	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 
-# sent_id = 013.IETKB
+# sent_id = 014.IETKB
 # text = Icare barogwa kododyre
 # text_eng = It became morning
 # text_por = Então amanheceu
@@ -4375,7 +4375,7 @@
 2	barogwa	barogwa	NOUN	n	_	3	nsubj	_	morning;manhã
 3	kododyre	kodody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	increase;aumento
 
-# sent_id = 014.IETKB
+# sent_id = 015.IETKB
 # text = Egore : padywo kuiada kae , padywo kuiada kae
 # text_eng = 
 # text_por = Elas disseram: vamos ao milho, vamos ao milho
@@ -4389,7 +4389,7 @@
 8	kuiada	kuiada	NOUN	n	_	7	obl	_	_
 9	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 
-# sent_id = 015.IETKB
+# sent_id = 016.IETKB
 # text = Ere tore kugure edo ty tujarugo apo
 # text_eng = 
 # text_por = Elas deixaram suas crianças aos cuidados da vó paterna
@@ -4401,7 +4401,7 @@
 6	tujarugo	carugo	NOUN	n	_	4	obl	_	_
 7	apo	apo	ADP	posp	_	6	case	_	_
 
-# sent_id = 016.IETKB
+# sent_id = 017.IETKB
 # text = Dykejere icare etyre kuiada apo
 # text_eng = And afterwards they went to the corn (field)
 # text_por = E depois foram ao milho
@@ -4411,7 +4411,7 @@
 4	kuiada	kuiada	NOUN	n	_	3	obl	_	_
 5	apo	apo	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
-# sent_id = 017.IETKB
+# sent_id = 018.IETKB
 # text = Meri kodyre jii ... meri rekody tabo etaregodyre
 # text_eng = 
 # text_por = Passou o dia até que de tarde chegaram de volta
@@ -4424,7 +4424,7 @@
 7	tabo	apo	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 
-# sent_id = 018.IETKB
+# sent_id = 019.IETKB
 # text = Etore kugure egaerere ei
 # text_eng = Their children rejoyced with them
 # text_por = Seus filinhos ficaram alegres com elas
@@ -4433,7 +4433,7 @@
 3	egaerere	jekare	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	rejoice;alegrar-se
 4	ei	ji	ADP	posp	Number=Plur|Person=3	3	obl	_	_
 
-# sent_id = 019.IETKB
+# sent_id = 020.IETKB
 # text = Egore : pajemage etaregody kuiada tabo . Pajemage etaregody kuiada tabo
 # text_eng = They said: our mothers are coming wiht maize, our mothers are coming wiht maize, 
 # text_por = Exclamaram: nossas mães estão chegando com milho! Nossas mães estão chegando com milho!
@@ -4449,14 +4449,14 @@
 10	kuiada	kuiada	NOUN	n	_	9	obl	_	_
 11	tabo	apo	ADP	posp	Number=Sing|Person=3	10	case	_	_
 
-# sent_id = 020.IETKB
+# sent_id = 021.IETKB
 # text = Paregodywo etae
 # text_eng = 
 # text_por = Vamos ao seu encontro
 1	Paregodywo	aregody	VERB	v	Clusivity=In|Mood=Sub|Number=Plur|Person=1	0	root	_	_
 2	etae	ae	ADP	posp	Number=Plur|Person=3	1	obl	_	_
 
-# sent_id = 021.IETKB
+# sent_id = 022.IETKB
 # text = Hum ! Hum ! Boekimore
 # text_eng = It's nothing
 # text_por = Não é nada!
@@ -4466,7 +4466,7 @@
 4	!	!	PUNCT	punct	_	3	punct	_	_
 5	Boekimore	boekimo	ADV	adv	Mood=Ind	1	parataxis	_	nothing;nada
 
-# sent_id = 022.IETKB
+# sent_id = 023.IETKB
 # text = Egore : kuiada kodomai , kuiada kodomai
 # text_eng = 
 # text_por = Elas disseram: o milho esta quase pronto, espera aí o milho ainda um pouco
@@ -4478,7 +4478,7 @@
 6	kuiada	kuiada	NOUN	n	_	7	nsubj	_	_
 7	kodomai	kodomai	ADV	adv	_	4	parataxis	_	_
 
-# sent_id = 023.IETKB
+# sent_id = 024.IETKB
 # text = Boecodyre , barogwa kododyre
 # text_eng = 
 # text_por = Anoiteceu e amanheceu
@@ -4487,7 +4487,7 @@
 3	barogwa	barogwa	NOUN	n	_	4	nsubj	_	morning,manhã
 4	kododyre	kodody	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	increase;aumentar
 
-# sent_id = 024.IETKB
+# sent_id = 025.IETKB
 # text = Areme egore : padywo kuiada kae , padywo kuiada kae
 # text_eng = 
 # text_por = As mulheres disseram: vamos ao milho!
@@ -4502,7 +4502,7 @@
 9	kuiada	kuiada	NOUN	n	_	8	obl	_	_
 10	kae	kae	ADP	posp	Number=Sing|Person=3	9	case	_	_
 
-# sent_id = 025.IETKB
+# sent_id = 026.IETKB
 # text = Etyre kuiada kae toro pugeje
 # text_eng = 
 # text_por = Foram ao milho de novo
@@ -4512,7 +4512,7 @@
 4	toro	toro	ADV	adv	_	1	advmod	_	_
 5	pugeje	pugeje	ADV	adv	_	1	advmod	_	again;de novo
 
-# sent_id = 026.IETKB
+# sent_id = 027.IETKB
 # text = Meri kodyre ji ... meri rekody tabo etaregodyre pugeje
 # text_eng = 
 # text_por = O dia avançou até a tarde. Elas regressaram novamente
@@ -4526,7 +4526,7 @@
 8	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 9	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
 
-# sent_id = 027.IETKB
+# sent_id = 028.IETKB
 # text = Etore kugure egarere ei etaregody ji
 # text_eng = 
 # text_por = Seus filinhos se alegraram com elas pela sua chegada
@@ -4537,7 +4537,7 @@
 5	etaregody	aregody	NOUN	n	Number=Plur|Person=3	3	obl	_	_
 6	ji	ji	ADP	posp	_	5	case	_	_
 
-# sent_id = 028.IETKB
+# sent_id = 029.IETKB
 # text = Bore ! Kuiada kodomai , kuiada kodomai
 # text_eng = 
 # text_por = Nada! O milho ainda não está pronto, o milho ainda não está pronto
@@ -4549,7 +4549,7 @@
 6	kuiada	kuiada	NOUN	n	_	7	nsubj	_	_
 7	kodomai	kodomai	ADV	adv	_	4	parataxis	_	_
 
-# sent_id = 029.IETKB
+# sent_id = 030.IETKB
 # text = Dykeje icare etyre pugeje , kuiada kae pugeje
 # text_eng = 
 # text_por = E depois forma de novo, novamente ao milho
