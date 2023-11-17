@@ -4593,16 +4593,16 @@
 # text = Icare nowy boe etore kugure egore : inoba ure ?
 # text_eng = 
 # text_por = Então as criancinhas disseram: como é ?
-1	Icare	icare	_	_	_	6	advmod	_	_
-2	nowy	nowy	_	_	_	4	det	_	_
-3	boe	boe	_	_	_	_	_	_	_
-4	etore	onaregedy	_	_	Number=Plur|Number[psor]=Plur|Person=3	3	fixed	_	_
-5	kugure	kuguri	_	_	Number=Plur	4	nmod	_	_
-6	egore	ako	_	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-7	:	:	_	_	_	6	_	_	_
-8	inoba	inoba	_	_	PronType=Int	6	ccomp	_	how,how many;como, quantos
-9	ure	u	_	_	Mood=Ind|Number=Sing|Person=3|PronType=Bi	8	dep	_	_
-10	?	?	_	_	_	8	_	_	_
+1	Icare	icare	ADV	_	_	6	advmod	_	_
+2	nowy	nowy	DET	_	_	4	det	_	_
+3	boe	boe	NOUN	_	_	_	_	_	_
+4	etore	onaregedy	NOUN	_	Number=Plur|Number[psor]=Plur|Person=3	3	fixed	_	_
+5	kugure	kuguri	NOUN	_	Number=Plur	4	nmod	_	_
+6	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+7	:	:	PUNCT	_	_	6	_	_	_
+8	inoba	inoba	PRON	_	PronType=Int	6	ccomp	_	how,how many;como, quantos
+9	ure	u	PRON	_	Mood=Ind|Number=Sing|Person=3|PronType=Bi	8	dep	_	_
+10	?	?	PUNCT	_	_	8	_	_	_
 
 # sent_id = 033.IETKB
 # text = Kocare pajemage egore kuiada koduie mai . Icare pejemage etyre , kuiada kae , kuiada kae . Inoba ure ?
