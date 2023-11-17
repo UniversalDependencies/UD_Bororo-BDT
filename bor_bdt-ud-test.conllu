@@ -4720,7 +4720,7 @@
 9	kocare	kocare	INTJ	_	_	5	discourse	_	_
 
 # sent_id = 003.dialogomulherAeB
-# text = Booio ... kocare ca tagagoi ino i marenary rogy nyre imi itoredy karega emare aidyre imuguwo apo taidy koia ji dy kodi oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega ió... kocare tagaidyre iwo ikogedy
+# text = Booio ... kocare ca tagagoi oino i marenary rogy nyre imi itoredy karega emare aidyre imuguwo apo taidy koia ji dy kodi oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
 # text_eng = 
 # text_por = vixi, nossa vocês estão falando isso de mim, eu sou uma coitada, não é meu marido, ela que quer que eu fique com ele mas ela que quer ele,  maridinho dela mesmo dessa minha prima.... ela... mas não é meu marido não ió... por que vocês que querem que eu tenha marido
 1	Booio	booio	INTJ	_	_	5	discourse	_	_
@@ -4764,7 +4764,7 @@
 39	ikogedy	kogedy	VERB	_	Number=Sing|Person=1	37	ccomp	_	marry;casar-se
 
 # sent_id = 004.dialogomulherAeB
-# text = Ca , tare ikogedy iorudywa bokwa dytabo , inudyre ty je ca iedadyre iorudyre tagagoi ii dyji , kajawu imode ikogedy mare kajawu
+# text = Ca , tare ikogedy iorudywa bokwa dytabo , inudyre ty je ca iedadyre iorudyre tagagoi ii dyji , kajawu imode ikogedy mare kajao
 # text_eng = 
 # text_por = Vocês me deram marido sem eu saber, eu tava dormindo e acordei e vi vocês falando isso de mim, esperem vou ter marido mas esperem
 1	Ca	ca	INTJ	_	_	3	discourse	_	_
