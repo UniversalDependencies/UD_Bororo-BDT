@@ -453,12 +453,12 @@
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
 9	tadawu	tada	NOUN	n	Nomzr=Rel	10	nmod	_	_
 10	boe	boe	NOUN	n	_	5	obj	_	_
-11	jamedy	jamedy	NOUN	n	_	10	fixed	_	_
+11	jamedy	jamedy	NOUN	n	_	10	compound	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
 13	nowu	nowu	DET	dem	_	14	nmod	_	_
 14	iguru	iguru	NOUN	n	_	15	nmod	_	tree,wood;madeira,árvore
 15	jamedy	jamedy	ADV	adv	_	10	conj	_	_
-16	boe	boe	NOUN	n	_	15	fixed	_	_
+16	boe	boe	NOUN	n	_	15	compound	_	_
 17	ji	ji	ADP	posp	_	15	obl	_	_
 18	,	,	PUNCT	punct	_	17	punct	_	_
 19	mare	mare	CCONJ	conj	_	24	cc	_	but;mas,porém
@@ -540,7 +540,7 @@
 11	rojai	_	VERB	v	_	3	parataxis	_	_
 12	jiboe	_	X	_	_	11	acl	_	_
 13	jamedy	_	X	_	_	11	obj	_	_
-14	boe	_	NOUN	n	_	13	fixed	_	_
+14	boe	_	NOUN	n	_	13	compound	_	_
 15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	16	dep	_	_
 16	pemegado	pemega	VERB	v	Voice=Cau	11	parataxis	_	_
 
@@ -3383,7 +3383,7 @@
 23	aroei	aroe	NOUN	n	_	19	advcl	_	spirit,soul;espírito,alma
 24	pudumi	pudumi	PRON	_	Reflex=Yes	23	nsubj	_	_
 25	du	du	X	x	_	23	advmod	_	_
-26	keje	keje	ADP	posp	_	25	fixed	_	_
+26	keje	keje	ADP	posp	_	25	compound	_	_
 
 # sent_id = sabia.002
 # text = Icare makore ji , akore Boerumode ai , pobo boimode ai du kejere amagomode Baru kuru bytydo mato , pobo boire ii , ikuduwo
@@ -3401,7 +3401,7 @@
 10	boimode	boi	NOUN	n	Mood=Ind|Tense=Fut	6	conj	_	desire;desejar
 11	ai	ji	ADP	posp	Number=Sing|Person=2	10	obl	_	_
 12	du	du	X	x	_	6	advmod	_	_
-13	kejere	keje	X	_	Mood=Ind	12	fixed	_	_
+13	kejere	keje	X	_	Mood=Ind	12	compound	_	_
 14	amagomode	mako	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	5	ccomp	_	_
 15	Baru	baru	NOUN	n	_	16	nmod	_	_
 16	kuru	kuru	NOUN	n	_	17	nsubj	_	_
@@ -3476,7 +3476,7 @@
 6	nonore	nonore	ADV	adv	Mood=Ind	7	advmod	_	thus;assim
 7	akagomode	ako	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	13	advcl	_	_
 8	du	du	X	x	_	7	advmod	_	_
-9	keje	keje	ADP	posp	_	8	fixed	_	_
+9	keje	keje	ADP	posp	_	8	compound	_	_
 10	,	,	PUNCT	punct	_	7	punct	_	_
 11	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	13	nsubj	_	_
 12	pobo	pobo	NOUN	n	_	13	obj	_	_
@@ -3542,7 +3542,7 @@
 22	pobo	pobo	NOUN	n	_	21	advcl	_	_
 23	kuricigore	kurucigo	NOUN	n	Mood=Ind	22	nmod	_	_
 24	du	du	X	_	_	21	advmod	_	_
-25	keje	keje	ADP	_	_	24	fixed	_	_
+25	keje	keje	ADP	_	_	24	compound	_	_
 26	.	.	PUNCT	punct	_	21	punct	_	_
 27	Akore	ako	VERB	v	Number=Sing|Person=2	2	parataxis	_	_
 28	ji	ji	ADP	_	_	27	obl	_	_
@@ -3559,7 +3559,7 @@
 # text_eng = 
 # text_por = Depois foi embora dele logo lá para o céu, convertido em aroe.
 1	Du	du	X	x	_	4	advmod	_	_
-2	kejere	keje	ADP	posp	Mood=Ind	1	fixed	_	_
+2	kejere	keje	ADP	posp	Mood=Ind	1	compound	_	_
 3	icare	icare	ADV	adv	_	4	advmod	_	_
 4	uture	u	PRON	bi	_	0	root	_	_
 5	piji	piji	ADP	posp	_	4	obl	_	_
@@ -3573,14 +3573,14 @@
 13	i	i	ADP	posp	_	12	case	_	in,as;em,como,na qualidade de
 14	pudumi	_	PRON	pron	PronType=Prs|Reflex=Yes	4	advcl	_	_
 15	du	du	X	x	_	14	advmod	_	_
-16	tabo	tabo	ADP	posp	_	15	fixed	_	_
+16	tabo	tabo	ADP	posp	_	15	compound	_	_
 
 # sent_id = sabia.011
 # text = Du keje icare awy kiogo akogodure akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
 # text_eng = 
 # text_por = Depois o passarinho começou a cantar dizendo: Céu líquido se derrama, céu líquido se derrama, br!, br!, se derrama, se derrama, se derrama br je!
 1	Du	du	X	_	_	6	advmod	_	_
-2	keje	keje	ADP	_	_	1	fixed	_	_
+2	keje	keje	ADP	_	_	1	compound	_	_
 3	icare	icare	ADV	adv	_	6	advmod	_	_
 4	awy	awy	DET	_	_	5	det	_	_
 5	kiogo	kiogo	NOUN	n	_	6	nsubj	_	_
@@ -3726,7 +3726,7 @@
 # text_eng = 
 # text_por = Aí todos o aclamaram: Wa!
 1	Du	du	X	_	_	5	advmod	_	_
-2	kejere	_	ADV	adv	_	1	fixed	_	_
+2	kejere	_	ADV	adv	_	1	compound	_	_
 3	icare	_	ADV	adv	_	5	advcl	_	_
 4	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
 5	iogwarido	_	VERB	v	_	0	root	_	_
@@ -3925,8 +3925,8 @@
 2	ego	ako	VERB	v	_	0	root	_	_
 3	mugunure	mugu	VERB	v	_	2	dep	_	_
 4	bai	bai	NOUN	n	_	2	obl	_	house;casa
-5	mana	mana	NOUN	n	_	4	fixed	_	indicates different degrees of kinship;designação de vários graus de parentesco
-6	gejewy	_	NOUN	n	_	5	fixed	_	_
+5	mana	mana	NOUN	n	_	4	compound	_	indicates different degrees of kinship;designação de vários graus de parentesco
+6	gejewy	_	NOUN	n	_	5	compound	_	_
 7	to	to	ADP	_	_	4	case	_	_
 
 # sent_id = 020.EncIE
@@ -3996,7 +3996,7 @@
 # text_eng = 
 # text_por = E por isso mediram seu desejo de comida entre si
 1	Dykodi	dykodi	ADV	adv	_	6	advmod	_	_
-2	icare	icare	ADV	adv	_	1	fixed	_	_
+2	icare	icare	ADV	adv	_	1	compound	_	_
 3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
 4	tuge	ke	NOUN	n	Number=Plur|Person=3|Reflex=Yes	5	nmod	_	_
 5	boi	boi	NOUN	n	_	6	obj	_	_
@@ -4036,13 +4036,13 @@
 # text_eng = 
 # text_por =  E por isso a onça consumiu muita comida e depois foi à procura da cigarra
 1	Dykodi	_	ADV	adv	_	6	advmod	_	_
-2	icare	_	ADV	adv	_	1	fixed	_	_
+2	icare	_	ADV	adv	_	1	compound	_	_
 3	adugore	_	NOUN	n	Mood=Ind	5	nsubj	_	_
 4	boe	_	NOUN	n	_	5	nmod	_	_
 5	kodu	kodu	NOUN	n	_	6	obj	_	meat;carne
 6	kuricigody	kuricigody	VERB	v	Number=Sing|Person=3	0	root	_	_
 7	dytabore	_	ADV	adv	Mood=Ind	9	advmod	_	_
-8	icare	_	ADV	adv	_	7	fixed	_	_
+8	icare	_	ADV	adv	_	7	compound	_	_
 9	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	6	parataxis	_	_
 10	konorigi	_	NOUN	n	_	9	obl	_	_
 11	bogai	bogai	ADP	posp	_	10	case	_	towards;em direção a
@@ -4076,7 +4076,7 @@
 6	i	_	NOUN	n	_	7	nmod	_	_
 7	paru	_	NOUN	n	_	4	_	_	_
 8	dytabore	_	ADV	adv	_	11	advmod	_	_
-9	icare	_	ADV	adv	_	8	fixed	_	_
+9	icare	_	ADV	adv	_	8	compound	_	_
 10	ere	_	PRON	bi	Mood=Ind|Number=Plur|Person=3	11	nsubj	_	_
 11	tado	_	VERB	v	_	4	advcl	_	observe,seek,see;observara,procurar,ver,olhar
 12	pujoku	joku	NOUN	bi	PronType=Rcp|Reflex=Yes	11	obl	_	_
@@ -4115,7 +4115,7 @@
 # text_eng = 
 # text_por = E então disse: Esta cigarra é minha, dando lhe um "pa", uma patada para comê-la
 1	Dykodi	_	ADV	adv	_	3	advmod	_	_
-2	icare	_	ADV	adv	_	1	fixed	_	_
+2	icare	_	ADV	adv	_	1	compound	_	_
 3	akore	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	:	_	PUNCT	punct	_	3	punct	_	_
 5	awy	_	DET	_	_	3	cc	_	_
@@ -4150,7 +4150,7 @@
 # text_eng = 
 # text_por = Não há comentários
 1	Boekimo	_	ADV	adv	_	0	root	_	_
-2	rema	_	CCONJ	cconj	_	1	fixed	_	_
+2	rema	_	CCONJ	cconj	_	1	compound	_	_
 
 # sent_id = 014.KJB
 # text = Konorigi rade , tuboru bo pao je
@@ -4247,7 +4247,7 @@
 # text_eng = 
 # text_por = E por isso não há bororo que execute de novo
 1	Kodi	_	ADV	adv	_	7	advmod	_	_
-2	icare	_	ADV	adv	_	1	fixed	_	_
+2	icare	_	ADV	adv	_	1	compound	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 4	tawyje	_	VERB	v	Number=Sing|Person=3	7	xcomp	_	_
 5	pugeje	_	ADJ	_	_	4	advmod	_	_
@@ -4266,7 +4266,7 @@
 6	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	7	nsubj	_	_
 7	by	by	VERB	v	Number=Sing|Person=3	1	conj	_	_
 8	ty	ty	ADV	adv	_	10	advmod	_	_
-9	oino	oino	ADV	adv	_	8	fixed	_	_
+9	oino	oino	ADV	adv	_	8	compound	_	_
 10	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	7	obl	_	_
 
 # sent_id = 004.IETKB
@@ -4293,7 +4293,7 @@
 3	kuiada	kuiada	NOUN	n	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 5	Kuieje	Kuieje	PROPN	propn	_	7	nmod	_	_
-6	Bakidobo	Bakidobo	PROPN	propn	_	5	fixed	_	_
+6	Bakidobo	Bakidobo	PROPN	propn	_	5	compound	_	_
 7	ore	o	NOUN	n	Mood=Ind	8	nsubj	_	_
 8	kuiada	kuiada	NOUN	n	_	3	parataxis	_	_
 
@@ -4327,7 +4327,7 @@
 # text_eng = 
 # text_por = E aqui os bororo se encontram
 1	Woere	woe	ADV	adv	Mood=Ind	5	advmod	_	_
-2	icare	icare	ADV	adv	_	1	fixed	_	_
+2	icare	icare	ADV	adv	_	1	compound	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	boe	boe	NOUN	n	_	5	nsubj	_	_
 5	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	come,arrive;vir,chegar
@@ -4596,7 +4596,7 @@
 1	Icare	icare	ADV	_	_	6	advmod	_	_
 2	nowy	nowy	DET	_	_	4	det	_	_
 3	boe	boe	NOUN	_	_	_	punct	_	_
-4	etore	onaregedy	NOUN	_	Number=Plur|Number[psor]=Plur|Person=3	3	fixed	_	_
+4	etore	onaregedy	NOUN	_	Number=Plur|Number[psor]=Plur|Person=3	3	compound	_	_
 5	kugure	kuguri	NOUN	_	Number=Plur	4	nmod	_	_
 6	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	:	:	PUNCT	_	_	6	punct	_	_
