@@ -4083,7 +4083,7 @@
 5	je	_	ADV	adv	_	1	advmod	_	thus;assim
 
 # sent_id = 010.KJB
-# text = Icare adygo uke boi raka , raka guragare ji , icare bigodure tuge boi koia
+# text = Icare adygo uke boi raka guragare ji , icare bigodure tuge boi koia
 # text_eng = 
 # text_por = E a onça teve muito desejo de comida e estava para desmaiar pelo desejo de comida
 1	Icare	_	ADV	adv	_	4	advmod	_	_
@@ -4101,7 +4101,7 @@
 13	koia	_	ADP	posp	_	12	case	_	_
 
 # sent_id = 011.KJB
-# text = Dykodi icare akore : awy ! Ino kogorigiji , tywo tugerado , Ca keje , tugeje
+# text = Dykodi icare akore : awy ! Ino kogorigi ji , tywo tugerado , Ca keje , tugeje
 # text_eng = 
 # text_por = E então disse: Esta cigarra é minha, dando lhe um "pa", uma patada para comê-la
 1	Dykodi	_	ADV	adv	_	3	advmod	_	_
