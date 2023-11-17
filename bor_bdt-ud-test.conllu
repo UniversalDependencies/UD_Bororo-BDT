@@ -4328,7 +4328,7 @@
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	boe	boe	NOUN	n	_	5	nsubj	_	_
 5	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	come,arrive;vir,chegar
-6	pu	pu	PRON	pron	PronType=Rcp|Reflex=Yes	5	_	_	_
+6	pu	pu	PRON	pron	PronType=Rcp|Reflex=Yes	5	obl	_	_
 7	iato	iato	ADV	adv	_	5	advmod	_	there;lá
 
 # sent_id = 010.IETKB
@@ -4338,13 +4338,13 @@
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
 2	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	barae	barae	NOUN	n	_	2	obl	_	_
-4	eiato	_	ADP	posp	Number=Plur|Person=3	3	case	_	_
+4	eiato	_	ADP	posp	Number=Plur|Person=3	3	obl	_	_
 
 # sent_id = 011.IETKB
 # text = Ewadary aregidyre pu ae . Kodire awy areme eawadarodae okwa kare oino epiji : pady kimore oino ewygeje
 # text_eng = 
 # text_por = Por isso as mulheres não perderam o costume de mentir . Ele ainda está nelas
-1	Ewadary	_	NOUN	n	_	2	nsubj	_	_
+1	Ewadary	batary	NOUN	n	_	2	nsubj	_	_
 2	aregodyre	_	VERB	v	_	0	root	_	_
 3	pu	pu	PRON	_	PronType=Rcp|Reflex=Yes	2	obl	_	_
 4	ae	ae	ADP	posp	_	3	case	_	_
@@ -4356,11 +4356,11 @@
 10	okwakare	okwa	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	parataxis	_	hide,loose;perder,esconder
 11	oino	oino	ADV	adv	_	10	advmod	_	_
 12	epiji	piji	ADP	posp	Number=Plur|Person=3	10	obl	_	_
-13	:	_	PUNCT	punct	_	_	_	_	_
-14	pady	_	_	_	_	_	_	_	_
-15	kimore	kimo	ADV	adv	Mood=Ind	_	_	_	_
-16	oino	oino	ADV	adv	_	_	_	_	_
-17	ewygeje	bukeje	ADP	posp	Number=Plur|Person=3	_	_	_	_
+13	:	_	PUNCT	punct	_	10	punct	_	_
+14	pady	_	VERB	_	_	10	parataxis	_	_
+15	kimore	kimo	ADV	adv	Mood=Ind	14	advmod	_	_
+16	oino	oino	ADV	adv	_	14	advmod	_	_
+17	ewygeje	bukeje	ADP	posp	Number=Plur|Person=3	14	obl	_	_
 
 # sent_id = 012.IETKB
 # text = Kuiada kaere areme etyre . Etyre toro kiada kae
@@ -4399,7 +4399,7 @@
 9	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 
 # sent_id = 015.IETKB
-# text = Ere tore kugure edo ty tijarugo apo
+# text = Ere tore kugure edo ty tujarugo apo
 # text_eng = 
 # text_por = Elas deixaram suas crianças aos cuidados da vó paterna
 1	Ere	e	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	4	nsubj	_	son;filho
@@ -4738,7 +4738,7 @@
 13	,	,	PUNCT	_	_	11	punct	_	_
 14	emare	ema	PRON	pron	Mood=Ind|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	aidyre	aidy	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
-16	imuguwo	mugu	VERB	_	Mood=Sub|Number=Sing|Person=1	15	conj	_	_
+16	imuguwo	mugu	VERB	_	Mood=Sub|Number=Sing|Person=1	15	cc	_	_
 17	apo	apo	ADP	_	_	15	obl	_	_
 18	taidy	aidy	VERB	_	Number=Sing|Person=3|Reflex=Yes	15	parataxis	_	_
 19	koia	koia	SCONJ	_	_	18	obl	_	_
