@@ -4108,7 +4108,7 @@
 2	icare	icare	ADV	adv	_	1	compound	_	_
 3	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	:	:	PUNCT	punct	_	3	punct	_	_
-5	awy	awy	DET	_	_	3	ccomp	_	_
+5	awy	awy	DET	dem	_	3	ccomp	_	_
 6	!	!	PUNCT	punct	_	5	punct	_	_
 7	Ino	_	NOUN	n	Number=Plur|Person=1	5	parataxis	_	_
 8	kogorigi	kogorigi	NOUN	n	_	7	dep	_	_
@@ -4116,7 +4116,7 @@
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	tywo	ty	PRON	bi	Number=Sing|Person=3|PronType=Bi|Reflex=Yes|Voice=Cau	12	nsubj	_	_
 12	tugerado	_	VERB	v	Number=Sing|Person=3|Reflex=Yes	8	advcl	_	_
-13	Ca	ca	X	ideo	_	12	obl	_	_
+13	ca	ca	X	ideo	_	12	obl	_	_
 14	keje	keje	ADP	posp	_	13	case	_	_
 15	,	,	PUNCT	punct	_	12	punct	_	_
 16	tugeje	_	VERB	n	_	12	advcl	_	_
@@ -4182,7 +4182,7 @@
 8	tu	tu	ADV	adv	_	7	advmod	_	thus;assim
 9	woe	woe	ADV	adv	_	7	advmod	_	here;aqui
 10	tuwiri	biri	NOUN	n	Number=Sing|Person=3|Reflex=Yes	7	obl	_	skin;pele
-11	bioro	bioro	NOUN	n	_	11	obl	_	empty;vazio
+11	bioro	bioro	NOUN	n	_	7	obl	_	empty;vazio
 12	keje	keje	ADP	posp	Number=Sing|Person=3	11	case	_	_
 
 # sent_id = 017.KJB
@@ -4206,18 +4206,18 @@
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	boe	boe	NOUN	n	_	6	nsubj	_	_
 6	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
-7	jiboe	jiboe	PRON	pron	_	_	obj	_	_
+7	jiboe	jiboe	PRON	pron	_	6	obj	_	_
 8	,	,	PUNCT	punct	_	6	punct	_	_
 9	kuricigo	kuricigo	ADV	adv	_	6	advmod	_	_
 10	,	,	PUNCT	punct	_	6	punct	_	_
 11	makaguragare	makaguraga	ADV	adv	_	6	advmod	_	_
 
 # sent_id = 002.IETKB
-# text = Macare akedu nure boe eregodaji moto to , pobo to , baru to
+# text = Macare akedynure boe eregodaji moto to , pobo to , baru to
 # text_eng = 
 # text_por = Mas (tudo) está acabando atrás dos bororo para o chão , para a água , para o céu
 1	Macare	macare	CCONJ	cconj	_	2	dep	_	_
-2	akedunure	akedu	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	akedynure	akedu	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	boe	boe	NOUN	n	_	2	obl	_	_
 4	eregodaji	rekodaji	ADP	posp	Number=Plur|Person=3	3	case	_	behind,after;atrás,depois
 5	moto	moto	NOUN	n	_	2	obl	_	_
