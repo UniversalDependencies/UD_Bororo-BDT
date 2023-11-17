@@ -4362,7 +4362,7 @@
 4	etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 6	Etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
-7	toro	toro	ADV	adv	Number=Sing|Person=3	6	advmod	_	_
+7	toro	toro	ADV	adv	_	6	advmod	_	_
 8	kuiada	kuiada	NOUN	n	_	6	obl	_	_
 9	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 
@@ -4542,7 +4542,7 @@
 # text_por = Nada! O milho ainda não está pronto, o milho ainda não está pronto
 1	Bore	bore	X	_	Mood=Ind|Number=Plur|Person=3	0	root	_	no;não
 2	!	!	PUNCT	punct	_	1	punct	_	_
-3	kuiada	kuiada	NOUN	n	_	4	nsubj	_	_
+3	Kuiada	kuiada	NOUN	n	_	4	nsubj	_	_
 4	kodomai	kodomai	ADV	adv	_	1	parataxis	_	soon,be ripe;logo,estar maduro
 5	,	,	PUNCT	punct	_	4	punct	_	_
 6	kuiada	kuiada	NOUN	n	_	7	nsubj	_	_
@@ -4569,7 +4569,7 @@
 2	toro	toro	ADP	posp	_	1	advmod	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi	7	nsubj	_	_
-5	tore	tore	NOUN	n	_	_	obj	_	_
+5	tore	tore	NOUN	n	_	7	obj	_	_
 6	kugure	kuguri	NOUN	n	Number=Plur	5	nmod	_	_
 7	edo	e	PRON	bi	Number=Plur|Person=3|Voice=Cau	1	parataxis	_	_
 8	tujarygo	arygo	NOUN	n	Reflex=Yes	7	obl	_	mother-in-law;sogra
