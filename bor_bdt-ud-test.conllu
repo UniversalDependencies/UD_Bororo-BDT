@@ -4778,7 +4778,7 @@
 9	inudyre	nudy	VERB	_	Mood=Ind|Number=Sing|Person=1	4	parataxis	_	_
 10	ty	ty	ADV	_	_	9	advmod	_	_
 11	je	je	INTJ	_	_	13	discourse	_	_
-12	ca	ca	INTJ	_	_	11	goeswith	_	_
+12	ca	ca	INTJ	_	_	11	compound	_	_
 13	iedadyre	jetady	VERB	_	Mood=Ind	9	conj	_	awake;acordar
 14	iorudyre	jorydy	VERB	_	Mood=Ind|Number=Sing|Person=1	13	conj	_	_
 15	tagagoi	ako	VERB	_	Number=Plur|Person=2|VerbForm=Ger	14	ccomp	_	_
