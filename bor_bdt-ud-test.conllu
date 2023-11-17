@@ -4847,7 +4847,7 @@
 15	dyji	dyji	X	_	_	12	obj	_	_
 
 # sent_id = 005.KoeMakarewudo
-# text = Mare iorydykare boe makarewu dyji , boe kyrirewuji . Imagomode ioga makore ji boeji
+# text = Mare iorydykare boe makarewu dyji , boe kurirewu ji . Imagomode ioga makore ji boeji
 # text_eng = 
 # text_por = Mas eu não vi quando tinha muita coisa, as coisas grande. Falarei o que meu pai falou
 1	Mare	mare	CCONJ	conj	_	2	conj	_	but;mas
@@ -4857,11 +4857,12 @@
 5	dyji	dyji	X	_	_	2	dep	_	_
 6	,	,	PUNCT	punct	_	2	punct	_	_
 7	boe	boe	NOUN	n	_	3	conj	_	_
-8	kurirewuji	kuri	NOUN	_	Nomzr=Rel	7	nmod	_	big;grande
+8	kurirewu	kuri	NOUN	_	Nomzr=Rel	7	nmod	_	big;grande
+8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	big;grande
 9	.	.	PUNCT	punct	_	2	punct	_	_
 10	Imagomode	mako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	parataxis	_	_
 11	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	12	nsubj	_	_
-12	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	10	cc	_	_
+12	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	10	conj	_	_
 13	ji	ji	ADP	posp	_	12	obl	_	_
 14	boeji	boeji	X	_	_	12	obj	_	_
 
