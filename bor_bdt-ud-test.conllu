@@ -4846,3 +4846,47 @@
 14	ebo	apo	ADP	_	Number=Plur|Person=3	13	case	_	_
 15	dyji	dyji	X	_	_	12	obj	_	_
 
+# sent_id = 005.KoeMakarewudo
+# text = Mare iorydykare boe makarewu dyji , boe kyrirewuji . Imagomode ioga makore ji boeji
+# text_eng = 
+# text_por = Mas eu não vi quando tinha muita coisa, as coisas grande. Falarei o que meu pai falou
+1	Mare	mare	CCONJ	conj	_	2	conj	_	but;mas
+2	iorydykare	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
+3	boe	boe	NOUN	n	_	2	obl	_	_
+4	makarewu	maka	NOUN	n	Nomzr=Rel	3	nmod	_	a lot of;muito
+5	dyji	dyji	X	_	_	2	dep	_	_
+6	,	,	PUNCT	punct	_	2	punct	_	_
+7	boe	boe	NOUN	n	_	3	conj	_	_
+8	kurirewuji	kuri	NOUN	_	Nomzr=Rel	7	nmod	_	big;grande
+9	.	.	PUNCT	punct	_	2	punct	_	_
+10	Imagomode	mako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	parataxis	_	_
+11	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	12	nsubj	_	_
+12	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	10	cc	_	_
+13	ji	ji	ADP	posp	_	12	obl	_	_
+14	boeji	boeji	X	_	_	12	obj	_	_
+
+# sent_id = 006.KoeMakarewudo
+# text = Ioga akore Meriri Poro koiaie ure boe etagedydo , koiaie ure boe pegado dykodyie icare Aroe Jakomea apore boe etagedydo
+# text_eng = My father said that it was becasue of Meriri Poro, he anihilated the Bororo
+# text_por = Meu disse que Meriri Poro quem acabou com os bororo. Foi ele quem fez tudo de ruim por isso Ele com Aroe Jakomea acabou com os bororo
+1	Ioga	o	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	Meriri	Meriri	PROPN	propn	_	5	dep	_	_
+4	Poro	Poro	PROPN	propn	_	3	compound	_	_
+5	koiaie	koia	ADP	_	Speech=Ind	2	ccomp	_	_
+6	ure	u	PRON	bi	Number=Plur|Person=3	8	nsubj	_	_
+7	boe	boe	NOUN	n	_	8	obj	_	_
+8	etagedydo	akedy	VERB	v	Number=Plur|Person=3|Voice=Cau	5	parataxis	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	koiaie	_	ADV	_	Speech=Ind	13	advmod	_	_
+11	ure	u	PRON	bi	Number=Plur|Person=3	13	nsubj	_	_
+12	boe	boe	NOUN	_	_	13	obj	_	_
+13	pegado	pega	VERB	_	Voice=Cau	2	cc	_	_
+14	dykodyie	_	X	_	Speech=Ind	13	mark	_	_
+15	icare	_	ADV	_	_	20	advmod	_	_
+16	Aroe	aroe	NOUN	_	_	20	obl	_	a type of spirit;tipo de espírito
+17	Jakomea	Jakomea	PROPN	_	_	16	compound	_	_
+18	apore	apo	ADP	_	Mood=Ind|Number=Sing|Person=3	16	case	_	_
+19	boe	boe	NOUN	_	_	20	obj	_	_
+20	etagedydo	_	VERB	_	Number=Plur|Person=3|Voice=Cau	13	parataxis	_	_
+
