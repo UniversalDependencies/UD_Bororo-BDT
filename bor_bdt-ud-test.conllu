@@ -4540,7 +4540,7 @@
 6	ji	ji	ADP	posp	_	5	case	_	_
 
 # sent_id = 028.IETKB
-# text = Boro ! Kuiada kodomai , kuiada kodomai
+# text = Bore ! Kuiada kodomai , kuiada kodomai
 # text_eng = 
 # text_por = Nada! O milho ainda não está pronto, o milho ainda não está pronto
 1	Bore	bore	X	_	Mood=Ind|Number=Plur|Person=3	0	root	_	no;não
@@ -4601,7 +4601,7 @@
 1	Kocare	kocare	ADV	adv	_	3	advmod	_	_
 2	pajemage	muga	NOUN	n	Clusivity=In|Number=Plur|Person=1	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-4	kuiada	kuiada	NOUN	n	 _	5	nsubj	_	_
+4	kuiada	kuiada	NOUN	n	_	5	nsubj	_	_
 5	koduie	kodu	VERB	v	Speech=Ind	3	ccomp	_	_
 6	mai	mai	ADV	adv	_	5	advmod	_	_
 7	.	.	PUNCT	punct	_	3	punct	_	_
@@ -4713,7 +4713,7 @@
 9	kocare	kocare	INTJ	_	_	5	discourse	_	_
 
 # sent_id = 003.dialogomulherAeB
-# text = Booio ... kocare ca tagagoi oino ii marenaryrogunyre imi itoredy karega emare aidyre imuguwo apo taidy koia ji dy kodi oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
+# text = Booio ... kocare ca tagagoi oino ii marenaryrogunure imi itoredy karega emare aidyre imuguwo apo taidy koia ji dy kodi oredy rogy rugady nowy iwie oredy ... ema... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
 # text_eng = 
 # text_por = vixi, nossa vocês estão falando isso de mim, eu sou uma coitada, não é meu marido, ela que quer que eu fique com ele mas ela que quer ele,  maridinho dela mesmo dessa minha prima.... ela... mas não é meu marido não ió... por que vocês que querem que eu tenha marido
 1	Booio	booio	INTJ	_	_	5	discourse	_	_
