@@ -4856,7 +4856,7 @@
 4	makarewu	maka	NOUN	n	Nomzr=Rel	3	nmod	_	a lot of;muito
 5	dyji	dyji	X	_	_	2	dep	_	_
 6	,	,	PUNCT	punct	_	2	punct	_	_
-7	boe	boe	NOUN	n	_	3	conj	_	_
+7	boe	boe	NOUN	n	_	2	conj	_	_
 8	kurirewu	kuri	NOUN	_	Nomzr=Rel	7	nmod	_	big;grande
 9	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	big;grande
 10	.	.	PUNCT	punct	_	2	punct	_	_
