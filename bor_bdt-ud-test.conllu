@@ -4257,12 +4257,12 @@
 10	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	7	obl	_	_
 
 # sent_id = 005.IETKB
-# text = Kuiada boe eno kuidare . Kodire kuidare boe etai
+# text = Kuiada . Boe eno kuidare . Kodire kuiadare boe etai
 # text_eng = 
 # text_por = Milho. Os bororo tinham milho. Assim havia milho para os bororo
 1	Kuiada	kuiada	NOUN	n	Mood=Ind	5	discourse	_	maize,corn;milho
 2	.	_	PUNCT	punct	_	1	punct	_	_
-3	boe	_	NOUN	n	_	4	nmod	_	_
+3	Boe	_	NOUN	n	_	4	nmod	_	_
 4	eno	_	NOUN	n	_	5	nsubj	_	_
 5	kuiadare	kuiada	NOUN	n	Mood=Ind	0	root	_	_
 6	.	_	PUNCT	punct	_	5	punct	_	_
