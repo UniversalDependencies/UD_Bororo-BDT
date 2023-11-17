@@ -3918,15 +3918,15 @@
 5	mityre	mity	VERB	v	_	1	advcl	_	close;fechamento,fechado,entupimento
 
 # sent_id = 019.EncIEx
-# text = Boe ego mugunure bai mana gejewyto
+# text = Boe ego mugunure bai mana gejewy to
 # text_eng = 
 # text_por = os bororo cantam assentados na choupana central.
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
 2	ego	ako	VERB	v	_	0	root	_	_
 3	mugunure	mugu	VERB	v	_	2	dep	_	_
 4	bai	bai	NOUN	n	_	2	obl	_	house;casa
-5	mana	mana	NOUN	n	_	4	goeswith	_	indicates different degrees of kinship;designação de vários graus de parentesco
-6	gejewy	_	NOUN	n	_	5	goeswith	_	_
+5	mana	mana	NOUN	n	_	4	fixed	_	indicates different degrees of kinship;designação de vários graus de parentesco
+6	gejewy	_	NOUN	n	_	5	fixed	_	_
 7	to	to	ADP	_	_	4	case	_	_
 
 # sent_id = 020.EncIE
@@ -4150,7 +4150,7 @@
 # text_eng = 
 # text_por = Não há comentários
 1	Boekimo	_	ADV	ADV	adv	0	root	_	_
-2	rema	_	CCONJ	cconj	_	1	goeswith	_	_
+2	rema	_	CCONJ	cconj	_	1	fixed	_	_
 
 # sent_id = 014.KJB
 # text = Konorigi rade , tuboru bo pao je
@@ -4247,7 +4247,7 @@
 # text_eng = 
 # text_por = E por isso não há bororo que execute de novo
 1	Kodi	_	ADV	adv	_	7	advmod	_	_
-2	icare	_	ADV	adv	_	1	goeswith	_	_
+2	icare	_	ADV	adv	_	1	fixed	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 4	tawyje	_	VERB	v	Number=Sing|Person=3	7	xcomp	_	_
 5	pugeje	_	ADJ	_	_	4	advmod	_	_
@@ -4266,7 +4266,7 @@
 6	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	7	nsubj	_	_
 7	by	by	VERB	v	Number=Sing|Person=3	1	conj	_	_
 8	ty	ty	ADV	adv	_	10	advmod	_	_
-9	oino	oino	ADV	adv	_	8	goeswith	_	_
+9	oino	oino	ADV	adv	_	8	fixed	_	_
 10	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	7	obl	_	_
 
 # sent_id = 004.IETKB
@@ -4293,7 +4293,7 @@
 3	kuiada	kuiada	NOUN	n	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	PUNCT	punct	_
 5	Kuieje	Kuieje	PROPN	propn	_	7	nmod	_	_
-6	Bakidobo	Bakidobo	PROPN	propn	_	5	goeswith	_	_
+6	Bakidobo	Bakidobo	PROPN	propn	_	5	fixed	_	_
 7	ore	o	NOUN	n	Mood=Ind	8	nsubj	_	_
 8	kuiada	kuiada	NOUN	n	_	3	parataxis	_	_
 
@@ -4327,7 +4327,7 @@
 # text_eng = 
 # text_por = E aqui os bororo se encontram
 1	Woere	woe	ADV	adv	Mood=Ind	5	advmod	_	_
-2	icare	icare	ADV	ADV	adv	1	goeswith	_	_
+2	icare	icare	ADV	ADV	adv	1	fixed	_	_
 3	,	,	PUNCT	punct	_	1	PUNCT	punct	_
 4	boe	boe	NOUN	n	_	5	nsubj	_	_
 5	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	come,arrive;vir,chegar
@@ -4596,7 +4596,7 @@
 1	Icare	icare	_	_	_	6	advmod	_	_
 2	nowy	nowy	_	_	_	4	det	_	_
 3	boe	boe	_	_	_	_	_	_	_
-4	etore	onaregedy	_	_	Number=Plur|Number[psor]=Plur|Person=3	3	goeswith	_	_
+4	etore	onaregedy	_	_	Number=Plur|Number[psor]=Plur|Person=3	3	fixed	_	_
 5	kugure	kuguri	_	_	Number=Plur	4	nmod	_	_
 6	egore	ako	_	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	:	:	_	_	_	6	_	_	_
