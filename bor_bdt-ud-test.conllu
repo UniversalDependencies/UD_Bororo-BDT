@@ -4273,7 +4273,7 @@
 10	etai	ai	ADP	posp	Number=Plur|Person=3	9	case	_	to;para,a
 
 # sent_id = 005.IETKB
-# text = Burekoibo ore kuiada . Kuieje bakidobo ore kuiada
+# text = Burekoibo ore kuiada . Kuieje Bakidobo ore kuiada
 # text_eng = 
 # text_por = O milho era burekoibo (nome de espírito) e de kuieje bakidobo
 1	Burekoibo	Burekoibo	PROPN	propn	_	2	nmod	_	_
@@ -4354,7 +4354,7 @@
 17	ewygeje	bukeje	ADP	posp	Number=Plur|Person=3	14	obl	_	_
 
 # sent_id = 012.IETKB
-# text = Kuiada kaere areme etyre . Etyre toro kiada kae
+# text = Kuiada kaere areme etyre . Etyre toro kuiada kae
 # text_eng = 
 # text_por = As mulheres foram ao milharal. Elas foram lá buscar milho
 1	Kuiada	kuiada	NOUN	n	_	4	obl	_	_
