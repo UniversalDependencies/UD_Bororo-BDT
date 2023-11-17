@@ -3463,27 +3463,27 @@
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = sabia.006
-# text = Itaregodymodykare awogai pugeje , mare nonore akagomode du keje , imode pobo bytydo awugeje , imode pobo arego awogai
+# text = Itaregodymodykare awogai pugeje , mare nonore akagomode dykeje , imode pobo bytydo awugeje , imode pobo arego awogai
 # text_eng = 
 # text_por = Eu não vou voltar mais para você, mas quando você falar assim, vou fazer cair água sobre você, vou mandar água para você.
 1	Itaregodymodykare	_	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	awogai	bogai	ADP	posp	Number=Sing|Person=2	1	obl	_	_
 3	pugeje	pugeje	ADV	adv	_	1	advmod	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
-5	mare	mare	CCONJ	_	_	13	cc	_	_
+5	mare	mare	CCONJ	_	_	12	cc	_	_
 6	nonore	nonore	ADV	adv	Mood=Ind	7	advmod	_	thus;assim
-7	akagomode	ako	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	13	advcl	_	_
-8	du	du	SCONJ	_	_	7	mark	_	_
+7	akagomode	ako	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	12	advcl	_	_
+8	dykeje	dykeje	SCONJ	_	_	7	mark	_	_
 9	,	,	PUNCT	punct	_	7	punct	_	_
-10	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	13	nsubj	_	_
-11	pobo	pobo	NOUN	n	_	13	obj	_	_
-12	bytydo	byty	VERB	v	Voice=Cau	1	parataxis	_	_
-13	awugeje	bukeje	ADP	posp	Number=Sing|Person=2	13	obl	_	_
-14	,	,	PUNCT	punct	_	13	punct	_	_
+10	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	12	nsubj	_	_
+11	pobo	pobo	NOUN	n	_	12	obj	_	_
+12	bytydo	byty	VERB	v	Voice=Cau	1	conj	_	_
+13	awugeje	bukeje	ADP	posp	Number=Sing|Person=2	12	obl	_	_
+14	,	,	PUNCT	punct	_	12	punct	_	_
 15	imode	i	PRON	bi	Mood=Ind|Tense=Fut	18	nsubj	_	_
 16	pobo	pobo	NOUN	n	_	18	obj	_	_
-17	arego	arego	VERB	v	_	13	parataxis	_	bring,fetch;trazer,buscar
-18	awogai	bogai	ADP	posp	Number=Sing|Person=2	18	obl	_	_
+17	arego	arego	VERB	v	_	12	parataxis	_	bring,fetch;trazer,buscar
+18	awogai	bogai	ADP	posp	Number=Sing|Person=2	_	_	_	_
 
 # sent_id = sabia.007
 # text = Icare ure taredo baru to , ure tugana jado , ure taiado , icare ure tumugudo , icare ure turagojedo taci
