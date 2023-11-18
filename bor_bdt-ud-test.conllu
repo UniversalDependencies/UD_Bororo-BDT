@@ -4850,7 +4850,7 @@
 # text = Mare iorydykare boe makarewu dyji , boe kurirewu ji . Imagomode ioga makore ji boeji
 # text_eng = 
 # text_por = Mas eu não vi quando tinha muita coisa, as coisas grande. Falarei o que meu pai falou
-1	Mare	mare	CCONJ	conj	_	2	conj	_	but;mas
+1	Mare	mare	CCONJ	conj	_	2	dep	_	but;mas
 2	iorydykare	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 3	boe	boe	NOUN	n	_	2	obl	_	_
 4	makarewu	maka	NOUN	n	Nomzr=Rel	3	nmod	_	a lot of;muito
