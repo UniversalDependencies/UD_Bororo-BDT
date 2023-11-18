@@ -4883,7 +4883,7 @@
 11	ure	u	PRON	bi	Number=Plur|Person=3	13	nsubj	_	_
 12	boe	boe	NOUN	_	_	13	obj	_	_
 13	pegado	pega	VERB	_	Voice=Cau	2	ccomp	_	_
-14	dykodyie	_	X	_	Speech=Ind	13	mark	_	_
+14	dykodyie	_	SCONJ	_	Speech=Ind	13	mark	_	_
 15	icare	_	ADV	_	_	20	advmod	_	_
 16	Aroe	aroe	NOUN	_	_	20	obl	_	a type of spirit;tipo de espírito
 17	Jakomea	Jakomea	PROPN	_	_	16	compound	_	_
