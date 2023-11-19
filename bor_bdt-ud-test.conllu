@@ -317,7 +317,7 @@
 14	kuiada	kuiada	NOUN	n	_	12	conj	_	corn,maize;milho
 15	,	,	PUNCT	punct	_	14	punct	_	_
 16	aroe	aroe	NOUN	n	_	12	conj	_	rice;arroz
-17	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	18	nmod	_	_
+17	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	18	nmod	_	_
 18	boe	boe	NOUN	n	_	12	conj	_	_
 19	jamedy	_	ADV	adv	_	20	nmod	_	_
 20	boe	boe	NOUN	n	_	12	conj	_	_
@@ -340,7 +340,7 @@
 7	kare	kare	NOUN	n	_	8	obj	_	_
 8	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	12	det	_	_
+10	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	12	det	_	_
 11	jamedy	_	ADV	adv	_	12	advmod	_	_
 12	boe	boe	NOUN	n	_	14	obj	_	_
 13	ure	re	PART	prcl	Number=Plur|Person=3	14	dep	_	_
@@ -381,7 +381,7 @@
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
 2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
-3	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	4	det	_	_
+3	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	det	_	_
 4	boe	boe	NOUN	n	_	8	iobj	_	_
 5	jamedy	jamedy	ADV	adv	_	4	advmod	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
@@ -424,7 +424,7 @@
 4	aredu	aredu	NOUN	n	_	5	obj	_	_
 5	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	8	det	_	_
+7	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	_
 8	oredu	oredu	NOUN	n	_	9	nmod	_	husband;marido,esposo
 9	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	name;nome
 10	Adão	Adão	PROPN	propn	_	5	parataxis	_	_
@@ -468,13 +468,13 @@
 4	akore	ko	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
 5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	iobj	_	for.a.long.time;por.muito.tempo
-7	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	8	det	_	_
+7	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	_
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
 9	tadawu	tada	NOUN	n	Nomzr=Rel	10	nmod	_	_
 10	boe	boe	NOUN	n	_	5	obj	_	_
 11	jamedy	jamedy	NOUN	n	_	10	compound	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
-13	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	14	nmod	_	_
+13	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	14	nmod	_	_
 14	iguru	iguru	NOUN	n	_	15	nmod	_	tree,wood;madeira,árvore
 15	jamedy	jamedy	ADV	adv	_	10	conj	_	_
 16	boe	boe	NOUN	n	_	15	compound	_	_
@@ -920,7 +920,7 @@
 # text_eng = I do not cut this tree
 # text_por = eu não corto essa árvore
 1	ikare	i	X	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	nsubj	_	_
-2	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	3	det	_	this;este,esta
+2	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	this;este,esta
 3	i	i	NOUN	n	_	4	obj	_	tree;árvore
 4	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	cut;cortar
 
@@ -929,7 +929,7 @@
 # text_eng = I cut this tree
 # text_por = eu corto essa árvore
 1	ire	i	PRON	bi	Mood=Ind	4	nsubj	_	you;você
-2	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	3	det	_	this;este,esta
+2	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	this;este,esta
 3	i	i	NOUN	n	_	4	obj	_	tree;árvore
 4	kado	kado	VERB	v	_	0	root	_	cut;cortar
 
@@ -1206,7 +1206,7 @@
 # text = awy imedy ure kowuje
 # text_eng = That man ate
 # text_por = aquele homem comeu
-1	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	2	det	_	that;aquele
+1	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	that;aquele
 2	imedy	imedy	NOUN	n	_	4	nsubj	_	man;homem
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	dep	_	_
 4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
@@ -1314,7 +1314,7 @@
 # text = awy merijire iwogumode
 # text_eng =It's today I will fish
 # text_por = é hoje que eu vou pescar
-1	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Demm	2	nmod	_	this;este,esta
+1	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Demm	2	nmod	_	this;este,esta
 2	merijire	meriju	ADV	adv	Mood=Ind	3	advmod	_	day;dia
 3	iwogumode	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
 
@@ -1511,21 +1511,21 @@
 # text_eng = Este é meu bastão
 # text_por = this is my cane/stick
 1	iiodore	iodo	NOUN	n	Mood=Ind|Number[psor]=Sing|Person[psor]=1	0	root	_	stick,cane,staff,bat;bastão
-2	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	1	det	_	this;este,esta
+2	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	1	det	_	this;este,esta
 
 # sent_id = ABE-318
 # text = iiodore no
 # text_eng = Este é meu bastão
 # text_por = this is my cane/stick
 1	iiodore	iodo	NOUN	n	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	no	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	1	det	_	this;este,esta
+2	no	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	1	det	_	this;este,esta
 
 # sent_id = ABE-319
 # text = iiodore ce
 # text_eng = That is my cane/stick
 # text_por = Aquele é meu bastão
 1	iiodore	iodo	NOUN	n	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	ce	cewy	DET	dem	Deic=Dist|Number=Sing|PronType=Dem	1	det	_	that;aquele;aquela
+2	ce	cewy	DET	dem	Deixis=Remt|Number=Sing|PronType=Dem	1	det	_	that;aquele;aquela
 
 # sent_id = ABE-320
 # text = rary baru ekaworyre
@@ -2163,7 +2163,7 @@
 12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	_	hand;mão
 13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
 14	,	,	PUNCT	punct	_	12	punct	_	_
-15	awu	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	16	det	_	_
+15	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	16	det	_	_
 16	korogedy	_	NOUN	n	_	17	nmod	_	stream;córrego
 17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
 18	ji	ji	ADP	posp	Number=Sing|Person=3	17	case	_	_
@@ -2325,7 +2325,7 @@
 3	bitowu	bito	NOUN	n	Nomzr=Rel	4	acl	_	_
 4	imedu	imedu	NOUN	n	Number=Sing	5	nsubj	_	_
 5	mugure	mugu	VERB	v	Nomzr=Rel	0	root	_	_
-6	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	7	det	_	_
+6	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	7	det	_	_
 7	bai	bai	NOUN	n	_	5	obl	_	_
 8	tada	tada	ADP	posp	_	7	case	_	_
 
@@ -3495,7 +3495,7 @@
 # text_por = Assim que você vai falar para a água do céu. Escutou? Escutou? Escutou?
 1	Oinore	oino	ADV	adv	Mood=Ind	0	root	_	thus,this way;assim
 2	akagomode	ako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	ccomp	_	speak;falar
-3	nowu	nowy	DET	dem	Deic=Med|Number=Sing|PronType=Dem	4	nsubj	_	this;este
+3	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	nsubj	_	this;este
 4	baru	baru	NOUN	n	_	2	obl	_	sky;céu
 5	piji	piji	ADP	posp	_	4	case	_	from;de
 6	.	.	PUNCT	punct	_	4	punct	_	_
@@ -3624,7 +3624,7 @@
 # text_por = Depois o passarinho começou a cantar dizendo: Céu líquido se derrama, céu líquido se derrama, br!, br!, se derrama, se derrama, se derrama br je!
 1	Dykeje	keje	ADV	adv	_	5	advmod	_	_
 2	icare	icare	ADV	adv	_	5	advmod	_	_
-3	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	4	det	_	_
+3	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	4	det	_	_
 4	kiogo	kiogo	NOUN	n	_	5	nsubj	_	_
 5	akogodure	akogody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 6	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	5	xcomp	_	_
@@ -3686,7 +3686,7 @@
 31	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	28	parataxis	_	_
 32	:	:	PUNCT	punct	_	31	punct	_	_
 33	inoba	_	ADV	adv	_	36	advmod	_	_
-34	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	35	det	_	_
+34	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	35	det	_	_
 35	kiogorogu	kiogo	NOUN	n	Degree=Dim	36	nsubj	_	_
 36	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	31	ccomp	_	_
 37	?	?	PUNCT	punct	_	36	punct	_	_
@@ -4159,7 +4159,7 @@
 2	icare	icare	ADV	adv	_	1	compound	_	_
 3	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	:	:	PUNCT	punct	_	3	punct	_	_
-5	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	3	ccomp	_	_
+5	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	ccomp	_	_
 6	!	!	PUNCT	punct	_	5	punct	_	_
 7	Ino	_	NOUN	n	Number=Plur|Person=1	5	parataxis	_	_
 8	kogorigi	kogorigi	NOUN	n	_	7	dep	_	_
@@ -4391,7 +4391,7 @@
 4	ae	ae	ADP	posp	_	3	case	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 6	Kodire	kodire	ADV	adv	_	10	advmod	_	_
-7	awy	awy	DET	dem	Deic=Prox|Number=Sing|PronType=Dem	8	det	_	_
+7	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	8	det	_	_
 8	areme	aredy	NOUN	n	Number=Plur	10	nsubj	_	_
 9	eawadarodae	batarodae	NOUN	n	Number=Plur|Person=3	10	obj	_	lie;mentira
 10	okwakare	okwa	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	parataxis	_	hide,loose;perder,esconder
@@ -4966,7 +4966,7 @@
 2	iere	iere	NOUN	_	Mood=Ind	4	ccomp	_	_
 3	iogwa	ogwa	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	4	nsubj	_	_
 4	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	_	_	_	_
-5	nowy	nowy	DET	_	Deic=Med	_	_	_	_
+5	nowy	nowy	DET	_	Deixis=Med	_	_	_	_
 6	jire	_	_	_	_	_	_	_	_
 7	boe	boe	NOUN	_	_	_	_	_	_
 8	egore	ako	_	_	Mood=Ind|Number=Plur|Person=3	_	_	_	_
@@ -5060,14 +5060,14 @@
 3	buty	buty	VERB	_	Number=Sing|Person=3	0	root	_	_
 4	iwugeje	_	ADP	_	Number=Sing|Person=1	3	obl	_	_
 5	unure	u	PRON	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
-6	nowy	nowy	DET	dem	Deic=Med	7	det	_	_
+6	nowy	nowy	DET	dem	Deixis=Med	7	det	_	_
 7	boe	boe	NOUN	_	Mood=Ind|Number=Sing|Person=3	8	nmod	_	_
 8	eda	_	NOUN	_	Number=Sing|Number[psro]=Plur|Person=3	10	obj	_	_
 9	ure	_	PRON	_	Mood=Ind|Number=Sing|Person=3	10	dep	_	_
 10	iedo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	_
 11	ty	_	ADV	_	_	16	advmod	_	only,just;só,somente
 12	je	_	ADV	_	_	16	advmod	_	_
-13	nowy	_	DET	DEM	Deic=Med	14	det	_	_
+13	nowy	_	DET	DEM	Deixis=Med	14	det	_	_
 14	tori	_	NOUN	_	_	16	ccomp	_	_
 15	oinore	_	ADV	_	Mood=Ind	16	cc	_	_
 16	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	_	_	_	_
