@@ -17,6 +17,21 @@
 5	imedage	metyia	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	2	obl	_	_
 6	ebo	apo	ADP	posp	Number=Plur|Person=3	5	case	_	_
 
+# sent_id = FWFFG-003
+# text = Ure paiorydywa pemegado
+# text_eng = He taught us well
+# text_por = Ele nos ensinoun bem
+1	Ure	u	PRON	_	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	paiorydywa	jorydywa	VERB	_	Clusivity=In|Number=Plur|Person=1	0	root	_	_
+3	pemegado	pemega	ADV	_	Voice=Cau	2	advmod	_	_
+
+# sent_id = FWFFG-004
+# text = paiorydywa pemegare
+# text_eng = We learned well
+# text_por = Nós aprendemos bem
+1	paiorydywa	jorydywa	VERB	_	Clusivity=In|Number=Plur|Person=1	0	root	_	_
+2	pemegare	pemega	ADV	_	Mood=Ind	1	advmod	_	_ 
+
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng = 
