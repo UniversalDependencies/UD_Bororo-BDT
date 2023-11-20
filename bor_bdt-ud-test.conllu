@@ -7,7 +7,7 @@
 3	!	!	PUNCT	puct	_	2	punct	_	_
 
 # sent_id = FWFFG-002
-# text = Cenure cenogwato meaji imedagebo
+# text = Cenure cenogwato mea ji imedage ebo
 # text_eng = Smoking with my friends!
 # text_por = Fumando com meus amigos !
 1	Cenure	ce	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	2	nsubj	_	_
@@ -1314,7 +1314,7 @@
 # text = awy merijire iwogumode
 # text_eng =It's today I will fish
 # text_por = é hoje que eu vou pescar
-1	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Demm	2	nmod	_	this;este,esta
+1	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	nmod	_	this;este,esta
 2	merijire	meriju	ADV	adv	Mood=Ind	3	advmod	_	day;dia
 3	iwogumode	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
 
