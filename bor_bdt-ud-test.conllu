@@ -5004,7 +5004,7 @@
 15	Jakomea	Jakomea	PROPN	_	_	14	nmod	_	_
 16	apore	apo	ADP	_	Mood=Ind|Number=Sing|Person=3	14	case	_	_
 17	boe	_	NOUN	_	_	18	obj	_	_
-18	etagedydo	akedo	VERB	_	Number=Plur|Person=3|Voice=Cau	_	_	_	_
+18	etagedydo	akedo	VERB	_	Number=Plur|Person=3|Voice=Cau	4	parataxis	_	_
 19	,	,	PUNCT	_	_	18	punct	_	_
 20	oinore	oino	ADV	_	Mood=Ind	22	advmod	_	_
 21	ioga	oga	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	22	nsubj	_	_
