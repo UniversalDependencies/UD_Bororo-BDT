@@ -5052,7 +5052,7 @@
 15	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
 
 # sent_id = 013.KoeMakarewudo
-# text = Mare ukare bytu iwugeje unure nowy boe eda ure iedo ty je nowy tori oinore akore ioga akore
+# text = Mare ukare buty iwugeje unure nowy boe eda ure iedo ty je nowy tori oinore akore ioga akore
 # text_eng = 
 # text_por = Mas ele não explicou ele so deu a explicacao do morro é assim que ele falou do morro
 1	Mare	mare	CCONJ	_	_	3	dep	_	_
@@ -5062,15 +5062,15 @@
 5	unure	u	PRON	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
 6	nowy	nowy	DET	dem	Deixis=Med	7	det	_	_
 7	boe	boe	NOUN	_	Mood=Ind|Number=Sing|Person=3	8	nmod	_	_
-8	eda	_	NOUN	_	Number=Sing|Number[psro]=Plur|Person=3	10	obj	_	_
+8	eda	_	NOUN	_	Number=Sing|Number[psor]=Plur|Person=3	10	obj	_	_
 9	ure	_	PRON	_	Mood=Ind|Number=Sing|Person=3	10	dep	_	_
 10	iedo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	_
 11	ty	_	ADV	_	_	16	advmod	_	only,just;só,somente
 12	je	_	ADV	_	_	16	advmod	_	_
 13	nowy	_	DET	DEM	Deixis=Med	14	det	_	_
 14	tori	_	NOUN	_	_	16	ccomp	_	_
-15	oinore	_	ADV	_	Mood=Ind	16	cc	_	_
-16	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	_	_	_	_
+15	oinore	_	ADV	_	Mood=Ind	16	conj	_	_
+16	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 17	ioga	_	NOUN	_	_	18	nsubj	_	_
 18	akore	_	VERB	_	_	16	conj	_	_
 
