@@ -5085,7 +5085,7 @@
 5	oinono	_	ADV	_	_	8	advmod	_	_
 6	ca	_	PART	_	_	8	discourse	_	_
 7	braedy	_	NOUN	_	Number=Sing	8	nsubj	_	_
-8	iedo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	_	_	_	_
+8	iedo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	_
 9	Santo	_	PROPN	_	_	8	obj	_	_
 10	Antonio	_	PROPN	_	_	9	flat:name	_	_
 11	,	_	PUNCT	_	_	8	punct	_	_
