@@ -4956,7 +4956,7 @@
 8	se	_	PRON	_	_	9	expl	_	_
 9	chama	_	VERB	_	_	_	_	_	_
 10	Santo	_	PROPN	_	_	9	xcomp	_	_
-11	Antonio	_	PROPN	_	_	10	flat:name	_	_
+11	Antonio	_	PROPN	_	_	10	flat	_	_
 
 # sent_id = 008.KoeMakarewudo
 # text = Oinore iere iogwa akore nowy jire boe egore Torowari ri oino
@@ -4971,7 +4971,7 @@
 7	boe	boe	NOUN	_	_	_	_	_	_
 8	egore	ako	_	_	Mood=Ind|Number=Plur|Person=3	_	_	_	_
 9	Torowari	Torowari	_	_	_	_	_	_	_
-10	ri	ri	NOUN	_	_	9	flat:name	_	stone,hill,mountain;pedra,rocha,monte,montanha
+10	ri	ri	NOUN	_	_	9	flat	_	stone,hill,mountain;pedra,rocha,monte,montanha
 11	oino	oino	ADV	_	_	8	advmod	_	_
 
 # sent_id = 009.KoeMakarewudo
@@ -4983,7 +4983,7 @@
 3	tabo	apo	ADP	_	Number=Sing|Person=3	2	case	_	_
 4	iere	ie	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	0	root	_	_
 5	Torowari	Torowari	PROPN	_	_	4	nsubj	_	_
-6	ri	ri	NOUN	_	_	5	flat:name	_	_
+6	ri	ri	NOUN	_	_	5	flat	_	_
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	iogwa	ogwa	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	9	nsubj	_	_
 9	akore	_	VERB	_	Mood=Ind	4	parataxis	_	_
@@ -5027,7 +5027,7 @@
 13	icare	_	ADV	_	_	17	advmod	_	_
 14	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	17	dep	_	_
 15	Meriri	Meriri	PROPN	_	_	17	nsubj	_	_
-16	Poro	Poro	PROPN	_	_	15	flat:name	_	_
+16	Poro	Poro	PROPN	_	_	15	flat	_	_
 17	ro	ro	VERB	_	Number=Sing|Person=3	10	parataxis	_	_
 18	oino	oino	ADV	_	_	17	advmod	_	_
 
@@ -5041,7 +5041,7 @@
 4	kodie	kodi	SCONJ	_	Speech=Dir	10	mark	_	_
 5	icare	icare	ADV	_	_	10	advmod	_	_
 6	aroe	aroe	NOUN	_	_	10	nsubj	_	_
-7	Jakomea	Jakomea	PROPN	_	_	6	flat:name	_	_
+7	Jakomea	Jakomea	PROPN	_	_	6	flat	_	_
 8	apore	apo	ADP	_	Number=Sing|Person=3	6	case	_	_
 9	boe	boe	NOUN	_	_	10	obj	_	_
 10	etagedydo	akedy	VERB	_	Number=Plur|Person=3|Voice=Cau	2	advcl	_	_
@@ -5087,7 +5087,7 @@
 7	braedy	_	NOUN	_	Number=Sing	8	nsubj	_	_
 8	iedo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	_
 9	Santo	_	PROPN	_	_	8	obj	_	_
-10	Antonio	_	PROPN	_	_	9	flat:name	_	_
+10	Antonio	_	PROPN	_	_	9	flat	_	_
 11	,	_	PUNCT	_	_	8	punct	_	_
 12	mare	_	CCONJ	_	_	16	cc	_	_
 13	boe	_	NOUN	_	_	14	nmod	_	_
@@ -5095,13 +5095,13 @@
 15	tabo	apo	ADP	_	Number=Sing|Person=3	14	case	_	_
 16	iere	_	NOUN	_	Number=Sing|Person=3	3	conj	_	_
 17	Torowari	_	PROPN	_	_	16	nsubj	_	_
-18	ri	_	NOUN	n	_	17	flat:name	_	_
+18	ri	_	NOUN	n	_	17	flat	_	_
 19	oinore	_	ADV	_	Mood=Ind	21	advcl	_	_
 20	ioga	_	NOUN	_	Number=Sing|Person=1	21	nsubj	_	_
 21	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 
 # sent_id = 015.KoeMakarewudo
-# text = Ukare buty tuwygeje , ukare imeardydo ji , akore imedy  kareganure imi kodi
+# text = Ukare buty tuwygeje , ukare imeardydo ji , akore imedy kareganure imi kodi
 # text_eng = 
 # text_por = Ele nao deu toda a explicacao, ele não fez com que eu ouvisse, porque eu nao sou homem, por isso
 1	Ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	nsubj	_	_
