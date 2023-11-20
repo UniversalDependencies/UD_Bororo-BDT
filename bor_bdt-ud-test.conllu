@@ -2374,7 +2374,7 @@
 3	kejewy	keje	ADP	posp	Nomzr=Rel	1	acl	_	_
 
 # sent_id = 0057.2c.PessGr
-# text = Aredy Meruri kejewydo 
+# text = Aredy Meruri kejewydo
 # text_eng = Woman from Meruri
 # text_por = Mulher de Meruri
 1	Aredy	aredy	NOUN	n	Number=Sing	0	root	_	_
@@ -2394,7 +2394,7 @@
 # text_eng = I know whom you spoke to
 # text_por = Sei a quem você falou.
 1	Iorydyware	jorydywa	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-2	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	1	cc	_	_
+2	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	1	ccomp	_	_
 3	jiwyji	ji	ADP	posp	Nomzr=Rel	2	obl	_	_
 
 # sent_id = 0057d.PessGr
@@ -4943,20 +4943,14 @@
 20	etagedydo	akedy	VERB	v	Number=Plur|Person=3|Voice=Cau	13	parataxis	_	_
 
 # sent_id = 007.KoeMakarewudo
-# text = Hoje nowy tori mugu kimore existe esse morro ainda que esse morro se chama Santo Antonio
+# text = Hoje nowy tori mugu kimore
 # text_eng = 
-# text_por = hoje o morro ainda se encontra existe esse morro ainda que esse morro se chama Santo Antonio
+# text_por = hoje o morro ainda se encontra existe (esse morro ainda que esse morro se chama Santo Antonio)
 1	Hoje	hoje	ADV	_	_	4	advmod	_	_
 2	nowy	nowy	DET	_	_	3	det	_	_
 3	tori	tori	NOUN	_	Number=Sing	4	nsubj	_	['tɔɾi];hill,mountain;monte,colina
 4	mugu	_	VERB	_	Number=Sing|Person=3	0	root	_	_
 5	kimore	kimo	ADV	_	Mood=Ind	4	advcl	_	[ki'moɾe];still;ainda
-6	esse	_	DET	_	_	7	det	_	_
-7	morro	_	NOUN	_	_	9	nsubj	_	_
-8	se	_	PRON	_	_	9	expl	_	_
-9	chama	_	VERB	_	_	_	_	_	_
-10	Santo	_	PROPN	_	_	9	xcomp	_	_
-11	Antonio	_	PROPN	_	_	10	flat	_	_
 
 # sent_id = 008.KoeMakarewudo
 # text = Oinore iere iogwa akore nowy jire boe egore Torowari ri oino
