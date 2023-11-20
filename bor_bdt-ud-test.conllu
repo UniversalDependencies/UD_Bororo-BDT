@@ -4959,12 +4959,12 @@
 1	Oinore	oino	ADV	_	Mood=Ind	2	advmod	_	_
 2	iere	iere	NOUN	_	Mood=Ind	4	ccomp	_	_
 3	iogwa	ogwa	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	4	nsubj	_	_
-4	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	_	_	_	_
-5	nowy	nowy	DET	_	Deixis=Med	_	_	_	_
-6	jire	_	_	_	_	_	_	_	_
-7	boe	boe	NOUN	_	_	_	_	_	_
-8	egore	ako	_	_	Mood=Ind|Number=Plur|Person=3	_	_	_	_
-9	Torowari	Torowari	_	_	_	_	_	_	_
+4	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	nowy	nowy	DET	_	Deixis=Med	4	obl	_	_
+6	jire	_	ADP	_	Mood=Ind	5	case	_	_
+7	boe	boe	NOUN	_	_	8	nsubj	_	_
+8	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
+9	Torowari	Torowari	PROPN	_	_	8	obj	_	_
 10	ri	ri	NOUN	_	_	9	flat	_	stone,hill,mountain;pedra,rocha,monte,montanha
 11	oino	oino	ADV	_	_	8	advmod	_	_
 
@@ -4985,9 +4985,9 @@
 11	boejie	_	NOUN	_	Speech=Ind	18	advmod	_	_
 12	Jakomea	_	PROPN	_	_	18	obl	_	_
 13	apo	apo	ADP	_	Number=Sing|Person=3	12	case	_	_
-14	aroe	aroe	NOUN	_	_	_	_	_	spirit,soul;espírito,alma
-15	Jakomea	Jakomea	PROPN	_	_	18	obl	_	_
-16	apore	apo	ADP	_	Mood=Ind|Number=Sing|Person=3	15	case	_	_
+14	aroe	aroe	NOUN	_	_	18	obl	_	spirit,soul;espírito,alma
+15	Jakomea	Jakomea	PROPN	_	_	14	nmod	_	_
+16	apore	apo	ADP	_	Mood=Ind|Number=Sing|Person=3	14	case	_	_
 17	boe	_	NOUN	_	_	18	obj	_	_
 18	etagedydo	akedo	VERB	_	Number=Plur|Person=3|Voice=Cau	_	_	_	_
 19	,	,	PUNCT	_	_	18	punct	_	_
