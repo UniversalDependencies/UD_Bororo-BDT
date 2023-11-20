@@ -5107,14 +5107,14 @@
 1	Ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	nsubj	_	_
 2	buty	_	VERB	_	Number=Sing|Person=3	0	root	_	_
 3	tuwygeje	_	ADP	_	Number=Sing|Person=3|Reflex=Yes	2	obl	_	_
-4	,	,	PUNCT	_	_	2	_	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
 5	ukare	_	VERB	_	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
 6	imeardydo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
 7	ji	ji	ADP	_	Number=Sing|Person=3	6	obl	_	_
-8	,	,	PUNCT	_	_	6	_	_	_
+8	,	,	PUNCT	_	_	6	punct	_	_
 9	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	6	advcl	_	_
 10	imedy	_	NOUN	_	Number=Sing	9	cc	_	_
-11	kareganure	_	_	_	Aspect=Prog|Mood=Ind|Polarity=Neg	10	dep	_	_
+11	kareganure	_	X	_	Aspect=Prog|Mood=Ind|Polarity=Neg	10	dep	_	_
 12	imi	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 13	kodi	_	SCONJ	_	_	9	mark	_	_
 
