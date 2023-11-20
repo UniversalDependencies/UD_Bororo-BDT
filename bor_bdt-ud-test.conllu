@@ -5117,8 +5117,8 @@
 2	buty	_	VERB	_	Number=Sing|Person=3	0	root	_	_
 3	tuwygeje	_	ADP	_	Number=Sing|Person=3|Reflex=Yes	2	obl	_	_
 4	,	,	PUNCT	_	_	2	punct	_	_
-5	ukare	_	VERB	_	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
-6	imeardydo	_	VERB	_	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
+5	ukare	u	VERB	_	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
+6	imeardydo	meardy	VERB	_	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
 7	ji	ji	ADP	_	Number=Sing|Person=3	6	obl	_	_
 8	,	,	PUNCT	_	_	6	punct	_	_
 9	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	6	advcl	_	_
@@ -5126,4 +5126,41 @@
 11	kareganure	_	X	_	Aspect=Prog|Mood=Ind|Polarity=Neg	10	dep	_	_
 12	imi	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 13	kodi	_	SCONJ	_	_	9	mark	_	_
+
+# sent_id = 0016.KoeMakarewudo
+# text = Mare imi imearydae itabo itaidyre ia tuguwo , awy brae eroino dyji , brae egoino dyji uwo iwie boe remawyji , uwo iorydyiwado boe remawy ji oinore ioga akore .
+# text_eng = 
+# text_por = Mas, eu com meus pensamentos gostaria de uma nova explicacao profunda disso, o que os nao indios falam eu gostaria que meu pai me explicasse a verdade da historia, a verdade que meu pai falou.
+1	Mare	mare	CCONJ	_	_	3	cc	_	_
+2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	imearydae	mearydae	NOUN	_	Number=Sing|Person=1	5	obl	_	_
+4	itabo	apo	ADP	_	Number=Sing|Person=1	3	obl	_	_
+5	itaidyre	aidyre	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+6	ia	_	DET	_	_	7	det	_	_
+7	tuguwo	_	NOUN	_	_	5	obl	_	[];explanation,appearance;explicação,aparição
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	awy	awy	DET	_	Deixis=Prox	10	det	_	_
+10	brae	_	NOUN	_	_	11	nsubj	_	_
+11	ero	_	VERB	_	Number=Plur|Person=3	5	parataxis	_	_
+12	oino	_	ADV	_	_	11	advmod	_	_
+13	dyji	_	X	_	_	11	dep	_	_
+14	,	_	PUNCT	_	_	11	punct	_	_
+15	brae	_	NOUN	_	_	16	nsubj	_	_
+16	egoino	_	VERB	_	Number=Plur|Person=3	11	conj	_	_
+17	dyji	_	X	_	_	16	dep	_	_
+18	uwo	_	PRON	_	Mood=Sub|Number=Sing|Person=3	19	nsubj	_	_
+19	iwie	_	VERB	_	Number=Sing|Person=1	11	parataxis	_	_
+20	boe	boe	NOUN	_	_	19	obl	_	_
+21	remawy	remawy	NOUN	_	_	20	nmod	_	_
+22	ji	ji	ADP	_	Number=Sing|Person=3	20	case	_	_
+23	,	_	PUNCT	_	_	20	punct	_	_
+24	uwo	_	PRON	_	Mood=Sub|Number=Sing|Person=3	25	nsubj	_	_
+25	iorydyiwado	_	VERB	_	Number=Sing|Person=1|Voice=Cau	11	parataxis	_	_
+26	boe	_	NOUN	_	_	25	obl	_	_
+27	remawy	_	NOUN	_	_	26	nmod	_	_
+28	ji	_	ADP	_	Number=Sing|Person=3	26	case	_	_
+29	oinore	_	VERB	_	Mood=Ind	31	advmod	_	_
+30	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	31	nsubj	_	_
+31	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	_
+32	.	.	PUNCT	_	_	31	punct	_	_
 
