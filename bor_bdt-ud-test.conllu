@@ -4988,7 +4988,7 @@
 8	iogwa	ogwa	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	9	nsubj	_	_
 9	akore	_	VERB	_	Mood=Ind	4	parataxis	_	_
 10	nowy	_	DET	_	_	11	det	_	_
-11	boejie	_	NOUN	_	Speech=Dir	18	advmod	_	_
+11	boejie	_	NOUN	_	Speech=Ind	18	advmod	_	_
 12	Jakomea	_	PROPN	_	_	18	obl	_	_
 13	apo	apo	ADP	_	Number=Sing|Person=3	12	case	_	_
 14	aroe	aroe	NOUN	_	_	_	_	_	spirit,soul;espírito,alma
@@ -5006,7 +5006,7 @@
 # text_eng = 
 # text_por = por causa do menino
 1	Negedyrogu	negedy	NOUN	n	Number=Sing|Degree=Dim	0	root	_	_
-2	koiaie	koia	ADP	posp	Number=Sing|Person=3|Speech=Dir	1	case	_	_
+2	koiaie	koia	ADP	posp	Number=Sing|Person=3|Speech=Ind	1	case	_	_
 
 # sent_id = 011.KoeMakarewudo
 # text = akoe boe ere kago by, dy kaie nowy negedyrogy aregodyre. Dykodie icare ure Meriri Poro ro jino
@@ -5038,7 +5038,7 @@
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	ro	_	VERB	v	Number=Sing|Person=3	0	root	_	_
 3	pegado	pega	ADV	adv	_	2	advmod	_	_
-4	kodie	kodi	SCONJ	_	Speech=Dir	10	mark	_	_
+4	kodie	kodi	SCONJ	_	Speech=Ind	10	mark	_	_
 5	icare	icare	ADV	_	_	10	advmod	_	_
 6	aroe	aroe	NOUN	_	_	10	nsubj	_	_
 7	Jakomea	Jakomea	PROPN	_	_	6	flat	_	_
@@ -5117,5 +5117,4 @@
 11	kareganure	_	X	_	Aspect=Prog|Mood=Ind|Polarity=Neg	10	dep	_	_
 12	imi	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 13	kodi	_	SCONJ	_	_	9	mark	_	_
-
 
