@@ -5101,7 +5101,7 @@
 21	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 
 # sent_id = 015.KoeMakarewudo
-# text = Ukare buty tuwygeje, ukare imeardydo ji, akore imedy dykaie ure imi kodi
+# text = Ukare buty tuwygeje , ukare imeardydo ji , akore imedy dykaie ure imi kodi
 # text_eng = 
 # text_por = Ele nao deu toda a explicacao, ele não fez com que eu ouvisse, porque eu nao sou homem, por isso
 1	Ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	nsubj	_	_
