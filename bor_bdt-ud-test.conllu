@@ -4984,7 +4984,7 @@
 11	oino	oino	ADV	_	_	8	advmod	_	_
 
 # sent_id = 009.KoeMakarewudo
-# text = Boe ewadary tabo iere Torowari ri , iogwa akore nowy boe jie Jakomea apo aroe Jakomea apore boe etagedydo , oinore ioga akore
+# text = Boe ewadary tabo iere Torowari ri , iogwa akore nowy boejie Jakomea apo aroe Jakomea apore boe etagedydo , oinore ioga akore
 # text_eng = 
 # text_por = na lingua bororo o morro se chama Torowari ri, meu pai disse os bororo com aroe jakomea que acabou com os bororo, assim que meu pai disse
 1	Boe	_	NOUN	_	_	2	nmod	_	_
@@ -4997,7 +4997,7 @@
 8	iogwa	ogwa	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	9	nsubj	_	_
 9	akore	_	VERB	_	Mood=Ind	4	parataxis	_	_
 10	nowy	_	DET	_	_	11	det	_	_
-11	boejie	_	NOUN	_	Speech=Ind	18	advmod	_	_
+11	boejie	_	NOUN	_	Speech=Ind	18	dep	_	_
 12	Jakomea	_	PROPN	_	_	18	obl	_	_
 13	apo	apo	ADP	_	Number=Sing|Person=3	12	case	_	_
 14	aroe	aroe	NOUN	_	_	18	obl	_	spirit,soul;espírito,alma
