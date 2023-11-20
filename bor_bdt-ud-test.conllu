@@ -5018,7 +5018,7 @@
 2	koiaie	koia	ADP	posp	Number=Sing|Person=3|Speech=Ind	1	case	_	_
 
 # sent_id = 011.KoeMakarewudo
-# text = akoe boe ere kago by , dy kaie nowy negedyrogy aregodyre. Dykodie icare ure Meriri Poro ro jino
+# text = akoe boe ere kago by , dykaie nowy negedyrogy aregodyre. Dykodie icare ure Meriri Poro ro jino
 # text_eng = 
 # text_por = os bororo colocaram para peixe, foi entäo que chegou la um menino. Foi por isso que Meriri Poro fez isso
 1	akoe	ako	VERB	_	Number=Sing|Person=3	0	root	_	_
@@ -5041,7 +5041,7 @@
 18	oino	oino	ADV	_	_	17	advmod	_	_
 
 # sent_id = 012.KoeMakarewudo
-# text = Ure ro pegado kodie icare aroe Jakomea apore boe etagedydo nono , oino ruie ioga akore
+# text = Ure ro pegado kodie icare aroe Jakomea apore boe etagedydo nono , oinore ioga akore
 # text_eng = 
 # text_por = Ele fez coisa errada por isso que aroe Jakomea acabou como os bororo la, assim que meu pai disse
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
