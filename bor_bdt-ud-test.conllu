@@ -30,7 +30,7 @@
 # text_eng = We learned well
 # text_por = Nós aprendemos bem
 1	paiorydywa	jorydywa	VERB	_	Clusivity=In|Number=Plur|Person=1	0	root	_	_
-2	pemegare	pemega	ADV	_	Mood=Ind	1	advmod	_	_ 
+2	pemegare	pemega	ADV	_	Mood=Ind	1	advmod	_	_
 
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
