@@ -298,7 +298,7 @@
 15	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
 
 # sent_id = criacao_05
-# text = Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedy boe ure to boe enogwagewu ji
+# text = Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowy boe jamedy boe ure to boe enogwagewu ji
 # text_eng = 
 # text_por = Deus fez o cerrado, fez a floresta, Deus fez a mandioca, milho, arroz fez tudo isso de alimento para as pessoas se alimentarem
 1	Deu	Deu	NOUN	n	_	4	nsubj	_	god;Dues
@@ -328,7 +328,7 @@
 25	ji	ji	ADP	posp	Number=Sing|Person=3	24	case	_	_
 
 # sent_id = criacao_06
-# text = Deu ure kiogorogu to , ure kare towuje , nowu jamedy boe ure towuje
+# text = Deu ure kiogorogu to , ure kare towuje , nowy jamedy boe ure towuje
 # text_eng = 
 # text_por = Deus fez o passarinhos, fez os peixes, fez tudo isso
 1	Deu	Deu	NOUN	n	_	4	nsubj	_	_
@@ -340,7 +340,7 @@
 7	kare	kare	NOUN	n	_	8	obj	_	_
 8	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	12	det	_	_
+10	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	12	det	_	_
 11	jamedy	_	ADV	adv	_	12	advmod	_	_
 12	boe	boe	NOUN	n	_	14	obj	_	_
 13	ure	re	PART	prcl	Number=Plur|Person=3	14	dep	_	_
@@ -376,12 +376,12 @@
 24	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = criacao_08
-# text = Deu ure nowu boe jamedy ji boe akedudo tuje dykeje ure imedu to
+# text = Deu ure nowy boe jamedy ji boe akedudo tuje dykeje ure imedu to
 # text_eng = 
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
 2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
-3	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	det	_	_
+3	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	det	_	_
 4	boe	boe	NOUN	n	_	8	iobj	_	_
 5	jamedy	jamedy	ADV	adv	_	4	advmod	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
@@ -415,7 +415,7 @@
 16	tada	tada	ADP	posp	_	15	case	_	_
 
 # sent_id = criacao_10
-# text = Deu ure ia aredu to , nowu oredu iere Adão , oreduje iere Eva
+# text = Deu ure ia aredu to , nowy oredu iere Adão , oreduje iere Eva
 # text_eng = 
 # text_por = Deus fez uma mulher, o esposo dela chamado Adão, e a esposa se chama Eva
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
@@ -424,7 +424,7 @@
 4	aredu	aredu	NOUN	n	_	5	obj	_	_
 5	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	_
+7	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	_
 8	oredu	oredu	NOUN	n	_	9	nmod	_	husband;marido,esposo
 9	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	name;nome
 10	Adão	Adão	PROPN	propn	_	5	parataxis	_	_
@@ -459,7 +459,7 @@
 8	jamedy	jamedy	ADV	adv	_	4	advmod	_	also;também
 
 # sent_id = criacao_13
-# text = Deu akore ei akore enogwageiagu ji nowu boepa tadawu boe jamedy , nowu iguru jamedy boe ji , mare rakojere boe eiadadawu ekare eko
+# text = Deu akore ei akore enogwageiagu ji nowy boepa tadawu boe jamedy , nowy iguru jamedy boe ji , mare rakojere boe eiadadawu ekare eko
 # text_eng = 
 # text_por = Deus falou para eles comerem tudo que existia naquela roça, para comerem dos frutos da árvore, menos das arvores do meio
 1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
@@ -468,13 +468,13 @@
 4	akore	ko	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
 5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	iobj	_	for.a.long.time;por.muito.tempo
-7	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	_
+7	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	_
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
 9	tadawu	tada	NOUN	n	Nomzr=Rel	10	nmod	_	_
 10	boe	boe	NOUN	n	_	5	obj	_	_
 11	jamedy	jamedy	NOUN	n	_	10	compound	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
-13	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	14	nmod	_	_
+13	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	14	nmod	_	_
 14	iguru	iguru	NOUN	n	_	15	nmod	_	tree,wood;madeira,árvore
 15	jamedy	jamedy	ADV	adv	_	10	conj	_	_
 16	boe	boe	NOUN	n	_	15	compound	_	_
@@ -2317,7 +2317,7 @@
 5	pegakare	pega	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = 0056a.PessGr
-# text = Ure adugo bitowu imedu mugure nowu bai tada
+# text = Ure adugo bitowu imedu mugure nowy bai tada
 # text_eng = 
 # text_por = O homem que matou a onça mora nesta casa
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
@@ -2325,7 +2325,7 @@
 3	bitowu	bito	NOUN	n	Nomzr=Rel	4	acl	_	_
 4	imedu	imedu	NOUN	n	Number=Sing	5	nsubj	_	_
 5	mugure	mugu	VERB	v	Nomzr=Rel	0	root	_	_
-6	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	7	det	_	_
+6	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	7	det	_	_
 7	bai	bai	NOUN	n	_	5	obl	_	_
 8	tada	tada	ADP	posp	_	7	case	_	_
 
@@ -3490,12 +3490,12 @@
 21	tabo	tabo	ADP	posp	_	20	case	_	with;com
 
 # sent_id = sabia.004
-# text = Oinore akagomode nowu baru piji . Amearydure , amearydure , amearydure ?
+# text = Oinore akagomode nowy baru piji . Amearydure , amearydure , amearydure ?
 # text_eng = 
 # text_por = Assim que você vai falar para a água do céu. Escutou? Escutou? Escutou?
 1	Oinore	oino	ADV	adv	Mood=Ind	0	root	_	thus,this way;assim
 2	akagomode	ako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	ccomp	_	speak;falar
-3	nowu	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	nsubj	_	this;este
+3	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	nsubj	_	this;este
 4	baru	baru	NOUN	n	_	2	obl	_	sky;céu
 5	piji	piji	ADP	posp	_	4	case	_	from;de
 6	.	.	PUNCT	punct	_	4	punct	_	_
@@ -5117,4 +5117,5 @@
 11	kareganure	_	X	_	Aspect=Prog|Mood=Ind|Polarity=Neg	10	dep	_	_
 12	imi	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 13	kodi	_	SCONJ	_	_	9	mark	_	_
+
 
