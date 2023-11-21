@@ -107,13 +107,13 @@
 # text_por = Se você tivesse chegado ontem, você teria visto o Tiago
 1	Fabrício	Fabrício	PROPN	_	_	2	nsubj	_	_
 2	akaregodymode	aregody	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
-3	jawyji	jawyji	ADV	_	_	2	advcl	_	[];today;hoje
-4	arydymode	arydy	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	_	_	_
+3	jawyji	jawyji	ADV	_	_	2	advmod	_	[];today;hoje
+4	arydymode	arydy	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	advcl	_	_
 5	Tiago	Tiago	PROPN	_	_	4	obl	_	_
 6	ji	ji	ADP	_	_	5	case	_	_
 
 # sent_id = FWFFG-012
-# text = Itumode ma dykeje iorydymode ai
+# text = Itymode ma dykeje iorydymode ai
 # text_eng = I would see you if I came
 # text_por = Eu te veria, se eu viesse
 1	Itymode	ty	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	4	advcl	_	_
