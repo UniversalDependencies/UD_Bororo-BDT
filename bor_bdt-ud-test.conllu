@@ -188,7 +188,7 @@
 2	oredyje	oredyje	NOUN	_	_	0	root	_	_
 3	karega	karega	ADV	_	Polarity=Neg	2	dep	_	_
 4	Claudia	Claudia	PROPN	_	_	2	nmod	_	_
-5	rema	rema	AUX	cop	_	2	cop	_	_
+5	rema	rema	AUX	cop	Pred=AtrEq	2	cop	_	_
 
 # sent_id = FWFFG-020
 # text = Boku kejere imugure
@@ -4014,7 +4014,7 @@
 13	remawure	_	ADV	adv	Mood=Ind	12	advmod	_	_
 14	Kogae	_	PROPN	propn	_	12	nsubj	_	_
 15	Cereu	_	PROPN	propn	_	14	flat	_	_
-16	rema	rema	AUX	cop	_	12	cop	_	_
+16	rema	rema	AUX	cop	Pred=AtrEq	12	cop	_	_
 17	.	.	PUNCT	punct	_	12	punct	_	_
 
 # sent_id = 001.EncIEx
@@ -4417,7 +4417,7 @@
 # text_eng = There is nothing!
 # text_por = Não há/é nada! 
 1	Boekimo	boekimo	ADV	adv	_	0	root	_	_
-2	rema	rema	AUX	cop	_	1	cop	_	_
+2	rema	rema	AUX	cop	Pred=AtrEq	1	cop	_	_
 
 # sent_id = 014.KJB
 # text = Konorigi rade , tuboru bo pao je
