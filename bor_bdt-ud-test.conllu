@@ -188,7 +188,7 @@
 2	oredyje	oredyje	NOUN	_	_	0	root	_	_
 3	karega	karega	ADV	_	Polarity=Neg	2	dep	_	_
 4	Claudia	Claudia	PROPN	_	_	2	nmod	_	_
-5	rema	rema	AUX	cop	_	2	dep	_	_
+5	rema	rema	AUX	cop	_	2	cop	_	_
 
 # sent_id = FWFFG-020
 # text = Boku kejere imugure
@@ -231,7 +231,7 @@
 # text_por = Faço assim porque você está aqui
 1	Irore	ro	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	oino	oino	ADV	_	_	1	advmod	_	_
-3	amugure	mugu	VERB	_	Number=Sing|Person=2	1	advcl	_	_
+3	amugure	mugu	VERB	_	Mood=Ind|Number=Sing|Person=2	1	advcl	_	_
 4	woe	woe	ADV	_	_	3	advmod	_	_
 5	dykoiare	dykoya	SCONJ	_	Mood=Ind	3	mark	_	_
 
@@ -1720,7 +1720,7 @@
 # text = marenarure aki rema
 # text_eng = You are poor
 # text_por = Você é pobre (você é a pobreza)
-1	marenarure	_	NOUN	n	Mood=Ind	0	root	_	poor;pobre
+1	marenarure	_	NOUN	n	Mood=Ind	0	root	_	poor,poverty;pobre,pobreza
 2	aki	aki	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	rema	rema	X	x	Pred=AtrEq	1	dep	_	_
 
@@ -4414,10 +4414,10 @@
 
 # sent_id = 013.KJB
 # text = Boekimo rema
-# text_eng = 
-# text_por = Não há comentários
-1	Boekimo	_	ADV	adv	_	0	root	_	_
-2	rema	_	CCONJ	cconj	_	1	compound	_	_
+# text_eng = There is nothing!
+# text_por = Não há/é nada! 
+1	Boekimo	boekimo	ADV	adv	_	0	root	_	_
+2	rema	rema	AUX	cop	_	1	cop	_	_
 
 # sent_id = 014.KJB
 # text = Konorigi rade , tuboru bo pao je
