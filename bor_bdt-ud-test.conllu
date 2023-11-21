@@ -154,7 +154,7 @@
 1	Mariel	Mariel	PROPN	propn	_	2	nsubj	_	_
 2	akore	akore	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ii	ji	ADP	_	Number=Sing|Person=1	2	obl	_	_
-4	jureie	jure	NOUN	n	Speech=Ind	2	cc	_	_
+4	jureie	jure	NOUN	n	Speech=Ind	2	ccomp	_	_
 5	pobo	pobo	NOUN	n	_	4	obl	_	_
 6	tada	tada	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
@@ -165,7 +165,7 @@
 1	Mariel	Mariel	PROPN	propn	_	2	nsubj	_	_
 2	akore	akore	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ii	ji	ADP	_	Number=Sing|Person=1	2	obl	_	_
-4	jurekaie	jure	NOUN	n	Polarity=Neg|Speech=Ind	2	cc	_	_
+4	jurekaie	jure	NOUN	n	Polarity=Neg|Speech=Ind	2	ccomp	_	_
 5	pobo	pobo	NOUN	n	_	4	obl	_	_
 6	tada	tada	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
@@ -176,7 +176,7 @@
 1	Mariel	Mariel	PROPN	propn	_	2	nsubj	_	_
 2	akore	akore	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	inai	ai	ADP	_	Number=Sing|Person=1	2	obl	_	_
-4	jurekaie	jure	NOUN	n	Polarity=Neg|Speech=Ind	2	cc	_	_
+4	jurekaie	jure	NOUN	n	Polarity=Neg|Speech=Ind	2	ccomp	_	_
 5	pobo	pobo	NOUN	n	_	4	obl	_	_
 6	tada	tada	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
