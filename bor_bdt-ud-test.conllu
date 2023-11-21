@@ -134,7 +134,7 @@
 # text_eng = Behold my daughter! / This is my daughter
 # text_por = esta é minha filha!
 1	Awy	awy	DET	_	Deixis=Prox	2	det	_	_
-2	itonaregedy	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	_	_	_	_
+2	itonaregedy	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
 3	ji	_	ADP	_	_	2	discourse	_	_
 
 # sent_id = FWFFG-015
