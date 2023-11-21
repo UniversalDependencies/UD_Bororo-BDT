@@ -232,7 +232,7 @@
 1	Irore	ro	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	oino	oino	ADV	_	_	1	advmod	_	_
 3	amugure	mugu	VERB	_	Number=Sing|Person=2	1	advcl	_	_
-4	woe	woe	ADV	_	_	3	_	_	_
+4	woe	woe	ADV	_	_	3	advmod	_	_
 5	dykoiare	dykoya	SCONJ	_	Mood=Ind	3	mark	_	_
 
 # sent_id = 0.1.BEBE
