@@ -5351,7 +5351,7 @@
 26	boe	boe	NOUN	noun	_	25	obl	_	_
 27	remawy	remawy	NOUN	noun	_	26	nmod	_	_
 28	ji	ji	ADP	posp	Number=Sing|Person=3	26	case	_	_
-29	oinore	oino	VERB	v	Mood=Ind	31	advmod	_	_
+29	oinore	oino	ADV	adv	Mood=Ind	31	advmod	_	_
 30	ioga	o	NOUN	noun	Number=Sing|Number[psor]=Sing|Person=3	31	nsubj	_	_
 31	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	_
 32	.	.	PUNCT	punct	_	31	punct	_	_
