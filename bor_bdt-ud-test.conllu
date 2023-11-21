@@ -1722,7 +1722,7 @@
 # text_por = Você é pobre (você é a pobreza)
 1	marenarure	_	NOUN	n	Mood=Ind	0	root	_	poor,poverty;pobre,pobreza
 2	aki	aki	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	rema	rema	X	x	Pred=AtrEq	1	dep	_	_
+3	rema	rema	AUX	cop	Pred=AtrEq	1	cop	_	_
 
 # sent_id = ABE-317
 # text = iiodore awy
