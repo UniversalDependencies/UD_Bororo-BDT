@@ -4003,6 +4003,15 @@
 4	itonaregedy	oneregedy	NOUN	n	Number=Sing|Person=1	5	nsubj	_	son;filho
 5	oragydyre	oragydy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
+# sent_id = 022.EncIE
+# text = Pamode boe ewororo akydo
+# text_eng = We Bororo will clean the pateo
+# text_por = Nós bororo limparemos o páteo
+1	Pamode	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut	4	nsubj	_	_
+2	boe	boe	NOUN	_	_	1	appos	_	_
+3	ewororo	bororo	NOUN	_	Number=Sing|Number[psor]=Plur|Person=3	4	obj	_	_
+4	akydo	akydo	VERB	_	Number[abs]=Sing|Person[abs]=3|Voice=Cau	0	root	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would meas^ure its food desire with that of the jaguar
@@ -5128,7 +5137,7 @@
 13	kodi	_	SCONJ	_	_	9	mark	_	_
 
 # sent_id = 0016.KoeMakarewudo
-# text = Mare imi imearydae itabo itaidyre ia tuguwo , awy brae ero oino dyji , brae egoino dyji uwo iwie boe remawy ji , uwo iorydyiwado boe remawy ji oinore ioga akore .
+# text = Mare imi imearydae itabo itaidyre ia tuguwo , awy brae ero oino dyji , brae egoino dyji uwo iwie boe remawy ji , uwo iorydywado boe remawy ji oinore ioga akore .
 # text_eng = 
 # text_por = Mas, eu com meus pensamentos gostaria de uma nova explicacao profunda disso, o que os nao indios falam eu gostaria que meu pai me explicasse a verdade da historia, a verdade que meu pai falou.
 1	Mare	mare	CCONJ	_	_	3	cc	_	_
@@ -5136,31 +5145,31 @@
 3	imearydae	mearydae	NOUN	_	Number=Sing|Person=1	5	obl	_	_
 4	itabo	apo	ADP	_	Number=Sing|Person=1	3	obl	_	_
 5	itaidyre	aidyre	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-6	ia	_	DET	_	_	7	det	_	_
+6	ia	ia	DET	dem	_	7	det	_	_
 7	tuguwo	_	NOUN	_	_	5	obl	_	[];explanation,appearance;explicação,aparição
 8	,	,	PUNCT	_	_	5	punct	_	_
 9	awy	awy	DET	_	Deixis=Prox	10	det	_	_
-10	brae	_	NOUN	_	_	11	nsubj	_	_
-11	ero	_	VERB	_	Number=Plur|Person=3	5	parataxis	_	_
-12	oino	_	ADV	_	_	11	advmod	_	_
-13	dyji	_	X	_	_	11	dep	_	_
-14	,	_	PUNCT	_	_	11	punct	_	_
-15	brae	_	NOUN	_	_	16	nsubj	_	_
-16	egoino	_	VERB	_	Number=Plur|Person=3	11	conj	_	_
-17	dyji	_	X	_	_	16	dep	_	_
-18	uwo	_	PRON	_	Mood=Sub|Number=Sing|Person=3	19	nsubj	_	_
-19	iwie	_	VERB	_	Number=Sing|Person=1	11	parataxis	_	_
+10	brae	brae	NOUN	_	_	11	nsubj	_	_
+11	ero	ro	VERB	_	Number=Plur|Person=3	5	parataxis	_	_
+12	oino	oino	ADV	_	_	11	advmod	_	_
+13	dyji	dyji	X	_	_	11	dep	_	_
+14	,	,	PUNCT	_	_	11	punct	_	_
+15	brae	brae	NOUN	_	_	16	nsubj	_	_
+16	egoino	ako	VERB	_	Number=Plur|Person=3	11	conj	_	_
+17	dyji	dyji	X	_	_	16	dep	_	_
+18	uwo	u	PRON	_	Mood=Sub|Number=Sing|Person=3	19	nsubj	_	_
+19	iwie	bie	VERB	_	Number=Sing|Person=1	11	parataxis	_	_
 20	boe	boe	NOUN	_	_	19	obl	_	_
 21	remawy	remawy	NOUN	_	_	20	nmod	_	_
 22	ji	ji	ADP	_	Number=Sing|Person=3	20	case	_	_
-23	,	_	PUNCT	_	_	20	punct	_	_
-24	uwo	_	PRON	_	Mood=Sub|Number=Sing|Person=3	25	nsubj	_	_
-25	iorydyiwado	_	VERB	_	Number=Sing|Person=1|Voice=Cau	11	parataxis	_	_
-26	boe	_	NOUN	_	_	25	obl	_	_
-27	remawy	_	NOUN	_	_	26	nmod	_	_
-28	ji	_	ADP	_	Number=Sing|Person=3	26	case	_	_
-29	oinore	_	VERB	_	Mood=Ind	31	advmod	_	_
-30	ioga	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	31	nsubj	_	_
-31	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	_
+23	,	,	PUNCT	_	_	20	punct	_	_
+24	uwo	u	PRON	_	Mood=Sub|Number=Sing|Person=3	25	nsubj	_	_
+25	iorydywado	jorydywa	VERB	_	Number=Sing|Person=1|Voice=Cau	11	parataxis	_	_
+26	boe	boe	NOUN	_	_	25	obl	_	_
+27	remawy	remawy	NOUN	_	_	26	nmod	_	_
+28	ji	ji	ADP	_	Number=Sing|Person=3	26	case	_	_
+29	oinore	oino	VERB	_	Mood=Ind	31	advmod	_	_
+30	ioga	o	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	31	nsubj	_	_
+31	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	_
 32	.	.	PUNCT	_	_	31	punct	_	_
 
