@@ -5401,7 +5401,7 @@
 32	.	.	PUNCT	punct	_	31	punct	_	_
 
 # sent_id = NT.CG.Jo.8-23
-# text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawodure woe awy moto keje . Mare imi moto kejewy karugure imi . 
+# text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawodure woe awy moto keje . Mare imi moto kejewy karugure imi .
 # text_eng =
 # text_por =
 1	Jesus	Jesus	PROPN	propn	_	2	nsubj	_	_
