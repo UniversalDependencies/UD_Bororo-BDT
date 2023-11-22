@@ -5401,7 +5401,7 @@
 32	.	.	PUNCT	punct	_	31	punct	_	_
 
 # sent_id = NT.CG.Jo.8-23
-# text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawodyre woe awy moto keje . Mare imi moto kejewy karega nure imi
+# text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawydyre woe awy moto keje . Mare imi moto kejewy karega nure imi
 # text_eng =
 # text_por =
 1	Jesus	Jesus	PROPN	propn	_	2	nsubj	_	_
@@ -5423,15 +5423,15 @@
 17	baru	baru	NOUN	n	_	16	obl	_	_
 18	piji	piji	ADP	posp	_	17	case	_	_
 19	.	_	PUNCT	punct	_	16	punct	_	_
-20	Tawodyre	_	PRON	_	_	21	nsubj	_	_
-21	woe	woe	ADV	adv	_	16	parataxis	_	_
+20	Tawydyre	byty	PRON	_	Mood=Ind|Number=Plur|Person=2	16	parataxis	_	[];fall,birth;queda,nascimento
+21	woe	woe	ADV	adv	_	20	advmod	_	_
 22	awy	awy	DET	dem	Deixis=Prox	23	det	_	_
 23	moto	moto	NOUN	n	_	21	appos	_	_
 24	keje	_	ADP	posp	_	23	case	_	_
-25	.	.	PUNCT	punct	_	21	punct	_	_
+25	.	.	PUNCT	punct	_	20	punct	_	_
 26	Mare	mare	CCONJ	_	_	28	cc	_	_
 27	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
-28	moto	moto	NOUN	n	_	21	conj	_	['moto];earth,world;terra,mundo
+28	moto	moto	NOUN	n	_	20	conj	_	['moto];earth,world;terra,mundo
 29	kejewy	keje	ADP	posp	Nomzr=Rel	28	case	_	_
 30	karega	karega	X	_	Polarity=Neg	28	dep	_	_
 31	nure	nure	X	_	Aspect=Prog|Mood=Ind	28	dep	_	_
