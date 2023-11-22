@@ -5435,5 +5435,5 @@
 29	kejewy	keje	ADP	posp	Nomzr=Rel	28	case	_	_
 30	karega	karega	X	_	Polarity=Neg	28	dep	_	_
 31	nure	nure	X	_	Aspect=Prog|Mood=Ind	28	dep	_	_
-32	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
+32	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	28	discourse	_	_
 
