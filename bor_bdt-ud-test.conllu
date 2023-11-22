@@ -4229,15 +4229,34 @@
 # sent_id = 024.EncIE
 # text = Kajao , imedy kudu akudody keje , akogwagemode
 # text_eng = 
-# text_por = espera, menino ! quando o mingau frio, o comerás!
+# text_por = espera, menino ! quando o mingau esfriar, o comerás!
 1	Kajao	kajao	ADV	adv	_	8	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	imedy	imedy	NOUN	n	Number=Sing	8	vocative	_	_
 4	kudu	kudu	NOUN	n	_	5	nsubj	_	_
-5	akudody	aku	VERB	v	Voice=Cau	8	advcl	_	_
+5	akudody	aku	VERB	v	Voice=Cau	8	advcl	_	['akɨ];cold,clean;frio,limpo
 6	keje	keje	SCONJ	sconj	_	5	mark	_	_
 7	,	,	PUNCT	punct	_	8	punct	_	_
 8	akogwagemode	ogwage	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	_	_
+
+# sent_id = 025.EncIE
+# text = Bakuru umode boe jamedy agurirido
+# text_eng = 
+# text_por = o vento remexerá tudo
+1	Bakuru	bakuru	NOUN	n	Number=Sing	5	nsubj	_	[ba'kuɾu];wind;vento
+2	umode	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Tense=Fut	5	dep	_	_
+3	boe	boe	NOUN	n	_	5	obj	_	_
+4	jamedy	jamedy	PRON	pron	PronType=Tot	3	nmod	_	_
+5	agurirido	akurirido	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	rummage,make chaos;desordenar,remexer
+
+# sent_id = 026.EncIE
+# text = nabure etagurure maridi to
+# text_eng = 
+# text_por = as ararapirangas pousaram sobre a palmeira buriti
+1	nabure	nabure	NOUN	n	Number=Plur	2	nsubj	_	red macaw;ararapiranga
+2	etagurure	akuru	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	[];jump,trajectory,land,take the last breath;salto,trajetória,pousar,dar o último suspiro
+3	maridi	maridi	NOUN	n	_	2	obl	_	_
+4	to	to	ADP	posp	Number=Plur|Person=3	3	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
@@ -4248,7 +4267,7 @@
 3	tuiagu	_	PRON	pron	Number=Sing|Person=3|Reflex=Yes	2	ccomp	_	_
 4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	nmod	_	_
 5	boi	boi	NOUN	n	_	6	obj	_	_
-6	remagu	remagu	VERB	v	_	3	xcomp	_	measure;medir
+6	remagu	remagu	VERB	v	Number=Sing|Person=3	3	xcomp	_	measure;medir
 7	adygo	adygo	NOUN	n	_	8	nmod	_	_
 8	uke	ke	NOUN	n	Number=Sing|Person=3	9	nmod	_	food;alimento,comida
 9	boi	boi	NOUN	n	_	6	obl	_	desire,wish;desejo,vontade
