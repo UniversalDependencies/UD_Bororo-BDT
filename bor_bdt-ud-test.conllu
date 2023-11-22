@@ -235,6 +235,64 @@
 4	woe	woe	ADV	_	_	3	advmod	_	_
 5	dykoiare	dykoya	SCONJ	_	Mood=Ind	3	mark	_	_
 
+# sent_id = FWFFG-025
+# text = Ca pai amagodo pai
+# text_eng = Hey, father, speak!
+# text_por = eh, pai, fala!
+1	Ca	ca	INTJ	intj	_	3	discourse	_	_
+2	pai	pai	NOUN	n	_	3	vocative	_	_
+3	amagodo	mako	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+4	pai	pai	NOUN	n	_	3	vocative	_	_
+
+# sent_id = FWFFG-026
+# text = Nowy jorybo boeji nowy parybo awy pandemia jiwy jorybo
+# text_eng = 
+# text_por = Sobre os remedios bororo, nossos remedios, os remedios de combate à pandemia
+1	Nowy	nowy	DET	_	Deixis=Med	2	det	_	_
+2	jorybo	jorybo	NOUN	_	Poss=Yes	0	root	_	_
+3	boe	boe	NOUN	n	_	2	nmod	_	_
+4	ji	ji	ADP	_	Number=Sing|Person=3	3	case	_	_
+5	nowy	nowy	DET	_	Deixis=Med	6	det	_	_
+6	parybo	jorybo	NOUN	_	Clusivity=In|Number=Plur|Person=1|Poss=Yes	2	conj	_	_
+7	awy	awy	DET	dem	_	10	det	Deixis=Prox	_
+8	pandemia	pandemia	NOUN	_	_	10	obl	_	_
+9	jiwy	jiwy	ADP	posp	Nomzr=Rel	8	case	_	_
+10	jorybo	jorybo	NOUN	_	Poss=Yes	2	conj	_	_
+
+# sent_id = FWFFG-027
+# text = Noba meri boeco nuba parore parybo rogy boe ji
+# text_eng = 
+# text_por = de dia de noite como que nós fizemos com nossos remedios
+1	Noba	inoba	ADV	_	_	5	advmod	_	_
+2	meri	meri	ADV	_	_	5	advmod	_	_
+3	boeco	boeco	ADV	_	_	5	advmod	_	_
+4	nuba	inoba	ADV	_	_	5	advmod	_	_
+5	parore	ro	VERB	_	Clusivity=In|Mood=Ind|Number=Plur|Person=1	0	root	_	_
+6	paryborogy	jorybo	NOUN	_	Clusivity=In|Degree=Dim|Mood=Ind|Number=Plur|Person=1|Poss=Yes	5	obl	_	_
+7	boe	boe	NOUN	_	_	6	nmod	_	_
+8	ji	ji	ADP	_	_	6	case	_	_
+
+# sent_id = FWFFG-028
+# text = Pare codo pare kurudo pai
+# text_eng = 
+# text_por = Fazemos ficar preto (carvão) e fazemos ficar líquido para nós
+1	Pare	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	2	nsubj	_	[];black;preto
+2	codo	co	NOUN	_	Voice=Cau	0	root	_	_
+3	pare	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	4	nsubj	_	_
+4	kurudo	kuru	NOUN	_	Voice=Cau	2	conj	_	_
+5	pai	pai	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	_
+
+# sent_id = FWFFG-029
+# text = Gilmar makomode jawo ; amagodo !
+# text_eng = 
+# text_por = Gilmar vai falar primeiro ; fale!
+1	Gilmar	_	PROPN	_	_	2	nsubj	_	_
+2	makomode	mako	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+3	jawo	jawo	ADP	_	_	2	advmod	_	_
+4	;	;	PUNCT	_	_	2	punct	_	_
+5	amagodo	_	VERB	_	Mood=Imp|Number=Sing|Person=2	2	parataxis	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng = 
