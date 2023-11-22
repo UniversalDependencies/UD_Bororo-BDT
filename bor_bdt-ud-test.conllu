@@ -34,11 +34,11 @@
 
 # sent_id = FWFFG-005
 # text = Oh , ceboere ! Pegakare pamode kowyje , boe nure pagi , paeku iro modykare
-# text_eng = 
-# text_por = Oh, oba! Não é mal nossa comida, nós somos gente, não desviemos os olhoe (luxo, asco)
-1	Oh	_	INTJ	_	_	3	discourse	_	_
-2	,	_	PUNCT	punct	_	3	punct	_	_
-3	ceboere	_	INTJ	_	_	0	root	_	_
+# text_eng = Oh, wow! Our food is not bad, we are humans, let's not deviate our eyes (be proud)!
+# text_por = Oh, oba! Não é mal nossa comida, nós somos gente, não desviemos os olhos (luxo, asco, orgulho)!
+1	Oh	oh	INTJ	_	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	ceboere	ceboere	INTJ	_	_	0	root	_	_
 4	!	_	PUNCT	punct	_	3	punct	_	_
 5	Pegakare	pega	VERB	v	Mood=Ind|Polarity=Neg	3	parataxis	_	_
 6	pamode	_	PRON	_	Clusivity=In|Number=Plur|Person=1|Tense=Fut	7	nsubj	_	_
@@ -235,7 +235,7 @@
 4	woe	woe	ADV	_	_	3	advmod	_	_
 5	dykoiare	dykoya	SCONJ	_	Mood=Ind	3	mark	_	_
 
-# sent_id = FWFFG-025
+# sent_id = FWFFG-025.RaimundoItogoga
 # text = Ca pai amagodo pai
 # text_eng = Hey, father, speak!
 # text_por = eh, pai, fala!
@@ -244,7 +244,7 @@
 3	amagodo	mako	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 4	pai	pai	NOUN	n	_	3	vocative	_	_
 
-# sent_id = FWFFG-026
+# sent_id = FWFFG-026.RaimundoItogoga
 # text = Nowy jorybo boe ji nowy parybo awy pandemia jiwy jorybo
 # text_eng = 
 # text_por = Sobre os remedios bororo, nossos remedios, os remedios de combate à pandemia
@@ -259,7 +259,7 @@
 9	jiwy	jiwy	ADP	posp	Nomzr=Rel	8	case	_	_
 10	jorybo	jorybo	NOUN	_	Poss=Yes	2	conj	_	_
 
-# sent_id = FWFFG-027
+# sent_id = FWFFG-027.RaimundoItogoga
 # text = Noba meri boeco nuba parore paryborogy boe ji
 # text_eng = 
 # text_por = de dia de noite como que nós fizemos com nossos remedios
@@ -272,7 +272,7 @@
 7	boe	boe	NOUN	_	_	6	nmod	_	_
 8	ji	ji	ADP	_	_	6	case	_	_
 
-# sent_id = FWFFG-028
+# sent_id = FWFFG-028.RaimundoItogoga
 # text = Pare codo pare kurudo pai
 # text_eng = 
 # text_por = Fazemos ficar preto (carvão) e fazemos ficar líquido para nós
@@ -282,7 +282,7 @@
 4	kurudo	kuru	NOUN	_	Voice=Cau	2	conj	_	_
 5	pai	pai	ADP	posp	Clusivity=In|Number=Plur|Person=1	2	case	_	_
 
-# sent_id = FWFFG-029
+# sent_id = FWFFG-029.RaimundoItogoga
 # text = Gilmar makomode jawo ; amagodo !
 # text_eng = 
 # text_por = Gilmar vai falar primeiro ; fale!
@@ -292,6 +292,138 @@
 4	;	;	PUNCT	_	_	2	punct	_	_
 5	amagodo	_	VERB	_	Mood=Imp|Number=Sing|Person=2	2	parataxis	_	_
 6	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = FWFFG-030.RaimundoItogoga
+# text = Imedy nogware imi ty imagowo ?
+# text_eng = 
+# text_por = (tem) Homem, mulher, só eu que vou falar?
+1	Imedy	imedy	NOUN	_	Number=Sing	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	nogware	nogwaredu	NOUN	_	Number=Plur	1	conj	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	imi	imi	PRON	bi	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	ty	ty	ADV	_	_	7	advmod	_	_
+7	imagowo	mako	VERB	_	Mood=Sub|Number=Sing|Person=1	1	parataxis	_	_
+8	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = FWFFG-031.RaimundoItogoga
+# text = Kode akimo amagore
+# text_eng = 
+# text_por = é você que tem que falar, é com você que ele está falando
+1	Kode	kode	ADV	adv	_	3	advmod	_	[];why;por que
+2	akimo	aki	PRON	pron	Mood=Ind|Number=Sing|Person=2|Tense=Fut	3	nsubj	_	_
+3	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	aire	ai	ADP	_	Mood=Ind|Number=Sing|Person=2	6	obl	_	_
+6	ako	ako	VERB	_	Number=Sing|Person=3	3	parataxis	_	_
+7	oino	oino	ADV	_	_	6	advcl	_	_
+
+# sent_id = FWFFG-032.RaimundoItogoga
+# text = Boe erybo kuricigore boe tada
+# text_eng = There is a lot of medicine in the forest (tropical savanna)
+# text_por = tem muito remedio no mato
+1	Boe	boe	NOUN	_	_	2	dep	_	_
+2	erybo	jorybo	NOUN	_	Number=Plur|Person=3|Poss=Yes	0	root	_	_
+3	kuricigore	_	ADV	_	Mood=Ind	2	advmod	_	_
+4	boe	boe	NOUN	_	_	2	obl	_	_
+5	tada	tada	ADP	_	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = FWFFG-033.RaimundoItogoga
+# text = Iorydywakare pygeje
+# text_eng = 
+# text_por = (já) não sei mais
+1	Iorydywakare	jorydywa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
+2	pygeje	pygeje	ADV	_	_	1	advmod	_	_
+
+# sent_id = FWFFG-034.RaimundoItogoga
+# text = Iordywakare jorybo ji pygeje
+# text_eng = 
+# text_por = (já) não sei mais sobre remédio
+1	Iordywakare	jorydywa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
+2	jorybo	jorybo	NOUN	_	Poss=Yes	1	obl	_	_
+2	ji	ji	ADP	_	Number=Sing|Person=3	1	case	_	_
+3	pygeje	pygeje	ADV	_	_	1	advmod	_	_
+
+# sent_id = FWFFG-035.RaimundoItogoga
+# text = Boe erybore kimao rema
+# text_eng = 
+# text_por = Algodãozinho é remedio
+1	Boe	boe	NOUN	_	_	2	nmod	_	_
+2	erybore	jorybo	NOUN	_	Mood=Ind	3	nsubj	_	_
+3	kimao	kimao	NOUN	_	_	0	root	_	_
+4	rema	rema	AUX	cop	_	3	cop	_	_
+
+# sent_id = FWFFG-036.RaimundoItogoga
+# text = Boe erybo kimao
+# text_eng = 
+# text_por = Algodãozinho é remedio
+1	Boe	boe	NOUN	_	_	2	nmod	_	_
+2	erybo	jorybo	NOUN	_	Number=Plur|Person=3|Poss=Yes	3	nsubj	_	_
+3	kimao	_	NOUN	_	_	0	root	_	_
+
+# sent_id = FWFFG-037.RaimundoItogoga
+# text = Boe erybore uiary
+# text_eng = 
+# text_por = araticum rasteiro é remedio
+1	Boe	boe	NOUN	_	_	2	nmod	_	_
+2	erybore	jorybo	NOUN	_	Number=Plur|Person=3|Poss=Yes	3	nsubj	_	_
+3	uiary	uiary	NOUN	_	_	0	root	_	[];;araticum rasteiro
+
+# sent_id = FWFFG-038.RaimundoItogoga
+# text = Boe erybore uiary kimao
+# text_eng = 
+# text_por = uiary e algodãozinho são remedios
+1	Boe	_	NOUN	_	_	2	nmod	_	_
+2	erybore	jorybo	NOUN	_	Mood=Ind|Number=Plur|Person=3|Poss=Yes	0	root	_	_
+3	uiary	uiary	NOUN	_	_	2	nsubj	_	_
+4	kimao	kimao	NOUN	_	_	2	conj	_	_
+
+# sent_id = FWFFG-039.RaimundoItogoga
+# text = Boe erybo ema bope ji bope bope , tuwo tawyje boe piji bace ika
+# text_eng = 
+# text_por = é remedio contra bope, bope, bope, para tirar da gente assa peixe 
+1	Boe	_	NOUN	_	_	2	nmod	_	_
+2	erybo	_	NOUN	_	Number=Plur|Person=3|Poss=Yes	5	nsubj	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	ema	_	NOUN	_	_	5	nsubj	_	_
+5	bope	_	NOUN	_	_	_	_	_	_
+6	ji	ji	ADP	_	Number=Sing|Person=3	5	case	_	_
+7	bope	_	NOUN	_	_	5	conj	_	_
+8	bope	_	NOUN	_	_	5	conj	_	_
+9	,	_	PUNCT	_	_	5	punct	_	_
+10	tuwo	_	PRON	_	_	11	mark	_	_
+11	tawyje	_	VERB	_	_	5	advcl	_	_
+12	boe	_	NOUN	_	_	11	obl	_	_
+13	piji	_	ADP	_	_	12	case	_	_
+14	bace	_	NOUN	_	_	11	parataxis	_	_
+15	ika	_	NOUN	_	_	14	flat	_	_
+
+# sent_id = FWFFG-040.RaimundoItogoga
+# text = Boe erybo makaguragare
+# text_eng = 
+# text_por = bororo tem muito remedio
+1	Boe	boe	NOUN	_	_	2	nsubj	_	_
+2	erybo	jorybo	NOUN	_	Number=Plur|Person=3|Poss=Yes	0	root	_	_
+3	makaguragare	makaguragare	ADV	_	_	2	advcl	_	_
+
+# sent_id = FWFFG-041.RaimundoItogoga
+# text = Iorydywa akedyre boe erybo bogai
+# text_eng = 
+# text_por = Meu conhecimento sobre remedio ta acabando
+1	Iorydywa	jorydywa	NOUN	_	Number=Plur|Person=1	2	nsubj	_	_
+2	akedyre	akedy	VERB	_	_	0	root	_	_
+3	boe	boe	NOUN	_	_	4	nmod	_	_
+4	erybo	jorybo	NOUN	_	Number=Plur|Person=3|Poss=Yes	2	obl	_	_
+5	bogai	bogai	ADP	_	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = FWFFG-101.
+# text = Akeragu cai je !
+# text_eng = Guess! (put it quickly!)
+# text_por = Põe logo! (Advinhe!)
+1	Akeragu	eragu	VERB	_	Number=Sing|Person=2	0	root	_	_
+2	cai	cai	ADV	adv	_	1	advmod	_	[];soon,immediately;logo,imediatamente
+3	je	je	ADV	adv	_	1	advmod	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
