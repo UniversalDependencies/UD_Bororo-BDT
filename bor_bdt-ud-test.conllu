@@ -379,7 +379,7 @@
 4	kimao	kimao	NOUN	_	_	2	conj	_	_
 
 # sent_id = FWFFG-039.RaimundoItogoga
-# text = Boe erybo ema bope ji bope bope , tuwo tawyje boe piji bace ika
+# text = Boe erybo , ema bope ji bope bope , tuwo tawyje boe piji bace ika
 # text_eng = 
 # text_por = é remedio contra bope, bope, bope, para tirar da gente assa peixe 
 1	Boe	_	NOUN	_	_	2	nmod	_	_
@@ -5662,7 +5662,7 @@
 12	rugady	rugady	ADV	_	_	8	advmod	_	_
 
 # sent_id = KuiejedogeEiodydo.03
-# text = Kody tuo apo , ji ... rakoja kae ; icare uo rutyre tyragoja to taiwo tabo , kare ewogai
+# text = Kody tuo apo , jii ... rakoja kae ; icare uo rutyre tyragoja to taiwo tabo , kare ewogai
 # text_eng =
 # text_por = Foi com seu pai até o lugar da espera e seu pai subiu no lugar da sua espera ao olhar p os peixes
 1	Kody	_	VERB	_	Number=Sing|Person=3	0	root	_	_
