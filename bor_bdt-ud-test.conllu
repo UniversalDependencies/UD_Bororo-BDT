@@ -330,14 +330,14 @@
 
 # sent_id = FWFFG-033.RaimundoItogoga
 # text = Iorydywakare pygeje
-# text_eng = 
+# text_eng = I don't know it anymore
 # text_por = (já) não sei mais
 1	Iorydywakare	jorydywa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	pygeje	pygeje	ADV	_	_	1	advmod	_	_
 
 # sent_id = FWFFG-034.RaimundoItogoga
 # text = Iordywakare jorybo ji pygeje
-# text_eng = 
+# text_eng = I don't know it anymore about medicines
 # text_por = (já) não sei mais sobre remédio
 1	Iordywakare	jorydywa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	jorybo	jorybo	NOUN	_	Poss=Yes	1	obl	_	_
@@ -416,7 +416,15 @@
 4	erybo	jorybo	NOUN	_	Number=Plur|Person=3|Poss=Yes	2	obl	_	_
 5	bogai	bogai	ADP	_	Number=Sing|Person=3	4	case	_	_
 
-# sent_id = FWFFG-101.
+# sent_id = FWFFG-0100
+# text = Ikiarire ai woe
+# text_eng = 
+# text_por = Eu não quero sua presença aqui
+1	Ikiarire	_	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	ai	ji	ADP	_	Number=Sing|Person=2	1	case	_	_
+3	woe	woe	ADV	_	_	1	advmod	_	_
+
+# sent_id = FWFFG-0101
 # text = Akeragu cai je !
 # text_eng = Guess! (put it quickly!)
 # text_por = Põe logo! (Advinhe!)
@@ -5608,6 +5616,73 @@
 30	ioga	o	NOUN	noun	Number=Sing|Number[psor]=Sing|Person=3	31	nsubj	_	_
 31	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	_
 32	.	.	PUNCT	punct	_	31	punct	_	_
+
+# sent_id = KuiejedogeEiodydo.01
+# text = Ia imedynure tudyiagu turagoja kare ei kejewy kae , icare onaregedyre tugoduiagu tuo apo , mare uo kiarire uo aidykare kodywo pudabo
+# text_eng =
+# text_por = Um homem estava para ir àquele seu lugar da espera dos peixes, e seu filho ia com ele, mas seu pai não queria que ele fosse com ele
+1	Ia	ia	DET	_	_	2	det	_	_
+2	imedynure	imedy	NOUN	_	Aspect=Prog|Mood=Ind|Number=Sing	0	root	_	_
+3	tudyiagu	ty	NOUN	_	Reflex=Yes	2	acl	_	_
+4	turagoja	ragoja	NOUN	_	_	3	obl	_	_
+5	kare	karo	NOUN	_	Number=Plur	7	obl	_	['kaɾɔ];fish;peixe
+6	ei	ji	ADP	_	Number=Plur|Person=3	5	case	_	_
+7	kejewy	keje	ADP	_	Nomzr=Rel	4	acl	_	_
+8	kae	kae	ADP	_	Number=Plur|Person=3	4	obl	_	_
+9	,	;	PUNCT	_	_	3	punct	_	_
+10	icare	icare	ADV	_	_	12	advcl	_	_
+11	onaregedyre	onaregedy	NOUN	_	Mood=Ind	12	nsubj	_	_
+12	tugoduiagu	_	NOUN	_	_	2	parataxis	_	_
+13	tuo	o	NOUN	_	Number=Sing|Person=3|Reflex=Yes	12	obl	_	_
+14	apo	apo	ADP	_	Number=Sing|Person=3	13	case	_	_
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	mare	_	CCONJ	_	_	18	cc	_	_
+17	uo	o	NOUN	_	Number=Sing|Person=3	18	nsubj	_	_
+18	kiarire	kiari	VERB	_	Mood=Ind|Number=Sing|Person=3	12	conj	_	not want;não querer
+19	uo	o	NOUN	_	Number=Sing|Person=3	20	nsubj	_	_
+20	aidykare	aidy	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	parataxis	_	_
+21	kodywo	kody	NOUN	_	Mood=Sub	20	cc	_	_
+22	pudabo	apo	ADP	_	PronType=Rcp	21	case	_	_
+
+# sent_id = KuiejedogeEiodydo.02
+# text = Dyinody tabore rekodyre tuo rekodaji dykodi icare kodyre tuo apo , rugady
+# text_eng =
+# text_por = Assim (estando a) coisa, fez corrida atras de seu pai, e por isso foi, de fato, com seu pai
+1	Dyinody	_	ADV	_	_	3	advmod	_	_
+2	tabore	apo	ADP	_	Mood=Ind|Reflex=Yes	1	flat	_	_
+3	rekodyre	rekody	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	tuo	o	NOUN	_	Number=Sing|Person=3|Reflex=Yes	3	obl	_	_
+5	rekodaji	_	ADP	_	Number=Sing|Person=3	4	case	_	_
+6	dykodi	_	ADV	_	_	8	mark	_	_
+7	icare	icare	ADV	_	_	8	advmod	_	_
+8	kodyre	kody	VERB	_	Mood=Ind|Number=Sing|Person=3	3	advcl	_	_
+9	tuo	o	NOUN	_	Number=Sing|Person=3|Reflex=Yes	8	obl	_	_
+10	apo	apo	ADP	_	Number=Sing|Person=3	9	case	_	_
+11	,	_	PUNCT	_	_	8	punct	_	_
+12	rugady	rugady	ADV	_	_	8	advmod	_	_
+
+# sent_id = KuiejedogeEiodydo.03
+# text = Kody tuo apo , ji ... rakoja kae ; icare uo rutyre tyragoja to taiwo tabo , kare ewogai
+# text_eng =
+# text_por = Foi com seu pai até o lugar da espera e seu pai subiu no lugar da sua espera ao olhar p os peixes
+1	Kody	_	VERB	_	Number=Sing|Person=3	0	root	_	_
+2	tuo	o	NOUN	_	Number=Sing|Person=3|Reflex=Yes	1	obl	_	_
+3	apo	apo	ADP	_	Number=Sing|Person=3	2	case	_	_
+4	,	_	PUNCT	_	_	1	punct	_	_
+5	jii	jii	ADV	_	_	1	advmod	_	_
+6	...	...	PUNCT	_	_	1	punct	_	_
+7	rakoja	rakoja	NOUN	_	_	1	obl	_	_
+8	kae	_	ADP	_	Number=Sing|Person=3	7	case	_	_
+9	;	_	PUNCT	_	_	1	punct	_	_
+10	icare	_	ADV	_	_	12	advmod	_	_
+11	uo	o	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	12	nsubj	_	_
+12	rutyre	ryty	VERB	_	Mood=Ind	1	parataxis	_	_
+13	tyragoja	_	NOUN	_	Number=Sing|Person=3|Reflex=Yes	12	obl	_	_
+14	to	_	ADP	_	_	13	case	_	_
+15	taiwo	aiwo	NOUN	_	Number=Sing|Person=3|Reflex=Yes	12	obl	_	_
+16	tabo	apo	ADP	_	Number=Sing|Person=3	15	case	_	_
+17	kare	karo	NOUN	_	Number=Plur	15	obl	_	_
+18	ewogai	bogai	ADP	_	Number=Plur|Person=3	17	case	_	_
 
 # sent_id = NT.CG.Jo.8-23
 # text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawydyre woe awy moto keje . Mare imi moto kejewy karega nure imi
