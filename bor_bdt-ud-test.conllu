@@ -5841,20 +5841,20 @@
 # text = Icare akore ei : woje comoroiwuge tagireo ; cebojewu imireo . Awy moto kejewuge nure tagi , mare imi karega
 # text_eng =
 # text_por =
-1	Icare	icare	ADV	_	_	2	_	_	_
+1	Icare	icare	ADV	_	_	2	advmod	_	_
 2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	ei	ji	ADP	_	Number=Plur|Person=3	2	_	_	_
+3	ei	ji	ADP	_	Number=Plur|Person=3	2	obl	_	_
 4	:	_	PUNCT	_	_	2	punct	_	_
-5	woje	_	ADV	_	_	_	advmod	_	_
-6	comoroiwuge	_	ADP	_	Nomzr=Rel|Number=Plur	_	_	_	_
-7	tagireo	_	_	_	Numer=Plur|Person=2	_	_	_	_
-8	;	_	PUNCT	_	_	_	_	_	_
-9	cebojewu	_	_	_	_	_	_	_	_
-10	imireo	_	_	_	Numer=Plur|Person=2	_	_	_	_
-11	.	.	PUNCT	_	_	_	_	_	_
+5	woje	_	_	_	_	6	advmod	_	_
+6	comoroiwuge	_	ADP	_	Nomzr=Rel|Number=Plur	2	ccomp	_	_
+7	tagireo	_	PRON	_	Numer=Plur|Person=2	6	nsubj	_	_
+8	;	_	PUNCT	_	_	6	punct	_	_
+9	cebojewu	_	ADP	_	_	6	conj	_	_
+10	imireo	_	PRON	_	Numer=Plur|Person=2	9	nsubj	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
 12	Awy	awy	DET	_	Deixis=Prox	13	det	_	_
 13	moto	moto	NOUN	_	Noun=Sing	14	nmod	_	_
-14	kejewuge	_	ADP	_	Nomzr=Rel|Number=Plur	_	_	_	_
+14	kejewuge	_	ADP	_	Nomzr=Rel|Number=Plur	6	parataxis	_	_
 15	nure	_	X	_	Aspect=Prog|Mood=Ind	14	cop	_	_
 16	tagi	tagi	PRON	pron	Numer=Plur|Person=2|PronType=Prs	14	nsubj	_	_
 17	,	_	PUNCT	_	_	14	punct	_	_
