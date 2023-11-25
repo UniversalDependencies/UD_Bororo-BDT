@@ -5842,10 +5842,10 @@
 # text_eng =
 # text_por =
 1	Icare	icare	ADV	_	_	2	_	_	_
-2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	_	_	_	_
+2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ei	ji	ADP	_	Number=Plur|Person=3	2	_	_	_
 4	:	_	PUNCT	_	_	2	punct	_	_
-5	woje	_	_	_	_	_	_	_	_
+5	woje	_	ADV	_	_	_	advmod	_	_
 6	comoroiwuge	_	ADP	_	Nomzr=Rel|Number=Plur	_	_	_	_
 7	tagireo	_	_	_	Numer=Plur|Person=2	_	_	_	_
 8	;	_	PUNCT	_	_	_	_	_	_
