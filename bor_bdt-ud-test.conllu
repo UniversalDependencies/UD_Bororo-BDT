@@ -5673,7 +5673,7 @@
 12	rugady	rugady	ADV	adv	_	8	advmod	_	_
 
 # sent_id = KuiejedogeEiodydo.03
-# text = Kody tuo apo , jii ... rakoja kae ; icare uo rutyre tyragoja to taiwo tabo , kare ewogai
+# text = Kody tuo apo , jii ... rakoja kae ; icare uo rutyre tyragoja to taiwo tabo kare ewogai
 # text_eng =
 # text_por = Foi com seu pai até o lugar da espera e seu pai subiu no lugar da sua espera ao olhar p os peixes
 1	Kody	_	VERB	v	Number=Sing|Person=3	0	root	_	_
@@ -5711,7 +5711,7 @@
 10	bito	bito	VERB	v	Number=Ind|Person=3	4	advcl	_	_
 
 # sent_id = KuiejedogeEiodydo.05
-# text = Icare onaregedy akore tuo iagu jorugo tuge boie pudui tuwo ecewy meru kowyje
+# text = Icare onaregedy akore tuoiagu jorugo tuge boie pudui tuwo ecewy meru kowyje
 # text_eng =
 # text_por = E seu filho disse a seu pai que fizesse seu fogo porque tinha desejo de alimentro para si, para fazer comida daquela raia
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
@@ -5802,8 +5802,8 @@
 
 # sent_id = NT.CG.Jo.8-23
 # text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawydyre woe awy moto keje . Mare imi moto kejewy karega nure imi
-# text_eng =
-# text_por =
+# text_eng = But he continued: "You are from below; I am from above. You are of this world; I am not of this world.
+# text_por = Mas ele continuou: "Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo.
 1	Jesus	Jesus	PROPN	propn	_	2	nsubj	_	_
 2	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ewadary	bataru	NOUN	n	Number=Plur|Person=3	2	obl	_	_
@@ -5839,8 +5839,8 @@
 
 # sent_id = NT.GO.Jo.8-23
 # text = Icare akore ei : woje comoroiwuge tagireo ; cebojewu imireo . Awy moto kejewuge nure tagi , mare imi karega
-# text_eng =
-# text_por =
+# text_eng = But he continued: "You are from below; I am from above. You are of this world; I am not of this world.
+# text_por = Mas ele continuou: "Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo.
 1	Icare	icare	ADV	_	_	2	advmod	_	_
 2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ei	ji	ADP	_	Number=Plur|Person=3	2	obl	_	_
