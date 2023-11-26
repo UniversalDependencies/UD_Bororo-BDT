@@ -4510,6 +4510,15 @@
 4	pagarogu	_	NOUN	_	Degree=Dim|Number=Sing	3	obl	_	_
 5	to	_	ADP	_	Number=Sing|Person=3	4	case	_	_
 
+# sent_id = 031.EncIE
+# text = Areme ere kuiada amydo
+# text_eng = The women petsled corn
+# text_por = As mulheres pilaram o milho
+1	Areme	areme	NOUN	_	Number=Plur	4	_	_	_
+2	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	4	_	_	_
+3	kuiada	_	NOUN	_	_	4	obj	_	_
+4	amydo	amy	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	[];rest,pestle;descansar,pilar,socar
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
