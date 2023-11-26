@@ -5789,13 +5789,12 @@
 13	rytyre	ryty	VERB	v	Mood=Ind|Number=Sing|Person=3	10	conj	_	_
 14	turagoja	ragoja	NOUN	n	Number=Sing|Person=3|Reflex=Yes	13	obl	_	_
 15	to	to	ADP	posp	Number=Sing|Person=3	14	case	_	_
-16	taiwo	_	NOUN	n	_	13	obl	_	_
+16	taiwo	_	NOUN	n	Number=Plur|Person=2	13	obl	_	_
 17	tabo	apo	ADP	posp	Number=Sing|Person=3	16	case	_	_
-18	,	,	PUNCT	_	_	16	punct	_	_
-19	kare	karo	NOUN	n	Number=Sing	16	obl	_	_
-20	ewogai	bogai	ADP	posp	Number=Plur|Person=3	19	case	_	_
-21	,	,	PUNCT	_	_	16	punct	_	_
-22	pugeje	pugeje	ADV	adv	_	13	advmod	_	_
+18	kare	karo	NOUN	n	Number=Sing	16	obl	_	_
+19	ewogai	bogai	ADP	posp	Number=Plur|Person=3	19	case	_	_
+20	,	,	PUNCT	_	_	16	punct	_	_
+21	pugeje	pugeje	ADV	adv	_	13	advmod	_	_
 
 # sent_id = KuiejedogeEiodydo.07
 # text = Dykeje ecewy nogedyrogu makore kuri tuwo ae ; akore : iogwa , pawo ecewy meru tawyje , ike boire ii
