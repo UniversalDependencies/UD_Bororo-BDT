@@ -5917,7 +5917,7 @@
 10	imireo	_	PRON	_	Number=Plur|Person=2	9	nsubj	_	_
 11	.	.	PUNCT	_	_	9	punct	_	_
 12	Awy	awy	DET	_	Deixis=Prox	13	det	_	_
-13	moto	moto	NOUN	_	Noun=Sing	14	nmod	_	_
+13	moto	moto	NOUN	_	Number=Sing	14	nmod	_	_
 14	kejewuge	_	ADP	_	Nomzr=Rel|Number=Plur	6	parataxis	_	_
 15	nure	_	X	_	Aspect=Prog|Mood=Ind	14	dep	_	_
 16	tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_
