@@ -5858,7 +5858,7 @@
 10	:	:	PUNCT	_	_	9	punct	_	_
 11	iogwa	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	15	vocative	_	_
 12	pawo	_	PRON	bi	Clusivity=Ind|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	_
-13	ecewy	ecewy	_	_	Mood=Ind	14	det	_	_
+13	ecewy	ecewy	_	_	_	14	det	_	_
 14	meru	_	NOUN	_	_	15	obj	_	_
 15	tawyje	_	VERB	_	Number=Sing|Person=3	9	ccomp	_	_
 16	icare	_	ADV	_	_	17	advmod	_	_
