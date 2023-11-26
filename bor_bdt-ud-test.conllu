@@ -5846,10 +5846,10 @@
 # text = Biaga tuje dykejere makore tuo ai pugeje ; akore : iogwa pawo ecewy meru tawyje icare kodymode
 # text_eng =
 # text_por = Pouco depois, falou a seu pai novemente; disse:meu pai, vamos fazer aquela arraia, e estraá pronata
-1	Biaga	_	ADV	_	_	3	advmod	_	_
+1	Biaga	biaga	ADV	_	_	3	advmod	_	_
 2	tuje	_	X	_	_	1	goeswith	_	_
 3	dykejere	_	ADV	_	Mood=Ind	4	advmod	_	_
-4	makore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	tuo	o	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3|Reflex=Yes	4	obl	_	_
 6	ai	ai	ADP	_	Number=Sing|Person=3	5	case	_	_
 7	pugeje	pugeje	ADV	_	_	4	advmod	_	_
@@ -5858,7 +5858,7 @@
 10	:	:	PUNCT	_	_	9	punct	_	_
 11	iogwa	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	15	vocative	_	_
 12	pawo	_	PRON	bi	Clusivity=Ind|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	_
-13	ecewy	ecewy	_	_	_	14	det	_	_
+13	ecewy	ecewy	DET	_	_	14	det	_	_
 14	meru	_	NOUN	_	_	15	obj	_	_
 15	tawyje	_	VERB	_	Number=Sing|Person=3	9	ccomp	_	_
 16	icare	_	ADV	_	_	17	advmod	_	_
@@ -5942,7 +5942,7 @@
 10	karega	_	X	_	Polarity=Neg	9	dep	_	_
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	tameartorumodykare	meartoru	VERB	_	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut	17	advcl	_	[];belief,beleive;crença,crer
-13	imie	_	PRON	_	_	12	ccomp	_	_
+13	imie	_	PRON	_	Number=Sing|Person=1	12	ccomp	_	_
 14	rugadu	_	ADV	_	_	13	advmod	_	_
 15	ma	ma	SCONJ	_	_	12	mark	_	_
 16	,	,	PUNCT	_	_	12	punct	_	_
