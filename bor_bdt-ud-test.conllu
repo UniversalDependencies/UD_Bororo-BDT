@@ -4486,13 +4486,13 @@
 # text = Pagudawy aigo biri amodugodyre
 # text_eng = 
 # text_por = a nossa esteira de pele de suçuarana está gastando-se
-1	Pagudawy	kuda	ADP	_	Clusivity=In|Number=Sing|Person=1|Nomzr=Rel	4	nsubj	_	_
+1	Pagudawy	kuda	ADP	_	Clusivity=In|Number=Sing|Nomzr=Rel|Person=1	4	nsubj	_	_
 2	aigo	aigo	NOUN	_	_	3	nmod	_	_
 3	biri	biri	NOUN	_	Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
 4	amodugodyre	amodugody	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 030.EncIE
-# text = Apogora jiwy amodurewy maky inai
+# text = Apogorajiwy amodurewy maky inai
 # text_eng = Give me your used trousers
 # text_por = Dá-me tua calça usada
 1	Apogorajiwy	apogorajiwy	NOUN	_	_	3	nsubj	_	_
@@ -5836,8 +5836,8 @@
 # text_por =
 1	Uo	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	2	nsubj	_	_
 2	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	:	_	PUNCT	_	_	2	punct	_	_
-4	kajao	_	ADV	_	_	5	advmod	_	_
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	kajao	kajao	ADV	_	_	5	advmod	_	_
 5	kodymodykare	kody	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	2	ccomp	_	_
 6	roga	roga	ADV	_	Polarity=Neg	5	advcl	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
@@ -5845,8 +5845,8 @@
 
 # sent_id = NT.CG.Jo.8-23
 # text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawydyre woe awy moto keje . Mare imi moto kejewy karega nure imi
-# text_eng = But he continued: "You are from below; I am from above. You are of this world; I am not of this world.
-# text_por = Mas ele continuou: "Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo.
+# text_eng = But he continued: You are from below; I am from above. You are of this world; I am not of this world.
+# text_por = Mas ele continuou: Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo.
 1	Jesus	Jesus	PROPN	propn	_	2	nsubj	_	_
 2	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ewadary	bataru	NOUN	n	Number=Plur|Person=3	2	obl	_	_
@@ -5882,16 +5882,16 @@
 
 # sent_id = NT.GO.Jo.8-23
 # text = Icare akore ei : woje comoroiwuge tagireo ; cebojewu imireo . Awy moto kejewuge nure tagi , mare imi karega
-# text_eng = But he continued: "You are from below; I am from above. You are of this world; I am not of this world.
-# text_por = Mas ele continuou: "Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo.
+# text_eng = But he continued: You are from below; I am from above. You are of this world; I am not of this world.
+# text_por = Mas ele continuou: Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo.
 1	Icare	icare	ADV	_	_	2	advmod	_	_
 2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ei	ji	ADP	_	Number=Plur|Person=3	2	obl	_	_
-4	:	_	PUNCT	_	_	2	punct	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
 5	woje	_	ADV	_	_	6	advmod	_	_
 6	comoroiwuge	comoroi	ADP	_	Nomzr=Rel|Number=Plur	2	ccomp	_	_
 7	tagireo	_	PRON	_	Number=Plur|Person=2	6	nsubj	_	_
-8	;	_	PUNCT	_	_	6	punct	_	_
+8	;	;	PUNCT	_	_	6	punct	_	_
 9	cebojewu	ceboj	ADP	_	Nomzr=Rel	6	conj	_	_
 10	imireo	_	PRON	_	Number=Plur|Person=2	9	nsubj	_	_
 11	.	.	PUNCT	_	_	9	punct	_	_
@@ -5900,8 +5900,33 @@
 14	kejewuge	_	ADP	_	Nomzr=Rel|Number=Plur	6	parataxis	_	_
 15	nure	_	X	_	Aspect=Prog|Mood=Ind	14	cop	_	_
 16	tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_
-17	,	_	PUNCT	_	_	14	punct	_	_
-18	mare	_	CCONJ	_	_	20	cc	_	_
+17	,	,	PUNCT	_	_	14	punct	_	_
+18	mare	mare	CCONJ	_	_	20	cc	_	_
 19	imi	imi	PRON	_	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
-20	karega	_	X	_	Polarity=Neg	14	conj	_	_
+20	karega	karega	X	_	Polarity=Neg	14	conj	_	_
+
+# sent_id = NT.GO.Jo.8-24
+# text = Inagore tai tawimodyie taro pegarewy tadaduji , mare paga karega , tameartorumodykare imie rugadu ma , tawimode taro pegarewy tada
+# text_eng = 
+# text_por = Eu disse que vocês morrerão em seus pecados. Se vocês não crerem que Eu Sou, de fato morrerão em seus pecados
+1	Inagore	ako	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	tai	ji	ADP	_	Number=Plur|Person=2	1	obl	_	_
+3	tawimodyie	_	VERB	_	Number=Plur|Person=2|Speech=Ind|Tense=Fut	1	ccomp	_	_
+4	taro	ro	NOUN	_	Number=Plur|Person=2	3	obl	_	_
+5	pegarewy	pega	NOUN	_	Nomzr=Rel	4	nmod	_	_
+6	tadaduji	_	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	mare	mare	CCONJ	_	_	9	cc	_	_
+9	paga	_	VERB	_	_	3	conj	_	_
+10	karega	_	X	_	Polarity=Neg	9	dep	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	tameartorumodykare	meartoru	VERB	_	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut	17	advcl	_	[];belief,beleive;crença,crer
+13	imie	_	PRON	_	_	12	ccomp	_	_
+14	rugadu	_	ADV	_	_	13	advmod	_	_
+15	ma	ma	SCONJ	_	_	12	mark	_	_
+16	,	,	PUNCT	_	_	12	punct	_	_
+17	tawimode	bi	VERB	_	Number=Plur|Person=2|Tense=Fut	3	ccomp	_	_
+18	taro	_	NOUN	_	Number=Plur|Person=2	17	obl	_	_
+19	pegarewy	pega	_	_	Nomzr=Rel	18	nmod	_	_
+20	tada	_	ADP	_	_	18	case	_	_
 
