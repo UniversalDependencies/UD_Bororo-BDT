@@ -5773,7 +5773,7 @@
 13	pawo	_	VERB	_	Clusivity=In|Mood=Sub|Number=Plur|Person=1	9	ccomp	_	_
 14	ecewy	_	DET	_	Deixis=Remt	15	det	_	_
 15	meru	_	NOUN	_	_	16	obj	_	_
-16	tawyje	_	VERB	_	Number=Sing|Person=3	13	cc	_	_
+16	tawyje	_	VERB	_	Number=Sing|Person=3	13	ccomp	_	_
 17	,	_	PUNCT	_	_	16	punct	_	_
 18	ike	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	19	nmod	_	_
 19	boire	_	NOUN	_	_	16	parataxis	_	_
@@ -5785,7 +5785,7 @@
 # text_por =
 1	Boe	_	NOUN	_	_	2	nsubj	_	_
 2	karega	_	X	_	_	0	root	_	_
-3	!	!	_	_	_	2	_	_	_
+3	!	!	PUNCT	_	_	2	_	_	_
 
 # sent_id = KuiejedogeEiodydo.09
 # text = Uo akore : kajao kodymodykare roga . Gu
@@ -5798,7 +5798,7 @@
 5	kodymodykare	kody	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	2	ccomp	_	_
 6	roga	roga	ADV	_	Polarity=Neg	5	advcl	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
-8	Gu	gu	_	_	_	5	discourse	_	_
+8	Gu	gu	X	_	_	5	discourse	_	_
 
 # sent_id = NT.CG.Jo.8-23
 # text = Jesus makore ewadary jipagi . Akore : Awy moto kejewyge nure tagi . Imi rema itaregodyre baru piji . Tawydyre woe awy moto keje . Mare imi moto kejewy karega nure imi
