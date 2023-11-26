@@ -5785,7 +5785,7 @@
 # text_por =
 1	Boe	_	NOUN	_	_	2	nsubj	_	_
 2	karega	_	X	_	_	0	root	_	_
-3	!	!	PUNCT	_	_	2	_	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
 
 # sent_id = KuiejedogeEiodydo.09
 # text = Uo akore : kajao kodymodykare roga . Gu
@@ -5794,7 +5794,7 @@
 1	Uo	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	2	nsubj	_	_
 2	akore	_	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	:	_	PUNCT	_	_	2	punct	_	_
-4	kajao	_	ADV	_	_	5	_	_	_
+4	kajao	_	ADV	_	_	5	advmod	_	_
 5	kodymodykare	kody	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	2	ccomp	_	_
 6	roga	roga	ADV	_	Polarity=Neg	5	advcl	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
