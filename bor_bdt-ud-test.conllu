@@ -5751,7 +5751,7 @@
 7	uore	o	NOUN	n	Mood=Ind	10	nsubj	_	_
 8	ecewy	ecewy	DET	dem	Deixis=Remt	9	nmod	_	_
 9	meru	meru	NOUN	n	Number=Sing	10	obj	_	_
-10	bito	bito	VERB	v	Number=Ind|Person=3	4	advcl	_	_
+10	bito	bito	VERB	v	Number=Sing|Person=3	4	advcl	_	_
 
 # sent_id = KuiejedogeEiodydo.05
 # text = Icare onaregedy akore tuoiagu jorugo tuge boie pudui tuwo ecewy meru kowyje
