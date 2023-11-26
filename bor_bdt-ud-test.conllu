@@ -5926,6 +5926,6 @@
 16	,	,	PUNCT	_	_	12	punct	_	_
 17	tawimode	bi	VERB	_	Number=Plur|Person=2|Tense=Fut	3	ccomp	_	_
 18	taro	_	NOUN	_	Number=Plur|Person=2	17	obl	_	_
-19	pegarewy	pega	_	_	Nomzr=Rel	18	nmod	_	_
+19	pegarewy	pega	NOUN	_	Nomzr=Rel	18	nmod	_	_
 20	tada	_	ADP	_	_	18	case	_	_
 
