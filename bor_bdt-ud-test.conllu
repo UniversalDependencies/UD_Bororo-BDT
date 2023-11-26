@@ -4467,6 +4467,49 @@
 3	maridi	maridi	NOUN	n	_	2	obl	_	_
 4	to	to	ADP	posp	Number=Plur|Person=3	3	case	_	_
 
+# sent_id = 027.EncIE
+# text = Bakuru unure i amagadydo
+# text_eng = 
+# text_por = o vento agita a árvore
+1	Bakuru	bakuru	NOUN	_	_	4	nsubj	_	_
+2	unure	u	X	_	Mood=Ind|Number=Sing|Person=3	4	dep	_	_
+3	i	i	NOUN	_	Number=Sing	4	obj	_	_
+4	amagadydo	amagady	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 028.EncIE
+# text = Itamodugodynure
+# text_eng = I am getting old(er)
+# text_por = Estou envelheçendo
+1	Itamodugodynure	amodugody	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	rot	_	_
+
+# sent_id = 029.EncIE
+# text = Pagudawy aigo biri amodugodyre
+# text_eng = 
+# text_por = a nossa esteira de pele de suçuarana está gastando-se
+1	Pagudawy	kuda	ADP	_	Clusivity=In|Number=Sing|Person=1|Nomzr=Rel	4	nsubj	_	_
+2	aigo	aigo	NOUN	_	_	3	nmod	_	_
+3	biri	biri	NOUN	_	Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
+4	amodugodyre	amodugody	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 030.EncIE
+# text = Apogora jiwy amodurewy maky inai
+# text_eng = Give me your used trousers
+# text_por = Dá-me tua calça usada
+1	Apogorajiwy	apogorajiwy	NOUN	_	_	3	nsubj	_	_
+2	amodurewy	amodu	NOUN	_	Mood=Ind|Nomzr=Rel	1	nmod	_	_
+3	maky	_	VERB	_	Number=Sing|Person=3	0	root	_	_
+4	inai	_	ADP	_	Number=Sing|Person=1	3	obl	_	_
+
+# sent_id = 031.EncIE
+# text = Boe er etamydo paga roguto
+# text_eng = 
+# text_por = Os bororo descansaram às margens de um pequeno córrego
+1	Boe	_	NOUN	_	_	3	nsubj	_	_
+2	ere	_	PRON	_	Mood=Ind|Number=Plur|Person=3	3	dep	_	_
+3	etamydo	_	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+4	pagarogu	_	NOUN	_	Degree=Dim|Number=Sing	3	obl	_	_
+5	to	_	ADP	_	Number=Sing|Person=3	4	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
