@@ -4541,7 +4541,7 @@
 # text = Inure itanago imaragodywo
 # text_eng = I'm ready to work
 # text_por = Estou pronto para trabalhar
-1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	_	_	_
+1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	nsubj	_	_
 2	itanago	anago	VERB	_	Number=Sing|Person=1	0	root	_	[];readness;prontidão
 3	imaragodywo	maragody	VERB	_	Mood=Sub|Number=Sing|Person=1	2	ccomp	_	_
 
@@ -4568,7 +4568,7 @@
 # text = Inure itanarido batary ji
 # text_eng = I respect you word(s)
 # text_por = respeito suas palavras
-1	Inure	i	PRON	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	_	_	_
+1	Inure	i	PRON	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	nsubj	_	_
 2	itanarido	anarido	VERB	_	Number=Sing|Person=1|Voice=Cau	0	root	_	[];respect;respeitar
 3	batary	batary	NOUN	_	Poss=Yes	2	obl	_	_
 4	ji	_	ADP	_	Number=Sing|Person=3	3	case	_	_
