@@ -4498,14 +4498,14 @@
 1	Apogorajiwy	apogorajiwy	NOUN	_	_	3	nsubj	_	_
 2	amodurewy	amodu	NOUN	_	Mood=Ind|Nomzr=Rel	1	nmod	_	_
 3	maky	_	VERB	_	Number=Sing|Person=3	0	root	_	_
-4	inai	_	ADP	_	Number=Sing|Person=1	3	obl	_	_
+4	inai	ai	ADP	_	Number=Sing|Person=1	3	obl	_	_
 
 # sent_id = 031.EncIE
 # text = Boe ere etamydo pagarogu to
 # text_eng = 
 # text_por = Os bororo descansaram às margens de um pequeno córrego
-1	Boe	_	NOUN	_	_	3	nsubj	_	_
-2	ere	_	PRON	_	Mood=Ind|Number=Plur|Person=3	3	dep	_	_
+1	Boe	boe	NOUN	_	_	3	nsubj	_	_
+2	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	3	dep	_	_
 3	etamydo	_	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 4	pagarogu	_	NOUN	_	Degree=Dim|Number=Sing	3	obl	_	_
 5	to	_	ADP	_	Number=Sing|Person=3	4	case	_	_
@@ -4514,10 +4514,78 @@
 # text = Areme ere kuiada amydo
 # text_eng = The women petsled corn
 # text_por = As mulheres pilaram o milho
-1	Areme	areme	NOUN	_	Number=Plur	4	nsubj	_	_
-2	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
-3	kuiada	_	NOUN	_	_	4	obj	_	_
-4	amydo	amy	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	[];rest,pestle;descansar,pilar,socar
+1	Areme	areme	NOUN	n	Number=Plur	4	nsubj	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
+3	kuiada	kuiada	NOUN	n	_	4	obj	_	_
+4	amydo	amy	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	[];rest,pestle;descansar,pilar,socar
+
+# sent_id = 033.EncIE
+# text = Itoriga ogware itamydoda keje
+# text_eng = I lost my knife where I spent the night
+# text_por = Perdi minha faca no lugar onde pernoitei
+1	Itoriga	toriga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	ogware	ogwa	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];loose;perder
+3	itamydoda	itamy	NOUN	n	Number=Sing|Person=3	2	obl	_	[];rest;descanso
+4	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 034.EncIE
+# text = Kaiba iwoeiga anare?
+# text_eng = Where is my bow hidden?
+# text_por = Onde está escondido meu arco?
+1	Kaiba	kaiba	ADV	_	_	3	advmod	_	[];where;onde
+2	iwoeiga	boeiga	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	3	nsubj	_	_
+3	anare	ana	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	desire,side,hiding;desejo,lado,escondimento
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 035.EncIE
+# text = Inure itanago imaragodywo
+# text_eng = I'm ready to work
+# text_por = Estou pronto para trabalhar
+1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	_	_	_
+2	itanago	anago	VERB	_	Number=Sing|Person=1	0	root	_	[];readness;prontidão
+3	imaragodywo	maragody	VERB	_	Mood=Sub|Number=Sing|Person=1	2	ccomp	_	_
+
+# sent_id = 036.EncIE
+# text = Icare akanagodyre adygo biri ji
+# text_eng = Then you got a jaguar skin
+# text_por = entao ganhaste urna pele de onça
+1	Icare	icare	ADV	_	_	2	advcl	_	_
+2	akanagodyre	anagody	VERB	_	Mood=Sub|Number=Sing|Person=2	0	root	_	_
+3	adygo	adygo	NOUN	_	_	4	nmod	_	_
+4	biri	biri	NOUN	_	_	2	obl	_	_
+5	ji	ji	ADP	_	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = 037.EncIE
+# text = Imode akanagodydo boeiga ji
+# text_eng = I'll make you win a bow
+# text_por = far-te-ei ganhar um arco
+1	Imode	i	PRON	_	Mood=Ind|Tense=Fut	2	nsubj	_	_
+2	akanagodydo	anagodydo	VERB	_	Number=Sing|Person=2|Voice=Cau	0	root	_	_
+3	boeiga	boeiga	NOUN	_	_	2	obl	_	bow;arco
+4	ji	_	ADP	_	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 038.EncIE
+# text = Inure itanarido batary ji
+# text_eng = I respect you word(s)
+# text_por = respeito suas palavras
+1	Inure	i	PRON	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	_	_	_
+2	itanarido	anarido	VERB	_	Number=Sing|Person=1|Voice=Cau	0	root	_	[];respect;respeitar
+3	batary	batary	NOUN	_	Poss=Yes	2	obl	_	_
+4	ji	_	ADP	_	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 039.EncIE
+# text = Boe maekodyre itada , mare itanarido awadary pemegarewy tabo
+# text_eng = I was sad, but you consoled me with your kind words
+# text_por = estava triste mas tu me consolaste com tuas palavras
+1	Boe	_	NOUN	_	_	2	nsubj	_	_
+2	maekodyre	maekody	VERB	_	Mood=Ind	0	root	_	[];sadness;regret
+3	itada	_	ADP	_	Number=Sing|Person=1	2	obl	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	mare	mare	CCONJ	_	_	6	cc	_	_
+6	itanarido	_	VERB	_	Number=Sing|Person=1|Voice=Cau	2	conj	_	_
+7	awadary	batary	NOUN	_	Number=Sing|Person=2	6	obl	_	_
+8	pemegarewy	pemega	NOUN	_	Mood=Ind|Nomzr=Rel	7	nmod	_	_
+9	tabo	apo	ADP	_	Number=Sing|Person=3	7	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
