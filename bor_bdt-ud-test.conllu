@@ -4529,7 +4529,7 @@
 4	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = 034.EncIE
-# text = Kaiba iwoeiga anare?
+# text = Kaiba iwoeiga anare ?
 # text_eng = Where is my bow hidden?
 # text_por = Onde está escondido meu arco?
 1	Kaiba	kaiba	ADV	_	_	3	advmod	_	[];where;onde
@@ -4586,6 +4586,24 @@
 7	awadary	batary	NOUN	_	Number=Sing|Person=2	6	obl	_	_
 8	pemegarewy	pemega	NOUN	_	Mood=Ind|Nomzr=Rel	7	nmod	_	_
 9	tabo	apo	ADP	_	Number=Sing|Person=3	7	case	_	_
+
+# sent_id = 040.EncIE
+# text = Imode imaragodae aogwadodyrewy iado
+# text_eng = I shall finish the work I interrupted
+# text_por = acabarei o trabalho que interrompi
+1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	4	nsubj	_	_
+2	imaragodae	maragodae	NOUN	_	Number=Sing|Person=1	4	obj	_	_
+3	aogwadodyrewy	_	NOUN	_	Nomzr=Rel	2	acl	_	_
+4	iado	iado	VERB	_	Number=Sing|Person=1|Voice=Cau	0	root	_	[];finish,conclude;acabar,terminar
+
+# sent_id = 041.EncIE
+# text = Awara kodymode itura aokajeje
+# text_eng = The patzh will go around the forest
+# text_por = o caminho contornará a extremidade da floresta
+1	Awara	awara	NOUN	_	_	2	nsubj	_	_
+2	kodymode	kody	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+3	itura	itura	NOUN	_	_	2	obl	_	[];forest;floresta
+4	aokajeje	aokajeje	ADP	_	Number=Sing|Person=3	3	case	_	surround;contornar
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
