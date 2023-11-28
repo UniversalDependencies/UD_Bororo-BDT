@@ -4689,7 +4689,7 @@
 3	atugododyre	_	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	marigudu	_	ADV	_	_	3	advmod	_	_
 
-# sent_id = 050.EncIE
+# sent_id = 051.EncIE
 # text = Areme emode apido kudu awado kidywy
 # text_eng = 
 # text_por = as mulheres esparramarão farinha de estipe de acuri para secar
@@ -4699,6 +4699,15 @@
 4	kudu	kudu	NOUN	n	_	5	obj	_	_
 5	awado	awado	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 6	kidywy	kidy	VERB	v	Mood=Sub|Number=Sing|Person=3	5	ccomp	_	_
+
+# sent_id = 052.EncIE
+# text = Pamode baado toro jaegiri
+# text_eng = We will build a village faw away
+# text_por = Edificaremos uma aldeia lá longe
+1	Pamode	pa	PRON	_	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut	2	nsubj	_	_
+2	baado	baado	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+3	toro	toro	ADV	_	_	2	advmod	_	_
+4	jaegiri	jaegiri	ADV	_	_	2	advmod	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
