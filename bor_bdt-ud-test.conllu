@@ -4598,12 +4598,52 @@
 
 # sent_id = 041.EncIE
 # text = Awara kodymode itura aokajeje
-# text_eng = The patzh will go around the forest
+# text_eng = The path will go around the forest
 # text_por = o caminho contornará a extremidade da floresta
-1	Awara	awara	NOUN	_	_	2	nsubj	_	_
-2	kodymode	kody	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
-3	itura	itura	NOUN	_	_	2	obl	_	[];forest;floresta
-4	aokajeje	aokajeje	ADP	_	Number=Sing|Person=3	3	case	_	surround;contornar
+1	Awara	awara	NOUN	n	_	2	nsubj	_	_
+2	kodymode	kody	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+3	itura	itura	NOUN	n	_	2	obl	_	[];forest;floresta
+4	aokajeje	aokajeje	ADP	posp	Number=Sing|Person=3	3	case	_	surround;contornar
+
+# sent_id = 042.EncIE
+# text = Uwu , atumode mare itao piji karega
+# text_eng = 
+# text_por = Sim, irás, mas nao com minha permissão
+1	Uwu	uwu	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	atumode	tu	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+4	mare	mare	CCONJ	_	_	5	cc	_	_
+5	itao	ao	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	3	conj	_	_
+6	piji	piji	ADP	_	Number=Sing|Person=3	5	case	_	_
+7	karega	karega	ADV	_	Polarity=Neg	5	advmod	_	_
+
+# sent_id = 043.EncIE
+# text = Cemode ipodoge apado
+# text_eng = we will make forks from the supports
+# text_por = Faremos forquilhas dos esteios
+1	Cemode	_	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	_	_	_
+2	ipodoge	_	NOUN	_	Number=Plur	3	_	_	_
+3	apado	_	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 044.EncIE
+# text = Inure kado aparado
+# text_eng = I placed the bambooks apart
+# text_por = Separei os taquaras
+1	Inure	_	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	3	_	_	_
+2	kado	_	NOUN	n	_	3	_	_	_
+3	aparado	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 045.EncIE
+# text = Iedogwa ire itarego bai mana gejewy to
+# text_eng = My grandfather received me in the central house
+# text_por = Meu avô me recebeu na casa central
+1	Iedogwa	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	3	nsubj	_	_
+2	ire	_	PRON	_	Mood=Ind|Number=Sing|Person=1	3	dep	_	_
+3	itarego	_	VERB	_	Number=Sing|Person=1	0	root	_	arrive,receive;chegar,acolher
+4	bai	_	NOUN	_	_	3	obl	_	_
+5	mana	_	NOUN	_	_	4	flat	_	_
+6	gejewy	_	NOUN	_	_	5	flat	_	_
+7	to	_	ADP	_	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
