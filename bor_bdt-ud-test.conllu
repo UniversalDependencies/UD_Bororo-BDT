@@ -4669,7 +4669,7 @@
 1	Jorubo	jorubo	NOUN	_	Poss=Yes	3	nsubj	_	_
 2	ure	u	PRON	_	Mood=Ind|Number=Sing|Person=3	3	dep	_	_
 3	iragi	raki	NOUN	_	_	0	root	_	thinness;magreza
-4	carudo	arudo	ADV	_	Number=Sing|Person=3|Voice=Cau	3	advmod	_	a lot;muito
+4	carudo	arudo	ADV	_	_	3	advmod	_	a lot;muito
 
 # sent_id = 049.EncIE
 # text = Imode aigo biri atugodo
