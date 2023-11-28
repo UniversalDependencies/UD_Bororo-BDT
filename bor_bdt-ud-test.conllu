@@ -4645,6 +4645,14 @@
 6	gejewy	_	NOUN	_	_	5	flat	_	_
 7	to	_	ADP	_	Number=Sing|Person=3	4	case	_	_
 
+# sent_id = 046.EncIE
+# text = Boe etaregody kare roga
+# text_eng = The Bororo have not arrived yet
+# text_por = Os bororo ainda não chegaram
+1	Boe	_	NOUN	_	_	2	nsubj	_	_
+2	etaregodykare	_	NOUN	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
+3	roga	roga	ADV	_	Polarity=Neg	2	advmod	_	yet;ainda não
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
