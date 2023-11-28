@@ -4672,10 +4672,10 @@
 4	carudo	arudo	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 049.EncIE
-# text = Imode aigo biri atugody
+# text = Imode aigo biri atugodo
 # text_eng = 
 # text_por = pintarei a pele de suçuarana
-1	Imode	_	PRON	bi	Mood=Int|Number=Sing|Person=1|Tense=Fut	4	nsubj	_	_
+1	Imode	_	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	4	nsubj	_	_
 2	aigo	_	NOUN	n	Number=Sing	3	nmod	_	_
 3	biri	_	NOUN	n	Number=Sing	4	obj	_	_
 4	atugodo	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
@@ -4708,6 +4708,14 @@
 2	baado	baado	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 3	toro	toro	ADV	_	_	2	advmod	_	_
 4	jaegiri	jaegiri	ADV	_	_	2	advmod	_	_
+
+# sent_id = 053.EncIE
+# text = Pamode baibairewydo pagabo
+# text_eng = We will turn aorund ourselves
+# text_por = Giraremos sobre nós mesmos
+1	Pamode	pa	PRON	_	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut	2	nsubj	_	_
+2	baibairewydo	baibairewy	VERB	_	Number=Plur|Person=3|Nomzr=Rel|Voice=Cau	0	root	_	_
+3	pagabo	apo	ADP	_	Clusivity=In|Mood=Ind|Number=Plur|Person=1	2	obl	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
