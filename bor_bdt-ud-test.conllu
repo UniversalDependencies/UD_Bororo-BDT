@@ -4735,13 +4735,32 @@
 # sent_id = 055.EncIE
 # text = Umode bakurirido itonaregedy ji boecodo tabo
 # text_eng = 
-# text_por = tratará meu filho assoprando sobre ele esta noite
+# text_por = Ele tratará meu filho assoprando sobre ele esta noite
 1	Umode	u	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	nsubj	_	_
-2	bakurirido	_	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
-3	itonaregedy	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
+2	bakurirido	bakuriri	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	ventilation,blow;sopro,ventilação
+3	itonaregedy	onaregedy	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
 4	ji	ji	ADP	_	Number=Sing|Person=3	3	case	_	_
 5	boecodo	boecoto	ADV	_	_	2	obl	_	_
 6	tabo	apo	ADP	_	Number=Sing|Person=3	5	case	_	_
+
+# sent_id = 056.EncIE
+# text = Amode akera bararedo ii
+# text_eng = 
+# text_por = Levante sua mão para mim! (me ajude!)
+1	Amode	a	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	nsubj	_	_
+2	akera	kera	NOUN	_	Number=Sing|Number[psor]=Sing|Person=2	3	obj	_	_
+3	bararedo	barare	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+4	ii	ji	ADP	_	Number=Sing|Person=3	3	obl	_	_
+
+# sent_id = 057.EncIE
+# text = Ipogora baredyrewy koia , inudukare
+# text_eng = 
+# text_por = Não dormi por causa do inchaço na perna
+1	Ipogora	pogora	NOUN	_	Number=Sing|Person=1	5	advcl	_	_
+2	baredyrewy	baredy	NOUN	_	Mood=Ind|Nomzr=Rel	1	acl	_	_
+3	koia	koia	ADP	_	Number=Sing|Person=3	1	mark	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	inudukare	nudu	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
