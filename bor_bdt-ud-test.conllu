@@ -4732,6 +4732,17 @@
 9	bai	_	NOUN	_	_	8	obl	_	_
 10	tada	_	ADP	_	Number=Plur|Person=3	9	case	_	_
 
+# sent_id = 055.EncIE
+# text = Umode bakurirido itonaregedy ji boecodo tabo
+# text_eng = 
+# text_por = tratará meu filho assoprando sobre ele esta noite
+1	Umode	u	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	nsubj	_	_
+2	bakurirido	_	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+3	itonaregedy	_	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
+4	ji	ji	ADP	_	Number=Sing|Person=3	3	case	_	_
+5	boecodo	boecoto	ADV	_	_	2	obl	_	_
+6	tabo	apo	ADP	_	Number=Sing|Person=3	5	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
