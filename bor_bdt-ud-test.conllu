@@ -4786,6 +4786,26 @@
 9	pawadary	batary	NOUN	_	Clusivity=In|Number=Plur|Person=1	10	obj	_	_
 10	aogado	_	VERB	_	Number=Plur|Person=3|Voice=Ca	4	parataxis	_	_
 
+# sent_id = 060.EncIE
+# text = Aigoia are iwadarygo
+# text_eng = Because of you, I spoke
+# text_por = por tua causa falei 
+1	Aigoia	koia	ADP	_	Number=Sing|Person=2	3	obl	_	_
+2	are	a	PRON	_	Mood=Ind|Number=Sing|Person=2	3	nsubj	_	_
+3	iwadarygo	batary	VERB	_	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+
+# sent_id = 061.EncIE
+# text = Tabagudukaba : imodykare boe eimejerage ewadarygo ii
+# text_eng = Do not wory, I'll not make the chiefs of the Bororo speak harsh to me
+# text_por = nao vos preocupeis: nao permitirei que os chefes falem irados comigo
+1	Tabagudukaba	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	imodykare	_	PRON	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	6	nsubj	_	_
+4	boe	boe	NOUN	_	_	5	nmod	_	_
+5	eimejerage	eimejera	NOUN	_	Number=Plur	6	obj	_	_
+6	ewadarygo	batary	VERB	_	Number=Plur|Person=3|Voice=Cau	1	parataxis	_	_
+7	ii	ji	ADP	_	Number=Sing|Person=1	6	obl	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
@@ -6109,8 +6129,8 @@
 # text = Uo akore : kajao kodymodykare roga . Gu
 # text_eng =
 # text_por =
-1	Uo	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	2	nsubj	_	_
-2	akore	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+1	Uo	o	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	2	nsubj	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	:	:	PUNCT	punct	_	2	punct	_	_
 4	kajao	kajao	ADV	adv	_	5	advmod	_	_
 5	kodymodykare	kody	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	2	ccomp	_	_
@@ -6124,7 +6144,7 @@
 # text_por = Pouco depois, falou a seu pai novemente; disse:meu pai, vamos fazer aquela arraia, e estraá pronata
 1	Biaga	biaga	ADV	adv	_	3	advmod	_	_
 2	tuje	_	X	x	_	1	dep	_	_
-3	dykejere	_	ADV	adv	Mood=Ind	4	advmod	_	_
+3	dykejere	dykeje	ADV	adv	Mood=Ind	4	advmod	_	_
 4	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	tuo	o	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3|Reflex=Yes	4	obl	_	_
 6	ai	ai	ADP	posp	Number=Sing|Person=3	5	case	_	_
@@ -6132,12 +6152,12 @@
 8	;	;	PUNCT	punct	_	4	punct	_	_
 9	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	4	parataxis	_	_
 10	:	:	PUNCT	punct	_	9	punct	_	_
-11	iogwa	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	15	vocative	_	_
-12	pawo	_	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	_
+11	iogwa	o	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	15	vocative	_	_
+12	pawo	pa	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	_
 13	ecewy	ecewy	DET	_	_	14	det	_	_
-14	meru	_	NOUN	n	_	15	obj	_	_
-15	tawyje	_	VERB	v	Number=Sing|Person=3	9	ccomp	_	_
-16	icare	_	ADV	adv	_	17	advmod	_	_
+14	meru	meru	NOUN	n	_	15	obj	_	_
+15	tawyje	tawyje	VERB	v	Number=Sing|Person=3	9	ccomp	_	_
+16	icare	icare	ADV	adv	_	17	advmod	_	_
 17	kodymode	_	VERB	v	Mood=Ind|Tense=Fut	15	parataxis	_	_
 
 # sent_id = NT.CG.Jo.8-23
@@ -6208,7 +6228,7 @@
 # text_por = Eu disse que vocês morrerão em seus pecados. Se vocês não crerem que Eu Sou, de fato morrerão em seus pecados
 1	Inagore	ako	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	tai	ji	ADP	posp	Number=Plur|Person=2	1	obl	_	_
-3	tawimodyie	_	VERB	v	Number=Plur|Person=2|Speech=Ind|Tense=Fut	1	ccomp	_	_
+3	tawimodyie	bi	VERB	v	Number=Plur|Person=2|Speech=Ind|Tense=Fut	1	ccomp	_	_
 4	taro	ro	NOUN	n	Number=Plur|Person=2	3	obl	_	_
 5	pegarewy	pega	NOUN	n	Nomzr=Rel	4	nmod	_	_
 6	tadaduji	_	NOUN	n	_	3	obl	_	_
@@ -6219,11 +6239,11 @@
 11	,	,	PUNCT	punct	_	9	punct	_	_
 12	tameartorumodykare	meartoru	VERB	v	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut	17	advcl	_	[];belief,beleive;crença,crer
 13	imie	_	PRON	_	Number=Sing|Person=1	12	ccomp	_	_
-14	rugadu	_	ADV	adv	_	13	advmod	_	_
+14	rugadu	rugadu	ADV	adv	_	13	advmod	_	_
 15	ma	ma	SCONJ	sconj	_	12	mark	_	_
 16	,	,	PUNCT	punct	_	12	punct	_	_
 17	tawimode	bi	VERB	v	Number=Plur|Person=2|Tense=Fut	3	ccomp	_	_
-18	taro	_	NOUN	n	Number=Plur|Person=2	17	obl	_	_
+18	taro	ro	NOUN	n	Number=Plur|Person=2	17	obl	_	_
 19	pegarewy	pega	NOUN	n	Nomzr=Rel	18	nmod	_	_
-20	tada	_	ADP	posp	_	18	case	_	_
+20	tada	tada	ADP	posp	_	18	case	_	_
 
