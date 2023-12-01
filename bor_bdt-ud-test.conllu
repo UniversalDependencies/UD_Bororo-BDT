@@ -4841,13 +4841,13 @@
 # text = Tadugukaba iwadaru kuda
 # text_eng = Do not disobey me!
 # text_por = Não me desobedeçais
-1	Tadugukaba	tugu	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	0	root	_	_
+1	Tadugukaba	tugu	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	0	root	_	cloud,shadow,suspicion;nuvem,sombra,suspeita
 2	iwadaru	bataru	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	1	obl	_	_
-3	kuda	kuda	ADP	_	Number=Sing|Person=3	2	case	_	_
+3	kuda	kuda	ADP	_	Number=Sing|Person=3	2	case	_	below;de baixo,em baixo
 
 # sent_id = 066.EncIE
 # text = Tagaba tawadaru okeado pao pega magei
-# text_eng = DO not mock our elders
+# text_eng = Do not mock our elders
 # text_por = Não zombeis de nossos velhos
 1	Tagaba	ta	PRON	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	3	nsubj	_	_
 2	tawadaru	_	NOUN	_	Number=Sing|Number[psor]=Plur|Person=2	3	obj	_	_
@@ -4856,6 +4856,28 @@
 5	pega	_	NOUN	_	_	4	flat	_	_
 6	mage	_	X	_	Number=Plur	4	dep	_	_
 7	ei	ji	ADP	_	Number=Plur|Person=3	4	case	_	_
+
+# sent_id = 067.EncIE
+# text = Boeco paru tabo bari umode tuwadaru okwarido ki ji
+# text_eng = 
+# text_por = O xama dos espíritos oferecerá carne de anta na boca da noite.
+1	Boeco	boeco	NOUN	n	_	2	nmod	_	_
+2	paru	paru	NOUN	n	_	7	obl	_	_
+3	tabo	apo	ADP	posp	Reflex=Yes	2	case	_	_
+4	bari	bari	NOUN	_	_	7	nsubj	_	_
+5	umode	u	PRON	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	7	dep	_	_
+6	tuwadaru	bataru	NOUN	_	Number=Sing|Person=3|Reflex=Yes	7	dep	_	_
+7	okwarido	_	VERB	_	Voice=Cau	0	root	_	_
+8	ki	ki	NOUN	_	_	7	obl	_	_
+9	ji	ji	ADP	_	Number=Plur|Person=3	8	case	_	_
+
+# sent_id = 067.EncIE
+# text = Tare iwadaru pegado
+# text_eng = YOu made me speak wrongly
+# text_por = Me fizeste falar mal (errado)
+1	Tare	ta	PRON	_	Mood=Ind|Number=Plur|Person=2	3	_	_	_
+2	iwadaru	bataru	NOUN	_	Number=Sing|Number[psor]=Plur|Person=1	3	_	_	_
+3	pegado	pega	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
