@@ -4873,11 +4873,20 @@
 
 # sent_id = 067.EncIE
 # text = Tare iwadaru pegado
-# text_eng = YOu made me speak wrongly
+# text_eng = You made me speak wrongly
 # text_por = Me fizeste falar mal (errado)
 1	Tare	ta	PRON	_	Mood=Ind|Number=Plur|Person=2	3	_	_	_
 2	iwadaru	bataru	NOUN	_	Number=Sing|Number[psor]=Plur|Person=1	3	_	_	_
 3	pegado	pega	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 068.EncIE
+# text = Ikuri kugudugody , itowearigodynure
+# text_eng = I am nauseated and am about to throuw up
+# text_por = Estou enjoado e tenho vontade de vomitar
+1	Ikuri	kuri	NOUN	_	Number=Plur|Person=1	2	nsubj	_	chest,belly;barriga
+2	kugudugody	kugudy	VERB	_	_	0	root	_	nausea;náusea
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	itowearigodynure	bearigody	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	parataxis	_	be about to vomit;estar por vomitar
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
