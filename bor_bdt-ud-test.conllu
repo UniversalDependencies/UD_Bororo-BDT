@@ -4916,7 +4916,7 @@
 # text_por = Estou suado por causa do excessivo calor
 1	Boerunure	boeeru	NOUN	n	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	0	root	_	[ɓɔˈɛːɾu];heat;calor
 2	ii	ji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
-3	boe	boe	NOUN	n	_	4	_	_	_
+3	boe	boe	NOUN	n	_	4	nmod	_	_
 4	beredu	beredu	NOUN	n	_	1	obl	_	[];heat;calor
 5	kodi	kodi	ADP	posp	_	4	case	_	_
 
@@ -4964,14 +4964,25 @@
 
 # sent_id = 077.EncIE
 # text = Kaiba are ike mearogu biado ?
-# text_eng = Where did ou hide my smakk cigar?
+# text_eng = Where did ou hide my small cigar?
 # text_por = Onde você escondeu meu cigarinho?
 1	Kaiba	kaiba	ADV	adv	PronType=Int	5	advmod	_	_
 2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	5	nsubj	_	_
-3	ike	ke	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	4	nmod	_	_
-4	mearogu	mea	NOUN	_	Degree=Dim	5	obj	_	_
-5	biado	bia	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	[];hide;escodimento
-6	?	?	PUNCT	_	_	5	punct	_	_
+3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	nmod	_	_
+4	mearogu	mea	NOUN	n	Degree=Dim	5	obj	_	_
+5	biado	bia	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	[];hide;escodimento
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = 078.EncIE
+# text = Kodiba are ike biagado ?
+# text_eng = 
+# text_por = Porque diminuiste minha comida?
+1	Kodiba	kodiba	ADV	_	_	4	_	_	_
+2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	_	_	_
+3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	_	_	_
+4	biagado	biagado	VERB	n	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
