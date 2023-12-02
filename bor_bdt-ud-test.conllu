@@ -4912,7 +4912,7 @@
 
 # sent_id = 072.EncIE
 # text = Boerunure ii boe beredu kodi
-# text_eng = 
+# text_eng = I am sweating due to the heat
 # text_por = Estou suado por causa do excessivo calor
 1	Boerunure	boeeru	NOUN	n	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	0	root	_	[ɓɔˈɛːɾu];heat;calor
 2	ii	ji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
@@ -4926,7 +4926,7 @@
 # text_por = Olha se a água está fervendo. Logo, está para ferver
 1	Akaiwodo	aiwo	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	observe;look at;olhar,observar
 2	pobo	pobo	NOUN	n	_	3	nsubj	_	_
-3	beregody	bere	VERB	v	_	1	cc	_	_
+3	beregody	bere	VERB	v	_	1	ccomp	_	_
 4	dybogai	dybogai	SCONJ	sconj	_	3	mark	_	_
 5	;	;	PUNCT	punct	_	1	punct	_	_
 6	kodomai	kodomai	ADV	adv	_	1	parataxis	_	_
@@ -4937,13 +4937,31 @@
 # text = Ike betyre ? Uwy , ire betydo
 # text_eng = Is my food sweet? Yes, I have sweetened it
 # text_por = Miha comida está doce? Sim, eu a adocei
-1	Ike	ke	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	betyre	bety	NOUN	_	Mood=Ind	0	root	_	_
-3	?	?	PUNCT	_	_	2	punct	_	_
-4	Uwy	uwy	ADV	_	_	7	advmod	_	_
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	ire	_	PRON	_	Mood=Ind|Number=Sing|Person=1	7	nsubj	_	_
-7	betydo	bety	VERB	_	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
+1	Ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	betyre	bety	NOUN	n	Mood=Ind	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+4	Uwy	uwy	ADV	adv	_	7	advmod	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ire	_	PRON	bi	Mood=Ind|Number=Sing|Person=1	7	nsubj	_	_
+7	betydo	bety	VERB	v	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
+
+# sent_id = 075.EncIE
+# text = Imuga bire mare jewodyre
+# text_eng = My mother fainted, but came back to senses
+# text_por = minha mae desmaiou, mas voltou a si
+1	Imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	bire	bi	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	mare	mare	CCONJ	cconj	_	4	cc	_	_
+4	jewodyre	jewody	VERB	v	Number=Sing|Person=3	2	conj	_	_
+
+# sent_id = 076.EncIE
+# text = Iwia bytymode awadaru keje
+# text_eng = I shall remember (fall in the ears) your words
+# text_por = Lembrarei (queda na minha orelha) de tuas palavras
+1	Iwia	bia	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	bytymode	byty	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+3	awadaru	batru	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	obl	_	_
+4	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
