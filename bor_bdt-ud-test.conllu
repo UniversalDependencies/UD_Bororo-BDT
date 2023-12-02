@@ -2047,7 +2047,7 @@
 # text_por = João e Maria chegaram
 1	João	João	PROPN	propn	_	3	nsubj	_	[];;
 2	Maria	Maria	PROPN	propn	_	1	conj	_	[];;
-3	etaregodyre	arego	VERB	v	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	arrive;chegar
+3	etaregodyre	arego	VERB	v	Mood=Ind|Number[subj]=Plur|Person[subj]=3	0	root	_	arrive;chegar
 
 # sent_id = ABE-333
 # text = ibai pemegamodykare
@@ -2062,7 +2062,7 @@
 # text_por = João e Maria chegaram bem
 1	João	João	PROPN	propn	_	3	nsubj	_	[];;
 2	Maria	Maria	PROPN	propn	_	1	conj	_	[];;
-3	etaregody	arego	VERB	v	Number[subj]=Plur|Person[subj]=3|Voice=Antip	0	root	_	bring;trazer
+3	etaregody	arego	VERB	v	Number[subj]=Plur|Person[subj]=3	0	root	_	bring;trazer
 4	pemegare	pemega	ADV	adv	Mood=Ind	3	advmod	_	good,well;bom,bem
 
 # sent_id = ABE-336
@@ -2095,7 +2095,7 @@
 # text_eng = We ran
 # text_por = Nós corremos
 1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	we.inclusive;nós.inclusivo
-2	parekodyre	reko	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Voice=Antip	0	root	_	[];;
+2	parekodyre	reko	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	0	root	_	[];;
 
 # sent_id = ABE-341
 # text = Fabrício ure pagi papagudugo
@@ -2111,7 +2111,7 @@
 # text_eng = We yelled
 # text_por = Nós gritamos
 1	Pagi	pagi	PRON	pron	Clusivity=In|Number[subj]=Plur|Person[subj]=1|PronType=Prs	2	nsubj	_	[];;
-2	pabagudugodyre	pagudugo	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Voice=Antip	0	root	_	[];;
+2	pabagudugodyre	pagudugo	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	0	root	_	[];;
 
 # sent_id = ABE-343
 # text = umode taredo
@@ -3214,10 +3214,10 @@
 6	dyto	dyto	X	x	_	4	dep	_	[];;
 
 # sent_id = 0067p.PessGr
-# text = Iwiagodure amagore inaidy piji
+# text = Iwiagodyre amagore inaidy piji
 # text_eng = I forgot that which you told me
 # text_por = Esqueci aquilo que você me falou
-1	Iwiagodure	biagodu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
+1	Iwiagodyre	biagody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	amagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=2	1	ccomp	_	[];;
 3	inaidy	ai	ADP	posp	Nomzr=Rel|Number=Sing|Person=2	2	obl	_	[];;
 4	piji	piji	ADP	posp	_	1	obl	_	[];;
@@ -3445,7 +3445,7 @@
 
 # sent_id = 0076a.PessGr
 # text = Ure ki bito
-# text_eng = 
+# text_eng = He killed the tapir
 # text_por = Ele matou a onça
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	[];;
 2	ki	ki	NOUN	n	_	3	obj	_	[];;
@@ -3453,7 +3453,7 @@
 
 # sent_id = 0076b.PessGr
 # text = Ure bito
-# text_eng = 
+# text_eng = He killed it
 # text_por = Ele a/o matou
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	[];;
 2	bito	bito	VERB	vt	Number=Sing|Person=3	0	root	_	[];;
@@ -4982,6 +4982,61 @@
 3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	obj	_	_
 4	biagado	biagado	VERB	n	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 079.EncIE
+# text = Ikare ake biagado mare apega keje biagadodomode
+# text_eng = 
+# text_por = nao diminuí a tua ração, mas ela será diminuída quando nao te comportares bem
+1	Ikare	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	nsubj	_	_
+2	ake	ke	NOUN	_	Number=Sing|Number[psor]=Sing|Person=2	3	obj	_	_
+3	biagado	biagado	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+4	mare	mare	CCONJ	_	_	7	cc	_	_
+5	apega	pega	NOUN	_	Number=Sing|Number[psor]=Sing|Person=2	7	advmod	_	_
+6	keje	_	SCONJ	_	Number=Sing|Person=3	5	mark	_	_
+7	biagadodomode	_	VERB	_	Mood=Ind|Tense=Fut|Voice=CauPass	3	conj	_	_
+
+# sent_id = 080.EncIE
+# text = Kirabody , mori biagadody , icare imaragodymodykare pugeje
+# text_eng = Fine, you lowered the wage, then I won't work anymore
+# text_por = está bem, diminuiste a paga, por isso nao trabalharei mais
+1	Kirabody	Kirabody	INTJ	intj	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	mori	mori	NOUN	n	_	4	nsubj	_	reward;recompensa
+4	biagadody	biagado	VERB	v	Number=Sing|Person=3|Voice=CauPass	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	icare	icare	ADV	adv	_	7	advmod	_	_
+7	imaragodymodykare	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	4	parataxis	_	_
+8	pugeje	pugeje	ADV	adv	_	7	advmod	_	again,more;mais,de novo
+
+# sent_id = 081.EncIE
+# text = Awiagodykaba ipiji . Uwy , iwiagodymodyka
+# text_eng = 
+# text_por = Nao te esque9as de mim. Sim, nao me esquecere1
+1	Awiagodykaba	biagadody	VERB	v	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	0	root	_	_
+2	ipiji	_	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+4	Uwy	uwy	ADV	adv	_	6	advmod	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	iwiagodymodyka	biagody	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	1	parataxis	_	_
+
+# sent_id = 082.EncIE
+# text = Amode awiagodydo iwadaru piji
+# text_eng = You will forget my words
+# text_por = Esquecerás das minhas palavras
+1	Amode	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|Tense=Fut	2	nsubj	_	_
+2	awiagodydo	biagody	VERB	_	Number=Sing|Person=2|Voice=Cau	0	root	_	_
+3	iwadaru	bataru	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
+4	piji	piji	ADP	_	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 083.EncIE
+# text = Tori koia ire ikerako biagogodo
+# text_eng = I smashed a finger with a stone
+# text_por = Esmaguei-me um dedo com uma pedra.
+1	Tori	tori	NOUN	n	_	5	obl	_	_
+2	koia	koia	ADP	posp	_	1	case	_	_
+3	ire	i	PRON	bi	Number=Sing|Person=1	5	nsubj	_	_
+4	ikerako	kerako	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
+5	biagogodo	biagogo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
