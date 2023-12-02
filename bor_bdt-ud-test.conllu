@@ -4959,8 +4959,8 @@
 # text_eng = I shall remember your words
 # text_por = Lembrarei de tuas palavras
 1	Iwiabytymode	bia	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
-2	awadaru	bataru	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	obl	_	_
-3	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
+2	awadaru	bataru	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	0	obl	_	_
+3	keje	keje	ADP	posp	Number=Sing|Person=3	2	case	_	_
 
 # sent_id = 077.EncIE
 # text = Kaiba are ike mearogu biado ?
