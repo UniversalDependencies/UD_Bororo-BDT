@@ -4977,9 +4977,9 @@
 # text = Kodiba are ike biagado ?
 # text_eng = 
 # text_por = Porque diminuiste minha comida?
-1	Kodiba	kodiba	ADV	_	_	4	_	_	_
-2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	_	_	_
-3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	_	_	_
+1	Kodiba	kodiba	ADV	_	_	4	advmod	_	_
+2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	nsubj	_	_
+3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	onj	_	_
 4	biagado	biagado	VERB	n	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
