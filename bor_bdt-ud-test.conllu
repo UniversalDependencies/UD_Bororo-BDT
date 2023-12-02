@@ -4778,13 +4778,13 @@
 1	Icare	icare	ADV	adv	_	4	advmod	_	[];;
 2	tare	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2	4	nsubj	_	[];;
 3	awadaru	bataru	NOUN	_	_	4	obj	_	[];;
-4	aogado	aogado	VERB	_	Number=Plur|Person=3|Voice=Ca	0	root	_	[];;
+4	aogado	aogado	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	[];;
 5	?	?	PUNCT	_	_	4	punct	_	[];;
 6	Boro	boro	ADV	_	Polarity=Neg	10	advmod	_	[];;
 7	,	,	PUNCT	_	_	10	punct	_	[];;
 8	pamodykare	pa	PRON	_	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Fut	10	nsubj	_	[];;
 9	pawadaru	bataru	NOUN	_	Clusivity=In|Number=Plur|Person=1	10	obj	_	[];;
-10	aogado	_	VERB	_	Number=Plur|Person=3|Voice=Ca	4	parataxis	_	[];;
+10	aogado	_	VERB	_	Number=Plur|Person=3|Voice=Cau	4	parataxis	_	[];;
 
 # sent_id = 060.EncIE
 # text = Aigoia are iwadarugo
@@ -4891,8 +4891,8 @@
 # sent_id = 070.EncIE
 # text = Beo uke jorubo koia , boe ere etowearido boecogody tabo
 # text_eng = 
-# text_por = os bororo excitam-se o vômito com urna raizinha, ao anoitecer
-1	Beo	_	NOUN	_	_	3	nmod	_	[];;fam. Cariamidae
+# text_por = os bororo excitam-se o vômito com uma planta, ao anoitecer
+1	Beo	beo	NOUN	_	_	3	nmod	_	[bɛɔ̯ɔ];fam. Cariamidae;fam. Cariamidae
 2	uke	ke	NOUN	_	Number=Sing|Person=3	3	nmod	_	_
 3	jorubo	jorubo	NOUN	_	_	8	advcl	_	_
 4	koia	koia	ADP	_	Number=Sing|Person=3	3	mark	_	_
