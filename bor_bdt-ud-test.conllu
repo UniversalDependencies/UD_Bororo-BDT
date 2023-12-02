@@ -4956,12 +4956,22 @@
 
 # sent_id = 076.EncIE
 # text = Iwia bytymode awadaru keje
-# text_eng = I shall remember (fall in the ears) your words
-# text_por = Lembrarei (queda na minha orelha) de tuas palavras
-1	Iwia	bia	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	bytymode	byty	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
-3	awadaru	batru	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	obl	_	_
-4	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
+# text_eng = I shall remember your words
+# text_por = Lembrarei de tuas palavras
+1	Iwiabytymode	bia	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+2	awadaru	bataru	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	obl	_	_
+3	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 077.EncIE
+# text = Kaiba are ike mearogu biado ?
+# text_eng = Where did ou hide my smakk cigar?
+# text_por = Onde você escondeu meu cigarinho?
+1	Kaiba	kaiba	ADV	adv	PronType=Int	5	advmod	_	_
+2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	5	nsubj	_	_
+3	ike	ke	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	4	nmod	_	_
+4	mearogu	mea	NOUN	_	Degree=Dim	5	obj	_	_
+5	biado	bia	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	[];hide;escodimento
+6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
