@@ -4846,7 +4846,7 @@
 3	kuda	kuda	ADP	_	Number=Sing|Person=3	2	case	_	below;de baixo,em baixo
 
 # sent_id = 066.EncIE
-# text = Tagaba tawadaru okeado pao pega magei
+# text = Tagaba tawadaru okeado pao pega mage ei
 # text_eng = Do not mock our elders
 # text_por = Não zombeis de nossos velhos
 1	Tagaba	ta	PRON	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	3	nsubj	_	_
@@ -4871,7 +4871,7 @@
 8	ki	ki	NOUN	_	_	7	obl	_	_
 9	ji	ji	ADP	_	Number=Plur|Person=3	8	case	_	_
 
-# sent_id = 067.EncIE
+# sent_id = 068.EncIE
 # text = Tare iwadaru pegado
 # text_eng = You made me speak wrongly
 # text_por = Me fizeste falar mal (errado)
@@ -4879,7 +4879,7 @@
 2	iwadaru	bataru	NOUN	_	Number=Sing|Number[psor]=Plur|Person=1	3	_	_	_
 3	pegado	pega	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 
-# sent_id = 068.EncIE
+# sent_id = 069.EncIE
 # text = Ikuri kugudugody , itowearigodynure
 # text_eng = I am nauseated and am about to throuw up
 # text_por = Estou enjoado e tenho vontade de vomitar
@@ -4887,6 +4887,21 @@
 2	kugudugody	kugudy	VERB	_	_	0	root	_	nausea;náusea
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	itowearigodynure	bearigody	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	parataxis	_	be about to vomit;estar por vomitar
+
+# sent_id = 070.EncIE
+# text = Beo uke jorubo koia , boe ere etowearido boecogody tabo
+# text_eng = 
+# text_por = os bororo excitam-se o vômito com urna raizinha, ao anoitecer
+1	Beo	_	NOUN	_	_	3	nmod	_	[];;fam. Cariamidae
+2	uke	ke	NOUN	_	Number=Sing|Person=3	3	nmod	_	_
+3	jorubo	jorubo	NOUN	_	_	8	advcl	_	_
+4	koia	koia	ADP	_	Number=Sing|Person=3	3	mark	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	boe	boe	NOUN	_	_	8	nsubj	_	_
+7	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
+8	etowearido	bearido	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+9	boecogody	boeco	NOUN	_	_	8	obl	_	_
+10	tabo	apo	ADP	_	Number=Sing|Person=3	9	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
