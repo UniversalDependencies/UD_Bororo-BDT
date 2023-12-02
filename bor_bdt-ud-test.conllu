@@ -4955,7 +4955,7 @@
 4	jewodyre	jewody	VERB	v	Number=Sing|Person=3	2	conj	_	_
 
 # sent_id = 076.EncIE
-# text = Iwia bytymode awadaru keje
+# text = Iwiabytymode awadaru keje
 # text_eng = I shall remember your words
 # text_por = Lembrarei de tuas palavras
 1	Iwiabytymode	bia	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
@@ -4979,7 +4979,7 @@
 # text_por = Porque diminuiste minha comida?
 1	Kodiba	kodiba	ADV	_	_	4	advmod	_	_
 2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	nsubj	_	_
-3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	onj	_	_
+3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	obj	_	_
 4	biagado	biagado	VERB	n	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 5	?	?	PUNCT	punct	_	4	punct	_	_
 
