@@ -4986,13 +4986,13 @@
 # sent_id = 079.EncIE
 # text = Ikare ake biagado mare apega keje biagadodomode
 # text_eng = 
-# text_por = Não diminuí a tua ração, mas ela será diminuída quando nao te comportares bem
+# text_por = Não diminuí a tua ração, mas ela será diminuída quando não te comportares bem
 1	Ikare	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	nsubj	_	_
 2	ake	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	3	obj	_	_
 3	biagado	biagado	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	mare	mare	CCONJ	cconj	_	7	cc	_	_
-5	apega	pega	NOUN	_	Number=Sing|Number[psor]=Sing|Person=2	7	obl	_	_
-6	keje	_	SCONJ	sconj	Number=Sing|Person=3	5	case	_	_
+5	apega	pega	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	7	obl	_	_
+6	keje	keje	SCONJ	sconj	Number=Sing|Person=3	5	case	_	_
 7	biagadodomode	_	VERB	v	Mood=Ind|Tense=Fut|Voice=CauPass	3	conj	_	_
 
 # sent_id = 080.EncIE
@@ -5017,16 +5017,16 @@
 3	.	.	PUNCT	punct	_	1	punct	_	_
 4	Uwy	uwy	ADV	adv	_	6	advmod	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	iwiagodymodyka	biagody	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	1	parataxis	_	_
+6	iwiagodymodyka	biagody	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	1	parataxis	_	_
 
 # sent_id = 082.EncIE
 # text = Amode awiagodydo iwadaru piji
 # text_eng = You will forget my words
 # text_por = Esquecerás das minhas palavras
 1	Amode	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|Tense=Fut	2	nsubj	_	_
-2	awiagodydo	biagody	VERB	_	Number=Sing|Person=2|Voice=Cau	0	root	_	_
-3	iwadaru	bataru	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
-4	piji	piji	ADP	_	Number=Sing|Person=3	3	case	_	_
+2	awiagodydo	biagody	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
+3	iwadaru	bataru	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
+4	piji	piji	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = 083.EncIE
 # text = Tori koia ire ikerako biagogodo
@@ -5037,6 +5037,37 @@
 3	ire	i	PRON	bi	Number=Sing|Person=1	5	nsubj	_	_
 4	ikerako	kerako	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
 5	biagogodo	biagogo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 084.EncIE
+# text = Boe ere bado boeki meki keje
+# text_eng = The Bororo built a village on the side (margin) of the Cerrado
+# text_por = Os bororo construiram uma aldeia às margens (ao lado) do cerrado
+1	Boe	boe	NOUN	n	_	3	nsubj	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	dep	_	_
+3	bado	ba	VERB	v	Voice=Cau	0	root	_	village;aldeia
+4	boeku	boeku	NOUN	n	_	5	nmod	_	;;cerrado
+5	meki	meki	NOUN	n	_	3	obl	_	side,lateral;lado,lateral
+6	keje	keje	ADP	posp	Number=Sing|Person=3	5	case	_	_
+
+# sent_id = 085.EncIE
+# text = Badodymodykare woe boe pegakare kodi
+# text_eng = The village will not be built here, because the place is not good
+# text_por = A aldeia não será construída aqui, porque o lugar não é bom
+1	Badodymodykare	bado	VERB	v	Mood=Ine|Number=Sing|Person=3|Polarity=Neg|Voice=CauPass	0	root	_	_
+2	woe	woe	ADV	adv	_	1	advmod	_	_
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4	pegakare	pega	NOUN	n	Mood=Ind|Polarity=Neg	1	advcl	_	_
+5	kodi	kodi	SCONJ	sconj	_	4	mark	_	_
+
+# sent_id = 086.EncIE
+# text = Tagera redo badody keje pamerumode
+# text_eng = 
+# text_por = Apressai vossas mãos!: quando terminada a aldeia, iremos casa
+1	Tagera	kera	NOUN	n	Number=Sing|Number[psor]=Plur|Person=2	2	obj	_	_
+2	redo	re	VERB	v	Voice=Cau	0	root	_	_
+3	badody	bado	VERB	v	Voice=CauPass	5	advcl	_	_
+4	keje	keje	SCONJ	sconj	_	3	mark	_	_
+5	pamerumode	meru	VERB	v	Mood=Ind|Number=Plur|Person=2|Tense=Fut	2	parataxis	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
