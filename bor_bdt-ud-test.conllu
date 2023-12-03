@@ -5039,7 +5039,7 @@
 5	biagogodo	biagogo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 084.EncIE
-# text = Boe ere bado boeki meki keje
+# text = Boe ere bado boeku meki keje
 # text_eng = The Bororo built a village on the side (margin) of the Cerrado
 # text_por = Os bororo construiram uma aldeia às margens (ao lado) do cerrado
 1	Boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -5053,7 +5053,7 @@
 # text = Badodymodykare woe boe pegakare kodi
 # text_eng = The village will not be built here, because the place is not good
 # text_por = A aldeia não será construída aqui, porque o lugar não é bom
-1	Badodymodykare	bado	VERB	v	Mood=Ine|Number=Sing|Person=3|Polarity=Neg|Voice=CauPass	0	root	_	_
+1	Badodymodykare	bado	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Voice=CauPass	0	root	_	_
 2	woe	woe	ADV	adv	_	1	advmod	_	_
 3	boe	boe	NOUN	n	_	4	nmod	_	_
 4	pegakare	pega	NOUN	n	Mood=Ind|Polarity=Neg	1	advcl	_	_
@@ -5061,13 +5061,45 @@
 
 # sent_id = 086.EncIE
 # text = Tagera redo badody keje pamerumode
-# text_eng = 
-# text_por = Apressai vossas mãos!: quando terminada a aldeia, iremos casa
+# text_eng = Hurry your hands! When the village is finished we shall go home
+# text_por = Apressai vossas mãos! Quando terminada a aldeia, iremos casa
 1	Tagera	kera	NOUN	n	Number=Sing|Number[psor]=Plur|Person=2	2	obj	_	_
 2	redo	re	VERB	v	Voice=Cau	0	root	_	_
 3	badody	bado	VERB	v	Voice=CauPass	5	advcl	_	_
 4	keje	keje	SCONJ	sconj	_	3	mark	_	_
 5	pamerumode	meru	VERB	v	Mood=Ind|Number=Plur|Person=2|Tense=Fut	2	parataxis	_	_
+
+# sent_id = 087.EncIE
+# text = Baru kigadu kodyre bace kigady kori
+# text_eng = The sky clouds are whiter than a heron
+# text_por = As nuvens do céu sao mais brancas que uma garça
+1	Baru	baru	NOUN	v	_	2	nmod	_	_
+2	kigady	kigady	NOUN	n	_	3	nsubj	_	_
+3	kodyre	kody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	bace	bace	NOUN	n	_	5	nmod	_	[];egret,heron (gen. Ardea);garça (gen. Ardea)
+5	kigady	kigady	NOUN	n	_	3	obl	_	_
+6	kori	kori	ADP	posp	_	5	case	_	beyond,more than,mais que, além
+
+# sent_id = 088.EncIE
+# text = Boe ere ipare eno o bado marigudy
+# text_eng = 
+# text_por = Os bororo faz tempo impuseram o estójo peniano aos moços
+1	Boe	boe	NOUN	n	_	6	nsubj	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	_	_	_	_
+3	ipare	_	NOUN	n	_	6	dep	_	_
+4	eno	_	NOUN	n	_	4	obj	_	_
+5	o	_	_	_	_	_	_	_	_
+6	bado	_	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+7	marigudy	marigudy	ADV	adv	_	6	advmod	_	_
+
+# sent_id = 089.EncIE
+# text = Imode awady itugo ji
+# text_eng = I'll have you make an arrow for me
+# text_por = Mandar-te-ei fazer urna flecha para mim
+1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	nsubj	_	_
+2	awado	ba	VERB	_	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+3	itugo	tugo	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
+4	ji	ji	ADP	_	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
