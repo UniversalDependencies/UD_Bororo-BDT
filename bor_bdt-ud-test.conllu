@@ -5070,7 +5070,7 @@
 5	pamerumode	meru	VERB	v	Mood=Ind|Number=Plur|Person=2|Tense=Fut	2	parataxis	_	_
 
 # sent_id = 087.EncIE
-# text = Baru kigadu kodyre bace kigady kori
+# text = Baru kigady kodyre bace kigady kori
 # text_eng = The sky clouds are whiter than a heron
 # text_por = As nuvens do céu sao mais brancas que uma garça
 1	Baru	baru	NOUN	v	_	2	nmod	_	_
@@ -5085,10 +5085,10 @@
 # text_eng = 
 # text_por = Os bororo faz tempo impuseram o estójo peniano aos moços
 1	Boe	boe	NOUN	n	_	6	nsubj	_	_
-2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	_	_	_	_
-3	ipare	_	NOUN	n	_	6	dep	_	_
-4	eno	_	NOUN	n	_	4	obj	_	_
-5	o	_	_	_	_	_	_	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	dep	_	_
+3	ipare	_	NOUN	n	_	4	nmod	_	_
+4	eno	o	NOUN	n	_	5	clf	_	_
+5	o	o	NOUN	n	Poss=Yes	6	obj	_	_
 6	bado	_	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 7	marigudy	marigudy	ADV	adv	_	6	advmod	_	_
 
