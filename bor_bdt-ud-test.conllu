@@ -5138,6 +5138,28 @@
 3	bido	bi	VERB	v	Voice=Cau	0	root	_	_
 4	inuduwo	nudu	VERB	v	Mood=Sub|Number=Sing|Person=1	3	advcl	_	_
 
+# sent_id = 094.EncIE
+# text = Tare boe ekiripagado ? Boro , cemodykare ekiripagado
+# text_eng = Did yo lie? No, we don't lie
+# text_por = Mentistes? Não; não menti(re)mos
+1	Tare	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2	3	nsubj	_	_
+2	boe	boe	NOUN	n	_	3	dep	_	_
+3	ekiripagado	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+4	?	_	PUNCT	punct	_	3	punct	_	_
+5	Boro	boro	ADV	adv	Polarity=Neg	8	advmod	_	_
+6	,	,	PUNCT	punct	_	8	punct	_	_
+7	cemodykare	ce	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Fut	8	nsubj	_	_
+8	ekiripagado	ekiripagado	VERB	v	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	_
+
+# sent_id = 094.EncIE
+# text = Boe ekuri akemore ii
+# text_eng =  I am hungry!
+# text_por = Tenho fome 
+1	Boe	boe	NOUN	n	_	3	dep	_	_
+2	ekuri	kuri	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	3	nmod	_	_
+3	akemore	akemore	NOUN	n	Poss=Yes	0	root	_	_
+4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
