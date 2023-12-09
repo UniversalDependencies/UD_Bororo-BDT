@@ -4977,7 +4977,7 @@
 # text = Kodiba are ike biagado ?
 # text_eng = 
 # text_por = Porque diminuiste minha comida?
-1	Kodiba	kodiba	ADV	_	_	4	advmod	_	_
+1	Kodiba	kodiba	ADV	adv	_	4	advmod	_	_
 2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	nsubj	_	_
 3	ike	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	obj	_	_
 4	biagado	biagado	VERB	n	Number=Sing|Person=3|Voice=Cau	0	root	_	_
@@ -5013,7 +5013,7 @@
 # text_eng = 
 # text_por = Nao te esque9as de mim. Sim, nao me esquecere1
 1	Awiagodykaba	biagadody	VERB	v	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	0	root	_	_
-2	ipiji	_	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+2	ipiji	piji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 4	Uwy	uwy	ADV	adv	_	6	advmod	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
@@ -6608,4 +6608,40 @@
 18	taro	ro	NOUN	n	Number=Plur|Person=2	17	obl	_	[];;
 19	pegarewy	pega	NOUN	n	Nomzr=Rel	18	nmod	_	[];;
 20	tada	tada	ADP	posp	_	18	case	_	[];;
+
+# sent_id = C.O.82-2
+# text = Maereboe okwagere boe jamedy ji kodi . Bope okwagekare pegare boe ji . Baere egoe , boe remawy , bope rakojere kare baru tada : moto kajere , moto kuda rakojere
+# text_eng = 
+# text_por = Porque os maerebe não comem tudo. Os bope não comem coisa ruim. Os bari dizem coisa certa, que os bope não estão no céu, (mas) sobre e sob a terra
+1	Maereboe	maereboe	NOUN	n	_	2	nsubj	_	_
+2	okwagere	okwage	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	boe	boe	NOUN	n	_	2	obl	_	_
+4	jamedy	jamedy	PRON	_	_	3	nmod	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
+6	kodi	kodi	SCONJ	_	_	2	mark	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+8	Bope	bope	NOUN	n	_	9	nsubj	_	_
+9	okwagekare	okwage	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	parataxis	_	_
+10	pegare	pega	ADV	adv	Mood=Ind	11	advmod	_	_
+11	boe	boe	NOUN	n	_	9	obl	_	_
+12	ji	ji	ADP	posp	Number=Plur|Person=3	11	case	_	_
+13	.	.	PUNCT	punct	_	9	punct	_	_
+14	Baere	bari	NOUN	n	Number=Plur	15	nsubj	_	_
+15	egoe	_	VERB	v	Number=Plur|Person=3	2	parataxis	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	boe	boe	NOUN	n	_	15	obj	_	_
+18	remawy	rema	NOUN	n	Nomzr=Rel	17	nmod	_	_
+19	,	,	PUNCT	punct	_	15	punct	_	_
+20	bope	bope	NOUN	n	_	21	nsubj	_	_
+21	rakojere	rakoje	VERB	v	Mood=Ind|Number=Sing|Person=3	15	conj	_	_
+22	kare	_	X	_	Mood=Ind|Polarity=Sing	21	dep	_	_
+23	baru	baru	NOUN	n	_	21	obl	_	_
+24	tada	tada	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	:	:	PUNCT	punct	_	23	punct	_	_
+26	moto	moto	NOUN	n	_	23	obl	_	_
+27	kajere	kaje	ADP	posp	Mood=Ind|Number=Sing|Person=3	26	case	_	_
+28	,	,	PUNCT	punct	_	26	punct	_	_
+29	moto	moto	NOUN	n	Number=Sing	31	obl	_	_
+30	kuda	kuda	ADP	posp	_	29	case	_	_
+31	rakojere	kakoje	VERB	v	Mood=Ind|Number=Sing|Person=3	21	conj	_	_
 
