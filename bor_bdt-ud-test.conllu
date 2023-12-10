@@ -5203,6 +5203,62 @@
 7	akaba	a	PRON	bi	Mood=Imp|Number=Sing|Person=2	8	nsubj	_	_
 8	ipogurudo	pogurudo	VERB	v	Number=Sing|Person=1|Voice=Cau	5	conj	_	embarass;envergonhar
 
+# sent_id = 100.EncIE
+# text = Uw , ire boe pa
+# text_eng = Yes, I understand
+# text_por = Sim, eu entendo
+1	Uw	uw	ADV	adv	_	5	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	5	nsubj	_	_
+4	boe	boe	NOUN	n	_	5	nmod	_	_
+5	pa	pa	NOUN	n	_	0	root	_	_
+
+# sent_id = 101.EncIE
+# text = Tamode boe pado tori kori
+# text_eng = Pass far away, above the hill
+# text_por = Passai ao longe, acima do morro.
+
+1	Tamode	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2|Tense=Fut	3	nsubj	_	_
+2	boe	boe	NOUN	v	_	3	dep	_	_
+3	pado	pa	VERB	n	Voice=Cau	0	root	_	_
+4	tori	tori	NOUN	n	_	3	obl	_	_
+5	kori	kori	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = 102.EncIE
+# text = Itumode bogai
+# text_eng = I'll look for it
+# text_por = Irei procurá-lo
+1	Itumode	tu	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+2	bogai	bogai	ADP	posp	Number=Sing|Person=3	1	obl	_	_
+
+# sent_id = 103.EncIE
+# text = Iogwa makore awogai
+# text_eng = My father spoke to you (my father called you)
+# text_por = Meu pai falou a ti (meu pai mandou-te chamar)
+1	Iogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	awogai	bogai	ADP	posp	Number=Sing|Person=2	2	obl	_	_
+
+# sent_id = 104.EncIE
+# text = Jemarumode bogai
+# text_eng = He will search for something
+# text_por = Ele procurará por algo
+1	Jemarumode	jemaru	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+2	bogai	bogai	ADP	posp	Number=Sing|Person=3	1	obl	_	_
+
+# sent_id = 105.EncIE
+# text = Tagi tagodymode kurije , imi rema ikodymode boi
+# text_eng = Go soon, I'll come afterwards
+# text_por = Ide logo, eu irei depois.
+1	Tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	_	_	_
+2	tagodymode	kody	VERB	v	Mood=Ind|Number=Plur|Person=2|Tense=Fut	0	root	_	_
+3	kurije	kurije	ADV	adv	_	2	_	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	rema	_rema	CCONJ	cconj	_	7	conj	_	_
+7	ikodymode	kody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	conj	_	_
+8	boi	boi	ADV	adv	_	7	advmod	_	last,after;últio,depois
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
