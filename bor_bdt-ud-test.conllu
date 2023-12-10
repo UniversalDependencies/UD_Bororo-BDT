@@ -5254,7 +5254,7 @@
 3	kurije	kurije	ADV	adv	_	2	advmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-6	rema	_rema	CCONJ	cconj	_	7	conj	_	_
+6	rema	_rema	CCONJ	cconj	_	7	cc	_	_
 7	ikodymode	kody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	conj	_	_
 8	boi	boi	ADV	adv	_	7	advmod	_	last,after;últio,depois
 
@@ -5315,7 +5315,7 @@
 7	pui	pui	ADP	posp	Reflex=Yes	6	case	_	[];;
 
 # sent_id = 005.KJB
-# text = Konorigi akore : woere amugure tu , woe awy i paru , imire iedumode i paru to , pagaiwo birigodywo tu pujoku to
+# text = Konorigi akore : woere amugure ty , woe awy i paru , imire iedumode i paru to , pagaiwo birigodywo tu pujoku to
 # text_eng = 
 # text_por = A cigarra falou: senta aqui, aqui ao pé desta árvore; eu mesma me agarrarei no pé da árvore; olhemo-nos um ao outro com honestidade nos olhos
 1	Konorigi	konorigi	NOUN	n	_	2	nsubj	_	[];cicada;cigarra
@@ -6724,7 +6724,7 @@
 19	,	,	PUNCT	punct	_	15	punct	_	_
 20	bope	bope	NOUN	n	_	21	nsubj	_	_
 21	rakojere	rakoje	VERB	v	Mood=Ind|Number=Sing|Person=3	15	conj	_	_
-22	kare	_	X	_	Mood=Ind|Polarity=Sing	21	dep	_	_
+22	kare	_	X	_	Mood=Ind|Polarity=Neg	21	dep	_	_
 23	baru	baru	NOUN	n	_	21	obl	_	_
 24	tada	tada	ADP	posp	Number=Sing|Person=3	23	case	_	_
 25	:	:	PUNCT	punct	_	23	punct	_	_
