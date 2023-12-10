@@ -5258,6 +5258,20 @@
 7	ikodymode	kody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	conj	_	_
 8	boi	boi	ADV	adv	_	7	advmod	_	last,after;últio,depois
 
+# sent_id = 106.EncIE
+# text = Jugo kody boimode ai ? Uw , boire ii
+# text_eng = DO you want to eat wild boar meet? Yes, I want it
+# text_por = Tens vontade de comer carne de queixada? Sim, tenho
+1	Jugo	jugo	NOUN	n	_	2	nmod	_	_
+2	kody	kody	NOUN	n	_	3	nmod	_	_
+3	boimode	boimode	NOUN	n	Mood=Ind|Tense=Fut	0	root	_	_
+4	ai	ji	ADP	posp	Number=Sing|Person=2	3	obl	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+6	Uw	uw	ADV	adv	_	8	advmod	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	boire	boi	VERB	v	Mood=Ind	3	parataxis	_	_
+9	ii	ji	ADP	posp	Number=Sing|Person=1	8	obl	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
