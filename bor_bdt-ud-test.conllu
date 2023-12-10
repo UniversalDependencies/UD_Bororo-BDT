@@ -5169,16 +5169,16 @@
 3	ii	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = 097.EncIE
-# text = Boe epadody keje , pamode kiada tugu
+# text = Boe epadody keje , pamode kuiada tugu
 # text_eng = We shall plant maize once the slash is prepared
 # text_por = Vamos plantar milho quando a roça estiver pronta
-1	Boe	boe	NOUN	_	_	2	nsubj	_	_
-2	epadody	epa	VERB	_	Voice=CauPass	7	advcl	_	_
-3	keje	keje	SCONJ	_	_	2	mark	_	[];;
-4	,	,	PUNCT	_	_	2	punct	_	_
+1	Boe	boe	NOUN	n	_	2	nsubj	_	_
+2	epadody	epa	VERB	v	Voice=CauPass	7	advcl	_	_
+3	keje	keje	SCONJ	sconj	_	2	mark	_	[];;
+4	,	,	PUNCT	punct	_	2	punct	_	_
 5	pamode	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut	7	nsubj	_	[];;
-6	kuiada	kuiada	NOUN	_	_	7	obj	_	[];;
-7	tugu	tugu	VERB	_	Number=Sing|Person=3	0	root	_	[];;
+6	kuiada	kuiada	NOUN	n	_	7	obj	_	[];;
+7	tugu	tugu	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 
 # sent_id = 098.EncIE
 # text = Baru kigady bace kigady kori
@@ -5217,7 +5217,6 @@
 # text = Tamode boe pado tori kori
 # text_eng = Pass far away, above the hill
 # text_por = Passai ao longe, acima do morro.
-
 1	Tamode	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2|Tense=Fut	3	nsubj	_	_
 2	boe	boe	NOUN	v	_	3	dep	_	_
 3	pado	pa	VERB	n	Voice=Cau	0	root	_	_
@@ -5250,9 +5249,9 @@
 # text = Tagi tagodymode kurije , imi rema ikodymode boi
 # text_eng = Go soon, I'll come afterwards
 # text_por = Ide logo, eu irei depois.
-1	Tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	_	_	_
+1	Tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	tagodymode	kody	VERB	v	Mood=Ind|Number=Plur|Person=2|Tense=Fut	0	root	_	_
-3	kurije	kurije	ADV	adv	_	2	_	_	_
+3	kurije	kurije	ADV	adv	_	2	advmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	rema	_rema	CCONJ	cconj	_	7	conj	_	_
