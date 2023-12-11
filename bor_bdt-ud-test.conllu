@@ -5260,7 +5260,7 @@
 
 # sent_id = 106.EncIE
 # text = Jugo kody boimode ai ? Uw , boire ii
-# text_eng = DO you want to eat wild boar meet? Yes, I want it
+# text_eng = Do you want to eat wild boar meet? Yes, I want it
 # text_por = Tens vontade de comer carne de queixada? Sim, tenho
 1	Jugo	jugo	NOUN	n	_	2	nmod	_	_
 2	kody	kody	NOUN	n	_	3	nmod	_	_
@@ -5271,6 +5271,24 @@
 7	,	,	PUNCT	punct	_	6	punct	_	_
 8	boire	boi	VERB	v	Mood=Ind	3	parataxis	_	_
 9	ii	ji	ADP	posp	Number=Sing|Person=1	8	obl	_	_
+
+# sent_id = 107.EncIE
+# text = Boigodynure ii
+# text_eng = I want to eat (I wish to feed myself)
+# text_por = Desejo alimentar-me
+1	Boigodynure	Boigody	VERB	v	Aspect=Prog|Mood=Ind|Voice=CauInc	0	root	_	_
+2	ii	ji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+
+# sent_id = 108.EncIE
+# text = Inure bokugedo kare boire ii kodi
+# text_eng = 
+# text_por = apronto a isca porque desejo peixes
+1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind	2	nsubj	_	_
+2	bokugedo	bokuge	VERB	v	Voice=Cau	0	root	_	[];;isca para peixe
+3	kare	karo	NOUN	n	Number=Plur	4	nmod	_	_
+4	boire	boi	NOUN	n	Mood=Ind	2	advcl	_	_
+5	ii	ji	ADP	posp	Number=Sing|Person=1	4	case	_	_
+6	kodi	kodi	SCONJ	sconj	_	4	mark	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
