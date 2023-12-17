@@ -443,6 +443,54 @@
 3	je	je	ADV	adv	_	1	advmod	_	[];;
 4	!	!	PUNCT	punct	_	1	punct	_	[];;
 
+# sent_id = FWFFG-0103
+# text = Dieru makudure Fabrício ai mare boe erydykare ji pygeje
+# text_eng = The money was given to Fabrício, but it wasn't seen anymore
+# text_por = O dinheiro foi dado a Fabrício, mas não foi mais visto
+1	Dieru	dieru	NOUN	_	_	2	nsubj	_	_
+2	makudure	maku	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	_
+3	Fabrício	Fabrício	PROPN	_	_	2	obl	_	_
+4	ai	ji	ADP	_	Number=Sing|Person=2	3	case	_	_
+5	mare	mare	CCONJ	_	_	7	cc	_	_
+6	boe	boe	NOUN	_	_	7	nsubj	_	_
+7	erydykare	jorydy	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	2	conj	_	_
+8	ji	ji	ADP	_	Number=Sing|Person=3	7	obl	_	_
+9	pygeje	pygeje	ADV	_	_	7	advmod	_	_
+
+# sent_id = FWFFG-0105
+# text = Atumode barogwato dykeje itumode jamedu
+# text_eng = 
+# text_por = Se você vier amanhã, eu irei também
+1	Atumode	tu	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	advcl	_	_
+2	barogwato	barogwato	ADV	_	_	1	advmod	_	_
+3	dykeje	dykeje	SCONJ	_	_	1	mark	_	_
+4	itumode	tu	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+5	jamedu	jamedu	ADV	_	_	4	advmod	_	_
+
+# sent_id = FWFFG-0106
+# text = João ogwarire dykeje ure tugerago maridoji
+# text_eng = 
+# text_por = João sorriu e pegou o Buriti
+1	João	João	PROPN	_	_	2	nsubj	_	_
+2	ogwarire	ogwa	VERB	_	Mood=Ind|Number=Sing|Person=3	5	advcl	_	_
+3	dykeje	dykeje	SCONJ	_	_	2	mark	_	_
+4	ure	u	PRON	_	Number=Sing|Person=3	5	nsubj	_	_
+5	tugerago	_	VERB	_	Number=Sing|Person=3	0	root	_	_
+6	marido	marido	NOUN	_	_	5	obl	_	_
+7	ji	ji	ADP	_	Number=Sing|Person=3	6	case	_	_
+
+# sent_id = FWFFG-0107
+# text = Akaregodumode jawy meriji dy ma ikodymode jamedu
+# text_eng = 
+# text_por = Se você tivesse ido ontem, eu teria ido também
+1	Akaregodumode	aregodu	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	6	advcl	_	_
+2	jawy	jawy	ADV	_	_	3	advmod	_	_
+3	meriji	meriji	ADV	_	_	1	advmod	_	_
+4	dy	dy	X	_	_	1	dep	_	_
+5	ma	ma	X	_	_	1	mark	_	_
+6	ikodymode	kody	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+7	jamedu	jamedu	ADV	_	_	6	advmod	_	_
+
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng = 
