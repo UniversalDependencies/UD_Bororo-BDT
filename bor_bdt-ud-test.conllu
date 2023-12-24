@@ -5367,14 +5367,59 @@
 
 # sent_id = 108.EncIE
 # text = Inure bokugedo kare boire ii kodi
-# text_eng = 
-# text_por = apronto a isca porque desejo peixes
+# text_eng = I prepare the bait becasue I want fish
+# text_por = Apronto a isca porque desejo peixes
 1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind	2	nsubj	_	_
 2	bokugedo	bokuge	VERB	v	Voice=Cau	0	root	_	[];;isca para peixe
 3	kare	karo	NOUN	n	Number=Plur	4	nmod	_	_
 4	boire	boi	NOUN	n	Mood=Ind	2	advcl	_	_
 5	ii	ji	ADP	posp	Number=Sing|Person=1	4	case	_	_
 6	kodi	kodi	SCONJ	sconj	_	4	mark	_	_
+
+# sent_id = 109.EncIE
+# text = Itore kugure awyge eiamedy etupegago
+# text_eng = This is the last born of all my children
+# text_por = Este é mesmo o último nascido de todos os meus filhos
+
+# sent_id = 110.EncIE
+# text = Bybyty aregody , ma icare kuiada tugudodykare roga
+# text_eng = It rained a lot but the maize as hot been planted yet
+# text_por = Choveu, mas o milho ainda nao foi plantado
+1	Bybyty	bybyty	NOUN	_	_	2	nsubj	_	_
+2	aregody	aregody	VERB	_	Number=Sing|Person=3	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ma	mare	CCONJ	_	_	7	cc	_	_
+5	icare	icare	ADV	_	_	7	advmod	_	_
+6	kuiada	kuiada	NOUN	_	_	7	nsubj	_	_
+7	tugudodykare	tugu	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Voice=CauPass	2	conj	_	_
+8	roga	roga	ADV	_	_	7	advmod	_	[];still;ainda
+
+# sent_id = 111.EncIE
+# text = Akorodoi amode itugugo
+# text_eng = Move, you are blocking the light
+# text_por = Afasta-te para nao me fazer sombra
+1	Akorodoi	orodo	VERB	_	Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	amode	a	PRON	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	nsubj	_	_
+4	itugugo	tugo	VERB	_	Number=Sing|Person=1|Voice=Cau	1	parataxis	_	[];shadow;sombra
+
+# sent_id = 112.EncIE
+# text = Itugugunure imeruji
+# text_eng = I am ready to hunt
+# text_por = Estou pronto para caçar
+1	Itugugunure	tugugu	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+2	imeru	meru	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	1	obl	_	_
+3	ji	ji	NOUN	_	Number=Sing|Person=3	2	case	_	_
+
+# sent_id = 113.EncIE
+# text = Tamode tadugugudo boe ewogy ji
+# text_eng = get ready to fish with a fishhook
+# text_por = Aprontai-vos para pescar com anzol
+1	Tamode	ta	PRON	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut	2	nsubj	_	_
+2	tadugugudo	tugugu	VERB	_	Number=Plur|Person=2|Voice=Cau	0	root	_	_
+3	boe	boe	NOUN	_	_	4	nmod	_	_
+4	ewogy	ewogyre	NOUN	_	Number=Plur|Person=3	2	obl	_	_
+5	ji	ji	ADP	_	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
@@ -6178,6 +6223,19 @@
 3	tu	tu	ADV	_	_	2	advmod	_	_
 4	ji	ji	ADP	_	Number=Sing|Person=3	2	case	_	_
 5	tu	tu	ADV	_	_	2	discourse	_	_
+
+# sent_id = 044.IETKB
+# text = Dukejere icare ure ja kudo otoguru kure
+# text_eng = 
+# text_por = E então ela fez sangrar a boca dele
+1	Dukejere	Dukejere	ADV	_	_	5	advmod	_	_
+2	icare	icare	ADV	_	_	5	advmod	_	_
+3	ure	ure	PRON	_	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
+4	ja	ja	NOUN	_	Number=Sing|Person=3	5	obj	_	_'
+5	kudo	kudo	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	[ku'ddo];;
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	otoguru	otoguru	NOUN	_	_	8	nsubj	_	_
+8	kure	ku	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
 
 # sent_id = 001.dialogomulherAeB
 # text = Kocare ure tugogedy ukare parydywado ukare pawiie
