@@ -5421,6 +5421,24 @@
 4	ewogy	ewogyre	NOUN	_	Number=Plur|Person=3	2	obl	_	_
 5	ji	ji	ADP	_	Number=Sing|Person=3	4	case	_	_
 
+# sent_id = 114.EncIE
+# text = Itygy rai cigore
+# text_eng = 
+# text_por = Minha sombra é muito comprida
+1	Itygy	tygy	NOUN	_	Number=Plur|Number[psor]=Plur|Person=1	2	nmod	_	_
+2	rai	rai	NOUN	_	_	3	nsubj	_	_
+3	cigore	cigo	NOUN	_	Mood=Ind	0	root	_	_
+
+# sent_id = 115.EncIE
+# text = Boe tygynure kodire boeru bokware
+# text_eng = 
+# text_por = O tempo é nublado por isso nao faz calor 
+1	Boe	boe	NOUN	_	_	2	nsubj	_	_
+2	tygynure	tygy	NOUN	_	Mood=Ind	4	advcl	_	_
+3	kodire	kodi	SCONJ	_	Mood=Ind	2	mark	_	_
+4	boeru	boeru	NOUN	_	_	0	root	_	_
+5	bokware	bokwa	X	_	Mood=Ind|Polarity=Neg	4	dep	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
