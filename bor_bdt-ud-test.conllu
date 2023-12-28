@@ -7246,7 +7246,7 @@
 4	kodire	kodire	SCONJ	sconj	Mood=Ind	2	mark	_	_
 5	taragodumode	rago	VERB	v	Mood=Ind|Number=Plur|Person=2|Tense=Fut	1	advcl	_	_
 6	ikudawu	kudawu	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
-7	adygo	adygo	NOUN	n	_	3	nmod	_	_
-8	joki	joki	NOUN	n	_	3	case	_	_
+7	adygo	adygo	NOUN	n	_	5	nmod	_	_
+8	joki	joki	NOUN	n	_	5	case	_	_
 9	inai	ai	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 
