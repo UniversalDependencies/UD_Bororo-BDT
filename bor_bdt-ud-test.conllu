@@ -5506,7 +5506,7 @@
 2	ito	to	ADP	posp	Number=Sing|Number[psor]=Sing|Person=1	1	obl	_	_
 3	iwo	i	PRON	_	Mood=Sub|Number=Sing|Person=1	5	nsubj	_	_
 4	ikera	kera	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
-5	ra	ra	VERB	_	Number=Sing|Person=3	1	cc	_	_
+5	ra	ra	VERB	_	Number=Sing|Person=3	1	ccomp	_	_
 6	pegareboe	pegareboe	NOUN	_	_	5	obl	_	_
 7	piji	piji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
@@ -6277,7 +6277,7 @@
 11	hm	hm	X	ideo	_	4	discourse	_	[];;
 
 # sent_id = 039.IETKB
-# text = Akore : akodu kaba , akodu kaba
+# text = Akore : akodukaba , akodukaba
 # text_eng = She said: do not go!
 # text_por = Respondeu: não vás!
 1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
@@ -6308,7 +6308,8 @@
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	rekoduwo	rekodu	VERB	v	Mood=Sub|Number=Sing|Person=3	5	conj	_	_
 8	tuje	ce	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3|Reflex=Yes	5	obl	_	_
-9	rekodaji	rekodaji	ADP	posp	Number=Sing|Person=3	8	case	_	_
+9	rekoda	rekoda	NOUN	n	_	8	case	_	_
+10	ji	ji	ADP	posp	Number=Sing|Person=3	9	obl	_	_
 
 # sent_id = 042.IETKB
 # text = Uce rugodure ji . Ure boe to jo
