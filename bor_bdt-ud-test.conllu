@@ -918,7 +918,7 @@
 7	moturewu	moture	ADJ	_	Nomzr=Rel	6	nmod	_	[];;
 8	to	to	VERB	v	Number=Plur|Person=3	0	root	_	[];;
 9	,	,	PUNCT	punct	_	8	punct	_	[];;
-10	cowu	cowu	DET	_	Number=Sing|PronType=Dem	11	det	_	[];;
+10	cowu	cowu	DET	dem	Number=Sing|PronType=Dem	11	det	_	[];;
 11	imedu	imedu	NOUN	n	_	12	nsubj	_	[];;
 12	muguwo	mugo	VERB	v	Nomzr=Rel	8	xcomp	_	live,stay;morar,ficar
 13	keje	keje	ADP	posp	_	12	case	_	[];;
@@ -3155,7 +3155,7 @@
 # text_eng = 
 # text_por = eu vi um/o homem, o qual não me viu
 1	Iorydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
-2	ia	ia	DET	_	Definite=Ind	3	det	_	[];;
+2	ia	ia	DET	dem	Definite=Ind	3	det	_	[];;
 3	imedy	_	NOUN	n	Number=Sing	1	obl	_	[];;
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	[];;
 5	,	,	PUNCT	punct	_	1	punct	_	[];;
@@ -3207,7 +3207,7 @@
 # text_eng = 
 # text_por = eu vi um homem, o qual não me viu
 1	Iorudyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
-2	ia	ia	DET	_	Definite=Ind	3	det	_	[];;
+2	ia	ia	DET	dem	Definite=Ind	3	det	_	[];;
 3	imedy	imedy	NOUN	n	Number=Sing	1	obl	_	[];;
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	[];;
 5	dy	dy	X	x	_	6	nsubj	_	[];;
@@ -3218,7 +3218,7 @@
 # text = Iage emugure nono , duwugere eerudyre ii
 # text_eng = 
 # text_por = Outros estavam ali, os quais me viram
-1	Iage	ia	DET	_	Definite=Ind|Number=Plur	2	nsubj	_	[];;
+1	Iage	ia	DET	dem	Definite=Ind|Number=Plur	2	nsubj	_	[];;
 2	emugure	mugu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	[];;
 3	nono	nono	ADV	adv	_	2	advmod	_	[];;
 4	,	,	PUNCT	punct	_	2	punct	_	[];;
@@ -3921,7 +3921,7 @@
 # text = Ia imedy , iere Kogae Cereu cedu , Ceraedu , Badojeba Cobugiwu , ure ia kiogorogu towuje , muguwo tumuga to , aroei pudumi dykeje
 # text_por = Um homem chamado Kogae Cereu, da metade dos Ecerae, do clã dos Badojebage Cobugiwuge, fêz um passarinho, para ficar no lugar dele, quando se converter em aroe
 # text_eng =
-1	Ia	ia	DET	_	Definite=Ind	2	det	_	[];;
+1	Ia	ia	DET	dem	Definite=Ind	2	det	_	[];;
 2	imedy	imedy	NOUN	n	Number=Sing	17	nsubj	_	man;homem
 3	,	,	PUNCT	punct	_	2	punct	_	[];;
 4	iere	ie	NOUN	v	Mood=Ind|Number=Sing|Person=3	2	appos	_	name;nome
@@ -3935,7 +3935,7 @@
 12	Cobugiwu	Cobugiwu	PROPN	propn	_	4	parataxis	_	[];;
 13	,	,	PUNCT	punct	_	12	punct	_	[];;
 14	ure	u	PRON	bi	Number=Sing|Person=3|PronType=Bi	17	dep	_	[];;
-15	ia	ia	DET	_	_	16	det	_	[];;
+15	ia	ia	DET	dem	_	16	det	_	[];;
 16	kiogorogu	kiogo	NOUN	n	Degree=Dim	17	obj	_	bird;pássaro
 17	towuje	towuje	VERB	vt	Number=Sing|Person=3	0	root	_	do,make;fazer,criar
 18	,	,	PUNCT	punct	_	17	punct	_	[];;
@@ -4085,12 +4085,12 @@
 5	akagore	ako	VERB	v	Mood=Ind|Number=Sing|Person=2	2	parataxis	_	[];;
 6	.	.	PUNCT	punct	_	5	punct	_	[];;
 7	Akaiwonure	aiwo	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=2	2	parataxis	_	[];;
-8	ia	ia	DET	_	Definite=Ind	9	det	_	a;um,uma
+8	ia	ia	DET	dem	Definite=Ind	9	det	_	a;um,uma
 9	boetugurogu	boetugu	NOUN	n	Degree=Dim	7	obl	_	cloud,shadow;nuvem,sombra
 10	bogai	bogai	ADP	posp	Number=Sing|Person=3	9	case	_	[];;
 11	,	,	PUNCT	punct	_	7	punct	_	[];;
 12	akaiwonure	aiwo	VERB	v	Aspect=Prog|Mood=Imp|Number=Sing|Person=2	2	parataxis	_	[];;
-13	ia	ia	DET	_	Definite=Ind	14	det	_	[];;
+13	ia	ia	DET	dem	Definite=Ind	14	det	_	[];;
 14	iporodu	ipo	NOUN	n	_	12	obl	_	[];;
 15	bogai	bogai	ADP	posp	Number=Sing|Person=3	14	case	_	[];;
 16	,	,	PUNCT	punct	_	12	punct	_	[];;
@@ -5598,7 +5598,7 @@
 6	ty	ty	ADV	adv	_	5	advmod	_	[];;
 7	,	,	PUNCT	punct	_	5	punct	_	[];;
 8	woe	woe	ADV	adv	_	11	advmod	_	[];here;aqui
-9	awy	awy	DET	_	_	11	det	_	[];;
+9	awy	awy	DET	dem	_	11	det	_	[];;
 10	i	i	NOUN	n	_	11	nmod	_	[];tree;árvore
 11	paru	paru	NOUN	n	_	5	obl	_	[];;
 12	,	,	PUNCT	punct	_	11	punct	_	[];;
@@ -6174,7 +6174,7 @@
 # text_eng = 
 # text_por = Então as criancinhas disseram: como é ?
 1	Icare	icare	ADV	adv	_	6	advmod	_	[];;
-2	nowy	nowy	DET	_	_	4	det	_	[];;
+2	nowy	nowy	DET	dem	_	4	det	_	[];;
 3	boe	boe	NOUN	n	_	4	compound	_	[];;
 4	etore	onaregedy	NOUN	n	Number=Plur|Number[psor]=Plur|Person=3	6	nsubj	_	[];;
 5	kugure	kuguri	NOUN	n	Number=Plur	4	nmod	_	[];;
@@ -6213,7 +6213,7 @@
 # text_eng = 
 # text_por = Então um deles falou: eu irei . Eu irei para ver
 1	Icare	icare	ADV	adv	_	3	advmod	_	[];;
-2	ia	ia	DET	_	_	3	nsubj	_	[];;
+2	ia	ia	DET	dem	_	3	nsubj	_	[];;
 3	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 4	:	:	PUNCT	punct	_	3	punct	_	[];;
 5	imire	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	[];;
@@ -6365,7 +6365,7 @@
 1	Ca	ca	PART	prcl	_	2	discourse	_	[];;
 2	iorydywakare	jordywa	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	[];;
 3	ty	ty	ADV	adv	_	2	advmod	_	[];;
-4	ia	_	DET	_	_	5	det	_	[];;
+4	ia	_	DET	dem	_	5	det	_	[];;
 5	iwagedyre	bagedy	NOUN	n	Mood=Ind|Number=Sing|Person=1	2	conj	_	kinship term;termo de parentesco
 6	ie	ie	NOUN	n	Number=Sing|Person=3	5	obl	_	[];;
 7	dyji	dyji	X	x	_	5	dep	_	[];;
@@ -6400,7 +6400,7 @@
 22	,	,	PUNCT	punct	_	18	punct	_	[];;
 23	oredyrogu	_	NOUN	n	Degree=Dim	18	parataxis	_	[];;
 24	rugady	_	ADV	adv	_	23	advcl	_	[];;
-25	nowy	_	DET	_	_	26	det	_	[];;
+25	nowy	_	DET	dem	_	26	det	_	[];;
 26	iwie	bie	NOUN	n	Number=Sing|Person=1	23	nmod	_	[];;
 27	oredy	_	NOUN	n	_	26	discourse	_	[];;
 28	...	_	PUNCT	punct	_	23	punct	_	[];;
@@ -6559,7 +6559,7 @@
 # text_eng = 
 # text_por = hoje o morro ainda se encontra existe (esse morro ainda que esse morro se chama Santo Antonio)
 1	Hoje	hoje	ADV	adv	_	4	advmod	_	[];;
-2	nowy	nowy	DET	_	_	3	det	_	[];;
+2	nowy	nowy	DET	dem	_	3	det	_	[];;
 3	tori	tori	NOUN	noun	Number=Sing	4	nsubj	_	['tɔɾi];hill,mountain;monte,colina
 4	mugu	_	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 5	kimore	kimo	ADV	adv	Mood=Ind	4	advcl	_	[ki'moɾe];still;ainda
@@ -6593,7 +6593,7 @@
 7	,	,	PUNCT	punct	_	5	punct	_	[];;
 8	iogwa	ogwa	NOUN	noun	Number=Sing|Number[psor]=Sing|Person=1	9	nsubj	_	[];;
 9	akore	_	VERB	v	Mood=Ind	4	parataxis	_	[];;
-10	nowy	_	DET	_	_	11	det	_	[];;
+10	nowy	_	DET	dem	_	11	det	_	[];;
 11	boejie	_	NOUN	noun	Speech=Ind	18	dep	_	[];;
 12	Jakomea	_	PROPN	propn	_	18	obl	_	[];;
 13	apo	apo	ADP	posp	Number=Sing|Person=3	12	case	_	[];;
@@ -6625,7 +6625,7 @@
 5	by	by	VERB	v	_	1	ccomp	_	put,place;pôr,colocar
 6	,	,	PUNCT	punct	_	5	punct	_	[];;
 7	dykaie	dykaie	ADV	adv	_	10	advmod	_	[];;
-8	nowy	nowy	DET	_	_	9	det	_	[];;
+8	nowy	nowy	DET	dem	_	9	det	_	[];;
 9	negedyrogy	onaregedy	NOUN	noun	Degree=Dim|Number=Sing	10	nsubj	_	child;criança
 10	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	[];;
 11	.	.	PUNCT	punct	_	10	punct	_	[];;
@@ -6684,7 +6684,7 @@
 # text = Jiwy tori mugu kimore oinono ca braedy iedo Santo Antonio , mare boe ewadary tabo iere Torowari ri oinore ioga akore
 # text_eng = 
 # text_por = pois o morro ainda existe os brae deram o nome de Santo Antonio, morro de Santo Antonio mas na lingua bororo se chama Torowari ri assim que meu pai disse
-1	Jiwy	_	DET	_	_	3	det	_	[];;
+1	Jiwy	_	DET	dem	_	3	det	_	[];;
 2	tori	_	NOUN	n	_	3	nsubj	_	[];;
 3	mugu	_	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 4	kimore	_	ADV	adv	Mood=Ind	3	advmod	_	[];;
@@ -6765,7 +6765,7 @@
 # text = Ia imedynure tudyiagu turagoja kare ei kejewy kae , icare onaregedyre tugoduiagu tuo apo , mare uo kiarire uo aidykare kodywo pudabo
 # text_eng =
 # text_por = Um homem estava para ir àquele seu lugar da espera dos peixes, e seu filho ia com ele, mas seu pai não queria que ele fosse com ele
-1	Ia	ia	DET	_	_	2	det	_	[];;
+1	Ia	ia	DET	dem	_	2	det	_	[];;
 2	imedynure	imedy	NOUN	n	Aspect=Prog|Mood=Ind|Number=Sing	0	root	_	[];;
 3	tudyiagu	ty	NOUN	n	Reflex=Yes	2	acl	_	[];;
 4	turagoja	ragoja	NOUN	n	_	3	obl	_	[];;
@@ -6948,7 +6948,7 @@
 10	:	:	PUNCT	punct	_	9	punct	_	[];;
 11	iogwa	o	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	15	vocative	_	[];;
 12	pawo	pa	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	[];;
-13	ecewy	ecewy	DET	_	_	14	det	_	[];;
+13	ecewy	ecewy	DET	dem	_	14	det	_	[];;
 14	meru	meru	NOUN	n	_	15	obj	_	[];;
 15	tawyje	tawyje	VERB	v	Number=Sing|Person=3	9	ccomp	_	[];;
 16	icare	icare	ADV	adv	_	17	advmod	_	[];;
@@ -7040,6 +7040,77 @@
 18	taro	ro	NOUN	n	Number=Plur|Person=2	17	obl	_	[];;
 19	pegarewy	pega	NOUN	n	Nomzr=Rel	18	nmod	_	[];;
 20	tada	tada	ADP	posp	_	18	case	_	[];;
+
+# sent_id = C.O.82-1
+# text = Maereboe , birewy baere , ere boe kodydo , ere aroe kodydo ; care enogwakore pana ji . Enogware ao , ao , ere boe ewido dykeje . Ere boe ewudydo tori to ere boe jerigiga to keje , ere boe ewudydo tori parakujago ji joki ; eigoiare ere boe tarodydo , eiwogunure boe enoroe ji , care ere boe kodydo , ere aroe kodydo .
+# text_eng = 
+# text_por = Os maereboe, que são os bari mortos, fazem as coisas voar, fazem as almas voarem, tocam a pana; eles gritam ao, ao quando matam pessoas; eles fazem as coisas cairem no monte, fazem cais as coisas sobre o ?; fazem cair sobre a pedra vermelha, por causa deles é que as pessoas morrem, roubam da pessoa sua essência, fazem voar as coisas, fazem as almas voarem
+1	Maereboe	maereboe	NOUN	n	_	8	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	birewy	bi	NOUN	n	Mood=Ind|Nomzr=Rel	1	acl	_	_
+4	baere	bari	NOUN	n	Number=Plur	3	nsubj	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	ere	e	PRON	_	Mood=Ind	8	nsubj	_	_
+7	boe	boe	NOUN	n	_	8	obj	_	_
+8	kodydo	kody	VERB	v	Number=Sing|Person=3|Voice=Cau	_	_	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	ere	e	PRON	_	Numer	12	nsubj	_	_
+11	aroe	aroe	NOUN	n	_	12	obj	_	_
+12	kodydo	kody	VERB	v	Number=Sing|Person=3|Voice=Cau	8	parataxis	_	_
+13	;	_	PUNCT	punct	_	12	punct	_	_
+14	care	_	ADV	adv	_	15	advmod	_	_
+15	enogwakore	_	VERB	v	_	8	parataxis	_	_
+16	pana	_	NOUN	n	_	15	obl	_	_
+17	ji	ji	ADP	posp	Number=Sing|Person=3	16	case	_	_
+18	.	_	PUNCT	punct	_	15	punct	_	_
+19	Enogware	_	VERB	v	_	8	parataxis	_	_
+20	ao	_	X	_	_	19	dep	_	_
+21	,	,	PUNCT	punct	_	19	punct	_	_
+22	ao	_	X	_	_	19	dep	_	_
+23	,	,	PUNCT	punct	_	19	punct	_	_
+24	ere	_	PRON	_	_	26	nsubj	_	_
+25	boe	_	NOUN	n	_	26	obj	_	_
+26	ewido	_	VERB	v	_	8	advcl	_	_
+27	dykeje	_	SCONJ	sconj	_	26	mark	_	_
+28	.	_	PUNCT	punct	_	26	punct	_	_
+29	Ere	_	PRON	_	_	31	nsubj	_	_
+30	boe	_	NOUN	n	_	31	obj	_	_
+31	ewudydo	_	VERB	v	_	8	parataxis	_	_
+32	tori	_	NOUN	n	_	31	obl	_	_
+33	to	_	ADP	posp	Number=Sing|Person=3	32	case	_	_
+34	ere	_	PRON	_	_	_	_	_	_
+35	boe	_	NOUN	n	_	_	_	_	_
+36	jerigiga	_	NOUN	n	_	_	_	_	_
+37	to	_	ADP	posp	Number=Sing|Person=3	36	case	_	_
+38	keje	_	ADP	posp	_	_	_	_	_
+39	,	,	PUNCT	punct	_	_	_	_	_
+40	ere	_	PRON	_	_	42	nsubj	_	_
+41	boe	boe	NOUN	n	_	42	obj	_	_
+42	ewudydo	buty	VERB	v	_	8	parataxis	_	_
+43	tori	Torowari	NOUN	n	_	42	obl	_	_
+44	parakujago	_	NOUN	n	_	43	nmod	_	_
+45	ji	ji	ADP	posp	Number=Sing|Person=3	43	case	_	_
+46	joki	_	ADP	posp	Number=Sing|Person=3	_	_	_	_
+47	;	;	PUNCT	punct	_	42	punct	_	_
+48	eigoiare	_	ADP	posp	_	51	obl	_	_
+49	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	51	nsubj	_	_
+50	boe	_	NOUN	n	_	51	obj	_	_
+51	boe	_	VERB	v	_	8	parataxis	_	_
+52	,	,	PUNCT	punct	_	51	punct	_	_
+53	eiwogunure	_	_	_	Mood=Ind|Number=Plur|Person=3	_	_	_	_
+54	boe	boe	_	_	_	_	_	_	_
+55	enoroe	_	_	_	_	_	_	_	_
+56	ji	ji	ADP	posp	Number=Sing|Person=3	_	_	_	_
+57	,	,	PUNCT	punct	_	_	_	_	_
+58	care	care	ADV	adv	_	61	advmod	_	_
+59	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	61	nsubj	_	_
+60	boe	boe	NOUN	n	_	61	obj	_	_
+61	kodydo	kody	VERB	v	Number=Sing|Person=3|Voice=Cau	8	parataxis	_	_
+62	,	,	PUNCT	punct	_	61	punct	_	_
+63	ere	e	PRON	_	_	65	nsubj	_	_
+64	aroe	aroe	NOUN	n	_	65	obj	_	_
+65	kodydo	kody	VERB	v	Number=Sing|Person=3|Voice=Cau	8	parataxis	_	_
+66	.	.	PUNCT	punct	_	65	punct	_	_
 
 # sent_id = C.O.82-2
 # text = Maereboe okwagere boe jamedy ji kodi . Bope okwagekare pegare boe ji . Baere egoe , boe remawy , bope rakojere kare baru tada : moto kajere , moto kuda rakojere
