@@ -5502,11 +5502,11 @@
 # text = Itugu ito iwo ikera ra pegareboe piji
 # text_eng = I propose to avoid the evil
 # text_por = Proponho de evitar o mal
-1	Itugu	tugu	NOUN	_	Number=Plur|Person=1	5	nsubj	_	_
+1	Itugu	tugu	NOUN	_	Number=Plur|Person=1	0	root	_	_
 2	ito	to	ADP	posp	Number=Sing|Number[psor]=Sing|Person=1	1	obl	_	_
 3	iwo	i	PRON	_	Mood=Sub|Number=Sing|Person=1	5	nsubj	_	_
 4	ikera	kera	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
-5	ra	ra	VERB	_	Number=Sing|Person=3	0	root	_	_
+5	ra	ra	VERB	_	Number=Sing|Person=3	1	cc	_	_
 6	pegareboe	pegareboe	NOUN	_	_	5	obl	_	_
 7	piji	piji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
@@ -5515,9 +5515,9 @@
 # text_eng = 
 # text_por = Fizeste-me suspeitar da possibilidade de uma briga entre os bororo
 1	Are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	2	nsubj	_	_
-2	itygydo	tygy	VERB	v	Number=Sing|Person=|Voice=Cau	0	root	_	_
+2	itygydo	tygy	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
-4	erugodymode	rugody	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	2	cc	_	_
+4	erugodymode	rugody	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	2	ccomp	_	_
 5	pui	pui	PRON	pron	PronType=Rcp	4	obj	_	_
 6	duji	duji	X	x	PronType=Rel	4	mark	_	_
 
