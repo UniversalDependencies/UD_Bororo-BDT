@@ -6312,7 +6312,7 @@
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	obl	_	_
 
 # sent_id = 042.IETKB
-# text = Uce rugodure ji . Ure boe to jo
+# text = Uce rugodure ji . Ure boe to ji
 # text_eng = 
 # text_por = Sua mãe brigou com ele, bateu nele
 1	Uce	ce	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	2	nsubj	_	_
@@ -6335,7 +6335,7 @@
 5	tu	tu	ADV	adv	_	2	discourse	_	_
 
 # sent_id = 044.IETKB
-# text = Dukejere icare ure ja kudo otoguru kure
+# text = Dukejere icare ure ja kudo , otoguru kure
 # text_eng = 
 # text_por = E então ela fez sangrar a boca dele
 1	Dukejere	Dukejere	ADV	adv	_	5	advmod	_	_
@@ -7094,7 +7094,7 @@
 2	adygo	adygo	NOUN	n	_	3	obj	_	_
 3	bito	bito	VERB	v	Number=Sing|Person=3	0	root	_	_
 4	Aroia	Aroia	PROPN	propn	_	6	nmod	_	_
-5	Kurirewy	kuri	PROPN	propn	Nomzr=Rel	4	nmod	_	_
+5	Kurirewy	kuri	NOUN	propn	Nomzr=Rel	4	nmod	_	_
 6	mori	mori	NOUN	v	_	3	obl	_	_
 7	ce	ce	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
