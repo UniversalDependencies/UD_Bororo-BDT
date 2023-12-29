@@ -5550,7 +5550,7 @@
 # text = Itygo tydyre
 # text_eng = My arrow got stuck
 # text_por = Minha flecha enganchou-se
-1	Itygo	tygo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	_	_	_
+1	Itygo	tygo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	tydyre	tydy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 127.EncIE
