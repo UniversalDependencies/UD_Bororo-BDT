@@ -7103,7 +7103,7 @@
 50	boe	_	NOUN	n	_	51	obj	_	_
 51	boe	_	VERB	v	_	8	parataxis	_	_
 52	,	,	PUNCT	punct	_	51	punct	_	_
-53	eiwogunure	_	VERB	_	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+53	eiwogunure	_	VERB	_	Mood=Ind|Number=Plur|Person=3	8	parataxis	_	_
 54	boe	boe	NOUN	_	_	55	nmod	_	_
 55	enoroe	_	NOUN	_	_	_	_	_	_
 56	ji	ji	ADP	posp	Number=Sing|Person=3	55	case	_	_
