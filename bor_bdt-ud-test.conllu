@@ -5575,7 +5575,15 @@
 # text_por = Meu pai mandou que eu saisse
 1	Iogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	dep	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
-3	itydo	ty	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+3	itydo	ty	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	[];send away,expell;mandar embora,expulsar
+
+# sent_id = 130.EncIE
+# text = Aiwore ty !
+# text_eng = He observed it well!
+# text_por = Observou bem!
+1	Aiwore	aiwo	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];look,observe;olhar,observar
+2	ty	ty	ADV	adv	_	1	advmod	_	['tɨ];thus,therefore,well;assim,logo,bem,então
+3	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
