@@ -5539,10 +5539,10 @@
 # text = Itygimomode tori , atygimo rema ipo
 # text_eng = My club (to hit) will be a stone, yours a stick
 # text_por = Meu porrete (para bater) será uma pedra , o teu um pau
-1	Itygimumode	tygimo	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=1|Tense=Fut	0	root	_	_
+1	Itygimomode	tygimo	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=1|Tense=Fut	0	root	_	_
 2	tori	tori	NOUN	n	_	1	nsubj	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
-4	atygimo	tygimo	VERB	v	Number=Sing|Number[psor]=Sing|Person=2	1	conj	_	_
+4	atygimo	tygimo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	1	conj	_	_
 5	rema	rema	CCONJ	cconj	_	4	cc	_	_
 6	ipo	ipo	NOUN	n	_	4	nsubj	_	_
 
