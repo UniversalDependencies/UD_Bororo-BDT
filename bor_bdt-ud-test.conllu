@@ -5400,7 +5400,7 @@
 8	roga	roga	ADV	adv	_	7	advmod	_	[];still;ainda
 
 # sent_id = 111.EncIE
-# text = Akorodoi amode itugugo
+# text = Akorodoi , amode itugugo
 # text_eng = Move, you are blocking the light
 # text_por = Afasta-te para nao me fazer sombra
 1	Akorodoi	orodo	VERB	v	Number=Sing|Person=2	0	root	_	_
@@ -5409,7 +5409,7 @@
 4	itugugo	tugo	VERB	v	Number=Sing|Person=1|Voice=Cau	1	parataxis	_	[];shadow;sombra
 
 # sent_id = 112.EncIE
-# text = Itugugunure imeruji
+# text = Itugugunure imeru ji
 # text_eng = I am ready to hunt
 # text_por = Estou pronto para caçar
 1	Itugugunure	tugugu	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	_	_
@@ -5493,7 +5493,7 @@
 4	buodo	buodo	NOUN	n	_	3	obl	_	_
 5	bogai	bogai	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
-# sent_id = 120.EncIE
+# sent_id = 121.EncIE
 # text = Tamode tamerydae tugu iwadary keje
 # text_eng = 
 # text_por = Refleti sobre o que vos disse
@@ -5503,19 +5503,19 @@
 4	iwadary	batary	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obl	_	_
 5	keje	keje	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
-# sent_id = 121.EncIE
+# sent_id = 122.EncIE
 # text = Itugu ito iwo ikera ra pegareboe piji
 # text_eng = I propose to avoid the evil
 # text_por = Proponho de evitar o mal
 1	Itugu	tugu	NOUN	_	Number=Plur|Person=1	0	root	_	_
-2	ito	to	ADP	posp	Number=Sing|Number[psor]=Sing|Person=1	1	obl	_	_
+2	ito	to	ADP	posp	Number=Sing|Person=1	1	obl	_	_
 3	iwo	i	PRON	_	Mood=Sub|Number=Sing|Person=1	5	nsubj	_	_
 4	ikera	kera	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
 5	ra	ra	VERB	_	Number=Sing|Person=3	1	ccomp	_	_
 6	pegareboe	pegareboe	NOUN	_	_	5	obl	_	_
 7	piji	piji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
-# sent_id = 122.EncIE
+# sent_id = 123.EncIE
 # text = Are itygydo boe erugodymode pui duji
 # text_eng = 
 # text_por = Fizeste-me suspeitar da possibilidade de uma briga entre os bororo
@@ -5526,7 +5526,7 @@
 5	pui	pui	PRON	pron	PronType=Rcp	4	obj	_	_
 6	duji	duji	X	x	PronType=Rel	4	mark	_	_
 
-# sent_id = 123.EncIE
+# sent_id = 124.EncIE
 # text = Imyga utugodynure parori kae
 # text_eng = My mother is about to harvest cumaru
 # text_por = Minha mae está para colher cumaru
