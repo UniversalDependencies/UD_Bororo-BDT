@@ -5546,6 +5546,29 @@
 5	rema	rema	CCONJ	cconj	_	4	cc	_	_
 6	ipo	ipo	NOUN	n	_	4	nsubj	_	_
 
+# sent_id = 126.EncIE
+# text = Itygo tydyre
+# text_eng = My arrow got stuck
+# text_por = Minha flecha enganchou-se
+1	Itygo	tygo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	_	_	_
+2	tydyre	tydy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 127.EncIE
+# text = Pamode padygo tydydo
+# text_eng = We shall exchange our arrows
+# text_por = Trocaremos nossa flecha
+1	Pamode	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=2|Tense=Fut	3	nsubj	_	_
+2	padygo	tygo	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=2	3	obj	_	_
+3	tydydo	tydydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 128.EncIE
+# text = Tagaba tawadary tydydo
+# text_eng = We will not break our word
+# text_por = Não faltaremos a nossa palavra
+1	Tagaba	ta	PRON	bi	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	3	nsubj	_	_
+2	tawadary	batary	NOUN	_	Number=Sing|Number[psor]=Plur|Person=2	3	obj	_	_
+3	tydydo	tydydo	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
