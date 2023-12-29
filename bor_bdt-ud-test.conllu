@@ -7096,7 +7096,7 @@
 43	tori	Torowari	NOUN	n	_	42	obl	_	_
 44	parakujago	_	NOUN	n	_	43	nmod	_	_
 45	ji	ji	ADP	posp	Number=Sing|Person=3	43	case	_	_
-46	joki	_	ADP	posp	Number=Sing|Person=3	_	_	_	_
+46	joki	_	ADP	posp	Number=Sing|Person=3	43	case	_	_
 47	;	;	PUNCT	punct	_	42	punct	_	_
 48	eigoiare	_	ADP	posp	_	51	obl	_	_
 49	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	51	nsubj	_	_
