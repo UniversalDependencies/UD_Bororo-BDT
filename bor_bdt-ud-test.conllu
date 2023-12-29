@@ -5569,6 +5569,14 @@
 2	tawadary	batary	NOUN	_	Number=Sing|Number[psor]=Plur|Person=2	3	obj	_	_
 3	tydydo	tydydo	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
+# sent_id = 129.EncIE
+# text = Iogwa ure itydo
+# text_eng = My fathre told me to leave
+# text_por = Meu pai mandou que eu saisse
+1	Iogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	dep	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	itydo	ty	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
