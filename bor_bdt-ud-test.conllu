@@ -5380,6 +5380,11 @@
 # text = Itore kugure awyge eiamedy etupegago
 # text_eng = This is the last born of all my children
 # text_por = Este é mesmo o último nascido de todos os meus filhos
+1	Itore	_	NOUN	n	_	2	nmod	_	_
+2	kugure	_	NOUN	n	_	0	root	_	_
+3	awyge	_	DET	dem	_	4	det	_	_
+4	eiamedy	_	PRON	pron	PronType=Tot	5	nmod	_	_
+5	etupegago	tupega	NOUN	v	Number=Plur|Person=3|Voice=Cau	2	appos	_	_
 
 # sent_id = 110.EncIE
 # text = Bybyty aregody , ma icare kuiada tugudodykare roga
