@@ -7101,7 +7101,7 @@
 48	eigoiare	_	ADP	posp	_	51	obl	_	_
 49	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	51	nsubj	_	_
 50	boe	_	NOUN	n	_	51	obj	_	_
-51	boe	_	VERB	v	_	8	parataxis	_	_
+51	tagodydo	_	VERB	v	_	8	parataxis	_	_
 52	,	,	PUNCT	punct	_	51	punct	_	_
 53	eiwogunure	_	VERB	_	Mood=Ind|Number=Plur|Person=3	8	parataxis	_	_
 54	boe	boe	NOUN	n	_	55	nmod	_	_
