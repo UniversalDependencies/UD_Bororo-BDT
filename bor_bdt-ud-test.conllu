@@ -5524,7 +5524,7 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	erugodymode	rugody	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	2	ccomp	_	_
 5	pui	pui	PRON	pron	PronType=Rcp	4	obj	_	_
-6	duji	duji	PRON	pron	PronType=Rel	4	mark	_	_
+6	duji	duji	PRON	pron	PronType=Rel	4	dep	_	_
 
 # sent_id = 124.EncIE
 # text = Imyga utugodynure parori kae
