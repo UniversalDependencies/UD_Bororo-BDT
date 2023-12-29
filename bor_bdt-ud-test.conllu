@@ -7060,7 +7060,7 @@
 7	boe	boe	NOUN	n	_	8	obj	_	_
 8	kodydo	kody	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	ere	e	PRON	_	Numer	12	nsubj	_	_
+10	ere	e	PRON	_	Number=Plur|Person=3	12	nsubj	_	_
 11	aroe	aroe	NOUN	n	_	12	obj	_	_
 12	kodydo	kody	VERB	v	Number=Sing|Person=3|Voice=Cau	8	parataxis	_	_
 13	;	_	PUNCT	punct	_	12	punct	_	_
