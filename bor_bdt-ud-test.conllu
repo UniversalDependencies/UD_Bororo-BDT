@@ -482,7 +482,7 @@
 5	dykeje	dykeje	SCONJ	sconj	_	2	mark	_	_
 6	boe	boe	NOUN	n	_	7	nsubj	_	_
 7	tudure	tu	VERB	v	Mood=Ind|Number=Sing|Person=3|Reflex=Yes	0	root	_	_
-8	ji	_	ADP	posp	Number=Sing|Person=3	_	_	_	_
+8	ji	_	ADP	posp	Number=Sing|Person=3	7	obl	_	_
 9	baa	baa	NOUN	n	_	7	obl	_	_
 10	tada	tada	ADP	posp	Number=Sing|Person=3	9	case	_	_
 
