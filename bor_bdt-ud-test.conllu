@@ -5601,6 +5601,46 @@
 2	baa	baa	NOUN	n	_	1	obl	_	_
 3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	_
 
+# sent_id = 133.EncIE
+# text = Ime ere bai mana gejewy torygirido
+# text_eng = The men built a very large central house
+# text_por = Os homens construiram uma choupana central muito grande
+1	Ime	imedy	NOUN	n	Number=Plur	2	dep	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
+3	bai	bai	NOUN	n	_	4	nmod	_	_
+4	mana	mana	NOUN	n	_	6	obj	_	_
+5	gejewy	geje	NOUN	n	Nomzr=Rel	4	nmod	_	_
+6	torygirido	torygiri	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 134.EncIE
+# text = Imode ia iwoeiga motyrewy towuje
+# text_eng = I will make a beautiful bow for me
+# text_por = Fabricar-me-ei um belo arco
+1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	5	nsubj	_	_
+2	ia	ia	DET	_	_	3	det	_	_
+3	iwoeiga	boeiga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
+4	motyrewy	moty	NOUN	n	Mood=Ind|Nomzr=Rel	3	nmod	_	_
+5	towuje	towuje	NOUN	n	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 135.EncIE
+# text = Kiege etorypogodyre noa tada
+# text_eng = The macaws became many in the Noa (name of a stream)
+# text_por = As araras aumentaram (multiplicaram) no lambedor (nome de um córrego)
+1	Kiege	_	NOUN	n	_	2	nsubj	_	_
+2	etorypogodyre	torypogody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	noa	noa	NOUN	n	_	2	obl	_	_
+4	tada	tada	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 136.EncIE
+# text = Ikodo torigodynure , iroiwamodykare tabo
+# text_eng = My basket is heavy, I may not be able to carry it
+# text_por = Minha cesta ficou muito pesada e talvez nao possa carregá-la
+1	Ikodo	kodo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	torigodynure	torigody	VERB	v	Aspect=Prog|Mood=Ind	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	iroiwamodykare	roiwa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	2	parataxis	_	[];power,possibility,tolerance;poder,possibilidade,tolerância.
+5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	obl	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
