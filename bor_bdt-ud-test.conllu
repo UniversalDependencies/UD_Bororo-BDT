@@ -1649,21 +1649,20 @@
 4	woe	woe	ADV	adv	_	3	advcl	_	here;aqui
 
 # sent_id = ABE-265
-# text = boere boe tygu tygu woe
+# text = Boere boe tugutugu woe
 # text_eng = People always plant here
 # text_por = as pessoas sempre plantam aqui
-1	boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	[];;
+1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	[];;
 2	boe	boe	NOUN	n	_	3	obj	_	[];;
-3	tygu	tygu	VERB	v	_	0	root	_	plant;plantar
-4	tygu	tygu	VERB	v	Aspect=Iter	3	dep	_	[];;
-5	woe	woe	ADV	adv	_	3	advmod	_	[wɔ̰ɛ̯];here;aqui
+3	tugutugu	tygu	VERB	v	Aspect=Iter|Number=Sing|Person=3	0	root	_	[];plant;plantar
+4	woe	woe	ADV	adv	_	3	advmod	_	[wɔ̰ɛ̯];here;aqui
 
 # sent_id = ABE-267
 # text = kaboba amode maku Enawureudo ai ?
 # text_eng = What will you give Enawureudo?
-# text_por = o que você vai dar ao Enawureudo? 
+# text_por = o que você vai dar a Enawureudo? 
 1	kaboba	kabo	PRON	pron	PronType=Int	3	obj	_	what;o.que
-2	amode	_	X	x	Mood=Ind|Number=Sing|Person=2|Tense=Fut	3	nsubj	_	[];;
+2	amode	a	X	x	Mood=Ind|Number=Sing|Person=2|Tense=Fut	3	nsubj	_	[];;
 3	maku	maku	VERB	v	_	0	root	_	give;dar
 4	Enawureudo	Enawureudo	PROPN	propn	_	3	obl	_	[];;
 5	ai	ai	ADP	posp	_	4	case	_	to;para,a
@@ -3402,15 +3401,15 @@
 
 # sent_id = 0071e.PessGr
 # text = imaragody nure
-# text_eng = 
+# text_eng = I am working
 # text_por = eu estou/estava trabalhando
 1	imaragody	maragody	VERB	v	Number=Sing|Person=1	0	root	_	[];;
 2	nure	nu	X	x	Aspect=Prog|Mood=Ind	1	dep	_	[];;
 
 # sent_id = 0071f.PessGr
 # text = kaeba bogaiba akaregodyre ?
-# text_eng = 
-# text_por = para quê você veio?
+# text_eng = Why did you come?
+# text_por = Para quê você veio?
 1	kaeba	kaeba	ADV	adv	_	3	advmod	_	[];;
 2	bogaiba	bogai	ADV	adv	Int=Yes	3	advmod	_	[];;
 3	akaregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	[];;
@@ -3418,8 +3417,8 @@
 
 # sent_id = 0071g.PessGr
 # text = aki na akaregodyre ?
-# text_eng = 
-# text_por = foi você que chegou?
+# text_eng = Was it you who arrived?
+# text_por = Foi você que chegou?
 1	aki	aki	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	[];;
 2	na	na	PART	prcl	Foc=Yes|Int=Yes	1	dep	_	[];;
 3	akaregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	[];;
@@ -4463,7 +4462,7 @@
 # sent_id = 018.EncIEx
 # text = Ikogodynure , kodi inago mityre
 # text_eng = 
-# text_por = Estou doente, por isso estou rouco (com avoz fechada)
+# text_por = Estou doente, por isso estou rouco (com a voz fechada)
 1	Ikogodynure	kogody	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	illness,bad smell;doença,mal cheiro
 2	,	,	PUNCT	punct	_	1	punct	_	[];;
 3	kodi	kodi	ADV	adv	_	5	mark	_	for thsi reason,thus;por isso,assim
@@ -4473,7 +4472,7 @@
 # sent_id = 019.EncIEx
 # text = Boe ego mugunure bai mana gejewy to
 # text_eng = 
-# text_por = os bororo cantam assentados na choupana central.
+# text_por = Os bororo cantam assentados na choupana central.
 1	Boe	boe	NOUN	n	_	2	nsubj	_	[];;
 2	ego	ako	VERB	v	_	0	root	_	[];;
 3	mugunure	mugu	VERB	v	_	2	dep	_	[];;
@@ -4652,7 +4651,7 @@
 # sent_id = 038.EncIE
 # text = Inure itanarido batary ji
 # text_eng = I respect you word(s)
-# text_por = respeito suas palavras
+# text_por = Respeito suas palavras
 1	Inure	i	PRON	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	2	nsubj	_	[];;
 2	itanarido	anarido	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	[];respect;respeitar
 3	batary	batary	NOUN	n	Poss=Yes	2	obl	_	[];;
@@ -4706,7 +4705,7 @@
 # text = Cemode ipodoge apado
 # text_eng = we will make forks from the supports
 # text_por = Faremos forquilhas dos esteios
-1	Cemode	_	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	nsubj	_	[];;
+1	Cemode	ce	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	nsubj	_	[];;
 2	ipodoge	_	NOUN	n	Number=Plur	3	obj	_	[];;
 3	apado	_	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	[];;
 
@@ -4714,9 +4713,9 @@
 # text = Inure kado aparado
 # text_eng = I placed the bambooks apart
 # text_por = Separei os taquaras
-1	Inure	_	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	3	nsubj	_	[];;
-2	kado	_	NOUN	n	_	3	obj	_	[];;
-3	aparado	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	[];;
+1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	3	nsubj	_	[];;
+2	kado	kado	NOUN	n	_	3	obj	_	[];;
+3	aparado	aparado	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	[];;
 
 # sent_id = 045.EncIE
 # text = Iedogwa ire itarego bai mana gejewy to
@@ -5641,6 +5640,16 @@
 4	iroiwamodykare	roiwa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	2	parataxis	_	[];power,possibility,tolerance;poder,possibilidade,tolerância.
 5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 
+# sent_id = 137.EncIE
+# text = Imode noa kudu togido imerywo
+# text_eng = 
+# text_por = Prepararei meu farnel de farinha de cóco de babaçu para a caçada
+1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	4	nsubj	_	_
+2	noa	noa	NOUN	n	_	3	nmod	_	_
+3	kudu	kudu	NOUN	n	_	4	obj	_	_
+4	togido	togido	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+5	imerywo	mery	NOUN	v	Mood=Sub|Number=Sing|Person=1	4	xcomp	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
@@ -6485,7 +6494,7 @@
 9	kocare	kocare	INTJ	intj	_	5	discourse	_	[];;
 
 # sent_id = 003.dialogomulherAeB
-# text = Booio ... kocare ca tagagoi oino ii marenaryrogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dykodi , oredyrogu rugady nowy iwie oredy ... ema ... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
+# text = Booio ... kocare ca tagagoi oino ii marenarurogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dykodi , oredyrogu rugady nowy iwie oredy ... ema ... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
 # text_eng = 
 # text_por = vixi, nossa vocês estão falando isso de mim, eu sou uma coitada, não é meu marido, ela que quer que eu fique com ele mas ela que quer ele,  maridinho dela mesmo dessa minha prima.... ela... mas não é meu marido não ió... por que vocês que querem que eu tenha marido
 1	Booio	booio	INTJ	intj	_	5	discourse	_	[];;
@@ -6495,7 +6504,7 @@
 5	tagagoi	ako	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	_	[];;
 6	oino	oino	ADV	adv	_	5	advmod	_	[];;
 7	ii	ji	ADP	posp	Number=Sing|Person=1	5	obl	_	[];;
-8	marenaryrogunure	marenary	NOUN	n	Aspect=Prog|Degree=Dim|Mood=Ind	5	parataxis	_	humble,poor;pobre,coitado
+8	marenaruchirogunure	marenary	NOUN	n	Aspect=Prog|Degree=Dim|Mood=Ind	5	parataxis	_	humble,poor;pobre,coitado
 9	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	[];;
 10	,	,	PUNCT	punct	_	8	punct	_	[];;
 11	itoredy	oredy	NOUN	n	Number=Sing|Person=1	5	parataxis	_	[];;
