@@ -1504,7 +1504,7 @@
 # text = ikadykigodykare karo ko
 # text_eng = I don't even eat fish
 # text_por = eu nem sempre como peixe
-1	ikadykigodykare	i	PRON	bi	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	3	xcomp	_	[];;
+1	ikadykigodykare	i	PRON	bi	Aspect=IncProg|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Subord=Yes	3	xcomp	_	[];;
 2	karo	karo	NOUN	n	_	3	nsubj	_	fish;peixe
 3	ko	ko	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
@@ -1512,7 +1512,7 @@
 # text = cekigodyre adugo kowuje
 # text_eng = We used to eat jaguar
 # text_por = nós sempre comíamos onça
-1	cekigodyre	ce	PRON	bi	Aspect=Hab|Clusivity=In|Mood=Ind|Number=Plur|Person=1	3	nsubj	_	we,us;nós,nos
+1	cekigodyre	ce	PRON	bi	Aspect=IncProg|Clusivity=In|Mood=Ind|Number=Plur|Person=1	3	nsubj	_	we,us;nós,nos
 2	adugo	adugo	NOUN	n	_	3	obj	_	jaguar;onça
 3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
@@ -1520,7 +1520,7 @@
 # text = takigodyre meriri aiwodo ia gi
 # text_eng = You cause the metal to see in my mouth (you photograph inside my mouth)
 # text_por = vocês sempre fazem o metal ver dentro da minha boca (vocês sempre fotografam dentro da minha boca)
-1	takigodyre	ta	PRON	bi	Aspect=Hab|Mood=Ind	3	nsubj	_	[];;
+1	takigodyre	ta	PRON	bi	Aspect=IncProg|Mood=Ind	3	nsubj	_	[];;
 2	meriri	meriri	NOUN	n	_	3	obl	_	metal;metal
 3	aiwodo	aiwo	VERB	v	Voice=Cau	0	root	_	see;ver
 4	ia	ia	NOUN	n	_	3	obl	_	mouth;boca
@@ -1530,7 +1530,7 @@
 # text = iwogukidogyre
 # text_eng = I always fished
 # text_por = eu sempre pescava
-1	iwogukidogyre	wogu	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=1	0	root	_	fish;pescar
+1	iwogukidogyre	wogu	VERB	v	Aspect=IncProg|Mood=Ind|Number=Sing|Person=1	0	root	_	fish;pescar
 
 # sent_id = ABE-248
 # text = iadukeje pobu kurire
@@ -5636,7 +5636,7 @@
 # text_eng = My basket is heavy, I may not be able to carry it
 # text_por = Minha cesta ficou muito pesada e talvez nao possa carregá-la
 1	Ikodo	kodo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	torigodynure	torigody	VERB	v	Aspect=Prog|Mood=Ind	0	root	_	_
+2	torigodynure	torigody	VERB	v	Aspect=IncProg|Mood=Ind	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	iroiwamodykare	roiwa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	2	parataxis	_	[];power,possibility,tolerance;poder,possibilidade,tolerância.
 5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	obl	_	_
