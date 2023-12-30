@@ -5585,6 +5585,22 @@
 2	ty	ty	ADV	adv	_	1	advmod	_	['tɨ];thus,therefore,well;assim,logo,bem,então
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
+# sent_id = 131.EncIE
+# text = Imana uwai torypore
+# text_eng = Ma brother built a big house
+# text_por = Meu irmao maior fez urna choupana muito grande
+1	Imana	mana	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nmod	_	_
+2	uwai	bai	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	3	nsubj	_	_
+3	torypore	torypo	NOUN	n	Mood=Ind	0	root	_	_
+
+# sent_id = 132.EncIE
+# text = Itymode baa to
+# text_eng = I will go to the village
+# text_por = Irei a aldeia
+1	Itymode	ty	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+2	baa	baa	NOUN	n	_	1	obl	_	_
+3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
