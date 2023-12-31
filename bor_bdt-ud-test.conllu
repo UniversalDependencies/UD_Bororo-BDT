@@ -5747,7 +5747,7 @@
 
 # sent_id = 148.EncIE
 # text = Barogwato boe emode Tamige Aroe etawuje
-# text_eng = 
+# text_eng = Tomorrow, the Bororo will play the representation of the Tamige Aroe
 # text_por = Amanha os bororo farao a representação dos Tamige Aroe
 1	Barogwato	barogwato	ADV	adv	_	6	advmod	_	_
 2	boe	boe	NOUN	n	_	3	dep	_	_
@@ -5768,11 +5768,20 @@
 
 # sent_id = 150.EncIE
 # text = Imode nonogo ta
-# text_eng = 
+# text_eng = I shall cultivate Bixa orellana
 # text_por = Cultivarei urucu
 1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	_
 2	nonogo	nonogo	NOUN	n	_	3	obj	_	_
 3	ta	ta	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 151.EncIE
+# text = Kaibá imode ita ?
+# text_eng = Where will I exit?
+# text_por = Por onde sairei?
+1	Kaibá	kaibá	PRON	pron	PronType=Int	3	advmod	_	_
+2	imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	_
+3	ita	ta	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
