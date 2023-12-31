@@ -5651,7 +5651,7 @@
 5	imerywo	mery	NOUN	v	Mood=Sub|Number=Sing|Person=1	4	xcomp	_	_
 
 # sent_id = 138.EncIE
-# text = Etaregodyre pudogy
+# text = Etaregodyre pudogi
 # text_eng = They met
 # text_por = Encontraram-se
 1	Etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -6618,7 +6618,7 @@
 9	kocare	kocare	INTJ	intj	_	5	discourse	_	[];;
 
 # sent_id = 003.dialogomulherAeB
-# text = Booio ... kocare ca tagagoi oino ii marenarurogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dykodi , oredyrogu rugady nowy iwie oredy ... ema ... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
+# text = Booio ... kocare ca tagagoi oino ii marenaryrogunure imi , itoredy karega , emare aidyre imuguwo apo taidy koia ji dykodi , oredyrogu rugady nowy iwie oredy ... ema ... ma itoredy karega io ... kocare tagaidyre iwo ikogedy
 # text_eng = 
 # text_por = vixi, nossa vocês estão falando isso de mim, eu sou uma coitada, não é meu marido, ela que quer que eu fique com ele mas ela que quer ele,  maridinho dela mesmo dessa minha prima.... ela... mas não é meu marido não ió... por que vocês que querem que eu tenha marido
 1	Booio	booio	INTJ	intj	_	5	discourse	_	[];;
@@ -6628,7 +6628,7 @@
 5	tagagoi	ako	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	_	[];;
 6	oino	oino	ADV	adv	_	5	advmod	_	[];;
 7	ii	ji	ADP	posp	Number=Sing|Person=1	5	obl	_	[];;
-8	marenaruchirogunure	marenary	NOUN	n	Aspect=Prog|Degree=Dim|Mood=Ind	5	parataxis	_	humble,poor;pobre,coitado
+8	marenaryrogunure	marenary	NOUN	n	Aspect=Prog|Degree=Dim|Mood=Ind	5	parataxis	_	humble,poor;pobre,coitado
 9	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	[];;
 10	,	,	PUNCT	punct	_	8	punct	_	[];;
 11	itoredy	oredy	NOUN	n	Number=Sing|Person=1	5	parataxis	_	[];;
@@ -6643,14 +6643,14 @@
 20	ji	ji	ADP	posp	Number=Sing|Person=3	19	case	_	[];;
 21	dykodi	_	SCONJ	sconj	_	18	mark	_	[];;
 22	,	,	PUNCT	punct	_	18	punct	_	[];;
-23	oredyrogu	_	NOUN	n	Degree=Dim	18	parataxis	_	[];;
-24	rugady	_	ADV	adv	_	23	advcl	_	[];;
-25	nowy	_	DET	dem	_	26	det	_	[];;
+23	oredyrogu	oredy	NOUN	n	Degree=Dim	18	parataxis	_	[];;
+24	rugady	rugady	ADV	adv	_	23	advcl	_	[];;
+25	nowy	nowy	DET	dem	_	26	det	_	[];;
 26	iwie	bie	NOUN	n	Number=Sing|Person=1	23	nmod	_	[];;
-27	oredy	_	NOUN	n	_	26	discourse	_	[];;
-28	...	_	PUNCT	punct	_	23	punct	_	[];;
+27	oredy	oredy	NOUN	n	_	26	discourse	_	[];;
+28	...	...	PUNCT	punct	_	23	punct	_	[];;
 29	ema	ema	PRON	_	Number=Sing|Person=3|PronType=Prs	23	parataxis	_	[];;
-30	...	_	PUNCT	punct	_	29	punct	_	[];;
+30	...	...	PUNCT	punct	_	29	punct	_	[];;
 31	ma	ma	PART	prcl	_	32	cc	_	[];;
 32	itoredy	oredy	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	29	parataxis	_	[];;
 33	karega	karega	ADV	adv	Polarity=Neg	32	dep	_	[];;
