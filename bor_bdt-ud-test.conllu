@@ -5709,6 +5709,53 @@
 4	,	,	PUNCT	punct	_	5	punct	_	_
 5	iwoadymode	boady	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
 
+# sent_id = 145.EncIE
+# text = Aroe etawujedo keje , boe emode baiia mygydo
+# text_eng = On the occasion of the representation of spirits, the Bororo will build a fence made of palm leaves.
+# text_por = Por ocasião da representação de espíritos os bororo levantarão urna cerca de folhas de palmeiras.
+1	Aroe	aroe	NOUN	n	_	2	nsubj	_	_
+2	etawujedo	tawuje	VERB	v	Number=Plur|Person=3|Voice=Cau	8	advcl	_	_
+3	keje	keje	SCONJ	sconj	_	2	mark	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	boe	boe	NOUN	n	_	6	dep	_	_
+6	emode	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|Tense=Fut	8	nsubj	_	_
+7	baiia	baiia	NOUN	n	_	8	obj	_	_
+8	mygydo	mygydo	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 146.EncIE
+# text = Ipare ero oino , marido tawujedomode kodi
+# text_eng = Men do this because they have to represent the game of two cylinders of buriti petioles
+# text_por = Os homens fazem assim porque deveráo representar o jógo dos dois cilindros de pecíolos de buriti
+1	Ipare	iparedy	NOUN	n	Number=Plur	2	nsubj	_	_
+2	ero	ro	VERB	v	Number=Plur|Person=3	0	root	_	_
+3	oino	oino	ADV	adv	_	2	advmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	marido	marido	NOUN	n	_	6	nsubj	_	_
+6	tawujedomode	tawujedo	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Cau	2	advcl	_	_
+7	kodi	kodi	SCONJ	sconj	_	6	mark	_	_
+
+# sent_id = 147.EncIE
+# text = Bai mana gejewy boe ekedae todarewy
+# text_eng = 
+# text_por = A casa central é o lugar onde os bororo fabricam suas armas
+1	Bai	bai	NOUN	n	_	6	nsubj	_	_
+2	mana	_	NOUN	n	_	1	compound	_	_
+3	gejewy	_	_	_	Nomzr=Rel	2	compound	_	_
+4	boe	boe	NOUN	n	_	5	nmod	_	_
+5	ekedae	_	_	_	Number=Plur|Person=3	6	nmod	_	_
+6	todarewy	_	NOUN	n	Mood=Ind|Nomzr=Rel	0	root	_	_
+
+# sent_id = 148.EncIE
+# text = Barogwato boe emode Tamige Aroe etawuje
+# text_eng = 
+# text_por = Amanha os bororo farao a representação dos Tamige Aroe
+1	Barogwato	barogwato	ADV	adv	_	6	advmod	_	_
+2	boe	boe	NOUN	n	_	3	dep	_	_
+3	emode	e	PRON	n	Mood=Ind|Number=Plur|Person=3|Tense=Fut	6	nsubj	_	_
+4	Tamige	Tamige	PROPN	propn	_	_	_	_	_
+5	Aroe	aroe	NOUN	n	_	4	compound	_	_
+6	etawuje	tawuje	VERB	v	Number=Plur|Person=3	0	root	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
