@@ -5642,13 +5642,45 @@
 
 # sent_id = 137.EncIE
 # text = Imode noa kudu togido imerywo
-# text_eng = 
-# text_por = Prepararei meu farnel de farinha de cóco de babaçu para a caçada
+# text_eng = I prepared my
+# text_por = Prepararei meu farnel de farinha de côco de babaçu para a caçada
 1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	4	nsubj	_	_
 2	noa	noa	NOUN	n	_	3	nmod	_	_
 3	kudu	kudu	NOUN	n	_	4	obj	_	_
 4	togido	togido	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 5	imerywo	mery	NOUN	v	Mood=Sub|Number=Sing|Person=1	4	xcomp	_	_
+
+# sent_id = 138.EncIE
+# text = Etaregodyre pudogy
+# text_eng = They met
+# text_por = Encontraram-se
+1	Etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	pudogi	togi	ADP	posp	Reflex=Yes	1	obl	_	[];towards;in fron of;de frente,ao encontro
+
+# sent_id = 139.EncIE
+# text = Imygymode atogi
+# text_eng = I shall wait for you
+# text_por = Esperar-te-ei
+1	Imygymode	mygy	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+2	atogi	togi	ADP	posp	Number=Sing|Person=2	1	obl	_	_
+
+# sent_id = 140.EncIE
+# text = Ire pariko to ikimo ce
+# text_eng = I made a pariko as my ornament
+# text_por = Fiz um diadema de penas de arara para meu ornamento.
+1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	3	nsubj	_	_
+2	pariko	pariko	NOUN	n	_	3	obj	_	_
+3	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
+4	ikimo	imo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obl	_	_
+5	ce	ce	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = 141.EncIE
+# text = Imode beto to
+# text_eng = 
+# text_por = Farei uma esteira
+1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	_	_	_
+2	beto	beto	NOUN	n	_	3	_	_	_
+3	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
