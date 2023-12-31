@@ -5740,9 +5740,9 @@
 # text_por = A casa central é o lugar onde os bororo fabricam suas armas
 1	Bai	bai	NOUN	n	_	6	nsubj	_	_
 2	mana	mana	NOUN	n	_	1	compound	_	_
-3	gejewy	_	_	_	Nomzr=Rel	2	compound	_	_
+3	gejewy	keje	ADP	posp	Nomzr=Rel	2	compound	_	_
 4	boe	boe	NOUN	n	_	5	nmod	_	_
-5	ekedae	_	NOUN	_	Number=Plur|Person=3	6	nmod	_	_
+5	ekedae	kedae	NOUN	_	Number=Plur|Person=3	6	nmod	_	_
 6	todarewy	to	NOUN	n	Mood=Ind|Nomzr=Loc|Nomzr=Rel	0	root	_	_
 
 # sent_id = 148.EncIE
