@@ -5676,11 +5676,38 @@
 
 # sent_id = 141.EncIE
 # text = Imode beto to
-# text_eng = 
+# text_eng = I will make a mat
 # text_por = Farei uma esteira
 1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	_	_	_
 2	beto	beto	NOUN	n	_	3	_	_	_
 3	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 142.EncIE
+# text = Boe to ji
+# text_eng = Hit it
+# text_por = Bate-o
+1	Boe	boe	NOUN	n	_	2	_	_	_
+2	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	_	_	_
+
+# sent_id = 143.EncIE
+# text = Aremo bai to !
+# text_eng = Get in the house!
+# text_por = Entra na choupana!
+1	Aremo	remo	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	bai	bai	NOUN	n	_	1	obl	_	_
+3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 144.EncIE
+# text = Mano tody kejere , iwoadymode
+# text_eng = When the mano race is over, I'll go for a walk
+# text_por = Quando acabar a corrida do mano irei passear
+1	Mano	mano	NOUN	n	_	2	nmod	_	_
+2	tody	tody	NOUN	n	_	3	nmod	_	fabrication,preparation,creation;fabricação,preparação,criação
+3	kejere	keje	ADP	posp	Mood=Ind	5	advcl	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	iwoadymode	boady	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
