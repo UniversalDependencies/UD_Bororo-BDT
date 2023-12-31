@@ -5736,14 +5736,14 @@
 
 # sent_id = 147.EncIE
 # text = Bai mana gejewy boe ekedae todarewy
-# text_eng = 
+# text_eng = The central house is the place where the Bororo make their weapons
 # text_por = A casa central é o lugar onde os bororo fabricam suas armas
 1	Bai	bai	NOUN	n	_	6	nsubj	_	_
-2	mana	_	NOUN	n	_	1	compound	_	_
+2	mana	mana	NOUN	n	_	1	compound	_	_
 3	gejewy	_	_	_	Nomzr=Rel	2	compound	_	_
 4	boe	boe	NOUN	n	_	5	nmod	_	_
-5	ekedae	_	_	_	Number=Plur|Person=3	6	nmod	_	_
-6	todarewy	_	NOUN	n	Mood=Ind|Nomzr=Rel	0	root	_	_
+5	ekedae	_	NOUN	_	Number=Plur|Person=3	6	nmod	_	_
+6	todarewy	to	NOUN	n	Mood=Ind|Nomzr=Loc|Nomzr=Rel	0	root	_	_
 
 # sent_id = 148.EncIE
 # text = Barogwato boe emode Tamige Aroe etawuje
@@ -5755,6 +5755,24 @@
 4	Tamige	Tamige	PROPN	propn	_	_	_	_	_
 5	Aroe	aroe	NOUN	n	_	4	compound	_	_
 6	etawuje	tawuje	VERB	v	Number=Plur|Person=3	0	root	_	_
+
+# sent_id = 149.EncIE
+# text = Apy ure tydary tyiari piji
+# text_eng = The paca escaped from the den
+# text_por = A paca escapou da toca
+1	Apy	apy	NOUN	n	_	2	dep	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	tydary	tary	NOUN	n	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+4	tyiari	iari	NOUN	n	Number=Sing|Person=3|Reflex=Yes	3	obl	_	_
+5	piji	piji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = 150.EncIE
+# text = Imode nonogo ta
+# text_eng = 
+# text_por = Cultivarei urucu
+1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	_
+2	nonogo	nonogo	NOUN	n	_	3	obj	_	_
+3	ta	ta	VERB	v	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
