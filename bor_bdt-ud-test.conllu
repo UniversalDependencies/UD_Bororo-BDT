@@ -5678,17 +5678,17 @@
 # text = Imode beto to
 # text_eng = I will make a mat
 # text_por = Farei uma esteira
-1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	_	_	_
-2	beto	beto	NOUN	n	_	3	_	_	_
+1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=3|Tense=Fut	3	nsubj	_	_
+2	beto	beto	NOUN	n	_	3	obj	_	_
 3	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 142.EncIE
 # text = Boe to ji
 # text_eng = Hit it
 # text_por = Bate-o
-1	Boe	boe	NOUN	n	_	2	_	_	_
-2	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
-3	ji	ji	ADP	posp	Number=Sing|Person=3	2	_	_	_
+1	Boe	boe	NOUN	n	_	2	nmod	_	_
+2	to	to	NOUN	n	Number=Sing|Person=3	0	root	_	_
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 
 # sent_id = 143.EncIE
 # text = Aremo bai to !
