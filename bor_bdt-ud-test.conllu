@@ -5939,6 +5939,15 @@
 3	urydo	rydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	roga	roga	ADV	adv	_	3	advmod	_	_
 
+# sent_id = 168.EncIE
+# text = Areme rotorerogodyre kurucerewy bogai
+# text_eng = The women started picking jabuticaba
+# text_por = As mulheres começaram a catar jaboticabas
+1	Areme	aredy	NOUN	n	Number=Plur	2	nsubj	_	_
+2	erotorerogodyre	rotorerogody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	kurucerewy	kurucerewy	NOUN	n	Nomzr=Rel	2	obl	_	_
+4	bogai	bogai	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
