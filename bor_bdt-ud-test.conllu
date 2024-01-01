@@ -5934,10 +5934,10 @@
 # text = Ikare pobo urydo roga
 # text_eng = I have not heat up the water yet
 # text_por = Ainda nao aqueci a água
-1	Ikare	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	_	_	_
-2	pobo	pobo	NOUN	n	_	3	_	_	_
+1	Ikare	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	nsubj	_	_
+2	pobo	pobo	NOUN	n	_	3	obj	_	_
 3	urydo	rydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
-4	roga	roga	ADV	adv	_	3	_	_	_
+4	roga	roga	ADV	adv	_	3	advmod	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
