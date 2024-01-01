@@ -5905,6 +5905,40 @@
 9	boe	boe	NOUN	n	_	10	nsubj	_	_
 10	urygydodymode	rygydo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=CauPass	4	conj	_	_
 
+# sent_id = 164.EncIE
+# text = Jory binure , urygydo !
+# text_eng = The fire is about to go out: revive it!
+# text_por = O fogo está para apagar-se : aviva-o!
+1	Jory	jory	NOUN	n	_	2	nsubj	_	_
+2	binure	bi	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	urygydo	ygydo	VERB	v	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 165.EncIE
+# text = Jerigi urygodynure
+# text_eng = The firewood starts to burn
+# text_por = A lenha começa a arder
+1	Jerigi	jerigi	NOUN	n	_	2	nsubj	_	_
+2	urygodynure	rygody	VERB	v	Aspect=IncProg|Mood=Ind|Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 166.EncIE
+# text = Amode irygo ai
+# text_eng = You'll make me argue/fight with you
+# text_por = Far-me-ás brigar contigo
+1	Amode	a	PRON	bi	Mood=Ind|Number=Sing|Person=2|Tense=Fut	2	nsubj	_	_
+2	irygo	rygo	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	;acender,arder,altercar,brigar
+3	ai	ai	ADP	posp	Number=Sing|Person=2	2	obl	_	_
+
+# sent_id = 167.EncIE
+# text = Ikare pobo urydo roga
+# text_eng = I have not heat up the water yet
+# text_por = Ainda nao aqueci a água
+1	Ikare	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	3	_	_	_
+2	pobo	pobo	NOUN	n	_	3	_	_	_
+3	urydo	rydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+4	roga	roga	ADV	adv	_	3	_	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
