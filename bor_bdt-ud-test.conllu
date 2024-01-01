@@ -5960,6 +5960,27 @@
 6	parori	parori	NOUN	n	_	2	obl	_	_
 7	bogai	bogai	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
+# sent_id = 170.EncIE
+# text = Ure boe roto oino piji
+# text_eng = He thus removed things from above
+# text_por = Ele assim retirou as coisas de cima
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+2	boe	boe	NOUN	n	_	3	obj	_	_
+3	roto	roto	VERB	v	_	0	root	_	;retirada,disperção
+4	oino	oino	ADV	adv	_	3	advmod	_	_
+5	piji	piji	ADP	posp	Number=Sing|Person=3	3	obl	_	_
+
+# sent_id = 171.EncIE
+# text = Barogwato boe emode aroe jaro rorigido
+# text_eng = Tomorrow the Bororo will decorate the funeral basket
+# text_por = Amanhã os Bororo ornamentarão a cesta funerária
+1	Barogwato	barogwato	ADV	adv	_	6	advmod	_	_
+2	boe	boe	NOUN	n	_	3	dep	_	_
+3	emode	e	PRON	bi	Mood=Ind|Number=Sing|Person=3|Tense=Fut	6	nsubj	_	_
+4	aroe	aroe	NOUN	n	_	5	nmod	_	_
+5	jaro	jaro	NOUN	n	_	6	obj	_	_
+6	rorigido	rorigi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
