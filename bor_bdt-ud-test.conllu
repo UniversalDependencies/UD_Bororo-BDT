@@ -5948,6 +5948,18 @@
 3	kurucerewy	kurucerewy	NOUN	n	Nomzr=Rel	2	obl	_	_
 4	bogai	bogai	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
+# sent_id = 169.EncIE
+# text = Tamode tarotorerogo boe kigudu ji parori bogai
+# text_eng = You will pick cumaru fruits among the leaves on the ground
+# text_por = Catareis entre as folhas do chão frutas de cumaru
+1	Tamode	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2|Tense=Fut	2	nsubj	_	_
+2	tarotorerogo	rotorerogo	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	pick up;catar
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4	kigudu	kigudu	NOUN	n	_	2	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	parori	parori	NOUN	n	_	2	obl	_	_
+7	bogai	bogai	ADP	posp	Number=Sing|Person=3	6	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
