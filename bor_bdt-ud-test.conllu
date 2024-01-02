@@ -5981,6 +5981,39 @@
 5	jaro	jaro	NOUN	n	_	6	obj	_	_
 6	rorigido	rorigi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
+# sent_id = 172.EncIE
+# text = Ipare eroredygodynure bai mana gejewy to iku tabo
+# text_eng = The young men in the central hut begin to have fun twining strings
+# text_por = Os moços da choupana central começam a divertir-se entrelaçando cordéis
+1	Ipare	ipare	NOUN	n	_	2	nsubj	_	_
+2	eroredygodynure	roredygody	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	0	root	_	begin to play;começar a brincar
+3	bai	bai	NOUN	n	_	2	obl	_	_
+4	mana	mana	NOUN	n	_	3	compound	_	_
+5	gejewy	gejewy	NOUN	n	Nomzr=Rel	4	compound	_	_
+6	to	to	ADP	posp	Number=Sing|Person=3	3	case	_	_
+7	iku	iku	NOUN	n	_	2	obl	_	_
+8	tabo	apo	ADP	posp	Number=Sing|Person=3	7	case	_	_
+
+# sent_id = 173.EncIE
+# text = Iwierogu jakarere ii , ire roredydo kodi
+# text_eng = My younger brother is happy because I made him play
+# text_por = Meu irmao menor é contente porque o fiz brincar
+1	Iwierogu	wie	NOUN	n	Degree=Dim|Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	jakarere	jakare	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	ii	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	6	nsubj	_	_
+6	roredydo	roredy	VERB	v	Number=Sing|Person=3|Voice=Cau	2	advcl	_	play;brincadeira
+7	kodi	kodi	SCONJ	sconj	_	6	mark	_	_
+
+# sent_id = 174.EncIE
+# text = Iroredynure iwie ji
+# text_eng = I am playing with my yonger brother
+# text_por = Brinco com meu irmão menor
+1	Iroredynure	roredy	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	iwie	wie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	1	obl	_	_
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
