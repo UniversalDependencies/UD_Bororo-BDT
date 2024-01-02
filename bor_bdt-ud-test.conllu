@@ -6014,6 +6014,15 @@
 2	iwie	wie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	1	obl	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 
+# sent_id = 175.EncIE
+# text = Arijodyre imuga ro kyda
+# text_eng = Your were raised under the care of my mother
+# text_por = Foste criado debaixo dos cuidados de minha mãe
+1	Arijodyre	rijody	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+2	imuga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	nmod	_	_
+3	ro	ro	NOUN	n	_	1	obl	_	_
+4	kyda	kyda	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
