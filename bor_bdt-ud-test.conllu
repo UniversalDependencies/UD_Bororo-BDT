@@ -6023,6 +6023,16 @@
 3	ro	ro	NOUN	n	_	1	obl	_	_
 4	kyda	kyda	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
+# sent_id = 176.EncIE
+# text = Nogware kygyre erokowodygody etuwiemage ji
+# text_eng = The small girls begin to make their younger sisters play
+# text_por = As meninas começam a fazer brincar suas irmazinhas
+1	Nogware	nogwaredy	NOUN	n	Number=Plur	3	nsubj	_	_
+2	kygyre	kygyre	NOUN	n	_	1	nmod	_	_
+3	erokowodygody	rokowody	VERB	v	Number=Plur|Person=3	0	root	_	_
+4	etuwiemage	wie	NOUN	n	Number=Plur|Number[psor]=Plur|Person=3	3	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
