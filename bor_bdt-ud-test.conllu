@@ -6083,6 +6083,14 @@
 1	Page	ke	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	rogodynure	rogody	VERB	v	Aspect=Prog	0	root	_	become tasty;tornar-se gostoso
 
+# sent_id = 182.EncIE
+# text = Imaragody kyrire inoroedowo
+# text_eng = I struggle a lot to look for goods
+# text_por = Agito-me muito para procurar bens
+1	Imaragody	maragody	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	kyrire	kyri	NOUN	n	Mood=Ind	0	root	_	_
+3	inoroedowo	roedo	VERB	v	Mood=Sub|Number=Sing|Person=1	2	advcl	_	look for goods for oneself;procurar-se bens
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
