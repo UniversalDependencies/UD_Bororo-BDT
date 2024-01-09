@@ -6033,6 +6033,28 @@
 4	etuwiemage	wie	NOUN	n	Number=Plur|Number[psor]=Plur|Person=3	3	obl	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
+# sent_id = 177.EncIE
+# text = Imuga ure iroiwado beto ji
+# text_eng = My mother taught me to weave a mat
+# text_por = Minha mãe ensinou-me a trançar urna esteira
+1	Imuga	muga	NOUN	noun	Number=Sing|Number[psor]=Sing|Person=1	2	dep	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=1	3	nsubj	_	_
+3	iroiwado	roiwado	VERB	v	Number=Sing|Person=1	0	root	_	teach,make possible;ensinar,possibilitar
+4	beto	beto	NOUN	n	_	3	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = 178.EncIE
+# text = Iroiwa bokwagodyre awy mygyre ikanaora kejeboe tabo
+# text_eng = It's becoming impossible to carry this sitting on my shoulder
+# text_por = Começo a nao tolerar o peso que tenho sobre os ombros
+1	Iroiwa	roiwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	be possible,tolerance;ser possível,tolerancia
+2	bokwagodyre	bokwa	ADV	adv	Aspect=Imi|Mood=Ind|Polarity=Neg	1	advmod	_	_
+3	awy	awy	DET	dem	_	4	det	_	_
+4	mygyre	mygy	NOUN	n	Mood=Ind	1	csubj	_	_
+5	ikanaora	kanao	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	obl	_	_
+6	kejeboe	kejeboe	ADP	posp	_	5	case	_	_
+7	tabo	apo	ADP	posp	Number=Sing|Person=3	4	obl	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
