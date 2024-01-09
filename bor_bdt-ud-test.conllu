@@ -6072,9 +6072,16 @@
 # text_eng = The Bororo begin to make the marido
 # text_por = Os bororo começam a fazer os maridos
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
-2	erogodynure	rogody	VERB	v	Aspect=IncProg|Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	erogodynure	rogody	VERB	v	Aspect=IncProg|Mood=Ind|Number=Plur|Person=3	0	root	_	imminent action;ação iminente
 3	marido	marido	NOUN	n	_	2	obl	_	_
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 181.EncIE
+# text = Page rogodynure
+# text_eng = Our food is becoming to get tasty
+# text_por = Nossa refeição começa a ficar gostosa
+1	Page	ke	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	rogodynure	rogody	VERB	v	Aspect=Prog	0	root	_	become tasty;tornar-se gostoso
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
