@@ -6091,6 +6091,24 @@
 2	kyrire	kyri	NOUN	n	Mood=Ind	0	root	_	_
 3	inoroedowo	roedo	VERB	v	Mood=Sub|Number=Sing|Person=1	2	advcl	_	look for goods for oneself;procurar-se bens
 
+# sent_id = 183.EncIE
+# text = Ike rodody boire ii
+# text_eng = I wish to eat something tasty
+# text_por = Dsejo comer algo gostoso
+1	Ike	ke	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	nsubj	_	_
+2	rodody	ro	NOUN	n	_	1	nmod	_	_
+3	boire	boi	NOUN	n	Mood=Ind	0	root	_	_
+4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
+
+# sent_id = 184.EncIE
+# text = Iogwa ure irodo oino
+# text_eng = My fater told me to do thus
+# text_por = Meu pai ele me mandou fazer assim
+1	Iogwa	o	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	dep	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	irodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	order;ordenar,mandar
+4	oino	oino	ADV	adv	_	3	advmod	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
