@@ -1334,8 +1334,8 @@
 
 # sent_id = ABE-217
 # text = arydyre boe ewogyre dyji ?
-# text_eng = Did you see that the Boror fished?
-# text_por = você viu que os bororo pescaram?
+# text_eng = Did you see that the Bororo fished?
+# text_por = você viu que os pescaram?
 1	arydyre	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	see;ver
 2	boe	boe	NOUN	n	_	3	nsubj	_	[];;
 3	ewogyre	wogy	VERB	v	Mood=Ind|Number=Plur|Person=3	1	ccomp	_	fish;pescar
@@ -3387,7 +3387,7 @@
 # text_eng = 
 # text_por = ele estragou meu trabalho
 1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	[];;
-2	imaragodyidu	_	VERB	v	Number=Sing|Person=1	3	obj	_	[];;
+2	imaragodyidu	maragody	VERB	v	Number=Sing|Person=1	3	obj	_	[];;
 3	pegado	pega	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	[];;
 
 # sent_id = 0071d.PessGr
@@ -6127,6 +6127,60 @@
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 3	itao	ao	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	4	obj	_	_
 4	rodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 187.EncIE
+# text = Ure uro barigu kyri tyiagi
+# text_eng = He quickly put red paint in his mouth
+# text_por = Ele threw rapidamente piçarra vermelha em sua boca
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+2	uro	ro	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	3	nmod	_	_
+3	barigu	barigu	NOUN	n	_	0	root	_	throw,put,placement;colocação;pôr
+4	kyri	kyri	ADV	adv	_	3	advmod	_	_
+5	tyiagi	jagi	ADP	posp	Number=Sing|Person=3|Reflex=Yes	3	obl	_	in the mouth;dentro da boca
+
+# sent_id = 188.EncIE
+# text = Taro pegakaba !
+# text_eng = Do not do evil!
+# text_por = Não pratiqueis o mal !
+1	Taro	ro	VERB	v	Number=Plur|Person=2	0	root	_	deed,action;ação,feito
+2	pegakaba	pega	ADV	adv	Mood=Imp|Polarity=Neg	1	_	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 189.EncIE
+# text = Iorydykare iromode dyji
+# text_eng = I do not know what to do
+# text_por = Não sei o que fazer
+1	Iorydykare	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
+2	iromode	ro	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	ccomp	_	_
+3	dyji	dyji	X	x	_	2	dep	_	_
+
+# sent_id = 190.EncIE
+# text = Ake rore ikeno to
+# text_eng = Your food is tasty
+# text_por = Tua comida é gostosa
+1	Ake	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nsubj	_	_
+2	rore	ro	VERB	v	Mood=Ind|Number=Sing	0	root	_	_
+3	ikeno	eno	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
+4	to	to	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 191.EncIE
+# text = Akeno pagado romode dybogai
+# text_eng = Smell it (to know) if it smells good
+# text_por = Cheira para experimentar se é perfumado
+1	Akeno	eno	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	obj	_	nose;nariz
+2	pagado	paga	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+3	romode	ro	VERB	v	Mood=Ind|Tense=Fut	2	ccomp	_	_
+4	dybogai	dybogai	SCONJ	sconj	_	3	mark	_	_
+
+# sent_id = 192.EncIE
+# text = Kajao , ikare riwydydo roga
+# text_eng = Wait, I still haven't prepared the embira to carry the weight
+# text_por = Espera, ainda nao preparei a embira para carregar o peso
+1	Kajao	kajao	ADV	adv	AdvType=Temp|Polarity=Neg	4	advmod	_	not yet;ainda não
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ikare	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	nsubj	_	_
+4	riwydydo	riwydydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	;Preparar uma embira para carregar pesos
+5	roga	roga	ADV	adv	AdvType=Temp	4	advmod	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
