@@ -6197,9 +6197,18 @@
 # text_por = Meu pai mandou-me que ajudasse minha mãe
 1	Iogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	dep	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
-3	iritydo	ritydo	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
-4	imuga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obl	_	_
+3	iritydo	ritydo	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	cause to help;fazer ajudar
+4	imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obl	_	_
 5	bogai	bogai	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = 195.EncIE
+# text = Imana rirygodynure jory bogai
+# text_eng = 
+# text_por = Meu irmão maior está preparando-se para produzir fogo por atrito
+1	Imana	mana	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	rirygodynure	rirygody	VERB	v	Aspect=Prog|Mood=Ind|Voice=CauInc	0	root	_	make fire, fazer fogo por atrito
+3	jory	jory	NOUN	n	_	2	obl	_	_
+4	bogai	bogai	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
