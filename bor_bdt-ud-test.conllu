@@ -6182,6 +6182,25 @@
 4	riwydydo	riwydydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	;Preparar uma embira para carregar pesos
 5	roga	roga	ADV	adv	AdvType=Tim	4	advmod	_	_
 
+# sent_id = 193.EncIE
+# text = Imuga rityre iogwa bogai
+# text_eng = 
+# text_por = Minha mãe foi ao encontro de meu pai (para aliviar o peso da caça)
+1	Imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	rityre	rity	VERB	v	Mood=Ind	0	root	_	help with carrying weight;ajuda carregar peso
+3	iogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
+4	bogai	bogar	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 194.EncIE
+# text = Iogwa ure iritydo imuga bogai
+# text_eng = My father made me help my mother
+# text_por = Meu pai mandou-me que ajudasse minha mãe
+1	Iogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	dep	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	iritydo	ritydo	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+4	imuga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obl	_	_
+5	bogai	bogai	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
 # text_eng = The cicada said it would measure its food desire with that of the jaguar
