@@ -219,9 +219,9 @@
 # text_eng = 
 # text_por = Faço assim porque você está aqui
 1	Irore	ro	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
-2	oino	oino	ADV	adv	_	1	advmod	_	[];;
+2	oino	oino	ADV	adv	AdvType=Man	1	advmod	_	[];;
 3	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	advcl	_	[];;
-4	woe	woe	ADV	adv	_	3	advmod	_	[];;
+4	oino	oino	ADV	adv	AdvType=Loc	3	advmod	_	[];;
 5	dykoia	dykoya	SCONJ	sconj	_	3	mark	_	[];;
 
 # sent_id = FWFFG-024
@@ -229,9 +229,9 @@
 # text_eng = 
 # text_por = Faço assim porque você está aqui
 1	Irore	ro	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
-2	oino	oino	ADV	adv	_	1	advmod	_	[];;
+2	oino	oino	ADV	adv	AdvType=Man	1	advmod	_	[];;
 3	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	advcl	_	[];;
-4	woe	woe	ADV	adv	_	3	advmod	_	[];;
+4	oino	oino	ADV	adv	AdvType=Loc	3	advmod	_	[];;
 5	dykoiare	dykoya	SCONJ	sconj	Mood=Ind	3	mark	_	[];;
 
 # sent_id = FWFFG-024b
@@ -326,7 +326,7 @@
 4	,	,	PUNCT	punct	_	3	punct	_	[];;
 5	aire	ai	ADP	posp	Mood=Ind|Number=Sing|Person=2	6	obl	_	[];;
 6	ako	ako	VERB	v	Number=Sing|Person=3	3	parataxis	_	[];;
-7	oino	oino	ADV	adv	_	6	advcl	_	[];;
+7	oino	oino	ADV	adv	AdvType=Man	6	advcl	_	[];;
 
 # sent_id = FWFFG-032.RaimundoItogoga
 # text = Boe erybo kuricigore boe tada
@@ -432,7 +432,7 @@
 # text_por = Eu não quero sua presença aqui
 1	Ikiarire	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	ai	ji	ADP	posp	Number=Sing|Person=2	1	case	_	[];;
-3	woe	woe	ADV	adv	_	1	advmod	_	[];;
+3	oino	oino	ADV	adv	AdvType=Loc	1	advmod	_	[];;
 
 # sent_id = FWFFG-0101
 # text = Akeragu cai je !
@@ -978,7 +978,7 @@
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	[];;
 4	akore	ko	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
-5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3	4	xcomp	_	eat;comer
+5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3|Speech=IndOpt	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	[];;
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
@@ -1646,7 +1646,7 @@
 1	boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	people,thing;gente,povo,coisa
 2	boe	boe	NOUN	n	_	3	obj	_	people,thing;gente,povo,coisa
 3	tygu	tygu	VERB	v	Number=Sing|Person=3	0	root	_	[ˈtɯɡʷu];plant;plantar
-4	woe	woe	ADV	adv	_	3	advcl	_	here;aqui
+4	oino	oino	ADV	adv	AdvType=Loc	3	advcl	_	here;aqui
 
 # sent_id = ABE-265
 # text = Boere boe tugutugu woe
@@ -1655,7 +1655,7 @@
 1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	[];;
 2	boe	boe	NOUN	n	_	3	obj	_	[];;
 3	tugutugu	tygu	VERB	v	Aspect=Iter|Number=Sing|Person=3	0	root	_	[];plant;plantar
-4	woe	woe	ADV	adv	_	3	advmod	_	[wɔ̰ɛ̯];here;aqui
+4	oino	oino	ADV	adv	AdvType=Loc	3	advmod	_	[wɔ̰ɛ̯];here;aqui
 
 # sent_id = ABE-267
 # text = kaboba amode maku Enawureudo ai ?
@@ -2345,7 +2345,7 @@
 # text_por = Eu quero morar aqui com os bororos
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
 2	imuguwo	mugu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
-3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
+3	oino	oino	ADV	adv	AdvType=Loc	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	[];;
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
 
@@ -2403,7 +2403,7 @@
 # text_por = Eu quero morar aqui perto dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	imuguwo	mugu	VERB	v	Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	[];;
-3	woe	woe	ADV	adv	_	2	advmod	_	here;aqui
+3	oino	oino	ADV	adv	AdvType=Loc	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	[];;
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	[];;
 
@@ -2413,7 +2413,7 @@
 # text_por = Eu quero que você more aqui
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	ccomp	_	[];;
-3	woe	woe	ADV	adv	_	2	advcl	_	[];;
+3	oino	oino	ADV	adv	AdvType=Loc	2	advcl	_	[];;
 
 # sent_id = CGPB-p31.1
 # text = Itaidure erudiwawo
@@ -2678,7 +2678,7 @@
 16	korogedy	_	NOUN	n	_	17	nmod	_	stream;córrego
 17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
 18	ji	ji	ADP	posp	Number=Sing|Person=3	17	case	_	[];;
-19	woe	woe	ADV	adv	_	12	advmod	_	[];;
+19	oino	oino	ADV	adv	AdvType=Loc	12	advmod	_	[];;
 20	,	,	PUNCT	punct	_	19	punct	_	[];;
 21	jice	jice	ADV	adv	_	22	advmod	_	there;lá
 22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
@@ -3370,7 +3370,7 @@
 # text_eng = 
 # text_por = tendo eu falado assim
 1	imagoi	mako	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	[];;
-2	oino	oino	ADV	adv	_	1	advmod	_	[];;
+2	oino	oino	ADV	adv	AdvType=Man	1	advmod	_	[];;
 3	dykeje	dykeje	X	x	_	1	mark	_	[];;
 
 # sent_id = 0071b.PessGr
@@ -3379,7 +3379,7 @@
 # text_por = chegou fazendo assim
 1	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 2	turoi	ro	VERB	v	Reflex=Yes|VerbForm=Ger	1	xcomp	_	[];;
-3	oino	oino	ADV	adv	_	2	advmod	_	[];;
+3	oino	oino	ADV	adv	AdvType=Man	2	advmod	_	[];;
 4	dytabo	dytabo	SCONJ	sconj	_	2	mark	_	[];;
 
 # sent_id = 0071c.PessGr
@@ -4316,7 +4316,7 @@
 # text_por = Quem falou assim ?
 1	Iaguduba	iaguduba	PRON	_	_	2	nsubj	_	who;quem
 2	ako	ako	VERB	v	Number=Sing|Person=3	0	root	_	[];;
-3	oino	oino	ADV	adv	_	2	advmod	_	[];;
+3	oino	oino	ADV	adv	AdvType=Man	2	advmod	_	[];;
 4	?	?	PUNCT	punct	_	2	punct	_	[];;
 
 # sent_id = 002.EncIEx
@@ -5139,7 +5139,7 @@
 # text_eng = The village will not be built here, because the place is not good
 # text_por = A aldeia não será construída aqui, porque o lugar não é bom
 1	Badodymodykare	bado	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Voice=CauPass	0	root	_	_
-2	woe	woe	ADV	adv	_	1	advmod	_	_
+2	oino	oino	ADV	adv	AdvType=Loc	1	advmod	_	_
 3	boe	boe	NOUN	n	_	4	nmod	_	_
 4	pegakare	pega	NOUN	n	Mood=Ind|Polarity=Neg	1	advcl	_	_
 5	kodi	kodi	SCONJ	sconj	_	4	mark	_	_
@@ -5728,7 +5728,7 @@
 # text_por = Os homens fazem assim porque deveráo representar o jógo dos dois cilindros de pecíolos de buriti
 1	Ipare	iparedy	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ero	ro	VERB	v	Number=Plur|Person=3	0	root	_	_
-3	oino	oino	ADV	adv	_	2	advmod	_	_
+3	oino	oino	ADV	adv	AdvType=Man	2	advmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	marido	marido	NOUN	n	_	6	nsubj	_	_
 6	tawujedomode	tawujedo	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Cau	2	advcl	_	_
@@ -5967,7 +5967,7 @@
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	obj	_	_
 3	roto	roto	VERB	v	_	0	root	_	;retirada,disperção
-4	oino	oino	ADV	adv	_	3	advmod	_	_
+4	oino	oino	ADV	adv	AdvType=Man	3	advmod	_	_
 5	piji	piji	ADP	posp	Number=Sing|Person=3	3	obl	_	_
 
 # sent_id = 171.EncIE
@@ -6049,7 +6049,7 @@
 # text_por = Tornou-se impossível suportar isso que está sobre os ombros
 1	Iroiwa	roiwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	be possible,tolerance;ser possível,tolerancia
 2	bokwagodyre	bokwa	ADV	adv	Aspect=Imi|Mood=Ind|Polarity=Neg	1	advmod	_	_
-3	awy	awy	DET	dem	_	4	det	_	_
+3	awy	awy	DET	dem	Deixis=Prox	4	det	_	_
 4	mygyre	mygy	NOUN	n	Mood=Ind	1	csubj	_	_
 5	ikanaora	kanao	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	obl	_	_
 6	kejeboe	kejeboe	ADP	posp	_	5	case	_	_
@@ -6096,18 +6096,37 @@
 # text_eng = I wish to eat something tasty
 # text_por = Dsejo comer algo gostoso
 1	Ike	ke	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	nsubj	_	_
-2	rodody	ro	NOUN	n	_	1	nmod	_	_
+2	rodody	ro	NOUN	n	Voice=CauPass	1	nmod	_	_
 3	boire	boi	NOUN	n	Mood=Ind	0	root	_	_
 4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
 
 # sent_id = 184.EncIE
 # text = Iogwa ure irodo oino
-# text_eng = My fater told me to do thus
-# text_por = Meu pai ele me mandou fazer assim
+# text_eng = My father made me do thus
+# text_por = Meu pai me mandou fazer assim
 1	Iogwa	o	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	dep	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 3	irodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	order;ordenar,mandar
-4	oino	oino	ADV	adv	_	3	advmod	_	_
+4	oino	oino	ADV	adv	AdvType=Man	3	advmod	_	_
+
+# sent_id = 185.EncIE
+# text = Imana akore aiagu tuge rodo
+# text_eng = My older brother said you should prepare him tasty food
+# text_por = Meu irmao maior disse que lhe prepares uma comida gostosa
+1	Imana	mana	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	_	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=IndOpt	5	_	_	_
+4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	_	_	food;comida
+5	rodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	2	_	_	make smell good;perfumar
+
+# sent_id = 186.EncIE
+# text = Imuga ure itao rodo
+# text_eng = My mother made my hair smell good
+# text_por = Minha mae perfumou meus cabelo
+1	Imuga	muga	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	dep	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+3	itao	ao	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	4	obj	_	_
+4	rodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
@@ -6176,8 +6195,8 @@
 5	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	2	ccomp	_	[];sit;sentar
 6	ty	ty	ADV	adv	_	5	advmod	_	[];;
 7	,	,	PUNCT	punct	_	5	punct	_	[];;
-8	woe	woe	ADV	adv	_	11	advmod	_	[];here;aqui
-9	awy	awy	DET	dem	_	11	det	_	[];;
+8	oino	oino	ADV	adv	AdvType=Loc	11	advmod	_	[];here;aqui
+9	awy	awy	DET	dem	Deixis=Prox	11	det	_	[];;
 10	i	i	NOUN	n	_	11	nmod	_	[];tree;árvore
 11	paru	paru	NOUN	n	_	5	obl	_	[];;
 12	,	,	PUNCT	punct	_	11	punct	_	[];;
@@ -6352,7 +6371,7 @@
 6	mugu	mugu	VERB	v	Number=Sing|Person=3	7	advcl	_	[];;
 7	pagado	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	wait;esperar
 8	tu	tu	ADV	adv	_	7	advmod	_	thus;assim
-9	woe	woe	ADV	adv	_	7	advmod	_	here;aqui
+9	oino	oino	ADV	adv	AdvType=Loc	7	advmod	_	here;aqui
 10	tuwiri	biri	NOUN	n	Number=Sing|Person=3|Reflex=Yes	7	obl	_	skin;pele
 11	bioro	bioro	NOUN	n	_	7	obl	_	empty;vazio
 12	keje	keje	ADP	posp	Number=Sing|Person=3	11	case	_	[];;
@@ -6425,7 +6444,7 @@
 6	imode	i	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	7	nsubj	_	[];;
 7	by	by	VERB	v	Number=Sing|Person=3	1	conj	_	[];;
 8	ty	ty	ADV	adv	_	10	advmod	_	[];;
-9	oino	oino	ADV	adv	_	8	compound	_	[];;
+9	oino	oino	ADV	adv	AdvType=Man	8	compound	_	[];;
 10	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	7	obl	_	[];;
 
 # sent_id = 005.IETKB
@@ -6516,12 +6535,12 @@
 8	areme	aredy	NOUN	n	Number=Plur	10	nsubj	_	[];;
 9	eawadarodae	batarodae	NOUN	n	Number=Plur|Person=3	10	obj	_	lie;mentira
 10	okwakare	okwa	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	parataxis	_	hide,loose;perder,esconder
-11	oino	oino	ADV	adv	_	10	advmod	_	[];;
+11	oino	oino	ADV	adv	AdvType=Man	10	advmod	_	[];;
 12	epiji	piji	ADP	posp	Number=Plur|Person=3	10	obl	_	[];;
 13	:	_	PUNCT	punct	_	10	punct	_	[];;
 14	pady	_	VERB	v	_	10	parataxis	_	[];;
 15	kimore	kimo	ADV	adv	Mood=Ind	14	advmod	_	[];;
-16	oino	oino	ADV	adv	_	14	advmod	_	[];;
+16	oino	oino	ADV	adv	AdvType=Man	14	advmod	_	[];;
 17	ewygeje	bukeje	ADP	posp	Number=Plur|Person=3	14	obl	_	[];;
 
 # sent_id = 013.IETKB
@@ -6845,7 +6864,7 @@
 # text_por = Então aquele (menino) disse: mãe, eu vou ...
 1	Dykeje	dykeje	ADV	adv	_	4	advmod	_	[];;
 2	icare	icare	ADV	adv	_	4	advmod	_	[];;
-3	ecewy	ecewu	PRON	pron	Number=Sing|PronType=Dem	4	nsubj	_	that one;aquele
+3	ecewy	ecewy	PRON	pron	Number=Sing|PronType=Dem	4	nsubj	_	that one;aquele
 4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 5	:	:	PUNCT	punct	_	4	punct	_	[];;
 6	imuga	ce	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	7	vocative	_	mother;mãe
@@ -6961,7 +6980,7 @@
 3	kocare	kocare	ADV	adv	_	5	advmod	_	[];;
 4	ca	ca	INTJ	intj	_	5	discourse	_	[];;
 5	tagagoi	ako	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	_	[];;
-6	oino	oino	ADV	adv	_	5	advmod	_	[];;
+6	oino	oino	ADV	adv	AdvType=Man	5	advmod	_	[];;
 7	ii	ji	ADP	posp	Number=Sing|Person=1	5	obl	_	[];;
 8	marenaryrogunure	marenary	NOUN	n	Aspect=Prog|Degree=Dim|Mood=Ind	5	parataxis	_	humble,poor;pobre,coitado
 9	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	[];;
@@ -7158,7 +7177,7 @@
 8	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	[];;
 9	Torowari	Torowari	PROPN	propn	_	8	obj	_	[];;
 10	ri	ri	NOUN	n	_	9	flat	_	stone,hill,mountain;pedra,rocha,monte,montanha
-11	oino	oino	ADV	adv	_	8	advmod	_	[];;
+11	oino	oino	ADV	adv	AdvType=Man	8	advmod	_	[];;
 
 # sent_id = 009.KoeMakarewudo
 # text = Boe ewadary tabo iere Torowari ri , iogwa akore nowy boejie Jakomea apo aroe Jakomea apore boe etagedydo , oinore ioga akore
@@ -7215,7 +7234,7 @@
 15	Meriri	Meriri	PROPN	propn	_	17	nsubj	_	[];;
 16	Poro	Poro	PROPN	propn	_	15	flat	_	[];;
 17	ro	ro	VERB	v	Number=Sing|Person=3	10	parataxis	_	[];;
-18	oino	oino	ADV	adv	_	17	advmod	_	[];;
+18	oino	oino	ADV	adv	AdvType=Man	17	advmod	_	[];;
 
 # sent_id = 012.KoeMakarewudo
 # text = Ure ro pegado kodie icare aroe Jakomea apore boe etagedydo nono , oinore ioga akore
@@ -7319,7 +7338,7 @@
 9	awy	awy	DET	dem	Deixis=Prox	10	det	_	[];;
 10	brae	brae	NOUN	n	_	11	nsubj	_	[];;
 11	ero	ro	VERB	v	Number=Plur|Person=3	5	parataxis	_	[];;
-12	oino	oino	ADV	adv	_	11	advmod	_	[];;
+12	oino	oino	ADV	adv	AdvType=Man	11	advmod	_	[];;
 13	dyji	dyji	X	x	_	11	dep	_	[];;
 14	,	,	PUNCT	punct	_	11	punct	_	[];;
 15	brae	brae	NOUN	n	_	16	nsubj	_	[];;
@@ -7430,7 +7449,7 @@
 1	Icare	icare	ADV	adv	_	3	advmod	_	[];;
 2	onaregedy	onaregedy	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	3	nsubj	_	[];;
 3	akore	ako	VERB	v	Number=Sing|Person=3	0	root	_	[];;
-4	tuoiagu	_	NOUN	n	Number=Sing|Person=3|Reflex=Yes	3	ccomp	_	[];;
+4	tuoiagu	_	NOUN	n	Number=Sing|Person=3|Reflex=Yes|Speech=IndOpt	3	ccomp	_	[];;
 5	jorugo	jorugo	NOUN	n	_	4	obj	_	[];;
 6	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	7	nmod	_	[];;
 7	boie	_	NOUN	n	Speech=Ind	4	conj	_	[];;
@@ -7558,7 +7577,7 @@
 18	piji	piji	ADP	posp	_	17	case	_	[];;
 19	.	_	PUNCT	punct	_	16	punct	_	[];;
 20	Tawydyre	byty	PRON	_	Mood=Ind|Number=Plur|Person=2	16	parataxis	_	[];fall,birth;queda,nascimento
-21	woe	woe	ADV	adv	_	20	advmod	_	[];;
+21	oino	oino	ADV	adv	AdvType=Loc	20	advmod	_	[];;
 22	awy	awy	DET	dem	Deixis=Prox	23	det	_	[];;
 23	moto	moto	NOUN	n	_	21	appos	_	[];;
 24	keje	keje	ADP	posp	_	23	case	_	[];;
@@ -7749,26 +7768,26 @@
 7	ce	ce	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = RO-2.01
-# text = Boe egore : cewu ceraedure rore oino ji
+# text = Boe egore : cewy ceraedure rore oino ji
 # text_eng = 
 # text_por = Os Bororo dizem: Foi aquele Ceraedo (da metade do Norte) que fez isso com ela
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	:	:	PUNCT	punct	_	2	punct	_	_
-4	cewu	cewy	DET	_	_	5	det	_	_
+4	cewy	cewy	DET	dem	Deixis=Remt	5	det	_	_
 5	ceraedure	ceraedu	NOUN	n	Mood=Ind	6	nsubj	_	_
 6	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	2	ccomp	_	_
-7	oino	oino	ADV	adv	_	6	advmod	_	_
+7	oino	oino	ADV	adv	AdvType=Man	6	advmod	_	_
 8	ji	ji	ADP	posp	Number=Sing|Person=3	6	obl	_	_
 
 # sent_id = RO-2.02
-# text = Cewu Baadojebare rore oino ji
+# text = Cewy Baadojebare rore oino ji
 # text_eng = It was Baadojeba who killed it
 # text_por = Foi o Baadojeba que a matou 
-1	Cewu	cewu	DET	_	_	2	det	_	_
+1	cewy	cewy	DET	dem	Deixis=Remt	2	det	_	_
 2	Baadojebare	baadojeba	NOUN	n	Mood=Ind	3	nsubj	_	_
 3	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-4	oino	oino	ADV	adv	_	3	advmod	_	_
+4	oino	oino	ADV	adv	AdvType=Man	3	advmod	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	3	obl	_	_
 
 # sent_id = RO-2.03
@@ -7779,7 +7798,7 @@
 2	Kurirewu	lurirewu	NOUN	n	Nomzr=Rel	1	compound	_	_
 3	moricere	mori	NOUN	n	Mood=Ind	4	obl	_	_
 4	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-5	oino	oino	ADV	adv	_	4	advcl	_	_
+5	oino	oino	ADV	adv	AdvType=Man	4	advcl	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 
 # sent_id = RO-2.04
@@ -7789,7 +7808,7 @@
 1	Tadugio	Tadugio	PROPN	propn	_	2	nmod	_	_
 2	moricere	mori	VERB	v	Mood=Ind	3	nmod	_	_
 3	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-4	oino	oino	ADV	adv	_	3	advmod	_	_
+4	oino	oino	ADV	adv	AdvType=Man	3	advmod	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	3	obl	_	_
 
 # sent_id = RO-2.05
@@ -7800,7 +7819,7 @@
 2	Kurirewu	lurirewu	NOUN	n	Nomzr=Rel	1	compound	_	_
 3	moricere	mori	VERB	v	Mood=Ind	4	nmod	_	_
 4	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-5	oino	oino	ADV	adv	_	4	advmod	_	_
+5	oino	oino	ADV	adv	AdvType=Man	4	advmod	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 
 # sent_id = RO-3.01
