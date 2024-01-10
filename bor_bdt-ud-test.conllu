@@ -221,7 +221,7 @@
 1	Irore	ro	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	oino	oino	ADV	adv	AdvType=Man	1	advmod	_	[];;
 3	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	advcl	_	[];;
-4	oino	oino	ADV	adv	AdvType=Loc	3	advmod	_	[];;
+4	woe	woe	ADV	adv	AdvType=Loc	3	advmod	_	[];;
 5	dykoia	dykoya	SCONJ	sconj	_	3	mark	_	[];;
 
 # sent_id = FWFFG-024
@@ -231,7 +231,7 @@
 1	Irore	ro	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	oino	oino	ADV	adv	AdvType=Man	1	advmod	_	[];;
 3	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	advcl	_	[];;
-4	oino	oino	ADV	adv	AdvType=Loc	3	advmod	_	[];;
+4	woe	woe	ADV	adv	AdvType=Loc	3	advmod	_	[];;
 5	dykoiare	dykoya	SCONJ	sconj	Mood=Ind	3	mark	_	[];;
 
 # sent_id = FWFFG-024b
@@ -432,7 +432,7 @@
 # text_por = Eu não quero sua presença aqui
 1	Ikiarire	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	ai	ji	ADP	posp	Number=Sing|Person=2	1	case	_	[];;
-3	oino	oino	ADV	adv	AdvType=Loc	1	advmod	_	[];;
+3	woe	woe	ADV	adv	AdvType=Loc	1	advmod	_	[];;
 
 # sent_id = FWFFG-0101
 # text = Akeragu cai je !
@@ -1646,7 +1646,7 @@
 1	boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	people,thing;gente,povo,coisa
 2	boe	boe	NOUN	n	_	3	obj	_	people,thing;gente,povo,coisa
 3	tygu	tygu	VERB	v	Number=Sing|Person=3	0	root	_	[ˈtɯɡʷu];plant;plantar
-4	oino	oino	ADV	adv	AdvType=Loc	3	advcl	_	here;aqui
+4	woe	woe	ADV	adv	AdvType=Loc	3	advcl	_	here;aqui
 
 # sent_id = ABE-265
 # text = Boere boe tugutugu woe
@@ -1655,7 +1655,7 @@
 1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	[];;
 2	boe	boe	NOUN	n	_	3	obj	_	[];;
 3	tugutugu	tygu	VERB	v	Aspect=Iter|Number=Sing|Person=3	0	root	_	[];plant;plantar
-4	oino	oino	ADV	adv	AdvType=Loc	3	advmod	_	[wɔ̰ɛ̯];here;aqui
+4	woe	woe	ADV	adv	AdvType=Loc	3	advmod	_	[wɔ̰ɛ̯];here;aqui
 
 # sent_id = ABE-267
 # text = kaboba amode maku Enawureudo ai ?
@@ -2345,7 +2345,7 @@
 # text_por = Eu quero morar aqui com os bororos
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
 2	imuguwo	mugu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
-3	oino	oino	ADV	adv	AdvType=Loc	2	advmod	_	here;aqui
+3	woe	woe	ADV	adv	AdvType=Loc	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	[];;
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
 
@@ -2403,7 +2403,7 @@
 # text_por = Eu quero morar aqui perto dos bororo
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	imuguwo	mugu	VERB	v	Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	[];;
-3	oino	oino	ADV	adv	AdvType=Loc	2	advmod	_	here;aqui
+3	woe	woe	ADV	adv	AdvType=Loc	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	[];;
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	[];;
 
@@ -2413,7 +2413,7 @@
 # text_por = Eu quero que você more aqui
 1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	ccomp	_	[];;
-3	oino	oino	ADV	adv	AdvType=Loc	2	advcl	_	[];;
+3	woe	woe	ADV	adv	AdvType=Loc	2	advcl	_	[];;
 
 # sent_id = CGPB-p31.1
 # text = Itaidure erudiwawo
@@ -2678,7 +2678,7 @@
 16	korogedy	_	NOUN	n	_	17	nmod	_	stream;córrego
 17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
 18	ji	ji	ADP	posp	Number=Sing|Person=3	17	case	_	[];;
-19	oino	oino	ADV	adv	AdvType=Loc	12	advmod	_	[];;
+19	woe	woe	ADV	adv	AdvType=Loc	12	advmod	_	[];;
 20	,	,	PUNCT	punct	_	19	punct	_	[];;
 21	jice	jice	ADV	adv	_	22	advmod	_	there;lá
 22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
@@ -5139,7 +5139,7 @@
 # text_eng = The village will not be built here, because the place is not good
 # text_por = A aldeia não será construída aqui, porque o lugar não é bom
 1	Badodymodykare	bado	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Voice=CauPass	0	root	_	_
-2	oino	oino	ADV	adv	AdvType=Loc	1	advmod	_	_
+2	woe	woe	ADV	adv	AdvType=Loc	1	advmod	_	_
 3	boe	boe	NOUN	n	_	4	nmod	_	_
 4	pegakare	pega	NOUN	n	Mood=Ind|Polarity=Neg	1	advcl	_	_
 5	kodi	kodi	SCONJ	sconj	_	4	mark	_	_
@@ -6249,7 +6249,7 @@
 5	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	2	ccomp	_	[];sit;sentar
 6	ty	ty	ADV	adv	_	5	advmod	_	[];;
 7	,	,	PUNCT	punct	_	5	punct	_	[];;
-8	oino	oino	ADV	adv	AdvType=Loc	11	advmod	_	[];here;aqui
+8	woe	woe	ADV	adv	AdvType=Loc	11	advmod	_	[];here;aqui
 9	awy	awy	DET	dem	Deixis=Prox	11	det	_	[];;
 10	i	i	NOUN	n	_	11	nmod	_	[];tree;árvore
 11	paru	paru	NOUN	n	_	5	obl	_	[];;
@@ -6425,7 +6425,7 @@
 6	mugu	mugu	VERB	v	Number=Sing|Person=3	7	advcl	_	[];;
 7	pagado	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	wait;esperar
 8	tu	tu	ADV	adv	_	7	advmod	_	thus;assim
-9	oino	oino	ADV	adv	AdvType=Loc	7	advmod	_	here;aqui
+9	woe	woe	ADV	adv	AdvType=Loc	7	advmod	_	here;aqui
 10	tuwiri	biri	NOUN	n	Number=Sing|Person=3|Reflex=Yes	7	obl	_	skin;pele
 11	bioro	bioro	NOUN	n	_	7	obl	_	empty;vazio
 12	keje	keje	ADP	posp	Number=Sing|Person=3	11	case	_	[];;
@@ -7631,7 +7631,7 @@
 18	piji	piji	ADP	posp	_	17	case	_	[];;
 19	.	_	PUNCT	punct	_	16	punct	_	[];;
 20	Tawydyre	byty	PRON	_	Mood=Ind|Number=Plur|Person=2	16	parataxis	_	[];fall,birth;queda,nascimento
-21	oino	oino	ADV	adv	AdvType=Loc	20	advmod	_	[];;
+21	woe	woe	ADV	adv	AdvType=Loc	20	advmod	_	[];;
 22	awy	awy	DET	dem	Deixis=Prox	23	det	_	[];;
 23	moto	moto	NOUN	n	_	21	appos	_	[];;
 24	keje	keje	ADP	posp	_	23	case	_	[];;
