@@ -6056,15 +6056,15 @@
 7	tabo	apo	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 
 # sent_id = 179.EncIE
-# text = Are boe erogodydo kagoje paga tyje
+# text = Are boe erogodydo kago je paga tyje
 # text_eng = You had in vain the Bororo make a fish trap
 # text_por = Tu mandaste os bororo preparar um pari inutilmente
 1	Are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	obj	_	_
 3	erogodydo	rogody	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 4	kago	kago	NOUN	_	_	3	obl	_	_
-5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
-6	paga	paga	ADV	adv	_	3	advmod	_	in vain;inutilmente, em vão
+5	je	ce	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	paga	paga	ADV	adv	AdvType=Man	3	advmod	_	in vain;inutilmente, em vão
 7	tyjé	tyjé	X	x	_	3	dep	_	_
 
 # sent_id = 180.EncIE
@@ -6113,11 +6113,11 @@
 # text = Imana akore aiagu tuge rodo
 # text_eng = My older brother said you should prepare him tasty food
 # text_por = Meu irmao maior disse que lhe prepares uma comida gostosa
-1	Imana	mana	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	_	_	_
+1	Imana	mana	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=IndOpt	5	_	_	_
-4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	_	_	food;comida
-5	rodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	2	_	_	make smell good;perfumar
+3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=IndOpt	5	nsubj	_	_
+4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	obj	_	food;comida
+5	rodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	2	ccomp	_	make smell good;perfumar
 
 # sent_id = 186.EncIE
 # text = Imuga ure itao rodo
