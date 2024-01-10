@@ -6176,11 +6176,11 @@
 # text = Kajao , ikare riwydydo roga
 # text_eng = Wait, I still haven't prepared the embira to carry the weight
 # text_por = Espera, ainda nao preparei a embira para carregar o peso
-1	Kajao	kajao	ADV	adv	AdvType=Temp|Polarity=Neg	4	advmod	_	not yet;ainda não
+1	Kajao	kajao	ADV	adv	AdvType=Tim|Polarity=Neg	4	advmod	_	not yet;ainda não
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ikare	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	nsubj	_	_
 4	riwydydo	riwydydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	;Preparar uma embira para carregar pesos
-5	roga	roga	ADV	adv	AdvType=Temp	4	advmod	_	_
+5	roga	roga	ADV	adv	AdvType=Tim	4	advmod	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
