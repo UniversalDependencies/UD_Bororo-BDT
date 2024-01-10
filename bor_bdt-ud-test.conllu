@@ -5891,7 +5891,7 @@
 6	koia	koia	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
 # sent_id = 163.EncIE
-# text = Boe core bai tada , mare kajao , boe urygydodomode
+# text = Boe core bai tada , mare kajao , boe urygydodymode
 # text_eng = The inside of the hut is dark, but wait, it will be lit
 # text_por = O interior da choupana é escuro, mas, espera, será iluminado
 1	Boe	boe	NOUN	n	_	2	nmod	_	_
@@ -5940,7 +5940,7 @@
 4	roga	roga	ADV	adv	_	3	advmod	_	_
 
 # sent_id = 168.EncIE
-# text = Areme rotorerogodyre kurucerewy bogai
+# text = Areme erotorerogodyre kurucerewy bogai
 # text_eng = The women started picking jabuticaba
 # text_por = As mulheres começaram a catar jaboticabas
 1	Areme	aredy	NOUN	n	Number=Plur	2	nsubj	_	_
@@ -6056,7 +6056,7 @@
 7	tabo	apo	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 
 # sent_id = 179.EncIE
-# text = Are boe erogodydo kago je paga tyje
+# text = Are boe erogodydo kago je paga tyjé
 # text_eng = You had in vain the Bororo make a fish trap
 # text_por = Tu mandaste os bororo preparar um pari inutilmente
 1	Are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	3	nsubj	_	_
@@ -6065,7 +6065,7 @@
 4	kago	kago	NOUN	_	_	3	obl	_	_
 5	je	ce	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	paga	paga	ADV	adv	AdvType=Man	3	advmod	_	in vain;inutilmente, em vão
-7	tyjé	tyjé	X	x	_	3	dep	_	_
+7	tyjé	tyjé	ADV	adv	AdvType=Man	3	advmod	_	_
 
 # sent_id = 180.EncIE
 # text = Boe erogodynure marido ji
@@ -7621,7 +7621,7 @@
 8	Awy	awy	DET	dem	Deixis=Prox	9	det	_	[];;
 9	moto	moto	NOUN	n	_	6	ccomp	_	[];;
 10	kejewyge	keje	ADP	posp	Nomzr=Rel|Number=Plur	9	case	_	[];;
-11	nure	_	X	x	Aspect=Prog|Mood=Ind	9	dep	_	[];;
+11	nure	nure	X	x	Aspect=Prog|Mood=Ind	9	dep	_	[];;
 12	tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	[];;
 13	.	.	PUNCT	punct	_	6	punct	_	[];;
 14	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	[];;
@@ -7629,7 +7629,7 @@
 16	itaregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=1	6	parataxis	_	[];;
 17	baru	baru	NOUN	n	_	16	obl	_	[];;
 18	piji	piji	ADP	posp	_	17	case	_	[];;
-19	.	_	PUNCT	punct	_	16	punct	_	[];;
+19	.	.	PUNCT	punct	_	16	punct	_	[];;
 20	Tawydyre	byty	PRON	_	Mood=Ind|Number=Plur|Person=2	16	parataxis	_	[];fall,birth;queda,nascimento
 21	woe	woe	ADV	adv	AdvType=Loc	20	advmod	_	[];;
 22	awy	awy	DET	dem	Deixis=Prox	23	det	_	[];;
@@ -7838,7 +7838,7 @@
 # text = Cewy Baadojebare rore oino ji
 # text_eng = It was Baadojeba who killed it
 # text_por = Foi o Baadojeba que a matou 
-1	cewy	cewy	DET	dem	Deixis=Remt	2	det	_	_
+1	Cewy	cewy	DET	dem	Deixis=Remt	2	det	_	_
 2	Baadojebare	baadojeba	NOUN	n	Mood=Ind	3	nsubj	_	_
 3	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	oino	oino	ADV	adv	AdvType=Man	3	advmod	_	_
