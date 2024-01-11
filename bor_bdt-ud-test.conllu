@@ -963,7 +963,7 @@
 # text_por = A mulher e o homem gostaram bastante de Deus tambem
 1	Aredy	aredy	NOUN	n	_	4	nsubj	_	[];;
 2	,	,	PUNCT	punct	_	1	punct	_	[];;
-3	imedy	imedy	NOUN	n	_	1	conj	_	[];;
+3	imedy	imedy	NOUN	n	Number=Sing	1	conj	_	[];;
 4	aidy	aidy	NOUN	n	Number=Sing|Person=3	0	root	_	[];;
 5	rakaguragare	raka	ADV	adv	Intens=Yes|Mood=Ind	4	advmod	_	[];;
 6	Deu	Deu	NOUN	n	_	4	iobj	_	[];;
@@ -1282,7 +1282,7 @@
 # text = imedy utyre ibai kae tubaiga bagai
 # text_eng = The man is going home for his weapon
 # text_por = o homem está indo na minha casa para (pegar) a arma dele
-1	imedy	imedy	NOUN	n	_	2	nsubj	_	man;homem
+1	imedy	imedy	NOUN	n	Number=Sing	2	nsubj	_	man;homem
 2	utyre	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	0	root	_	go;ir
 3	ibai	bai	NOUN	n	Number=Sing|Person=1	2	obl	_	house;casa
 4	kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	house;casa
@@ -1718,7 +1718,7 @@
 # text_eng = That man ate
 # text_por = aquele homem comeu
 1	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	that;aquele
-2	imedy	imedy	NOUN	n	_	4	nsubj	_	man;homem
+2	imedy	imedy	NOUN	n	Number=Sing	4	nsubj	_	man;homem
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	dep	_	[];;
 4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
@@ -2053,7 +2053,7 @@
 1	imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	[];;
 2	karo	karo	NOUN	n	_	3	obj	_	fish;peixe
 3	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	give;dar
-4	imedy	imedy	NOUN	n	_	3	obl	_	man;homem
+4	imedy	imedy	NOUN	n	Number=Sing	3	obl	_	man;homem
 5	rakydy	rakydy	CCONJ	ccd	_	4	conj	_	or;ou
 6	negedyrogu	negedyrogu	NOUN	n	_	4	conj	_	child;criança
 7	rakydy	rakydy	CCONJ	ccd	_	6	conj	_	or;ou
@@ -6235,9 +6235,31 @@
 2	ty	ty	ADV	adv	_	3	advmod	_	_
 3	woe	woe	ADV	adv	AdvType=Loc	1	advmod	_	_
 4	iwo	i	PRON	bi	Mood=Sub|Number=Sing|Person=1	5	nsubj	_	_
-5	iririgo	ririgy	VERB	v	Number=Sing|Person=1	1	advcl	_	_
+5	iririgo	riri	VERB	v	Number=Sing|Person=1|Voice=CauInc	1	advcl	_	_
 6	boero	boero	NOUN	n	_	5	obl	_	_
 7	keje	keje	ADP	posp	Number=Sing|Person=3	6	case	_	_
+
+# sent_id = 199.EncIE
+# text = Imode ikera urirido
+# text_eng = I shall warm up my hand
+# text_por = Aquecerei minha mão
+1	Imode	i	PRON	bi	Mood=Sub|Number=Sing|Person=1|Tense=Fut	2	nmod	_	_
+2	ikera	kera	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obj	_	_
+3	urirido	riri	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	heat;calor
+
+# sent_id = 200.EncIE
+# text = Inogwa riki tai , imedy okwa rikirewynure imi kodi
+# text_eng = I told you the truth because I am an honest man
+# text_por = Falei-vos a verdade porque sou homem sincero
+1	Inogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nmod	_	_
+2	riki	riki	NOUN	n	_	3	nsubj	_	truth;verdade
+3	tai	ai	ADP	posp	Number=Plur|Person=2	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	imedy	imedy	NOUN	n	Number=Sing	3	advcl	_	_
+6	okwa	okwa	NOUN	n	_	5	nmod	_	_
+7	rikirewynure	riki	NOUN	n	Aspect=Prog|Mood=Ind|Nomzr=Rel	6	nmod	_	_
+8	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+9	kodi	kodi	SCONJ	sconj	_	5	mark	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
