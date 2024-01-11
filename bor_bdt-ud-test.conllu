@@ -6203,12 +6203,41 @@
 
 # sent_id = 195.EncIE
 # text = Imana rirygodynure jory bogai
-# text_eng = 
-# text_por = Meu irmão maior está preparando-se para produzir fogo por atrito
+# text_eng = My big brother is getting ready to produce fire (by friction)
+# text_por = Meu irmão maior está preparando-se para produzir fogo (por atrito)
 1	Imana	mana	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	rirygodynure	rirygody	VERB	v	Aspect=Prog|Mood=Ind|Voice=CauInc	0	root	_	make fire, fazer fogo por atrito
 3	jory	jory	NOUN	n	_	2	obl	_	_
 4	bogai	bogai	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 196.EncIE
+# text = Iagudubá ure kiege by ririgodydo
+# text_eng = Who messed up the macaw feathers (in the case)?
+# text_por = Quem desordenou as plumas de arara (no estojo)?
+1	Iagudubá	iagudubá	PRON	pron	PronType=Int	2	dep	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
+3	kiege	kiege	NOUN	n	_	4	nmod	_	_
+4	by	by	NOUN	n	_	5	obj	_	_
+5	ririgodydo	ririgody	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	mess up;remexer
+
+# sent_id = 197.EncIE
+# text = Imorora uririgodynure
+# text_eng = My chest is heating up
+# text_por = Meu peito está aquecendo-se
+1	Imorora	mororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	chest;peito
+2	uririgodynure	irigody	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Voice=IncProg	0	root	_	_
+
+# sent_id = 198.EncIE
+# text = Imygywo ty woe iwo iririgo boero keje
+# text_eng = I sit right here in order to warm myself up in the sun
+# text_por = Assento-me bem aqui para me aquecer ao calor do sol
+1	Imygywo	mygy	VERB	v	Mood=Sub|Number=Sing|Person=1	0	root	_	_
+2	ty	ty	ADV	adv	_	3	advmod	_	_
+3	woe	woe	ADV	adv	AdvType=Loc	1	advmod	_	_
+4	iwo	i	PRON	bi	Mood=Sub|Number=Sing|Person=1	5	nsubj	_	_
+5	iririgo	ririgy	VERB	v	Number=Sing|Person=1	1	advcl	_	_
+6	boero	boero	NOUN	n	_	5	obl	_	_
+7	keje	keje	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = 001.KJB
 # text = Konorigi akore tuiagu tuge boi remagu adygo uke boi ji
