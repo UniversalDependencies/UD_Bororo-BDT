@@ -760,11 +760,11 @@
 # text_eng = 
 # text_por = Só tinha Deus e o filho dele
 1	Deu	Deu	NOUN	n	_	3	nsubj	_	God;Deus
-2	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	3	dep	_	[];;
+2	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	dep	_	[];;
 3	tuje	je	VERB	v	Number=Sing|Person=3	0	root	_	exist,live;existir,viver
 4	,	,	PUNCT	punct	_	3	punct	_	[];;
 5	onaregedyre	onaregedy	NOUN	n	Mood=Ind	7	nsubj	_	son;filho
-6	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	7	dep	_	[];;
+6	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	dep	_	[];;
 7	tuje	je	VERB	v	Number=Sing|Person=3	3	parataxis	_	[];;
 
 # sent_id = criacao_03
@@ -773,19 +773,19 @@
 # text_por = Antigamente Deus fez a terra, o céu, a água e as pedras
 1	Marigudu	marigudu	ADV	adv	_	5	advcl	_	[];;
 2	Deu	Deu	NOUN	n	_	5	nsubj	_	[];;
-3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	[];;
+3	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	dep	_	[];;
 4	moto	moto	NOUN	n	_	5	obj	_	[];;
 5	to	to	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 6	,	,	PUNCT	punct	_	5	punct	_	[];;
-7	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	9	dep	_	[];;
+7	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	dep	_	[];;
 8	baru	baru	NOUN	n	_	9	obj	_	[];;
 9	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	[];;
 10	,	,	PUNCT	punct	_	9	punct	_	[];;
-11	ure	re	PART	prcl	_	13	dep	_	[];;
+11	ure	re	PRON	bi	_	13	dep	_	[];;
 12	pobo	pobo	NOUN	n	_	13	obj	_	water;água
 13	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	[];;
 14	,	,	PUNCT	punct	_	13	punct	_	[];;
-15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	17	dep	_	[];;
+15	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	17	dep	_	[];;
 16	tori	tori	NOUN	n	_	17	obj	_	stone;pedra
 17	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	make,cause;fazer,criar
 
@@ -794,17 +794,17 @@
 # text_eng = 
 # text_por = Deus fez o brilho do sol, da lua, das estrelas
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	[];;
-2	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	[];;
+2	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	dep	_	[];;
 3	meri	meri	NOUN	n	_	4	nmod	_	sun,day;sol,dia
 4	joku	joku	NOUN	n	_	5	obj	_	eye,shine;olho;brilho
 5	to	to	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 6	,	,	PUNCT	punct	_	5	punct	_	[];;
-7	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	10	dep	_	[];;
+7	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	10	dep	_	[];;
 8	ari	ari	NOUN	n	_	9	nmod	_	moon;lua
 9	joku	joku	NOUN	n	_	10	obj	_	star;estrela
 10	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	[];;
 11	,	,	PUNCT	punct	_	10	punct	_	[];;
-12	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	15	dep	_	[];;
+12	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	dep	_	[];;
 13	kuiejedoge	kuieje	NOUN	n	Number=Plur	14	nmod	_	[];;
 14	eioku	joku	NOUN	n	Number=Plur|Person=3	15	obj	_	[];;
 15	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	[];;
@@ -814,16 +814,16 @@
 # text_eng = 
 # text_por = Deus fez o cerrado, fez a floresta, Deus fez a mandioca, milho, arroz fez tudo isso de alimento para as pessoas se alimentarem
 1	Deu	Deu	NOUN	n	_	4	nsubj	_	god;Dues
-2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	[];;
+2	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	dep	_	[];;
 3	boku	boku	NOUN	n	_	4	obj	_	cerrado;cerrado
 4	to	to	VERB	v	_	0	root	_	[];;
 5	,	,	PUNCT	punct	_	4	punct	_	[];;
-6	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
+6	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
 7	itura	itura	NOUN	n	_	8	obj	_	forest;floresta
 8	to	to	VERB	v	_	4	parataxis	_	[];;
 9	,	,	PUNCT	punct	_	8	punct	_	[];;
 10	Deu	Deu	NOUN	n	_	22	nsubj	_	[];;
-11	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	[];;
+11	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	22	dep	_	[];;
 12	ju	ju	NOUN	n	_	22	obj	_	manioc;mandioca
 13	,	,	PUNCT	punct	_	12	punct	_	[];;
 14	kuiada	kuiada	NOUN	n	_	12	conj	_	corn,maize;milho
@@ -833,7 +833,7 @@
 18	boe	boe	NOUN	n	_	12	conj	_	[];;
 19	jamedy	_	ADV	adv	_	20	nmod	_	[];;
 20	boe	boe	NOUN	n	_	12	conj	_	[];;
-21	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	[];;
+21	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	22	dep	_	[];;
 22	to	to	VERB	v	Number=Sing|Person=3	4	parataxis	_	[];;
 23	boe	boe	NOUN	n	_	24	nsubj	_	[];;
 24	enogwagewu	ogwage	NOUN	n	Nomzr=Rel|Number=Plur|Person=3	4	advcl	_	eat;come
@@ -844,18 +844,18 @@
 # text_eng = 
 # text_por = Deus fez o passarinhos, fez os peixes, fez tudo isso
 1	Deu	Deu	NOUN	n	_	4	nsubj	_	[];;
-2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	[];;
+2	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	dep	_	[];;
 3	kiogorogu	kiogo	NOUN	n	Degree=Dim	4	obj	_	bird;pássaro,ave
 4	to	to	VERB	v	Number=Plur|Person=3	0	root	_	[];;
 5	,	,	PUNCT	punct	_	4	punct	_	[];;
-6	ure	re	PART	prcl	Number=Plur|Person=3	8	dep	_	[];;
+6	ure	re	PRON	bi	Number=Plur|Person=3	8	dep	_	[];;
 7	kare	kare	NOUN	n	_	8	obj	_	[];;
 8	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	[];;
 9	,	,	PUNCT	punct	_	8	punct	_	[];;
 10	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	12	det	_	[];;
 11	jamedy	_	ADV	adv	_	12	advmod	_	[];;
 12	boe	boe	NOUN	n	_	14	obj	_	[];;
-13	ure	re	PART	prcl	Number=Plur|Person=3	14	dep	_	[];;
+13	ure	re	PRON	bi	Number=Plur|Person=3	14	dep	_	[];;
 14	towuje	towuje	VERB	v	Number=Plur|Person=3	4	parataxis	_	[];;
 
 # sent_id = criacao_07
@@ -863,28 +863,28 @@
 # text_eng = 
 # text_por = Deus fez o cachorro, fez o cavalo, fez a vaca, fez o veado, fez a onça-pintada, fez tudo isso
 1	Deu	Deu	PROPN	propn	_	4	nsubj	_	[];;
-2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	[];;
+2	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	dep	_	[];;
 3	arigao	_	NOUN	n	_	4	obj	_	dog;cachorro
 4	to	to	VERB	v	Number=Plur|Person=3	0	root	_	[];;
 5	,	,	PUNCT	punct	_	4	punct	_	[];;
-6	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
+6	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
 7	kuwaru	kuwaru	NOUN	n	_	8	obj	_	horse;cavalo
 8	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	[];;
 9	,	,	PUNCT	punct	_	8	punct	_	[];;
-10	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	12	dep	_	[];;
+10	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	12	dep	_	[];;
 11	tapira	tapira	NOUN	n	_	12	obj	_	cow;vaca
 12	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	[];;
 13	,	,	PUNCT	punct	_	12	punct	_	[];;
-14	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	16	dep	_	[];;
+14	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	16	dep	_	[];;
 15	popogo	popogo	NOUN	n	_	16	obj	_	deer;veado
 16	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	[];;
 17	,	,	PUNCT	punct	_	16	punct	_	[];;
-18	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	20	dep	_	[];;
+18	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	20	dep	_	[];;
 19	adugo	adugo	NOUN	n	_	20	obj	_	jaguar;onça
 20	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	[];;
 21	jamedy	_	ADV	adv	_	22	advmod	_	[];;
 22	boe	boe	NOUN	n	_	24	obj	_	[];;
-23	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	24	dep	_	[];;
+23	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	24	dep	_	[];;
 24	to	to	VERB	v	Number=Plur|Person=3	4	parataxis	_	[];;
 
 # sent_id = criacao_08
@@ -892,7 +892,7 @@
 # text_eng = 
 # text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	[];;
-2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
+2	ure	u	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
 3	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	det	_	[];;
 4	boe	boe	NOUN	n	_	8	iobj	_	[];;
 5	jamedy	jamedy	ADV	adv	_	4	advmod	_	[];;
@@ -901,7 +901,7 @@
 8	akedudo	akedudo	VERB	v	_	13	advcl	_	[];;
 9	tuje	tuje	VERB	v	Number=Plur|Person=3	8	xcomp	_	[];;
 10	dykeje	dy	X	x	_	8	mark	_	[];;
-11	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	13	dep	_	[];;
+11	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	13	dep	_	[];;
 12	imedu	imedu	NOUN	n	_	13	obj	_	man;homem
 13	to	to	VERB	v	Number=Plur|Person=3	0	root	_	[];;
 
@@ -910,7 +910,7 @@
 # text_eng = 
 # text_por = Ele fez uma roça perfeita, fez uma roça bonita, para aquele homem viver nela, viver dentro dela
 1	Deu	Deu	NOUN	n	_	8	nsubj	_	[];;
-2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
+2	ure	re	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	[];;
 3	boepa	boepa	NOUN	n	_	8	obj	_	slash,garden;roça
 4	pemegaguragare	pemega	ADJ	_	Intens=Yes|Mood=Ind	3	nmod	_	[];;
 5	,	,	PUNCT	punct	_	3	punct	_	[];;
@@ -931,7 +931,7 @@
 # text_eng = 
 # text_por = Deus fez uma mulher, o esposo dela chamado Adão, e a esposa se chama Eva
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	[];;
-2	ure	re	PART	prcl	_	5	dep	_	[];;
+2	ure	re	PRON	bi	_	5	dep	_	[];;
 3	ia	ia	DET	art	_	4	det	_	[];;
 4	aredu	aredu	NOUN	n	_	5	obj	_	[];;
 5	to	to	VERB	v	Number=Plur|Person=3	0	root	_	[];;
@@ -1021,7 +1021,7 @@
 16	,	,	PUNCT	punct	_	15	punct	_	[];;
 17	ema	_	PRON	_	_	18	nsubj	_	[];;
 18	koiare	_	VERB	v	_	14	parataxis	_	[];;
-19	ure	re	PART	prcl	_	20	dep	_	[];;
+19	ure	re	PRON	bi	_	20	dep	_	[];;
 20	erojai	rojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	[];;
 21	,	,	PUNCT	punct	_	20	punct	_	[];;
 22	ekojai	kojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	[];;
@@ -1032,7 +1032,7 @@
 # text_por = Deus que fez Satanáe, fez o demonio, antes eles eram bons mas depois eles quíseram ser maior do que Deus, por isso que Deus o expulsou 
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	[];;
 2	koiare	koiare	ADV	adv	_	5	advmod	_	thus;assim,por.isso
-3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	[];;
+3	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	dep	_	[];;
 4	Satanae	Satanae	PROPN	propn	_	5	obj	_	[];;
 5	towuje	towuje	NOUN	n	_	0	root	_	[];;
 6	ure	re	PRON	_	_	8	dep	_	[];;
@@ -1050,7 +1050,7 @@
 18	kori	kori	ADP	posp	_	17	case	_	[];;
 19	kocare	kocare	X	x	_	23	discourse	_	[];;
 20	Deu	Deu	PROPN	propn	_	23	nsubj	_	[];;
-21	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	23	dep	_	[];;
+21	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	23	dep	_	[];;
 22	rugadu	rugadu	X	x	_	23	discourse	_	[];;
 23	barigu	barigu	X	x	_	16	parataxis	_	[];;
 
@@ -1067,12 +1067,12 @@
 7	apo	_	ADP	posp	_	6	obl	_	[];;
 8	toro	toro	ADV	adv	_	3	advmod	_	there;lá
 9	,	,	PUNCT	punct	_	8	punct	_	[];;
-10	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	11	nsubj	_	[];;
+10	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	11	nsubj	_	[];;
 11	rojai	_	VERB	v	_	3	parataxis	_	[];;
 12	jiboe	_	X	x	_	11	acl	_	[];;
 13	jamedy	_	X	x	_	11	obj	_	[];;
 14	boe	_	NOUN	n	_	13	compound	_	[];;
-15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	16	dep	_	[];;
+15	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	16	dep	_	[];;
 16	pemegado	pemega	VERB	v	Voice=Cau	11	parataxis	_	[];;
 
 # sent_id = ABE-19
