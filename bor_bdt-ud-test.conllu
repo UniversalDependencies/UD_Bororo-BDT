@@ -1119,7 +1119,7 @@
 # text_eng = The women will rest
 # text_por = as mulheres vão descansar
 1	areme	aredy	NOUN	nu	Number=Plur	3	nsubj	_	[aˈɾɛdɨ];women;mulheres
-2	emode	mody	X	x	Number=Plur|Person=3|Tense=Fut	3	dep	_	[];;
+2	emode	mody	X	x	Mood=Ind|Number=Plur|Person=3|Tense=Fut	3	dep	_	[];;
 3	tamudo	amudo	VERB	v	Person=3|Reflex=Yes	0	root	_	[aˈmudɘ];rest;descansar
 
 # sent_id = ABE-25
