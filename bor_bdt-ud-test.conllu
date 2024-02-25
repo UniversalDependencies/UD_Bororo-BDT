@@ -2,8 +2,8 @@
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
 # text_por = A dança das almas. O povo celebra a dança das almas
-1 Aroe  aroe  NOUN  _  _  2  nmod  _  _
-2 ereru  reru NOUN  _ Numer=Plur|Person=3 3 nmod  _ _
+1 Aroe  aroe NOUN  _ _ 2 nmod  _ _
+2 ereru reru NOUN  _ Numer=Plur|Person=3 3 nmod  _ _
 3 paru  paru NOUN  _ _ 0 root  _ base,beginning;base,começo
 4 . _ PUNCT _ _ 3 punct _ _
 5 Boe boe NOUN  _ _ 6 dep _ _
@@ -341,26 +341,26 @@
 4   ,   _   PUNCT   _   _   2   punct   _   _
 5   icare   _   ADV _   _   8   advmod  _   _
 6   ipare   _   NOUN    _   _   7   dep _   _
-7   ere _   PRON    _   _   8   nsubj   _   _
-8   tudo    _   VERB    _   _   0   root    _   _
-9   pui _   PRON    _   _   8   dep _   _
-10  bai _   NOUN    _   _   8   obl _   _
-11  to  _   ADP _   Number=Sing|Person=3   10  case    _   _
-12  ;   _   PUNCT   _   _   10  punct   _   _
-13  areme   _   NOUN    _   _   _   _   _   _
-14  ,   _   PUNCT   _   _   2   punct   _   _
-15  boe _   NOUN    _   _   _   _   _   _
-16  etore   _   NOUN    _   _   15  compound    _   _
-17  ,   _   PUNCT   _   _   15  punct   _   _
+7   ere e   PRON    _   _   8   nsubj   _   _
+8   tudo    tu   VERB    _   _   0   root    _   _
+9   pui pui   PRON    _   _   8   dep _   _
+10  bai bai   NOUN    _   _   8   obl _   _
+11  to  to   ADP _   Number=Sing|Person=3   10  case    _   _
+12  ;   ;   PUNCT   _   _   10  punct   _   _
+13  areme   aredy   NOUN    n   _   _   _   _   _
+14  ,   ,   PUNCT   punct   _   2   punct   _   _
+15  boe boe   NOUN    _   _   _   _   _   _
+16  etore   etore   NOUN    _   _   15  compound    _   _
+17  ,   ,   PUNCT   _   _   15  punct   _   _
 18  ipare   ipare   NOUN    _   _   19  dep _   _
 19  ere e   PRON    _   _   20  nsubj   _   _
 20  tudo    tu   VERB    _   _   8   parataxis   _   _
-21  pui puy   PRON    _   _   20  dep _   _
+21  pui pui   PRON    _   _   20  dep _   _
 22  bai bai   NOUN    _   _   20  obl _   _
 23  to  to   ADP    _   Number=Sing|Person=3   22  case    _   _
 24  ,   ,   PUNCT   _   _   20  punct   _   _
 25  tuwo    tu   PRON    bi   _   26  nsubj   _   _
-26  tubemegado  _   VERB    _   _   20  advcl   _   _
+26  tubemegado  pemega   VERB    v   _   20  advcl   _   _
 
 # sent_id = IpareEreru-21
 # text = Ere tubemegado , ere pariko tugu tao to
