@@ -2,8 +2,8 @@
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
 # text_por = A dança das almas. O povo celebra a dança das almas
-1 Aroe  aroe NOUN  _ _ 2 nmod  _ _
-2 ereru reru NOUN  _ Numer=Plur|Person=3 3 nmod  _ _
+1 Aroe  aroe  NOUN  _  _  2  nmod  _  _
+2 ereru  reru NOUN  _ Numer=Plur|Person=3 3 nmod  _ _
 3 paru  paru NOUN  _ _ 0 root  _ base,beginning;base,começo
 4 . _ PUNCT _ _ 3 punct _ _
 5 Boe boe NOUN  _ _ 6 dep _ _
