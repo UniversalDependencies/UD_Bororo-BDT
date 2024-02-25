@@ -2,11 +2,11 @@
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
 # text_por = A dança das almas. O povo celebra a dança das almas
-1	Aroe	aroe	NOUN	_	_	2	nmod	_	_
-2	ereru	reru	NOUN	_	Numer=Plur|Person=3	3	nmod	_	_
-3	paru	paru	NOUN	_	_	0	root	_	base,beginning;base,começo
-4	.	_	PUNCT	_	_	3	punct	_	_
-5	Boe	boe	NOUN	_	_	6	dep	_	_
+1	Aroe	aroe	NOUN	n	_	2	nmod	_	_
+2	ereru	reru	NOUN	n	Numer=Plur|Person=3	3	nmod	_	_
+3	paru	paru	NOUN	n	_	0	root	_	base,beginning;base,começo
+4	.	_	PUNCT	punct	_	3	punct	_	_
+5	Boe	boe	NOUN	n	_	6	dep	_	_
 6	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	9	nsubj	_	_
 7	aroe	aroe	NOUN	n	_	8	nmod	_	soul;alma
 8	ereru	reru	NOUN	n	Numer=Plur|Person=3	9	obj	_	movement,dance;movimento,dança
@@ -18,23 +18,23 @@
 # text_por = O povo diz assim: Vamos celebrar a dança das almas.
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
 2	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-3	:	:	PUNCT	_	_	2	punct	_	_
+3	:	:	PUNCT	punct	_	2	punct	_	_
 4	Pawo	pa	PRON	bi	Clusivity=In|Mood=Subj|Number=Plur|Person=1	7	nsubj	_	_
-5	aroe	aroe	NOUN	_	_	6	nmod	_	_
-6	ereru	reru	NOUN	_	Number=Plur|Person=3	7	obj	_	_
-7	parudo	paru	VERB	_	Voice=Cau	2	cc	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
-9	Oino	_	ADV	_	_	7	parataxis	_	_
+5	aroe	aroe	NOUN	n	_	6	nmod	_	_
+6	ereru	reru	NOUN	n	Number=Plur|Person=3	7	obj	_	_
+7	parudo	paru	VERB	v	Voice=Cau	2	cc	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Oino	oino	ADV	adv	_	7	parataxis	_	_
 
 # sent_id = IpareEreru-3
 # text = Boere tuiagu aroe ereru parudo
 # text_eng = 
 # text_por = O povo está querendo celebrar a dança das almas
-1	Boere	boe	NOUN	_	Mood=Ind	5	nsubj	_	_
-2	tuiagu	tu	PRON	_	Reflex=Yes	5	dep	_	_
-3	aroe	aroe	NOUN	_	_	4	nmod	_	_
-4	ereru	reru	NOUN	_	Number=Plur|Person=3	5	obj	_	_
-5	parudo	_	VERB	_	Voice=Cau	0	root	_	_
+1	Boere	boe	NOUN	n	Mood=Ind	5	nsubj	_	_
+2	tuiagu	tu	PRON	bi	Reflex=Yes	5	dep	_	_
+3	aroe	aroe	NOUN	n	_	4	nmod	_	_
+4	ereru	reru	NOUN	n	Number=Plur|Person=3	5	obj	_	_
+5	parudo	_	VERB	v	Voice=Cau	0	root	_	_
 
 # sent_id = IpareEreru-4
 # text = Ca , boere aroe ereru parudo , icare boe ewadodure
