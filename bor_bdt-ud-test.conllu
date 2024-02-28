@@ -192,6 +192,19 @@
 15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	pugeje	pugeje	ADV	adv	_	13	advmod	_	_
 
+# sent_id = Valm-15
+# text = Kodire imi ikiarigodyre , iorydyre ty pawobe ei
+# text_eng = 
+# text_por = Por isso eu me entristeço, eu vejo assim o nosso povo
+1	Kodire	kodire	ADV	adv	_	3	advmod	_	_
+2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_
+3	ikiarigodyre	kiarigody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	iorydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1	3	parataxis	_	_
+6	ty	ty	ADV	adv	_	5	advmod	_	_
+7	pawobe	wobe	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	obl	_	_
+8	ei	i	ADP	posp	Number=Plur|Person=3	7	case	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
