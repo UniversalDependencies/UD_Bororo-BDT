@@ -28,6 +28,17 @@
 10	pawadary	batary	NOUN	n	Clusivity=In|Number=Plur|Person=1	9	obl	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
 
+# sent_id = Valm-03
+# text = Kodire irijodyre , imagore pawadary tabo dyji
+# text_eng = I then grew up speaking our language
+# text_por = Aí eu cresci falando na nossa língua
+1	Kodire	kodire	ADV	adv	_	2	advmod	_	_
+2	irijodyre	rijody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+3	imagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=1	2	xcomp	_	_
+4	pawadary	batary	NOUN	n	Clusivity=In|Number=Plur|Person=1	3	obl	_	_
+5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	dyji	dyji	X	x	_	3	dep	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
