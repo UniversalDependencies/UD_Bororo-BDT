@@ -39,6 +39,21 @@
 5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	dyji	dyji	X	x	_	3	dep	_	_
 
+# sent_id = Valm-04
+# text = Dykodi awy Meruri paru piji cedu toro Korogedu Paru kae
+# text_eng = 
+# text_por = Depois disso, a partir de Meruri, nos fomos para Corrego Grande
+1	Dykodi	dykodi	ADV	adv	_	2	case	_	_
+2	awy	awy	DET	dem	Deixis=Prox	6	obl	_	_
+3	Meruri	Meruri	PROPN	_	_	4	nmod	_	_
+4	paru	paru	NOUN	n	_	6	obl	_	_
+5	piji	piji	ADP	posp	_	4	case	_	_
+6	cedu	tu	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
+7	toro	toro	ADV	adv	_	6	advmod	_	_
+8	Korogedu	Korogedu	PROPN	propn	_	7	appos	_	_
+9	Paru	Paru	PROPN	Propn	_	8	compound	_	_
+10	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
