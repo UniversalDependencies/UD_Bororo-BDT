@@ -77,6 +77,19 @@
 17	pagago	ako	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=	11	conj	_	voice,word;voz;palavra
 18	tabo	apo	ADP	posp	Number=Sing|Person=3	17	case	_	_
 
+# sent_id = Valm-06
+# text = Dykodi nowyge , iorydy motyre ego oino dyji
+# text_eng = Because of these things, I saw that their saying was thus beautiful
+# text_por = Por causa destas coisas, então este eu vi a beleza da língua deles assim (eu achei a língua deles bonita)
+1	Dykodi	dykodi	ADP	_	_	2	case	_	_
+2	nowyge	nowy	PRON	pron	Number=Plur|PronType=Dem	4	obl	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	iorydy	jorydy	VERB	v	Number=Sing|Person=1	0	root	_	_
+5	motyre	moty	NOUN	n	Mood=Ind	4	ccomp	_	_
+6	ego	ako	NOUN	n	Number=Plur|Person=3	5	nsubj	_	_
+7	oino	oino	ADV	adv	_	5	advmod	_	_
+8	dyji	dyji	X	x	_	5	dep	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
