@@ -99,6 +99,20 @@
 3	piji	piji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	irijodyre	rijody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 
+# sent_id = Valm-08
+# text = Ca nowyge piji iture mato Meruri paru kae pugeje
+# text_eng = Then, from this I came to the are of Meruri again
+# text_por = Então, disto (deste contexto) eu vim para perto Meruri de novo
+1	Ca	ca	ADV	adv	_	4	advmod	_	_
+2	nowyge	nowy	PRON	pron	Number=Plur|PronType=Dem	4	obl	_	_
+3	piji	piji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	iture	tu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+5	mato	mato	ADV	adv	AdvType=Dir	4	advcl	_	_
+6	Meruri	Meruri	NOUN	n	_	7	nmod	_	_
+7	paru	paru	NOUN	n	_	5	obl	_	_
+8	kae	kae	ADP	adv	Number=Sing|Person=3	7	case	_	_
+9	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
