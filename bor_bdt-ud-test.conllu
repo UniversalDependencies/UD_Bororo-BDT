@@ -54,6 +54,29 @@
 9	Paru	Paru	PROPN	Propn	_	8	compound	_	_
 10	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 
+# sent_id = Valm-05
+# text = Korogedu Paru keje irijodyre pugeje . Dy nono nowy pawobedoge  emagore pawadary tabo , paro tabo , pagago tabo
+# text_eng = I grew up more in Corrego Grande. There, our parents spoke our language, our culture (deeds), our traditions (voices)
+# text_por = Eu cresci mais no Corrego Grande. Lá, nossos parentes falavam nossa língua, nossa cultura (feitos), nossas tradiçnoes (dizeres)
+1	Korogedu	Korogedu	PROPN	propn	_	4	obl	_	_
+2	Paru	Paru	PROPN	propn	_	1	compound	_	_
+3	keje	keje	ADP	posp	Number=Sing|Person=3	1	case	_	_
+4	irijodyre	_	VERB	v	_	0	root	_	_
+5	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Dynono	dynono	ADV	adv	_	10	advcl	_	_
+8	nowy	mowy	DET	dem	_	9	det	_	_
+9	pawobedoge	wobe	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	10	nsubj	_	_
+10	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
+11	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=	10	obl	_	_
+12	tabo	apo	ADP	posp	Number=Sing|Person=3	11	case	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	paro	paro	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=	11	obl	_	_
+15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	case	_	_
+16	,	,	PUNCT	punct	_	14	punct	_	_
+17	pagago	ako	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=	11	conj	_	voice,word;voz;palavra
+18	tabo	apo	ADP	posp	Number=Sing|Person=3	17	case	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
