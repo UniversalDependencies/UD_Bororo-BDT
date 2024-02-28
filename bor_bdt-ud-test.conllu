@@ -12,6 +12,22 @@
 8	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
 9	iorydywado	jorydywa	VERB	v	Number=Sing|Person=1|Voice=Cau	2	advcl	_	_
 
+# sent_id = Valm-02
+# text = Makore boe ewadary tabo , pawadary tabo kodire imagore pawadaru ji
+# text_eng = She spoke in Bororo, our language, then I spoke in our language
+# text_por = Ela falava em bororo, na nossa língua então eu falava na nossa língua
+1	Makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	boe	boe	NOUN	n	_	3	nmod	_	_
+3	ewadaru	batary	NOUN	n	Number=Plur|Person=3	1	obl	_	_
+4	tabo	apo	ADP	posp	Number=Sing|Person=3	3	case	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	pawadary	batary	NOUN	n	Clusivity=In|Number=Plur|Person=1	3	appos	_	_
+7	tabo	apo	ADP	posp	Number=Sing|Person=3	6	case	_	_
+8	kodire	kodire	SCONJ	sconj	_	9	mark	_	_
+9	imagore	mako	VERB	v	Mood=Ind|Number=Sing|Person=1	1	advcl	_	_
+10	pawadary	batary	NOUN	n	Clusivity=In|Number=Plur|Person=1	9	obl	_	_
+11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
