@@ -171,6 +171,27 @@
 5	inody	inody	NOUN	n	_	3	obl	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
+# sent_id = Valm-14
+# text = Awu pagore kugure , awy pawiemage , pamanamage , kodo maiwyge boe emagokare pawadary tabo pugeje
+# text_eng = 
+# text_por = Estes nosso filhos pequenos, estes nosso irmão mais novos, nossos irmão mais velhos as pessoas que são mais novas eles (já) não falam a língua
+1	Awy	awy	DET	dem	Deixis=Prox	2	det	_	_
+2	pagore	ore	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	13	nsubj	_	_
+3	kugure	kugu	NOUN	n	Mood=Ind	2	nmod	_	_
+4	,	_	PUNCT	punct	_	2	punct	_	_
+5	awy	awy	DET	dem	Deixis=Prox	6	det	_	_
+6	pawiemage	bie	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	2	conj	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	pamanamage	mana	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	2	conj	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	kodo	_	ADV	adv	_	13	advcl	_	_
+11	maiwyge	maiwy	NOUN	n	Number=Plur	12	nmod	_	_
+12	boe	boe	NOUN	n	_	_	_	_	_
+13	emagokare	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+14	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	13	_	_	_
+15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	_	_	_
+16	pugeje	pugeje	ADV	adv	_	13	advmod	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
