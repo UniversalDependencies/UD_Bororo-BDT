@@ -222,6 +222,17 @@
 11	kugure	kugu	NOUN	n	Mood=Ind	10	nmod	_	_
 12	ebo	apo	ADP	posp	Number=Plur|Person=3	10	case	_	_
 
+# sent_id = Valm-17
+# text = Dyre pagodymode ji dykodi ure turugado 
+# text_eng = 
+# text_por = Então nós seguiremos por isso tem que ser assim
+1	Dyre	dyre	ADV	adv	_	2	advmod	_	_
+2	pagodymode	_	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut	0	root	_	_
+3	ji	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
+4	dykodi	dykodi	SCONJ	sconj	_	6	mark	_	_
+5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
+6	turugado	rugado	VERB	v	Mood=Ind	2	advcl	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
