@@ -233,6 +233,15 @@
 5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
 6	turugado	rugado	VERB	v	Mood=Ind	2	advcl	_	_
 
+# sent_id = Valm-18
+# text = Nowy ukare oino pugeje
+# text_eng = This isn't thus anymore
+# text_por = Isso já não é assim
+1	Nowy	nowy	DET	dem	_	2	dep	_	_
+2	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	nsubj	_	_
+3	oino	oino	ADV	adv	_	0	root	_	_
+4	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
