@@ -265,6 +265,20 @@
 17	ji	ji	ADP	posp	Number=Sing|Person=3	16	case	_	_
 18	pugeje	pugeje	ADV	adv	_	15	advcl	_	_
 
+# sent_id = Valm-20
+# text = Mare imi itaidyre pawo nowy pawadary tawyji mato pugeje
+# text_eng = But, as for me, I want to bring our language back again
+# text_por = Mas a minha vontade é de trazermos a nossa língua de volta
+1	Mare	mare	CCONJ	cconj	_	3	cc	_	_
+2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	discourse	_	_
+3	itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+4	pawo	pron	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	7	nsubj	_	_
+5	nowy	nowy	DET	dem	_	6	det	_	_
+6	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	7	obj	_	_
+7	tawyji	tawyji	VERB	v	Number=Ind|Person=3	3	cc	_	_
+8	mato	mato	ADV	adv	_	7	advmod	_	_
+9	pugeje	pugeje	ADV	adv	_	7	advmod	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
