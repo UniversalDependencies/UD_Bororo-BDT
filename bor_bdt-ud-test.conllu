@@ -205,6 +205,23 @@
 7	pawobe	wobe	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	obl	_	_
 8	ei	i	ADP	posp	Number=Plur|Person=3	7	case	_	_
 
+# sent_id = Valm-16
+# text = Itaiwore ty oino pawobe ei , inogudure ty pudabo pagore kugure ebo
+# text_eng = I see our people, I pity our small children
+# text_por = Eu vejo o nosso povo, eu fico com pena dos nosso filhoses pequenos
+1	Itaiwore	aiwo	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	ty	ty	ADV	adv	_	1	advmod	_	_
+3	oino	oino	ADV	adv	_	1	advmod	_	_
+4	pawobe	wobe	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	1	obl	_	_
+5	ei	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	inogudure	okudu	VERB	v	_	1	conj	_	_
+8	ty	ty	ADV	adv	_	7	advmod	_	_
+9	pudabo	apo	ADP	posp	Reflex=Yes	7	obl	_	_
+10	pagore	oredy	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	7	obl	_	_
+11	kugure	kugu	NOUN	n	Mood=Ind	10	nmod	_	_
+12	ebo	apo	ADP	posp	Number=Plur|Person=3	10	case	_	_
+
 # sent_id = IpareEreru-1
 # text = Aroe ereru paru . Boe ere aroe ereru parudo
 # text_eng = 
