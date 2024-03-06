@@ -29,6 +29,39 @@
 4	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	_	_	_
 
+# sent_id = OiegoJiwuBakaru-04
+# text = Ure tumugudo keje akore : inoba  boemode ? Tui tumugudo keje
+# text_eng = The man pulled (it) out saying: how is it? while pulling out
+# text_por = (O homem) puxou, dizendo: Como  será? Enquanto puxava
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+2	tumugudo	mugudo	VERB	_	Reflex=Yes	4	advcl	_	_
+3	keje	keje	SCONJ	_	_	2	mark	_	_
+4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	inoba	inoba	ADV	adv	PronType=Int	7	advmod	_	_
+7	boemode	boe	VERB	v	Mood=Ind|Tense=Fut	4	cc	_	_
+8	?	?	PUNCT	_	_	7	punct	_	_
+9	Tui	tu	PRON	_	Reflex=Yes|VerbForm=Ger	10	nsubj	_	_
+10	tumugudo	mugudo	VERB	_	Reflex=Yes|Voice=Cau	4	advcl	_	_
+11	keje	keje	SCONJ	_	_	10	mark	_	_
+
+# sent_id = OiegoJiwuBakaru-05
+# text = Akore hm !
+# text_eng = he said hm! (pulled strongly)
+# text_por = Disse hm (puxou com força)
+1	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	hm	hm	X	x	_	1	ccomp	_	_
+3	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = OiegoJiwuBakaru-06
+# text = Icare nowy karo kugudugodure
+# text_eng = Then the fish became tired (flacid)
+# text_por = Aí o peixe ficou cansado
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
+2	nowy	nowy	DET	dem	_	3	det	_	_
+3	karo	karo	NOUN	n	Number=Sing	4	nsubj	_	_
+4	kugudugodure	kugudugodu	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
