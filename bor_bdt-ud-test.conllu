@@ -142,6 +142,34 @@
 17	iwoi	iwoi	NOUN	n	_	18	nsubj	_	_
 18	pemegare	pemega	NOUN	n	Mood=Ind	14	conj	_	_
 
+# sent_id = OiegoJiwuBakaru-11
+# text = Icare ure iwoi tawyje , ure tugera pemegado ji , ure iado , icare ure tugu kojato , icare ure udo turugadu
+# text_eng = 
+# text_por = Aí ele tirou a casca, a arrumou e, acabando, enfiou-a na guelra do peixe e o deixou pronto
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+3	iwoi	iwoi	NOUN	n	_	4	obj	_	_
+4	tawyje	tawyje	VERB	vn	Number=Sing|Person=3	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+7	tugera	kera	NOUN	n	Number=Sing|Reflex=Yes	8	obj	_	_
+8	pemegado	pemeg	VERB	v	Voice=Cau	4	conj	_	_
+9	ji	ji	ADP	posp	Number=Sing|Person=3	8	obl	_	_
+10	,	,	PUNCT	punct	_	8	punct	_	_
+11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
+12	iado	_	VERB	_	Voice=Cau	4	conj	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	icare	icare	ADV	adv	_	16	advmod	_	_
+15	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	16	nsubj	_	_
+16	tugu	tugu	VERB	v	_	4	conj	_	_
+17	koja	koja	NOUN	n	_	16	obl	_	_
+18	to	to	ADP	posp	Number=Sing|Person=3	17	case	_	_
+19	,	,	PUNCT	punct	_	16	punct	_	_
+20	icare	icare	ADV	adv	_	23	advmod	_	_
+21	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	23	nsubj	_	_
+22	udo	u	PRON	bi	Number=Sing|Person=3|Voice=Cau	23	obj	_	_
+23	turugadu	rugadu	ADV	adv	_	4	conj	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
