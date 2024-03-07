@@ -118,6 +118,7 @@
 13	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	14	nsubj	_	_
 14	bito	bito	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
 15	ty	ty	ADV	adv	_	14	advcl	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
