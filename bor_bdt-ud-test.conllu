@@ -189,6 +189,39 @@
 13	metyia	metyia	NOUN	n	_	10	advcl	_	_
 14	bokware	bokware	PART	prcl	Mood=Ind|Polarity=Neg	13	dep	_	_
 
+# sent_id = OiegoJiwuBakaru-13
+# text = Icare ure tudugu nowy karo ji , ure bu mato tuboru keje , nowy bai kujiagi , icare ure nowy riwudu jeto taobiri ji , icare uture apo
+# text_eng = Then he lifted the fish and put it on his back, on top of the straws, put the embira on his head and walked away with it.
+# text_por = Depois levantou o peixe e o pôs nas costas, por cima das palhas, pôs a embira na cabeça e foi embora com ele
+1	Icare	icare	ADV	adv	_	3	advmod	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	tudugu	tugu	VERB	v	Reflex=Yes	0	root	_	_
+4	nowy	nowy	DET	dem	Deixis=Med	5	det	_	_
+5	karo	karo	NOUN	n	_	3	obl	_	_
+6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
+7	,	,	PUNCT	punct	_	3	punct	_	_
+8	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+9	bu	bu	VERB	v	Number=Sing|Person=3	3	conj	_	_
+10	mato	mato	ADV	adv	_	9	advmod	_	_
+11	tuboru	poru	NOUN	n	_	9	obl	_	_
+12	keje	keje	ADP	posp	Number=Sing|Person=3	11	case	_	_
+13	,	,	PUNCT	punct	_	9	punct	_	_
+14	nowy	nowy	DET	dem	Deixis=Med	15	nsubj	_	_
+15	bai	bai	VERB	v	_	9	xcomp	_	_
+16	kujiagi	kujiagi	ADP	posp	_	15	case	_	on the back,one above the other;nas.costas,um em cima do outro
+17	,	,	PUNCT	punct	_	15	punct	_	_
+18	icare	icare	ADV	adv	_	22	advmod	_	_
+19	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	22	nsubj	_	_
+20	nowy	nowy	DET	dem	Deixis=Med	21	det	_	_
+21	riwudu	riwudu	NOUN	n	_	_	_	_	_
+22	jeto	jeto	ADV	adv	_	3	conj	_	hither;para.cá
+23	taobiri	ao	NOUN	n	Reflex=Yes	22	obl	_	_
+24	ji	ji	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	,	,	PUNCT	punct	_	22	punct	_	_
+26	icare	icare	ADV	adv	_	27	nsubj	_	_
+27	uture	tu	VERB	vi	Mood=Ind|Number=Sing|Person=3	3	conj	_	_
+28	apo	apo	ADP	posp	Number=Sing|Person=3	27	obl	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
