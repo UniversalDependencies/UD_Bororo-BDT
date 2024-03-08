@@ -236,6 +236,27 @@
 8	ba	ba	NOUN	n	_	6	obl	_	_
 9	to	to	ADP	posp	Number=Sing|Person=3	8	case	_	_
 
+# sent_id = OiegoJiwuBakaru-15
+# text = Akore : itore kugure , tagogwage pemegado , ire karo  bito , inure ikedy amado ji
+# text_eng = 
+# text_por = (Depois) disse: - Meus filhinhos, comam bem, eu matei peixe, e é grande
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	:	:	PUNCT	punct	_	1	punct	_	_
+3	itore	itore	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	6	vocative	_	_
+4	kugure	kugu	NOUN	n	Mood=Ind	3	nmod	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	tagogwage	okwage	VERB	v	Mood=Imp|Number=Plur|Person=2	1	ccomp	_	_
+7	pemegado	pemega	ADV	adv	Voice=Cau	6	advmod	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	ire	i	PRON	bi	Mood=Ind|Number=Ind|Person=1	11	nsubj	_	_
+10	karo	karo	NOUN	n	Number=Sing	11	obj	_	_
+11	bito	bito	VERB	vt	_	1	parataxis	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Ind|Person=1	15	nsubj	_	_
+14	ikedy	edy	VERB	v	Number=Sing|Person=1	15	dep	_	_
+15	amado	ama	VERB	v	Voice=Cau	11	conj	_	_
+16	ji	ji	ADP	posp	Number=Sing|Person=3	15	obl	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
