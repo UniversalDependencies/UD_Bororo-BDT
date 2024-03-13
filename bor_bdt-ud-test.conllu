@@ -302,6 +302,23 @@
 15	kogudo	kogu	VERB	v	Number=Sing|Person=3|Voice=Cau	12	conj	_	_
 16	!	!	PUNCT	punct	_	15	punct	_	_
 
+# sent_id = OiegoJiwuBakaru-18
+# text = Icare ure kody jamedy kogudo . Icare ure iado , ure akedydo
+# text_eng = Afterwards he tied the meat, he finshed it, he ended it
+# text_por = Depois ele amarrou a carne, até acabar
+1	Icare	icare	ADV	adv	_	5	advmod	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
+3	kody	kody	NOUN	n	_	5	obj	_	_
+4	jamedy	jamedy	ADV	adv	_	5	_	_	_
+5	kogudo	kogu	VERB	vt	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+7	Icare	icare	ADV	adv	_	9	advmod	_	_
+8	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+9	iado	ia	VERB	v	Number=Sing|Person=3|Voice=Cau	5	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
+12	akedydo	akedy	VERB	vt	Number=Sing|Person=3|Voice=Cau	5	parataxis	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
