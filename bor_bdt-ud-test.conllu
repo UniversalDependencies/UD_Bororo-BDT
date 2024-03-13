@@ -281,6 +281,27 @@
 18	karorogu	karo	NOUN	n	Degree=Dim	15	conj	_	_
 19	!	_	PUNCT	_	_	18	punct	_	_
 
+# sent_id = OiegoJiwuBakaru-17
+# text = Icare ure kagirido tu ... Ure iado , icare akore : Kodoro ! Pawo kogudo !
+# text_eng = The, he cut the fish... and when he finished he said: (bring) straw! Let's tie it!
+# text_por = Aí ele cortou o peixe... e quando acabou disse: (Tragam) palha! Vamos amarrá-lo
+1	Icare	icare	ADV	adv	Mood=Ind	3	advmod	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	kagirido	kagiri	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+4	ty	ty	ADV	adv	_	3	advmod	_	_
+5	...	...	PUNCT	punct	_	3	punct	_	_
+6	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	_	_	_
+7	iado	_	VERB	_	Voice=Cau	3	parataxis	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	icare	ica	ADV	adv	_	10	advmod	_	_
+10	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+11	:	:	PUNCT	punct	_	10	punct	_	_
+12	Kodoro	_	NOUN	_	_	10	cc	_	_
+13	!	!	PUNCT	punct	_	12	punct	_	_
+14	Pawo	pa	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	_
+15	kogudo	kogu	VERB	v	Number=Sing|Person=3|Voice=Cau	12	conj	_	_
+16	!	!	PUNCT	punct	_	15	punct	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
