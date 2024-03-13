@@ -346,6 +346,30 @@
 21	tugu	tugu	VERB	vt	Number=Sing|Person=3	13	parataxis	_	_
 22	to	to	ADP	posp	Number=Sing|Person=3	21	obl	_	_
 
+# sent_id = OiegoJiwuBakaru-20
+# text = Icare beregodure dykejere , akogodure pugeje . Akore : hm , hm , hm , nowy tuwere inody ji
+# text_eng = 
+# text_por = Quando ferveu, começo a (o peixe) a falar de novo, dizendo: - hm , hm , hm , fervendo assim
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	beregodure	bere	VERB	v	Number=Sing|Person=3	5	advmod	_	_
+3	dykejere	dykeje	SCONJ	sconj	Mood=Ind	2	mark	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	akogodure	ako	VERB	v	Number=Sing|Person=3	0	root	_	_
+6	pugeje	pugeje	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+8	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	hm	_	X	_	_	8	ccomp	_	_
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	hm	_	X	_	_	10	conj	_	_
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	hm	_	X	_	_	10	conj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	nowy	nowy	DET	dem	Deixis=Med	17	det	_	_
+17	tuwere	_	NOUN	_	_	18	nsubj	_	_
+18	inody	inody	ADV	_	_	10	conj	_	_
+19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
