@@ -319,6 +319,33 @@
 11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
 12	akedydo	akedy	VERB	vt	Number=Sing|Person=3|Voice=Cau	5	parataxis	_	_
 
+# sent_id = OiegoJiwuBakaru-19
+# text = Dykeje icare ure jorugo . Ure pobo tugu ariato , ure mugudo joru tada , icare ure nowy kody tugu to
+# text_eng = Then, he lit the fire, poured water in the pan, puti it on the fire and ut the meat in it
+# text_por = Em seguida acendeu o fogo, despejou água na panela, a colocou no fogo e pôs nela a carne
+1	Dykeje	dykeje	ADV	adv	_	4	advcl	_	_
+2	icare	icare	ADV	adv	_	4	advmod	_	_
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+4	jorugo	jorugo	VERB	v	_	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+6	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+7	pobo	pobo	NOUN	n	_	8	obj	_	_
+8	tugu	tugu	VERB	v	Number=Sing|Person=3	4	conj	_	_
+9	aria	aria	NOUN	n	_	8	obl	_	_
+10	to	to	ADP	posp	Number=Sing|Person=3	9	case	_	_
+11	,	,	PUNCT	punct	_	8	punct	_	_
+12	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	13	nsubj	_	_
+13	mugudo	mugudo	VERB	v	_	4	parataxis	_	_
+14	joru	joru	NOUN	n	_	13	obl	_	_
+15	tada	tada	ADP	posp	Number=Sing|Person=3	14	case	_	_
+16	,	,	PUNCT	punct	_	13	punct	_	_
+17	icare	icare	ADV	adv	_	21	advmod	_	_
+18	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	21	nsubj	_	_
+19	nowy	nowy	DET	dem	_	20	nmod	_	_
+20	kody	kody	NOUN	n	_	21	obj	_	_
+21	tugu	tugu	VERB	vt	Number=Sing|Person=3	13	parataxis	_	_
+22	to	to	ADP	posp	Number=Sing|Person=3	21	obl	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
