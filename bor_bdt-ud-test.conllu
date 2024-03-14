@@ -54,13 +54,13 @@
 3	!	!	PUNCT	_	_	1	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-06
-# text = Icare nowy karo kugudugodure
+# text = Icare nowy karo kugudugodyre
 # text_eng = Then the fish became tired (flacid)
 # text_por = Aí o peixe ficou cansado
 1	Icare	icare	ADV	adv	_	4	advmod	_	_
 2	nowy	nowy	DET	dem	_	3	det	_	_
 3	karo	karo	NOUN	n	Number=Sing	4	nsubj	_	_
-4	kugudugodure	kugudugodu	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	kugudugodyre	kugudugodu	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = OiegoJiwuBakaru-07
 # text = Icare ure to urubaru to . Ure tumugudo keje pobo piji , boe ao kae
@@ -83,12 +83,12 @@
 15	kae	kae	ADP	posp	Number=Sing|Person=3	14	case	_	_
 
 # sent_id = OiegoJiwuBakaru-08
-# text = Icare karo akogodure , akore  hm ... hm ... hm... , tubadui
+# text = Icare karo akogodyre , akore  hm ... hm ... hm... , tubadui
 # text_eng = 
 # text_por = Então o peixe começou a falar, dizendo: - ‘M ... ‘M ... ‘ M..., deitado por terra
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
 2	karo	karo	NOUN	n	Number=Sing	3	nsubj	_	_
-3	akogodure	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	akogodyre	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	conj	_	_
 6	hm	_	X	_	_	5	ccomp	_	_
@@ -223,7 +223,7 @@
 28	apo	apo	ADP	posp	Number=Sing|Person=3	27	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-14
-# text = Kodure apo jii je , aregodure apo ba to
+# text = Kodure apo jii je , aregodyre apo ba to
 # text_eng = He went with it until he got to the village
 # text_por = Foi com ele até chegar na aldeia
 1	Kodure	kodure	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -231,7 +231,7 @@
 3	jii	jii	ADV	adv	_	1	advmod	_	_
 4	je	je	ADV	adv	_	3	compound	_	_
 5	,	,	PUNCT	punct	_	1	punct	_	_
-6	aregodure	aregodure	VERB	v	_	1	parataxis	_	_
+6	aregodyre	aregodyre	VERB	v	_	1	parataxis	_	_
 7	apo	apo	ADP	posp	Number=Sing|Person=3	6	obl	_	_
 8	ba	ba	NOUN	n	_	6	obl	_	_
 9	to	to	ADP	posp	Number=Sing|Person=3	8	case	_	_
@@ -347,14 +347,14 @@
 22	to	to	ADP	posp	Number=Sing|Person=3	21	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-20
-# text = Icare beregodure dykejere , akogodure pugeje . Akore : hm , hm , hm , nowy tuwere inody ji
+# text = Icare beregodyre dykejere , akogodyre pugeje . Akore : hm , hm , hm , nowy tuwere inody ji
 # text_eng = 
 # text_por = Quando ferveu, começo a (o peixe) a falar de novo, dizendo: - hm , hm , hm , fervendo assim
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
-2	beregodure	bere	VERB	v	Number=Sing|Person=3	5	advmod	_	_
+2	beregodyre	bere	VERB	v	Number=Sing|Person=3	5	advmod	_	_
 3	dykejere	dykeje	SCONJ	sconj	Mood=Ind	2	mark	_	_
 4	,	_	PUNCT	_	_	2	punct	_	_
-5	akogodure	ako	VERB	v	Number=Sing|Person=3	0	root	_	_
+5	akogodyre	ako	VERB	v	Number=Sing|Person=3	0	root	_	_
 6	pugeje	pugeje	ADV	_	_	5	advmod	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 8	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
@@ -2138,7 +2138,7 @@
 22	ekojai	kojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	[];;
 
 # sent_id = criacao_15
-# text = Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ure rugadu barigu
+# text = Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodyre Deu kori kocare Deu ure rugadu barigu
 # text_eng = 
 # text_por = Deus que fez Satanáe, fez o demonio, antes eles eram bons mas depois eles quíseram ser maior do que Deus, por isso que Deus o expulsou 
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	[];;
@@ -2156,7 +2156,7 @@
 13	tugurire	_	VERB	v	_	11	xcomp	_	[];;
 14	,	,	PUNCT	punct	_	13	punct	_	[];;
 15	pudumiwo	pudumi	VERB	v	_	16	obj	_	[];;
-16	tugodure	agodyre	VERB	v	_	11	xcomp	_	[];;
+16	tugodyre	agodyre	VERB	v	_	11	xcomp	_	[];;
 17	Deu	Deu	PROPN	propn	_	16	obl	_	[];;
 18	kori	kori	ADP	posp	_	17	case	_	[];;
 19	kocare	kocare	X	x	_	23	discourse	_	[];;
@@ -3501,11 +3501,11 @@
 2	toro	toro	ADV	adv	_	1	advmod	_	there;lá
 
 # sent_id = CGPB-p21.2
-# text = Kaiba pagodure ?
+# text = Kaiba pagodyre ?
 # text_eng = Where did we go?
 # text_por = Aonde nós fomos
 1	Kaiba	kai	PRON	pron	PronType=Int	2	obl	_	[];;
-2	pagodure	kodu	VERB	v	Clusivity=In|Mood=Ind|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
+2	pagodyre	kodu	VERB	v	Clusivity=In|Mood=Ind|Number[subj]=Plur|Person[subj]=1	0	root	_	go;it
 3	?	?	PUNCT	punct	_	2	punct	_	[];;
 
 # sent_id = CGPB-p24.1
@@ -3544,10 +3544,10 @@
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	[];;
 
 # sent_id = CGPB-p40.1
-# text = Akogodure ?
+# text = Akogodyre ?
 # text_eng = Are you sick?
 # text_por = Você está doente?
-1	Akogodure	kogodu	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	sick,ill;doente
+1	Akogodyre	kogodu	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	sick,ill;doente
 2	?	?	PUNCT	punct	_	1	punct	_	[];;
 
 # sent_id = CGPB-p40.2
@@ -5241,14 +5241,14 @@
 14	dytabo	du	SCONJ	x	_	13	mark	_	[];;
 
 # sent_id = sabia.011
-# text = Dykeje icare awy kiogo akogodure akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
+# text = Dykeje icare awy kiogo akogodyre akore : Baru kuru ciri , baru kuru ciri br ! br ! ciri ciri ciri br ! br ! je
 # text_eng = 
 # text_por = Depois o passarinho começou a cantar dizendo: Céu líquido se derrama, céu líquido se derrama, br!, br!, se derrama, se derrama, se derrama br je!
 1	Dykeje	keje	ADV	adv	_	5	advmod	_	[];;
 2	icare	icare	ADV	adv	_	5	advmod	_	[];;
 3	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	4	det	_	[];;
 4	kiogo	kiogo	NOUN	n	_	5	nsubj	_	[];;
-5	akogodure	akogody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
+5	akogodyre	akogody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 6	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	5	xcomp	_	[];;
 7	:	_	PUNCT	punct	_	6	punct	_	[];;
 8	Baru	baru	NOUN	n	_	10	nsubj	_	[];;
@@ -7518,7 +7518,7 @@
 5	je	_	ADV	adv	_	1	advmod	_	thus;assim
 
 # sent_id = 010.KJB
-# text = Icare adygo uke boi raka guragare ji , icare bigodure tuge boi koia
+# text = Icare adygo uke boi raka guragare ji , icare bigodyre tuge boi koia
 # text_eng = 
 # text_por = E a onça teve muito desejo de comida e estava para desmaiar pelo desejo de comida
 1	Icare	_	ADV	adv	_	4	advmod	_	[];;
@@ -7530,7 +7530,7 @@
 7	ji	ji	ADP	posp	Number=Sing|Person=3	6	obl	_	[];;
 8	,	_	PUNCT	punct	_	6	punct	_	[];;
 9	icare	_	ADV	adv	_	10	advmod	_	[];;
-10	bigodure	_	VERB	v	Mood=Ind|Number=Sing|Person=3	4	conj	_	[];;
+10	bigodyre	_	VERB	v	Mood=Ind|Number=Sing|Person=3	4	conj	_	[];;
 11	tuge	_	NOUN	n	_	12	nmod	_	[];;
 12	boi	_	NOUN	n	_	10	obl	_	[];;
 13	koia	_	ADP	posp	_	12	case	_	[];;
@@ -8154,11 +8154,11 @@
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	obl	_	_
 
 # sent_id = 042.IETKB
-# text = Uce rugodure ji . Ure boe to ji
+# text = Uce rugodyre ji . Ure boe to ji
 # text_eng = 
 # text_por = Sua mãe brigou com ele, bateu nele
 1	Uce	ce	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	2	nsubj	_	_
-2	rugodure	rugodu	VERB	v	Mood=Sub|Number=Sing|Person=3	0	root	_	_
+2	rugodyre	rugodu	VERB	v	Mood=Sub|Number=Sing|Person=3	0	root	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 5	Ure	u	PRON	bi	Mood=Sub|Number=Sing|Person=3	6	nsubj	_	_
