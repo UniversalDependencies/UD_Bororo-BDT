@@ -10,7 +10,7 @@
 # text = Nowy imedy iere Meriri Baru , Paiwedu
 # text_eng = This man, his name was Meriri Baru, from the howler monley clan
 # text_por = Este homem, seu ome era Meriri Baru (do clã dos bugios)
-1	Nowy	nowy	DET	dem	_	2	det	_	_
+1	Nowy	nowy	DET	dem	Deixis=Med	2	det	_	_
 2	imedy	imedy	NOUN	n	Number=Sing	5	nsubj	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
@@ -58,7 +58,7 @@
 # text_eng = Then the fish became tired (flacid)
 # text_por = Aí o peixe ficou cansado
 1	Icare	icare	ADV	adv	_	4	advmod	_	_
-2	nowy	nowy	DET	dem	_	3	det	_	_
+2	nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
 3	karo	karo	NOUN	n	Number=Sing	4	nsubj	_	_
 4	kugudugodyre	kugudugodu	VERB	_	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
@@ -104,7 +104,7 @@
 # text_eng = 
 # text_por = Aí o homem bateu com um pau na cabeça dele e o matou
 1	Icare	icare	ADV	adv	_	3	advcl	_	_
-2	nowy	nowy	DET	dem	_	3	det	_	_
+2	nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
 3	imedyre	imedy	NOUN	n	Mood=Ind|Number=Sing	5	nsubj	_	_
 4	ipo	ipo	NOUN	n	_	5	obj	_	_
 5	to	to	VERB	vt	Number=Sing|Person=3	0	root	_	_
@@ -341,7 +341,7 @@
 16	,	,	PUNCT	punct	_	13	punct	_	_
 17	icare	icare	ADV	adv	_	21	advmod	_	_
 18	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	21	nsubj	_	_
-19	nowy	nowy	DET	dem	_	20	nmod	_	_
+19	nowy	nowy	DET	dem	Deixis=Med	20	nmod	_	_
 20	kody	kody	NOUN	n	_	21	obj	_	_
 21	tugu	tugu	VERB	vt	Number=Sing|Person=3	13	parataxis	_	_
 22	to	to	ADP	posp	Number=Sing|Person=3	21	obl	_	_
@@ -506,7 +506,7 @@
 # text = Nowy boe piji irijodyre
 # text_eng = I grew up out of this context
 # text_por = Eu cresci apartir deste contexto
-1	Nowy	nowy	DET	dem	_	2	det	_	_
+1	Nowy	nowy	DET	dem	Deixis=Med	2	det	_	_
 2	boe	boe	NOUN	n	_	4	obl	_	_
 3	piji	piji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	irijodyre	rijody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -579,7 +579,7 @@
 1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ikiarigodyre	kiarigody	_	_	Aspect=Inc|Mood=Ind|Number=Sing|Person=1	0	root	_	_
-4	nowy	nowy	DET	dem	_	5	det	_	_
+4	nowy	nowy	DET	dem	Deixis=Med	5	det	_	_
 5	inody	inody	NOUN	n	_	3	obl	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
@@ -649,7 +649,7 @@
 # text = Nowy ukare oino pugeje
 # text_eng = This isn't thus anymore
 # text_por = Isso já não é assim
-1	Nowy	nowy	DET	dem	_	2	dep	_	_
+1	Nowy	nowy	DET	dem	Deixis=Med	2	dep	_	_
 2	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	nsubj	_	_
 3	oino	oino	ADV	adv	_	0	root	_	_
 4	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
@@ -685,7 +685,7 @@
 2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	discourse	_	_
 3	itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 4	pawo	pron	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	7	nsubj	_	_
-5	nowy	nowy	DET	dem	_	6	det	_	_
+5	nowy	nowy	DET	dem	Deixis=Med	6	det	_	_
 6	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	7	obj	_	_
 7	tawyji	tawyji	VERB	v	Number=Ind|Person=3	3	cc	_	_
 8	mato	mato	ADV	adv	AdvType=Dir	7	advmod	_	_
@@ -968,7 +968,7 @@
 5	,	_	PUNCT	punct	_	4	punct	_	_
 6	eejiwunure	_	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	4	conj	_	_
 7	,	_	PUNCT	punct	_	6	punct	_	_
-8	nowy	nowy	DET	dem	_	9	det	_	_
+8	nowy	nowy	DET	dem	Deixis=Med	9	det	_	_
 9	jure	jure	NOUN	n	_	4	obl	_	_
 10	ji	_	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	.	_	PUNCT	punct	_	9	punct	_	_
@@ -8016,7 +8016,7 @@
 # text_eng = 
 # text_por = Então as criancinhas disseram: como é ?
 1	Icare	icare	ADV	adv	_	6	advmod	_	[];;
-2	nowy	nowy	DET	dem	_	4	det	_	[];;
+2	nowy	nowy	DET	dem	Deixis=Med	4	det	_	[];;
 3	boe	boe	NOUN	n	_	4	compound	_	[];;
 4	etore	onaregedy	NOUN	n	Number=Plur|Number[psor]=Plur|Person=3	6	nsubj	_	[];;
 5	kugure	kuguri	NOUN	n	Number=Plur	4	nmod	_	[];;
@@ -8243,7 +8243,7 @@
 22	,	,	PUNCT	punct	_	18	punct	_	[];;
 23	oredyrogu	oredy	NOUN	n	Degree=Dim	18	parataxis	_	[];;
 24	rugady	rugady	ADV	adv	_	23	advcl	_	[];;
-25	nowy	nowy	DET	dem	_	26	det	_	[];;
+25	nowy	nowy	DET	dem	Deixis=Med	26	det	_	[];;
 26	iwie	bie	NOUN	n	Number=Sing|Person=1	23	nmod	_	[];;
 27	oredy	oredy	NOUN	n	_	26	discourse	_	[];;
 28	...	...	PUNCT	punct	_	23	punct	_	[];;
@@ -8402,7 +8402,7 @@
 # text_eng = 
 # text_por = hoje o morro ainda se encontra existe (esse morro ainda que esse morro se chama Santo Antonio)
 1	Hoje	hoje	ADV	adv	_	4	advmod	_	[];;
-2	nowy	nowy	DET	dem	_	3	det	_	[];;
+2	nowy	nowy	DET	dem	Deixis=Med	3	det	_	[];;
 3	tori	tori	NOUN	noun	Number=Sing	4	nsubj	_	['tɔɾi];hill,mountain;monte,colina
 4	mugu	_	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 5	kimore	kimo	ADV	adv	Mood=Ind	4	advcl	_	[ki'moɾe];still;ainda
@@ -8468,7 +8468,7 @@
 5	by	by	VERB	v	_	1	ccomp	_	put,place;pôr,colocar
 6	,	,	PUNCT	punct	_	5	punct	_	[];;
 7	dykaie	dykaie	ADV	adv	_	10	advmod	_	[];;
-8	nowy	nowy	DET	dem	_	9	det	_	[];;
+8	nowy	nowy	DET	dem	Deixis=Med	9	det	_	[];;
 9	negedyrogy	onaregedy	NOUN	noun	Degree=Dim|Number=Sing	10	nsubj	_	child;criança
 10	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	[];;
 11	.	.	PUNCT	punct	_	10	punct	_	[];;
