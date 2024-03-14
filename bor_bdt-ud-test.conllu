@@ -202,7 +202,7 @@
 7	,	,	PUNCT	punct	_	3	punct	_	_
 8	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
 9	bu	bu	VERB	v	Number=Sing|Person=3	3	conj	_	_
-10	mato	mato	ADV	adv	_	9	advmod	_	_
+10	mato	mato	ADV	adv	AdvType=Dir	9	advmod	_	_
 11	tuboru	poru	NOUN	n	_	9	obl	_	_
 12	keje	keje	ADP	posp	Number=Sing|Person=3	11	case	_	_
 13	,	,	PUNCT	punct	_	9	punct	_	_
@@ -688,7 +688,7 @@
 5	nowy	nowy	DET	dem	_	6	det	_	_
 6	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	7	obj	_	_
 7	tawyji	tawyji	VERB	v	Number=Ind|Person=3	3	cc	_	_
-8	mato	mato	ADV	adv	_	7	advmod	_	_
+8	mato	mato	ADV	adv	AdvType=Dir	7	advmod	_	_
 9	pugeje	pugeje	ADV	adv	_	7	advmod	_	_
 
 # sent_id = IpareEreru-1
