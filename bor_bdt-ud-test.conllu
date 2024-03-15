@@ -454,6 +454,23 @@
 19	woere	_	ADV	_	_	20	advmod	_	_
 20	itugudyre	tugudu	VERB	_	Mood=Ind|Number=Sing|Person=3	6	ccomp	_	cook,burry;cozinhar,enterrar
 
+# sent_id = OiegoJiwuBakaru-25
+# text = Icare kodyre . Icare ure tawyje . Icare ore kugure ere kowyje
+# text_eng = 
+# text_por = Quando ficou cozido, ele tirou (a carne da panela). Depois os meninos comeram
+1	Icare	icare	ADV	_	_	2	advmod	_	_
+2	kodyre	kody	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	Icare	icare	ADV	_	_	6	advmod	_	_
+5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
+6	tawyje	tawyje	VERB	_	Number=Sing|Person=3	2	parataxis	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+8	Icare	icare	ADV	_	_	12	advmod	_	_
+9	ore	ore	NOUN	n	Number=Plur	11	dep	_	_
+10	kugure	kugure	NOUN	_	_	9	nmod	_	_
+11	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	12	nsubj	_	_
+12	kowyje	kowyje	VERB	v	Number=Sing|Person=3	2	parataxis	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
