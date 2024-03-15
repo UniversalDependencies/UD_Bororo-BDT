@@ -581,6 +581,21 @@
 26	uwai	bai	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	23	obl	_	_
 27	to	to	ADP	posp	Number=Sing|Person=3	26	case	_	_
 
+# sent_id = OiegoJiwuBakaru-30
+# text = Icare ere cewy Iro ko . Egore : Iroooo...
+# text_eng = 
+# text_por = Aí eles cantaram o canto “Iro”
+1	Icare	icare	ADV	adv	_	5	advcl	_	_
+2	ere	ere	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
+3	cewy	cewy	DET	dem	Deixis=	4	det	_	_
+4	Iro	iro	PROPN	propn	_	5	obj	_	_
+5	ko	ko	VERB	vt	_	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
+7	Egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
+8	:	:	PUNCT	punct	_	7	punct	_	_
+9	Iroooo	Iro	PROPN	propn	_	7	cc	_	_
+10	...	...	PUNCT	punct	_	9	punct	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
