@@ -583,7 +583,7 @@
 # text_por = Aí eles cantaram o canto “Iro”
 1	Icare	icare	ADV	adv	_	5	advcl	_	_
 2	ere	ere	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
-3	cewy	cewy	DET	dem	Deixis=	4	det	_	_
+3	cewy	cewy	DET	dem	Deixis=Remt	4	det	_	_
 4	Iro	iro	PROPN	propn	_	5	obj	_	_
 5	ko	ko	VERB	vt	_	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	_
