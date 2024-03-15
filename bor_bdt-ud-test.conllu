@@ -503,10 +503,6 @@
 # text = Dykeje icare ere tubemegado , ere tugujagudo , ere tuiejiwudo , ere taipodo , ere tuiba gogudo , tuwo roia ta tabo
 # text_eng = 
 # text_por = Depois eles se arrumaram: pintaram-se de vermelho, fizeram desenhos no rosto, amarraram o cabelo no ocipício e nas têmperas, para cantar e dançar
-# sent_id = OiegoJiwuBakaru-27
-# text = Dykeje icare ere tubemegado , ere tugujagudo , ere tuiejiwudo , ere taipodo , ere tuiba gogudo , tuwo roia ta tabo
-# text_eng = 
-# text_por = Depois eles se arrumaram: pintaram-se de vermelho, fizeram desenhos no rosto, amarraram o cabelo no ocipício e nas têmperas, para cantar e dançar
 1	Dykeje	dykeje	ADV	adv	_	4	advmod	_	_
 2	icare	icare	ADV	adv	_	4	advmod	_	_
 3	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	4	nsubj	_	_
