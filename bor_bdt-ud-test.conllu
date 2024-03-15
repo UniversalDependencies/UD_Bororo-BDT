@@ -592,6 +592,41 @@
 9	Iroooo	Iro	PROPN	propn	_	7	cc	_	_
 10	...	...	PUNCT	punct	_	9	punct	_	_
 
+# sent_id = OiegoJiwuBakaru-31
+# text = Akedy kejere icare Tadugore tugera bu Ki Bakororo ao keje , akore : Oieigo jetuiaga , Bokodoriware iga oieigo wararere , tagaruia Bokuojeba Bakororo tuiagajejewy onawuio okwabijire . Oieigo jetuiaga
+# text_eng = 
+# text_por = Quando acabou, Tadugo colocou a mão na cabeça de Ki Bakororo e disse: Aqui está o  canto de Oieigo, executado por mim Bokodori, a começar pela imposição do cinto enfeitado no afamado Bokuojeba Bakororo. Aqui está o canto de Oieigo
+1	Akedy	akedy	VERB	v	_	6	advcl	_	_
+2	kejere	keje	SCONJ	sconj	Mood=Ind	1	mark	_	_
+3	icare	icare	ADV	adv	_	6	advmod	_	_
+4	Tadugore	Tadugore	PROPN	propn	Mood=Ind	6	nsubj	_	_
+5	tugera	era	NOUN	n	Reflex=Yes	6	obj	_	_
+6	bu	bu	VERB	vt	Number=Sing|Person=3	0	root	_	_
+7	Ki	Ki	PROPN	propn	_	9	nmod	_	_
+8	Bakororo	Bakororo	PROPN	propn	_	7	compound	_	_
+9	ao	ao	NOUN	n	_	6	obl	_	_
+10	keje	keje	ADP	posp	Number=Sing|Person=3	9	case	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	6	conj	_	_
+13	:	:	PUNCT	punct	_	12	punct	_	_
+14	Oieigo	Oieigo	PROPN	_	_	15	nmod	_	_
+15	jetuiaga	_	X	_	_	12	cc	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	Bokodoriware	_	PROPN	_	_	18	nmod	_	_
+18	iga	_	NOUN	n	_	20	nsubj	_	_
+19	oieigo	_	PROPN	propn	_	20	obj	_	_
+20	wararere	barare	VERB	v	_	12	parataxis	_	_
+21	,	,	PUNCT	punct	_	20	punct	_	_
+22	tagaruio	_	NOUN	_	_	23	nmod	_	_
+23	Bokuojeba	Bokuojeba	PROPN	propn	_	20	obl	_	_
+24	Bakororo	Bakororo	PROPN	propn	_	23	compound	_	_
+25	tuiagajejewy	_	ADP	posp	Reflex=Yes	23	case	_	_
+26	onawuio	_	X	_	_	27	dep	_	_
+27	okwabijire	_	X	_	_	25	dep	_	_
+28	.	.	PUNCT	punct	_	27	punct	_	_
+29	Oieigo	Oieigo	NOUN	n	_	30	nmod	_	_
+30	jetuiaga	_	NOUN	n	_	12	parataxis	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
