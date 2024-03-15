@@ -410,6 +410,25 @@
 13	Woie	_	ADV	adv	_	9	conj	_	_
 14	!	!	PUNCT	punct	_	13	punct	_	_
 
+# sent_id = OiegoJiwuBakaru-23
+# text = Icare akogodyre pugeje , akore : hm , hm , hm , hm !
+# text_eng = The it started speaking again and said hm , hm , hm , hm !
+# text_por = Depois começou a falar de novo e disse : hm , hm , hm , hm !
+1	Icare	Icare	ADV	_	_	2	advmod	_	_
+2	akogodyre	ako	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	pugeje	pugeje	ADV	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	2	conj	_	_
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	hm	_	X	_	_	5	cc	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	hm	_	X	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	hm	_	X	_	_	7	conj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	hm	_	X	_	_	7	conj	_	_
+14	!	!	PUNCT	_	_	13	punct	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
