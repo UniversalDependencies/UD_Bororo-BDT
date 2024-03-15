@@ -471,6 +471,34 @@
 11	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	12	nsubj	_	_
 12	kowyje	kowyje	VERB	v	Number=Sing|Person=3	2	parataxis	_	_
 
+# sent_id = OiegoJiwuBakaru-26
+# text = Dykeje icare ere batagaje towyje , batagaje oia kujagurewy, oia ekurewy . Dykejere icare ere to , ere pemegado , ere towyje
+# text_eng = 
+# text_por = Depois (os Bororo) fizeram “batagaje”(cordão de peninhas) metade vermelho, metade amarelo. Eles o fizeram, o arrumaram, o fizeram
+1	Dykeje	dykeje	ADV	adv	_	5	advmod	_	_
+2	icare	icare	ADV	adv	_	5	advmod	_	_
+3	ere	e	PRON	bi	Number=Plur|Person=3	5	nsubj	_	_
+4	batagaje	batagaje	NOUN	_	_	5	obj	_	feather collar;colar de penas
+5	towyje	towyje	VERB	vt	Number=Sing|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	batagaje	batagaje	NOUN	_	_	4	appos	_	_
+8	oia	oia	NOUN	n	_	9	nmod	_	_
+9	kujagurewy	kujagu	NOUN	n	Mood=Ind|Nomzr=Rel	7	nmod	_	_
+10	,	,	PUNCT	punct	Mood=Ind|Nomzr=Rel	7	punct	_	_
+11	oia	oia	NOUN	n	_	12	nmod	_	_
+12	ekurewy	eku	NOUN	n	Mood=Ind|Nomzr=Rel	7	conj	_	_
+13	.	_	PUNCT	punct	_	12	punct	_	_
+14	Dykejere	dykeje	ADV	adv	Mood=Ind	17	advmod	_	_
+15	icare	icare	ADV	adv	_	17	advmod	_	_
+16	ere	e	PRON	bi	Number=Plur|Person=3	17	nsubj	_	_
+17	to	to	VERB	v	_	5	parataxis	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	ere	e	PRON	bi	_	20	nsubj	_	_
+20	pemegado	pemega	VERB	vt	Number=Sing|Person=3|Voice=Cau	5	parataxis	_	_
+21	,	,	PUNCT	punct	_	20	punct	_	_
+22	ere	e	PRON	bi	Number=Plur|Person=3	23	nsubj	_	_
+23	towyje	towyje	VERB	vt	Number=Sing|Person=3	5	parataxis	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
