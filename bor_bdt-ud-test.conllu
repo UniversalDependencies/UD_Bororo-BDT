@@ -503,6 +503,10 @@
 # text = Dykeje icare ere tubemegado , ere tugujagudo , ere tuiejiwudo , ere taipodo , ere tuiba gogudo , tuwo roia ta tabo
 # text_eng = 
 # text_por = Depois eles se arrumaram: pintaram-se de vermelho, fizeram desenhos no rosto, amarraram o cabelo no ocipício e nas têmperas, para cantar e dançar
+# sent_id = OiegoJiwuBakaru-27
+# text = Dykeje icare ere tubemegado , ere tugujagudo , ere tuiejiwudo , ere taipodo , ere tuiba gogudo , tuwo roia ta tabo
+# text_eng = 
+# text_por = Depois eles se arrumaram: pintaram-se de vermelho, fizeram desenhos no rosto, amarraram o cabelo no ocipício e nas têmperas, para cantar e dançar
 1	Dykeje	dykeje	ADV	_	_	4	advmod	_	_
 2	icare	icare	_	_	_	4	advmod	_	_
 3	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	4	nsubj	_	_
@@ -512,7 +516,7 @@
 7	tugujagudo	kujagu	VERB	v	Reflex=Yes|Voice=Cau	4	conj	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	10	nsubj	_	_
-10	tuiejiwudo	ejiwu	VERB	v	Reflex=Yes|Voice=Cau	_	_	_	_
+10	tuiejiwudo	ejiwu	VERB	v	Reflex=Yes|Voice=Cau	4	conj	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
 12	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	13	nsubj	_	_
 13	taipodo	taipo	VERB	v	Number=Sing|Person=3|Voice=Cau	4	conj	_	_
