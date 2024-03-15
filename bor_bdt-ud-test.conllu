@@ -530,6 +530,25 @@
 21	ta	_	_	_	_	20	obl	_	_
 22	tabo	apo	ADP	posp	Numer=Sing|Person=3	21	case	_	_
 
+# sent_id = OiegoJiwuBakaru-28
+# text = Icare Tadugore tugeragu butore ji , ure tugera kogudo Ki Bakororo iera ra parugajeje
+# text_eng = 
+# text_por = Então Tadugo pegou o cinto-chocalho, e segurou a mão de Ki Bakororo
+1	Icare	icare	ADV	adv	_	3	advmod	_	_
+2	Tadugore	Tadugore	PROPN	_	_	3	nsubj	_	_
+3	tugeragu	tugeragu	VERB	v	_	0	root	_	_
+4	butore	butore	NOUN	n	_	3	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+8	tugera	iera	NOUN	_	Numer=Sing|Reflex=Yes	9	obj	_	_
+9	kogudo	kogu	VERB	_	Voice=Cau	3	conj	_	_
+10	Ki	Ki	PROPN	_	_	13	nmod	_	_
+11	Bakororo	Bakororo	PROPN	_	_	10	compound	_	_
+12	iera	iera	NOUN	_	_	13	nmod	_	_
+13	ra	ra	NOUN	_	_	9	obl	_	_
+14	parugajeje	parugajeje	ADP	posp	Number=Sing|Person=3	13	case	_	_
+
 # sent_id = Valm-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
