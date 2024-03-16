@@ -23,7 +23,7 @@
 19	.	.	PUNCT	punct	_	17	punct	_	_
 20	koiare	koia	ADP	posp	Mood=Ind	24	discourse	_	_
 21	,	,	PUNCT	punct	_	20	punct	_	_
-22	ure	u	PRON	bi	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	24	nsubj	_	_
+22	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	24	nsubj	_	_
 23	iwadaru	batary	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	24	obj	_	_
 24	maky	maky	VERB	v	Number=Sing|Person=3	1	parataxis	_	_
 25	iinai	ai	ADP	posp	Number=Sing|Person=1	24	obl	_	_
