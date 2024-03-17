@@ -89,6 +89,60 @@
 28	kejere	keje	ADV	adv	Mood=Ind	29	advmod	_	_
 29	iricodure	ricodu	VERB	v	Mood=Ind|Number=Sing|Person=1	23	conj	_	_
 
+# sent_id = CoqueiroAutobio-11
+# text = Dykeje icare iture . Iture woje bakowuboeto , ora kae , ioga apo , imuga apo . Ikodure apowuge emegaguragare .  Boe ekodo jii toro , boe etaredodure Kiwaboto . Kiwabo piji Boe eture toro Tuguriboto , du pijire cedyre Tuboreboto , dypijire cedyre Bakureboto
+# text_eng =
+# text_por = Depois eu fui embora. Fui para o lado oposto (do rio), para o pantanal, com o meu pai e com a minha mãe. Fui com um grupo grande. Os Bororo andaram muito tempo para lá, e chegaram ao rio Kiwabo (rio das capivaras). Do rio Kiwabo fomos embora para o rio Tuguribo (rio das palmeiras carandá) e dali nós fomos embora para o rio Bakurebo (rio dos macacos bakure)
+1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
+2	icare	icare	ADV	adv	_	1	compound	_	_
+3	iture	tu	VERB	v	Mood=Ind|Number=Sing|Person=1	_	_	_	_
+4	.	.	PUNCT	punct	_	3	PUNCT	punct	_
+5	Iture	tu	VERB	v	Mood=Ind|Number=Sing|Person=1	3	parataxis	_	_
+6	woje	woje	ADV	adv	_	5	advmod	_	_
+7	bakowuboe	bakowuboe	NOUN	n	_	5	obl	_	_
+8	to	to	ADP	posp	Number=Sing|Person=3	7	case	_	_
+9	,	,	PUNCT	punct	_	7	PUNCT	punct	_
+10	ora	ora	NOUN	n	_	7	conj	_	_
+11	kae	kae	ADP	posp	Number=Sing|Person=3	10	case	_	_
+12	,	_	PUNCT	punct	_	10	PUNCT	punct	_
+13	ioga	oga	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	7	conj	_	_
+14	apo	apo	ADP	posp	Number=Sing|Person=3	13	case	_	_
+15	,	,	PUNCT	punct	_	13	PUNCT	punct	_
+16	imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	13	conj	_	_
+17	apo	apo	ADP	_	Number=Sing|Person=3	16	case	_	_
+18	.	.	PUNCT	punct	_	16	PUNCT	punct	_
+19	Ikodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=1	5	parataxis	_	_
+20	apowuge	apowu	NOUN	_	Number=Plur	19	obl	_	_
+21	emegaguragare	_	NOUN	_	_	20	nmod	_	_
+22	.	_	PUNCT	punct	_	19	PUNCT	punct	_
+23	Boe	boe	NOUN	n	Number=Plur	24	nsubj	_	_
+24	ekodo	kodo	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+25	jii	ji	ADV	Adv	_	24	advmod	_	_
+26	toro	toro	ADV	_	_	24	advmod	_	_
+27	,	,	PUNCT	punct	_	24	PUNCT	punct	_
+28	boe	boe	NOUN	n	Number=Plur	29	nsubj	_	_
+29	etaredodure	aredo	VERB	v	Mood=Ind|Number=Plur|Person=3	24	conj	_	_
+30	Kiwabo	Kiwabo	PROPN	_	_	29	obl	_	_
+31	to	to	ADP	posp	Number=Sing|Person=3	30	case	_	_
+32	.	.	PUNCT	punct	_	29	PUNCT	punct	_
+33	Kiwabo	Kiwabo	PROPN	_	_	36	obl	_	_
+34	piji	piji	ADP	posp	Number=Sing|Person=3	33	case	_	_
+35	Boe	boe	NOUN	_	Number=Plur	36	nsubj	_	_
+36	eture	_	VERB	_	_	3	parataxis	_	_
+37	toro	_	ADV	_	_	36	advmod	_	_
+38	Tuguribo	_	PROPN	_	_	36	obl	_	_
+39	to	to	ADP	posp	Number=Sing|Person=3	38	case	_	_
+40	,	,	PUNCT	punct	_	36	PUNCT	punct	_
+41	dypijire	dypiji	ADV	adv	Mood=Ind	42	advmod	_	_
+42	cedyre	_	VERB	_	_	36	conj	_	_
+43	Tuborebo	_	PROPN	_	_	42	obl	_	_
+44	to	to	ADP	posp	Number=Sing|Person=3	43	case	_	_
+45	,	,	PUNCT	punct	_	42	PUNCT	punct	_
+46	dypijire	dypiji	ADV	adv	Mood=Ind	_	47	advcl	_	_
+47	cedyre	tu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Number=1	42	conj	_	_
+48	Bakurebo	Bakurebo	PRON	_	_	47	obl	_	_
+49	to	to	ADP	posp	Number=Sing|Person=3	48	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
