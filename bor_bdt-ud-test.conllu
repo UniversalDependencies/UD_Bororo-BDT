@@ -143,6 +143,60 @@
 48	Bakurebo	Bakurebo	PRON	_	_	47	obl	_	_
 49	to	to	ADP	posp	Number=Sing|Person=3	48	case	_	_
 
+# sent_id = CoqueiroAutobio-12
+# text = Dykejere Boe ere tugirimi mato pugeje , etaidykare toro pugeje kodi . Ekodure mato , mato , Tuguribo to pugeje . Nonore ere bato . Boe emagare . Ia barae mugure Boe ebo . Makore Boei boe ewadary tabo ia meriri mako rakarewy tabo . Joru makare nono
+# text_eng =
+# text_por = Depois os Bororo voltaram, não gostaram mais de lá. Foram voltando para cá até chegar de novo no Tuguribo. Aí eles fizeram aldeia. Tinha muitos Bororo. Tinha um branco com eles. Falava em bororo para os Bororos usava alto-falante. Ali passaram vários anos
+1	Dykejere	dykejere	ADV	adv	_	4	advmod	_	_
+2	Boe	boe	NOUN	n	Number=Plur	3	dep	_	_
+3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
+4	tugirimi	kirimi	VERB	v	Reflex=Yes	_	_	_	_
+5	mato	mato	ADV	adv	_	4	advmod	_	_
+6	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
+7	,	.	PUNCT	_	_	4	punct	_	_
+8	etaidykare	aidy	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	advcl	_	_
+9	toro	toro	ADV	adv	_	8	advmod	_	_
+10	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
+11	kodi	kodi	SCONJ	_	_	8	mark	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+13	Ekodure	kodu	VERB	_	Number=Plur|Person=3	4	parataxis	_	_
+14	mato	mato	ADV	_	_	13	advmod	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	mato	mato	ADV	_	_	14	advmod	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	Tuguribo	Tuguribo	PROPN	_	_	13	obl	_	_
+19	to	to	ADP	posp	Number=Sing|Person=3	18	case	_	_
+20	pugeje	pugeje	ADV	_	_	18	advmod	_	_
+21	.	.	PUNCT	_	_	18	punct	_	_
+22	Nonore	nono	ADV	adv	Mood=Ind	24	advmod	_	_
+23	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	24	nsubj	_	_
+24	bato	bato	VERB	_	_	13	parataxis	_	_
+25	.	.	PUNCT	_	_	24	punct	_	_
+26	Boe	boe	NOUN	n	Number=Plur	27	nsubj	_	_
+27	emagare	maka	VERB	v	Number=Plur|Person=3	13	parataxis	_	_
+28	.	_	PUNCT	_	_	27	punct	_	_
+29	Ia	ia	DET	_	Definite=Ind	30	det	_	_
+30	barae	barae	NOUN	n	Number=Sing	31	nsubj	_	_
+31	mugure	mugu	VERB	v	Mood=Ind	27	conj	_	_
+32	Boe	boe	NOUN	n	Number=Plur	31	obl	_	_
+33	ebo	apo	ADP	posp	Number=Plur|Person=3	32	case	_	_
+34	.	.	PUNCT	_	_	31	punct	_	_
+35	Makore	mako	VERB	v	Mood=Ind	27	parataxis	_	_
+36	Boe	boe	NOUN	n	_	35	obl	_	_
+37	ei	ji	ADP	posp	Number=Plur|Person=3	36	case	_	_
+38	boe	_	NOUN	n	Number=Plur	39	nmod	_	_
+39	ewadary	batary	NOUN	n	Number=Plur|Person=3	35	obl	_	_
+40	tabo	apo	ADP	posp	Number=Sing|Person=3	39	case	_	_
+41	ia	ia	DET	_	Definite=Ind	42	det	_	_
+42	meriri	meriri	NOUN	n	_	43	nmod	_	_
+43	mako	mako	NOUN	n	_	35	obl	_	_
+44	rakarewy	raka	NOUN	n	Mood=Ind|Nomzr=Rel	43	nmod	_	_
+45	tabo	apo	ADP	posp	Number=Sing|Person=3	43	case	_	_
+46	.	.	PUNCT	_	_	43	punct	_	_
+47	Joru	joru	NOUN	n	_	48	nsubj	_	_
+48	makare	maka	NOUN	n	Mood=Ind	27	parataxis	_	_
+49	nono	nono	ADV	adv	_	48	advcl	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
