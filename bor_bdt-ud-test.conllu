@@ -76,6 +76,40 @@
 7	,	,	PUNCT	punct	_	5	punct	_	_
 8	Paiwedu	Paiwedu	PROPN	propn	_	5	appos	_	_
 
+# sent_id = CoqueiroAutobio-10
+# text = Iwudure Koroia keje . Iogware iwagudu , iere Kodoridureu , iere Butoregadu . Imuga Iere Butugo Mugu , Bokodori Eceraredo . Imugure Koroia keje jii , kejere iricodure
+# text_eng =
+# text_por = Eu nasci na Colônia (Colônia Teresa Cristina). Meu pai, um "Iwagudu" (gralha-azul), chamava-se Kodoridureu, e também Butoregadu. Minha mãe chamava-se Butugo Mugu (lugar do bem-te-vi), do clã dos Bokodori Ecerae (tatus-canastra). Fiquei bastante tempo na Colônia, ali fui crescendo
+1	Iwudure	butu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	Koroia	Koroia	PROPN	propn	_	1	obl	_	_
+3	keje	keje	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+5	Iogware	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	10	dislocated	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	iwagudu	_	NOUN	n	_	5	appos	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=3	10	nsubj:poss	_	_
+10	Kodoridureu	_	PROPN	propn	_	1	parataxis	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=3	13	nsubj	_	_
+13	Butoregadu	Butoregadu	PROPN	propn	_	10	conj	_	_
+14	.	_	PUNCT	punct	_	13	punct	_	_
+15	Imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	17	dislocated	_	_
+16	Iere	ie	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=1	17	nsubj	_	_
+17	Butugo	_	PROPN	propn	_	10	conj	_	_
+18	Mugu	_	PROPN	propn	_	17	compound	_	_
+19	,	_	PUNCT	punct	_	17	punct	_	_
+20	Bokodori	bokodori	PROPN	propn	_	17	appos	_	_
+21	Eceraredo	ecerae	PROPN	propn	_	20	compound	_	_
+22	.	.	PUNCT	punct	_	20	punct	_	_
+23	Imugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=1	10	parataxis	_	_
+24	Koroia	Koroia	NOUN	n	_	23	obl	_	_
+25	keje	keje	ADP	posp	Number=Sing|Person=3	24	case	_	_
+26	jii	jii	ADV	adv	_	23	advmod	_	_
+27	,	,	PUNCT	punct	_	23	punct	_	_
+28	kejere	keje	ADV	adv	Mood=Ind	29	advmod	_	_
+29	iricodure	ricodu	VERB	v	Mood=Ind|Number=Sing|Person=1	23	conj	_	_
+
 # sent_id = OiegoJiwuBakaru-03
 # text = Icare karore togwa to ji
 # text_eng = Then, the fish took the bait
