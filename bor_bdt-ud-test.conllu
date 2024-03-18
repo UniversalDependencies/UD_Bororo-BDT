@@ -143,7 +143,7 @@
 49	to	to	ADP	posp	Number=Sing|Person=3	48	case	_	_
 
 # sent_id = CoqueiroAutobio-12
-# text = Dykejere Boe ere tugirimi mato pugeje , etaidykare toro pugeje kodi . Ekodure mato , mato , Tuguribo to pugeje . Nonore ere bato . Boe emagare . Ia barae mugure Boe ebo . Makore Boei boe ewadary tabo ia meriri mako rakarewy tabo . Joru makare nono
+# text = Dykejere Boe ere tugirimi mato pugeje , etaidykare toro pugeje kodi . Ekodure mato , mato , Tuguribo to pugeje . Nonore ere bato . Boe emagare . Ia barae mugure Boe ebo . Makore Boe ei boe ewadary tabo ia meriri mako rakarewy tabo . Joru makare nono
 # text_eng =
 # text_por = Depois os Bororo voltaram, não gostaram mais de lá. Foram voltando para cá até chegar de novo no Tuguribo. Aí eles fizeram aldeia. Tinha muitos Bororo. Tinha um branco com eles. Falava em bororo para os Bororos usava alto-falante. Ali passaram vários anos
 1	Dykejere	dykejere	ADV	adv	_	4	advmod	_	_
@@ -346,7 +346,7 @@
 3	uwogure	wogu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	fish;pescar
 
 # sent_id = OiegoJiwuBakaru-02
-# text = Nowy imedy iere Meriri Baru , Paiwedu
+# text = Nowy imedy , iere Meriri Baru , Paiwedu
 # text_eng = This man, his name was Meriri Baru, from the howler monley clan
 # text_por = Este homem, seu ome era Meriri Baru (do clã dos bugios)
 1	Nowy	nowy	DET	dem	Deixis=Med	2	det	_	_
@@ -422,7 +422,7 @@
 15	kae	kae	ADP	posp	Number=Sing|Person=3	14	case	_	_
 
 # sent_id = OiegoJiwuBakaru-08
-# text = Icare karo akogodyre , akore  hm ... hm ... hm... , tubadui
+# text = Icare karo akogodyre , akore  hm ... hm ... hm , tubadui
 # text_eng = 
 # text_por = Então o peixe começou a falar, dizendo: - ‘M ... ‘M ... ‘ M..., deitado por terra
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
@@ -621,7 +621,7 @@
 19	!	_	PUNCT	_	_	18	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-17
-# text = Icare ure kagirido tu ... Ure iado , icare akore : Kodoro ! Pawo kogudo !
+# text = Icare ure kagirido ty ... Ure iado , icare akore : Kodoro ! Pawo kogudo !
 # text_eng = The, he cut the fish... and when he finished he said: (bring) straw! Let's tie it!
 # text_por = Aí ele cortou o peixe... e quando acabou disse: (Tragam) palha! Vamos amarrá-lo
 1	Icare	icare	ADV	adv	Mood=Ind	3	advmod	_	_
@@ -932,7 +932,7 @@
 10	...	...	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-31
-# text = Akedy kejere icare Tadugore tugera bu Ki Bakororo ao keje , akore : Oieigo jetuiaga , Bokodoriware iga oieigo wararere , tagaruia Bokuojeba Bakororo tuiagajejewy onawuio okwabijire . Oieigo jetuiaga
+# text = Akedy kejere icare Tadugore tugera bu Ki Bakororo ao keje , akore : Oieigo jetuiaga , Bokodoriware iga oieigo wararere , tagaruio Bokuojeba Bakororo tuiagajejewy onawuio okwabijire . Oieigo jetuiaga
 # text_eng = 
 # text_por = Quando acabou, Tadugo colocou a mão na cabeça de Ki Bakororo e disse: Aqui está o  canto de Oieigo, executado por mim Bokodori, a começar pela imposição do cinto enfeitado no afamado Bokuojeba Bakororo. Aqui está o canto de Oieigo
 1	Akedy	akedy	VERB	v	_	6	advcl	_	_
