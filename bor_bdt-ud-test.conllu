@@ -9335,7 +9335,7 @@
 13	pawo	_	VERB	v	Clusivity=In|Mood=Sub|Number=Plur|Person=1	9	ccomp	_	[];;
 14	ecewy	_	DET	dem	Deixis=Remt	15	det	_	[];;
 15	meru	_	NOUN	n	_	16	obj	_	[];;
-16	tawyje	_	VERB	v	Number=Sing|Person=3	13	ccomp	_	[];;
+16	tawyje	_	VERB	vt	Number=Sing|Person=3	13	ccomp	_	[];;
 17	,	_	PUNCT	punct	_	16	punct	_	[];;
 18	ike	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	19	nmod	_	[];;
 19	boire	_	NOUN	n	_	16	parataxis	_	[];;
@@ -9380,7 +9380,7 @@
 12	pawo	pa	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	[];;
 13	ecewy	ecewy	DET	dem	_	14	det	_	[];;
 14	meru	meru	NOUN	n	_	15	obj	_	[];;
-15	tawyje	tawyje	VERB	v	Number=Sing|Person=3	9	ccomp	_	[];;
+15	tawyje	tawyje	VERB	vt	Number=Sing|Person=3	9	ccomp	_	[];;
 16	icare	icare	ADV	adv	_	17	advmod	_	[];;
 17	kodymode	_	VERB	v	Mood=Ind|Tense=Fut	15	parataxis	_	[];;
 
