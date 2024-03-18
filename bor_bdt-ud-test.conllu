@@ -6115,13 +6115,12 @@
 4	akodo	ako	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	make sound;fazer som
 
 # sent_id = 013.EncIEx
-# text = Mea akirodody mode tageje
+# text = Mea akirododymode tageje
 # text_eng = 
 # text_por = comprar-se-á tabaco para vós.
 1	Mea	mea	NOUN	n	_	2	nsubj	_	[];;
-2	akirodody	akirodo	VERB	v	Number=Sing|Person=3|Voice=CauPass	0	root	_	exchange;troca
-3	mode	mody-re	X	x	Mood=Ind|Tense=Fut	2	dep	_	[];;
-4	tageje	keje	ADP	posp	Number=Sing|Person=3	2	obl	_	[];;
+2	akirododymode	akirodo	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=CauPass	0	root	_	exchange;troca
+3	tageje	keje	ADP	posp	Number=Sing|Person=3	2	obl	_	[];;
 
 # sent_id = 014.EncIEx
 # text = Kajao pagimejera akogodomode
