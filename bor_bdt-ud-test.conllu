@@ -379,7 +379,7 @@
 4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	:	:	PUNCT	_	_	4	punct	_	_
 6	inoba	inoba	ADV	adv	PronType=Int	7	advmod	_	_
-7	boemode	boe	VERB	v	Mood=Ind|Tense=Fut	4	cc	_	_
+7	boemode	boe	VERB	v	Mood=Ind|Tense=Fut	4	conj	_	_
 8	?	?	PUNCT	_	_	7	punct	_	_
 9	Tui	tu	PRON	_	Reflex=Yes|VerbForm=Ger	10	nsubj	_	_
 10	tumugudo	mugudo	VERB	_	Reflex=Yes|Voice=Cau	4	advcl	_	_
