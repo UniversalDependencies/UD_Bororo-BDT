@@ -314,6 +314,29 @@
 31	rugadu	rugadu	ADV	adv	_	29	advcl	_	_
 32	!	!	PUNCT	punct	_	29	punct	_	_
 
+# sent_id = CoqueiroAutobio-16
+# text = Uw ! Icare Boe eture pugeje . Boe ekodo pugeje jii ... Boe etaregodure Aodorodoge Emerao maridoguruto pugeje
+# text_eng =
+# text_por = Sim! Depois os Bororo partiram novamente. Andaram muito até que chegaram de novo a um buritizal chamado Aodorodoge Emerao (lugar de andanças de rapazes).
+1	Uw	uw	INTJ	intj	_	5	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Icare	icare	ADV	adv	_	5	advmod	_	_
+4	Boe	boe	NOUN	n	_	5	nsubj	_	_
+5	eture	tu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+6	pugeje	pugeje	ADV	adv	_	5	advmod	_	_
+7	.	.	PUNCT	punct	_	5	punct	_	_
+8	Boe	boe	NOUN	n	_	9	nsubj	_	_
+9	ekodo	kodo	VERB	v	Number=Plur|Person=3	5	parataxis	_	_
+10	pugeje	pugeje	ADV	_	_	9	advmod	_	_
+11	jii	jii	ADV	adv	_	9	advmod	_	_
+12	...	...	PUNCT	punct	_	9	punct	_	_
+13	Boe	boe	NOUN	n	Number=Plur	14	nsubj	_	_
+14	etaregodure	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	9	parataxis	_	_
+15	Aodorodoge	Aodorodoge	PROPN	propn	Number=Plur	14	obl	_	_
+16	Emerao	Emerao	PROPN	propn	_	15	compound	_	_
+17	maridoguru	maridoguru	NOUN	n	_	14	appos	_	_
+18	to	to	ADP	posp	Number=Plur|Person=3	17	case	_	_
+19	pugeje	pugeje	ADV	adv	_	14	advmod	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
