@@ -277,6 +277,44 @@
 45	tuge	ke	NOUN	n	Reflex=Yes	35	conj	_	_
 46	otoe	otoe	NOUN	_	_	45	nmod	_	_
 
+# sent_id = CoqueiroAutobio-15
+# text = Boe eedure nono togwage tabo tuge jugo ji , tuge buke ji , tuge apogo ji , tuge okwaru ji , tuge ki ji . Ii ! Boe eke kurinure rugadu !
+# text_eng =
+# text_por = Os Bororo ficaram ali, comendo queixada, tamanduá-bandeira, tamanduá-mirim, tatupeba, anta. I! O povo tinha muita comida mesmo!
+1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
+2	eedure	edu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	nono	nono	ADV	adv	_	2	advmod	_	_
+4	togwage	okwage	NOUN	n	Reflex=Yes	2	obl	_	_
+5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	tuge	ke	NOUN	n	Reflex=Yes	4	appos	_	_
+7	jugo	jugo	NOUN	n	_	6	nmod	_	_
+8	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
+9	,	,	PUNCT	punct	_	6	punct	_	_
+10	tuge	ke	NOUN	n	Reflex=Yes	6	conj	_	_
+11	buke	buke	NOUN	n	_	10	nmod	_	_
+12	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
+13	,	,	PUNCT	punct	_	10	punct	_	_
+14	tuge	ke	NOUN	n	Reflex=Yes	6	conj	_	_
+15	apogo	apogo	NOUN	n	_	14	nmod	_	_
+16	ji	ji	ADP	posp	Number=Sing|Person=3	14	case	_	_
+17	,	,	PUNCT	punct	_	14	punct	_	_
+18	tuge	ke	NOUN	n	Reflex=Yes	6	conj	_	_
+19	okwaru	okwaru	NOUN	n	_	18	nmod	_	_
+20	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
+21	,	,	PUNCT	punct	_	18	punct	_	_
+22	tuge	ke	NOUN	n	Reflex=Yes	6	conj	_	_
+23	ki	ki	NOUN	n	_	22	nmod	_	_
+24	ji	ji	ADP	posp	Number=Sing|Person=3	22	case	_	_
+25	.	.	PUNCT	punct	_	22	punct	_	_
+26	Ii	ii	INTJ	intj	_	2	parataxis	_	_
+27	!	!	PUNCT	punct	_	26	punct	_	_
+28	Boe	boa	NOUN	n	Number=Plur	29	nsubj	_	_
+29	eke	ke	NOUN	n	Number=Plur|Person=3	2	parataxis	_	_
+30	kurinure	kuri	NOUN	n	Aspect=Prog|Mood=Ind	29	nmod	_	_
+31	rugadu	rugadu	ADV	adv	_	29	advcl	_	_
+32	!	!	PUNCT	punct	_	29	punct	_	_
+
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
