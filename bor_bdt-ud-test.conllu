@@ -10,8 +10,8 @@
 6	maky	maky	VERB	v	Number=Sing|Person=3	1	parataxis	_	_
 7	inai	ai	ADP	posp	Number=Sing|Person=1	6	obl	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
-9	Iedagare	edaga	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=1	11	nsubj	_	_
-10	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=1	11	nsubj:poss	_	_
+9	Iedagare	edaga	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=1	11	nsubj:outer	_	_
+10	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=1	11	nsubj	_	_
 11	Pemo	Pemo	PROPN	propn	_	1	parataxis	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
 13	Koiare	koia	ADP	posp	Mood=Ind	17	discourse	_	_
@@ -26,7 +26,7 @@
 22	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	24	nsubj	_	_
 23	iwadaru	batary	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	24	obj	_	_
 24	maky	maky	VERB	v	Number=Sing|Person=3	1	parataxis	_	_
-25	iinai	ai	ADP	posp	Number=Sing|Person=1	24	obl	_	_
+25	inai	ai	ADP	posp	Number=Sing|Person=1	24	obl	_	_
 
 # sent_id = CoqueiroAutobio-02
 # text = Koiare ure iorydywado ike rogu boe ji . Koiare ure iorydywado boe pemegarewy ji . Koiare ure itawara motydo . Koiare ure iorubodaregedo
