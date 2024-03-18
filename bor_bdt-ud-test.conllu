@@ -197,6 +197,35 @@
 48	makare	maka	NOUN	n	Mood=Ind	27	parataxis	_	_
 49	nono	nono	ADV	adv	_	48	advcl	_	_
 
+# sent_id = CoqueiroAutobio-13
+# text = Dykejere eture mato pugeje . Adugo Jari tada , itura kurirewy , ere bato . Emugu raire . Adugo Jari pijire cedure Bopejao kae
+# text_eng =
+# text_por = Depois vieram embora de novo. Em Adugo Jari (lugar da onça pintada), uma mata grande,  eles acamparam. Ficaram muito tempo. De Adugo Jari fomos para Bopejao (lugar do Bope). (Assim chamado porque ali tinha corujas,  jiwijiwi",   macauãs, jaós, todos animais de mau augúrio)
+1	Dykejere	dykeje	ADV	adv	Mood=Ind	2	advmod	_	_
+2	eture	tu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	mato	mato	ADV	adv	_	2	advmod	_	_
+4	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+6	Adugo	adugo	PROPN	propn	_	14	obl	_	_
+7	Jari	Jari	PROPN	propn	_	6	compound	_	_
+8	tada	tada	ADP	posp	_	6	case	_	_
+9	,	,	PUNCT	punct	_	_	_	_	_
+10	itura	itura	NOUN	n	_	6	appos	_	_
+11	kurirewy	kuri	NOUN	n	Mood=Ind|Nomzr=Rel	10	nmod	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	14	nsubj	_	_
+14	bato	bato	VERB	v	_	2	parataxis	_	_
+15	.	.	PUNCT	punct	_	14	punct	_	_
+16	Emugu	mugu	VERB	v	Mood=Ind|Number=Plur|Person=3	14	conj	_	_
+17	raire	rai	ADV	adv	Mood=Ind	16	advmod	_	_
+18	.	.	PUNCT	punct	_	16	punct	_	_
+19	Adugo	Adugo	PROPN	_	_	22	obl	_	_
+20	Jari	Jari	PROPN	_	_	19	compound	_	_
+21	pijire	piji	ADP	posp	Mood=Ind|Number=Sing|Person=3	19	case	_	_
+22	cedure	tu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	14	parataxis	_	_
+23	Bopejao	Bopejao	PROPN	propn	_	22	obl	_	_
+24	kae	kae	ADP	posp	Number=Sing|Person=3	23	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
