@@ -45,12 +45,12 @@
 11	boe	boe	NOUN	n	_	10	obl	_	_
 12	pemegarewy	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	11	nmod	_	_
 13	ji	ji	ADP	posp	Number=Sing|Person=3	11	case	_	_
-14	.	.	PUNCT	punct	_	_	10	punct	_	_
+14	.	.	PUNCT	punct	_	10	punct	_	_
 15	Koiare	koia	ADP	posp	Mood=Ind	18	discourse	_	_
 16	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	18	nsubj	_	_
 17	itawara	awara	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	18	obj	_	_
 18	motydo	moty	VERB	v	Voice=Cau	3	parataxis	_	_
-19	.	.	PUNCT	punct	_	_	18	punct	_	_
+19	.	.	PUNCT	punct	_	18	punct	_	_
 20	Koiare	koia	ADP	posp	Mood=Ind	22	discourse	_	_
 21	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	22	nsubj	_	_
 22	iorubodaregedo	jorubadare	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	parataxis	_	_
