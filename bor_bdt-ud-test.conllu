@@ -338,6 +338,37 @@
 18	to	to	ADP	posp	Number=Plur|Person=3	17	case	_	_
 19	pugeje	pugeje	ADV	adv	_	14	advmod	_	_
 
+# sent_id = CoqueiroAutobio-17
+# text = U! Boe motyre ! Kugaru motyre , ekure , nowy maridoguru jipa ji . Iere Aodorodoge Emerao maridoguru . Nowy mano kaere ipare ere erere
+# text_eng =
+# text_por = Sim! A paisagem era bonita! A areia era bonita, amarela, ao longo daquele buritizal.Chamava-se o buritizal de Aodorodoge Emarao. Os rapazes costumavam correr a procura de cocos de buriti.
+1	Uw	uw	INTJ	_	_	4	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Boe	boe	NOUN	_	Number=Sing	4	nsubj	_	_
+4	motyre	moty	VERB	v	Mood=Ind	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+6	Kugaru	kugaru	NOUN	_	Number=Sing	7	nsubj	_	_
+7	motyre	moty	VERB	v	Mood=Ind	4	conj	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	ekure	ekur	VERB	v	Mood=Ind	7	conj	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	nowy	nowy	DET	dem	Deixis=Med	12	det	_	_
+12	maridoguru	_	NOUN	_	_	13	nmod	_	_
+13	jipa	jipa	NOUN	_	_	4	obl	_	_
+14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
+15	.	.	PUNCT	punct	_	13	punct	_	_
+16	Iere	ie	VERB	_	Mood=Ind	17	nsubj	_	_
+17	Aodorodoge	Aodoro	PROPN	_	Number=Plur	4	parataxis	_	_
+18	Emerao	_	PROPN	propn	_	17	compound	_	_
+19	maridoguru	_	NOUN	n	_	17	appos	_	_
+20	.	.	PUNCT	punct	_	17	punct	_	_
+21	Nowy	nowy	DET	dem	Deixis=Med	22	det	_	_
+22	mano	mano	NOUN	_	_	26	obl	_	_
+23	kaere	kae	ADP	posp	Number=Sing|Person=3	22	case	_	_
+24	ipare	iparedy	NOUN	n	Number=Plur	25	dep	_	_
+25	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	26	nsubj	_	_
+26	erere	re	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
