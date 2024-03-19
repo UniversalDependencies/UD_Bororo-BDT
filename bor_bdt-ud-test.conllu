@@ -1,5 +1,5 @@
 # sent_id = CoqueiroAutobio-01
-# text = Iedaga koiare , ure ikie maky inai . Iedagare iere Pemo . Koiare , ure ikie maky inai . Koiare , ure iwadaru maky inai
+# text = Iedaga koiare , ure ikie maky inai . Iedagare iere Pemo . Koiare , ure ikie maky inai . Koiare , ure iwadary maky inai
 # text_eng =
 # text_por = Foi o meu Pai quem me deu o nome. O meu Pai chama-se Pemo . Foi ele quem me deu o nome. Foi ele quem me deu a palavra
 1	Iedaga	edaga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
@@ -24,7 +24,7 @@
 20	Koiare	koia	ADP	posp	Mood=Ind	24	discourse	_	_
 21	,	,	PUNCT	punct	_	20	punct	_	_
 22	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	24	nsubj	_	_
-23	iwadaru	batary	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	24	obj	_	_
+23	iwadary	batary	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	24	obj	_	_
 24	maky	maky	VERB	v	Number=Sing|Person=3	1	parataxis	_	_
 25	inai	ai	ADP	posp	Number=Sing|Person=1	24	obl	_	_
 
