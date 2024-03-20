@@ -452,7 +452,7 @@
 5	cedododai	_	ADP	posp	Clusivity=Ex|Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Nowy	nowy	DET	dem	Deixis=Med	8	det	_	_
-8	cemedage	_	NOUN	n	Clusivity=Ex|Number=Plur|Number[psor]=Plur|Person=1	12	dislocated	_	_
+8	cemedage	_	NOUN	n	Clusivity=Ex|Number=Plur|Number[psor]=Plur|Person=1	12	nsubj	_	_
 9	ma	ma	CCONJ	cconj	_	8	cc	_	_
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	boe	boe	NOUN	n	Number=Plur|Person=3	12	nsubj	_	_
