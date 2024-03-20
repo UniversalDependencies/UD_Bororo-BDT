@@ -402,6 +402,45 @@
 27	pemegarewy	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	26	nmod	_	_
 28	jaogwai	jaogwai	ADV	adv	_	26	advmod	_	_
 
+# sent_id = CoqueiroAutobio-19
+# text = Uw ! Icare Boe erore taci , cai tugodure kodi . Enoiogwarire , ekudure , tuiegare tabo . Wo , cai tudure dyji ! Erore toro ta... Cerore woje ta ... Kejari kae
+# text_eng =
+# text_por = Sim! Ai os Bororo  foram embora, andando. Riam e gritavam alegres. O!  Enquanto partiam. Eles foram para lá, e nos viemos para cá, para Kejari
+1	Uw	uw	INTJ	_	_	5	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Icare	icare	ADV	_	_	5	advmod	_	_
+4	Boe	boe	NOUN	_	_	5	nsubj	_	_
+5	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+6	taci	taci	ADV	_	_	5	advmod	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	cai	cai	ADV	_	_	9	advmod	_	_
+9	tugodure	_	VERB	_	Mood=Ind|Reflex=Yes	5	advcl	_	_
+10	kodi	kodi	SCONJ	_	_	9	mark	_	_
+11	.	_	PUNCT	_	_	9	punct	_	_
+12	Enoiogwarire	oiogwari	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	ekudure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	12	conj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	tuiegare	iega	VERB	v	Mood=Ind|Reflex=Yes	14	obl	_	_
+17	tabo	tabo	ADP	_	_	16	case	_	_
+18	.	.	PUNCT	_	_	16	punct	_	_
+19	Wo	wo	INTJ	_	_	22	discourse	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	cai	cai	ADV	_	_	22	advmod	_	_
+22	tudure	tu	NOUN	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
+23	dyji	dyji	X	_	_	22	dep	_	_
+24	!	!	PUNCT	_	_	22	punct	_	_
+25	Erore	ro	VERB	_	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
+26	toro	toro	ADV	_	_	25	advcl	_	_
+27	ta	ta	X	_	_	25	dep	_	_
+28	...	...	PUNCT	_	_	25	punct	_	_
+29	Cerore	ro	VERB	_	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	25	conj	_	_
+30	woje	woje	ADV	_	_	29	advmod	_	_
+31	ta	ta	X	_	_	29	dep	_	_
+32	...	...	PUNCT	_	_	29	punct	_	_
+33	Kejari	Kejari	PROPN	_	_	29	obl	_	_
+34	kae	kae	ADP	_	Number=Sing|Person=3	33	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
