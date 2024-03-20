@@ -441,6 +441,26 @@
 33	Kejari	Kejari	PROPN	_	_	29	obl	_	_
 34	kae	kae	ADP	_	Number=Sing|Person=3	33	case	_	_
 
+# sent_id = CoqueiroAutobio-20
+# text = U ! Boe motyre cedododai . Nowy cemedage ma , boe motyre toro etododai jamedy
+# text_eng =
+# text_por = Sim! A paisagem estava bonita na nossa frente. E para os outros nossos colegas a paisagem estava bonita na frente deles também.
+1	Uw	uw	INTJ	intj	_	4	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Boe	boe	NOUN	n	Number=Plur	4	nsubj	_	_
+4	motyre	moty	VERB	_	Mood=Ind	0	root	_	_
+5	cedododai	_	ADP	posp	Clusivity=Ex|Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Nowy	nowy	DET	dem	Deixis=Med	8	det	_	_
+8	cemedage	_	NOUN	n	Clusivity=Ex|Number=Plur|Number[psor]=Plur|Person=1	12	dislocated	_	_
+9	ma	ma	CCONJ	cconj	_	8	cc	_	_
+10	,	,	PUNCT	punct	_	8	punct	_	_
+11	boe	boe	NOUN	n	Number=Plur|Person=3	12	nsubj	_	_
+12	motyre	moty	VERB	v	Mood=Ind	4	parataxis	_	_
+13	toro	toro	ADV	adv	_	12	advmod	_	_
+14	etododai	_	ADP	posp	Number=Plur|Person=3	12	obl	_	_
+15	jamedy	jamedy	ADV	adv	_	12	advmod	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
