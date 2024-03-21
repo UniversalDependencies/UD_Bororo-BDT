@@ -528,9 +528,39 @@
 29	boe	boe	NOUN	n	Number=Plur	30	obj	_	_
 30	motydo	moty	VERB	vt	Voice=Cau	2	parataxis	_	_
 31	tu	tu	ADV	adv	_	30	advmod	_	_
-32	rugadu	_	ADV	adv	_	30	advmod	_	_
-33	.	.	PUNCT	_	_	30	punct	_	_
-34	Oino	oino	ADV	_	_	30	parataxis	_	_
+32	rugadu	rugadu	ADV	adv	_	30	advmod	_	_
+33	.	.	PUNCT	punct	_	30	punct	_	_
+34	Oino	oino	ADV	adv	_	30	parataxis	_	_
+
+# sent_id = CoqueiroAutobio-23
+# text = Iture Koroia piji dykeje iwiegare tuje , pitorire . Itaregodyre mato Kejari kae dykeje iparedyre imi . Iragoje raire Kejari keje , iparedyre imi dytabo
+# text_eng =
+# text_por = Quando saí da Colônia eu era pequeno. Quando cheguei para cá para Kejari eu era rapaz. Fiquei bastante tempo em Kejari na minha juventude.
+1	Iture	tu	VERB	v	Mood=Ind|Number=Sing|Person=1	5	advcl	_	_
+2	Koroia	koroia	NOUN	n	_	1	obl	_	_
+3	piji	piji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	dykeje	dykeje	SCONJ	sconj	_	1	mark	_	_
+5	iwiegare	biega	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+6	tuje	tuje	X	x	_	5	dep	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	pitorire	pitore	VERB	v	Mood=Ind	5	parataxis	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
+10	Itaregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=1	15	advcl	_	_
+11	mato	mato	ADV	adv	_	10	advmod	_	_
+12	Kejari	Kejari	PROPN	propn	_	10	obl	_	_
+13	kae	kae	ADP	posp	Number=Sing|Person=3	12	case	_	_
+14	dykeje	dykeje	SCONJ	sconj	_	10	mark	_	_
+15	iparedyre	paredy	VERB	v	Mood=Ind|Number=Sing|Person=1	5	parataxis	_	_
+16	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+17	.	.	PUNCT	punct	_	15	punct	_	_
+18	Iragoje	ragoje	VERB	v	Number=Sing|Person=1	5	parataxis	_	_
+19	raire	rai	ADV	adv	_	18	advmod	_	_
+20	Kejari	Kejari	PROPN	propn	_	18	obl	_	_
+21	keje	keje	ADP	posp	Number=Sing|Person=3	20	case	_	_
+22	,	,	PUNCT	punct	_	18	punct	_	_
+23	iparedure	paredy	VERB	v	Mood=Ind|Number=Sing|Person=1	18	advcl	_	_
+24	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_
+25	dytabo	dytabo	SCONJ	sconj	_	23	mark	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
