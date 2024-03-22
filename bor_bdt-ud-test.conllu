@@ -587,6 +587,18 @@
 19	,	,	PUNCT	punct	_	17	punct	_	_
 20	cerae	cerae	NOUN	n	Number=Sing	17	appos	_	_
 
+# sent_id = CoqueiroAutobio-25
+# text = Irore jiboe boe otojiwy Mano rekodajiwy Baiia
+# text_eng =
+# text_por = As primeiras coisas que eu fiz foram.  Em primeiro lugar Mano (representação com rodas de talos de caeté) Depois foi: Baia  (cerco construído para a a festa da Águia).
+1	Irore	ro	VERB	v	Mood=Ind|Number=Plur|Person=1	0	root	_	_
+2	jiboe	jiboe	NOUN	n	_	1	ccomp	_	_
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4	otojiwy	otoji	NOUN	n	Nomzr=Rel	2	nmod	_	front,first;frente,primeiro
+5	Mano	Mano	PROPN	propn	_	2	appos	_	_
+6	rekodajiwy	rekodaji	NOUN	n	Nomzr=Rel	2	conj	_	behind;atrás
+7	Baiia	Baiia	PROPN	propn	_	6	appos	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
