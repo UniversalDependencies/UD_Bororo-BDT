@@ -625,6 +625,29 @@
 20	toro	toro	ADV	adv	_	19	advmod	_	_
 21	!	!	PUNCT	punct	_	19	punct	_	_
 
+# sent_id = CoqueiroAutobio-27.1
+# text = Dykeje Badojeba Bakoro Kudu uwadodyre, akore : U , kodire inagoino ... itore tagae , imedymage tagae
+# text_eng =
+# text_por = Aí o chefe Bakoro Kudu fez discurso dizendo: - Sim! Por isso eu falo assim...para vocês meus filhos, para vocês meninos
+1	Dykeje	dykeje	ADV	adv	_	5	advmod	_	_
+2	Badojeba	Badojeba	NOUN	_	_	5	nsubj	_	_
+3	Bakoro	Bakoro	PROPN	_	_	2	appos	_	_
+4	Kudu	Kudu	PROPN	_	_	3	compound	_	_
+5	uwadodyre	wadody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+6	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	5	xcomp	_	_
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	Uw	uw	INTJ	intj	_	11	discourse	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	kodire	kodi	ADV	adv	Mood=Ind	11	advmod	_	_
+11	inago	ako	VERB	_	Number=Sing|Person=1	6	cc	_	_
+12	oino	oino	ADV	_	_	11	advmod	_	_
+13	...	...	PUNCT	_	_	11	punct	_	_
+14	itore	oro	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
+15	tagae	kae	ADP	posp	Number=Plur|Person=2	11	obl	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	imedymage	imedy	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
+18	tagae	kae	ADP	posp	Number=Plur|Person=2	15	obl	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
