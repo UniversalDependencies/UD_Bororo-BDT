@@ -338,6 +338,30 @@
 9	Iwagududoge	Iwagudu	PROPN	PROPN	Number=Plur	7	obl	_	_
 10	eiogi	joki	ADP	POSP	Number=Plur|Person=3	9	case	_	_
 
+# sent_id = ArigaodogeEiTuguodo-19
+# text = Oinore Boe egore arigao doge co pega pegarewyge; kigadu pega pegareuge icare ere tumaedu , oino , Iwagududoge eiogi
+# text_eng = 
+# text_por = Assim os Bororo falam , os cães pretos foscos/com falhas na coloração , os cães brancos com falhas na coloração , então foram destinados aos Iwagudu doge.
+1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
+2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
+3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	arigaodoge	arigao	NOUN	n	Number=Plur	14	nsubj	_	_
+5	co	co	NOUN	n	_	4	nmod	_	_
+6	pega	pega	NOUN	n	_	5	conj	_	_
+7	pegarewyge	pega	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	6	nmod	_	_
+8	;	;	PUNCT	punct	_	7	punct	_	_
+9	kigadu	_	NOUN	_	_	6	conj	_	_
+10	pega	pega	NOUN	n	_	9	nmod	_	_
+11	pegarewyge	pega	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	10	conj	_	_
+12	icare	ica	ADV	adv	Mood=Ind	14	advmod	_	_
+13	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	14	nsubj	_	_
+14	tumaedo	maedo	VERB	v	Reflex=Yes|Voice=Cau	3	ccomp	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	oino	oino	ADV	adv	_	14	advmod	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	Iwagududoge	Iwagudu	PROPN	propn	Number=Plur	14	obl	_	_
+19	eiogi	joki	ADP	POSP	Number=Plur|Person=3	18	case	_	_
+
 # sent_id = CoqueiroAutobio-01
 # text = Iedaga koiare , ure ikie maky inai . Iedagare iere Pemo . Koiare , ure ikie maky inai . Koiare , ure iwadary maky inai
 # text_eng =
