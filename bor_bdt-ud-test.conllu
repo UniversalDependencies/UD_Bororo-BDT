@@ -1,3 +1,184 @@
+# sent_id = ArigaodogeEiTuguodo-01
+# text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
+# text_eng = 
+# text_por = A aldeia Arigao Bororo era bem pequena, foi lá que os Bororo chegaram.
+1	Arigao	Arigao	PROPN	propn	_	3	nsubj	_	_
+2	Bororo	Bororo	PROPN	propn	_	1	compound	_	_
+3	biagare	biaga	NOUN	n	Mood=Ind|Number=Sing	0	root	_	_
+4	tuje	tuje	X	_	_	3	dep	_	_
+5	oino	oino	ADV	x	_	3	advmod	_	_
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	dykaere	dykae	ADV	_	Mood=Ind	9	advmod	_	_
+8	boe	boe	NOUN	n	Number=Plur	9	nsubj	_	_
+9	etaregodyre	aregody	VERB	v	Mood=Ind|Nuber=Plur|Person=3	3	parataxis	_	_
+
+# sent_id = ArigaodogeEiTuguodo-02
+# text = Urugubo , Tadari Umana oinore iere pugeje , okwa ji , Arigao Bororo padure , mare paru keje jokodu karega , tadadu cobugi padure padure
+# text_eng = 
+# text_por = Urugubo , Tadari Umana é assim que ele se chama também , na margem , que a aldeia Arigao Bororo fica , não tão próximo da margem do rio , acima do rio.
+1	Urugubo	_	PROPN	_	_	6	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	Tadari	Tadari	PROPN	propn	_	1	conj	_	_
+4	Umana	Umana	PROPN	propn	_	3	compound	_	_
+5	oinore	oino	ADV	adv	Mood=Ind	6	advmod	_	_
+6	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+7	pugeje	pugeje	ADV	adv	_	6	advmod	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	okwa	okwa	NOUN	n	Number=Sing	14	obl	_	_
+10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12	Arigao	Arigao	PROPN	propn	_	14	nsubj	_	_
+13	Bororo	Bororo	PROPN	propn	_	12	compound	_	_
+14	padure	tu	VERB	vi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	6	parataxis	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	mare	mare	CCONJ	cconj	_	17	cc	_	_
+17	paru	paru	NOUN	n	_	14	parataxis	_	_
+18	keje	keje	ADP	posp	Number=Sing|Person=3	17	case	_	_
+19	jokodu	jokodu	ADV	adv	_	17	advmod	_	_
+20	karega	karega	ADV	_	Polarity=Neg	17	advmod	_	_
+21	,	,	PUNCT	punct	_	17	punct	_	_
+22	tadadu	_	NOUN	_	_	24	obl	_	_
+23	cobugi	cobugi	ADP	_	_	22	case	_	_
+24	padure	padu	VERB	vi	Mood=Ind|Number=Plur|Person=3	14	parataxis	_	_
+
+# sent_id = ArigaodogeEiTuguodo-03
+# text = Arigaodoge ewurea padure tu keje
+# text_eng = 
+# text_por = Os rastros dos cães estão na aldeia.
+1	Arigaodoge	arigao	NOUN	n	Number=Plur	2	nmod	_	_
+2	ewurea	burea	NOUN	n	Number=Plur|Person=3	3	nsubj	_	_
+3	padure	tu	VERB	vi	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	tu	tu	X	x	_	3	obl	_	_
+5	keje	keje	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = ArigaodogeEiTuguodo-04
+# text = Boe emarure nowy arigaodoge ekoda paru bogai; mare erudu kare koda paruji
+# text_eng = 
+# text_por = Os Bororo estão a procura de onde estão surgingo os rastros; mas eles não viram de onde surgiram os rastros.
+1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
+2	emarure	maru	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	nowy	nowy	DET	dem	Deixis=Med	4	det	_	_
+4	arigaodoge	arigao	NOUN	n	Number=Sing	5	nmod	_	_
+5	ekoda	_	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	6	nmod	_	_
+6	paru	koda	NOUN	n	_	2	obl	_	_
+7	bogai	bogai	ADP	posp	Number=Sing|Person=3	6	case	_	_
+8	;	;	PUNCT	punct	_	2	punct	_	_
+9	mare	mare	CCONJ	cconj	_	10	cc	_	_
+10	erydykare	jorydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	2	conj	_	_
+11	koda	koda	NOUN	n	Number=Sing	12	nmod	_	_
+12	paru	paru	NOUN	n	Number=Sing	10	obl	_	_
+13	ji	ji	ADP	posp	Number=Sing|Person=3	12	case	_	_
+
+# sent_id = ArigaodogeEiTuguodo-05
+# text = Awy Arorore emagere erydyre ca nowy arigaodoge ewurea ji
+# text_eng = 
+# text_por = Os Aroroe que viram primeiramente os rastros dos cães.
+1	Awy	awy	DET	dem	Deixis=Prox	2	det	_	_
+2	Arorore	Aroro	NOUN	n	_	4	discourse	_	_
+3	emagere	ema	PRON	pron	Mood=Ind|Number=Plur|PronType=Prs	4	nsubj	_	_
+4	erydyre	jorydy	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	ca	ca	ADV	adv	_	4	advmod	_	_
+6	nowy	nowy	DET	dem	Deixis=Med	7	det	_	_
+7	arigaodoge	arigao	NOUN	n	Number=Sing	8	nmod	_	_
+8	ewurea	burea	NOUN	n	Number=Plur|Person=3	4	obl	_	_
+9	ji	ji	ADP	posp	Number=Sing|Person=3	8	case	_	_
+
+# sent_id = ArigaodogeEiTuguodo-06
+# text = Dyrekodajire icare Iwagududoge eigoiare , icare ere Arigao Bororo okwa tawuje
+# text_eng = 
+# text_por = Depois disso , então os Iwagudu,  é por causa deles que surge a aldeia Arigao Bororo.
+1	Dyrekodajire	dyrekodaji	ADV	_	Mood=Ind	3	advmod	_	_
+2	icare	ica	ADV	adv	Mood=Ind	3	advmod	_	_
+3	Iwagududoge	Iwagudu	PROPN	propn	Number=Plur	0	root	_	_
+4	eigoiare	koira	ADP	posp	Mood=Ind|Number=Plur|Person=3	3	case	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	icare	ica	ADV	adv	Mood=Ind	7	advmod	_	_
+7	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+8	Arigao	Arigao	PROPN	propn	_	10	nmod	_	_
+9	Bororo	Bororo	PROPN	propn	_	8	compound	_	_
+10	okwa	okwa	NOUN	n	Number=Sing	11	nsubj	_	_
+11	tawuje	tawyje	VERB	v	umber=Sing|Person=3	3	parataxis	_	_
+
+# sent_id = ArigaodogeEiTuguodo-07
+# text = Eigoiare icare ere Arigao Bororo aru awy Mano Kurirewy, Mano Baru , Baitogogo , Kaborewy epiji
+# text_eng = 
+# text_por = Por causa deles que Arigao Bororo foi tomada de Mano Kurirewu , Mano Baru , Baitogogo , Baborewu.
+1	Eigoiare	koiare	ADP	posp	Mood=Ind|Number=Plur|Person=3	6	obl	_	_
+2	icare	ica	ADV	adv	Mood=Ind	3	advmod	_	_
+3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	1	conj	_	_
+4	Arigao	Arigao	PROPN	propn	_	6	nsubj	_	_
+5	Bororo	Bororo	PROPN	propn	_	4	compound	_	_
+6	aru	aru	VERB	v	_	0	root	_	_
+7	Awy	awy	DET	dem	Deixis=Prox	8	det	_	_
+8	Mano	Mano	PROPN	_	_	6	obl	_	_
+9	Kurirewy	Kurirewy	PROPN	_	_	8	nmod	_	_
+10	,	,	PUNCT	punct	_	8	punct	_	_
+11	Mano	Mano	PROPN	_	_	8	conj	_	_
+12	Baru	Baru	PROPN	_	_	11	compound	_	_
+13	,	,	PUNCT	punct	_	11	punct	_	_
+14	Baitogogo	Baitogogo	PROPN	_	_	8	conj	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	Kaborewy	_	PROPN	_	_	8	conj	_	_
+17	epiji	piji	ADP	posp	Number=Plur|Person=3	16	case	_	_
+
+# sent_id = ArigaodogeEiTuguodo-08
+# text = Ere tugimo pariko tugu etaoto ere edo tu ciemagu ji Arigao Bororo ji icai tuipemegado duji
+# text_eng = 
+# text_por = Eles colocaram os Pariko deles na cabeça , dançaram na aldeia Arigao Bororo , o quanto ficaram bonitos.
+1	Ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
+2	tugimo	tugimo	NOUN	n	Number=Sing	3	nmod	_	_
+3	pariko	pariko	NOUN	n	Number=Sing	4	obj	_	_
+4	tugu	tugu	VERB	v	_	0	root	_	_
+5	etao	ao	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	4	obl	_	_
+6	to	to	ADP	posp	Number=Sing	5	case	_	_
+7	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
+8	edo	e	PRON	bi	Number=Plur|Person=3|Voice=Cau	4	parataxis	_	_
+9	tu	tu	ADV	adv	_	8	advmod	_	_
+10	ciemagu	ciemagu	NOUN	n	_	8	obl	_	_
+11	ji	ji	ADP	posp	Number=Sing|Person=3	10	obl	_	_
+12	Arigao	Arigao	PROPN	propn	_	10	obl	_	_
+13	Bororo	Bororo	PROPN	propn	_	12	compound	_	_
+14	ji	ji	ADP	posp	Number=Sing|Person=3	12	case	_	_
+15	icai	_	ADV	adv	_	16	advmod	_	_
+16	tuipemegado	pemega	VERB	_	Reflex=Yes|Voice=Cau	4	parataxis	_	_
+17	duji	duji	X	_	_	16	discourse	_	_
+
+# sent_id = ArigaodogeEiTuguodo-09
+# text = Boe egore Iwagududoge tugodyie boe Arigao Bororo kae , dutaboie icare iwagudu doge ere Arigao Bororo akudo baragara tabo
+# text_eng = 
+# text_por = Os Bororo falaram que os Iwagudu doge foram por último e fizeram a limpeza da aldeia Arigao Bororo com prego de penas.
+1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	Iwagududoge	_	PROPN	_	_	4	nsubj	_	_
+4	tugodyie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3|Speech=Ind	2	ccomp	_	_
+5	boe	boe	NOUN	n	Number=Plur	6	nsubj	_	_
+6	Arigao	Arigao	PROPN	propn	_	_	_	_	_
+7	Bororo	Bororo	PROPN	propn	_	6	compound	_	_
+8	kae	_	ADP	_	_	6	case	_	_
+9	,	,	PUNCT	punct	_	4	punct	_	_
+10	dutaboie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	16	advmod	_	_
+11	icare	ica	ADV	adv	Mood=Ind	16	advmod	_	_
+12	iwagududoge	_	PROPN	_	_	16	nsubj	_	_
+13	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	16	nsubj	_	_
+14	Arigao	Arigao	PROPN	propn	_	16	obj	_	_
+15	Bororo	Bororo	PROPN	propn	_	14	compound	_	_
+16	akudo	_	VERB	_	_	2	conj	_	_
+17	baragara	_	NOUN	_	_	16	obl	_	_
+18	tabo	tabo	ADP	posp	Number=Sing|Person=3	17	case	_	_
+
+# sent_id = ArigaodogeEiTuguodo-10
+# text = Dytabore icare arigaodoge epadure towororo Arigao Bororo kajeje
+# text_eng = 
+# text_por = Então por isso os cães fizeram a morada deles na aldeia Arigao Bororo.
+1	Dytabore	dytabo	ADV	adv	Mood=Ind	4	advmod	_	_
+2	icare	ica	ADV	adv	Mood=Ind	4	advmod	_	_
+3	arigaodoge	arigao	NOUN	n	Number=Plur	4	nsubj	_	_
+4	epadure	tu	VERB	vi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	0	root	_	_
+5	towororo	wororo	NOUN	n	Reflex=Yes	6	nmod	_	_
+6	Arigao	Arigao	PROPN	propn	_	4	obl	_	_
+7	Bororo	Bororo	PROPN	propn	_	6	compound	_	_
+8	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	6	case	_	_
+
 # sent_id = CoqueiroAutobio-01
 # text = Iedaga koiare , ure ikie maky inai . Iedagare iere Pemo . Koiare , ure ikie maky inai . Koiare , ure iwadary maky inai
 # text_eng =
