@@ -1825,7 +1825,7 @@
 122	ji	ji	ADP	posp	Number=Sing|Person=3	121	case	_	_
 123	.	.	PUNCT	punct	_	121	punct	_	_
 
-# sent_id = Valm-01
+# sent_id = Valmir-01
 # text = Imi iorydyware , ice , imuga koiare ure iorydywado
 # text_eng = I know (how to speak Bororo) because my mother taught me
 # text_por = Eu sei (falar Bororo) pois minha mãe me ensinou
@@ -1839,7 +1839,7 @@
 8	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
 9	iorydywado	jorydywa	VERB	v	Number=Sing|Person=1|Voice=Cau	2	advcl	_	_
 
-# sent_id = Valm-02
+# sent_id = Valmir-02
 # text = Makore boe ewadary tabo , pawadary tabo kodire imagore pawadaru ji
 # text_eng = She spoke in Bororo, our language, then I spoke in our language
 # text_por = Ela falava em bororo, na nossa língua então eu falava na nossa língua
@@ -1855,7 +1855,7 @@
 10	pawadary	batary	NOUN	n	Clusivity=In|Number=Plur|Person=1	9	obl	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
 
-# sent_id = Valm-03
+# sent_id = Valmir-03
 # text = Kodire irijodyre , imagore pawadary tabo dyji
 # text_eng = I then grew up speaking our language
 # text_por = Aí eu cresci falando na nossa língua
@@ -1866,7 +1866,7 @@
 5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	dyji	dyji	X	x	_	3	dep	_	_
 
-# sent_id = Valm-04
+# sent_id = Valmir-04
 # text = Dykodi awy Meruri paru piji cedu toro Korogedu Paru kae
 # text_eng = After this, from Meruri, we went there, to Corrego Grande
 # text_por = Depois disso, a partir de Meruri, nos fomos para Corrego Grande
@@ -1881,7 +1881,7 @@
 9	Paru	Paru	PROPN	Propn	_	8	compound	_	_
 10	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 
-# sent_id = Valm-05
+# sent_id = Valmir-05
 # text = Korogedu Paru keje irijodyre pugeje . Dy nono nowy pawobedoge  emagore pawadary tabo , paro tabo , pagago tabo
 # text_eng = I grew up more in Corrego Grande. There, our parents spoke our language, our culture (deeds), our traditions (voices)
 # text_por = Eu cresci mais no Corrego Grande. Lá, nossos parentes falavam nossa língua, nossa cultura (feitos), nossas tradiçnoes (dizeres)
@@ -1904,7 +1904,7 @@
 17	pagago	ako	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	11	conj	_	voice,word;voz;palavra
 18	tabo	apo	ADP	posp	Number=Sing|Person=3	17	case	_	_
 
-# sent_id = Valm-06
+# sent_id = Valmir-06
 # text = Dykodi nowyge , iorydy motyre ego oino dyji
 # text_eng = Because of these things, I saw that their saying was thus beautiful
 # text_por = Por causa destas coisas, então este eu vi a beleza da língua deles assim (eu achei a língua deles bonita)
@@ -1917,7 +1917,7 @@
 7	oino	oino	ADV	adv	_	5	advmod	_	_
 8	dyji	dyji	X	x	_	5	dep	_	_
 
-# sent_id = Valm-07
+# sent_id = Valmir-07
 # text = Nowy boe piji irijodyre
 # text_eng = I grew up out of this context
 # text_por = Eu cresci apartir deste contexto
@@ -1926,7 +1926,7 @@
 3	piji	piji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	irijodyre	rijody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 
-# sent_id = Valm-08
+# sent_id = Valmir-08
 # text = Ca nowyge piji iture mato Meruri paru kae pugeje
 # text_eng = Then, from this I came to the are of Meruri again
 # text_por = Então, disto (deste contexto) eu vim para perto Meruri de novo
@@ -1940,7 +1940,7 @@
 8	kae	kae	ADP	adv	Number=Sing|Person=3	7	case	_	_
 9	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
 
-# sent_id = Valm-09
+# sent_id = Valmir-09
 # text = Ca woe ca iragojere oino pugeje woe 
 # text_eng = Then I began to live here, that is it
 # text_por = Aí eu passei a morar aqui, assim.
@@ -1952,7 +1952,7 @@
 6	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
 7	woe	woe	ADV	adv	AdvType=Loc	4	advmod	_	_
 
-# sent_id = Valm-10
+# sent_id = Valmir-10
 # text = Boe ukare oino tureore pugeje
 # text_eng = Things do not seem as before
 # text_por = As coisas não estão parecidas como antes
@@ -1962,7 +1962,7 @@
 4	tureore	_	_	_	Mood=Ind|Number=Sing|Person=3|Reflex=Yes	0	root	_	_
 5	pugeje	pugeje	ADV	adv	_	4	_	_	_
 
-# sent_id = Valm-11
+# sent_id = Valmir-11
 # text = Jawy mariguduwo pawobedoge emagore pawadary tabo dyboe motyre ure turugado
 # text_eng = Formerly, our fathers spoke out language
 # text_por = Antigamente nossos pais falavam na nossa língua, por que ela é bonita, ela é apropriada (tem que ser falada)
@@ -1977,7 +1977,7 @@
 9	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
 10	turugado	rugado	VERB	v	Reflex=Yes	8	parataxis	_	_
 
-# sent_id = Valm-12
+# sent_id = Valmir-12
 # text = Awyji ca ukare oino pugeje
 # text_eng = Nowadays, things are not this way
 # text_por = Hoje, a coisa não está assim
@@ -1987,7 +1987,7 @@
 4	oino	oino	ADV	adv	AdvType=Mod	0	root	_	_
 5	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
 
-# sent_id = Valm-13
+# sent_id = Valmir-13
 # text = Imi , ikiarigodyre nowy inody ji
 # text_eng = As for me, I get sad with thsi fact
 # text_por = Quanto a mim, eu me entristeço por isso
@@ -1998,7 +1998,7 @@
 5	inody	inody	NOUN	n	_	3	obl	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
-# sent_id = Valm-14
+# sent_id = Valmir-14
 # text = Awu pagore kugure , awy pawiemage , pamanamage , kodo maiwyge boe emagokare pawadary tabo pugeje
 # text_eng = 
 # text_por = Estes nosso filhos pequenos, estes nosso irmão mais novos, nossos irmão mais velhos as pessoas que são mais novas eles (já) não falam a língua
@@ -2019,7 +2019,7 @@
 15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	pugeje	pugeje	ADV	adv	_	13	advmod	_	_
 
-# sent_id = Valm-15
+# sent_id = Valmir-15
 # text = Kodire imi ikiarigodyre , iorydyre ty pawobe ei
 # text_eng = 
 # text_por = Por isso eu me entristeço, eu vejo assim o nosso povo
@@ -2032,7 +2032,7 @@
 7	pawobe	wobe	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	obl	_	_
 8	ei	i	ADP	posp	Number=Plur|Person=3	7	case	_	_
 
-# sent_id = Valm-16
+# sent_id = Valmir-16
 # text = Itaiwore ty oino pawobe ei , inogudure ty pudabo pagore kugure ebo
 # text_eng = I see our people, I pity our small children
 # text_por = Eu vejo o nosso povo, eu fico com pena dos nosso filhoses pequenos
@@ -2049,7 +2049,7 @@
 11	kugure	kugu	NOUN	n	Mood=Ind	10	nmod	_	_
 12	ebo	apo	ADP	posp	Number=Plur|Person=3	10	case	_	_
 
-# sent_id = Valm-17
+# sent_id = Valmir-17
 # text = Dyre pagodymode ji dykodi ure turugado 
 # text_eng = 
 # text_por = Então nós seguiremos por isso tem que ser assim
@@ -2060,7 +2060,7 @@
 5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
 6	turugado	rugado	VERB	v	Mood=Ind	2	advcl	_	_
 
-# sent_id = Valm-18
+# sent_id = Valmir-18
 # text = Nowy ukare oino pugeje
 # text_eng = This isn't thus anymore
 # text_por = Isso já não é assim
@@ -2069,7 +2069,7 @@
 3	oino	oino	ADV	adv	_	0	root	_	_
 4	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
 
-# sent_id = Valm-19
+# sent_id = Valmir-19
 # text = Dykodi awy pawobe baraedoge , emeture pado ekodo pagao emerure pagabo , kodire pamagokare pawadary ji pugeje
 # text_eng = 
 # text_por = Assim a nossa família não bororo, eles entraram no nosso meio, convive no nosso meio, caminham conosco, Por isso nós não falamos mais a nossa língua.
@@ -2092,7 +2092,7 @@
 17	ji	ji	ADP	posp	Number=Sing|Person=3	16	case	_	_
 18	pugeje	pugeje	ADV	adv	_	15	advcl	_	_
 
-# sent_id = Valm-20
+# sent_id = Valmir-20
 # text = Mare imi itaidyre pawo nowy pawadary tawyji mato pugeje
 # text_eng = But, as for me, I want to bring our language back again
 # text_por = Mas a minha vontade é de trazermos a nossa língua de volta
