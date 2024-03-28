@@ -445,6 +445,22 @@
 11	Bokodori	Bokodori	PROPN	propn	_	10	compound	_	_
 12	ai	ai	ADP	posp	Number=Sing|Person=3	10	case	_	_
 
+# sent_id =   ArigaodogeEiTuguodo-25
+# text = Icare Akaruio Bokodori akore Bakoro Uwuria , oino arigao corewy ji
+# text_eng = 
+# text_por = Então Akaruio Bokodori disse: Bakoro Uwuria ao cão preto.
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
+2	Akaruio	Akaruio	PROPN	propn	_	4	nsubj	_	_
+3	Bokodori	Bokodori	PROPN	propn	_	2	compound	_	_
+4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	Bakoro	Bakoro	PROPN	propn	_	4	ccomp	_	_
+6	Uwuria	Uwuria	PROPN	propn	_	5	compound	_	_
+7	,	,	PUNCt	punct	_	4	punct	_	_
+8	oino	oino	ADV	adv	_	4	advcl	_	_
+9	arigao	arigao	NOUN	n	Number=Sing	4	obl	_	_
+10	corewy	co	NOUN	n	Mood=Ind|Nomzr=Rel	9	nmod	_	_
+11	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
+
 # sent_id = CoqueiroAutobio-01
 # text = Iedaga koiare , ure ikie maky inai . Iedagare iere Pemo . Koiare , ure ikie maky inai . Koiare , ure iwadary maky inai
 # text_eng =
