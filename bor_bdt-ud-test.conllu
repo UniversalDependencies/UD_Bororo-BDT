@@ -527,6 +527,21 @@
 11	eno	eno	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	6	dislocated	_	_
 12	core	co	NOUN	n	Mood=Ind	11	nmod	_	_
 
+# sent_id = ArigaodogeEiTuguodo-29
+# text = Icare akore awy arigao iemode Arigao Aeno , oino akore
+# text_eng = 
+# text_por = Então ele disse Esse cão terá o nome – Arigao Aeno – cão com nariz semelhante ao nariz da onça pintada. E assim ele falou.
+1	Icare	icare	ADV	adv	_	2	nsubj	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	awy	awy	DET	dem	Deixis=Prox	4	det	_	_
+4	arigao	arigao	NOUN	n	Number=Sing	5	nsubj	_	_
+5	iemode	ie	NOUN	n	Mood=Ind|Number=Sing|Tense=Fut	2	ccomp	_	_
+6	Arigao	Arigao	PROPN	propn	_	5	cc	_	_
+7	Aeno	Aeno	PROPN	propn	_	6	compound	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	oino	oino	ADV	adv	_	10	advmod	_	_
+10	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
+
 # sent_id = CoqueiroAutobio-01
 # text = Iedaga koiare , ure ikie maky inai . Iedagare iere Pemo . Koiare , ure ikie maky inai . Koiare , ure iwadary maky inai
 # text_eng =
