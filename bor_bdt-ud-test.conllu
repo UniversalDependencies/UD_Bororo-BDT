@@ -543,7 +543,7 @@
 10	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
 
 # sent_id = ArigaodogeEiTuguodo-30
-# text = Ere tugerago co pega pegarewy ; ere maky Jerigi Otojiwu ai , icare akore: Arigao Kogojeba. Oino rugadu
+# text = Ere tugerago co pega pegarewy ; ere maky Jerigi Otojiwu ai , icare akore Arigao Kogojeba . Oino rugadu
 # text_eng = 
 # text_por = Eles pegaram o cão preto com falhas na coloração a Jerigi Otojiwu , então ele disse: Arigao Kogojeba. Assim o nomeou.
 1	Ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	2	nsubj	_	_
