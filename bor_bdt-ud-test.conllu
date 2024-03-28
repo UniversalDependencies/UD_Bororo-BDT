@@ -428,6 +428,23 @@
 19	enoroe	oroe	NOUN	n	Number=Plur	20	nsubj	_	_
 20	pemegakare	pemega	NOUN	n	Mood=Ind|Polarity=Neg	13	conj	_	_
 
+# sent_id = ArigaodogeEiTuguodo-24
+# text = Dytabore icare Aroia Kurirewyre arigao co maerewy ure maky Akaruio Bokodori ai
+# text_eng =  
+# text_por = Por isso então Aroia Kurirewy doou o cão preto por completo a Akaruio Bokodori.
+1	Dytabore	dytabore	ADV	adv	_	9	advmod	_	_
+2	icare	icare	NOUN	n	_	9	advmod	_	_
+3	Aroia	Aroia	PROPN	propn	_	8	dep	_	_
+4	Kurirewyre	kurire	PRON	propn	_	3	compound	_	_
+5	arigao	arigao	NOUN	n	Number=Sing	9	iobj	_	_
+6	co	co	NOUN	n	Number=Sing	5	nmod	_	_
+7	maerewy	mae	ADV	adv	Mood=Ind|Nomzr=Rel	9	advmod	_	_
+8	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+9	maky	maky	VERB	vt	Nuber=Sing|Person=3	0	root	_	_
+10	Akaruio	Akaruio	PROPN	propn	_	9	obl	_	_
+11	Bokodori	Bokodori	PROPN	propn	_	10	compound	_	_
+12	ai	ai	ADP	posp	Number=Sing|Person=3	10	case	_	_
+
 # sent_id = CoqueiroAutobio-01
 # text = Iedaga koiare , ure ikie maky inai . Iedagare iere Pemo . Koiare , ure ikie maky inai . Koiare , ure iwadary maky inai
 # text_eng =
