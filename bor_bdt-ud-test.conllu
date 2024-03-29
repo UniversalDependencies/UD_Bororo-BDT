@@ -5,7 +5,7 @@
 1	Arigao	Arigao	PROPN	propn	_	3	nsubj	_	_
 2	Bororo	Bororo	PROPN	propn	_	1	compound	_	_
 3	biagare	biaga	NOUN	n	Mood=Ind|Number=Sing	0	root	_	_
-4	tuje	tuje	X	_	_	3	dep	_	_
+4	tuje	tuje	ADV	adv	_	3	advmod	_	_
 5	oino	oino	ADV	x	_	3	advmod	_	_
 6	,	,	PUNCT	punct	_	3	punct	_	_
 7	dykaere	dykae	ADV	_	Mood=Ind	9	advmod	_	_
