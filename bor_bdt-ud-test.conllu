@@ -16,7 +16,7 @@
 # text = Urugubo , Tadari Umana oinore iere pugeje , okwa ji , Arigao Bororo padyre , mare paru keje jokodu karega , tadadu cobugi padyre padyre
 # text_eng = Urugubo, Tadari Umana, are also it's name, it is on the margin that lies the Bororo village, not so close to the margin, above the river 
 # text_por = Urugubo, Tadari Umana é assim que ela se chama também, é na margem, que a aldeia Arigao Bororo fica, não tão próximo da margem do rio, acima do rio.
-1	Urugubo	_	PROPN	_	_	6	nsubj	_	_
+1	Urugubo	_	PROPN	propn	_	6	nsubj	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Tadari	Tadari	PROPN	propn	_	1	conj	_	_
 4	Umana	Umana	PROPN	propn	_	3	compound	_	_
