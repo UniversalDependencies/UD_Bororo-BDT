@@ -37,8 +37,8 @@
 19	jokodu	jokodu	ADV	adv	_	17	advmod	_	_
 20	karega	karega	ADV	_	Polarity=Neg	17	advmod	_	_
 21	,	,	PUNCT	punct	_	17	punct	_	_
-22	tadadu	_	NOUN	_	_	24	obl	_	_
-23	cobugi	cobugi	ADP	_	_	22	case	_	_
+22	tadadu	_	NOUN	n	_	24	obl	_	_
+23	cobugi	cobugi	ADP	posp	_	22	case	_	_
 24	padyre	padu	VERB	vi	Mood=Ind|Number=Plur|Person=3	14	parataxis	_	_
 
 # sent_id = ArigaodogeEiTuguodo-03
@@ -389,7 +389,7 @@
 4	bure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	jore	jore	X	x	_	4	dep	_	_
 6	uro	uro	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	4	obl	_	;piçarra vermelha
-7	to	uro	ADP	püosp	Number=Sing|Person=3	6	case	_	_
+7	to	uro	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-22
 # text = Metuia arigao kigadyrewy bure jore noa to
