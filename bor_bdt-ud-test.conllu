@@ -133,7 +133,7 @@
 6	to	to	ADP	posp	Number=Sing	5	case	_	_
 7	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
 8	edo	e	PRON	bi	Number=Plur|Person=3|Voice=Cau	4	parataxis	_	_
-9	tyADV	adv	_	8	advmod	_	_
+9	ty	_	ADV	adv	_	8	advmod	_	_	_
 10	ciemagu	ciemagu	NOUN	n	_	8	obl	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	obl	_	_
 12	Arigao	Arigao	PROPN	propn	_	10	obl	_	_
@@ -222,7 +222,7 @@
 # text = Ia aregodyre arigao pugeje; akore kui , kui , kui; je padyre moto kajeje , icare ure toiado bai kuri tuku Butore Agadu bure paru to
 # text_eng = 
 # text_por = Um outro chegou um cão novamente. Latiu: kui , kui , kui. Ele surgiu do chão e ele rodeou rapidamente os pés de Butore Agadu
-1		DET	_	Definite=Ind	2	det	_	_
+1	Ia	ia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	arigao	arigao	NOUN	n	Number=Sing	2	nsubj	_	_
 4	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
@@ -265,7 +265,7 @@
 # text = Ia akore pugeje kui , kui , kui; je padyre moto kejeje , pugeje , icare ure toiado bai kuri tuku Okoge Ebowy bure paru kajeje
 # text_eng = 
 # text_por = Um outro cão latiu novamente; kui , kui , kui surgiu do chão novamente , então rodeou rapidamente e ficou bem do lado dos pés de Okoge Ebowu.
-1		DET	_	Definite=Ind	2	det	_	_
+1	Ia	ia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	arigao	arigao	NOUN	n	Number=Sing	2	nsubj	_	_
 4	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
@@ -706,7 +706,7 @@
 43	Tuborebo	_	PROPN	propn	_	42	obl	_	_
 44	to	to	ADP	posp	Number=Sing|Person=3	43	case	_	_
 45	,	,	PUNCT	punct	_	42	punct	_	_
-46	dypijire	dypiji	ADV	adv	Mood=Ind	_	47	advcl	_	_
+46	dypijire	dypiji	ADV	adv	Mood=Ind	47	advcl	_	_
 47	cedyre	ty	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Number=1	42	conj	_	_
 48	Bakurebo	Bakurebo	PRON	_	_	47	obl	_	_
 49	to	to	ADP	posp	Number=Sing|Person=3	48	case	_	_
@@ -2461,13 +2461,13 @@
 3	awy	awy	DET	dem	_	4	det	_	_
 4	jure	jure	NOUN	n	_	6	obj	_	_
 5	boe	boe	NOUN	n	_	6	nsubj	_	_
-6	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	_	0	root	_	_
+6	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	oino	oino	ADV	adv	_	6	advcl	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 9	Awy	awy	DET	dem	_	10	det	_	_
 10	jure	jure	NOUN	n	_	12	obj	_	_
-11	boe	boe	NOUN	NOUN	n	_	12	nsubj	_	_
-12	egore	ako	VERB	v	_	_	6	parataxis	_	_
+11	boe	boe	NOUN	NOUN	n	12	nsubj	_	_
+12	egore	ako	VERB	v	_	6	parataxis	_	_
 13	ipare	ipare	NOUN	n	_	14	nmod	_	_
 14	ereru	reru	VERB	v	Number=Plur|Person=3	12	obj	_	_
 15	,	,	PUNCT	punct	_	12	punct	_	_
