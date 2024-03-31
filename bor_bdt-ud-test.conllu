@@ -487,7 +487,7 @@
 20	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-27
-# text = Okoge Ebowu ure Arigao Kigadu maerewy maku Porirewy ai , icare Porirewy akore: Arigao Kigadurewy rugadu , ie bokwa
+# text = Okoge Ebowu ure Arigao Kigadu maerewy maky Porirewy ai , icare Porirewy akore Arigao Kigadurewy rugadu , ie bokwa
 # text_eng = 
 # text_por = Okoge Ebowu doou o cão branco por completo a Porirewu. Então Porirewy disse: Arigao Kigadurewy mesmo , não tem nome.
 1	Okoge	Okoge	PROPN	propn	_	3	dep	_	_
@@ -658,7 +658,7 @@
 29	iricodure	ricodu	VERB	v	Mood=Ind|Number=Sing|Person=1	23	parataxis	_	_
 
 # sent_id = CoqueiroAutobio-11
-# text = Dykeje icare ityre . ityre woje bakowuboe to , ora kae , ioga apo , imuga apo . Ikodure apowuge emegaguragare .  Boe ekodo jii toro , boe etaredodure Kiwabo to . Kiwabo piji Boe eture toro Tuguribo to , du pijire cedyre Tuborebo to , dypijire cedyre Bakurebo to
+# text = Dykeje icare ityre . ityre woje bakowuboe to , ora kae , ioga apo , imuga apo . Ikodure apowuge emegaguragare .  Boe ekodo jii toro , boe etaredodure Kiwabo to . Kiwabo piji Boe eture toro Tuguribo to , dypijire cedyre Tuborebo to , dypijire cedyre Bakurebo to
 # text_eng =
 # text_por = Depois eu fui embora. Fui para o lado oposto (do rio), para o pantanal, com o meu pai e com a minha mãe. Fui com um grupo grande. Os Bororo andaram muito tempo para lá, e chegaram ao rio Kiwabo (rio das capivaras). Do rio Kiwabo fomos embora para o rio Tuguribo (rio das palmeiras carandá) e dali nós fomos embora para o rio Bakurebo (rio dos macacos bakure)
 1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
@@ -795,7 +795,7 @@
 24	kae	kae	ADP	posp	Number=Sing|Person=3	23	case	_	_
 
 # sent_id = CoqueiroAutobio-14
-# text = Icare cedyre piji pugeje .  Cegodure jii . Kuruie Emerao to , mano kaere kuruie ety etyre , kodi icare iere Kuruie Emerao , maridoguru . Boe edure nono jii je , togwage tabo tuge rogu boe ji : tuge aigujo , tuge mano , tuge otoe
+# text = Icare cedyre piji pugeje .  Cegodure jii . Kuruie Emerao to , mano kaere kuruie ety etyre , kodi icare iere Kuruie Emerao , maridoguru . Boe edure nono jii je , togwage tabo tugerogu boe ji : tuge aigujo , tuge mano , tuge otoe
 # text_eng =
 # text_por = Depois fomos embora dali novamente. Fomos até Kuruie Emerao (lugar das excursões dos rapazes)  Os rapazes costumavam ir lá pegar coco de buriti, por isso se chama assim Kuruie Emarao. Era um buritizal. Os Bororo ficaram ali bastante tempo, se alimentando, comendo cará, coco de buriti, batata do brejo.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
@@ -1036,7 +1036,7 @@
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	cedaregodyre	aregody	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
-4	ia	ia	DET	art	Definite=Ind|PronType=Art	5	det	_	_
+4	Ia	ia	DET	art	Definite=Ind|PronType=Art	5	det	_	_
 5	boe	boe	NOUN	n	Number=Plur	6	nsubj	_	_
 6	ewogware	bokwa	VERB	v	Mood=Ind|Number=Plur|Person=3	2	conj	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
