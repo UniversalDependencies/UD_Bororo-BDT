@@ -133,7 +133,7 @@
 6	to	to	ADP	posp	Number=Sing	5	case	_	_
 7	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
 8	edo	e	PRON	bi	Number=Plur|Person=3|Voice=Cau	4	parataxis	_	_
-9	ty	_	ADV	adv	_	8	advmod	_	_	_
+9	ty	_	ADV	adv	_	8	advmod	_	_
 10	ciemagu	ciemagu	NOUN	n	_	8	obl	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	obl	_	_
 12	Arigao	Arigao	PROPN	propn	_	10	obl	_	_
@@ -152,7 +152,7 @@
 3	Iwagududoge	Iwagudu	PROPN	propn	_	4	nsubj	_	_
 4	tugodyie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3|Speech=Ind	2	ccomp	_	_
 5	boe	boe	NOUN	n	Number=Plur	6	nsubj	_	_
-6	Arigao	Arigao	PROPN	propn	_	_	_	_	_
+6	Arigao	Arigao	PROPN	propn	_	4	obl	_	_
 7	Bororo	Bororo	PROPN	propn	_	6	compound	_	_
 8	kae	kae	ADP	adp	_	6	case	_	_
 9	,	,	PUNCT	punct	_	4	punct	_	_
