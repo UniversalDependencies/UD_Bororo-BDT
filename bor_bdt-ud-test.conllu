@@ -13,7 +13,7 @@
 9	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
 
 # sent_id = ArigaodogeEiTuguodo-02
-# text = Urugubo , Tadari Umana oinore iere pugeje , okwa ji , Arigao Bororo padyre , mare paru keje jokodu karega , tadadu cobugi padyre padyre
+# text = Urugubo , Tadari Umana oinore iere pugeje , okwa ji , Arigao Bororo padyre , mare paru keje jokodu karega , tadadu cobugi padyre
 # text_eng = Urugubo, Tadari Umana, are also it's name, it is on the margin that lies the Bororo village, not so close to the margin, above the river 
 # text_por = Urugubo, Tadari Umana é assim que ela se chama também, é na margem, que a aldeia Arigao Bororo fica, não tão próximo da margem do rio, acima do rio.
 1	Urugubo	_	PROPN	propn	_	6	nsubj	_	_
@@ -122,7 +122,7 @@
 17	epiji	piji	ADP	posp	Number=Plur|Person=3	16	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-08
-# text = Ere tugimo pariko tugu etaoto ere edo tu ciemagu ji Arigao Bororo ji icai tuipemegado duji
+# text = Ere tugimo pariko tugu etaoto ere edo ty ciemagu ji Arigao Bororo ji icai tuipemegado duji
 # text_eng = 
 # text_por = Eles colocaram os Pariko deles na cabeça , dançaram na aldeia Arigao Bororo , o quanto ficaram bonitos.
 1	Ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
@@ -144,7 +144,7 @@
 17	duji	duji	X	_	_	16	discourse	_	_
 
 # sent_id = ArigaodogeEiTuguodo-09
-# text = Boe egore Iwagududoge tugodyie boe Arigao Bororo kae , dytaboie icare iwagudu doge ere Arigao Bororo akudo baragara tabo
+# text = Boe egore Iwagududoge tugodyie boe Arigao Bororo kae , dytaboie icare Iwagududoge ere Arigao Bororo akudo baragara tabo
 # text_eng = 
 # text_por = Os Bororo falaram que os Iwagudu foram por último e fizeram a limpeza da aldeia Arigao Bororo com prego de penas.
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
@@ -339,7 +339,7 @@
 10	eiogi	joki	ADP	POSP	Number=Plur|Person=3	9	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-19
-# text = Oinore Boe egore arigao doge co pega pegarewyge ; kigadu pega pegareuge icare ere tumaedu , oino , Iwagududoge eiogi
+# text = Oinore Boe egore arigaodoge co pega pegarewyge ; kigadu pega pegareuge icare ere tumaedu , oino , Iwagududoge eiogi
 # text_eng = 
 # text_por = Assim os Bororo falam , os cães pretos foscos/com falhas na coloração , os cães brancos com falhas na coloração , então foram destinados aos Iwagudu.
 1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
@@ -2488,7 +2488,7 @@
 9	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 
 # sent_id = IpareEreru-13
-# text = Boe ekujagu nure nonogo tabo , kidoguru tabo
+# text = Boe ekujagunure nonogo tabo , kidoguru tabo
 # text_eng = 
 # text_por = Os Bororos estão pintados com urucum e com resina
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
