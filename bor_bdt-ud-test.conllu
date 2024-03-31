@@ -97,7 +97,7 @@
 8	Arigao	Arigao	PROPN	propn	_	10	nmod	_	_
 9	Bororo	Bororo	PROPN	propn	_	8	compound	_	_
 10	okwa	okwa	NOUN	n	Number=Sing	11	nsubj	_	_
-11	tawuje	tawyje	VERB	v	umber=Sing|Person=3	3	parataxis	_	_
+11	tawuje	tawyje	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
 
 # sent_id = ArigaodogeEiTuguodo-07
 # text = Eigoiare icare ere Arigao Bororo aru awy Mano Kurirewy, Mano Baru , Baitogogo , Kaborewy epiji
@@ -1723,26 +1723,26 @@
 # text_por = Depois eles se arrumaram: pintaram-se de vermelho, fizeram desenhos no rosto, amarraram o cabelo no ocipício e nas têmperas, para cantar e dançar
 1	Dykeje	dykeje	ADV	adv	_	4	advmod	_	_
 2	icare	icare	ADV	adv	_	4	advmod	_	_
-3	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	4	nsubj	_	_
+3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
 4	tubemegado	pemega	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	7	nsubj	_	_
+6	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	7	nsubj	_	_
 7	tugujagudo	kujagu	VERB	v	Reflex=Yes|Voice=Cau	4	conj	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
-9	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	10	nsubj	_	_
+9	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	10	nsubj	_	_
 10	tuiejiwudo	ejiwu	VERB	v	Reflex=Yes|Voice=Cau	_	_	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
-12	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	13	nsubj	_	_
+12	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	13	nsubj	_	_
 13	taipodo	taipo	VERB	v	Number=Sing|Person=3|Voice=Cau	4	conj	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
-15	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	17	nsubj	_	_
+15	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	17	nsubj	_	_
 16	tuiba	iba	NOUN	n	Reflex=Yes	17	obj	_	_
 17	gogudo	jegogu	VERB	v	Reflex=Yes|Voice=Cau	4	conj	_	_
 18	,	,	PUNCT	punct	_	17	punct	_	_
 19	tuwo	ty	PRON	bi	Mood=Sub|Reflex=Yes	20	nsubj	_	_
 20	roia	roia	NOUN	n	_	21	obj	_	_
 21	ta	_	VERB	v	_	4	xcomp	_	_
-22	tabo	apo	ADP	posp	Numer=Sing|Person=3	21	obl	_	_
+22	tabo	apo	ADP	posp	Number=Sing|Person=3	21	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-28
 # text = Icare Tadugore tugeragu butore ji , ure tugera kogudo Ki Bakororo iera ra parugajeje
@@ -1755,7 +1755,7 @@
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	,	,	PUNCT	punct	_	3	punct	_	_
 7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
-8	tugera	iera	NOUN	n	Numer=Sing|Reflex=Yes	9	obj	_	_
+8	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	9	obj	_	_
 9	kogudo	kogu	VERB	v	Voice=Cau	3	conj	_	_
 10	Ki	Ki	PROPN	propn	_	13	nmod	_	_
 11	Bakororo	Bakororo	PROPN	propn	_	10	compound	_	_
@@ -2270,13 +2270,13 @@
 # text_eng = 
 # text_por = A dança das almas. O povo celebra a dança das almas
 1	Aroe	aroe	NOUN	n	_	2	nmod	_	_
-2	ereru	reru	NOUN	n	Numer=Plur|Person=3	3	nmod	_	_
+2	ereru	reru	NOUN	n	Number=Plur|Person=3	3	nmod	_	_
 3	paru	paru	NOUN	n	_	0	root	_	base,beginning;base,começo
 4	.	_	PUNCT	punct	_	3	punct	_	_
 5	Boe	boe	NOUN	n	_	6	dep	_	_
-6	ere	e	PRON	bi	Mood=Ind|Numer=Plur|Person=3	9	nsubj	_	_
+6	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	9	nsubj	_	_
 7	aroe	aroe	NOUN	n	_	8	nmod	_	soul;alma
-8	ereru	reru	NOUN	n	Numer=Plur|Person=3	9	obj	_	movement,dance;movimento,dança
+8	ereru	reru	NOUN	n	Number=Plur|Person=3	9	obj	_	movement,dance;movimento,dança
 9	parudo	paru	VERB	v	Voice=Cau	3	parataxis	_	_
 
 # sent_id = IpareEreru-2
