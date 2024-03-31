@@ -52,7 +52,7 @@
 5	keje	keje	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-04
-# text = Boe emarure nowy arigaodoge ekoda paru bogai; mare erydykare koda paru ji
+# text = Boe emarure nowy arigaodoge ekoda paru bogai ; mare erydykare koda paru ji
 # text_eng = The Bororo search for the origin of the footprints, but they did not see where the footprints begin
 # text_por = Os Bororo estão a procura de onde estão surgingo os rastros; mas eles não viram de onde surgiram os rastros.
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
@@ -133,7 +133,7 @@
 6	to	to	ADP	posp	Number=Sing	5	case	_	_
 7	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
 8	edo	e	PRON	bi	Number=Plur|Person=3|Voice=Cau	4	parataxis	_	_
-9	ty	_	ADV	adv	_	8	advmod	_	_
+9	ty	ty	ADV	adv	_	8	advmod	_	_
 10	ciemagu	ciemagu	NOUN	n	_	8	obl	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	obl	_	_
 12	Arigao	Arigao	PROPN	propn	_	10	obl	_	_
@@ -180,7 +180,7 @@
 8	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-11
-# text = Boe egore arigao akore kui , kui , kui; je padyre moto kajeje rugadu
+# text = Boe egore arigao akore kui , kui , kui ; je padyre moto kajeje rugadu
 # text_eng = 
 # text_por = Os Bororo falam que os cães latem: kui , kui , kui; eles surgiram do chão mesmo.
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
@@ -200,7 +200,7 @@
 15	rugadu	rugadu	ADV	adv	_	12	advmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-12
-# text = Ure toiado bai Aroia Kurirewy bure paruto. Boekimo , rema corewy rabodu
+# text = Ure toiado bai Aroia Kurirewy bure paruto . Boekimo , rema corewy rabodu
 # text_eng = 
 # text_por = Ele rodeou os pés de Aroia Kurirewu. Na verdade era um cão preto mesmo.
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
@@ -219,7 +219,7 @@
 14	rabodu	rabodu	ADV	adv	_	13	advmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-13
-# text = Ia aregodyre arigao pugeje; akore kui , kui , kui; je padyre moto kajeje , icare ure toiado bai kuri tuku Butore Agadu bure paru to
+# text = Ia aregodyre arigao pugeje; akore kui , kui , kui ; je padyre moto kajeje , icare ure toiado bai kuri tuku Butore Agadu bure paru to
 # text_eng = 
 # text_por = Um outro chegou um cão novamente. Latiu: kui , kui , kui. Ele surgiu do chão e ele rodeou rapidamente os pés de Butore Agadu
 1	Ia	ia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
@@ -252,7 +252,7 @@
 28	to	to	ADP	posp	Number=Sing|Person=3	27	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-14
-# text = Boekimo rema! Arigao kujagurewy
+# text = Boekimo rema ! Arigao kujagurewy
 # text_eng = 
 # text_por = Pois então! Era um cão vermelho.
 1	Boekimo	boe	NOUN	n	Number=Plur	4	discourse	_	_
@@ -363,7 +363,7 @@
 19	eiogi	joki	ADP	POSP	Number=Plur|Person=3	18	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-20
-# text = Awy arigao co maerewy bure jore co metuduto , kodire core
+# text = Awy arigao co maerewy bure jore co metudu to , kodire core
 # text_eng = 
 # text_por = E o cão completamente preto , por ele ter pisado no sumo preto de jenipapo , por isso ficou preto.
 1	Awy	awy	DET	dem	Deixis=Prox	2	det	_	_
@@ -462,7 +462,7 @@
 11	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-26
-# text = Butore Agadu ure arigao Kujagu maerewy maky Kaigu ai , icare Kaigu akore Arigao Koca. Oino tagu arigao ji
+# text = Butore Agadu ure arigao Kujagu maerewy maky Kaigu ai , icare Kaigu akore Arigao Koca . Oino tagu arigao ji
 # text_eng = 
 # text_por = Butore Agadu doou o cão vermelho por completo a Kaigu , então Kaigu disse: Arigao Koca ao seu cão vermelho.
 1	Butore	Butore	PROPN	propn	_	3	dep	_	_
@@ -658,7 +658,7 @@
 29	iricodure	ricodu	VERB	v	Mood=Ind|Number=Sing|Person=1	23	parataxis	_	_
 
 # sent_id = CoqueiroAutobio-11
-# text = Dykeje icare ityre . ityre woje bakowuboeto , ora kae , ioga apo , imuga apo . Ikodure apowuge emegaguragare .  Boe ekodo jii toro , boe etaredodure Kiwaboto . Kiwabo piji Boe eture toro Tuguriboto , du pijire cedyre Tuboreboto , dypijire cedyre Bakureboto
+# text = Dykeje icare ityre . ityre woje bakowuboe to , ora kae , ioga apo , imuga apo . Ikodure apowuge emegaguragare .  Boe ekodo jii toro , boe etaredodure Kiwabo to . Kiwabo piji Boe eture toro Tuguribo to , du pijire cedyre Tuborebo to , dypijire cedyre Bakurebo to
 # text_eng =
 # text_por = Depois eu fui embora. Fui para o lado oposto (do rio), para o pantanal, com o meu pai e com a minha mãe. Fui com um grupo grande. Os Bororo andaram muito tempo para lá, e chegaram ao rio Kiwabo (rio das capivaras). Do rio Kiwabo fomos embora para o rio Tuguribo (rio das palmeiras carandá) e dali nós fomos embora para o rio Bakurebo (rio dos macacos bakure)
 1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
@@ -795,7 +795,7 @@
 24	kae	kae	ADP	posp	Number=Sing|Person=3	23	case	_	_
 
 # sent_id = CoqueiroAutobio-14
-# text = Icare cedyre piji pugeje.  Cegodure jii. Kuruie Emeraoto , mano kaere kuruie etu eture, kodi icare iere Kuruie Emerao , maridoguru . Boe edure nono jii je , togwage tabo tuge rogu boe ji : tuge aigujo , tuge mano , tuge otoe
+# text = Icare cedyre piji pugeje .  Cegodure jii . Kuruie Emeraoto , mano kaere kuruie etu eture, kodi icare iere Kuruie Emerao , maridoguru . Boe edure nono jii je , togwage tabo tuge rogu boe ji : tuge aigujo , tuge mano , tuge otoe
 # text_eng =
 # text_por = Depois fomos embora dali novamente. Fomos até Kuruie Emerao (lugar das excursões dos rapazes)  Os rapazes costumavam ir lá pegar coco de buriti, por isso se chama assim Kuruie Emarao. Era um buritizal. Os Bororo ficaram ali bastante tempo, se alimentando, comendo cará, coco de buriti, batata do brejo.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
@@ -883,7 +883,7 @@
 32	!	!	PUNCT	punct	_	29	punct	_	_
 
 # sent_id = CoqueiroAutobio-16
-# text = Uw ! Icare Boe eture pugeje . Boe ekodo pugeje jii ... Boe etaregodure Aodorodoge Emerao maridoguruto pugeje
+# text = Uw ! Icare Boe eture pugeje . Boe ekodo pugeje jii ... Boe etaregodure Aodorodoge Emerao maridoguru to pugeje
 # text_eng =
 # text_por = Sim! Depois os Bororo partiram novamente. Andaram muito até que chegaram de novo a um buritizal chamado Aodorodoge Emerao (lugar de andanças de rapazes).
 1	Uw	uw	INTJ	intj	_	5	discourse	_	_
@@ -938,7 +938,7 @@
 26	erere	re	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = CoqueiroAutobio-18
-# text = Ca , nowy piji icare Boe etaregodyre, tumode tugado puiatowy kae . Koroia kaewyge ekodure woje , pagana koborewy jaogwai . Kejari kaewyge woje pagana pemegarewy jaogwai
+# text = Ca , nowy piji icare Boe etaregodyre , tumode tugado puiatowy kae . Koroia kaewyge ekodure woje , pagana koborewy jaogwai . Kejari kaewyge woje pagana pemegarewy jaogwai
 # text_eng =
 # text_por = Eis! Dali os Bororo vieram para o lugar onde iam se repartir. Os que iriam para a Colônia foram para a esquerda. Os que iriam para Kejari foram para a direita
 1	Ca	ca	INTJ	_	_	7	discourse	_	_
@@ -971,7 +971,7 @@
 28	jaogwai	jaogwai	ADV	adv	_	26	advmod	_	_
 
 # sent_id = CoqueiroAutobio-19
-# text = Uw ! Icare Boe erore taci , cai tugodure kodi . Enoiogwarire , ekudure , tuiegare tabo . Wo , cai tudure dyji ! Erore toro ta... Cerore woje ta ... Kejari kae
+# text = Uw ! Icare Boe erore taci , cai tugodure kodi . Enoiogwarire , ekudure , tuiegare tabo . Wo , cai tudure dyji ! Erore toro ta ... Cerore woje ta ... Kejari kae
 # text_eng =
 # text_por = Sim! Ai os Bororo  foram embora, andando. Riam e gritavam alegres. O!  Enquanto partiam. Eles foram para lá, e nos viemos para cá, para Kejari
 1	Uw	uw	INTJ	_	_	5	discourse	_	_
@@ -1194,7 +1194,7 @@
 21	!	!	PUNCT	punct	_	19	punct	_	_
 
 # sent_id = CoqueiroAutobio-27.1
-# text = Dykeje Badojeba Bakoro Kudu uwadodyre, akore : U , kodire inagoino ... itore tagae , imedymage tagae
+# text = Dykeje Badojeba Bakoro Kudu uwadodyre , akore : U , kodire inagoino ... itore tagae , imedymage tagae
 # text_eng =
 # text_por = Aí o chefe Bakoro Kudu fez discurso dizendo: - Sim! Por isso eu falo assim...para vocês meus filhos, para vocês meninos
 1	Dykeje	dykeje	ADV	adv	_	5	advmod	_	_
