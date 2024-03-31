@@ -222,7 +222,7 @@
 # text = Ia aregodyre arigao pugeje; akore kui , kui , kui; je padyre moto kajeje , icare ure toiado bai kuri tuku Butore Agadu bure paru to
 # text_eng = 
 # text_por = Um outro chegou um cão novamente. Latiu: kui , kui , kui. Ele surgiu do chão e ele rodeou rapidamente os pés de Butore Agadu
-1	Ia	ia	DET	_	Definite=Ind	2	det	_	_
+1		DET	_	Definite=Ind	2	det	_	_
 2	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	arigao	arigao	NOUN	n	Number=Sing	2	nsubj	_	_
 4	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
@@ -265,7 +265,7 @@
 # text = Ia akore pugeje kui , kui , kui; je padyre moto kejeje , pugeje , icare ure toiado bai kuri tuku Okoge Ebowy bure paru kajeje
 # text_eng = 
 # text_por = Um outro cão latiu novamente; kui , kui , kui surgiu do chão novamente , então rodeou rapidamente e ficou bem do lado dos pés de Okoge Ebowu.
-1	Ia	ia	DET	_	Definite=Ind	2	det	_	_
+1		DET	_	Definite=Ind	2	det	_	_
 2	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	arigao	arigao	NOUN	n	Number=Sing	2	nsubj	_	_
 4	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
@@ -516,7 +516,7 @@
 # text_por = Os Iwagudu deram um cão branco a Ino Kuri , com nariz preto.
 1	Iwagududoge	Iwagudu	PROPN	propn	Number=Plur	2	dep	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
-3	ia	ia	DET	_	Number=Sing	4	det	_	_
+3	ia	ia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
 4	Arigao	Arigao	PROPN	propn	_	6	obj	_	_
 5	Kigadurewy	Kigadurewy	PROPN	propn	_	4	nmod	_	_
 6	maky	_	VERB	_	_	0	root	_	_
