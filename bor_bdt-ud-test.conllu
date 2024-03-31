@@ -2536,7 +2536,7 @@
 8	epemegadodunure	pemega	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Voice=CauPass	2	conj	_	_
 
 # sent_id = IpareEreru-16
-# text = Boe etore kugure ekujagunure , eejiwunure , nowy jure ji . Du tabore boe ererure
+# text = Boe etore kugure ekujagunure , eejiwunure , nowy jure ji . Dytabore boe ererure
 # text_eng = 
 # text_por = Na dança as crianças tem riscos sob os olhos e pinturas do rosto. Com isso que o povo dança
 1	Boe	boe	NOUN	n	Number=Plur	4	nsubj	_	_
@@ -2548,8 +2548,8 @@
 7	,	_	PUNCT	punct	_	6	punct	_	_
 8	nowy	nowy	DET	dem	Deixis=Med	9	det	_	_
 9	jure	jure	NOUN	n	_	4	obl	_	_
-10	ji	_	ADP	posp	Number=Sing|Person=3	9	case	_	_
-11	.	_	PUNCT	punct	_	9	punct	_	_
+10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
+11	.	.	PUNCT	punct	_	9	punct	_	_
 12	Dytabore	_	SCONJ	sconj	Mood=Ind	14	discourse	_	_
 13	boe	boe	NOUN	n	Number=Plur	14	nsubj	_	_
 14	ererure	_	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
@@ -2603,23 +2603,23 @@
 6	pemegado	pemega	VERB	v	Voice=Cau	2	parataxis	_	_
 
 # sent_id = IpareEreru-20
-# text = Meri rekodu tabo , icare ipare ere tudo pui baito ; areme boe etore , ipare ere tudo pui baito , tuwo tubemegado
+# text = Meri rekodu tabo , icare ipare ere tudo pui bai to ; areme , boe etore , ipare ere tudo pui baito , tuwo tubemegado
 # text_eng = 
 # text_por = De tarde,	os rapazes se reunem no baito; as mulheres, as crianças e os homens reunem-se no baito, para se enfeitar.
 1	Meri	_	NOUN	_	_	2	nmod	_	_
 2	rekodu	_	NOUN	_	_	8	obl	_	_
 3	tabo	_	ADP	_	Number=Sing|Person=3	2	case	_	_
-4	,	_	PUNCT	_	_	2	punct	_	_
-5	icare	_	ADV	_	_	8	advmod	_	_
-6	ipare	_	NOUN	_	_	7	dep	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	icare	icare	ADV	_	_	8	advmod	_	_
+6	ipare	ipare	NOUN	n	_	7	dep	_	_
 7	ere	_	PRON	_	_	8	nsubj	_	_
 8	tudo	_	VERB	_	_	0	root	_	_
 9	pui	_	PRON	_	_	8	dep	_	_
-10	bai	_	NOUN	_	_	8	obl	_	_
-11	to	_	ADP	_	Number=Sing|Person=3	10	case	_	_
-12	;	_	PUNCT	_	_	10	punct	_	_
+10	bai	bai	NOUN	_	_	8	obl	_	_
+11	to	to	ADP	_	Number=Sing|Person=3	10	case	_	_
+12	;	;	PUNCT	_	_	10	punct	_	_
 13	areme	_	NOUN	_	_	_	_	_	_
-14	,	_	PUNCT	_	_	2	punct	_	_
+14	,	,	PUNCT	_	_	2	punct	_	_
 15	boe	_	NOUN	_	_	_	_	_	_
 16	etore	_	NOUN	_	_	15	compound	_	_
 17	,	_	PUNCT	_	_	15	punct	_	_
@@ -2667,7 +2667,7 @@
 15	ekujiagi	kujiagi	ADP	posp	Number=Plur|Person=3	14	case	_	_
 
 # sent_id = IpareEreru-23
-# text = Uwobe bokwarewy imedy , iparedy , oredyje rerure ty kujiagi , onaregedu rerure tu kujiagi .
+# text = Uwobe bokwarewy imedy , iparedy , oredyje rerure ty kujiagi , onaregedu rerure ty kujiagi .
 # text_eng =
 # text_por = O homem ou o rapaz que não tem parentes, só a mulher ou a filha que dançam atrás dele.
 1	Uwobe	_	NOUN	n	_	3	nmod	_	_
@@ -9050,7 +9050,7 @@
 11	bogai	bogai	ADP	posp	_	10	case	_	towards;em direção a
 
 # sent_id = 007.KJB
-# text = Icare konorigire tuiedu tu i paru to . Ure tuiejodo moto kae
+# text = Icare konorigire tuiedu ty i pary to . Ure tuiejodo moto kae
 # text_eng = 
 # text_por = E a cigarra agarrou-se no pé da árvore. Ela virou a cara para o chão
 1	Icare	_	ADV	adv	_	3	advmod	_	[];;
@@ -9058,7 +9058,7 @@
 3	tuiedu	jetu	VERB	v	Number=Sing|Person=3	0	root	_	be at;estar
 4	ty	_	PART	prcl	_	3	advmod	_	[];;
 5	i	i	NOUN	n	_	6	nmod	_	[];;
-6	paru	paru	NOUN	n	_	3	obl	_	[];;
+6	pary	pary	NOUN	n	_	3	obl	_	[];;
 7	to	to	ADP	posp	_	6	case	_	[];;
 8	.	_	PUNCT	punct	_	3	punct	_	[];;
 9	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	[];;
@@ -9067,7 +9067,7 @@
 12	kae	_	ADP	posp	_	11	case	_	[];;
 
 # sent_id = 008.KJB
-# text = Adygo ure udo tumugudo tu i paru dytabore icare ere tado pujoku to
+# text = Adygo ure udo tumugudo ty i paru dytabore icare ere tado pujoku to
 # text_eng = 
 # text_por = Ela fez sentar a onça ao pé da árvore e depois ficaram acordadas olhando nos olhos uma da outra
 1	Adygo	_	NOUN	n	_	4	obj	_	[];;
@@ -9181,7 +9181,7 @@
 10	piji	piji	ADP	posp	Number=Sing|Person=3	9	case	_	[];;
 
 # sent_id = 016.KJB
-# text = Dykeje rade , ure adygo mugu pagado tu woe tuwiri bioro keje
+# text = Dykeje rade , ure adygo mugu pagado ty woe tuwiri bioro keje
 # text_eng = 
 # text_por = Então, na verdade, deixou a onça esperando sentada, aqui com seu casco vazio
 1	Dykeje	dykeje	ADV	adv	_	7	advmod	_	[];;
@@ -9744,7 +9744,7 @@
 8	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = 043.IETKB
-# text = Metage etaiwonure tu ji tu
+# text = Metage etaiwonure ty ji ty
 # text_eng = The companions were only looking
 # text_por = As companheiras estavam só olhando
 1	Metage	metuia	NOUN	n	Number=Plur	2	nsubj	_	_
