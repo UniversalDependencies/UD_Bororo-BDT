@@ -2158,7 +2158,7 @@
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
 # sent_id = Valmir-14
-# text = Awu pagore kugure , awy pawiemage , pamanamage , kodo maiwyge boe emagokare pawadary tabo pugeje
+# text = Awy pagore kugure , awy pawiemage , pamanamage , kodo maiwyge boe emagokare pawadary tabo pugeje
 # text_eng = 
 # text_por = Estes nosso filhos pequenos, estes nosso irmão mais novos, nossos irmão mais velhos as pessoas que são mais novas eles (já) não falam a língua
 1	Awy	awy	DET	dem	Deixis=Prox	2	det	_	_
@@ -2240,7 +2240,7 @@
 6	emeture	metu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	pado	pa	PRON	bi	Clusivity=In|Number=Plur|Person=1|Voice=Cau	6	obl	_	_
 8	ekodo	kodo	VERB	v	Number=Plur|Person=3	6	conj	_	_
-9	pagao	pagao	ADP	posp	Number=Sing|Person=3	8	obl	_	_
+9	pagabo	pagao	ADP	posp	Number=Sing|Person=3	8	obl	_	_
 10	,	,	PUNCT	punct	_	6	punct	_	_
 11	emerure	meru	VERB	v	Mood=Ind|Number=Plur|Person=3	6	conj	_	_
 12	pagabo	apo	ADP	posp	Clusivity=In|Number=Plur|Person=1	11	obl	_	_
@@ -2350,7 +2350,7 @@
 3	baiado	baia	VERB	v	Voice=Cau	0	root	_	_
 
 # sent_id = IpareEreru-7
-# text = Ere baia akedudo , dykeje icare ererure aroeceba tabo , kuruguga tabo , pariko tabo , icira akiri tabo , baia oto ji
+# text = Ere baia akedudo dykeje icare ererure aroeceba tabo , kuruguga tabo , pariko tabo , icira akiri tabo , baia oto ji
 # text_eng = 
 # text_por = Terminado o cercado, eles dançam, com enfeite de águia, com enfeite de gavião, com pariko, com taquarinhas enfeitadas de penugem, dentro do cercado
 1	Ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	nsubj	_	_
@@ -2396,7 +2396,7 @@
 14	rugady	rugady	ADV	adv	_	13	compound	_	_
 
 # sent_id = IpareEreru-9
-# text = Icare aroe ereru akedyre , du kejere icare iparere baia rawuje
+# text = Icare aroe ereru akedyre , dykejere icare iparere baia rawyje
 # text_eng = 
 # text_por = Acabada a dança, os rapazes desmancham o cercado
 1	Icare	icare	ADV	adv	_	4	advcl	_	_
@@ -2408,7 +2408,7 @@
 7	icare	icare	ADV	adv	_	10	advcl	_	_
 8	iparere	ipare	NOUN	n	Mood=Ind	10	nsubj	_	_
 9	baia	baia	NOUN	n	_	10	obj	_	_
-10	rawuje	rawuje	VERB	v	Number=Sing|Person=3	0	root	_	_
+10	rawyje	rawuje	VERB	v	Number=Sing|Person=3	0	root	_	dismantle,retrieve;desmanchar,retirar
 
 # sent_id = IpareEreru-10
 # text = Ere baia rawuje dykeje ererure pugeje : ipare , areme , nogware,	boe etore , boe eiamedu boe ererure , aroeceba tabo pugeje , kuruguga tabo , iworeboe tabo , pariko tabo pugeje , jure ji
