@@ -122,7 +122,7 @@
 17	epiji	piji	ADP	posp	Number=Plur|Person=3	16	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-08
-# text = Ere tugimo pariko tugu etaoto ere edo ty ciemagu ji Arigao Bororo ji icai tuipemegado duji
+# text = Ere tugimo pariko tugu etao to ere edo ty ciemagu ji Arigao Bororo ji icai tuipemegado duji
 # text_eng = 
 # text_por = Eles colocaram os Pariko deles na cabeça , dançaram na aldeia Arigao Bororo , o quanto ficaram bonitos.
 1	Ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
@@ -200,7 +200,7 @@
 15	rugadu	rugadu	ADV	adv	_	12	advmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-12
-# text = Ure toiado bai Aroia Kurirewy bure paruto . Boekimo , rema corewy rabodu
+# text = Ure toiado bai Aroia Kurirewy bure paru to . Boekimo , rema corewy rabodu
 # text_eng = 
 # text_por = Ele rodeou os pés de Aroia Kurirewu. Na verdade era um cão preto mesmo.
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
@@ -219,7 +219,7 @@
 14	rabodu	rabodu	ADV	adv	_	13	advmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-13
-# text = Ia aregodyre arigao pugeje; akore kui , kui , kui ; je padyre moto kajeje , icare ure toiado bai kuri tuku Butore Agadu bure paru to
+# text = Ia aregodyre arigao pugeje ; akore kui , kui , kui ; je padyre moto kajeje , icare ure toiado bai kuri tuku Butore Agadu bure paru to
 # text_eng = 
 # text_por = Um outro chegou um cão novamente. Latiu: kui , kui , kui. Ele surgiu do chão e ele rodeou rapidamente os pés de Butore Agadu
 1	Ia	ia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
@@ -795,7 +795,7 @@
 24	kae	kae	ADP	posp	Number=Sing|Person=3	23	case	_	_
 
 # sent_id = CoqueiroAutobio-14
-# text = Icare cedyre piji pugeje .  Cegodure jii . Kuruie Emeraoto , mano kaere kuruie etu eture, kodi icare iere Kuruie Emerao , maridoguru . Boe edure nono jii je , togwage tabo tuge rogu boe ji : tuge aigujo , tuge mano , tuge otoe
+# text = Icare cedyre piji pugeje .  Cegodure jii . Kuruie Emerao to , mano kaere kuruie ety etyre , kodi icare iere Kuruie Emerao , maridoguru . Boe edure nono jii je , togwage tabo tuge rogu boe ji : tuge aigujo , tuge mano , tuge otoe
 # text_eng =
 # text_por = Depois fomos embora dali novamente. Fomos até Kuruie Emerao (lugar das excursões dos rapazes)  Os rapazes costumavam ir lá pegar coco de buriti, por isso se chama assim Kuruie Emarao. Era um buritizal. Os Bororo ficaram ali bastante tempo, se alimentando, comendo cará, coco de buriti, batata do brejo.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
@@ -813,8 +813,8 @@
 13	mano	mano	NOUN	n	_	17	obl	_	_
 14	kaere	kae	ADP	posp	Mood=Ind	13	case	_	_
 15	kuruie	Kuruie	PROPN	propn	_	17	nsubj	_	_
-16	etu	ty	VERB	v	Number=Plur|Person=3	17	dep	_	_
-17	eture	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	9	appos	_	_
+16	ety	ty	VERB	v	Number=Plur|Person=3	17	dep	_	_
+17	etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	9	appos	_	_
 18	,	,	PUNCT	punct	_	17	punct	_	_
 19	kodi	kodi	SCONJ	sconj	_	22	mark	_	_
 20	icare	icare	ADV	adv	_	22	advmod	_	_
@@ -1338,7 +1338,7 @@
 15	ty	ty	ADV	adv	_	14	advcl	_	_
 
 # sent_id = OiegoJiwuBakaru-10
-# text = Ure taiwodo kodudu bogai , jorydyre nonogo ikaji , akore : Awy rugadu ! Awu iwoi pemegare
+# text = Ure taiwodo kodudu bogai , jorydyre nonogo ika ji , akore : Awy rugadu ! Awu iwoi pemegare
 # text_eng = 
 # text_por = Procurou embira, viu um pé de urucum e disse: Este mesmo!  A casca deste é boa
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
@@ -1361,7 +1361,7 @@
 18	pemegare	pemega	NOUN	n	Mood=Ind	14	conj	_	_
 
 # sent_id = OiegoJiwuBakaru-11
-# text = Icare ure iwoi tawyje , ure tugera pemegado ji , ure iado , icare ure tugu kojato , icare ure udo turugadu
+# text = Icare ure iwoi tawyje , ure tugera pemegado ji , ure iado , icare ure tugu koja to , icare ure udo turugadu
 # text_eng = 
 # text_por = Aí ele tirou a casca, a arrumou e, acabando, enfiou-a na guelra do peixe e o deixou pronto
 1	Icare	icare	ADV	adv	_	4	advmod	_	_
@@ -1538,7 +1538,7 @@
 12	akedydo	akedy	VERB	vt	Number=Sing|Person=3|Voice=Cau	5	parataxis	_	_
 
 # sent_id = OiegoJiwuBakaru-19
-# text = Dykeje icare ure jorugo . Ure pobo tugu ariato , ure mugudo joru tada , icare ure nowy kody tugu to
+# text = Dykeje icare ure jorugo . Ure pobo tugu aria to , ure mugudo joru tada , icare ure nowy kody tugu to
 # text_eng = Then, he lit the fire, poured water in the pan, puti it on the fire and ut the meat in it
 # text_por = Em seguida acendeu o fogo, despejou água na panela, a colocou no fogo e pôs nela a carne
 1	Dykeje	dykeje	ADV	adv	_	4	advcl	_	_
@@ -1690,7 +1690,7 @@
 12	kowyje	kowyje	VERB	v	Number=Sing|Person=3	2	parataxis	_	_
 
 # sent_id = OiegoJiwuBakaru-26
-# text = Dykeje icare ere batagaje towyje , batagaje oia kujagurewy, oia ekurewy . Dykejere icare ere to , ere pemegado , ere towyje
+# text = Dykeje icare ere batagaje towyje , batagaje oia kujagurewy , oia ekurewy . Dykejere icare ere to , ere pemegado , ere towyje
 # text_eng = 
 # text_por = Depois (os Bororo) fizeram “batagaje”(cordão de peninhas) metade vermelho, metade amarelo. Eles o fizeram, o arrumaram, o fizeram
 1	Dykeje	dykeje	ADV	adv	_	5	advmod	_	_
@@ -1796,7 +1796,7 @@
 27	to	to	ADP	posp	Number=Sing|Person=3	26	case	_	_
 
 # sent_id = OiegoJiwuBakaru-30
-# text = Icare ere cewy Iro ko . Egore : Iroooo...
+# text = Icare ere cewy Iro ko . Egore : Iroooo ...
 # text_eng = 
 # text_por = Aí eles cantaram o canto “Iro”
 1	Icare	icare	ADV	adv	_	5	advcl	_	_
@@ -1857,7 +1857,7 @@
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-32
-# text = Dykeje icare emagore nowy cimo nonogo ji , emagore nowy cimo kidoguru ji , emagore nowy cimo kiogoagiri ji , emagore nowy cimo kuje bo ji , emagore nowy cimo nabure buji , emagore nowy cimo nabure oiaga ji , kuido oiaga ji , emagore nowy cimo nabure aro ji , kuido aro ji , emagore nowy tuie kejewy ciwaboe etoiaga ji , emagore tuguie bokodori ji , emagore tuguie akigu ji , emagore tuguie meriri ji , emagore uworo aroeceba ji , emagore tuworo kuruguga ji , emagore tui aroedu puje dyji , emagore tuwiadawu cugui biri ji , emagore tadugo Bakororo atugo ji , emagore turijo oinono pureore dyji , emagore tuwaiga ao keje dyji , emagore Aije ji .
+# text = Dykeje icare emagore nowy cimo nonogo ji , emagore nowy cimo kidoguru ji , emagore nowy cimo kiogoagiri ji , emagore nowy cimo kuje bo ji , emagore nowy cimo nabure bu ji , emagore nowy cimo nabure oiaga ji , kuido oiaga ji , emagore nowy cimo nabure aro ji , kuido aro ji , emagore nowy tuie kejewy ciwaboe etoiaga ji , emagore tuguie bokodori ji , emagore tuguie akigu ji , emagore tuguie meriri ji , emagore uworo aroeceba ji , emagore tuworo kuruguga ji , emagore tui aroedu puje dyji , emagore tuwiadawu cugui biri ji , emagore tadugo Bakororo atugo ji , emagore turijo oinono pureore dyji , emagore tuwaiga ao keje dyji , emagore Aije ji .
 # text_eng = 
 # text_por = Depois cantam para ele. No canto fazem referência  ao urucum, à resina, à penugem, às peninhas de mutum e de arara vermelha, às penas do pé da asa de arara vermelha e de arara amarela, às penas de rabo de arara vermelha e de arara amarela, fazem referência à viseira feita de penas de rabo da japu, fazem referência ao seu colar de unhas de tatu canastra, falam do seu colar de linha de algodão, do seu colar de metal, do seu enfeite de penas de águia, de gavião caracaraí, falam das representações rituais, do seu brinco de pele de tucano, de sua pintura de Bakororo,  das pinturas, da semelhança mútua, dos enfeites da ponta dos arcos, falam de Aije.
 1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
@@ -2377,7 +2377,7 @@
 22	ji	ji	ADP	posp	_	21	case	_	_
 
 # sent_id = IpareEreru-8
-# text = Awyre areme ererukare , areme eerydykare ji . Aroe ererunure . Aroe ty rugady.
+# text = Awyre areme ererukare , areme eerydykare ji . Aroe ererunure . Aroe ty rugady
 # text_eng = 
 # text_por = Neste as mulheres não dançam , as mulheres não vêem ,	As almas estão dançando . Só as almas mesmo
 1	Awyre	awy	DET	dem	Mood=Ind	3	obj	_	_
@@ -2411,7 +2411,7 @@
 10	rawyje	rawuje	VERB	v	Number=Sing|Person=3	0	root	_	dismantle,retrieve;desmanchar,retirar
 
 # sent_id = IpareEreru-10
-# text = Ere baia rawuje dykeje ererure pugeje : ipare , areme , nogware,	boe etore , boe eiamedu boe ererure , aroeceba tabo pugeje , kuruguga tabo , iworeboe tabo , pariko tabo pugeje , jure ji
+# text = Ere baia rawuje dykeje ererure pugeje : ipare , areme , nogware ,	boe etore , boe eiamedu boe ererure , aroeceba tabo pugeje , kuruguga tabo , iworeboe tabo , pariko tabo pugeje , jure ji
 # text_eng = 
 # text_por = Depois de terem desmanchado o cercado, dançam de novo: rapazes, mulheres, moças, crianças, todo mundo dança, com penas de águia de novo, com penas de gavião, com taquarinhas, com pariko de novo, formam a roda
 1	Ere	e	PRON	bi	_	3	nsubj	_	_
@@ -2599,7 +2599,7 @@
 6	pemegado	pemega	VERB	v	Voice=Cau	2	parataxis	_	_
 
 # sent_id = IpareEreru-20
-# text = Meri rekodu tabo , icare ipare ere tudo pui bai to ; areme , boe etore , ipare ere tudo pui baito , tuwo tubemegado
+# text = Meri rekodu tabo , icare ipare ere tudo pui bai to ; areme , boe etore , ipare ere tudo pui bai to , tuwo tubemegado
 # text_eng = 
 # text_por = De tarde,	os rapazes se reunem no baito; as mulheres, as crianças e os homens reunem-se no baito, para se enfeitar.
 1	Meri	_	NOUN	n	_	2	nmod	_	_
@@ -2623,7 +2623,7 @@
 19	ere	_	PRON	_	_	20	nsubj	_	_
 20	tudo	_	VERB	v	_	8	parataxis	_	_
 21	pui	_	PRON	_	_	20	dep	_	_
-22	bai	_	NOUN	n	_	20	obl	_	_
+22	bai	bai	NOUN	n	_	20	obl	_	_
 23	to	_	ADP	adp	Number=Sing|Person=3	22	case	_	_
 24	,	_	PUNCT	punct	_	20	punct	_	_
 25	tuwo	_	PRON	bi	_	26	nsubj	_	_
