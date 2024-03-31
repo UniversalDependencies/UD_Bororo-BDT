@@ -8,7 +8,7 @@
 4	tuje	tuje	ADV	adv	_	3	advmod	_	_
 5	oino	oino	ADV	x	_	3	advmod	_	_
 6	,	,	PUNCT	punct	_	3	punct	_	_
-7	dykaere	dykae	ADV	_	Mood=Ind	9	advmod	_	_
+7	dykaere	dykae	ADV	adv	Mood=Ind	9	advmod	_	_
 8	boe	boe	NOUN	n	Number=Plur	9	nsubj	_	_
 9	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
 
@@ -35,7 +35,7 @@
 17	paru	paru	NOUN	n	_	14	parataxis	_	_
 18	keje	keje	ADP	posp	Number=Sing|Person=3	17	case	_	_
 19	jokodu	jokodu	ADV	adv	_	17	advmod	_	_
-20	karega	karega	ADV	_	Polarity=Neg	17	advmod	_	_
+20	karega	karega	ADV	adv	Polarity=Neg	17	advmod	_	_
 21	,	,	PUNCT	punct	_	17	punct	_	_
 22	tadadu	_	NOUN	n	_	24	obl	_	_
 23	cobugi	cobugi	ADP	posp	_	22	case	_	_
@@ -87,7 +87,7 @@
 # text = Dyrekodajire icare Iwagududoge eigoiare , icare ere Arigao Bororo okwa tawuje
 # text_eng = 
 # text_por = Depois disso , então os Iwagudu, é por causa deles que surge a aldeia Arigao Bororo.
-1	Dyrekodajire	dyrekodaji	ADV	_	Mood=Ind	3	advmod	_	_
+1	Dyrekodajire	dyrekodaji	ADV	adv	Mood=Ind	3	advmod	_	_
 2	icare	ica	ADV	adv	Mood=Ind	3	advmod	_	_
 3	Iwagududoge	Iwagudu	PROPN	propn	Number=Plur	0	root	_	_
 4	eigoiare	koira	ADP	posp	Mood=Ind|Number=Plur|Person=3	3	case	_	_
@@ -110,15 +110,15 @@
 5	Bororo	Bororo	PROPN	propn	_	4	compound	_	_
 6	aru	aru	VERB	v	_	0	root	_	_
 7	awy	awy	DET	dem	Deixis=Prox	8	det	_	_
-8	Mano	Mano	PROPN	_	_	6	obl	_	_
-9	Kurirewy	Kurirewy	PROPN	_	_	8	nmod	_	_
+8	Mano	Mano	PROPN	propn	_	6	obl	_	_
+9	Kurirewy	Kurirewy	PROPN	propn	_	8	nmod	_	_
 10	,	,	PUNCT	punct	_	8	punct	_	_
-11	Mano	Mano	PROPN	_	_	8	conj	_	_
-12	Baru	Baru	PROPN	_	_	11	compound	_	_
+11	Mano	Mano	PROPN	propn	_	8	conj	_	_
+12	Baru	Baru	PROPN	propn	_	11	compound	_	_
 13	,	,	PUNCT	punct	_	11	punct	_	_
-14	Baitogogo	Baitogogo	PROPN	_	_	8	conj	_	_
+14	Baitogogo	Baitogogo	PROPN	propn	_	8	conj	_	_
 15	,	,	PUNCT	punct	_	14	punct	_	_
-16	Kaborewy	_	PROPN	_	_	8	conj	_	_
+16	Kaborewy	_	PROPN	propn	_	8	conj	_	_
 17	epiji	piji	ADP	posp	Number=Plur|Person=3	16	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-08
@@ -140,30 +140,30 @@
 13	Bororo	Bororo	PROPN	propn	_	12	compound	_	_
 14	ji	ji	ADP	posp	Number=Sing|Person=3	12	case	_	_
 15	icai	_	ADV	adv	_	16	advmod	_	_
-16	tuipemegado	pemega	VERB	_	Reflex=Yes|Voice=Cau	4	parataxis	_	_
+16	tuipemegado	pemega	VERB	v	Reflex=Yes|Voice=Cau	4	parataxis	_	_
 17	duji	duji	X	_	_	16	discourse	_	_
 
 # sent_id = ArigaodogeEiTuguodo-09
-# text = Boe egore Iwagududoge tugodyie boe Arigao Bororo kae , dutaboie icare iwagudu doge ere Arigao Bororo akudo baragara tabo
+# text = Boe egore Iwagududoge tugodyie boe Arigao Bororo kae , dytaboie icare iwagudu doge ere Arigao Bororo akudo baragara tabo
 # text_eng = 
 # text_por = Os Bororo falaram que os Iwagudu foram por último e fizeram a limpeza da aldeia Arigao Bororo com prego de penas.
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-3	Iwagududoge	_	PROPN	_	_	4	nsubj	_	_
+3	Iwagududoge	Iwagudu	PROPN	propn	_	4	nsubj	_	_
 4	tugodyie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3|Speech=Ind	2	ccomp	_	_
 5	boe	boe	NOUN	n	Number=Plur	6	nsubj	_	_
 6	Arigao	Arigao	PROPN	propn	_	_	_	_	_
 7	Bororo	Bororo	PROPN	propn	_	6	compound	_	_
-8	kae	_	ADP	_	_	6	case	_	_
+8	kae	kae	ADP	adp	_	6	case	_	_
 9	,	,	PUNCT	punct	_	4	punct	_	_
-10	dutaboie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	16	advmod	_	_
+10	dytaboie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	16	advmod	_	_
 11	icare	ica	ADV	adv	Mood=Ind	16	advmod	_	_
-12	Iwagududoge	_	PROPN	_	_	16	nsubj	_	_
+12	Iwagududoge	Iwagudu	PROPN	propn	_	16	nsubj	_	_
 13	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	16	nsubj	_	_
 14	Arigao	Arigao	PROPN	propn	_	16	obj	_	_
 15	Bororo	Bororo	PROPN	propn	_	14	compound	_	_
-16	akudo	_	VERB	_	_	2	conj	_	_
-17	baragara	_	NOUN	_	_	16	obl	_	_
+16	akudo	aku	VERB	v	Voice=Cau	2	conj	_	_
+17	baragara	baragara	NOUN	n	_	16	obl	_	_
 18	tabo	tabo	ADP	posp	Number=Sing|Person=3	17	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-10
@@ -193,7 +193,7 @@
 8	,	,	PUNCT	punct	_	4	punct	_	_
 9	kui	_	X	_	_	4	conj	_	_
 10	;	;	PUNCT	punct	_	4	punct	_	_
-11	je	_	ADV	_	_	12	advmod	_	_
+11	je	_	ADV	adv	_	12	advmod	_	_
 12	padyre	ty	VERB	vi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	2	parataxis	_	_
 13	moto	moto	NOUN	n	Number=Sing	12	obl	_	_
 14	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	13	case	_	_
@@ -211,7 +211,7 @@
 6	bure	bure	NOUN	n	Number=Sing	7	nmod	_	_
 7	paru	paru	NOUN	n	Number=Sing	2	obl	_	_
 8	to	to	ADP	posp	Number=Sing|Person=3	7	case	_	_
-9	.	_	PUNCT	_	_	7	punct	_	_
+9	.	_	PUNCT	punct	_	7	punct	_	_
 10	Boekimo	boekimo	ADV	adv	_	13	advmod	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
 12	rema	rema	PART	prcl	_	13	dep	_	_
@@ -234,7 +234,7 @@
 10	,	,	PUNCT	punct	_	6	punct	_	_
 11	kui	_	X	_	_	6	conj	_	_
 12	;	;	PUNCT	punct	_	6	punct	_	_
-13	je	je	ADV	_	_	6	advcl	_	_
+13	je	je	ADV	adv	_	6	advcl	_	_
 14	padyre	ty	VERB	vi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	2	parataxis	_	_
 15	moto	moto	NOUN	n	Number=Sing	14	obl	_	_
 16	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	15	case	_	_
@@ -277,7 +277,7 @@
 10	,	,	PUNCT	punct	_	6	punct	_	_
 11	kui	_	X	_	_	6	conj	_	_
 12	;	;	PUNCT	punct	_	6	punct	_	_
-13	je	je	ADV	_	_	6	advcl	_	_
+13	je	je	ADV	adv	_	6	advcl	_	_
 14	padyre	ty	VERB	vi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	2	parataxis	_	_
 15	moto	moto	NOUN	n	Number=Sing	14	obl	_	_
 16	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	15	case	_	_
@@ -295,21 +295,21 @@
 28	to	to	ADP	posp	Number=Sing|Person=3	27	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-16
-# text = Boekimo rema ! Arigao kigadurewy , rabody
+# text = Boekimo rema ! Arigao Kigadurewy , rabody
 # text_eng = 
 # text_por = Pois então , na verdade era um cão branco.
 1	Boekimo	boe	NOUN	n	Number=Plur	4	discourse	_	_
 2	rema	rema	PART	prcl	_	1	dep	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 4	Arigao	Arigao	PROPN	propn	_	0	root	_	_
-5	kujagurewy	kujagu	NOUN	n	Mood=Ind|Nomzr=Rel	4	nmod	_	_
+5	Kigadurewy	kigady	NOUN	n	Mood=Ind|Nomzr=Rel	4	nmod	_	_
 6	rabody	rabodu	ADV	adv	_	4	advmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-17
 # text = Oino boe egore : dukeje icare arigaodoge etaregodyre , etaregodyre , tuiamedu tabo
 # text_eng =  
 # text_por = Assim que os Bororo falam: então os cães chegaram , chegaram todos eles.
-1	Oino	oino	ADV	_	_	3	advmod	_	_
+1	Oino	oino	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	:	:	PUNCT	punct	_	3	punct	_	_
@@ -350,7 +350,7 @@
 6	pega	pega	NOUN	n	_	5	conj	_	_
 7	pegarewyge	pega	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	6	nmod	_	_
 8	;	;	PUNCT	punct	_	7	punct	_	_
-9	kigadu	_	NOUN	_	_	6	conj	_	_
+9	kigadu	_	NOUN	n	_	6	conj	_	_
 10	pega	pega	NOUN	n	_	9	nmod	_	_
 11	pegarewyge	pega	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	10	conj	_	_
 12	icare	ica	ADV	adv	Mood=Ind	14	advmod	_	_
@@ -376,7 +376,7 @@
 8	metudu	metudu	NOUN	n	_	5	obl	_	_
 9	to	to	ADP	posp	_	8	case	_	_
 10	,	,	PUNCT	punct	_	5	punct	_	_
-11	kodire	kodi	SCONJ	_	Mood=Ind	12	mark	_	_
+11	kodire	kodi	SCONJ	sconj	Mood=Ind	12	mark	_	_
 12	core	co	NOUN	n	Mood=Ind	5	advcl	_	_
 
 # sent_id = ArigaodogeEiTuguodo-21
@@ -392,7 +392,7 @@
 7	to	uro	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-22
-# text = Metuia arigao kigadyrewy bure jore noa to
+# text = Metyia arigao kigadyrewy bure jore noa to
 # text_eng = 
 # text_por = Outro cão branco pisou na argila/barro branco.
 1	Metyia	metyia	NOUN	n	Number=Sing	4	nsubj	_	_
@@ -404,7 +404,7 @@
 7	to	uro	ADP	püosp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-23
-# text = Kujagu maere , kigadu maere , co maere , awygere , enoroe pemegare ; kodure boiwuge , emagere enoroe pemega kare
+# text = Kujagu maere , kigadu maere , co maere , awygere , enoroe pemegare ; kodure boiwuge , emagere enoroe pemegakare
 # text_eng = 
 # text_por = O vermelho por inteiro , o branco por inteiro , o preto por inteiro , esses , as características deles são mais bonitas; os que vieram depois/por último , esses suas características não são bonitas.
 1	Kujagu	kujagu	NOUN	n	_	13	nsubj:outer	_	_
@@ -494,14 +494,14 @@
 2	Ebowu	Ebowu	PROPN	propn	_	1	compound	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
 4	Arigao	arigao	PROPN	propn	Number=Sing	7	obj	_	_
-5	Kigadu	kigadu	NOUN	_	_	4	nmod	_	_
+5	Kigadu	kigadu	NOUN	n	_	4	nmod	_	_
 6	maerewy	mae	NOUN	n	Mood=Ind|Nomzr=Rel	5	nmod	_	_
 7	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	_
-8	Porirewy	Porirewy	PROPN	_	_	7	obl	_	_
+8	Porirewy	Porirewy	PROPN	propn	_	7	obl	_	_
 9	ai	i	ADP	posp	Number=Sing|Person=2	8	case	_	_
 10	,	,	PUNCT	punct	_	7	punct	_	_
 11	icare	ica	ADV	adv	Mood=Ind	13	advmod	_	_
-12	Porirewy	Porirewy	PROPN	_	_	13	nsubj	_	_
+12	Porirewy	Porirewy	PROPN	propn	_	13	nsubj	_	_
 13	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	7	parataxis	_	_
 14	Arigao	Arigao	PROPN	propn	_	13	ccomp	_	_
 15	Kigadurewy	Kigadurewy	PROPN	propn	_	14	compound	_	_
@@ -519,7 +519,7 @@
 3	ia	ia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
 4	Arigao	Arigao	PROPN	propn	_	6	obj	_	_
 5	Kigadurewy	Kigadurewy	PROPN	propn	_	4	nmod	_	_
-6	maky	_	VERB	_	_	0	root	_	_
+6	maky	_	VERB	v	_	0	root	_	_
 7	Ino	_	PROPN	propn	_	6	obl	_	_
 8	Kuri	_	PROPN	propn	_	7	compound	_	_
 9	ai	i	ADP	posp	Number=Sing|Person=2	7	case	_	_
@@ -673,37 +673,37 @@
 10	ora	ora	NOUN	n	_	7	conj	_	_
 11	kae	kae	ADP	posp	Number=Sing|Person=3	10	case	_	_
 12	,	_	PUNCT	punct	_	10	punct	_	_
-13	ioga	oga	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	7	conj	_	_
+13	ioga	oga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	7	conj	_	_
 14	apo	apo	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	,	,	PUNCT	punct	_	13	punct	_	_
 16	imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	13	conj	_	_
-17	apo	apo	ADP	_	Number=Sing|Person=3	16	case	_	_
+17	apo	apo	ADP	adp	Number=Sing|Person=3	16	case	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	_
 19	Ikodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=1	5	parataxis	_	_
-20	apowuge	apowu	NOUN	_	Number=Plur	19	obl	_	_
-21	emegaguragare	_	NOUN	_	_	20	nmod	_	_
+20	apowuge	apowu	NOUN	n	Number=Plur	19	obl	_	_
+21	emegaguragare	_	NOUN	n	_	20	nmod	_	_
 22	.	_	PUNCT	punct	_	19	punct	_	_
 23	Boe	boe	NOUN	n	Number=Plur	24	nsubj	_	_
 24	ekodo	kodo	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
 25	jii	ji	ADV	Adv	_	24	advmod	_	_
-26	toro	toro	ADV	_	_	24	advmod	_	_
+26	toro	toro	ADV	adv	_	24	advmod	_	_
 27	,	,	PUNCT	punct	_	24	punct	_	_
 28	boe	boe	NOUN	n	Number=Plur	29	nsubj	_	_
 29	etaredodure	aredo	VERB	v	Mood=Ind|Number=Plur|Person=3	24	conj	_	_
-30	Kiwabo	Kiwabo	PROPN	_	_	29	obl	_	_
+30	Kiwabo	Kiwabo	PROPN	propn	_	29	obl	_	_
 31	to	to	ADP	posp	Number=Sing|Person=3	30	case	_	_
 32	.	.	PUNCT	punct	_	29	punct	_	_
-33	Kiwabo	Kiwabo	PROPN	_	_	36	obl	_	_
+33	Kiwabo	Kiwabo	PROPN	propn	_	36	obl	_	_
 34	piji	piji	ADP	posp	Number=Sing|Person=3	33	case	_	_
-35	Boe	boe	NOUN	_	Number=Plur	36	nsubj	_	_
-36	eture	_	VERB	_	_	3	parataxis	_	_
-37	toro	_	ADV	_	_	36	advmod	_	_
-38	Tuguribo	_	PROPN	_	_	36	obl	_	_
+35	Boe	boe	NOUN	n	Number=Plur	36	nsubj	_	_
+36	eture	_	VERB	v	_	3	parataxis	_	_
+37	toro	_	ADV	adv	_	36	advmod	_	_
+38	Tuguribo	_	PROPN	propn	_	36	obl	_	_
 39	to	to	ADP	posp	Number=Sing|Person=3	38	case	_	_
 40	,	,	PUNCT	punct	_	36	punct	_	_
 41	dypijire	dypiji	ADV	adv	Mood=Ind	42	advmod	_	_
-42	cedyre	_	VERB	_	_	36	conj	_	_
-43	Tuborebo	_	PROPN	_	_	42	obl	_	_
+42	cedyre	_	VERB	v	_	36	conj	_	_
+43	Tuborebo	_	PROPN	propn	_	42	obl	_	_
 44	to	to	ADP	posp	Number=Sing|Person=3	43	case	_	_
 45	,	,	PUNCT	punct	_	42	punct	_	_
 46	dypijire	dypiji	ADV	adv	Mood=Ind	_	47	advcl	_	_
@@ -721,34 +721,34 @@
 4	tugirimi	kirimi	VERB	v	Reflex=Yes	_	_	_	_
 5	mato	mato	ADV	adv	_	4	advmod	_	_
 6	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
-7	,	.	PUNCT	_	_	4	punct	_	_
-8	etaidykare	aidy	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	advcl	_	_
+7	,	.	PUNCT	punct	_	4	punct	_	_
+8	etaidykare	aidy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	advcl	_	_
 9	toro	toro	ADV	adv	_	8	advmod	_	_
 10	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
-11	kodi	kodi	SCONJ	_	_	8	mark	_	_
-12	.	.	PUNCT	_	_	8	punct	_	_
-13	Ekodure	kodu	VERB	_	Number=Plur|Person=3	4	parataxis	_	_
-14	mato	mato	ADV	_	_	13	advmod	_	_
-15	,	,	PUNCT	_	_	14	punct	_	_
-16	mato	mato	ADV	_	_	14	advmod	_	_
-17	,	,	PUNCT	_	_	16	punct	_	_
-18	Tuguribo	Tuguribo	PROPN	_	_	13	obl	_	_
+11	kodi	kodi	SCONJ	sconj	_	8	mark	_	_
+12	.	.	PUNCT	punct	_	8	punct	_	_
+13	Ekodure	kodu	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+14	mato	mato	ADV	adv	_	13	advmod	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	mato	mato	ADV	adv	_	14	advmod	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	Tuguribo	Tuguribo	PROPN	propn	_	13	obl	_	_
 19	to	to	ADP	posp	Number=Sing|Person=3	18	case	_	_
-20	pugeje	pugeje	ADV	_	_	18	advmod	_	_
-21	.	.	PUNCT	_	_	18	punct	_	_
+20	pugeje	pugeje	ADV	adv	_	18	advmod	_	_
+21	.	.	PUNCT	punct	_	18	punct	_	_
 22	Nonore	nono	ADV	adv	Mood=Ind	24	advmod	_	_
 23	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	24	nsubj	_	_
-24	bato	bato	VERB	_	_	13	parataxis	_	_
-25	.	.	PUNCT	_	_	24	punct	_	_
+24	bato	bato	VERB	v	_	13	parataxis	_	_
+25	.	.	PUNCT	punct	_	24	punct	_	_
 26	Boe	boe	NOUN	n	Number=Plur	27	nsubj	_	_
 27	emagare	maka	VERB	v	Number=Plur|Person=3	13	parataxis	_	_
-28	.	_	PUNCT	_	_	27	punct	_	_
+28	.	_	PUNCT	punct	_	27	punct	_	_
 29	Ia	ia	DET	_	Definite=Ind	30	det	_	_
 30	barae	barae	NOUN	n	Number=Sing	31	nsubj	_	_
 31	mugure	mugu	VERB	v	Mood=Ind	27	conj	_	_
 32	Boe	boe	NOUN	n	Number=Plur	31	obl	_	_
 33	ebo	apo	ADP	posp	Number=Plur|Person=3	32	case	_	_
-34	.	.	PUNCT	_	_	31	punct	_	_
+34	.	.	PUNCT	punct	_	31	punct	_	_
 35	Makore	mako	VERB	v	Mood=Ind	27	parataxis	_	_
 36	Boe	boe	NOUN	n	_	35	obl	_	_
 37	ei	ji	ADP	posp	Number=Plur|Person=3	36	case	_	_
@@ -760,7 +760,7 @@
 43	mako	mako	NOUN	n	_	35	obl	_	_
 44	rakarewy	raka	NOUN	n	Mood=Ind|Nomzr=Rel	43	nmod	_	_
 45	tabo	apo	ADP	posp	Number=Sing|Person=3	43	case	_	_
-46	.	.	PUNCT	_	_	43	punct	_	_
+46	.	.	PUNCT	punct	_	43	punct	_	_
 47	Joru	joru	NOUN	n	_	48	nsubj	_	_
 48	makare	maka	NOUN	n	Mood=Ind	27	parataxis	_	_
 49	nono	nono	ADV	adv	_	48	advcl	_	_
@@ -787,8 +787,8 @@
 16	Emugu	mugu	VERB	v	Mood=Ind|Number=Plur|Person=3	14	conj	_	_
 17	raire	rai	ADV	adv	Mood=Ind	16	advmod	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	_
-19	Adugo	Adugo	PROPN	_	_	22	obl	_	_
-20	Jari	Jari	PROPN	_	_	19	compound	_	_
+19	Adugo	Adugo	PROPN	propn	_	22	obl	_	_
+20	Jari	Jari	PROPN	propn	_	19	compound	_	_
 21	pijire	piji	ADP	posp	Mood=Ind|Number=Sing|Person=3	19	case	_	_
 22	cedyre	ty	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	14	parataxis	_	_
 23	Bopejao	Bopejao	PROPN	propn	_	22	obl	_	_
@@ -801,49 +801,49 @@
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	cedyre	ty	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	0	root	_	_
 3	piji	piji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
-4	pugeje	pugeje	ADV	_	_	2	advmod	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
+4	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
 6	Cegodure	kodu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	2	parataxis	_	_
 7	jii	jii	ADV	adv	_	6	advmod	_	_
-8	.	.	PUNCT	_	_	6	punct	_	_
-9	Kuruie	Kuruie	PROPN	_	_	7	appos	_	_
-10	Emerao	Emerao	PROPN	_	_	9	compound	_	_
+8	.	.	PUNCT	punct	_	6	punct	_	_
+9	Kuruie	Kuruie	PROPN	propn	_	7	appos	_	_
+10	Emerao	Emerao	PROPN	propn	_	9	compound	_	_
 11	to	to	ADP	posp	Number=Sing|Person=3	9	compound	_	_
-12	,	,	PUNCT	_	_	10	punct	_	_
-13	mano	mano	NOUN	_	_	17	obl	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	mano	mano	NOUN	n	_	17	obl	_	_
 14	kaere	kae	ADP	posp	Mood=Ind	13	case	_	_
-15	kuruie	Kuruie	PROPN	_	_	17	nsubj	_	_
+15	kuruie	Kuruie	PROPN	propn	_	17	nsubj	_	_
 16	etu	ty	VERB	v	Number=Plur|Person=3	17	dep	_	_
 17	eture	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	9	appos	_	_
-18	,	,	PUNCT	_	_	17	punct	_	_
-19	kodi	kodi	SCONJ	_	_	22	mark	_	_
-20	icare	icare	ADV	_	_	22	advmod	_	_
-21	iere	ie	NOUN	_	Mood=Ind|Number=Sing|Person=3	22	nsubj	_	_
-22	Kuruie	Kuruie	PROPN	_	_	17	advcl	_	_
-23	Emerao	Emerao	PROPN	_	_	22	compound	_	_
-24	,	,	PUNCT	_	_	22	punct	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	kodi	kodi	SCONJ	sconj	_	22	mark	_	_
+20	icare	icare	ADV	adv	_	22	advmod	_	_
+21	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	22	nsubj	_	_
+22	Kuruie	Kuruie	PROPN	propn	_	17	advcl	_	_
+23	Emerao	Emerao	PROPN	propn	_	22	compound	_	_
+24	,	,	PUNCT	punct	_	22	punct	_	_
 25	maridoguru	maridoguru	NOUN	n	_	22	parataxis	_	_
-26	.	.	PUNCT	_	_	25	punct	_	_
+26	.	.	PUNCT	punct	_	25	punct	_	_
 27	Boe	boe	NOUN	n	_	28	nsubj	_	_
 28	edure	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
-29	nono	nono	ADV	_	_	28	advmod	_	_
-30	jii	jii	ADV	_	_	28	advmod	_	_
-31	je	je	ADV	_	_	30	advmod	_	_
-32	,	,	PUNCT	_	_	28	punct	_	_
-33	togwage	okwage	VERB	_	Reflex=Yes	28	obl	_	_
+29	nono	nono	ADV	adv	_	28	advmod	_	_
+30	jii	jii	ADV	adv	_	28	advmod	_	_
+31	je	je	ADV	adv	_	30	advmod	_	_
+32	,	,	PUNCT	punct	_	28	punct	_	_
+33	togwage	okwage	VERB	v	Reflex=Yes	28	obl	_	_
 34	tabo	apo	ADP	posp	Number=Sing|Person=3	33	case	_	_
 35	tugerogu	ke	NOUN	n	Degree=Dim|Reflex=Yes	33	conj	_	_
 36	boe	boe	NOUN	n	_	35	nmod	_	_
 37	ji	ji	ADP	posp	Number=Sing|Person=3	35	case	_	_
-38	:	:	PUNCT	_	_	35	punct	_	_
+38	:	:	PUNCT	punct	_	35	punct	_	_
 39	tuge	ke	NOUN	n	Reflex=Yes	35	conj	_	_
 40	aigujo	_	NOUN	n	_	39	nmod	_	_
-41	,	_	PUNCT	_	_	39	punct	_	_
+41	,	_	PUNCT	punct	_	39	punct	_	_
 42	tuge	ke	NOUN	n	Reflex=Yes	35	conj	_	_
 43	mano	mano	NOUN	n	_	42	nmod	_	_
-44	,	,	PUNCT	_	_	42	punct	_	_
+44	,	,	PUNCT	punct	_	42	punct	_	_
 45	tuge	ke	NOUN	n	Reflex=Yes	35	conj	_	_
-46	otoe	otoe	NOUN	_	_	45	nmod	_	_
+46	otoe	otoe	NOUN	n	_	45	nmod	_	_
 
 # sent_id = CoqueiroAutobio-15
 # text = Boe eedure nono togwage tabo tuge jugo ji , tuge buke ji , tuge apogo ji , tuge okwaru ji , tuge ki ji . Ii ! Boe eke kurinure rugadu !
@@ -895,7 +895,7 @@
 7	.	.	PUNCT	punct	_	5	punct	_	_
 8	Boe	boe	NOUN	n	_	9	nsubj	_	_
 9	ekodo	kodo	VERB	v	Number=Plur|Person=3	5	parataxis	_	_
-10	pugeje	pugeje	ADV	_	_	9	advmod	_	_
+10	pugeje	pugeje	ADV	adv	_	9	advmod	_	_
 11	jii	jii	ADV	adv	_	9	advmod	_	_
 12	...	...	PUNCT	punct	_	9	punct	_	_
 13	Boe	boe	NOUN	n	Number=Plur	14	nsubj	_	_
@@ -912,26 +912,26 @@
 # text_por = Sim! A paisagem era bonita! A areia era bonita, amarela, ao longo daquele buritizal.Chamava-se o buritizal de Aodorodoge Emarao. Os rapazes costumavam correr a procura de cocos de buriti.
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Boe	boe	NOUN	_	Number=Sing	4	nsubj	_	_
+3	Boe	boe	NOUN	n	Number=Sing	4	nsubj	_	_
 4	motyre	moty	VERB	v	Mood=Ind	0	root	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	_
-6	Kugaru	kugaru	NOUN	_	Number=Sing	7	nsubj	_	_
+6	Kugaru	kugaru	NOUN	n	Number=Sing	7	nsubj	_	_
 7	motyre	moty	VERB	v	Mood=Ind	4	conj	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	ekure	ekur	VERB	v	Mood=Ind	7	conj	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
 11	nowy	nowy	DET	dem	Deixis=Med	12	det	_	_
-12	maridoguru	_	NOUN	_	_	13	nmod	_	_
-13	jipa	jipa	NOUN	_	_	4	obl	_	_
+12	maridoguru	_	NOUN	n	_	13	nmod	_	_
+13	jipa	jipa	NOUN	n	_	4	obl	_	_
 14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	13	punct	_	_
-16	Iere	ie	VERB	_	Mood=Ind	17	nsubj	_	_
-17	Aodorodoge	Aodoro	PROPN	_	Number=Plur	4	parataxis	_	_
+16	Iere	ie	VERB	v	Mood=Ind	17	nsubj	_	_
+17	Aodorodoge	Aodoro	PROPN	propn	Number=Plur	4	parataxis	_	_
 18	Emerao	_	PROPN	propn	_	17	compound	_	_
 19	maridoguru	_	NOUN	n	_	17	appos	_	_
 20	.	.	PUNCT	punct	_	17	punct	_	_
 21	Nowy	nowy	DET	dem	Deixis=Med	22	det	_	_
-22	mano	mano	NOUN	_	_	26	obl	_	_
+22	mano	mano	NOUN	n	_	26	obl	_	_
 23	kaere	kae	ADP	posp	Number=Sing|Person=3	22	case	_	_
 24	ipare	iparedy	NOUN	n	Number=Plur	25	dep	_	_
 25	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	26	nsubj	_	_
@@ -942,7 +942,7 @@
 # text_eng =
 # text_por = Eis! Dali os Bororo vieram para o lugar onde iam se repartir. Os que iriam para a Colônia foram para a esquerda. Os que iriam para Kejari foram para a direita
 1	Ca	ca	INTJ	_	_	7	discourse	_	_
-2	,	,	PUNCT	_	_	1	punct	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
 3	nowy	nowy	DET	dem	Deixis=Med	7	obl	_	_
 4	piji	piji	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	icare	icare	ADV	adv	_	7	advmod	_	_
@@ -951,18 +951,18 @@
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	tumode	ty	PRON	bi	Mood=Ind|Reflex=Yes|Tense=Fut	10	nsubj	_	_
 10	tugado	kado	VERB	v	Reflex=Yes	7	xcomp	_	_
-11	puiatowy	_	NOUN	_	_	10	obl	_	_
+11	puiatowy	_	NOUN	n	_	10	obl	_	_
 12	kae	kae	ADP	posp	Number=Sing|Person=3	11	case	_	_
-13	.	.	PUNCT	_	_	10	punct	_	_
+13	.	.	PUNCT	punct	_	10	punct	_	_
 14	Koroia	Koroia	NOUN	n	_	16	nsubj	_	_
 15	kaewyge	kae	NOUN	n	Nomzr=Rel|Number=Plur	14	nmod	_	_
 16	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	_	_	_	_
-17	woje	woje	ADV	_	_	16	advmod	_	_
-18	,	,	PUNCT	_	_	16	punct	_	_
-19	pagana	_	NOUN	_	_	14	conj	_	_
+17	woje	woje	ADV	adv	_	16	advmod	_	_
+18	,	,	PUNCT	punct	_	16	punct	_	_
+19	pagana	_	NOUN	n	_	14	conj	_	_
 20	koborewy	kabo	NOUN	n	Mood=Ind|Nomzr=Rel	19	nmod	_	_
-21	jaogwai	_	ADV	_	_	19	advmod	_	_
-22	.	_	PUNCT	_	_	19	punct	_	_
+21	jaogwai	_	ADV	adv	_	19	advmod	_	_
+22	.	_	PUNCT	punct	_	19	punct	_	_
 23	Kejari	Kejari	PROPN	propn	_	14	conj	_	_
 24	kaewyge	kaw	NOUN	n	Nomzr=Rel|Number=Plur	23	nmod	_	_
 25	woje	woje	ADV	adv	_	23	advmod	_	_
@@ -975,39 +975,39 @@
 # text_eng =
 # text_por = Sim! Ai os Bororo  foram embora, andando. Riam e gritavam alegres. O!  Enquanto partiam. Eles foram para lá, e nos viemos para cá, para Kejari
 1	Uw	uw	INTJ	_	_	5	discourse	_	_
-2	!	!	PUNCT	_	_	1	punct	_	_
-3	Icare	icare	ADV	_	_	5	advmod	_	_
-4	Boe	boe	NOUN	_	_	5	nsubj	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Icare	icare	ADV	adv	_	5	advmod	_	_
+4	Boe	boe	NOUN	n	_	5	nsubj	_	_
 5	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-6	taci	taci	ADV	_	_	5	advmod	_	_
-7	,	,	PUNCT	_	_	5	punct	_	_
-8	cai	cai	ADV	_	_	9	advmod	_	_
-9	tugodure	_	VERB	_	Mood=Ind|Reflex=Yes	5	advcl	_	_
-10	kodi	kodi	SCONJ	_	_	9	mark	_	_
-11	.	_	PUNCT	_	_	9	punct	_	_
+6	taci	taci	ADV	adv	_	5	advmod	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	cai	cai	ADV	adv	_	9	advmod	_	_
+9	tugodure	_	VERB	v	Mood=Ind|Reflex=Yes	5	advcl	_	_
+10	kodi	kodi	SCONJ	sconj	_	9	mark	_	_
+11	.	_	PUNCT	punct	_	9	punct	_	_
 12	Enoiogwarire	oiogwari	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
-13	,	,	PUNCT	_	_	12	punct	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
 14	ekudure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	12	conj	_	_
-15	,	,	PUNCT	_	_	14	punct	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
 16	tuiegare	iega	VERB	v	Mood=Ind|Reflex=Yes	14	obl	_	_
-17	tabo	tabo	ADP	_	_	16	case	_	_
-18	.	.	PUNCT	_	_	16	punct	_	_
+17	tabo	tabo	ADP	adp	_	16	case	_	_
+18	.	.	PUNCT	punct	_	16	punct	_	_
 19	Wo	wo	INTJ	_	_	22	discourse	_	_
-20	,	,	PUNCT	_	_	19	punct	_	_
-21	cai	cai	ADV	_	_	22	advmod	_	_
-22	tudure	ty	NOUN	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	cai	cai	ADV	adv	_	22	advmod	_	_
+22	tudure	ty	NOUN	n	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
 23	dyji	dyji	X	_	_	22	dep	_	_
-24	!	!	PUNCT	_	_	22	punct	_	_
-25	Erore	ro	VERB	_	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
-26	toro	toro	ADV	_	_	25	advcl	_	_
+24	!	!	PUNCT	punct	_	22	punct	_	_
+25	Erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
+26	toro	toro	ADV	adv	_	25	advcl	_	_
 27	ta	ta	X	_	_	25	dep	_	_
-28	...	...	PUNCT	_	_	25	punct	_	_
-29	Cerore	ro	VERB	_	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	25	conj	_	_
-30	woje	woje	ADV	_	_	29	advmod	_	_
+28	...	...	PUNCT	punct	_	25	punct	_	_
+29	Cerore	ro	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	25	conj	_	_
+30	woje	woje	ADV	adv	_	29	advmod	_	_
 31	ta	ta	X	_	_	29	dep	_	_
-32	...	...	PUNCT	_	_	29	punct	_	_
-33	Kejari	Kejari	PROPN	_	_	29	obl	_	_
-34	kae	kae	ADP	_	Number=Sing|Person=3	33	case	_	_
+32	...	...	PUNCT	punct	_	29	punct	_	_
+33	Kejari	Kejari	PROPN	propn	_	29	obl	_	_
+34	kae	kae	ADP	adp	Number=Sing|Person=3	33	case	_	_
 
 # sent_id = CoqueiroAutobio-20
 # text = U ! Boe motyre cedododai . Nowy cemedage ma , boe motyre toro etododai jamedy
@@ -1016,7 +1016,7 @@
 1	Uw	uw	INTJ	intj	_	4	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 3	Boe	boe	NOUN	n	Number=Plur	4	nsubj	_	_
-4	motyre	moty	VERB	_	Mood=Ind	0	root	_	_
+4	motyre	moty	VERB	v	Mood=Ind	0	root	_	_
 5	cedododai	_	ADP	posp	Clusivity=Ex|Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Nowy	nowy	DET	dem	Deixis=Med	8	det	_	_
@@ -1036,14 +1036,14 @@
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	cedaregodyre	aregody	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
-4	Ia	ia	DET	_	PronType=Art	5	det	_	_
+4	ia	ia	DET	art	Definite=Ind|PronType=Art	5	det	_	_
 5	boe	boe	NOUN	n	Number=Plur	6	nsubj	_	_
 6	ewogware	bokwa	VERB	v	Mood=Ind|Number=Plur|Person=3	2	conj	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
-8	ia	ia	DET	_	PronType=Art	9	det	_	_
+8	ia	ia	DET	art	Definite=Ind|PronType=Art	9	det	_	_
 9	boe	boe	NOUN	n	Number=Plur	10	nsubj	_	_
 10	ewire	bire	VERB	vi	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
-11	Kejari	Kejari	PROPN	_	_	10	obl	_	_
+11	Kejari	Kejari	PROPN	propn	_	10	obl	_	_
 12	keje	keje	ADP	posp	Number=Sing|Person=3	11	case	_	_
 13	,	,	PUNCT	punct	_	10	punct	_	_
 14	dykae	_	SCONJ	sconj	_	16	mark	_	_
@@ -1056,7 +1056,7 @@
 21	dykaere	_	ADV	adv	_	22	advmod	_	_
 22	cedaregodyre	_	VERB	v	_	2	parataxis	_	_
 23	,	,	PUNCT	punct	_	22	punct	_	_
-24	ia	ia	DET	_	PronType=Art	25	det	_	_
+24	ia	ia	DET	art	Definite=Ind|PronType=Art	25	det	_	_
 25	etumedyia	_	NOUN	n	Number=Sing|Person=3	26	nsubj	_	_
 26	bire	bire	VERB	vi	Mood=Ind|Number=Sing|Person=3	22	advcl	_	_
 27	dykae	dykae	SCONJ	sconj	_	26	mark	_	_
@@ -1069,13 +1069,13 @@
 2	padyre	ty	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	0	root	_	_
 3	ba	ba	NOUN	n	Number=Sing	4	nsubj	_	_
 4	oiadoda	poiadoda	ADP	posp	Number=Sing|Person=3	2	advcl	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-6	Dykaere	dykae	SCONJ	_	Mood=Ind	7	mark	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+6	Dykaere	dykae	SCONJ	sconj	Mood=Ind	7	mark	_	_
 7	cedaregodyre	aregody	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	2	advcl	_	_
-8	.	,	PUNCT	_	_	7	punct	_	_
+8	.	,	PUNCT	punct	_	7	punct	_	_
 9	Kodi	kodi	ADV	adc	_	16	advmod	_	_
 10	icare	icare	ADV	adv	_	9	compound	_	_
-11	,	,	PUNCT	_	_	9	punct	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
 12	nowy	nowy	DET	dem	Deixis=Med	13	det	_	_
 13	ceroino	ro	VERB	v	Clusivity=Ex|Number=Plur|Person=1	16	nsubj	_	_
 14	apowu	apo	ADP	posp	Nomzr=Rel	13	obl	_	_
@@ -1083,9 +1083,9 @@
 16	eragodyre	_	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 17	,	,	PUNCT	punct	_	16	punct	_	_
 18	nowy	nowy	DET	dem	Deixis=Med	19	det	_	_
-19	birewy	bire	NOUN	_	Nomzr=Rel	16	obl	_	_
+19	birewy	bire	NOUN	n	Nomzr=Rel	16	obl	_	_
 20	keje	keje	ADP	posp	Number=Sing|Person=3	19	case	_	_
-21	.	.	PUNCT	_	_	19	punct	_	_
+21	.	.	PUNCT	punct	_	19	punct	_	_
 22	Uw	uw	INTJ	intj	_	25	discourse	_	_
 23	!	!_	PUNCT	punct	_	22	punct	_	_
 24	Boe	boe	NOUN	n	Number=Plur	25	nsubj	_	_
@@ -1136,22 +1136,22 @@
 # text_por = Entre os que eu conheci estavam Meriri Poro e seu colega Kaboreu (chefes da metade dos fortes) Entre os que conheci  estavam Bakoro Kudu e seu colega Akaruio Bokodori (chefes da metade dos fracos)
 1	Iorydyware	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	jiwygere	ji	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	1	ccomp	_	_
-3	Meriri	Meriri	PROPN	_	_	2	appos	_	_
-4	Poro	Poro	PROPN	_	_	3	compound	_	_
-5	,	,	PUNCT	_	_	3	punct	_	_
+3	Meriri	Meriri	PROPN	propn	_	2	appos	_	_
+4	Poro	Poro	PROPN	propn	_	3	compound	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
 6	metyiare	metyia	NOUN	n	Mood=Ind	2	conj	_	_
 7	Kamoreu	Kamoreu	PROPN	propn	_	6	appos	_	_
 8	,	,	PUNCT	propn	_	7	punct	_	_
-9	tugarege	tugaregedy	NOUN	_	Number=Plur	7	appos	_	_
-10	.	.	PUNCT	_	_	7	punct	_	_
-11	Iorydyware	_	VERB	_	_	1	parataxis	_	_
+9	tugarege	tugaregedy	NOUN	n	Number=Plur	7	appos	_	_
+10	.	.	PUNCT	punct	_	7	punct	_	_
+11	Iorydyware	_	VERB	v	_	1	parataxis	_	_
 12	jiwygere	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1	11	ccomp	_	_
 13	Bakoro	Bakoro	PROPN	propn	_	12	appos	_	_
 14	Kudu	Kudu	PROPN	propn	_	13	compound	_	_
 15	,	,	PUNCT	punct	_	13	punct	_	_
 16	metyia	metyia	NOUN	n	_	12	conj	_	_
-17	Akaruio	Akaruio	PROPN	_	_	16	appos	_	_
-18	Bokodori	Bokodori	PROPN	_	_	17	compound	_	_
+17	Akaruio	Akaruio	PROPN	propn	_	16	appos	_	_
+18	Bokodori	Bokodori	PROPN	propn	_	17	compound	_	_
 19	,	,	PUNCT	punct	_	17	punct	_	_
 20	cerae	cerae	NOUN	n	Number=Sing	17	appos	_	_
 
@@ -1198,22 +1198,22 @@
 # text_eng =
 # text_por = Aí o chefe Bakoro Kudu fez discurso dizendo: - Sim! Por isso eu falo assim...para vocês meus filhos, para vocês meninos
 1	Dykeje	dykeje	ADV	adv	_	5	advmod	_	_
-2	Badojeba	Badojeba	NOUN	_	_	5	nsubj	_	_
-3	Bakoro	Bakoro	PROPN	_	_	2	appos	_	_
-4	Kudu	Kudu	PROPN	_	_	3	compound	_	_
+2	Badojeba	Badojeba	NOUN	n	_	5	nsubj	_	_
+3	Bakoro	Bakoro	PROPN	propn	_	2	appos	_	_
+4	Kudu	Kudu	PROPN	propn	_	3	compound	_	_
 5	uwadodyre	wadody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-6	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	5	xcomp	_	_
-7	:	:	PUNCT	_	_	6	punct	_	_
+6	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	5	xcomp	_	_
+7	:	:	PUNCT	punct	_	6	punct	_	_
 8	Uw	uw	INTJ	intj	_	11	discourse	_	_
-9	,	,	PUNCT	_	_	8	punct	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
 10	kodire	kodi	ADV	adv	Mood=Ind	11	advmod	_	_
-11	inago	ako	VERB	_	Number=Sing|Person=1	6	cc	_	_
-12	oino	oino	ADV	_	_	11	advmod	_	_
-13	...	...	PUNCT	_	_	11	punct	_	_
+11	inago	ako	VERB	v	Number=Sing|Person=1	6	cc	_	_
+12	oino	oino	ADV	adv	_	11	advmod	_	_
+13	...	...	PUNCT	punct	_	11	punct	_	_
 14	itore	oro	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
 15	tagae	kae	ADP	posp	Number=Plur|Person=2	11	obl	_	_
-16	,	,	PUNCT	_	_	15	punct	_	_
-17	imedymage	imedy	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	imedymage	imedy	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
 18	tagae	kae	ADP	posp	Number=Plur|Person=2	15	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-01
@@ -1241,7 +1241,7 @@
 # text = Icare karore togwa to ji
 # text_eng = Then, the fish took the bait
 # text_por = Então, o peixe mordeu a isca
-1	Icare	icare	ADV	_	_	4	_	_	_
+1	Icare	icare	ADV	adv	_	4	_	_	_
 2	karore	karo	NOUN	n	Mood=Ind	4	_	_	_
 3	togwa	okwa	NOUN	n	Reflex=Yes	4	_	_	_
 4	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
@@ -1252,24 +1252,24 @@
 # text_eng = The man pulled (it) out saying: how is it? while pulling out
 # text_por = (O homem) puxou, dizendo: Como  será? Enquanto puxava
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
-2	tumugudo	mugudo	VERB	_	Reflex=Yes	4	advcl	_	_
-3	keje	keje	SCONJ	_	_	2	mark	_	_
+2	tumugudo	mugudo	VERB	v	Reflex=Yes	4	advcl	_	_
+3	keje	keje	SCONJ	sconj	_	2	mark	_	_
 4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-5	:	:	PUNCT	_	_	4	punct	_	_
+5	:	:	PUNCT	punct	_	4	punct	_	_
 6	inoba	inoba	ADV	adv	PronType=Int	7	advmod	_	_
 7	boemode	boe	VERB	v	Mood=Ind|Tense=Fut	4	conj	_	_
-8	?	?	PUNCT	_	_	7	punct	_	_
+8	?	?	PUNCT	punct	_	7	punct	_	_
 9	Tui	ty	PRON	_	Reflex=Yes|VerbForm=Ger	10	nsubj	_	_
-10	tumugudo	mugudo	VERB	_	Reflex=Yes|Voice=Cau	4	advcl	_	_
-11	keje	keje	SCONJ	_	_	10	mark	_	_
+10	tumugudo	mugudo	VERB	v	Reflex=Yes|Voice=Cau	4	advcl	_	_
+11	keje	keje	SCONJ	sconj	_	10	mark	_	_
 
 # sent_id = OiegoJiwuBakaru-05
 # text = Akore hm !
 # text_eng = he said hm! (pulled strongly)
 # text_por = Disse hm (puxou com força)
-1	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	hm	hm	X	x	_	1	ccomp	_	_
-3	!	!	PUNCT	_	_	1	punct	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-06
 # text = Icare nowy karo kugudugodyre
@@ -1278,7 +1278,7 @@
 1	Icare	icare	ADV	adv	_	4	advmod	_	_
 2	nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
 3	karo	karo	NOUN	n	Number=Sing	4	nsubj	_	_
-4	kugudugodyre	kugudugodu	VERB	_	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	kugudugodyre	kugudugodu	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = OiegoJiwuBakaru-07
 # text = Icare ure to urubaru to . Ure tumugudo keje pobo piji , boe ao kae
@@ -1288,7 +1288,7 @@
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 3	to	to	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 4	urubaru	urubaru	VERB	v	_	0	root	_	_
-5	to	to	ADP	_	Number=Sing|Person=3	4	obl	_	_
+5	to	to	ADP	adp	Number=Sing|Person=3	4	obl	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
 8	tumugudo	tumugudo	VERB	v	_	4	parataxis	_	_
@@ -1375,7 +1375,7 @@
 9	ji	ji	ADP	posp	Number=Sing|Person=3	8	obl	_	_
 10	,	,	PUNCT	punct	_	8	punct	_	_
 11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
-12	iado	_	VERB	_	Voice=Cau	4	conj	_	_
+12	iado	_	VERB	v	Voice=Cau	4	conj	_	_
 13	,	,	PUNCT	punct	_	12	punct	_	_
 14	icare	icare	ADV	adv	_	16	advmod	_	_
 15	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	16	nsubj	_	_
@@ -1469,7 +1469,7 @@
 9	ire	i	PRON	bi	Mood=Ind|Number=Ind|Person=1	11	nsubj	_	_
 10	karo	karo	NOUN	n	Number=Sing	11	obj	_	_
 11	bito	bito	VERB	vt	_	1	parataxis	_	_
-12	,	,	PUNCT	_	_	11	punct	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
 13	inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Ind|Person=1	15	nsubj	_	_
 14	ikedy	edy	VERB	v	Number=Sing|Person=1	15	dep	_	_
 15	amado	ama	VERB	v	Voice=Cau	11	conj	_	_
@@ -1482,22 +1482,22 @@
 1	Ore	oredy	NOUN	n	Number=Sing	3	nsubj	_	_
 2	kugure	_	NOUN	n	Mood=Ind	1	nmod	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-4	:	:	PUNCT	_	_	3	punct	_	_
+4	:	:	PUNCT	punct	_	3	punct	_	_
 5	He	_	X	_	_	3	ccomp	_	_
 6	e	_	X	_	_	5	conj	_	_
-7	!	!	PUNCT	_	_	5	punct	_	_
+7	!	!	PUNCT	punct	_	5	punct	_	_
 8	He	_	X	_	_	5	conj	_	_
 9	e	_	X	_	_	8	conj	_	_
-10	!	!	PUNCT	_	_	8	punct	_	_
+10	!	!	PUNCT	punct	_	8	punct	_	_
 11	He	_	X	_	_	5	conj	_	_
 12	e	_	X	_	_	11	conj	_	_
-13	!	!	PUNCT	_	_	11	punct	_	_
+13	!	!	PUNCT	punct	_	11	punct	_	_
 14	Page	ke	NOUN	n	Clusivity=In|Number=Plur|Person=1	15	nmod	_	_
 15	karorogu	karo	NOUN	n	Degree=Dim	3	ccomp	_	_
-16	,	,	PUNCT	_	_	15	punct	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
 17	page	ke	NOUN	n	Clusivity=In|Number=Plur|Person=1	18	nmod	_	_
 18	karorogu	karo	NOUN	n	Degree=Dim	15	conj	_	_
-19	!	_	PUNCT	_	_	18	punct	_	_
+19	!	_	PUNCT	punct	_	18	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-17
 # text = Icare ure kagirido ty ... Ure iado , icare akore : Kodoro ! Pawo kogudo !
@@ -1509,12 +1509,12 @@
 4	ty	ty	ADV	adv	_	3	advmod	_	_
 5	...	...	PUNCT	punct	_	3	punct	_	_
 6	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	_	_	_
-7	iado	_	VERB	_	Voice=Cau	3	parataxis	_	_
+7	iado	_	VERB	v	Voice=Cau	3	parataxis	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	icare	ica	ADV	adv	_	10	advmod	_	_
-10	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+10	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 11	:	:	PUNCT	punct	_	10	punct	_	_
-12	Kodoro	_	NOUN	_	_	10	cc	_	_
+12	Kodoro	_	NOUN	n	_	10	cc	_	_
 13	!	!	PUNCT	punct	_	12	punct	_	_
 14	Pawo	pa	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	15	nsubj	_	_
 15	kogudo	kogu	VERB	v	Number=Sing|Person=3|Voice=Cau	12	conj	_	_
@@ -1571,21 +1571,21 @@
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	beregodyre	bere	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	5	advmod	_	_
 3	dykejere	dykeje	SCONJ	sconj	Mood=Ind	2	mark	_	_
-4	,	_	PUNCT	_	_	2	punct	_	_
+4	,	_	PUNCT	punct	_	2	punct	_	_
 5	akogodyre	ako	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
-6	pugeje	pugeje	ADV	_	_	5	advmod	_	_
-7	.	.	PUNCT	_	_	5	punct	_	_
-8	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
-9	:	:	PUNCT	_	_	8	punct	_	_
+6	pugeje	pugeje	ADV	adv	_	5	advmod	_	_
+7	.	.	PUNCT	punct	_	5	punct	_	_
+8	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
+9	:	:	PUNCT	punct	_	8	punct	_	_
 10	hm	_	X	_	_	8	ccomp	_	_
-11	,	_	PUNCT	_	_	10	punct	_	_
+11	,	_	PUNCT	punct	_	10	punct	_	_
 12	hm	_	X	_	_	10	conj	_	_
-13	,	_	PUNCT	_	_	12	punct	_	_
+13	,	_	PUNCT	punct	_	12	punct	_	_
 14	hm	_	X	_	_	10	conj	_	_
-15	,	,	PUNCT	_	_	14	punct	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
 16	nowy	nowy	DET	dem	Deixis=Med	17	det	_	_
-17	tuwere	_	NOUN	_	_	18	nsubj	_	_
-18	inody	inody	ADV	_	_	10	conj	_	_
+17	tuwere	_	NOUN	n	_	18	nsubj	_	_
+18	inody	inody	ADV	adv	_	10	conj	_	_
 19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
 
 # sent_id = OiegoJiwuBakaru-21
@@ -1632,20 +1632,20 @@
 # text = Icare akogodyre pugeje , akore : hm , hm , hm , hm !
 # text_eng = The it started speaking again and said hm , hm , hm , hm !
 # text_por = Depois começou a falar de novo e disse : hm , hm , hm , hm !
-1	Icare	Icare	ADV	_	_	2	advmod	_	_
+1	Icare	Icare	ADV	adv	_	2	advmod	_	_
 2	akogodyre	ako	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	pugeje	pugeje	ADV	_	_	2	advmod	_	_
-4	,	,	PUNCT	_	_	2	punct	_	_
-5	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	2	conj	_	_
-6	:	:	PUNCT	_	_	5	punct	_	_
+3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	conj	_	_
+6	:	:	PUNCT	punct	_	5	punct	_	_
 7	hm	_	X	_	_	5	cc	_	_
-8	,	,	PUNCT	_	_	7	punct	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
 9	hm	_	X	_	_	7	conj	_	_
-10	,	,	PUNCT	_	_	9	punct	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
 11	hm	_	X	_	_	7	conj	_	_
-12	,	,	PUNCT	_	_	11	punct	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
 13	hm	_	X	_	_	7	conj	_	_
-14	!	!	PUNCT	_	_	13	punct	_	_
+14	!	!	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-24
 # text = Icare akore : Woie ... igo ! Woie ... igo ! Woie ... igo ! Woere ikodure , woere itugudyre
@@ -1662,15 +1662,15 @@
 9	...	_	PUNCT	punct	_	8	punct	_	_
 10	igo	_	X	x	_	6	conj	_	_
 11	!	!	PUNCT	punct	_	10	punct	_	_
-12	Woie	_	ADV	_	_	14	advmod	_	_
+12	Woie	_	ADV	adv	_	14	advmod	_	_
 13	...	...	PUNCT	punct	_	12	punct	_	_
 14	igo	_	X	x	_	6	conj	_	_
 15	!	!	PUNCT	punct	_	14	punct	_	_
 16	Woere	_	ADV	adv	_	17	advmod	_	_
 17	ikodure	kodu	VERB	n	Mood=Ind|Number=Sing|Person=3	6	conj	_	meat,cook meat;carne,cozinhar carne
 18	,	,	PUNCT	punct	_	17	punct	_	_
-19	woere	_	ADV	_	_	20	advmod	_	_
-20	itugudyre	tugudu	VERB	_	Mood=Ind|Number=Sing|Person=3	6	ccomp	_	cook,burry;cozinhar,enterrar
+19	woere	_	ADV	adv	_	20	advmod	_	_
+20	itugudyre	tugudu	VERB	v	Mood=Ind|Number=Sing|Person=3	6	ccomp	_	cook,burry;cozinhar,enterrar
 
 # sent_id = OiegoJiwuBakaru-25
 # text = Icare kodyre . Icare ure tawyje . Icare ore kugure ere kowyje
@@ -1681,7 +1681,7 @@
 3	.	.	PUNCT	punct	_	2	punct	_	_
 4	Icare	icare	ADV	adv	_	6	advmod	_	_
 5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
-6	tawyje	tawyje	VERB	_	Number=Sing|Person=3	2	parataxis	_	_
+6	tawyje	tawyje	VERB	v	Number=Sing|Person=3	2	parataxis	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 8	Icare	icare	ADV	adv	_	12	advmod	_	_
 9	ore	oro/onaregedy	NOUN	n	Number=Plur	11	dep	_	_
@@ -1696,10 +1696,10 @@
 1	Dykeje	dykeje	ADV	adv	_	5	advmod	_	_
 2	icare	icare	ADV	adv	_	5	advmod	_	_
 3	ere	e	PRON	bi	Number=Plur|Person=3	5	nsubj	_	_
-4	batagaje	batagaje	NOUN	_	_	5	obj	_	feather collar;colar de penas
+4	batagaje	batagaje	NOUN	n	_	5	obj	_	feather collar;colar de penas
 5	towyje	towyje	VERB	vt	Number=Sing|Person=3	0	root	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	batagaje	batagaje	NOUN	_	_	4	appos	_	_
+7	batagaje	batagaje	NOUN	n	_	4	appos	_	_
 8	oia	oia	NOUN	n	_	9	nmod	_	_
 9	kujagurewy	kujagu	NOUN	n	Mood=Ind|Nomzr=Rel	7	nmod	_	_
 10	,	,	PUNCT	punct	Mood=Ind|Nomzr=Rel	7	punct	_	_
@@ -1741,7 +1741,7 @@
 18	,	,	PUNCT	punct	_	17	punct	_	_
 19	tuwo	ty	PRON	bi	Mood=Sub|Reflex=Yes	20	nsubj	_	_
 20	roia	roia	NOUN	n	_	21	obj	_	_
-21	ta	_	VERB	_	_	4	xcomp	_	_
+21	ta	_	VERB	v	_	4	xcomp	_	_
 22	tabo	apo	ADP	posp	Numer=Sing|Person=3	21	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-28
@@ -1749,18 +1749,18 @@
 # text_eng = 
 # text_por = Então Tadugo pegou o cinto-chocalho, e segurou a mão de Ki Bakororo
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
-2	Tadugore	Tadugore	PROPN	_	_	3	nsubj	_	_
+2	Tadugore	Tadugore	PROPN	propn	_	3	nsubj	_	_
 3	tugeragu	tugeragu	VERB	v	_	0	root	_	_
 4	butore	butore	NOUN	n	_	3	obl	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	,	,	PUNCT	punct	_	3	punct	_	_
 7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
-8	tugera	iera	NOUN	_	Numer=Sing|Reflex=Yes	9	obj	_	_
-9	kogudo	kogu	VERB	_	Voice=Cau	3	conj	_	_
-10	Ki	Ki	PROPN	_	_	13	nmod	_	_
-11	Bakororo	Bakororo	PROPN	_	_	10	compound	_	_
-12	iera	iera	NOUN	_	_	13	nmod	_	_
-13	ra	ra	NOUN	_	_	9	obl	_	_
+8	tugera	iera	NOUN	n	Numer=Sing|Reflex=Yes	9	obj	_	_
+9	kogudo	kogu	VERB	v	Voice=Cau	3	conj	_	_
+10	Ki	Ki	PROPN	propn	_	13	nmod	_	_
+11	Bakororo	Bakororo	PROPN	propn	_	10	compound	_	_
+12	iera	iera	NOUN	n	_	13	nmod	_	_
+13	ra	ra	NOUN	n	_	9	obl	_	_
 14	parugajeje	parugajeje	ADP	posp	Number=Sing|Person=3	13	case	_	_
 
 # sent_id = OiegoJiwuBakaru-29
@@ -1827,15 +1827,15 @@
 11	,	,	PUNCT	punct	_	9	punct	_	_
 12	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	6	conj	_	_
 13	:	:	PUNCT	punct	_	12	punct	_	_
-14	Oieigo	Oieigo	PROPN	_	_	15	nmod	_	_
+14	Oieigo	Oieigo	PROPN	propn	_	15	nmod	_	_
 15	jetuiaga	_	X	_	_	12	cc	_	_
 16	,	,	PUNCT	punct	_	15	punct	_	_
-17	Bokodoriware	_	PROPN	_	_	18	nmod	_	_
+17	Bokodoriware	_	PROPN	propn	_	18	nmod	_	_
 18	iga	_	NOUN	n	_	20	nsubj	_	_
 19	oieigo	_	PROPN	propn	_	20	obj	_	_
 20	wararere	barare	VERB	v	_	12	parataxis	_	_
 21	,	,	PUNCT	punct	_	20	punct	_	_
-22	tagaruio	_	NOUN	_	_	23	nmod	_	_
+22	tagaruio	_	NOUN	n	_	23	nmod	_	_
 23	Bokuojeba	Bokuojeba	PROPN	propn	_	20	obl	_	_
 24	Bakororo	Bakororo	PROPN	propn	_	23	compound	_	_
 25	tuiagajejewy	_	ADP	posp	Reflex=Yes	23	case	_	_
@@ -1871,118 +1871,118 @@
 5	cimo	cimo	_	_	_	_	_	_	_
 6	nonogo	nonogo	NOUN	n	_	3	obl	_	_
 7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
-8	,	,	PUNCT	PUNCT	_	3	punct	_	_
+8	,	,	PUNCT	PUNCT	punct	3	punct	_	_
 9	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 10	nowy	nowy	DET	dem	Deixis=Med	12	det	_	_
 11	cimo	cimo	_	_	_	_	_	_	_
 12	kidoguru	kidoguru	NOUN	n	Number=Sing	9	obl	_	resine;resina
 13	ji	ji	ADP	posp	Number=Sing|Person=3	12	case	_	_
-14	,	,	PUNCT	PUNCT	_	9	punct	_	_
+14	,	,	PUNCT	PUNCT	punct	9	punct	_	_
 15	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 16	nowy	nowy	DET	dem	Deixis=Med	18	det	_	_
 17	cimo	cimo	_	_	_	_	_	_	_
-18	kiogoagiri	kiogoagiri	NOUN	_	_	15	obl	_	_
+18	kiogoagiri	kiogoagiri	NOUN	n	_	15	obl	_	_
 19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
-20	,	,	PUNCT	PUNCT	_	15	punct	_	_
+20	,	,	PUNCT	PUNCT	punct	15	punct	_	_
 21	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 22	nowy	nowy	DET	dem	Deixis=Med	25	det	_	_
 23	cimo	_	_	_	_	_	_	_	_
-24	kuje	_	NOUN	_	_	25	nmod	_	_
-25	bo	_	NOUN	_	_	21	obl	_	feathering;plumagem
+24	kuje	_	NOUN	n	_	25	nmod	_	_
+25	bo	_	NOUN	n	_	21	obl	_	feathering;plumagem
 26	ji	ji	ADP	posp	Number=Sing|Person=3	25	case	_	_
-27	,	,	PUNCT	PUNCT	_	21	punct	_	_
+27	,	,	PUNCT	PUNCT	punct	21	punct	_	_
 28	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 29	nowy	nowy	DET	dem	Deixis=Med	32	det	_	_
 30	cimo	_	_	_	_	_	_	_	_
 31	nabure	nabure	NOUN	n	Number=Sing	32	nmod	_	_
 32	bu	bu	NOUN	n	Number=Sing	28	obl	_	_
 33	ji	ji	ADP	posp	Number=Sing|Person=3	32	case	_	_
-34	,	,	PUNCT	PUNCT	_	28	punct	_	_
+34	,	,	PUNCT	PUNCT	punct	28	punct	_	_
 35	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 36	nowy	nowy	DET	dem	Deixis=Med	39	det	_	_
 37	cimo	_	_	_	_	_	_	_	_
 38	nabure	nabure	NOUN	n	Number=Sing	39	nmod	_	_
-39	oiaga	_	NOUN	_	_	35	obl	_	_
+39	oiaga	_	NOUN	n	_	35	obl	_	_
 40	ji	ji	ADP	posp	Number=Sing|Person=3	39	case	_	_
-41	,	,	PUNCT	PUNCT	_	35	punct	_	_
-42	kuido	_	NOUN	_	_	43	nmod	_	_
-43	oiaga	_	NOUN	_	_	39	obl	_	_
+41	,	,	PUNCT	PUNCT	punct	35	punct	_	_
+42	kuido	_	NOUN	n	_	43	nmod	_	_
+43	oiaga	_	NOUN	n	_	39	obl	_	_
 44	ji	ji	ADP	posp	Number=Sing|Person=3	43	case	_	_
-45	,	,	PUNCT	PUNCT	_	43	punct	_	_
+45	,	,	PUNCT	PUNCT	punct	43	punct	_	_
 46	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 47	nowy	nowy	DET	dem	Deixis=Med	50	det	_	_
 48	cimo	_	_	_	_	_	_	_	_
 49	nabure	nabure	NOUN	n	Number=Sing	50	nmod	_	_
-50	aro	_	NOUN	_	_	46	obl	_	_
+50	aro	_	NOUN	n	_	46	obl	_	_
 51	ji	ji	ADP	posp	Number=Sing|Person=3	50	case	_	_
-52	,	,	PUNCT	PUNCT	_	46	punct	_	_
-53	kuido	_	NOUN	_	_	54	nmod	_	_
-54	aro	_	NOUN	_	_	50	obl	_	_
+52	,	,	PUNCT	PUNCT	punct	46	punct	_	_
+53	kuido	_	NOUN	n	_	54	nmod	_	_
+54	aro	_	NOUN	n	_	50	obl	_	_
 55	ji	ji	ADP	posp	Number=Sing|Person=3	54	case	_	_
-56	,	,	PUNCT	PUNCT	_	54	punct	_	_
+56	,	,	PUNCT	PUNCT	punct	54	punct	_	_
 57	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 58	nowy	nowy	DET	dem	Deixis=Med	62	det	_	_
 59	tuie	_	PRON	_	_	60	nmod	_	_
-60	kejewy	_	NOUN	_	_	62	nmod	_	_
-61	ciwaboe	_	NOUN	_	_	62	nmod	_	_
-62	etoiaga	_	NOUN	_	_	57	obl	_	_
+60	kejewy	_	NOUN	n	_	62	nmod	_	_
+61	ciwaboe	_	NOUN	n	_	62	nmod	_	_
+62	etoiaga	_	NOUN	n	_	57	obl	_	_
 63	ji	ji	ADP	posp	Number=Sing|Person=3	62	case	_	_
-64	,	,	PUNCT	PUNCT	_	57	punct	_	_
+64	,	,	PUNCT	PUNCT	punct	57	punct	_	_
 65	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-66	tuguie	_	NOUN	_	_	67	nmod	_	_
-67	bokodori	_	NOUN	_	_	65	obl	_	_
+66	tuguie	_	NOUN	n	_	67	nmod	_	_
+67	bokodori	_	NOUN	n	_	65	obl	_	_
 68	ji	ji	ADP	posp	Number=Sing|Person=3	67	case	_	_
-69	,	,	PUNCT	PUNCT	_	65	punct	_	_
+69	,	,	PUNCT	PUNCT	punct	65	punct	_	_
 70	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-71	tuguie	_	NOUN	_	_	70	obl	_	_
-72	akigu	_	NOUN	_	_	71	nmod	_	_
+71	tuguie	_	NOUN	n	_	70	obl	_	_
+72	akigu	_	NOUN	n	_	71	nmod	_	_
 73	ji	ji	ADP	posp	Number=Sing|Person=3	72	case	_	_
-74	,	,	PUNCT	PUNCT	_	70	punct	_	_
+74	,	,	PUNCT	PUNCT	punct	70	punct	_	_
 75	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-76	tuguie	_	NOUN	_	_	75	obl	_	_
-77	meriri	_	NOUN	_	_	76	nmod	_	_
+76	tuguie	_	NOUN	n	_	75	obl	_	_
+77	meriri	_	NOUN	n	_	76	nmod	_	_
 78	ji	ji	ADP	posp	Number=Sing|Person=3	76	case	_	_
-79	,	,	PUNCT	PUNCT	_	75	punct	_	_
+79	,	,	PUNCT	PUNCT	punct	75	punct	_	_
 80	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-81	uworo	_	NOUN	_	_	82	nmod	_	_
-82	aroeceba	_	NOUN	_	_	80	obl	_	_
+81	uworo	_	NOUN	n	_	82	nmod	_	_
+82	aroeceba	_	NOUN	n	_	80	obl	_	_
 83	ji	ji	ADP	posp	Number=Sing|Person=3	82	case	_	_
-84	,	,	PUNCT	PUNCT	_	80	punct	_	_
+84	,	,	PUNCT	PUNCT	punct	80	punct	_	_
 85	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-86	tuworo	_	NOUN	_	_	87	nmod	_	_
-87	kuruguga	_	NOUN	_	_	85	obl	_	_
+86	tuworo	_	NOUN	n	_	87	nmod	_	_
+87	kuruguga	_	NOUN	n	_	85	obl	_	_
 88	ji	ji	ADP	posp	Number=Sing|Person=3	87	case	_	_
-89	,	,	PUNCT	PUNCT	_	85	punct	_	_
+89	,	,	PUNCT	PUNCT	punct	85	punct	_	_
 90	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 91	tui	_	PRON	_	_	92	nmod	_	_
-92	aroedu	_	NOUN	_	_	90	obl	_	_
-93	puje	_	NOUN	_	_	92	nmod	_	_
-94	dyji	dyji	ADP	_	_	92	case	_	_
-95	,	,	PUNCT	PUNCT	_	90	punct	_	_
+92	aroedu	_	NOUN	n	_	90	obl	_	_
+93	puje	_	NOUN	n	_	92	nmod	_	_
+94	dyji	dyji	ADP	adp	_	92	case	_	_
+95	,	,	PUNCT	PUNCT	punct	90	punct	_	_
 96	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-97	tuwiadawu	_	NOUN	_	_	96	obl	_	_
+97	tuwiadawu	_	NOUN	n	_	96	obl	_	_
 98	cugui	cugui	NOUN	n	_	99	nmod	_	_
 99	biri	biri	NOUN	n	_	97	nmod	_	_
 100	ji	ji	ADP	posp	Number=Sing|Person=3	97	case	_	_
-101	,	,	PUNCT	PUNCT	_	96	punct	_	_
+101	,	,	PUNCT	PUNCT	punct	96	punct	_	_
 102	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 103	tadugo	atugo	NOUN	n	_	104	nmod	_	_
 104	Bakororo	Bakororo	PROPN	propn	_	105	nmod	_	_
 105	atugo	atugo	NOUN	n	_	102	obl	_	_
 106	ji	ji	ADP	posp	Number=Sing|Person=3	105	case	_	_
-107	,	,	PUNCT	PUNCT	_	102	punct	_	_
+107	,	,	PUNCT	PUNCT	punct	102	punct	_	_
 108	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-109	turijo	_	NOUN	_	_	110	nmod	_	_
+109	turijo	_	NOUN	n	_	110	nmod	_	_
 110	oinono	oinono	ADV	adv	_	111	advmod	_	_
-111	pureore	reore	NOUN	_	Mood=Ind|Reflex=Yes	108	obl	_	_
+111	pureore	reore	NOUN	n	Mood=Ind|Reflex=Yes	108	obl	_	_
 112	dyji	dyji	ADP	posp	Number=Sing|Person=3	111	case	_	_
-113	,	,	PUNCT	PUNCT	_	108	punct	_	_
+113	,	,	PUNCT	PUNCT	punct	108	punct	_	_
 114	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 115	tuwaiga	iwaiga	NOUN	n	Reflex=Yes	116	nmod	_	_
 116	ao	ao	NOUN	n	_	111	conj	_	_
 117	keje	keje	ADP	posp	Number=Sing	116	case	_	_
 118	dyji	dyji	ADP	posp	Number=Sing|Person=3	116	case	_	_
-119	,	,	PUNCT	PUNCT	_	116	punct	_	_
+119	,	,	PUNCT	PUNCT	punct	116	punct	_	_
 120	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 121	Aije	Aije	PROPN	propn	_	111	conj	_	_
 122	ji	ji	ADP	posp	Number=Sing|Person=3	121	case	_	_
@@ -2035,7 +2035,7 @@
 # text_por = Depois disso, a partir de Meruri, nos fomos para Corrego Grande
 1	Dykodi	dykodi	ADV	adv	_	2	case	_	_
 2	awy	awy	DET	dem	Deixis=Prox	6	obl	_	_
-3	Meruri	Meruri	PROPN	_	_	4	nmod	_	_
+3	Meruri	Meruri	PROPN	propn	_	4	nmod	_	_
 4	paru	paru	NOUN	n	_	6	obl	_	_
 5	piji	piji	ADP	posp	_	4	case	_	_
 6	cedu	ty	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
@@ -2071,7 +2071,7 @@
 # text = Dykodi nowyge , iorydy motyre ego oino dyji
 # text_eng = Because of these things, I saw that their saying was thus beautiful
 # text_por = Por causa destas coisas, então este eu vi a beleza da língua deles assim (eu achei a língua deles bonita)
-1	Dykodi	dykodi	ADP	_	_	2	case	_	_
+1	Dykodi	dykodi	ADP	adp	_	2	case	_	_
 2	nowyge	nowy	PRON	pron	Number=Plur|PronType=Dem	4	obl	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	iorydy	jorydy	VERB	v	Number=Sing|Person=1	0	root	_	_
@@ -2155,7 +2155,7 @@
 # text_eng = As for me, I get sad with thsi fact
 # text_por = Quanto a mim, eu me entristeço por isso
 1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_
-2	,	,	PUNCT	_	_	1	punct	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ikiarigodyre	kiarigody	_	_	Aspect=Inc|Mood=Ind|Number=Sing|Person=1	0	root	_	_
 4	nowy	nowy	DET	dem	Deixis=Med	5	det	_	_
 5	inody	inody	NOUN	n	_	3	obl	_	_
@@ -2199,7 +2199,7 @@
 # text = Itaiwore ty oino pawobe ei , inogudure ty pudabo pagore kugure ebo
 # text_eng = I see our people, I pity our small children
 # text_por = Eu vejo o nosso povo, eu fico com pena dos nosso filhoses pequenos
-1	Itaiwore	aiwo	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+1	Itaiwore	aiwo	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	ty	ty	ADV	adv	_	1	advmod	_	_
 3	oino	oino	ADV	adv	_	1	advmod	_	_
 4	pawobe	wobe	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	1	obl	_	_
@@ -2288,7 +2288,7 @@
 # text_eng = 
 # text_por = O povo diz assim: Vamos celebrar a dança das almas.
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
-2	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	:	:	PUNCT	punct	_	2	punct	_	_
 4	Pawo	pa	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	7	nsubj	_	_
 5	aroe	aroe	NOUN	n	_	6	nmod	_	_
@@ -2326,32 +2326,32 @@
 # text = Boe eimejerage ewadodure ipare etae ipare ewo ipo kado , ipare etuwo bai kae , ipare ewo baiado
 # text_eng = 
 # text_por = Os chefes avisam os rapazes para irem cortar paus, para os rapazes irem buscar palha, para fazerem o cercado
-1	Boe	boe	NOUN	_	_	2	nmod	_	_
-2	eimejerage	eimejera	NOUN	_	Number=Plur	3	nsubj	_	_
-3	ewadodure	_	VERB	_	Number=Plur|Person=3	0	root	_	_
-4	ipare	ipare	NOUN	_	_	3	obl	_	_
-5	etae	ae	ADP	_	Number=Plur|Person=3	4	case	_	_
-6	ipare	_	NOUN	_	_	7	dep	_	_
+1	Boe	boe	NOUN	n	_	2	nmod	_	_
+2	eimejerage	eimejera	NOUN	n	Number=Plur	3	nsubj	_	_
+3	ewadodure	_	VERB	v	Number=Plur|Person=3	0	root	_	_
+4	ipare	ipare	NOUN	n	_	3	obl	_	_
+5	etae	ae	ADP	adp	Number=Plur|Person=3	4	case	_	_
+6	ipare	_	NOUN	n	_	7	dep	_	_
 7	ewo	_	PRON	_	Mood=Sub|Number=Plur|Person=3	9	nsubj	_	_
-8	ipo	_	NOUN	_	_	9	obj	_	_
-9	kado	_	VERB	_	Voice=Cau	3	parataxis	_	_
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	ipare	_	NOUN	_	_	12	nsubj	_	_
-12	etuwo	_	VERB	_	Mood=Sub|Number=Plur|Person=3	3	parataxis	_	_
-13	bai	bai	NOUN	_	_	12	obl	_	_
-14	kae	_	ADP	_	Number=Sing|Person=3	13	case	_	_
-15	,	,	PUNCT	_	_	12	punct	_	_
-16	ipare	_	NOUN	_	_	17	dep	_	_
+8	ipo	_	NOUN	n	_	9	obj	_	_
+9	kado	_	VERB	v	Voice=Cau	3	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ipare	_	NOUN	n	_	12	nsubj	_	_
+12	etuwo	_	VERB	v	Mood=Sub|Number=Plur|Person=3	3	parataxis	_	_
+13	bai	bai	NOUN	n	_	12	obl	_	_
+14	kae	_	ADP	adp	Number=Sing|Person=3	13	case	_	_
+15	,	,	PUNCT	punct	_	12	punct	_	_
+16	ipare	_	NOUN	n	_	17	dep	_	_
 17	ewo	_	PRON	_	Mood=Sub|Number=Plur|Person=3	18	nsubj	_	_
-18	baiado	baia	VERB	_	Voice=Cau	12	advcl	_	_
+18	baiado	baia	VERB	v	Voice=Cau	12	advcl	_	_
 
 # sent_id = IpareEreru-6
 # text = Care ere baiado
 # text_eng = 
 # text_por = Aí eles fazem o cercado
-1	Care	care	ADV	_	_	3	advmod	_	_
+1	Care	care	ADV	adv	_	3	advmod	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	nsubj	_	_
-3	baiado	baia	VERB	_	Voice=Cau	0	root	_	_
+3	baiado	baia	VERB	v	Voice=Cau	0	root	_	_
 
 # sent_id = IpareEreru-7
 # text = Ere baia akedudo , dykeje icare ererure aroeceba tabo , kuruguga tabo , pariko tabo , icira akiri tabo , baia oto ji
@@ -2439,7 +2439,7 @@
 19	boe	boe	NOUN	n	_	20	nsubj	_	_
 20	ererure	reru	VERB	v	_	3	parataxis	_	_
 21	,	,	PUNCT	punct	_	20	punct	_	_
-22	aroeceba	aroeceba	NOUN	_	_	20	obl	_	_
+22	aroeceba	aroeceba	NOUN	n	_	20	obl	_	_
 23	tabo	apo	ADP	posp	_	22	case	_	_
 24	pugeje	pugeje	ADV	adv	_	20	advmod	_	_
 25	,	,	PUNCT	punct	_	24	punct	_	_
@@ -2466,11 +2466,11 @@
 4	jure	jure	NOUN	n	_	6	obj	_	_
 5	boe	boe	NOUN	n	_	6	nsubj	_	_
 6	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	_	0	root	_	_
-7	oino	oino	ADV	_	_	6	advcl	_	_
+7	oino	oino	ADV	adv	_	6	advcl	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 9	Awy	awy	DET	dem	_	10	det	_	_
 10	jure	jure	NOUN	n	_	12	obj	_	_
-11	boe	boe	NOUN	NOUN	_	_	12	nsubj	_	_
+11	boe	boe	NOUN	NOUN	n	_	12	nsubj	_	_
 12	egore	ako	VERB	v	_	_	6	parataxis	_	_
 13	ipare	ipare	NOUN	n	_	14	nmod	_	_
 14	ereru	reru	VERB	v	Number=Plur|Person=3	12	obj	_	_
@@ -2606,32 +2606,32 @@
 # text = Meri rekodu tabo , icare ipare ere tudo pui bai to ; areme , boe etore , ipare ere tudo pui baito , tuwo tubemegado
 # text_eng = 
 # text_por = De tarde,	os rapazes se reunem no baito; as mulheres, as crianças e os homens reunem-se no baito, para se enfeitar.
-1	Meri	_	NOUN	_	_	2	nmod	_	_
-2	rekodu	_	NOUN	_	_	8	obl	_	_
-3	tabo	_	ADP	_	Number=Sing|Person=3	2	case	_	_
-4	,	,	PUNCT	_	_	2	punct	_	_
-5	icare	icare	ADV	_	_	8	advmod	_	_
+1	Meri	_	NOUN	n	_	2	nmod	_	_
+2	rekodu	_	NOUN	n	_	8	obl	_	_
+3	tabo	_	ADP	adp	Number=Sing|Person=3	2	case	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	icare	icare	ADV	adv	_	8	advmod	_	_
 6	ipare	ipare	NOUN	n	_	7	dep	_	_
 7	ere	_	PRON	_	_	8	nsubj	_	_
-8	tudo	_	VERB	_	_	0	root	_	_
+8	tudo	_	VERB	v	_	0	root	_	_
 9	pui	_	PRON	_	_	8	dep	_	_
-10	bai	bai	NOUN	_	_	8	obl	_	_
-11	to	to	ADP	_	Number=Sing|Person=3	10	case	_	_
-12	;	;	PUNCT	_	_	10	punct	_	_
-13	areme	_	NOUN	_	_	_	_	_	_
-14	,	,	PUNCT	_	_	2	punct	_	_
-15	boe	_	NOUN	_	_	_	_	_	_
-16	etore	_	NOUN	_	_	15	compound	_	_
-17	,	_	PUNCT	_	_	15	punct	_	_
-18	ipare	_	NOUN	_	_	19	dep	_	_
+10	bai	bai	NOUN	n	_	8	obl	_	_
+11	to	to	ADP	adp	Number=Sing|Person=3	10	case	_	_
+12	;	;	PUNCT	punct	_	10	punct	_	_
+13	areme	_	NOUN	n	_	_	_	_	_
+14	,	,	PUNCT	punct	_	2	punct	_	_
+15	boe	_	NOUN	n	_	_	_	_	_
+16	etore	_	NOUN	n	_	15	compound	_	_
+17	,	_	PUNCT	punct	_	15	punct	_	_
+18	ipare	_	NOUN	n	_	19	dep	_	_
 19	ere	_	PRON	_	_	20	nsubj	_	_
-20	tudo	_	VERB	_	_	8	parataxis	_	_
+20	tudo	_	VERB	v	_	8	parataxis	_	_
 21	pui	_	PRON	_	_	20	dep	_	_
-22	bai	_	NOUN	_	_	20	obl	_	_
-23	to	_	ADP	_	Number=Sing|Person=3	22	case	_	_
-24	,	_	PUNCT	_	_	20	punct	_	_
+22	bai	_	NOUN	n	_	20	obl	_	_
+23	to	_	ADP	adp	Number=Sing|Person=3	22	case	_	_
+24	,	_	PUNCT	punct	_	20	punct	_	_
 25	tuwo	_	PRON	bi	_	26	nsubj	_	_
-26	tubemegado	_	VERB	_	_	20	advcl	_	_
+26	tubemegado	_	VERB	v	_	20	advcl	_	_
 
 # sent_id = IpareEreru-21
 # text = Ere tubemegado , ere pariko tugu tao to
@@ -2660,7 +2660,7 @@
 8	,	,	PUNCT	punct	_	6	punct	_	_
 9	tuwiemage	bie	NOUN	n	Number=Plur|Reflex=Yes	5	conj	_	_
 10	,	,	PUNCT	punct	_	9	punct	_	_
-11	tore	ore	NOUN	_	_	5	obl	_	_
+11	tore	ore	NOUN	n	_	5	obl	_	_
 12	ekujiagi	kujiagi	ADP	posp	Number=Plur|Person=3	11	case	_	_
 13	,	,	PUNCT	punct	_	11	punct	_	_
 14	tugoge	koge	NOUN	n	Number=Plur|Reflex=Yes	5	obl	_	_
@@ -3136,12 +3136,12 @@
 # text = Mariel ure boe ke maku Fabrício ae dykeje utyre
 # text_eng = After Mariel gave the fod to Fabrício, he left
 # text_por = Depois que Mariel deu a comida a Fabrício ele saiu
-1	Mariel	Mariel	PROPN	_	_	9	nsubj	_	_
+1	Mariel	Mariel	PROPN	propn	_	9	nsubj	_	_
 2	ure	u	PRON	_	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 3	boe	boe	NOUN	n	_	4	dep	_	_
 4	ke	ke	NOUN	n	_	5	obj	_	_
 5	maku	maku	VERB	v	Number=Sing|Person=3	9	advcl	_	_
-6	Fabrício	Fabrício	PROPN	_	_	5	obl	_	_
+6	Fabrício	Fabrício	PROPN	propn	_	5	obl	_	_
 7	ae	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	dykeje	dykeje	SCONJ	sconj	_	5	mark	_	_
 9	utyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3152,9 +3152,9 @@
 # text_por = O dinheiro foi dado a Fabrício, mas não foi mais visto
 1	Dieru	dieru	NOUN	n	_	2	nsubj	_	_
 2	makudure	maku	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	_
-3	Fabrício	Fabrício	PROPN	_	_	2	obl	_	_
+3	Fabrício	Fabrício	PROPN	propn	_	2	obl	_	_
 4	ai	ji	ADP	posp	Number=Sing|Person=2	3	case	_	_
-5	mare	mare	CCONJ	_	_	7	cc	_	_
+5	mare	mare	CCONJ	cconj	_	7	cc	_	_
 6	boe	boe	NOUN	n	_	7	nsubj	_	_
 7	erydykare	jorydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	2	conj	_	_
 8	ji	ji	ADP	posp	Number=Sing|Person=3	7	obl	_	_
@@ -3166,7 +3166,7 @@
 # text_por = Depois que Padre viu Fabrício, eles foram para a aldeia
 1	Padre	padre	NOUN	n	_	2	nsubj	_	_
 2	jorudure	jorudu	VERB	v	Mood=Ind|Number=Sing|Person=3	7	advcl	_	_
-3	Fabrício	Fabrício	PROPN	_	_	2	obl	_	_
+3	Fabrício	Fabrício	PROPN	propn	_	2	obl	_	_
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	dykeje	dykeje	SCONJ	sconj	_	2	mark	_	_
 6	boe	boe	NOUN	n	_	7	nsubj	_	_
@@ -3189,7 +3189,7 @@
 # text = João ogwarire dykeje ure tugerago marido ji
 # text_eng = João smiled and took the moriche palm
 # text_por = João sorriu e pegou o Buriti
-1	João	João	PROPN	_	_	2	nsubj	_	_
+1	João	João	PROPN	propn	_	2	nsubj	_	_
 2	ogwarire	ogwa	VERB	v	Mood=Ind|Number=Sing|Person=3	5	advcl	_	_
 3	dykeje	dykeje	SCONJ	sconj	_	2	mark	_	_
 4	ure	u	PRON	_	Number=Sing|Person=3	5	nsubj	_	_
@@ -3621,7 +3621,7 @@
 # text_por = Deus fez uma mulher, o esposo dela chamado Adão, e a esposa se chama Eva
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	[];;
 2	ure	re	PRON	bi	_	5	dep	_	[];;
-3	ia	ia	DET	art	_	4	det	_	[];;
+3	ia	ia	DET	art	Definite=Ind|PronType=Art	4	det	_	[];;
 4	aredu	aredu	NOUN	n	_	5	obj	_	[];;
 5	to	to	VERB	v	Number=Plur|Person=3	0	root	_	[];;
 6	,	,	PUNCT	punct	_	5	punct	_	[];;
@@ -7606,7 +7606,7 @@
 # text_eng = 
 # text_por = Irás, mas por baixo de minha palavra (me desobedecendo)
 1	Atumode	ty	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	_	_
-2	mare	mare	CCONJ	_	_	1	cc	_	_
+2	mare	mare	CCONJ	cconj	_	1	cc	_	_
 3	iwadary	batary	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	1	conj	_	_
 4	kuda	kuda	ADP	posp	Number=Sing|Person=3	3	obl	_	_
 
@@ -8080,7 +8080,7 @@
 1	Bybyty	bybyty	NOUN	n	_	2	nsubj	_	_
 2	aregody	aregody	VERB	v	Number=Sing|Person=3	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
-4	ma	mare	CCONJ	_	_	7	cc	_	_
+4	ma	mare	CCONJ	cconj	_	7	cc	_	_
 5	icare	icare	ADV	adv	_	7	advmod	_	_
 6	kuiada	kuiada	NOUN	n	_	7	nsubj	_	_
 7	tugudodykare	tugu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Voice=CauPass	2	conj	_	_
@@ -8194,12 +8194,12 @@
 # text = Itugu ito iwo ikera ra pegareboe piji
 # text_eng = I propose to avoid the evil
 # text_por = Proponho de evitar o mal
-1	Itugu	tugu	NOUN	_	Number=Plur|Person=1	0	root	_	_
+1	Itugu	tugu	NOUN	n	Number=Plur|Person=1	0	root	_	_
 2	ito	to	ADP	posp	Number=Sing|Person=1	1	obl	_	_
 3	iwo	i	PRON	_	Mood=Sub|Number=Sing|Person=1	5	nsubj	_	_
-4	ikera	kera	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
-5	ra	ra	VERB	_	Number=Sing|Person=3	1	ccomp	_	_
-6	pegareboe	pegareboe	NOUN	_	_	5	obl	_	_
+4	ikera	kera	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
+5	ra	ra	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
+6	pegareboe	pegareboe	NOUN	n	_	5	obl	_	_
 7	piji	piji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = 123.EncIE
@@ -8209,7 +8209,7 @@
 1	Are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	2	nsubj	_	_
 2	itygydo	tygy	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
-4	erugodymode	rugody	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	2	ccomp	_	_
+4	erugodymode	rugody	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Fut	2	ccomp	_	_
 5	pui	pui	PRON	pron	PronType=Rcp	4	obj	_	_
 6	duji	duji	PRON	pron	PronType=Rel	4	dep	_	_
 
@@ -8253,8 +8253,8 @@
 # text_eng = We will not break our word
 # text_por = Não faltaremos a nossa palavra
 1	Tagaba	ta	PRON	bi	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	3	nsubj	_	_
-2	tawadary	batary	NOUN	_	Number=Sing|Number[psor]=Plur|Person=2	3	obj	_	_
-3	tydydo	tydydo	VERB	_	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+2	tawadary	batary	NOUN	n	Number=Sing|Number[psor]=Plur|Person=2	3	obj	_	_
+3	tydydo	tydydo	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 129.EncIE
 # text = Iogwa ure itydo
@@ -8304,7 +8304,7 @@
 # text_eng = I will make a beautiful bow for me
 # text_por = Fabricar-me-ei um belo arco
 1	Imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	5	nsubj	_	_
-2	ia	ia	DET	_	_	3	det	_	_
+2	ia	ia	DET	art	Definite=Ind|PronType=Art	3	det	_	_
 3	iwoeiga	boeiga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
 4	motyrewy	moty	NOUN	n	Mood=Ind|Nomzr=Rel	3	nmod	_	_
 5	towuje	towuje	NOUN	n	Number=Sing|Person=3	0	root	_	_
@@ -8325,7 +8325,7 @@
 1	Ikodo	kodo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	torigodynure	torigody	VERB	v	Aspect=IncProg|Mood=Ind	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
-4	iroiwamodykare	roiwa	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	2	parataxis	_	[];power,possibility,tolerance;poder,possibilidade,tolerância.
+4	iroiwamodykare	roiwa	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	2	parataxis	_	[];power,possibility,tolerance;poder,possibilidade,tolerância.
 5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 
 # sent_id = 137.EncIE
@@ -8430,7 +8430,7 @@
 2	mana	mana	NOUN	n	_	1	compound	_	_
 3	gejewy	keje	ADP	posp	Nomzr=Rel	2	compound	_	_
 4	boe	boe	NOUN	n	_	5	nmod	_	_
-5	ekedae	kedae	NOUN	_	Number=Plur|Person=3	6	nmod	_	_
+5	ekedae	kedae	NOUN	n	Number=Plur|Person=3	6	nmod	_	_
 6	todarewy	to	NOUN	n	Mood=Ind|Nomzr=Loc|Nomzr=Rel	0	root	_	_
 
 # sent_id = 148.EncIE
@@ -8749,8 +8749,8 @@
 # text_por = Tu mandaste os bororo preparar um pari inutilmente
 1	Are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	obj	_	_
-3	erogodydo	rogody	VERB	_	Number=Plur|Person=3|Voice=Cau	0	root	_	_
-4	kago	kago	NOUN	_	_	3	obl	_	_
+3	erogodydo	rogody	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+4	kago	kago	NOUN	n	_	3	obl	_	_
 5	je	ce	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	paga	paga	ADV	adv	AdvType=Man	3	advmod	_	in vain;inutilmente, em vão
 7	tyjé	tyjé	ADV	adv	AdvType=Man	3	advmod	_	_
@@ -8942,7 +8942,7 @@
 1	Inogwa	ogwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nmod	_	_
 2	riki	riki	NOUN	n	_	3	nsubj	_	truth;verdade
 3	tai	ai	ADP	posp	Number=Plur|Person=2	0	root	_	_
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
 5	imedy	imedy	NOUN	n	Number=Sing	3	advcl	_	_
 6	okwa	okwa	NOUN	n	_	5	nmod	_	_
 7	rikirewynure	riki	NOUN	n	Aspect=Prog|Mood=Ind|Nomzr=Rel	6	nmod	_	_
@@ -10517,7 +10517,7 @@
 50	boe	_	NOUN	n	_	51	obj	_	_
 51	tarodydo	_	VERB	v	_	8	parataxis	_	_
 52	,	,	PUNCT	punct	_	51	punct	_	_
-53	eiwogunure	_	VERB	_	Mood=Ind|Number=Plur|Person=3	8	parataxis	_	_
+53	eiwogunure	_	VERB	v	Mood=Ind|Number=Plur|Person=3	8	parataxis	_	_
 54	boe	boe	NOUN	n	_	55	nmod	_	_
 55	enoroe	_	NOUN	n	Number=Plur|Person=3	53	obl	_	_
 56	ji	ji	ADP	posp	Number=Sing|Person=3	55	case	_	_
@@ -10680,9 +10680,9 @@
 # text = Ukadawu remawure uwadodure , akore : tagogududo itabo , taiagududo itabo !
 # text_eng = Have pity on me, have pity on me!
 # text_por = O dono do Couro (o que recebe o couro da onça) anuncia e diz : Tenham dó de mim, tenham pena de mim!
-1	Ukadawu	kadawu	NOUN	_	Nomzr=Rel	2	nmod	_	_
+1	Ukadawu	kadawu	NOUN	n	Nomzr=Rel	2	nmod	_	_
 2	remawure	_	NOUN	adv	_	3	nsubj	_	_
-3	uwadodure	_	VERB	_	_	0	root	_	_
+3	uwadodure	_	VERB	v	_	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	conj	_	_
 6	:	:	PUNCT	punct	_	5	punct	_	_
@@ -10723,7 +10723,7 @@
 8	imi	imi	PRON	pro	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	I;eu
 9	,	,	PUNCT	punct	_	6	punct	_	_
 10	kodire	kodi	ADV	adv	Mood=Ind	11	mark	_	_
-11	inagoino	_	VERB	_	Number=Sing|Person=1	1	advcl	_	_
+11	inagoino	_	VERB	v	Number=Sing|Person=1	1	advcl	_	_
 12	tagabo	apo	ADP	posp	Number=Plur|Person=2	11	obl	_	_
 
 # sent_id = RO-6.01
@@ -10739,4 +10739,3 @@
 7	adygo	adygo	NOUN	n	_	5	obl	_	_
 8	joki	joki	NOUN	n	_	5	case	_	_
 9	inai	ai	ADP	posp	Number=Sing|Person=1	5	obl	_	_
-
