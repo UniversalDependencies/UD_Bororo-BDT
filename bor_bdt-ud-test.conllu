@@ -8827,7 +8827,7 @@
 # text_eng = Do not do evil!
 # text_por = Não pratiqueis o mal !
 1	Taro	ro	VERB	v	Number=Plur|Person=2	0	root	_	deed,action;ação,feito
-2	pegakaba	pega	ADV	adv	Mood=Imp|Polarity=Neg	1	_	_	_
+2	pegakaba	pega	PRON	bi	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	1	nsubj	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 189.EncIE
@@ -8909,7 +8909,7 @@
 # text_eng = My chest is heating up
 # text_por = Meu peito está aquecendo-se
 1	Imorora	mororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	chest;peito
-2	uririgodynure	irigody	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Voice=IncProg	0	root	_	_
+2	uririgodynure	irigody	VERB	v	Aspect=IncProg|Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 198.EncIE
 # text = Imygywo ty woe iwo iririgo boero keje
