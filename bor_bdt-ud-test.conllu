@@ -2261,7 +2261,7 @@
 4	pawo	pron	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	7	nsubj	_	_
 5	nowy	nowy	DET	dem	Deixis=Med	6	det	_	_
 6	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	7	obj	_	_
-7	tawyji	tawyji	VERB	v	Number=Ind|Person=3	3	conj	_	_
+7	tawyji	tawyji	VERB	v	Number=Sing|Person=3	3	conj	_	_
 8	mato	mato	ADV	adv	AdvType=Dir	7	advmod	_	_
 9	pugeje	pugeje	ADV	adv	_	7	advmod	_	_
 
@@ -2389,7 +2389,7 @@
 7	ji	ji	ADP	posp	_	6	xcomp	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 9	Aroe	aroe	NOUN	n	_	10	nsubj	_	_
-10	ererunure	_	VERB	v	Aspect=Prog|Mood=Plur|Number=Plur|Person=3	3	parataxis	_	_
+10	ererunure	_	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	_
 12	Aroe	aroe	NOUN	n	_	3	parataxis	_	_
 13	ty	ty	ADV	adv	_	12	advmod	_	_
