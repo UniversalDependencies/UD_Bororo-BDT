@@ -8732,7 +8732,7 @@
 # text_eng = It's becoming impossible with this thing sitting on my shoulder
 # text_por = Tornou-se impossível suportar isso que está sobre os ombros
 1	Iroiwa	roiwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	be possible,tolerance;ser possível,tolerancia
-2	bokwagodyre	bokwa	ADV	adv	Aspect=Inc|Mood=Ind|Polarity=Neg	1	advmod	_	_
+2	bokwagodyre	bokwa	ADV	adv	Aspect=IncProg|Mood=Ind|Polarity=Neg	1	advmod	_	_
 3	awy	awy	DET	dem	Deixis=Prox	4	det	_	_
 4	mygyre	mygy	NOUN	n	Mood=Ind	1	csubj	_	_
 5	ikanaora	kanao	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	obl	_	_
