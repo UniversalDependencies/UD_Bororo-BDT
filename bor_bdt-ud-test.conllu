@@ -266,7 +266,7 @@
 # text_eng = 
 # text_por = Um outro cão latiu novamente; kui , kui , kui surgiu do chão novamente , então rodeou rapidamente e ficou bem do lado dos pés de Okoge Ebowu.
 1	Ia	ia	PRON	art	Definite=Ind|PronType=Art	2	nsubj	_	_
-2	akore	ako	VERB	_	Mood=Ind|Numbr=Sing|Person=3	0	root	_	_
+2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	pugeje	pugeje	ADV	_	_	2	advmod	_	_
 4	kui	kui	X	_	_	2	ccomp	_	_
 5	,	,	PUNCT	_	_	4	punct	_	_
@@ -277,11 +277,11 @@
 10	je	_	X	_	_	11	dep	_	_
 11	padyre	_	VERB	v	Mood=Ind	2	parataxis	_	_
 12	moto	moto	NOUN	_	Number=Sing	11	obl	_	_
-13	kejeje	kejeje	ADP	posp	Numbr=Sing|Person=3	12	case	_	_
+13	kejeje	kejeje	ADP	posp	Number=Sing|Person=3	12	case	_	_
 14	pugeje	_	ADV	_	_	11	advmod	_	_
 15	,	_	PUNCT	_	_	11	punct	_	_
 16	icare	icare	ADV	_	_	18	advmod	_	_
-17	ure	u	PRON	bi	Mood=Ind|Numbr=Sing|Person=3	18	nsubj	_	_
+17	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	18	nsubj	_	_
 18	toiado	_	VERB	_	_	2	parataxis	_	_
 19	bai	bai	ADV	_	_	18	advmod	_	quickly;rapidamente
 20	kuri	_	ADV	_	_	18	advmod	_	_
@@ -290,7 +290,7 @@
 23	Ebowy	_	PROPN	_	_	22	compound	_	_
 24	bure	_	NOUN	_	Number=Sing	25	nmod	_	_
 25	paru	_	NOUN	_	Number=Sing	18	obl	_	_
-26	kajeje	kajeje	ADP	_	Numbr=Sing|Person=3	25	case	_	_
+26	kajeje	kajeje	ADP	_	Number=Sing|Person=3	25	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-16
 # text = Boekimo rema ! Arigao Kigadurewy , rabody
