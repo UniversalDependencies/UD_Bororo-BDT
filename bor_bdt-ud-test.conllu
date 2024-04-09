@@ -107,6 +107,17 @@
 25	Braedugume	Braedugume	PROPN	propn	_	24	appos	_	_
 26	!	!	PUNCT	punct	_	23	punct	_	_
 
+# sent_id = HMB-Pemo_e_Baraedugume-05
+# text = Dykeje icare kudugodure , akore Kao !
+# text_por =  Então ele respondeu gritando: - Kao!
+1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
+2	icare	icare	ADV	adv	_	3	advmod	_	_
+3	kudugodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	conj	_	_
+6	Kao	Kao	_	_	_	5	ccomp	_	_
+7	!	!	PUNCT	punct	_	6	punct	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
