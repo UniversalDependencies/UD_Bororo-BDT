@@ -1,7 +1,7 @@
 # sent_id = HMB-Pemo_e_Baraedugume-01
 # text = Pemo , oinore Pao iere boe oto ji
 # text_eng =
-# text_por = Pemo, era assim que o nosso Pai se chamava no começo.
+# text_por = Pemo, era assim que o nosso Pai (Deus) se chamava no começo.
 1	Pemo	Pemo	PROPN	propn	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	oinore	oino	ADV	adv	Mood=Ind	0	root	_	_
@@ -10,6 +10,72 @@
 6	boe	boe	NOUN	n	Number=Sing	5	obl	_	_
 7	oto	oto	NOUN	n	Number=Sing	6	compound	_	_
 8	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
+
+# sent_id = HMB-Pemo_e_Baraedugume-02
+# text =  Pemo koiare icare ure Pemo metyia iegi . Mare ia pagaboe karega . Nowy Pemo onaregedy . Tonaregedyre ure jeto boe ji pugeje . Mare nowy onaregedy botukare aredy piji.  Koia karega ure towyje jamedu
+# text_eng =
+# text =  Foi Pemo que chamou o outro Pemo. Mas ele não era qualquer um. Era o filho de Pemo. Foi ao seu filho que ele colocou para tomar conta da gente. Mas esse seu filho não nasceu de mulher, e também não foi ele quem o fez.. 
+1	Pemo	Pemo	PROPN	propn	_	7	obl	_	_
+2	koiare	koia	ADP	posp	Number=Sing|Person=3	1	case	_	_
+3	icare	icare	ADV	adv	_	7	advmod	_	_
+4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
+5	Pemo	Pemo	PROPN	propm	_	6	nmod	_	_
+6	metyia	metyia	NOUN	n	_	7	obj	_	_
+7	iegi	iegi	VERB	vt	_	0	root	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Mare	mare	CCONJ	cconj	_	11	cc	_	_
+10	ia	ia	DET	_	Definite=Ind|PronType=Art	11	det	_	_
+11	pagaboe	_	NOUN	n	_	7	conj	_	_
+12	karega	_	X	x	Polarity=Neg	11	dep	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
+14	nowy	nowy	DET	dem	Deixis=Dist	15	det	_	_
+15	Pemo	Pemo	PROPN	propn	_	_	_	16	nmod	_	_
+16	onaregedy	onaregedy	NOUN	n	Number=Sing	11	conj	_	_
+17	.	.	PUNCT	punct	_	16	punct	_	_
+18	Tonaregedyre	onaregedy	NOUN	n	Mood=Ind|Number=Sing|Reflex=Yes	20	dislocated	_	_
+19	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	nsubj	_	_
+20	jeto	jeto	ADVERB	adv	_	7	parataxis	_	_
+21	boe	boe	NOUN	n	_	20	obl	_	_
+22	ji	ji	ADP	posp	Number=Sing|Person=3	21	case	_	_
+23	pugeje	pugeje	ADV	adv	_	20	advmod	_	_
+24	.	.	PUNCT	punct	_	20	punct	_	_
+25	Mare	mare	CCONJ	cconj	_	28	cc	_	_
+26	nowy	nowy	DET	dem	Deixis=Dist	27	det	_	_
+27	onaregedy	onaregedy	NOUN	_	_	28	nsubj	_	_
+28	botukare	botu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	20	conj	_	_
+29	aredy	aredy	NOUN	n	Number=Sing	28	obl	_	_
+30	piji	piji	ADP	posp	Number=Sing|Person=3	29	case	_	_
+31	.	.	PUNCT	punct	_	28	punct	_	_
+32	Koia	koia	CCONJ	conj	_	35	cc	_	_
+33	karega	karega	X	_	Polarity=Neg	35	dep	_	_
+34	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	35	nsubj	_	_
+35	towyje	towyje	VERB	vt	Number=Sing|Person=3	20	conj	_	_
+36	jamedu	jamedu	ADV	adv	_	35	advmod	_	_
+
+# sent_id = HMB-Pemo_e_Baraedugume-03
+# text = Ure boecodydo . Nowy Pemore boecodydo . Dytabore icare makore nowy tonaregedy bogai baito . Bai tadare ure tuguwo
+# text_eng =
+# text_por =  Ele fez a noite. Foi Pemo quem fez a noite. Aí ele chamou seu filho dentro do “baito” (casa central). Foi no “baito” que ele apareceu.
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	boecodydo	boecody	VERB	vt	_	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+4	nowy	nowy	DET	dem	Deixis=Dist	5	det	_	_
+5	Pemore	Pemo	PROPN	propn	Mood=Ind	6	nsubj	_	_
+6	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+8	Dytabore	Dytabo	ADV	adv	Mood=Ind	10	advmod	_	_
+9	icare	icare	ADV	adv	_	10	advmod	_	_
+10	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+11	nowy	nowy	DET	dem	Deixis=Dist	12	det	_	_
+12	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	10	obl	_	_
+13	bogai	bogai	ADP	posp	Number=Sing|Person=3	12	case	_	_
+14	bai	bai	NOUN	n	Number=Sing	12	obl	_	_
+15	to	to	ADP	posp	Number=Sing|Person=3	14	case	_	_
+16	.	.	PUNCT	punct	_	12	punct	_	_
+17	Bai	bai	NOUN	n	Number=Sing	20	obl	_	_
+18	tadare	tada	ADP	posp	Mood=Ind	17	case	_	_
+19	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	nsubj	_	_
+20	tuguwo	kuo	VERB	v	Reflex=Yes	2	parataxis	_	_
 
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
