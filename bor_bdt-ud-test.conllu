@@ -3235,6 +3235,18 @@
 4	toro	toro	ADV	adv	_	2	advmod	_	[];there;lá
 5	?	?	PUNCT	punct	_	2	punct	_	[];;
 
+# sent_id = FWFFG-0110
+# text = Fabrício , are iokykidydo boe ewadaruji
+# text_Eng =  Fabrício caused me to be curious about the Bororo language
+# text_por = Fabrício me causou curiosidade sobre a língua bororo
+1	Fabrício	Fabrício	PROPN	propn	_	4	vocative	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	nsubj	_	_
+4	iokykidydo	kojyjidy	VERB	vt	Number=Sing|Person=1|Voice=Caus	0	root	_	_
+5	boe	boe	NOUN	n	Number=Plur	6	nmod	_	_
+6	ewadary	batary	NOUN	n	Number=Sing|Numper[psor]=Plur|Person=3	4	obl	_	_
+7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
+
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng = 
