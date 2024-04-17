@@ -3820,6 +3820,48 @@
 6	ewadary	batary	NOUN	n	Number=Sing|Numper[psor]=Plur|Person=3	4	obl	_	_
 7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
+# sent_id = FWFFG-0111
+# text = Boekimo , enyre ioku kidygo tagoi mato dyji , awy pago gruputo . Enyre ioku kidygo kocare ire imagodo tuwadaru jipagi tuwadary tabo rygado . Oo , enyre iekydydo tagoi mato dyji , kocare .
+# text_eng =
+# text_por =
+1	Boekimo	boekimo	ADV	adv	_	5	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	enure	e	PRON	bi	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
+4	ioku	joky	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obj	_	_
+5	kidygo	kidygo	VERB	v	_	0	root	_	_
+6	tagoi	ako	VERB	v	Number=Plur|Person=2|Reflex=Yes|VerbForm=Ger	5	xcomp	_	_
+7	mato	mato	ADV	adv	_	6	advmod	_	_
+8	dyji	dyji	X	_	_	6	dep	_	_
+9	,	.	PUNCT	punct	_	6	punct	_	_
+10	awy	awy	DET	dem	Deixis=Prox	12	det	_	_
+11	pago	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	12	nmod	_	_
+12	grupu	grupu	NOUN	n	_	6	obl	_	_
+13	to	to	ADP	posp	Number=Sing|Person=3	12	case	_	__
+14	.	.	PUNCT	punct	_	12	punct	_	_
+15	Enure	e	PRON	bi	Aspect=Prog|Number=Plur|Person=3	17	nsubj	_	_
+16	ioku	joky	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	17	obj	_	_
+17	kidygo	kidygo	VERB	v	_	5	parataxis	_	_
+18	kocare	kocare	INTJ	_	_	17	discourse	_	_
+19	ire	i	Pron	bi	Mood=Ind|Number=Sing|Person=1	20	nsubj	_	_
+20	imagodo	mako	VERB	vc	Number=Sing|Person=1|Voice=Cau	5	parataxis	_	_
+21	tuwadary	batary	NOUN	n	Number=sing|Reflex=Yes	20	obl	_	_
+22	ji	ji	ADP	posp	Number=Sing|Person=3	21	case	_	_
+23	pagi	pagi	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	24	nmod	_	_
+24	tuwadary	batary	NOUN	n	Number=sing|Reflex=Yes	20	parataxis	_	_
+25	tabo	tabo	ADP	posp	Number=Sing|Person=3	24	case	_	_
+26	rygado	rygado	ADV	adv	_	24	advmod	_	_
+27	.	.	PUNCT	punct	_	24	punct	_	_
+28	Oo	oo	INTJ	intj	_	31	discourse	_	_
+29	,	,	PUNCT	punct	_	28	punct	_	_
+30	enure	e	PRON	bi	Aspect=Prog|Number=Plur|Person=3	31	nsubj	_	_
+31	iekydydo	ekydy	VERB	v	Number=Sing|Person=1|Voice=Cau	24	parataxis	_	admire;admirar
+32	tagoi	ako	VERB	v	Number=Plur|Person=2|Reflex=Yes|VerbForm=Ger	31	xcomp	_	_
+33	mato	mato	ADV	adv	_	32	advmod	_	_
+34	dyji	dyji	X	_	_	32	dep	_	_
+35	,	,	PUNCT	punct	_	32	punct	_	_
+36	kocare	kocare	INTJ	_	_	32	discourse	_	_
+37	.	.	PUNCT	punct	_	36	punct	_	_
+
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng = 
