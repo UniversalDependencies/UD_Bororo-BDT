@@ -371,11 +371,10 @@
 61	,	,	PUNCT	punct	_	59	punct	_	_
 62	nowy	nowy	DET	dem	Deixis=Dist	63	det	_	_
 63	inodu	inodu	X	_	_	43	parataxis	_	_
-64	re	re	X	_	_	63	dep	_	_
-65	nure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	63	dep	_	_
-66	ji	ji	ADP	posp	Number=Sing|Person=3	63	obl	_	_
-67	gu	gu	X	_	_	63	dep	_	_
-68	...	.	PUNCT	punct	_	63	punct	_	_
+64	renure	re	NOUN	n	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	63	dep	_	_
+65	ji	ji	ADP	posp	Number=Sing|Person=3	63	obl	_	_
+66	gu	gu	X	_	_	63	dep	_	_
+67	...	.	PUNCT	punct	_	63	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-13
 # text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padure nono , nowy inodure renure , ji gu ...
@@ -3302,7 +3301,7 @@
 2	pemegare	pemega	ADV	adv	Mood=Ind	1	advmod	_	[];;
 
 # sent_id = FWFFG-005
-# text = Oh , ceboere ! Pegakare pamode kowyje , boe nure pagi , paeku iro modykare
+# text = Oh , ceboere ! Pegakare pamode kowyje , boenure pagi , paeku iro modykare
 # text_eng = Oh, wow! Our food is not bad, we are humans, let's not deviate our eyes (be proud)!
 # text_por = Oh, oba! Não é mal nossa comida, nós somos gente, não desviemos os olhos (luxo, asco, orgulho)!
 1	Oh	oh	INTJ	intj	_	3	discourse	_	[];;
@@ -3313,8 +3312,8 @@
 6	pamode	pa	PRON	bi	Clusivity=In|Number=Plur|Person=1|Tense=Fut	7	nsubj	_	[];;
 7	kowyje	kowyje	VERB	v	_	5	csubj	_	[];;
 8	,	,	PUNCT	punct	_	5	punct	_	[];;
-9	boe	boe	NOUN	n	_	5	parataxis	_	[];;
-10	nure	nure	X	x	Aspect=Prog|Mood=Ind	9	dep	_	[];;
+9	boenure	boe	NOUN	n	Aspect=Prog|Mood=Ind	5	parataxis	_	[];;
+10	nure	nure	X	x	_	9	dep	_	[];;
 11	pagi	pagi	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	[];;
 12	,	,	PUNCT	punct	_	9	punct	_	[];;
 13	paeku	joko	NOUN	noun	Clusivity=In|Number[psor]=Plur|Person=1	5	parataxis	_	[];;
@@ -6733,11 +6732,10 @@
 4	tyji	tyji	X	x	_	2	obl	_	[];;
 
 # sent_id = 0071e.PessGr
-# text = imaragody nure
+# text = imaragodynure
 # text_eng = I am working
 # text_por = eu estou/estava trabalhando
-1	imaragody	maragody	VERB	v	Number=Sing|Person=1	0	root	_	[];;
-2	nure	nu	X	x	Aspect=Prog|Mood=Ind	1	dep	_	[];;
+1	imaragody	maragody	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 
 # sent_id = 0071f.PessGr
 # text = kaeba bogaiba akaregodyre ?
@@ -6969,11 +6967,10 @@
 3	kaegae	kae	PART	prcl	Polarity=Neg|Speech=Ind	1	ccomp	_	[];;
 
 # sent_id = 0091a.PessGr
-# text = Imaragody nure
+# text = Imaragodynure
 # text_eng = I am working
 # text_por = Estou trabalhando
-1	Imaragody	maragody	VERB	vi	Number=Sing|Person=1	0	root	_	[];;
-2	nure	nu	X	x	Aspect=Prog|Mood=Ind	1	dep	_	[];;
+1	Imaragody	maragody	VERB	vi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 
 # sent_id = 0091b.PessGr
 # text = Inure maky
@@ -11072,7 +11069,7 @@
 11	.	.	PUNCT	punct	_	9	punct	_	[];;
 12	Awy	awy	DET	dem	Deixis=Prox	13	det	_	[];;
 13	moto	moto	NOUN	n	Number=Sing	14	nmod	_	[];;
-14	kejewuge	_	ADP	posp	Nomzr=Rel|Number=Plur	6	parataxis	_	[];;
+14	kejewuge	_	ADP	posp	Aspect=Prog|Mood=Ind|Nomzr=Rel|Number=Plur	6	parataxis	_	[];;
 15	nure	_	X	x	Aspect=Prog|Mood=Ind	14	dep	_	[];;
 16	tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	[];;
 17	,	,	PUNCT	punct	_	14	punct	_	[];;
