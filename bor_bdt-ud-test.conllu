@@ -2483,7 +2483,7 @@
 38	nabure	nabure	NOUN	n	Number=Sing	39	nmod	_	_
 39	oiaga	_	NOUN	n	_	35	obl	_	_
 40	ji	ji	ADP	posp	Number=Sing|Person=3	39	case	_	_
-41	,	,	PUNCT	PUNCT	_	35	punct	_	_
+41	,	,	PUNCT	PUNCT	_	39	punct	_	_
 42	kuido	_	NOUN	n	_	43	nmod	_	_
 43	oiaga	_	NOUN	n	_	39	obl	_	_
 44	ji	ji	ADP	posp	Number=Sing|Person=3	43	case	_	_
@@ -2494,7 +2494,7 @@
 49	nabure	nabure	NOUN	n	Number=Sing	50	nmod	_	_
 50	aro	_	NOUN	n	_	46	obl	_	_
 51	ji	ji	ADP	posp	Number=Sing|Person=3	50	case	_	_
-52	,	,	PUNCT	PUNCT	_	46	punct	_	_
+52	,	,	PUNCT	PUNCT	_	50	punct	_	_
 53	kuido	_	NOUN	n	_	54	nmod	_	_
 54	aro	_	NOUN	n	_	50	obl	_	_
 55	ji	ji	ADP	posp	Number=Sing|Person=3	54	case	_	_
@@ -2555,7 +2555,7 @@
 110	oinono	oinono	ADV	adv	_	111	advmod	_	_
 111	pureore	reore	NOUN	n	Mood=Ind|Reflex=Yes	108	obl	_	_
 112	dyji	dyji	ADP	posp	Number=Sing|Person=3	111	case	_	_
-113	,	,	PUNCT	PUNCT	_	108	punct	_	_
+113	,	,	PUNCT	PUNCT	_	111	punct	_	_
 114	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 115	tuwaiga	iwaiga	NOUN	n	Reflex=Yes	116	nmod	_	_
 116	ao	ao	NOUN	n	_	111	conj	_	_
