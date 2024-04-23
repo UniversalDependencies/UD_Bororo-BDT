@@ -3489,7 +3489,7 @@
 1	Irore	ro	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	oino	oino	ADV	adv	AdvType=Man	1	advmod	_	[];;
 3	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	advcl	_	[];;
-4	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox|Deixis=Prox	3	advmod	_	[];;
+4	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	3	advmod	_	[];;
 5	dykoia	dykoya	SCONJ	sconj	_	3	mark	_	[];;
 
 # sent_id = FWFFG-024
@@ -3499,7 +3499,7 @@
 1	Irore	ro	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	oino	oino	ADV	adv	AdvType=Man	1	advmod	_	[];;
 3	amugure	mugu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	advcl	_	[];;
-4	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox|Deixis=Prox	3	advmod	_	[];;
+4	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	3	advmod	_	[];;
 5	dykoiare	dykoya	SCONJ	sconj	Mood=Ind	3	mark	_	[];;
 
 # sent_id = FWFFG-024b
@@ -3700,7 +3700,7 @@
 # text_por = Eu não quero sua presença aqui
 1	Ikiarire	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 2	ai	ji	ADP	posp	Number=Sing|Person=2	1	case	_	[];;
-3	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox|Deixis=Prox	1	advmod	_	[];;
+3	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	1	advmod	_	[];;
 
 # sent_id = FWFFG-0101
 # text = Akeragu cai je !
@@ -4987,7 +4987,7 @@
 1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	[];;
 2	boe	boe	NOUN	n	_	3	obj	_	[];;
 3	tugutugu	tygu	VERB	v	Aspect=Iter|Number=Sing|Person=3	0	root	_	[];plant;plantar
-4	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox|Deixis=Prox	3	advmod	_	[wɔ̰ɛ̯];here;aqui
+4	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	3	advmod	_	[wɔ̰ɛ̯];here;aqui
 
 # sent_id = ABE-267
 # text = kaboba amode maku Enawureudo ai ?
