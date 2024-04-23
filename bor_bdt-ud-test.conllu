@@ -261,7 +261,7 @@
 19	Mané	Mané	PROPN	propn	_	18	ccomp	_	_
 20	!	!	PUNCT	punct	_	19	punct	_	_
 21	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	18	conj	_	_
-22	Mané	_	_	_	_	21	ccomp	_	_
+22	Mané	Mané	PROPN	propn	_	21	ccomp	_	_
 23	!	!	PUNCT	punct	_	22	punct	_	_
 24	Dykeje	dykeje	SCONJ	sconj	_	26	mark	_	_
 25	icare	icare	ADV	adv	_	26	advmod	_	_
@@ -329,15 +329,15 @@
 20	,	,	PUNCT	punct	_	16	punct	_	_
 21	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	22	nsubj	_	_
 22	emearydae	mearydae	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	4	conj	_	_
-23	reore	_	_	_	_	22	advmod	_	_
+23	reore	X	x	_	_	22	advmod	_	_
 24	:	:	PUNCT	punct	_	22	punct	_	_
-25	aora	_	NOUN	_	_	22	conj	_	_
+25	aora	aora	NOUN	_	_	22	conj	_	_
 26	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	25	cop	_	_
 27	,	,	PUNCT	punct	_	25	punct	_	_
 28	joky	joky	NOUN	n	Number=Sing	25	conj	_	_
 29	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	28	cop	_	_
 30	,	,	PUNCT	punct	_	28	punct	_	_
-31	enoja	_	_	_	_	25	conj	_	_
+31	enoja	NOUN	n	_	_	25	conj	_	_
 32	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	31	cop	_	_
 33	,	,	PUNCT	punct	_	31	punct	_	_
 34	kana	kana	NOUN	n	Number=Sing	25	conj	_	_
@@ -373,7 +373,7 @@
 64	renure	re	NOUN	n	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	63	dep	_	_
 65	ji	ji	ADP	posp	Number=Sing|Person=3	63	obl	_	_
 66	gu	gu	X	_	_	63	dep	_	_
-67	...	.	PUNCT	punct	_	63	punct	_	_
+67	...	...	PUNCT	punct	_	63	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-13
 # text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padure nono , nowy inodure renure , ji gu ...
