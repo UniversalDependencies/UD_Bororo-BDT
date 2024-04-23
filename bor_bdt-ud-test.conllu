@@ -29,12 +29,12 @@
 12	karega	_	X	x	Polarity=Neg	11	dep	_	_
 13	.	.	PUNCT	punct	_	11	punct	_	_
 14	Nowy	nowy	DET	dem	Deixis=Remt	15	det	_	_
-15	Pemo	Pemo	PROPN	propn	_	_	_	16	nmod	_	_
+15	Pemo	Pemo	PROPN	propn	_	16	nmod	_	_
 16	onaregedy	onaregedy	NOUN	n	Number=Sing	11	conj	_	_
 17	.	.	PUNCT	punct	_	16	punct	_	_
 18	Tonaregedyre	onaregedy	NOUN	n	Mood=Ind|Number=Sing|Reflex=Yes	20	dislocated	_	_
 19	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	nsubj	_	_
-20	jeto	jeto	ADVERB	adv	_	7	parataxis	_	_
+20	jeto	jeto	ADV	adv	_	7	parataxis	_	_
 21	boe	boe	NOUN	n	_	20	obl	_	_
 22	ji	ji	ADP	posp	Number=Sing|Person=3	21	case	_	_
 23	pugeje	pugeje	ADV	adv	_	20	advmod	_	_
@@ -69,16 +69,15 @@
 11	nowy	nowy	DET	dem	Deixis=Remt	12	det	_	_
 12	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	10	obl	_	_
 13	bogai	bogai	ADP	posp	Number=Sing|Person=3	12	case	_	_
-14	bai	bai	NOUN	n	Number=Sing	12	obl	_	_
-15	to	to	ADP	posp	Number=Sing|Person=3	14	case	_	_
-16	.	.	PUNCT	punct	_	12	punct	_	_
-17	Bai	bai	NOUN	n	Number=Sing	20	obl	_	_
-18	tadare	tada	ADP	posp	Mood=Ind	17	case	_	_
-19	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	nsubj	_	_
-20	tuguwo	kuo	VERB	v	Reflex=Yes	2	parataxis	_	_
+14	baito	baito	NOUN	n	Number=Sing	12	obl	_	_
+15	.	.	PUNCT	punct	_	12	punct	_	_
+16	Bai	bai	NOUN	n	Number=Sing	19	obl	_	_
+17	tadare	tada	ADP	posp	Mood=Ind	16	case	_	_
+18	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	19	nsubj	_	_
+19	tuguwo	kuo	VERB	v	Reflex=Yes	2	parataxis	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-04
-# text = Makore tonaregedy bogai nowy baito to , akore Imedy ! Dykeje icare ure iegi. Akore Imedy Braedugume ! Makore pugeje . Akore Imedy Braedugume !
+# text = Makore tonaregedy bogai nowy baito to , akore imedy ! Dykeje icare ure iegi. Akore imedy Braedugume ! Makore pugeje . Akore imedy Braedugume !
 # text_por =  Chamou seu filho lá dentro do baito, dizendo: - Meu filho! Aí ele lhe deu nome dizendo: - Meu filho Braedugume! Chamou de novo dizendo: - Meu filho Braedugume!
 1	Makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	1	obl	_	_
@@ -88,7 +87,7 @@
 6	to	to	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	,	,	PUNCT	punct	_	1	punct	_	_
 8	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
-9	Imedy	imedy	NOUN	n	Number=Sing	8	ccomp	_	_
+9	imedy	imedy	NOUN	n	Number=Sing	8	ccomp	_	_
 10	!	!	PUNCT	punct	_	8	punct	_	_
 11	Dykeje	dykeje	ADV	adv	_	14	advmod	_	_
 12	icare	icare	ADV	adv	_	14	advmod	_	_
@@ -96,14 +95,14 @@
 14	iegi	iegi	VERB	v	_	1	parataxis	_	_
 15	.	.	PUNCT	punct	_	14	punct	_	_
 16	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
-17	Imedy	imedy	NOUN	n	Number=Sing	16	ccomp	_	_
+17	imedy	imedy	NOUN	n	Number=Sing	16	ccomp	_	_
 18	Braedugume	Braedugume	PROPN	propn	_	17	appos	_	_
 19	!	!	PUNCT	punct	_	16	punct	_	_
 20	Makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	16	conj	_	_
 21	pugeje	pugeje	ADV	adv	_	20	advmod	_	_
 22	.	.	PUNCT	punct	_	20	punct	_	_
-23	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	parataxis	_	_
-24	Imedy	imedy	NOUN	n	Number=Sing	23	ccomp	_	_
+23	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	parataxis	_	_
+24	imedy	imedy	NOUN	n	Number=Sing	23	ccomp	_	_
 25	Braedugume	Braedugume	PROPN	propn	_	24	appos	_	_
 26	!	!	PUNCT	punct	_	23	punct	_	_
 
