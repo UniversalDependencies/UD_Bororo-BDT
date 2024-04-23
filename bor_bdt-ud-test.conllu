@@ -28,7 +28,7 @@
 11	pagaboe	_	NOUN	n	_	7	conj	_	_
 12	karega	_	X	x	Polarity=Neg	11	dep	_	_
 13	.	.	PUNCT	punct	_	11	punct	_	_
-14	nowy	nowy	DET	dem	Deixis=Dist	15	det	_	_
+14	nowy	nowy	DET	dem	Deixis=Remt	15	det	_	_
 15	Pemo	Pemo	PROPN	propn	_	_	_	16	nmod	_	_
 16	onaregedy	onaregedy	NOUN	n	Number=Sing	11	conj	_	_
 17	.	.	PUNCT	punct	_	16	punct	_	_
@@ -40,7 +40,7 @@
 23	pugeje	pugeje	ADV	adv	_	20	advmod	_	_
 24	.	.	PUNCT	punct	_	20	punct	_	_
 25	Mare	mare	CCONJ	cconj	_	28	cc	_	_
-26	nowy	nowy	DET	dem	Deixis=Dist	27	det	_	_
+26	nowy	nowy	DET	dem	Deixis=Remt	27	det	_	_
 27	onaregedy	onaregedy	NOUN	_	_	28	nsubj	_	_
 28	botukare	botu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	20	conj	_	_
 29	aredy	aredy	NOUN	n	Number=Sing	28	obl	_	_
@@ -59,14 +59,14 @@
 1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	boecodydo	boecody	VERB	vt	_	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
-4	nowy	nowy	DET	dem	Deixis=Dist	5	det	_	_
+4	nowy	nowy	DET	dem	Deixis=Remt	5	det	_	_
 5	Pemore	Pemo	PROPN	propn	Mood=Ind	6	nsubj	_	_
 6	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=Cau	2	parataxis	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 8	Dytabore	Dytabo	ADV	adv	Mood=Ind	10	advmod	_	_
 9	icare	icare	ADV	adv	_	10	advmod	_	_
 10	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
-11	nowy	nowy	DET	dem	Deixis=Dist	12	det	_	_
+11	nowy	nowy	DET	dem	Deixis=Remt	12	det	_	_
 12	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	10	obl	_	_
 13	bogai	bogai	ADP	posp	Number=Sing|Person=3	12	case	_	_
 14	bai	bai	NOUN	n	Number=Sing	12	obl	_	_
@@ -83,7 +83,7 @@
 1	Makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	1	obl	_	_
 3	bogai	bogai	ADP	posp	Number=Sing|Person=3	2	case	_	_
-4	nowy	nowy	DET	dem	Deixis=Dist	5	det	_	_
+4	nowy	nowy	DET	dem	Deixis=Remt	5	det	_	_
 5	baito	baito	NOUN	n	Number=Sing	1	obl	_	_
 6	to	to	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	,	,	PUNCT	punct	_	1	punct	_	_
@@ -180,7 +180,7 @@
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	dytabore	Dytabo	ADV	adv	Mood=Ind	14	mark	_	_
 11	icare	icare	ADV	adv	_	14	advmod	_	_
-12	nowy	nowy	DET	dem	Deixis=Dist	13	det	_	_
+12	nowy	nowy	DET	dem	Deixis=Remt	13	det	_	_
 13	onaregedy	onaregedy	NOUN	n	Number=Sing	14	nsubj	_	_
 14	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	advcl	_	_
 15	tumedage	metyia	NOUN	n	_	14	obl	_	_
@@ -253,7 +253,7 @@
 10	pugeje	pugeje	ADV	adv	_	9	advmod	_	_
 11	.	.	PUNCT	punct	_	9	punct	_	_
 12	icare	icare	ADV	adv	_	15	advmod	_	_
-13	nowy	nowy	DET	dem	Deixis=Dist	14	det	_	_
+13	nowy	nowy	DET	dem	Deixis=Remt	14	det	_	_
 14	onaregedy	onaregedy	NOUN	n	Number=Sing	15	nsubj	_	_
 15	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 16	pugeje	pugeje	ADV	adv	_	15	advmod	_	_
@@ -309,13 +309,13 @@
 # text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emeardae reore : aora bokware , joku bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core, kaworure . Oinore ure , dure padure nono , nowy inodu re nure ji gu ...
 # text_por =  Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí .....
 1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
-2	nowy	nowy	DET	dem	Deixis=Dist	3	det	_	_
+2	nowy	nowy	DET	dem	Deixis=Remt	3	det	_	_
 3	ime	imedy	NOUN	n	Number=Plur	4	nsubj	_	_
 4	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	parataxis	_	_
-8	nowy	nowy	DET	dem	Deixis=Dist	9	det	_	_
+8	nowy	nowy	DET	dem	Deixis=Remt	9	det	_	_
 9	Imedy	imedy	NOUN	n	Number=Sing	7	obl	_	_
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	,	,	PUNCT	punct	_	9	punct	_	_
@@ -324,7 +324,7 @@
 14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	12	punct	_	_
 16	Eerdure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	conj	_	_
-17	nowy	nowy	DET	dem	Deixis=Dist	18	det	_	_
+17	nowy	nowy	DET	dem	Deixis=Remt	18	det	_	_
 18	Pemo	Pemo	PROPN	propn	_	16	obl	_	_
 19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
 20	,	,	PUNCT	punct	_	16	punct	_	_
@@ -369,7 +369,7 @@
 59	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	43	parataxis	_	_
 60	nono	nono	ADV	adv	Deixis=Med	59	advcl	_	_
 61	,	,	PUNCT	punct	_	59	punct	_	_
-62	nowy	nowy	DET	dem	Deixis=Dist	63	det	_	_
+62	nowy	nowy	DET	dem	Deixis=Remt	63	det	_	_
 63	inodu	inodu	X	_	_	43	parataxis	_	_
 64	renure	re	NOUN	n	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	63	dep	_	_
 65	ji	ji	ADP	posp	Number=Sing|Person=3	63	obl	_	_
@@ -380,13 +380,13 @@
 # text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padure nono , nowy inodure renure , ji gu ...
 # text_por = Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles  se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí 
 1	Mare	mare	CCONJ	cconj	_	4	cc	4:cc	_
-2	nowy	nowy	DET	dem	Deixis=Dist	3	det	3:det	_
+2	nowy	nowy	DET	dem	Deixis=Remt	3	det	3:det	_
 3	ime	imedy	NOUN	n	Number=Plur	4	nsubj	4:nsubj	_
 4	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	0:root	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	4:obl	_
 6	.	.	PUNCT	punct	_	4	punct	4:punct	_
 7	Eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	parataxis	4:parataxis	_
-8	nowy	nowy	DET	dem	Deixis=Dist	9	det	9:det	_
+8	nowy	nowy	DET	dem	Deixis=Remt	9	det	9:det	_
 9	imedy	imedy	NOUN	n	Number=Sing	7	obl	7:obl	_
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	9:case	_
 11	,	,	PUNCT	punct	_	9	punct	9:punct	_
@@ -395,7 +395,7 @@
 14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	13:case	_
 15	.	.	PUNCT	punct	_	12	punct	12:punct	_
 16	Eerydyre	erydy	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	conj	4:conj	_
-17	nowy	nowy	DET	dem	Deixis=Dist	18	det	18:det	_
+17	nowy	nowy	DET	dem	Deixis=Remt	18	det	18:det	_
 18	Pemo	Pemo	PROPN	propn	_	16	obl	16:obl	_
 19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	18:case	_
 20	,	,	PUNCT	punct	_	16	punct	16:punct	_
@@ -441,7 +441,7 @@
 60	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	parataxis	56:parataxis	_
 61	nono	nono	ADV	adv	Deixis=Med	60	advmod	60:advmod	_
 62	,	,	PUNCT	punct	_	60	punct	60:punct	_
-63	nowy	nowy	DET	dem	Deixis=Dist	64	det	64:det	_
+63	nowy	nowy	DET	dem	Deixis=Remt	64	det	64:det	_
 64	inodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	conj	56:conj	_
 65	re	re	X	_	_	64	dep	64:dep	_
 66	nure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	64	dep	64:dep	_
