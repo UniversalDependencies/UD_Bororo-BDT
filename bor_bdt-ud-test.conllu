@@ -2701,7 +2701,7 @@
 1	Boe	boe	NOUN	n	_	2	dep	_	_
 2	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	nsubj	_	_
 3	oino	oino	ADV	adv	_	4	_	_	_
-4	tureore	_	_	_	Mood=Ind|Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+4	tureore	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Reflex=Yes	0	root	_	_
 5	pugeje	pugeje	ADV	adv	_	4	_	_	_
 
 # sent_id = Valmir-11
