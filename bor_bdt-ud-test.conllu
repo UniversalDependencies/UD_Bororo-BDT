@@ -3808,7 +3808,7 @@
 5	?	?	PUNCT	punct	_	2	punct	_	[];;
 
 # sent_id = FWFFG-0110
-# text = Fabrício , are iokykidydo boe ewadaruji
+# text = Fabrício , are iokykidydo boe ewadaru ji
 # text_Eng =  Fabrício caused me to be curious about the Bororo language
 # text_por = Fabrício me causou curiosidade sobre a língua bororo
 1	Fabrício	Fabrício	PROPN	propn	_	4	vocative	_	_
