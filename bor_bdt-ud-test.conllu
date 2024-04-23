@@ -1824,11 +1824,11 @@
 # text = Icare karore togwa to ji
 # text_eng = Then, the fish took the bait
 # text_por = Então, o peixe mordeu a isca
-1	Icare	icare	ADV	adv	_	4	_	_	_
-2	karore	karo	NOUN	n	Mood=Ind	4	_	_	_
-3	togwa	okwa	NOUN	n	Reflex=Yes	4	_	_	_
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
+2	karore	karo	NOUN	n	Mood=Ind	4	nsubj	_	_
+3	togwa	okwa	NOUN	n	Reflex=Yes	4	obj	_	_
 4	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
-5	ji	ji	ADP	posp	Number=Sing|Person=3	4	_	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 
 # sent_id = OiegoJiwuBakaru-04
 # text = Ure tumugudo keje akore : inoba  boemode ? Tui tumugudo keje
