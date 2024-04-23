@@ -329,7 +329,7 @@
 20	,	,	PUNCT	punct	_	16	punct	_	_
 21	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	22	nsubj	_	_
 22	emearydae	mearydae	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	4	conj	_	_
-23	reore	X	x	_	_	22	advmod	_	_
+23	reore	_	X	_	_	22	advmod	_	_
 24	:	:	PUNCT	punct	_	22	punct	_	_
 25	aora	aora	NOUN	_	_	22	conj	_	_
 26	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	25	cop	_	_
@@ -337,7 +337,7 @@
 28	joky	joky	NOUN	n	Number=Sing	25	conj	_	_
 29	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	28	cop	_	_
 30	,	,	PUNCT	punct	_	28	punct	_	_
-31	enoja	NOUN	n	_	_	25	conj	_	_
+31	enoja	enoja	NOUN	_	_	25	conj	_	_
 32	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	31	cop	_	_
 33	,	,	PUNCT	punct	_	31	punct	_	_
 34	kana	kana	NOUN	n	Number=Sing	25	conj	_	_
@@ -402,13 +402,13 @@
 22	emearydae	mearydae	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	4	conj	4:conj	_
 23	reore	reo	NOUN	n	_	22	advmod	22:advmod	_
 24	:	:	PUNCT	punct	_	22	punct	22:punct	_
-25	aora	_	_	_	_	22	conj	22:conj	_
+25	aora	_	NOUN	_	_	22	conj	22:conj	_
 26	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	25	cop	25:dep	_
 27	,	,	PUNCT	punct	_	25	punct	25:punct	_
 28	joky	joky	NOUN	n	Number=Sing	25	conj	25:conj	_
 29	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	28	cop	28:dep	_
 30	,	,	PUNCT	punct	_	28	punct	28:punct	_
-31	enoja	_	_	_	_	25	conj	25:conj	_
+31	enoja	enoja	NOUN	_	_	25	conj	25:conj	_
 32	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	31	cop	31:dep	_
 33	,	,	PUNCT	punct	_	31	punct	31:punct	_
 34	kana	kana	NOUN	n	Number=Sing	25	conj	25:conj	_
@@ -473,7 +473,7 @@
 20	kudugodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	parataxis	_	_
 21	,	,	PUNCT	punct	_	20	punct	_	_
 22	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	conj	_	_
-23	Kao	_	_	_	_	22	cc	_	_
+23	Kao	Kao	X	_	_	22	cc	_	_
 24	!	!	PUNCT	punct	_	23	punct	_	_
 25	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	conj	_	_
 26	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	25	ccomp	_	_
@@ -490,7 +490,7 @@
 37	kabi	kabi	VERB	vt	Number=Sing|Person=3	20	conj	_	_
 38	,	,	PUNCT	punct	_	37	punct	_	_
 39	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	41	nsubj	_	_
-40	ae	ae	NOUBN	n	_	41	obj	_	_
+40	ae	ae	NOUN	n	_	41	obj	_	_
 41	kabi	kabi	VERB	vt	Number=Sing|Person=3	20	conj	_	_
 42	,	,	PUNCT	punct	_	41	punct	_	_
 43	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	45	nsubj	_	_
@@ -537,13 +537,13 @@
 16	pugeje	pugeje	ADV	adv	_	14	advmod	_	_
 17	.	.	PUNCT	punct	_	14	punct	_	_
 18	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	xcomp	_	_
-19	Kiko	_	_	_	_	18	vocative	_	_
+19	Kiko	Kiko	PROPN	_	_	18	vocative	_	_
 20	!	!	PUNCT	punct	_	19	punct	_	_
 21	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	18	conj	_	_
-22	Kiko	Kiko	_	_	_	21	vocative	_	_
+22	Kiko	Kiko	PROPN	_	_	21	vocative	_	_
 23	!	!	PUNCT	punct	_	22	punct	_	_
 24	Kudugodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	18	conj	_	_
-25	Kao	_	_	_	_	24	vocative	_	_
+25	Kao	_	X	_	_	24	vocative	_	_
 26	!	!	PUNCT	punct	_	25	punct	_	_
 27	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	18	conj	_	_
 28	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	27	ccomp	_	_
@@ -571,7 +571,7 @@
 50	ape	pe	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	_	_	_	_
 51	kujagu	kujagu	NOUN	_	_	_	_	_	_
 52	barigu	barigu	VERB	vt	Number=Sing|Person=3	_	_	_	_
-53	,	,	PUNCT	punct	_	_	_	_	_
+53	,	,	PUNCT	punct	_	52	punct	_	_
 54	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	57	nsubj	_	_
 55	kiguru	kiguru	NOUN	_	_	57	obj	_	_
 56	kujagu	kujagu	NOUN	_	_	55	nmod	_	_
