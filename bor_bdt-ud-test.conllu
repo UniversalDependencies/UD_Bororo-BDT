@@ -1790,7 +1790,7 @@
 8	Uw	uw	INTJ	intj	_	11	discourse	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	kodire	kodi	ADV	adv	Mood=Ind	11	advmod	_	_
-11	inago	ako	VERB	v	Number=Sing|Person=1	6	cc	_	_
+11	inago	ako	VERB	v	Number=Sing|Person=1	6	ccomp	_	_
 12	oino	oino	ADV	adv	_	11	advmod	_	_
 13	...	...	PUNCT	punct	_	11	punct	_	_
 14	itore	oro	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
