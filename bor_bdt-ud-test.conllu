@@ -3048,7 +3048,7 @@
 8	.	.	PUNCT	punct	_	6	punct	_	_
 9	Awy	awy	DET	dem	_	10	det	_	_
 10	jure	jure	NOUN	n	_	12	obj	_	_
-11	boe	boe	NOUN	NOUN	n	12	nsubj	_	_
+11	boe	boe	NOUN	n	_	12	nsubj	_	_
 12	egore	ako	VERB	v	_	6	parataxis	_	_
 13	ipare	ipare	NOUN	n	_	14	nmod	_	_
 14	ereru	reru	VERB	v	Number=Plur|Person=3	12	obj	_	_
