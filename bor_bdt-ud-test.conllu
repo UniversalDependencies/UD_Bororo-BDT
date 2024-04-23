@@ -3011,7 +3011,7 @@
 13	,	,	PUNCT	punct	_	12	punct	_	_
 14	boe	boe	NOUN	n	_	8	conj	_	_
 15	etore	etore	NOUN	n	_	14	compound	_	_
-16	,	,	PUNCT	punct	_	_	_	_	_
+16	,	,	PUNCT	punct	_	14	punct	_	_
 17	boe	boe	NOUN	n	_	8	conj	_	_
 18	eiamedu	eiamedu	NOUN	n	_	17	compound	_	_
 19	boe	boe	NOUN	n	_	20	nsubj	_	_
@@ -3024,14 +3024,14 @@
 26	kuruguga	kuruguga	NOUN	n	_	22	conj	_	_
 27	tabo	apo	ADP	posp	_	26	case	_	_
 28	,	,	PUNCT	punct	_	26	punct	_	_
-29	iworeboe	iworeboe	NOUN	n	_	22	conj	_	_
+29	iworeboe	iworeboe	NOUN	n	_	20	conj	_	_
 30	tabo	apo	ADP	posp	_	29	case	_	_
 31	,	,	PUNCT	punct	_	29	punct	_	_
-32	pariko	pariko	NOUN	n	_	22	obl	_	_
+32	pariko	pariko	NOUN	n	_	20	obl	_	_
 33	tabo	apo	ADP	posp	_	32	case	_	_
 34	pugeje	pugeje	ADV	adv	_	32	advmod	_	_
 35	,	,	PUNCT	punct	_	32	punct	_	_
-36	jure	jure	NOUN	n	_	22	conj	_	_
+36	jure	jure	NOUN	n	_	20	conj	_	_
 37	ji	ji	ADP	posp	_	36	case	_	_
 
 # sent_id = IpareEreru-11
