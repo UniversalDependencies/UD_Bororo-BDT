@@ -2735,7 +2735,7 @@
 # text_por = Quanto a mim, eu me entristeço por isso
 1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	ikiarigodyre	kiarigody	_	_	Aspect=Inc|Mood=Ind|Number=Sing|Person=1	0	root	_	_
+3	ikiarigodyre	kiarigody	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=1	0	root	_	_
 4	nowy	nowy	DET	dem	Deixis=Med	5	det	_	_
 5	inody	inody	NOUN	n	_	3	obl	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
@@ -9224,7 +9224,7 @@
 # text_eng = The inside of the hut is dark, but wait, it will be lit
 # text_por = O interior da choupana é escuro, mas, espera, será iluminado
 1	Boe	boe	NOUN	n	_	2	nmod	_	_
-2	core	co	NOUN	n	Mood=Cau	4	nsubj	_	_
+2	core	co	NOUN	n	Mood=Caus	4	nsubj	_	_
 3	bai	bai	NOUN	n	_	4	nmod	_	_
 4	tada	tada	NOUN	n	_	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
