@@ -3014,7 +3014,7 @@
 16	,	,	PUNCT	punct	_	14	punct	_	_
 17	boe	boe	NOUN	n	_	8	conj	_	_
 18	eiamedu	eiamedu	NOUN	n	_	17	compound	_	_
-19	boe	boe	NOUN	n	_	20	nsubj	_	_
+19	boe	boe	NOUN	n	_	20	dep	_	_
 20	ererure	reru	VERB	v	_	3	parataxis	_	_
 21	,	,	PUNCT	punct	_	20	punct	_	_
 22	aroeceba	aroeceba	NOUN	n	_	20	obl	_	_
