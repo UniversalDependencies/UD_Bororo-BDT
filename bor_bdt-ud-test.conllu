@@ -2412,7 +2412,7 @@
 13	:	:	PUNCT	punct	_	12	punct	_	_
 14	Oieigo	Oieigo	PROPN	propn	_	15	nmod	_	_
 15	jetuiaga	_	X	_	_	12	ccomp	_	_
-16	,	,	PUNCT	punct	_	15	punct	_	_
+16	,	,	PUNCT	punct	_	12	punct	_	_
 17	Bokodoriware	_	PROPN	propn	_	18	nmod	_	_
 18	iga	_	NOUN	n	_	20	nsubj	_	_
 19	oieigo	_	PROPN	propn	_	20	obj	_	_
