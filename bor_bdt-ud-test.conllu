@@ -323,7 +323,7 @@
 13	Pemo	Pemo	PROPN	propn	_	12	obl	_	_
 14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	12	punct	_	_
-16	Eerdure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	conj	_	_
+16	Eerydyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	conj	_	_
 17	nowy	nowy	DET	dem	Deixis=Remt	18	det	_	_
 18	Pemo	Pemo	PROPN	propn	_	16	obl	_	_
 19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
