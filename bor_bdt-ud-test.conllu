@@ -2187,7 +2187,7 @@
 10	Aroe	aroe	NOUN	n	_	13	obl	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
 12	rade	rade	INTJ	intj	_	13	discourse	_	_
-13	itogeadyre	okeady	VERB	v	Mood=Ind|Number=Sing|Person=3	6	cc	_	_
+13	itogeadyre	okeady	VERB	v	Mood=Ind|Number=Sing|Person=3	6	ccomp	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
 15	iorydyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=1	13	parataxis	_	_
 16	!	!	PUNCT	punct	_	15	punct	_	_
@@ -2390,7 +2390,7 @@
 6	.	.	PUNCT	punct	_	5	punct	_	_
 7	Egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
 8	:	:	PUNCT	punct	_	7	punct	_	_
-9	Iroooo	Iro	PROPN	propn	_	7	cc	_	_
+9	Iroooo	Iro	PROPN	propn	_	7	ccomp	_	_
 10	...	...	PUNCT	punct	_	9	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-31
@@ -2411,7 +2411,7 @@
 12	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	6	conj	_	_
 13	:	:	PUNCT	punct	_	12	punct	_	_
 14	Oieigo	Oieigo	PROPN	propn	_	15	nmod	_	_
-15	jetuiaga	_	X	_	_	12	cc	_	_
+15	jetuiaga	_	X	_	_	12	ccomp	_	_
 16	,	,	PUNCT	punct	_	15	punct	_	_
 17	Bokodoriware	_	PROPN	propn	_	18	nmod	_	_
 18	iga	_	NOUN	n	_	20	nsubj	_	_
