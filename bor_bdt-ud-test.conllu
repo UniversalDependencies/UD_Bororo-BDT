@@ -1660,7 +1660,7 @@
 10	icare	icare	ADV	adv	_	9	compound	_	_
 11	,	,	PUNCT	punct	_	9	punct	_	_
 12	nowy	nowy	DET	dem	Deixis=Med	13	det	_	_
-13	ceroino	ro	VERB	v	Clusivity=Ex|Number=Plur|Person=1	16	nsubj	_	_
+13	ceroino	ro	VERB	v	Clusivity=Ex|Number=Plur|Person=1	16	nsubj:outer	_	_
 14	apowu	apo	ADP	posp	Nomzr=Rel	13	obl	_	_
 15	cegimejerage	_	NOUN	n	Clusivity=Ex|Number=Plur|Number[psor]=Plur|Person=1	16	nsubj	_	_
 16	eragodyre	_	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
