@@ -3313,12 +3313,11 @@
 7	kowyje	kowyje	VERB	v	_	5	csubj	_	[];;
 8	,	,	PUNCT	punct	_	5	punct	_	[];;
 9	boenure	boe	NOUN	n	Aspect=Prog|Mood=Ind	5	parataxis	_	[];;
-10	nure	nure	X	x	_	9	dep	_	[];;
-11	pagi	pagi	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	[];;
-12	,	,	PUNCT	punct	_	9	punct	_	[];;
-13	paeku	joko	NOUN	noun	Clusivity=In|Number[psor]=Plur|Person=1	5	parataxis	_	[];;
-14	iro	_	NOUN	n	_	13	nmod	_	[];;
-15	modykare	_	X	x	Mood=Ind|Polarity=Neg|Tense=Fut	13	dep	_	[];;
+10	pagi	pagi	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	[];;
+11	,	,	PUNCT	punct	_	9	punct	_	[];;
+12	paeku	joko	NOUN	noun	Clusivity=In|Number[psor]=Plur|Person=1	5	parataxis	_	[];;
+13	iro	_	NOUN	n	_	12	nmod	_	[];;
+14	modykare	_	X	x	Mood=Ind|Polarity=Neg|Tense=Fut	12	dep	_	[];;
 
 # sent_id = FWFFG-006
 # text = Ure boe etore erydywado boe ewadary ji
@@ -3808,7 +3807,7 @@
 5	?	?	PUNCT	punct	_	2	punct	_	[];;
 
 # sent_id = FWFFG-0110
-# text = Fabrício , are iokykidydo boe ewadaru ji
+# text = Fabrício , are iokykidydo boe ewadary ji
 # text_Eng =  Fabrício caused me to be curious about the Bororo language
 # text_por = Fabrício me causou curiosidade sobre a língua bororo
 1	Fabrício	Fabrício	PROPN	propn	_	4	vocative	_	_
@@ -3820,7 +3819,7 @@
 7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = FWFFG-0111
-# text = Boekimo , enure ioku kidygo tagoi mato dyji , awy pago gruputo . Enure ioku kidygo kocare ire imagodo tuwadaru jipagi tuwadary tabo rygado . Oo , enure iekydydo tagoi mato dyji , kocare .
+# text = Boekimo , enure ioku kidygo tagoi mato dyji , awy pago gruputo . Enure ioku kidygo kocare ire imagodo tuwadary jipagi tuwadary tabo rygado . Oo , enure iekydydo tagoi mato dyji , kocare .
 # text_eng =
 # text_por =
 1	Boekimo	boekimo	ADV	adv	_	5	advmod	_	_
