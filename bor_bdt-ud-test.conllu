@@ -1777,7 +1777,7 @@
 21	!	!	PUNCT	punct	_	19	punct	_	_
 
 # sent_id = CoqueiroAutobio-27.1
-# text = Dykeje Badojeba Bakoro Kudu uwadodyre akore : Uw , kodire inagoino ... itore tagae , imedymage tagae
+# text = Dykeje Badojeba Bakoro Kudu uwadodyre akore : Uw , kodire inago oino ... itore tagae , imedymage tagae
 # text_eng =
 # text_por = Aí o chefe Bakoro Kudu fez discurso dizendo: - Sim! Por isso eu falo assim...para vocês meus filhos, para vocês meninos
 1	Dykeje	dykeje	ADV	adv	_	5	advmod	_	_
@@ -1812,7 +1812,7 @@
 # text_eng = This man, his name was Meriri Baru, from the howler monley clan
 # text_por = Este homem, seu ome era Meriri Baru (do clã dos bugios)
 1	Nowy	nowy	DET	dem	Deixis=Med	2	det	_	_
-2	imedy	imedy	NOUN	n	Number=Sing	5	nsubj	_	_
+2	imedy	imedy	NOUN	n	Number=Sing	5	nsubj:outer	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 5	Meriri	Meriri	PROPN	propn	_	0	root	_	_
