@@ -108,14 +108,14 @@
 26	!	!	PUNCT	punct	_	23	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-06
-# text = Akore Aebu mato , awo akowarudo , aerduwo joru ji , aerduwo barogwa kododu ji ; awo akera kabi , awo ae kabi , awo aia kabi , awo awyre kabi ; awo ape kujagu barigu , awo akiguru kujagu barigu ; amearydy awadywo ai !
+# text = Akore Aebu mato , awo akowarydo , aerydywo joru ji , aerydywo barogwa kododu ji ; awo akera kabi , awo ae kabi , awo aia kabi , awo awyre kabi ; awo ape kujagu barigu , awo akiguru kujagu barigu ; amearydy awadywo ai !
 # text_por =  Ele disse: Saia para cá, para se esquentares, para ver o dia, para contemplar o amanhecer; para lavar as mãos, para lavar a boca, para lavar os pés; para fazer as suas necessidades, para ficar esperto.
 1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	1	ccomp	_	_
 3	mato	mato	ADV	adv	_	2	advmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	6	nsubj	_	_
-6	akowarudo	owarudo	VERB	v	Number=Sing|Person=2|Reflex=Yes	2	xcomp	_	_
+6	akowarydo	owarudo	VERB	v	Number=Sing|Person=2|Reflex=Yes	2	xcomp	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
 8	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	6	conj	_	_
 9	joru	joru	NOUN	n	Number=Sing	8	obl	_	_
