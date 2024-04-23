@@ -3841,7 +3841,7 @@
 16	ioku	joky	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	17	obj	_	_
 17	kidygo	kidygo	VERB	v	_	5	parataxis	_	_
 18	kocare	kocare	INTJ	_	_	17	discourse	_	_
-19	ire	i	Pron	bi	Mood=Ind|Number=Sing|Person=1	20	nsubj	_	_
+19	ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	20	nsubj	_	_
 20	imagodo	mako	VERB	vc	Number=Sing|Person=1|Voice=Cau	5	parataxis	_	_
 21	tuwadary	batary	NOUN	n	Number=Sing|Reflex=Yes	20	obl	_	_
 22	ji	ji	ADP	posp	Number=Sing|Person=3	21	case	_	_
