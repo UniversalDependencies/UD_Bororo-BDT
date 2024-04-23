@@ -3027,7 +3027,7 @@
 28	,	,	PUNCT	punct	_	26	punct	_	_
 29	iworeboe	iworeboe	NOUN	n	_	22	conj	_	_
 30	tabo	apo	ADP	posp	_	29	case	_	_
-31	,	,	PUNCT	punct	_	_	_	_	_
+31	,	,	PUNCT	punct	_	29	punct	_	_
 32	pariko	pariko	NOUN	n	_	22	obl	_	_
 33	tabo	apo	ADP	posp	_	32	case	_	_
 34	pugeje	pugeje	ADV	adv	_	32	advmod	_	_
