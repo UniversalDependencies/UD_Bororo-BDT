@@ -2048,11 +2048,11 @@
 6	tagogwage	okwage	VERB	v	Mood=Imp|Number=Plur|Person=2	1	ccomp	_	_
 7	pemegado	pemega	ADV	adv	Voice=Cau	6	advmod	_	_
 8	,	,	PUNCT	punct	_	6	punct	_	_
-9	ire	i	PRON	bi	Mood=Ind|Number=Ind|Person=1	11	nsubj	_	_
+9	ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	11	nsubj	_	_
 10	karo	karo	NOUN	n	Number=Sing	11	obj	_	_
 11	bito	bito	VERB	vt	_	1	parataxis	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
-13	inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Ind|Person=1	15	nsubj	_	_
+13	inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	15	nsubj	_	_
 14	ikedy	edy	VERB	v	Number=Sing|Person=1	15	dep	_	_
 15	amado	ama	VERB	v	Voice=Cau	11	conj	_	_
 16	ji	ji	ADP	posp	Number=Sing|Person=3	15	obl	_	_
