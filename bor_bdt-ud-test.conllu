@@ -449,7 +449,7 @@
 69	...	...	PUNCT	punct	_	64	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-14
-# text = Ca ! Boecodure pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodure . Akore Kao ! Akore Aebu ! Awo akowarudo , aerduwo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awure kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearudu awaduwo ai !
+# text = Ca ! Boecodure pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodure , akore Kao ! Akore Aebu ! Awo akowarudo , aerduwo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awure kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearudu awaduwo ai !
 # text_por = Eis! Anoiteceu de novo, e de novo ele fez amanhecer. Então disse: - Noé!  Disse: - Noé! Ele respondeu gritando: - Kao!Disse: - Saia! Para se esquentar, para ver o fogo, pala lavar as mãos, para lavar o rosto, para lavar a boca, para lavar os pés, para fazer as suas necessidades, para ficares esperto.
 1	Ca	ca	INTJ	intj	_	3	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -517,7 +517,7 @@
 64	!	!	PUNCT	punct	_	62	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-15
-# text = Icare boecodure pugeje . Icare ure barogwa kododydo pugeje . Icare makore ia imedy bogai pugeje . Akore Kiko ! Akore  Kiko ! Kudugodure Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji, awo akera kabi , awo ae kabi , awo aia kabi , awo ape kujagu barigu , awo kiguru kujagu barigu , amearydu awaduwo ai.
+# text = Icare boecodure pugeje . Icare ure barogwa kododydo pugeje . Icare makore ia imedy bogai pugeje . Akore Kiko ! Akore  Kiko ! Kudugodure Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo ape kujagu barigu , awo kiguru kujagu barigu , amearydu awaduwo ai .
 # text_por =  Fez anoitecer de novo, e de novo fez amanhecer. Aí chamou um outro homem dizendo: - Kiko! Chamou: - Kiko! gritou: - Kao! Disse-lhe: Saia! Para se esquentar, para ver o fogo, para lavar as mãos, para lavar o rosto, para lavar a boca; para fazer as suas necessidades, para ficar esperto.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	boecodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -740,7 +740,7 @@
 7	Bororo	Bororo	PROPN	propn	_	6	compound	_	_
 8	kae	kae	ADP	adp	_	6	case	_	_
 9	,	,	PUNCT	punct	_	4	punct	_	_
-10	dytaboie	ie	ADV	adv	Number=Sing|Number[psor]=Sing|Person=3|Speech=Ind	16	advmod	_	_
+10	dytaboie	ie	ADV	adv	Speech=Ind	16	advmod	_	_
 11	icare	ica	ADV	adv	Mood=Ind	16	advmod	_	_
 12	Iwagududoge	Iwagudu	PROPN	propn	_	16	nsubj:outer	_	_
 13	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	16	nsubj	_	_
@@ -846,7 +846,7 @@
 5	kujagurewy	kujagu	NOUN	n	Mood=Ind|Nomzr=Rel	4	nmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-15
-# text = Ia akore pugeje kui , kui , kui; je padyre moto kejeje , pugeje , icare ure toiado bai kuri tuku Okoge Ebowy bure paru kajeje
+# text = Ia akore pugeje kui , kui , kui ; je padyre moto kejeje , pugeje , icare ure toiado bai kuri tuku Okoge Ebowy bure paru kajeje
 # text_eng = 
 # text_por = Um outro cão latiu novamente; kui , kui , kui surgiu do chão novamente , então rodeou rapidamente e ficou bem do lado dos pés de Okoge Ebowu.
 1	Ia	ia	PRON	art	Definite=Ind|PronType=Art	2	nsubj	_	_
