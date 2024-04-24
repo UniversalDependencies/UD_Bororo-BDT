@@ -14,7 +14,7 @@
 # sent_id = HMB-Pemo_e_Baraedugume-02
 # text = Pemo koiare icare ure Pemo metyia iegi . Mare ia pagaboe karega . Nowy Pemo onaregedy . Tonaregedyre ure jeto boe ji pugeje . Mare nowy onaregedy botukare aredy piji.  Koia karega ure towyje jamedu
 # text_eng =
-# text = Foi Pemo que chamou o outro Pemo. Mas ele não era qualquer um. Era o filho de Pemo. Foi ao seu filho que ele colocou para tomar conta da gente. Mas esse seu filho não nasceu de mulher, e também não foi ele quem o fez.. 
+# text = Foi Pemo que chamou o outro Pemo. Mas ele não era qualquer um. Era o filho de Pemo. Foi ao seu filho que ele colocou para tomar conta da gente. Mas esse seu filho não nasceu de mulher, e também não foi ele quem o fez.
 1	Pemo	Pemo	PROPN	propn	_	7	obl	_	_
 2	koiare	koia	ADP	posp	Number=Sing|Person=3	1	case	_	_
 3	icare	icare	ADV	adv	_	7	advmod	_	_
@@ -846,7 +846,7 @@
 5	kujagurewy	kujagu	NOUN	n	Mood=Ind|Nomzr=Rel	4	nmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-15
-# text = Ia akore pugeje kui , kui , kui ; je padyre moto kejeje , pugeje , icare ure toiado bai kuri tuku Okoge Ebowy bure paru kajeje
+# text = Ia akore pugeje kui , kui , kui ; je padyre moto kejeje pugeje , icare ure toiado bai kuri tuku Okoge Ebowy bure paru kajeje
 # text_eng = 
 # text_por = Um outro cão latiu novamente; kui , kui , kui surgiu do chão novamente , então rodeou rapidamente e ficou bem do lado dos pés de Okoge Ebowu.
 1	Ia	ia	PRON	art	Definite=Ind|PronType=Art	2	nsubj	_	_
@@ -862,8 +862,8 @@
 11	padyre	_	VERB	v	Mood=Ind	2	parataxis	_	_
 12	moto	moto	NOUN	_	Number=Sing	11	obl	_	_
 13	kejeje	kejeje	ADP	posp	Number=Sing|Person=3	12	case	_	_
-14	pugeje	_	ADV	_	_	11	advmod	_	_
-15	,	_	PUNCT	_	_	11	punct	_	_
+14	pugeje	pugeje	ADV	_	_	11	advmod	_	_
+15	,	,	PUNCT	_	_	11	punct	_	_
 16	icare	icare	ADV	_	_	18	advmod	_	_
 17	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	18	nsubj	_	_
 18	toiado	_	VERB	_	_	2	parataxis	_	_
