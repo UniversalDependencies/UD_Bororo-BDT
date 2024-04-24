@@ -1289,7 +1289,7 @@
 44	to	to	ADP	posp	Number=Sing|Person=3	43	case	_	_
 45	,	,	PUNCT	punct	_	42	punct	_	_
 46	dypijire	dypiji	ADV	adv	Mood=Ind	47	advcl	_	_
-47	cedyre	ty	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Number=1	42	conj	_	_
+47	cedyre	ty	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	42	conj	_	_
 48	Bakurebo	Bakurebo	PRON	_	_	47	obl	_	_
 49	to	to	ADP	posp	Number=Sing|Person=3	48	case	_	_
 
