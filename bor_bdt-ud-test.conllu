@@ -121,7 +121,7 @@
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	,	,	PUNCT	punct	_	8	punct	_	_
 12	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	6	conj	_	_
-13	barogwa	barogwa	ADV	n	Number=Sing	12	advmod	_	_
+13	barogwa	barogwa	ADV	n	_	12	advmod	_	_
 14	kododu	kododu	VERB	v	_	12	obl	_	increase,advance;aumetoar,avançar
 15	ji	ji	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	;	;	PUNCT	punct	_	12	punct	_	_
@@ -202,7 +202,7 @@
 32	!	!	PUNCT	punct	_	30	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-09
-# text = Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi . Akore Awo ape kujagu barigu , awo akiguru kujagu barigu , amearydy awadywo ai
+# text = Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi . Akore awo ape kujagu barigu , awo akiguru kujagu barigu , amearydy awadywo ai
 # text_por =  Disse: - Saia! Para se esquentar, para ver o fogo, para lavar as mãos e o rosto, para fazer as sus necessidades, para ficar esperto.
 1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	1	ccomp	_	_
@@ -302,10 +302,10 @@
 # text = Ure tuiebu
 # text_por =  Ele saiu.
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
-2	tuiebu	ebu	VERB	v	Reflex=Yes	0	root	_	_
+2	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-12
-# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emeardae reore : aora bokware , joku bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core, kaworure . Oinore ure , dure padure nono , nowy inodu re nure ji gu ...
+# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joku bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core, kaworure . Oinore ure , dure padure nono , nowy inodu re nure ji gu ...
 # text_por =  Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí .....
 1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
 2	nowy	nowy	DET	dem	Deixis=Remt	3	det	_	_
@@ -329,7 +329,7 @@
 20	,	,	PUNCT	punct	_	16	punct	_	_
 21	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	22	nsubj	_	_
 22	emearydae	mearydae	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	4	conj	_	_
-23	reore	_	X	_	_	22	advmod	_	_
+23	reore	_	ADV	x	_	22	advmod	_	_
 24	:	:	PUNCT	punct	_	22	punct	_	_
 25	aora	aora	NOUN	_	_	22	conj	_	_
 26	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	25	cop	_	_
@@ -376,28 +376,28 @@
 67	...	...	PUNCT	punct	_	63	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-13
-# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padure nono , nowy inodure renure , ji gu ...
+# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padure nono , nowy inodure renu re ji gu ...
 # text_por = Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles  se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí 
-1	Mare	mare	CCONJ	cconj	_	4	cc	4:cc	_
-2	nowy	nowy	DET	dem	Deixis=Remt	3	det	3:det	_
-3	ime	imedy	NOUN	n	Number=Plur	4	nsubj	4:nsubj	_
-4	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	0:root	_
-5	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	4:obl	_
-6	.	.	PUNCT	punct	_	4	punct	4:punct	_
-7	Eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	parataxis	4:parataxis	_
-8	nowy	nowy	DET	dem	Deixis=Remt	9	det	9:det	_
-9	imedy	imedy	NOUN	n	Number=Sing	7	obl	7:obl	_
-10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	9:case	_
-11	,	,	PUNCT	punct	_	9	punct	9:punct	_
-12	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	conj	4:conj	_
-13	Pemo	Pemo	PROPN	propn	_	12	obl	12:obl	_
-14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	13:case	_
-15	.	.	PUNCT	punct	_	12	punct	12:punct	_
-16	Eerydyre	erydy	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	conj	4:conj	_
-17	nowy	nowy	DET	dem	Deixis=Remt	18	det	18:det	_
-18	Pemo	Pemo	PROPN	propn	_	16	obl	16:obl	_
-19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	18:case	_
-20	,	,	PUNCT	punct	_	16	punct	16:punct	_
+1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
+2	nowy	nowy	DET	dem	Deixis=Remt	3	det	_	_
+3	ime	imedy	NOUN	n	Number=Plur	4	nsubj	_	_
+4	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	parataxis	_	_
+8	nowy	nowy	DET	dem	Deixis=Remt	9	det	_	_
+9	imedy	imedy	NOUN	n	Number=Sing	7	obl	_	_
+10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	conj	_	_
+13	Pemo	Pemo	PROPN	propn	_	12	obl	_	_
+14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
+15	.	.	PUNCT	punct	_	12	punct	_	_
+16	Eerydyre	erydy	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	conj	_	_
+17	nowy	nowy	DET	dem	Deixis=Remt	18	det	_	_
+18	Pemo	Pemo	PROPN	propn	_	16	obl	_	_
+19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
+20	,	,	PUNCT	punct	_	16	punct	_	_
 21	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	22	nsubj	22:nsubj	_
 22	emearydae	mearydae	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	4	conj	4:conj	_
 23	reore	reo	NOUN	n	_	22	advmod	22:advmod	_
@@ -444,9 +444,9 @@
 64	inodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	conj	56:conj	_
 65	re	re	X	_	_	64	dep	64:dep	_
 66	nure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	64	dep	64:dep	_
-67	ji	ji	ADP	posp	Number=Sing|Person=3	64	case	64:case	_
-68	gu	gu	X	_	_	64	dep	64:dep	_
-69	...	...	PUNCT	punct	_	64	punct	64:punct	_
+67	ji	ji	ADP	posp	Number=Sing|Person=3	64	case	_	_
+68	gu	gu	X	_	_	64	dep	_	_
+69	...	...	PUNCT	punct	_	64	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-14
 # text = Ca ! Boecodure pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodure . Akore Kao ! Akore Aebu ! Awo akowarudo , aerduwo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awure kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearudu awaduwo ai !
