@@ -909,10 +909,10 @@
 # text = Dytabo Boe egore dutaboie icare arigaodogere tumaedo oino Iwagududoge eiogi
 # text_eng =  
 # text_por = Portanto , os Bororo falam , por isso que os cães foram destinados aos Iwagududoge.
-1	Dytabo	tabo	ADP	posp	Number=Sing|Person=3	3	advmod	_	_
+1	Dytabo	tabo	ADV	adv	Number=Sing|Person=3	3	advmod	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-4	dutaboie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	7	advmod	_	_
+4	dutaboie	ie	ADV	adv	Number=Sing|Number[psor]=Sing|Person=3	7	advmod	_	_
 5	icare	ica	ADV	adv	Mood=Ind	7	advmod	_	_
 6	arigaodogere	arigao	NOUN	n	Mood=Ind|Number=Plur	7	nsubj	_	_
 7	tumaedo	maedo	VERB	v	Reflex=Yes|Voice=Cau	3	ccomp	_	_
