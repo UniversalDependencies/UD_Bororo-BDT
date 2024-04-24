@@ -1075,7 +1075,7 @@
 1	Okoge	Okoge	PROPN	propn	_	3	dep	_	_
 2	Ebowu	Ebowu	PROPN	propn	_	1	compound	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
-4	Arigao	arigao	PROPN	propn	Number=Sing	7	obj	_	_
+4	Arigao	arigao	PROPN	propn	_	7	obj	_	_
 5	Kigadu	kigadu	NOUN	n	_	4	nmod	_	_
 6	maerewy	mae	NOUN	n	Mood=Ind|Nomzr=Rel	5	nmod	_	_
 7	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	_
