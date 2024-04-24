@@ -895,7 +895,7 @@
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	:	:	PUNCT	punct	_	3	punct	_	_
-5	dukeje	keje	ADP	posp	Number=Sing|Person=3	8	advmod	_	_
+5	dukeje	keje	ADV	adv	_	8	advmod	_	_
 6	icare	ica	ADV	adv	Mood=Ind	8	advmod	_	_
 7	arigaodoge	arigao	NOUN	n	Number=Sing	8	nsubj	_	_
 8	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	3	ccomp	_	_
@@ -909,7 +909,7 @@
 # text = Dytabo Boe egore dutaboie icare arigaodogere tumaedo oino Iwagududoge eiogi
 # text_eng = 
 # text_por = Portanto , os Bororo falam , por isso que os cães foram destinados aos Iwagududoge.
-1	Dytabo	tabo	ADV	adv	Number=Sing|Person=3	3	advmod	_	_
+1	Dytabo	tabo	ADV	adv	_	3	advmod	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	dutaboie	ie	ADV	adv	Number=Sing|Number[psor]=Sing|Person=3	7	advmod	_	_
