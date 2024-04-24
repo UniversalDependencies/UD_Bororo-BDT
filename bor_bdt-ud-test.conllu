@@ -238,7 +238,7 @@
 32	ai	ji	ADP	posp	Number=Sing|Person=2	31	obl	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-10
-# text = Icare ure boecodydo pugeje . Icare ure barogwa kododydo pugeje . Icare nowy onaregedy makore pugeje. Akore Mané ! Akore Mané ! Dykeje icare kudugodure , akore Kao ! Akore Aebu mato ! awo akowarudo , aerduwo joruji , awo akera kabi , awo aia kabi , awo awure kabi , amearydy awadywo ai !
+# text = Icare ure boecodydo pugeje . Icare ure barogwa kododydo pugeje . Icare nowy onaregedy makore pugeje. Akore Mané ! Akore Mané ! Dykeje icare kudugodure , akore Kao ! Akore Aebu mato ! awo akowarudo , aerydywo joruji , awo akera kabi , awo aia kabi , awo awure kabi , amearydy awadywo ai !
 # text =  Depois fez anoitecer de novo, e fez amanhecer de novo. Aí o filho dele chamou também, dizendo: - Manoel! – Manoel! Este respondeu gritando: - Kao! Ele disse: - Saia para cá! Para se esquentar, para ver o fogo, para lavar as mãos, para lavar a boca, para lavar os pés, para ficar esperto.
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
@@ -449,7 +449,7 @@
 69	...	...	PUNCT	punct	_	64	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-14
-# text = Ca ! Boecodure pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodure , akore Kao ! Akore Aebu ! Awo akowarudo , aerduwo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awure kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearudu awaduwo ai !
+# text = Ca ! Boecodure pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodure , akore Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awure kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearudu awaduwo ai !
 # text_por = Eis! Anoiteceu de novo, e de novo ele fez amanhecer. Então disse: - Noé!  Disse: - Noé! Ele respondeu gritando: - Kao!Disse: - Saia! Para se esquentar, para ver o fogo, pala lavar as mãos, para lavar o rosto, para lavar a boca, para lavar os pés, para fazer as suas necessidades, para ficares esperto.
 1	Ca	ca	INTJ	intj	_	3	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
