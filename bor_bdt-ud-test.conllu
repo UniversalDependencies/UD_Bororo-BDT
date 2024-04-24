@@ -465,7 +465,7 @@
 12	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 13	Nowé	Nowé	PROPN	propn	_	12	ccomp	_	_
 14	!	!	PUNCT	punct	_	13	punct	_	_
-15	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	conj	_	_
+15	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	conj	_	_
 16	Nowé	Nowé	PROPN	propn	_	15	ccomp	_	_
 17	!	!	PUNCT	punct	_	16	punct	_	_
 18	Dykeje	dykeje	ADV	adv	_	20	advmod	_	_
@@ -475,10 +475,10 @@
 22	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	conj	_	_
 23	Kao	Kao	X	_	_	22	cc	_	_
 24	!	!	PUNCT	punct	_	23	punct	_	_
-25	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	conj	_	_
+25	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	conj	_	_
 26	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	25	ccomp	_	_
 27	!	!	PUNCT	punct	_	26	punct	_	_
-28	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	29	nsubj	_	_
+28	Awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	29	nsubj	_	_
 29	akowarudo	owarudo	VERB	v	Number=Sing|Person=2|Reflex=Yes	20	conj	_	_
 30	,	,	PUNCT	punct	_	29	punct	_	_
 31	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	20	conj	_	_
@@ -517,7 +517,7 @@
 64	!	!	PUNCT	punct	_	62	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-15
-# text = Icare boecodure pugeje . Icare ure barogwa kododydo pugeje . Icare makore ia imedy bogai pugeje . Akore Kiko ! Akore  Kiko ! Kudugodure Kao! Akore Aebu ! Awo akowarudo , aerduwo joru ji, awo akera kabi , awo ae kabi , awo aia kabi , awo ape kujagu barigu , awo kiguru kujagu barigu , amearydu awaduwo ai.
+# text = Icare boecodure pugeje . Icare ure barogwa kododydo pugeje . Icare makore ia imedy bogai pugeje . Akore Kiko ! Akore  Kiko ! Kudugodure Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji, awo akera kabi , awo ae kabi , awo aia kabi , awo ape kujagu barigu , awo kiguru kujagu barigu , amearydu awaduwo ai.
 # text_por =  Fez anoitecer de novo, e de novo fez amanhecer. Aí chamou um outro homem dizendo: - Kiko! Chamou: - Kiko! gritou: - Kao! Disse-lhe: Saia! Para se esquentar, para ver o fogo, para lavar as mãos, para lavar o rosto, para lavar a boca; para fazer as suas necessidades, para ficar esperto.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	boecodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -543,7 +543,7 @@
 22	Kiko	Kiko	PROPN	_	_	21	vocative	_	_
 23	!	!	PUNCT	punct	_	22	punct	_	_
 24	Kudugodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	18	conj	_	_
-25	Kao	_	X	_	_	24	vocative	_	_
+25	Kao	Kao	X	_	_	24	vocative	_	_
 26	!	!	PUNCT	punct	_	25	punct	_	_
 27	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	18	conj	_	_
 28	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	27	ccomp	_	_
@@ -740,7 +740,7 @@
 7	Bororo	Bororo	PROPN	propn	_	6	compound	_	_
 8	kae	kae	ADP	adp	_	6	case	_	_
 9	,	,	PUNCT	punct	_	4	punct	_	_
-10	dytaboie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3|Speech=Ind	16	advmod	_	_
+10	dytaboie	ie	ADV	adv	Number=Sing|Number[psor]=Sing|Person=3|Speech=Ind	16	advmod	_	_
 11	icare	ica	ADV	adv	Mood=Ind	16	advmod	_	_
 12	Iwagududoge	Iwagudu	PROPN	propn	_	16	nsubj:outer	_	_
 13	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	16	nsubj	_	_
