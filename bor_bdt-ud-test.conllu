@@ -77,7 +77,7 @@
 19	tuguwo	kuo	VERB	v	Reflex=Yes	2	parataxis	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-04
-# text = Makore tonaregedy bogai nowy baito to , akore imedy ! Dykeje icare ure iegi. Akore imedy Braedugume ! Makore pugeje . Akore imedy Braedugume !
+# text = Makore tonaregedy bogai nowy baito to , akore imedy ! Dykeje icare ure iegi . Akore imedy Baraedugume ! Makore pugeje . Akore imedy Braedugume !
 # text_por =  Chamou seu filho lá dentro do baito, dizendo: - Meu filho! Aí ele lhe deu nome dizendo: - Meu filho Braedugume! Chamou de novo dizendo: - Meu filho Braedugume!
 1	Makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	1	obl	_	_
@@ -96,7 +96,7 @@
 15	.	.	PUNCT	punct	_	14	punct	_	_
 16	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
 17	imedy	imedy	NOUN	n	Number=Sing	16	ccomp	_	_
-18	Braedugume	Braedugume	PROPN	propn	_	17	appos	_	_
+18	Baraedugume	Braedugume	PROPN	propn	_	17	appos	_	_
 19	!	!	PUNCT	punct	_	16	punct	_	_
 20	Makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	16	conj	_	_
 21	pugeje	pugeje	ADV	adv	_	20	advmod	_	_
@@ -121,7 +121,7 @@
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	,	,	PUNCT	punct	_	8	punct	_	_
 12	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	6	conj	_	_
-13	barogwa	barogwa	NOUN	n	Number=Sing	12	advmod	_	_
+13	barogwa	barogwa	ADV	n	Number=Sing	12	advmod	_	_
 14	kododu	kododu	VERB	v	_	12	obl	_	increase,advance;aumetoar,avançar
 15	ji	ji	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	;	;	PUNCT	punct	_	12	punct	_	_
@@ -202,7 +202,7 @@
 32	!	!	PUNCT	punct	_	30	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-09
-# text = Akore Aebu ! Awo akowarudo , aerduwo joru ji , awo akera kabi , awo ae kabi . Akore Awo ape kujagu barigu , awo akiguru kujagu barigu , amearydy awadywo ai
+# text = Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi . Akore Awo ape kujagu barigu , awo akiguru kujagu barigu , amearydy awadywo ai
 # text_por =  Disse: - Saia! Para se esquentar, para ver o fogo, para lavar as mãos e o rosto, para fazer as sus necessidades, para ficar esperto.
 1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	1	ccomp	_	_
@@ -222,7 +222,7 @@
 16	ae	ae	NOUN	n	Number=Sing	17	obj	_	_
 17	kabi	kabi	VERB	vt	Number=Sing|Person=3	5	conj	_	_
 18	.	.	PUNCT	punct	_	17	punct	_	_
-19	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
+19	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
 20	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	23	nsubj	_	_
 21	ape	ape	NOUN	n	_	23	obj	_	_
 22	kujagu	kujagu	NOUN	n	_	21	nmod	_	_
