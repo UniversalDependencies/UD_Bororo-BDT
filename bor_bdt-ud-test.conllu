@@ -9222,7 +9222,7 @@
 # text_eng = The inside of the hut is dark, but wait, it will be lit
 # text_por = O interior da choupana é escuro, mas, espera, será iluminado
 1	Boe	boe	NOUN	n	_	2	nmod	_	_
-2	core	co	NOUN	n	Mood=Caus	4	nsubj	_	_
+2	core	co	NOUN	n	Mood=Ind	4	nsubj	_	_
 3	bai	bai	NOUN	n	_	4	nmod	_	_
 4	tada	tada	NOUN	n	_	0	root	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
@@ -11051,7 +11051,7 @@
 32	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	28	discourse	_	[];;
 
 # sent_id = NT.GO.Jo.8-23
-# text = Icare akore ei : woje comoroiwuge tagireo ; cebojewu imireo . Awy moto kejewuge nure tagi , mare imi karega
+# text = Icare akore ei : woje comoroiwyge tagireo ; cebojewy imireo . Awy moto kejewygenure tagi , mare imi karega
 # text_eng = But he continued: You are from below; I am from above. You are of this world; I am not of this world.
 # text_por = Mas ele continuou: Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo.
 1	Icare	icare	ADV	adv	_	2	advmod	_	[];;
@@ -11059,21 +11059,20 @@
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	[];;
 4	:	:	PUNCT	punct	_	2	punct	_	[];;
 5	woje	_	ADV	adv	_	6	advmod	_	[];;
-6	comoroiwuge	comoroi	ADP	posp	Nomzr=Rel|Number=Plur	2	ccomp	_	[];;
+6	comoroiwyge	comoroi	ADP	posp	Nomzr=Rel|Number=Plur	2	ccomp	_	[];;
 7	tagireo	_	PRON	_	Number=Plur|Person=2	6	nsubj	_	[];;
 8	;	;	PUNCT	punct	_	6	punct	_	[];;
-9	cebojewu	ceboj	ADP	posp	Nomzr=Rel	6	conj	_	[];;
+9	cebojewy	ceboj	ADP	posp	Nomzr=Rel	6	conj	_	[];;
 10	imireo	_	PRON	_	Number=Plur|Person=2	9	nsubj	_	[];;
 11	.	.	PUNCT	punct	_	9	punct	_	[];;
 12	Awy	awy	DET	dem	Deixis=Prox	13	det	_	[];;
 13	moto	moto	NOUN	n	Number=Sing	14	nmod	_	[];;
-14	kejewuge	_	ADP	posp	Aspect=Prog|Mood=Ind|Nomzr=Rel|Number=Plur	6	parataxis	_	[];;
-15	nure	_	X	x	Aspect=Prog|Mood=Ind	14	dep	_	[];;
-16	tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	[];;
-17	,	,	PUNCT	punct	_	14	punct	_	[];;
-18	mare	mare	CCONJ	cconj	_	20	cc	_	[];;
-19	imi	imi	PRON	_	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	[];;
-20	karega	karega	X	x	Polarity=Neg	14	conj	_	[];;
+14	kejewygenure	_	NOUN	n	Aspect=Prog|Mood=Ind|Nomzr=Rel|Number=Plur	6	parataxis	_	[];;
+15	tagi	tagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	[];;
+16	,	,	PUNCT	punct	_	14	punct	_	[];;
+17	mare	mare	CCONJ	cconj	_	19	cc	_	[];;
+18	imi	imi	PRON	_	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	[];;
+19	karega	karega	X	x	Polarity=Neg	14	conj	_	[];;
 
 # sent_id = NT.GO.Jo.8-24
 # text = Inagore tai tawimodyie taro pegarewy tadaduji , mare paga karega , tameartorumodykare imie rugadu ma , tawimode taro pegarewy tada
