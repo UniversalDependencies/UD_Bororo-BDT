@@ -238,7 +238,7 @@
 32	ai	ji	ADP	posp	Number=Sing|Person=2	31	obl	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-10
-# text = Icare ure boecodydo pugeje . Icare ure barogwa kododydo pugeje . Icare nowy onaregedy makore pugeje. Akore Mané ! Akore Mané ! Dykeje icare kudugodure , akore Kao ! Akore Aebu mato ! awo akowarudo , aerduwo joruji , awo akera kabi , awo aia kabi , awo awure kabi , amearudu awaduwo ai !
+# text = Icare ure boecodydo pugeje . Icare ure barogwa kododydo pugeje . Icare nowy onaregedy makore pugeje. Akore Mané ! Akore Mané ! Dykeje icare kudugodure , akore Kao ! Akore Aebu mato ! awo akowarudo , aerduwo joruji , awo akera kabi , awo aia kabi , awo awure kabi , amearydy awadywo ai !
 # text =  Depois fez anoitecer de novo, e fez amanhecer de novo. Aí o filho dele chamou também, dizendo: - Manoel! – Manoel! Este respondeu gritando: - Kao! Ele disse: - Saia para cá! Para se esquentar, para ver o fogo, para lavar as mãos, para lavar a boca, para lavar os pés, para ficar esperto.
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
@@ -293,8 +293,8 @@
 51	awure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	52	obj	_	_
 52	kabi	kabi	VERB	vt	Number=Sing|Person=3	36	conj	_	_
 53	,	,	PUNCT	punct	_	52	punct	_	_
-54	amearudu	mearudu	NOUN	n	_	55	nsubj	_	_
-55	awaduwo	waduwo	VERB	v	Mood=Sub	36	conj	_	_
+54	amearydy	mearudu	NOUN	n	_	55	nsubj	_	_
+55	awadywo	waduwo	VERB	v	Mood=Sub	36	conj	_	_
 56	ai	ji	ADP	posp	Number=Sing|Person=2	55	obl	_	_
 57	!	!	PUNCT	punct	_	55	punct	_	_
 
@@ -346,7 +346,7 @@
 37	pogora	_	NOUN	_	_	25	conj	_	_
 38	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	37	cop	_	_
 39	.	.	PUNCT	punct	_	37	punct	_	_
-40	ia	ia	DET	_	Definite=Ind|PronType=Art	41	det	_	_
+40	Ia	ia	DET	_	Definite=Ind|PronType=Art	41	det	_	_
 41	boe	boe	NOUN	n	_	43	nsubj	_	_
 42	aiarewy	aia	NOUN	n	Mood=Ind|Nomzr=Rel	41	nmod	_	_
 43	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	25	conj	_	_
