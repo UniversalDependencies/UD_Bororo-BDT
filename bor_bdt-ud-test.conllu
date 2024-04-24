@@ -2844,7 +2844,7 @@
 5	nowy	nowy	DET	dem	Deixis=Med	6	det	_	_
 6	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	7	obj	_	_
 7	tawyji	tawyji	VERB	v	Number=Sing|Person=3	3	conj	_	_
-8	mato	mato	ADV	adv	AdvType=Dir	7	advmod	_	_
+8	mato	mato	ADV	adv	_	7	advmod	_	_
 9	pugeje	pugeje	ADV	adv	_	7	advmod	_	_
 
 # sent_id = IpareEreru-1
@@ -3097,7 +3097,7 @@
 10	boe	boe	NOUN	n	Number=Plur	11	nsubj	_	_
 11	eibagiunure	_	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	2	conj	_	_
 12	,	,	PUNCT	punct	_	11	punct	_	_
-13	jure	jure	NOUN	n	_	_	_	_	_
+13	jure	jure	NOUN	n	_	11	obl	_	_
 14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
 
 # sent_id = IpareEreru-15
@@ -6733,7 +6733,7 @@
 # text = imaragodynure
 # text_eng = I am working
 # text_por = eu estou/estava trabalhando
-1	imaragody	maragody	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
+1	imaragodynure	maragody	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 
 # sent_id = 0071f.PessGr
 # text = kaeba bogaiba akaregodyre ?
@@ -6968,7 +6968,7 @@
 # text = Imaragodynure
 # text_eng = I am working
 # text_por = Estou trabalhando
-1	Imaragody	maragody	VERB	vi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
+1	Imaragodynure	maragody	VERB	vi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 
 # sent_id = 0091b.PessGr
 # text = Inure maky
