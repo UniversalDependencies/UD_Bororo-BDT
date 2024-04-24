@@ -921,7 +921,7 @@
 10	eiogi	joki	ADP	posp	Number=Plur|Person=3	9	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-19
-# text = Oinore Boe egore arigaodoge co pega pegarewyge ; kigadu pega pegarewyge icare ere tumaedu , oino , Iwagududoge eiogi
+# text = Oinore Boe egore arigaodoge co pega pegarewyge ; kigadu pega pegarewyge icare ere tumaedo , oino , Iwagududoge eiogi
 # text_eng = 
 # text_por = Assim os Bororo falam , os cães pretos foscos/com falhas na coloração , os cães brancos com falhas na coloração , então foram destinados aos Iwagudu.
 1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
@@ -1015,7 +1015,7 @@
 # text_eng = 
 # text_por = Por isso então Aroia Kurirewy doou o cão preto por completo a Akaruio Bokodori.
 1	Dytabore	dytabore	ADV	adv	_	9	advmod	_	_
-2	icare	icare	NOUN	n	_	9	advmod	_	_
+2	icare	icare	ADV	n	_	9	advmod	_	_
 3	Aroia	Aroia	PROPN	propn	_	8	dep	_	_
 4	Kurirewyre	kurire	PRON	propn	_	3	compound	_	_
 5	arigao	arigao	NOUN	n	Number=Sing	9	iobj	_	_
@@ -1037,7 +1037,7 @@
 4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	Bakoro	Bakoro	PROPN	propn	_	4	ccomp	_	_
 6	Uwuria	Uwuria	PROPN	propn	_	5	compound	_	_
-7	,	,	PUNCt	punct	_	4	punct	_	_
+7	,	,	PUNCT	punct	_	4	punct	_	_
 8	oino	oino	ADV	adv	_	4	advcl	_	_
 9	arigao	arigao	NOUN	n	Number=Sing	4	obl	_	_
 10	corewy	co	NOUN	n	Mood=Ind|Nomzr=Rel	9	nmod	_	_
@@ -1088,7 +1088,7 @@
 14	Arigao	Arigao	PROPN	propn	_	13	ccomp	_	_
 15	Kigadurewy	Kigadurewy	PROPN	propn	_	14	compound	_	_
 16	rugadu	rugadu	ADV	adv	_	14	advmod	_	_
-17	,	,	PUNCT	punct	_	13	punct	_	_
+17	,	,	PUNCT	punct	_	14	punct	_	_
 18	ie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	19	nsubj	_	_
 19	bokwa	bokwa	ADV	adv	Polarity=Neg	14	conj	_	_
 
@@ -1096,7 +1096,7 @@
 # text = Iwagududoge ere ia Arigao Kigadurewy maky Ino Kuri ai , eno core
 # text_eng = 
 # text_por = Os Iwagudu deram um cão branco a Ino Kuri , com nariz preto.
-1	Iwagududoge	Iwagudu	PROPN	propn	Number=Plur	2	dep	_	_
+1	Iwagududoge	Iwagudu	PROPN	propn	_	2	dep	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
 3	ia	ia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
 4	Arigao	Arigao	PROPN	propn	_	6	obj	_	_
@@ -1118,7 +1118,7 @@
 3	awy	awy	DET	dem	Deixis=Prox	4	det	_	_
 4	arigao	arigao	NOUN	n	Number=Sing	5	nsubj	_	_
 5	iemode	ie	NOUN	n	Mood=Ind|Number=Sing|Tense=Fut	2	ccomp	_	_
-6	Arigao	Arigao	PROPN	propn	_	5	cc	_	_
+6	Arigao	Arigao	PROPN	propn	_	5	ccomp	_	_
 7	Aeno	Aeno	PROPN	propn	_	6	compound	_	_
 8	,	,	PUNCT	punct	_	5	punct	_	_
 9	oino	oino	ADV	adv	_	10	advmod	_	_
@@ -1245,7 +1245,7 @@
 # text_por = Depois eu fui embora. Fui para o lado oposto (do rio), para o pantanal, com o meu pai e com a minha mãe. Fui com um grupo grande. Os Bororo andaram muito tempo para lá, e chegaram ao rio Kiwabo (rio das capivaras). Do rio Kiwabo fomos embora para o rio Tuguribo (rio das palmeiras carandá) e dali nós fomos embora para o rio Bakurebo (rio dos macacos bakure)
 1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
 2	icare	icare	ADV	adv	_	1	compound	_	_
-3	ityre	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	_	_	_	_
+3	ityre	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 5	ityre	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	3	parataxis	_	_
 6	woje	woje	ADV	adv	_	5	advmod	_	_
@@ -1482,7 +1482,7 @@
 12	...	...	PUNCT	punct	_	9	punct	_	_
 13	Boe	boe	NOUN	n	Number=Plur	14	nsubj	_	_
 14	etaregodure	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	9	parataxis	_	_
-15	Aodorodoge	Aodorodoge	PROPN	propn	Number=Plur	14	obl	_	_
+15	Aodorodoge	Aodorodoge	PROPN	propn	_	14	obl	_	_
 16	Emerao	Emerao	PROPN	propn	_	15	compound	_	_
 17	maridoguru	maridoguru	NOUN	n	_	14	appos	_	_
 18	to	to	ADP	posp	Number=Plur|Person=3	17	case	_	_
@@ -1494,7 +1494,7 @@
 # text_por = Sim! A paisagem era bonita! A areia era bonita, amarela, ao longo daquele buritizal.Chamava-se o buritizal de Aodorodoge Emarao. Os rapazes costumavam correr a procura de cocos de buriti.
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Boe	boe	NOUN	n	Number=Sing	4	nsubj	_	_
+3	Boe	boe	NOUN	n	Number=Sing	4	nsubj	a_	_
 4	motyre	moty	VERB	v	Mood=Ind	0	root	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	_
 6	Kugaru	kugaru	NOUN	n	Number=Sing	7	nsubj	_	_
@@ -1508,7 +1508,7 @@
 14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	13	punct	_	_
 16	Iere	ie	VERB	v	Mood=Ind	17	nsubj	_	_
-17	Aodorodoge	Aodoro	PROPN	propn	Number=Plur	4	parataxis	_	_
+17	Aodorodoge	Aodoro	PROPN	propn	_	4	parataxis	_	_
 18	Emerao	_	PROPN	propn	_	17	compound	_	_
 19	maridoguru	_	NOUN	n	_	17	appos	_	_
 20	.	.	PUNCT	punct	_	17	punct	_	_
