@@ -951,7 +951,7 @@
 1	Awy	awy	DET	dem	Deixis=Prox	2	det	_	_
 2	arigao	arigao	NOUN	n	Number=Sing	0	root	_	_
 3	co	co	NOUN	n	_	2	nmod	_	_
-4	maerewy	mae	NOUN	n	Mood=Ind|Nomzr=Rel	3	advmod	_	_
+4	maerewy	mae	ADV	adv	Mood=Ind|Nomzr=Rel	3	advmod	_	_
 5	bure	bure	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
 6	jore	jore	X	x	_	5	dep	_	_
 7	co	co	NOUN	n	_	8	nmod	_	_
@@ -1004,7 +1004,7 @@
 13	pemegare	pemega	NOUN	n	Mood=Ind	0	root	_	_
 14	;	;	PUNCT	punct	_	13	punct	_	_
 15	kodure	kodu	VERB	vi	Mood=Ind|Number=Sing|Person=3	13	parataxis	_	_
-16	boiwuge	boiwu	NOUN	n	Number=Plur	15	advmod	_	_
+16	boiwuge	boiwu	ADV	adv	Number=Plur	15	advmod	_	_
 17	,	,	PUNCT	punct	_	15	punct	_	_
 18	emagere	emage	PRON	pron	Mood=Ind|Number=Plur	20	discourse	_	_
 19	enoroe	oroe	NOUN	n	Number=Plur	20	nsubj	_	_
