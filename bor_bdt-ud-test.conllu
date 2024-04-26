@@ -3820,7 +3820,7 @@
 # sent_id = FWFFG-0111
 # text = Boekimo , enure ioku kidygo tagoi mato dyji , awy pago grupu to . Enure ioku kidygo kocare ire imagodo tuwadary ji pagi tuwadary tabo rygado . Oo , enure iekydydo tagoi mato dyji , kocare .
 # text_eng =
-# text_por =
+# text_por = Eu tô curioso olhando nesse nosso grupo, no que eles estão falando e fez com que eu respondesse também na nossa língua… nossa… que coisa
 1	Boekimo	boekimo	ADV	adv	_	5	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	enure	e	PRON	bi	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
