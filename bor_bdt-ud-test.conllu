@@ -1612,7 +1612,7 @@
 15	jamedy	jamedy	ADV	adv	_	12	advmod	_	_
 
 # sent_id = CoqueiroAutobio-21.1
-# text = Icare cedaregodyre . Ia boe ewogware , ia boe ewire Kejari keje , dykae radu cedaregodyre . Boe emagare, dykaere cedaregodyre , ia etumedyia bire dykae
+# text = Icare cedaregodyre . Ia boe ewogware , ia boe ewire Kejari keje , dykae radu cedaregodyre . Boe emagare , dykaere cedaregodyre , ia etumedyia bire dykae
 # text_eng =
 # text_por = Então chegamos. Chegamos quando alguém tinha falecido, alguém tinha morrido em Kejari. Chegamos quando tinha muitos Bororo, quando um deles tinha morrido.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
@@ -1644,7 +1644,7 @@
 27	dykae	dykae	SCONJ	sconj	_	26	mark	_	_
 
 # sent_id = CoqueiroAutobio-21.2
-# text = Kodire padyre ba oiadoda . Dykaere cedaregodyre . Kodi icare , nowy ceroino apowu cegimejerage eragodyre , nowy birewy keje . Uw ! Boe emagare kode Boe enure boe motydo tu rugadu . Oino
+# text = Kodire padyre ba oiadoda . Dykaere cedaregodyre . Kodi icare , nowy ceroino apowu cegimejerage eragodyre , nowy birewy keje . Uw ! Boe emagare kode Boe enure boe motydo ty rugadu . Oino
 # text_eng =
 # text_por = Chegamos quando ele estava (enterrado) no meio da praça. Por isso os chefes que iam conosco cantaram sobre o finado. Sim! Tinha muitos Bororo, por isso eles estavam fazendo bonito mesmo. Assim
 1	Kodire	kodi	SCONJ	sconj	Mood=Ind	2	advcl	_	_
@@ -1708,7 +1708,7 @@
 20	Kejari	Kejari	PROPN	propn	_	18	obl	_	_
 21	keje	keje	ADP	posp	Number=Sing|Person=3	20	case	_	_
 22	,	,	PUNCT	punct	_	18	punct	_	_
-23	iparedure	paredy	VERB	v	Mood=Ind|Number=Sing|Person=1	18	advcl	_	_
+23	iparedyre	paredy	VERB	v	Mood=Ind|Number=Sing|Person=1	18	advcl	_	_
 24	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_
 25	dytabo	dytabo	SCONJ	sconj	_	23	mark	_	_
 
