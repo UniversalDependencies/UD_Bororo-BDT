@@ -1359,7 +1359,7 @@
 6	Adugo	adugo	PROPN	propn	_	14	obl	_	_
 7	Jari	Jari	PROPN	propn	_	6	compound	_	_
 8	tada	tada	ADP	posp	_	6	case	_	_
-9	,	,	PUNCT	punct	_	_	_	_	_
+9	,	,	PUNCT	punct	_	6	punct	_	_
 10	itura	itura	NOUN	n	_	6	appos	_	_
 11	kurirewy	kuri	NOUN	n	Mood=Ind|Nomzr=Rel	10	nmod	_	_
 12	,	,	PUNCT	punct	_	10	punct	_	_
