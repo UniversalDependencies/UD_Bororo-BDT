@@ -2828,7 +2828,7 @@
 12	pagabo	apo	ADP	posp	Clusivity=In|Number=Plur|Person=1	11	obl	_	_
 13	,	,	PUNCT	punct	_	6	punct	_	_
 14	kodire	kodire	ADV	adv	_	15	advmod	_	_
-15	pamagokare	mako	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Polarity=Neg	6	advmod	_	_
+15	pamagokare	mako	ADV	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Polarity=Neg	6	advmod	_	_
 16	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	15	obl	_	_
 17	ji	ji	ADP	posp	Number=Sing|Person=3	16	case	_	_
 18	pugeje	pugeje	ADV	adv	_	15	advcl	_	_
