@@ -2754,7 +2754,7 @@
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	kodo	_	ADV	adv	_	13	advcl	_	_
 11	maiwyge	maiwy	NOUN	n	Number=Plur	12	nmod	_	_
-12	boe	boe	NOUN	n	_	_	_	_	_
+12	boe	boe	NOUN	n	_	2	conj	_	_
 13	emagokare	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 14	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	13	obl	_	_
 15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	case	_	_
