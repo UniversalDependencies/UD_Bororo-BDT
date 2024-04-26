@@ -1492,7 +1492,7 @@
 # text = U! Boe motyre ! Kugaru motyre , ekure , nowy maridoguru jipa ji . Iere Aodorodoge Emerao maridoguru . Nowy mano kaere ipare ere erere
 # text_eng =
 # text_por = Sim! A paisagem era bonita! A areia era bonita, amarela, ao longo daquele buritizal.Chamava-se o buritizal de Aodorodoge Emarao. Os rapazes costumavam correr a procura de cocos de buriti.
-1	Uw	uw	INTJ	_	_	4	discourse	_	_
+1	U	uw	INTJ	_	_	4	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 3	Boe	boe	NOUN	n	Number=Sing	4	nsubj	a_	_
 4	motyre	moty	VERB	v	Mood=Ind	0	root	_	_
