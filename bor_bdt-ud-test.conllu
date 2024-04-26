@@ -1538,7 +1538,7 @@
 13	.	.	PUNCT	punct	_	10	punct	_	_
 14	Koroia	Koroia	NOUN	n	_	16	nsubj	_	_
 15	kaewyge	kae	NOUN	n	Nomzr=Rel|Number=Plur	14	nmod	_	_
-16	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3  7 parataxis _
+16	ekodure  kodu  VERB  v  Mood=Ind|Number=Plur|Person=3  7  parataxis  _
 17	woje	woje	ADV	adv	_	16	advmod	_	_
 18	,	,	PUNCT	punct	_	16	punct	_	_
 19	pagana	_	NOUN	n	_	14	conj	_	_
@@ -1841,7 +1841,7 @@
 6	inoba	inoba	ADV	adv	PronType=Int	7	advmod	_	_
 7	boemode	boe	VERB	v	Mood=Ind|Tense=Fut	4	conj	_	_
 8	?	?	PUNCT	punct	_	7	punct	_	_
-9	Tui	ty	PRON	_	Reflex=Yes|VerbForm=Ger	10	nsubj	_	_
+9	Tui	ty	PRON	_	Reflex=Yes|VerbForm=Ger	10  nsubj	_	_
 10	tumugudo	mugudo	VERB	v	Reflex=Yes|Voice=Cau	4	advcl	_	_
 11	keje	keje	SCONJ	sconj	_	10	mark	_	_
 
@@ -2675,7 +2675,7 @@
 2	nowyge	nowy	PRON	pron	Number=Plur|PronType=Dem	4	obl	_	_
 3	piji	piji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	ityre	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-5	mato	mato	ADV	adv	AdvType=Dir	4	advcl	_	_
+5	mato	mato	ADV	adv	_	4	advcl	_	_
 6	Meruri	Meruri	NOUN	n	_	7	nmod	_	_
 7	paru	paru	NOUN	n	_	5	obl	_	_
 8	kae	kae	ADP	adv	Number=Sing|Person=3	7	case	_	_
