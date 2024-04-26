@@ -1004,7 +1004,7 @@
 13	pemegare	pemega	NOUN	n	Mood=Ind	0	root	_	_
 14	;	;	PUNCT	punct	_	13	punct	_	_
 15	kodure	kodu	VERB	vi	Mood=Ind|Number=Sing|Person=3	13	parataxis	_	_
-16	boiwuge	boiwu	ADV	adv	Number=Plur	15	advmod	_	_
+16	boiwuge	boiwu	ADV	adv	_	15	advmod	_	_
 17	,	,	PUNCT	punct	_	15	punct	_	_
 18	emagere	emage	PRON	pron	Mood=Ind|Number=Plur	20	discourse	_	_
 19	enoroe	oroe	NOUN	n	Number=Plur	20	nsubj	_	_
