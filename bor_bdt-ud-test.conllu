@@ -1,4 +1,4 @@
-# sent_id = HMB-Pemo_e_Baraedugume-01
+28# sent_id = HMB-Pemo_e_Baraedugume-01
 # text = Pemo , oinore Pao iere boe oto ji
 # text_eng = Pemo, thus was called our father in the begining
 # text_por = Pemo, era assim que o nosso Pai (Deus) se chamava no começo.
@@ -2171,7 +2171,7 @@
 19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
 
 # sent_id = OiegoJiwuBakaru-21
-# text = Icare nowy imedy Meriri Baru akore : Uw ! Aroe ji rade itogeadyre , iorydyre ! 
+# text = Icare nowy imedy Meriri Baru akore : Uw ! Aroe ji rade itogeadyre , iorydyre !
 # text_eng = 
 # text_por = Então este homem, Meriri Baru, disse: Oh! Eu encontrei foi um espírito!
 1	Icare	icare	ADV	adv	_	6	advmod	_	_
@@ -2682,7 +2682,7 @@
 9	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
 
 # sent_id = Valmir-09
-# text = Ca woe ca iragojere oino pugeje woe 
+# text = Ca woe ca iragojere oino pugeje woe
 # text_eng = Then I began to live here, that is it
 # text_por = Aí eu passei a morar aqui, assim.
 1	Ca	ca	ADV	adv	_	4	advmod	_	_
@@ -2791,7 +2791,7 @@
 12	ebo	apo	ADP	posp	Number=Plur|Person=3	10	case	_	_
 
 # sent_id = Valmir-17
-# text = Dyre pagodymode ji dykodi ure turugado 
+# text = Dyre pagodymode ji dykodi ure turugado
 # text_eng = 
 # text_por = Então nós seguiremos por isso tem que ser assim
 1	Dyre	dyre	ADV	adv	_	2	advmod	_	_
