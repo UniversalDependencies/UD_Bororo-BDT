@@ -1841,7 +1841,7 @@
 6	inoba	inoba	ADV	adv	PronType=Int	7	advmod	_	_
 7	boemode	boe	VERB	v	Mood=Ind|Tense=Fut	4	conj	_	_
 8	?	?	PUNCT	punct	_	7	punct	_	_
-9 Tui ty PRON _ Reflex=Yes|VerbForm=Ger 10 nsubj _ _
+9 Tui	ty	PRON	_	Reflex=Yes|VerbForm=Ger	10	nsubj	_	_
 10	tumugudo	mugudo	VERB	v	Reflex=Yes|Voice=Cau	4	advcl	_	_
 11	keje	keje	SCONJ	sconj	_	10	mark	_	_
 
