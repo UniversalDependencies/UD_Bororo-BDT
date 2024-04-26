@@ -1300,7 +1300,7 @@
 1	Dykejere	dykejere	ADV	adv	_	4	advmod	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	dep	_	_
 3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
-4	tugirimi	kirimi	VERB	v	Reflex=Yes	_	_	_	_
+4	tugirimi	kirimi	VERB	v	Reflex=Yes	0	root	_	_
 5	mato	mato	ADV	adv	_	4	advmod	_	_
 6	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
 7	,	.	PUNCT	punct	_	4	punct	_	_
