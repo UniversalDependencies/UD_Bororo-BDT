@@ -13,7 +13,7 @@
 
 # sent_id = HMB-Pemo_e_Baraedugume-02
 # text = Pemo koiare icare ure Pemo metyia iegi . Mare ia pagaboe karega . Nowy Pemo onaregedy . Tonaregedyre ure jeto boe ji pugeje . Mare nowy onaregedy botukare aredy piji . Koia karega ure towyje jamedu
-# text_eng =
+# text_eng = 
 # text = Foi Pemo que chamou o outro Pemo. Mas ele não era qualquer um. Era o filho de Pemo. Foi ao seu filho que ele colocou para tomar conta da gente. Mas esse seu filho não nasceu de mulher, e também não foi ele quem o fez.
 1	Pemo	Pemo	PROPN	propn	_	7	obl	_	_
 2	koiare	koia	ADP	posp	Number=Sing|Person=3	1	case	_	_
@@ -1494,7 +1494,7 @@
 # text_por = Sim! A paisagem era bonita! A areia era bonita, amarela, ao longo daquele buritizal.Chamava-se o buritizal de Aodorodoge Emarao. Os rapazes costumavam correr a procura de cocos de buriti.
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Boe	boe	NOUN	n	Number=Sing	4	nsubj	a_	_
+3	Boe	boe	NOUN	n	Number=Sing	4	nsubj	_	_
 4	motyre	moty	VERB	v	Mood=Ind	0	root	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	_
 6	Kugaru	kugaru	NOUN	n	Number=Sing	7	nsubj	_	_
@@ -1538,7 +1538,7 @@
 13	.	.	PUNCT	punct	_	10	punct	_	_
 14	Koroia	Koroia	NOUN	n	_	16	nsubj	_	_
 15	kaewyge	kae	NOUN	n	Nomzr=Rel|Number=Plur	14	nmod	_	_
-16	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	_	_	_	_
+16	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	_	_
 17	woje	woje	ADV	adv	_	16	advmod	_	_
 18	,	,	PUNCT	punct	_	16	punct	_	_
 19	pagana	_	NOUN	n	_	14	conj	_	_
