@@ -1,4 +1,4 @@
-28# sent_id = HMB-Pemo_e_Baraedugume-01
+# sent_id = HMB-Pemo_e_Baraedugume-01
 # text = Pemo , oinore Pao iere boe oto ji
 # text_eng = Pemo, thus was called our father in the begining
 # text_por = Pemo, era assim que o nosso Pai (Deus) se chamava no começo.
@@ -2090,7 +2090,7 @@
 3	kagirido	kagiri	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	ty	ty	ADV	adv	_	3	advmod	_	_
 5	...	...	PUNCT	punct	_	3	punct	_	_
-6	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	_	_	_
+6	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
 7	iado	_	VERB	v	Voice=Cau	3	parataxis	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	icare	ica	ADV	adv	_	10	advmod	_	_
@@ -2109,7 +2109,7 @@
 1	Icare	icare	ADV	adv	_	5	advmod	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 3	kody	kody	NOUN	n	_	5	obj	_	_
-4	jamedy	jamedy	ADV	adv	_	5	_	_	_
+4	jamedy	jamedy	ADV	adv	_	5	advmod	_	_
 5	kogudo	kogu	VERB	vt	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	_
 7	Icare	icare	ADV	adv	_	9	advmod	_	_
@@ -2149,9 +2149,9 @@
 # sent_id = OiegoJiwuBakaru-20
 # text = Icare beregodyre dykejere , akogodyre pugeje . Akore : hm , hm , hm , nowy tuwere inody ji
 # text_eng = 
-# text_por = Quando ferveu, começo a (o peixe) a falar de novo, dizendo: - hm , hm , hm , fervendo assim
+# text_por = Quando ferveu, começou (o peixe) a falar de novo, dizendo: - hm , hm , hm , fervendo assim
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
-2	beregodyre	bere	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	5	advmod	_	_
+2	beregodyre	bere	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	5	advcl	_	_
 3	dykejere	dykeje	SCONJ	sconj	Mood=Ind	2	mark	_	_
 4	,	_	PUNCT	punct	_	2	punct	_	_
 5	akogodyre	ako	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
