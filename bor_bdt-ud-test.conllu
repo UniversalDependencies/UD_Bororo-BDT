@@ -2422,7 +2422,7 @@
 24	Bakororo	Bakororo	PROPN	propn	_	23	compound	_	_
 25	tuiagajejewy	_	ADP	posp	Reflex=Yes	23	case	_	_
 26	onawuio	_	X	_	_	27	dep	_	_
-27	okwabijire	_	X	_	_	25	dep	_	_
+27	okwabijire	_	X	_	_	23	dep	_	_
 28	.	.	PUNCT	punct	_	27	punct	_	_
 29	Oieigo	Oieigo	NOUN	n	_	30	nmod	_	_
 30	jetuiaga	_	NOUN	n	_	12	parataxis	_	_
