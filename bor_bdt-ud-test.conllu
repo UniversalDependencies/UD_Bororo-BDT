@@ -3859,6 +3859,13 @@
 36	kocare	kocare	INTJ	_	_	32	discourse	_	_
 37	.	.	PUNCT	punct	_	36	punct	_	_
 
+# sent_id = FWFFG-0112
+# text = Taregodyia !
+# text_eng = May you come!
+# text_por = Quem dera vocês cheguem!
+1	Taregodyia	aregody	VERB	v	Mood=Opt|Number=Plur|Person=2	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng = 
