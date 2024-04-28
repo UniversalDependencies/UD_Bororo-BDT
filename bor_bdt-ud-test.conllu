@@ -245,7 +245,7 @@
 3	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
-6	icare	icare	ADV	adv	_	9	advmod	_	_
+6	Icare	icare	ADV	adv	_	9	advmod	_	_
 7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
 8	barogwa	barogwa	NOUN	n	Number=Sing	9	obj	_	_
 9	kododydo	kodody	VERB	vt	Voice=Cau	3	conj	_	_
