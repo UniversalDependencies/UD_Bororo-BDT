@@ -2013,7 +2013,7 @@
 18	icare	icare	ADV	adv	_	22	advmod	_	_
 19	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	22	nsubj	_	_
 20	nowy	nowy	DET	dem	Deixis=Med	21	det	_	_
-21	riwudu	riwudu	NOUN	n	_	_	_	_	_
+21	riwudu	riwudu	NOUN	n	_	22	obj	_	_
 22	jeto	jeto	ADV	adv	_	3	conj	_	hither;para.cá
 23	taobiri	ao	NOUN	n	Reflex=Yes	22	obl	_	_
 24	ji	ji	ADP	posp	Number=Sing|Person=3	23	case	_	_
