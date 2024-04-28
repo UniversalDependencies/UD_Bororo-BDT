@@ -2312,7 +2312,7 @@
 7	tugujagudo	kujagu	VERB	v	Reflex=Yes|Voice=Cau	4	conj	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	10	nsubj	_	_
-10	tuiejiwudo	ejiwu	VERB	v	Reflex=Yes|Voice=Cau	_	_	_	_
+10	tuiejiwudo	ejiwu	VERB	v	Reflex=Yes|Voice=Cau	4	conj	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
 12	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	13	nsubj	_	_
 13	taipodo	taipo	VERB	v	Number=Sing|Person=3|Voice=Cau	4	conj	_	_
