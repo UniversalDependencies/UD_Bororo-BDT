@@ -255,7 +255,7 @@
 13	nowy	nowy	DET	dem	Deixis=Remt	14	det	_	_
 14	onaregedy	onaregedy	NOUN	n	Number=Sing	15	nsubj	_	_
 15	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
-16	pugeje	pugeje	ADV	adv	_	15	advmod	_	_
+16	pugeje	pugeje	ADV	adv	_	15	advmod	_	SpaceAfter=No
 17	.	.	PUNCT	punct	_	15	punct	_	_
 18	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	15	xcomp	_	_
 19	Mané	Mané	PROPN	propn	_	18	ccomp	_	_
@@ -278,7 +278,7 @@
 36	akowarudo	owarudo	VERB	v	Number=Sing|Person=2|Reflex=Yes	32	xcomp	_	_
 37	,	,	PUNCT	punct	_	36	punct	_	_
 38	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	36	conj	_	_
-39	joru	joru	NOUN	n	Number=Sing	38	obl	_	_
+39	joru	joru	NOUN	n	Number=Sing	38	obl	_	SpaceAfter=No
 40	ji	ji	ADP	posp	Number=Sing|Person=3	39	case	_	_
 41	,	,	PUNCT	punct	_	38	punct	_	_
 42	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	43	nsubj	_	_
