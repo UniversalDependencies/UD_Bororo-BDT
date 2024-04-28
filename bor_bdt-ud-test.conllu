@@ -2354,7 +2354,7 @@
 3	tugeragu	tugeragu	VERB	v	_	0	root	_	_
 4	pana	pana	NOUN	n	Number=Sing	3	obl	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
-6	,	,	PUNCT	punct	_	3	punct	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
 7	pariko	pariko	NOUN	n	Number=Sing	4	conj	_	_
 8	ji	ji	ADP	posp	Number=Sing	7	case	_	_
 9	,	,	PUNCT	punct	_	7	punct	_	_
