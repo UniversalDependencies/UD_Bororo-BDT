@@ -1387,11 +1387,11 @@
 5	.	.	PUNCT	punct	_	2	punct	_	_
 6	Cegodure	kodu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	2	parataxis	_	_
 7	jii	jii	ADV	adv	_	6	advmod	_	_
-8	.	.	PUNCT	punct	_	6	punct	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
 9	Kuruie	Kuruie	PROPN	propn	_	7	appos	_	_
 10	Emerao	Emerao	PROPN	propn	_	9	compound	_	_
-11	to	to	ADP	posp	Number=Sing|Person=3	9	compound	_	_
-12	,	,	PUNCT	punct	_	10	punct	_	_
+11	to	to	ADP	posp	Number=Sing|Person=3	9	case	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
 13	mano	mano	NOUN	n	_	17	obl	_	_
 14	kaere	kae	ADP	posp	Mood=Ind	13	case	_	_
 15	kuruie	Kuruie	PROPN	propn	_	17	nsubj	_	_
