@@ -1,10 +1,10 @@
 # Summary
 
-UD_Bororo-BDT is a collection of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). All known sources in this language are being annotated: grammar examples, myths, and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io) and Carolina C. Aragon.
+UD_Bororo-BDT is a compilation of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). The corpus encompasses sentences derived from diverse sources: grammar examples, mythological narratives, fieldwork material, and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io).
 
 # Introduction
 
-UD_Bororo-BDT is a collection of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). All known sources in this language are being annotated: grammar examples, myths, and other sources. The project is work-in-progress and the treebank is being updated on a regular basis. 
+UD_Bororo-BDT stands as a comprehensive compilation of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). The corpus encompasses sentences derived from diverse sources, including grammar examples, mythological narratives, fieldwork material (elicited and spontaneous discourse), and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io). The project is work-in-progress and the treebank is being updated on a regular basis. 
 
 # Acknowledgments
 
@@ -25,7 +25,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 
 * Ferraz Gerardi, Fabrício (in preparation) _A grammar of Bororo_. (FGGB)
 
-* Ferraz Gerardi, Fabrício (2022-2023) Fieldwork material
+* Ferraz Gerardi, Fabrício (2022-2023) Fieldwork data (FWFFG)
 
 * Ure Towujewu, Antônio K. and Enaureu Apo, Mário B. (2020) Boe enogiegidae barege eie. Campo Grande: Missão Salesiana do Mato Grosso. (BEBE)
 
