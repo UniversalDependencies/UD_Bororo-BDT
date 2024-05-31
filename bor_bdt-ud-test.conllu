@@ -1798,6 +1798,104 @@
 17	imedymage	imedy	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
 18	tagae	kae	ADP	posp	Number=Plur|Person=2	15	obl	_	_
 
+# sent_id = CoqueiroAutobio-27.2
+# text = Uw ! Kodire inago oino itore tagae , imedumage tagae
+# text_eng =
+# text_por = Sim! Por isso eu falo assim para vocês meus filhos, para vocês meninos
+1	Uw	uw	INTJ	_	_	4	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Kodi	kodi	ADV	_	_	4	advmod	_	_
+4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
+5	oino	oino	VERB	_	_	4	advmod	_	_
+6	itore	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
+7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	imedymage	imedy	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	6	conj	_	_
+10	tagae	kae	ADP	_	Number=Plur|Person=2	9	case	_	_
+
+# sent_id = CoqueiroAutobio-27.3
+# text = U ! Kodi inago oino iorubodarege tagae
+# text_eng =
+# text_por = Sim! Por isso eu falo assim para vocês meus cunhados
+1	Uw	uw	INTJ	_	_	4	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Kodi	kodi	ADV	_	_	4	advmod	_	_
+4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
+5	oino	oino	VERB	_	_	4	advmod	_	_
+6	iorubodarege	erubadare	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
+7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
+
+# sent_id = CoqueiroAutobio-27.4
+# text = U ! Kodi inago oino iiogamage tagae
+# text_eng =
+# text_por = Sim! Por isso eu falo assim para vocês meus pais
+1	Uw	uw	INTJ	_	_	4	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Kodi	kodi	ADV	_	_	4	advmod	_	_
+4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
+5	oino	oino	VERB	_	_	4	advmod	_	_
+6	iogamage	o	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
+7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
+
+# sent_id = CoqueiroAutobio-27.5
+# text = U ! Kodire inago oino imugamage tagae , ituiemage tagae
+# text_eng =
+# text_por = Sim! Por isso eu falo assim para vocês minhas mães , para vocês minhas irmãs mais velhas
+1	Uw	uw	INTJ	_	_	4	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Kodire	kodi	ADV	_	Mood=Ind	4	advmod	_	_
+4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
+5	oino	oino	VERB	_	_	4	advmod	_	_
+6	imugamage	muga	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
+7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	ituiemage	tuie	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	6	conj	_	_
+10	tagae	kae	ADP	_	Number=Plur|Person=2	9	case	_	_
+
+# sent_id = CoqueiroAutobio-27.6
+# text = Uw ! Pagimejera Jeri Kurireu bataru aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, tugarege ekeje
+# text_eng =
+# text_por = Sim! Chegou um recado do nosso Chefe Testa Grande (dizendo) que nos preparemos para recebê-lo, que matemos vaca, que matemos vaca, que matemos vaca, para os Cerae e os Tugarege comerem
+1	Uw	_	INTJ	_	_	_	_	_	_
+2	!	_	PUNCT	_	_	_	_	_	_
+3	Pagimejera	_	NOUN	_	_	_	_	_	_
+4	Jeri	_	PROPN	_	_	_	_	_	_
+5	Kurirewy	_	PROPN	_	_	_	_	_	_
+6	bataru	_	NOUN	_	_	_	_	_	_
+7	aregodure	_	VERB	_	_	_	_	_	_
+8	paiagu	_	PRON	_	_	_	_	_	_
+9	pado	_	PRON	_	_	_	_	_	_
+10	parugadu	_	VERB	_	_	_	_	_	_
+11	tudogi	_	ADP	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	paiagu	_	PRON	_	_	_	_	_	_
+14	tapira	_	NOUN	_	_	_	_	_	_
+15	bito	_	VERB	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	paiagu	_	PRON	_	_	_	_	_	_
+18	tapira	_	NOUN	_	_	_	_	_	_
+19	bito	_	VERB	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	paiagu	_	PRON	_	_	_	_	_	_
+22	tapira	_	NOUN	_	_	_	_	_	_
+23	bito	_	VERB	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	Ecerae	_	PROPN	_	_	_	_	_	_
+26	ekeje	_	VERB	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	Tugarege	_	PROPN	_	_	_	_	_	_
+29	ekeje	_	VERB	_	_	_	_	_	_
+
+# sent_id = CoqueiroAutobio-27.7
+# text = 
+# text_eng =
+# text_por =
+
+# sent_id = CoqueiroAutobio-27.8
+# text = 
+# text_eng =
+# text_por =
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
