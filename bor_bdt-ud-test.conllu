@@ -30,7 +30,7 @@
 13	.	.	PUNCT	punct	_	11	punct	_	_
 14	Nowy	nowy	DET	dem	Deixis=Remt	15	det	_	_
 15	Pemo	Pemo	PROPN	propn	_	16	nmod	_	_
-16	onaregedy	onaregedy	NOUN	n	Number=Sing	11	conj	_	_
+16	onaregedy	onaregedy	NOUN	n	Number=Sgtv	11	conj	_	_
 17	.	.	PUNCT	punct	_	16	punct	_	_
 18	Tonaregedyre	onaregedy	NOUN	n	Mood=Ind|Number=Sing|Reflex=Yes	20	dislocated	_	_
 19	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	nsubj	_	_
@@ -43,7 +43,7 @@
 26	nowy	nowy	DET	dem	Deixis=Remt	27	det	_	_
 27	onaregedy	onaregedy	NOUN	_	_	28	nsubj	_	_
 28	botukare	botu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	20	conj	_	_
-29	aredy	aredy	NOUN	n	Number=Sing	28	obl	_	_
+29	aredy	aredy	NOUN	n	Number=Sgtv	28	obl	_	_
 30	piji	piji	ADP	posp	Number=Sing|Person=3	29	case	_	_
 31	.	.	PUNCT	punct	_	28	punct	_	_
 32	Koia	koia	CCONJ	conj	_	35	cc	_	_
@@ -67,7 +67,7 @@
 9	icare	icare	ADV	adv	_	10	advmod	_	_
 10	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
 11	nowy	nowy	DET	dem	Deixis=Remt	12	det	_	_
-12	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	10	obl	_	_
+12	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	10	obl	_	_
 13	bogai	bogai	ADP	posp	Number=Sing|Person=3	12	case	_	_
 14	baito	baito	NOUN	n	Number=Sing	12	obl	_	_
 15	.	.	PUNCT	punct	_	12	punct	_	_
@@ -80,14 +80,14 @@
 # text = Makore tonaregedy bogai nowy baito to , akore imedy ! Dykeje icare ure iegi . Akore imedy Baraedugume ! Makore pugeje . Akore imedy Braedugume !
 # text_por = Chamou seu filho lá dentro do baito, dizendo: - Meu filho! Aí ele lhe deu nome dizendo: - Meu filho Braedugume! Chamou de novo dizendo: - Meu filho Braedugume!
 1	Makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-2	tonaregedy	onaregedy	NOUN	n	Number=Sing|Reflex=Yes	1	obl	_	_
+2	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	1	obl	_	_
 3	bogai	bogai	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	nowy	nowy	DET	dem	Deixis=Remt	5	det	_	_
 5	baito	baito	NOUN	n	Number=Sing	1	obl	_	_
 6	to	to	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	,	,	PUNCT	punct	_	1	punct	_	_
 8	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
-9	imedy	imedy	NOUN	n	Number=Sing	8	ccomp	_	_
+9	imedy	imedy	NOUN	n	Number=Sgtv	8	ccomp	_	_
 10	!	!	PUNCT	punct	_	8	punct	_	_
 11	Dykeje	dykeje	ADV	adv	_	14	advmod	_	_
 12	icare	icare	ADV	adv	_	14	advmod	_	_
@@ -95,14 +95,14 @@
 14	iegi	iegi	VERB	v	_	1	parataxis	_	_
 15	.	.	PUNCT	punct	_	14	punct	_	_
 16	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
-17	imedy	imedy	NOUN	n	Number=Sing	16	ccomp	_	_
+17	imedy	imedy	NOUN	n	Number=Sgtv	16	ccomp	_	_
 18	Baraedugume	Braedugume	PROPN	propn	_	17	appos	_	_
 19	!	!	PUNCT	punct	_	16	punct	_	_
 20	Makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	16	conj	_	_
 21	pugeje	pugeje	ADV	adv	_	20	advmod	_	_
 22	.	.	PUNCT	punct	_	20	punct	_	_
 23	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	parataxis	_	_
-24	imedy	imedy	NOUN	n	Number=Sing	23	ccomp	_	_
+24	imedy	imedy	NOUN	n	Number=Sgtv	23	ccomp	_	_
 25	Braedugume	Braedugume	PROPN	propn	_	24	appos	_	_
 26	!	!	PUNCT	punct	_	23	punct	_	_
 
@@ -180,7 +180,7 @@
 10	dytabore	Dytabo	ADV	adv	Mood=Ind	14	mark	_	_
 11	icare	icare	ADV	adv	_	14	advmod	_	_
 12	nowy	nowy	DET	dem	Deixis=Remt	13	det	_	_
-13	onaregedy	onaregedy	NOUN	n	Number=Sing	14	nsubj	_	_
+13	onaregedy	onaregedy	NOUN	n	Number=Sgtv	14	nsubj	_	_
 14	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	advcl	_	_
 15	tumedage	metyia	NOUN	n	_	14	obl	_	_
 16	ewogai	bogai	ADP	posp	Number=Plur|Person=3	15	case	_	_
@@ -253,7 +253,7 @@
 11	.	.	PUNCT	punct	_	9	punct	_	_
 12	Icare	icare	ADV	adv	_	15	advmod	_	_
 13	nowy	nowy	DET	dem	Deixis=Remt	14	det	_	_
-14	onaregedy	onaregedy	NOUN	n	Number=Sing	15	nsubj	_	_
+14	onaregedy	onaregedy	NOUN	n	Number=Sgtv	15	nsubj	_	_
 15	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 16	pugeje	pugeje	ADV	adv	_	15	advmod	_	SpaceAfter=No
 17	.	.	PUNCT	punct	_	15	punct	_	_
@@ -315,7 +315,7 @@
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	parataxis	_	_
 8	nowy	nowy	DET	dem	Deixis=Remt	9	det	_	_
-9	imedy	imedy	NOUN	n	Number=Sing	7	obl	_	_
+9	imedy	imedy	NOUN	n	Number=Sgtv	7	obl	_	_
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	,	,	PUNCT	punct	_	9	punct	_	_
 12	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	conj	_	_
@@ -386,7 +386,7 @@
 6	.	.	PUNCT	punct	_	4	punct	_	_
 7	Eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	parataxis	_	_
 8	nowy	nowy	DET	dem	Deixis=Remt	9	det	_	_
-9	imedy	imedy	NOUN	n	Number=Sing	7	obl	_	_
+9	imedy	imedy	NOUN	n	Number=Sgtv	7	obl	_	_
 10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	,	,	PUNCT	punct	_	9	punct	_	_
 12	eerydykare	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	conj	_	_
@@ -532,7 +532,7 @@
 11	Icare	icare	ADV	adv	_	12	advcl	_	_
 12	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
 13	ia	ia	DET	_	Definite=Ind|PronType=Art	14	det	_	_
-14	imedy	imedy	NOUN	n	Number=Sing	12	obl	_	_
+14	imedy	imedy	NOUN	n	Number=Sgtv	12	obl	_	_
 15	bogai	bogai	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	pugeje	pugeje	ADV	adv	_	14	advmod	_	_
 17	.	.	PUNCT	punct	_	14	punct	_	_
@@ -1814,7 +1814,7 @@
 10	tagae	kae	ADP	_	Number=Plur|Person=2	9	case	_	_
 
 # sent_id = CoqueiroAutobio-27.3
-# text = U ! Kodi inago oino iorubodarege tagae
+# text = Uw ! Kodi inago oino iorubodarege tagae
 # text_eng =
 # text_por = Sim! Por isso eu falo assim para vocês meus cunhados
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
@@ -1826,7 +1826,7 @@
 7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
 
 # sent_id = CoqueiroAutobio-27.4
-# text = U ! Kodi inago oino iiogamage tagae
+# text = Uw ! Kodi inago oino iiogamage tagae
 # text_eng =
 # text_por = Sim! Por isso eu falo assim para vocês meus pais
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
@@ -1838,7 +1838,7 @@
 7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
 
 # sent_id = CoqueiroAutobio-27.5
-# text = U ! Kodire inago oino imugamage tagae , ituiemage tagae
+# text = Uw ! Kodire inago oino imugamage tagae , ituiemage tagae
 # text_eng =
 # text_por = Sim! Por isso eu falo assim para vocês minhas mães , para vocês minhas irmãs mais velhas
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
@@ -1914,12 +1914,30 @@
 10	ema	ema	ADV	_	_	7	conj	_	_
 11	rugadu	rugadu	ADV	_	_	10	advcl	_	_
 
+# sent_id = CoqueiroAutobio-27.9
+# text = A ! Boe epagare bogai . Icare aregodyre . Icare Boe bado kuda
+# text_eng =
+# text_por = E ficaram esperando por ele. Ele chegou e eles estenderam tapetes para ele se assentar.
+1	A	a	INTJ	_	_	4	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Boe	boe	NOUN	_	Number=Plur	4	nsubj	_	_
+4	epagare	paga	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	bogai	bogai	ADP	_	Number=Sing|Person=3	4	obl	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+7	Icare	_	ADV	_	_	8	advcl	_	_
+8	aregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=3	4	parataxis	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+10	Icare	_	ADV	_	_	12	advcl	_	_
+11	Boe	boe	NOUN	_	_	12	nsubj	_	_
+12	bado	ba	VERB	_	Voice=Cau	4	parataxis	_	_
+13	kuda	_	ADP	_	Number=Sing|Person=3	12	obl	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
 # text_por = Um homem foi pescar
 1	Ia	ia	DET	det	Definite=Ind	2	det	_	_
-2	imedy	imedy	NOUN	n	Number=Sing	3	nsubj	_	_
+2	imedy	imedy	NOUN	n	Number=Sgtv	3	nsubj	_	_
 3	uwogure	wogu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	fish;pescar
 
 # sent_id = OiegoJiwuBakaru-02
@@ -1927,7 +1945,7 @@
 # text_eng = This man, his name was Meriri Baru, from the howler monley clan
 # text_por = Este homem, seu ome era Meriri Baru (do clã dos bugios)
 1	Nowy	nowy	DET	dem	Deixis=Med	2	det	_	_
-2	imedy	imedy	NOUN	n	Number=Sing	5	nsubj:outer	_	_
+2	imedy	imedy	NOUN	n	Number=Sgtv	5	nsubj:outer	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 5	Meriri	Meriri	PROPN	propn	_	0	root	_	_
@@ -2292,7 +2310,7 @@
 # text_por = Então este homem, Meriri Baru, disse: Oh! Eu encontrei foi um espírito!
 1	Icare	icare	ADV	adv	_	6	advmod	_	_
 2	nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
-3	imedy	imedy	NOUN	n	Number=Sing	6	nsubj	_	_
+3	imedy	imedy	NOUN	n	Number=Sgtv	6	nsubj	_	_
 4	Meriri	Meriri	PROPN	propn	_	3	appos	_	_
 5	Baru	Baru	PROPN	propn	_	4	compound	_	_
 6	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3366,7 +3384,7 @@
 # text_por = O homem ou o rapaz que não tem parentes, só a mulher ou a filha que dançam atrás dele.
 1	Uwobe	_	NOUN	n	_	3	nmod	_	_
 2	bokwarewy	bokwa	NOUN	n	Mood=Ind|Nomzr=Rel|Polarity=Neg	1	acl	_	_
-3	imedy	imedy	NOUN	n	Number=Sing	8	discourse	_	_
+3	imedy	imedy	NOUN	n	Number=Sgtv	8	discourse	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	iparedy	iparedy	NOUN	n	Number=Sing	3	conj	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
@@ -3689,7 +3707,7 @@
 # text = Imedy , nogware , imi ty imagowo ?
 # text_eng =
 # text_por = (tem) Homem, mulher, só eu que vou falar?
-1	Imedy	imedy	NOUN	n	Number=Sing	0	root	_	[];;
+1	Imedy	imedy	NOUN	n	Number=Sgtv	0	root	_	[];;
 2	,	,	PUNCT	punct	_	1	punct	_	[];;
 3	nogware	nogwaredu	NOUN	n	Number=Plur	1	conj	_	[];;
 4	,	,	PUNCT	punct	_	1	punct	_	[];;
@@ -4416,7 +4434,7 @@
 # text_por = A mulher e o homem gostaram bastante de Deus tambem
 1	Aredy	aredy	NOUN	n	_	4	nsubj	_	[];;
 2	,	,	PUNCT	punct	_	1	punct	_	[];;
-3	imedy	imedy	NOUN	n	Number=Sing	1	conj	_	[];;
+3	imedy	imedy	NOUN	n	Number=Sgtv	1	conj	_	[];;
 4	aidy	aidy	NOUN	n	Number=Sing|Person=3	0	root	_	[];;
 5	rakaguragare	raka	ADV	adv	Intens=Yes|Mood=Ind	4	advmod	_	[];;
 6	Deu	Deu	NOUN	n	_	4	iobj	_	[];;
@@ -4642,7 +4660,7 @@
 # text = aredy padyre
 # text_eng = The woman laid down
 # text_por = a mulher deitou
-1	aredy	aredy	NOUN	n	Number=Sing	2	nsubj	_	woman;mulher
+1	aredy	aredy	NOUN	n	Number=Sgtv	2	nsubj	_	woman;mulher
 2	padyre	pady	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	lie.down;deitar
 
 # sent_id = ABE-37
@@ -4735,7 +4753,7 @@
 # text = imedy utyre ibai kae tubaiga bagai
 # text_eng = The man is going home for his weapon
 # text_por = o homem está indo na minha casa para (pegar) a arma dele
-1	imedy	imedy	NOUN	n	Number=Sing	2	nsubj	_	man;homem
+1	imedy	imedy	NOUN	n	Number=Sgtv	2	nsubj	_	man;homem
 2	utyre	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	0	root	_	go;ir
 3	ibai	bai	NOUN	n	Number=Sing|Person=1	2	obl	_	house;casa
 4	kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	house;casa
@@ -5171,7 +5189,7 @@
 # text_eng = That man ate
 # text_por = aquele homem comeu
 1	awy	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	that;aquele
-2	imedy	imedy	NOUN	n	Number=Sing	4	nsubj	_	man;homem
+2	imedy	imedy	NOUN	n	Number=Sgtv	4	nsubj	_	man;homem
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	dep	_	[];;
 4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
 
@@ -5506,7 +5524,7 @@
 1	imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	nsubj	_	[];;
 2	karo	karo	NOUN	n	_	3	obj	_	fish;peixe
 3	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	give;dar
-4	imedy	imedy	NOUN	n	Number=Sing	3	obl	_	man;homem
+4	imedy	imedy	NOUN	n	Number=Sgtv	3	obl	_	man;homem
 5	rakydy	rakydy	CCONJ	ccd	_	4	conj	_	or;ou
 6	negedyrogu	negedyrogu	NOUN	n	_	4	conj	_	child;criança
 7	rakydy	rakydy	CCONJ	ccd	_	6	conj	_	or;ou
@@ -6333,7 +6351,7 @@
 # text = Imedy Meruri kejewy
 # text_eng = Man from Meruri
 # text_por = Homem de Meruri
-1	Imedy	imedy	NOUN	n	Number=Sing	0	root	_	[];;
+1	Imedy	imedy	NOUN	n	Number=Sgtv	0	root	_	[];;
 2	Meruri	Meruri	PROPN	propn	_	3	nmod	_	[];;
 3	kejewy	keje	ADP	posp	Nomzr=Rel	1	acl	_	[];;
 
@@ -6660,7 +6678,7 @@
 # text_por = eu vi um homem, o qual não me viu
 1	Iorudyre	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 2	ia	ia	DET	dem	Definite=Ind	3	det	_	[];;
-3	imedy	imedy	NOUN	n	Number=Sing	1	obl	_	[];;
+3	imedy	imedy	NOUN	n	Number=Sgtv	1	obl	_	[];;
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	[];;
 5	dy	dy	X	x	_	6	nsubj	_	[];;
 6	jorydykare	jorydy	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	3	acl	_	[];;
@@ -6806,7 +6824,7 @@
 # text_por = a mulher que veio ontem foi embora de novo
 1	Aregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	4	acl	_	[];;
 2	jawujiwu	jawujiwu	ADV	adv	_	1	advmod	_	[];;
-3	aredy	aredy	NOUN	n	Number=Sing	4	nsubj	_	[aˈɾɛdɨ];woman;mulher
+3	aredy	aredy	NOUN	n	Number=Sgtv	4	nsubj	_	[aˈɾɛdɨ];woman;mulher
 4	utyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 5	pugeje	pugeje	ADV	adv	_	4	advmod	_	[puˈɡḛdʒe];again,still;aind,de.novo,novamente
 
@@ -6942,7 +6960,7 @@
 1	kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	4	acl	_	[];;
 2	pobo	pobo	NOUN	n	_	1	obl	_	['pobo'];water;água
 3	kaewy	kae	ADP	posp	Nomzr=Rel	2	case	_	[];;
-4	imedy	imedy	NOUN	n	Number=Sing	0	root	_	['kodu];leave,go;sair,ir
+4	imedy	imedy	NOUN	n	Number=Sgtv	0	root	_	['kodu];leave,go;sair,ir
 
 # sent_id = 0072i.PessGr
 # text = kodumode itabowy umode tumorido
@@ -7372,7 +7390,7 @@
 # text_por = Um homem chamado Kogae Cereu, da metade dos Ecerae, do clã dos Badojebage Cobugiwuge, fêz um passarinho, para ficar no lugar dele, quando se converter em aroe
 # text_eng =
 1	Ia	ia	DET	dem	Definite=Ind	2	det	_	[];;
-2	imedy	imedy	NOUN	n	Number=Sing	17	nsubj	_	man;homem
+2	imedy	imedy	NOUN	n	Number=Sgtv	17	nsubj	_	man;homem
 3	,	,	PUNCT	punct	_	2	punct	_	[];;
 4	iere	ie	NOUN	v	Mood=Ind|Number=Sing|Person=3	2	appos	_	name;nome
 5	Kogae	Kogae	PROPN	propn	_	4	nsubj	_	[];;
@@ -7975,7 +7993,7 @@
 # text_por = espera, menino ! quando o mingau esfriar, o comerás!
 1	Kajao	kajao	ADV	adv	_	8	advmod	_	[];;
 2	,	,	PUNCT	punct	_	1	punct	_	[];;
-3	imedy	imedy	NOUN	n	Number=Sing	8	vocative	_	[];;
+3	imedy	imedy	NOUN	n	Number=Sgtv	8	vocative	_	[];;
 4	kudu	kudu	NOUN	n	_	5	nsubj	_	[];;
 5	akudody	aku	VERB	v	Voice=CauPass	8	advcl	_	['akɨ];cold,clean;frio,limpo
 6	keje	keje	SCONJ	sconj	_	5	mark	_	[];;
@@ -8272,7 +8290,7 @@
 # text_por = Ele tratará meu filho assoprando sobre ele esta noite
 1	Umode	u	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	nsubj	_	[];;
 2	bakurirido	bakuriri	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	ventilation,blow;sopro,ventilação
-3	itonaregedy	onaregedy	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	[];;
+3	itonaregedy	onaregedy	NOUN	n	Number=Sgtv|Number[psor]=Sing|Person=1	2	obl	_	[];;
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	[];;
 5	boecodo	boecoto	ADV	adv	_	2	obl	_	[];;
 6	tabo	apo	ADP	posp	Number=Sing|Person=3	5	case	_	[];;
@@ -9705,7 +9723,7 @@
 2	riki	riki	NOUN	n	_	3	nsubj	_	truth;verdade
 3	tai	ai	ADP	posp	Number=Plur|Person=2	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
-5	imedy	imedy	NOUN	n	Number=Sing	3	advcl	_	_
+5	imedy	imedy	NOUN	n	Number=Sgtv	3	advcl	_	_
 6	okwa	okwa	NOUN	n	_	5	nmod	_	_
 7	rikirewynure	riki	NOUN	n	Aspect=Prog|Mood=Ind|Nomzr=Rel	6	nmod	_	_
 8	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
@@ -11030,7 +11048,7 @@
 # text_eng =
 # text_por = E seu filho disse a seu pai que fizesse seu fogo porque tinha desejo de alimentro para si, para fazer comida daquela raia
 1	Icare	icare	ADV	adv	_	3	advmod	_	[];;
-2	onaregedy	onaregedy	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	3	nsubj	_	[];;
+2	onaregedy	onaregedy	NOUN	n	Number=Sgtv|Number[psor]=Sing|Person=3	3	nsubj	_	[];;
 3	akore	ako	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 4	tuoiagu	_	NOUN	n	Number=Sing|Person=3|Reflex=Yes|Speech=IndTrans	3	ccomp	_	[];;
 5	jorugo	jorugo	NOUN	n	_	4	obj	_	[];;
