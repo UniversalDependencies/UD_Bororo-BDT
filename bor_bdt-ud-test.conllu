@@ -1932,6 +1932,28 @@
 12	bado	ba	VERB	_	Voice=Cau	4	parataxis	_	_
 13	kuda	_	ADP	_	Number=Sing|Person=3	12	obl	_	_
 
+# sent_id = CoqueiroAutobio-27.10
+# text = Icare boe ere pariko kogudo aora kajeje . Boe ere kuruguga , aroeceba tugu aoto tu
+# text_eng =
+# text_por = Depois amarraram na cabeça dele o pariko . Puseram-lhe também pregos (penas ornamentais) de gavião e de águia na cabeça.
+1	Icare	icare	ADV	_	_	5	advmod	_	_
+2	boe	boe	NOUN	n	_	5	nsubj:outer	_	_
+3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
+4	pariko	pariko	NOUN	n	Number=Sing	5	obj	_	_
+5	kogudo	kogu	VERB	_	Voice=Cau	0	root	_	_
+6	aora	aora	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3	5	obl	_	_
+7	kajeje	kajeje	ADP	_	Number=Sing|Person=3	6	case	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+9	Boe	boe	NOUN	n	_	14	nsubj:outer	_	_
+10	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	14	nsubj	_	_
+11	kuruguga	kuruguga	NOUN	n	_	14	obj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	aroeceba	aroeceba	NOUN	n	_	11	conj	_	_
+14	tugu	tugu	VERB	vt	_	5	parataxis	_	_
+15	ao	ao	NOUN	n	Number=Sing	14	obl	_	_
+16	to	to	NOUN	n	Number=Sing|Person=3	15	case	_	_
+17	ty	ty	ADV	adv	_	14	advmod	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
