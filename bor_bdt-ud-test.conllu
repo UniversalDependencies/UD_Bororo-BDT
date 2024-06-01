@@ -1804,7 +1804,7 @@
 # text_por = Sim! Por isso eu falo assim para vocês meus filhos, para vocês meninos
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
 2	!	!	PUNCT	_	_	1	punct	_	_
-3	Kodi	kodi	ADV	_	_	4	advmod	_	_
+3	Kodire	kodi	ADV	_	Mood=Ind	4	advmod	_	_
 4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
 5	oino	oino	ADV	_	_	4	advmod	_	_
 6	itore	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
@@ -1853,7 +1853,7 @@
 10	tagae	kae	ADP	_	Number=Plur|Person=2	9	case	_	_
 
 # sent_id = CoqueiroAutobio-27.6
-# text = Uw ! Pagimejera Jeri Kurirewy batary aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, tugarege ekeje
+# text = Uw ! Pagimejera Jeri Kurirewy batary aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, Tugarege ekeje
 # text_eng =
 # text_por = Sim! Chegou um recado do nosso Chefe Testa Grande (dizendo) que nos preparemos para recebê-lo, que matemos vaca, que matemos vaca, que matemos vaca, para os Cerae e os Tugarege comerem
 1	Uw	_	INTJ	_	_	7	discourse	_	_
@@ -1862,7 +1862,7 @@
 4	Jeri	_	PROPN	_	_	3	appos	_	_
 5	Kurirewy	_	PROPN	_	_	4	flat	_	_
 6	batary	batary	NOUN	_	_	7	nsubj	_	_
-7	aregodure	_	VERB	_	Number=Sing|Person=3	0	root	_	_
+7	aregodyre	_	VERB	_	Number=Sing|Person=3	0	root	_	_
 8	paiagu	_	PRON	_	Clusivity=In|Number=Sing|Person=1|Speech=IndTrans	10	nsubj	_	_
 9	pado	pa	PRON	_	Clusivity=In|Number=Sing|Person=1|Voice=Cau	10	dep	_	_
 10	parugadu	rugadu	VERB	_	Clusivity=In|Number=Sing|Person=1	7	ccomp	_	_
@@ -1933,7 +1933,7 @@
 13	kuda	_	ADP	_	Number=Sing|Person=3	12	obl	_	_
 
 # sent_id = CoqueiroAutobio-27.10
-# text = Icare boe ere pariko kogudo aora kajeje . Boe ere kuruguga , aroeceba tugu aoto tu
+# text = Icare boe ere pariko kogudo aora kajeje . Boe ere kuruguga , aroeceba tugu aoto ty
 # text_eng =
 # text_por = Depois amarraram na cabeça dele o pariko . Puseram-lhe também pregos (penas ornamentais) de gavião e de águia na cabeça.
 1	Icare	icare	ADV	_	_	5	advmod	_	_
