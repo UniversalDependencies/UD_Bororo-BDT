@@ -1954,6 +1954,36 @@
 16	to	to	NOUN	n	Number=Sing|Person=3	15	case	_	_
 17	ty	ty	ADV	adv	_	14	advmod	_	_
 
+# sent_id = CoqueiroAutobio-27.11
+# text = Icare boe eragodyre joki . Areme etoragodyre joki . Mugure oino ty . Icare Boe ere nowy moiawe emagu ai , ere jeto okwaji
+# text_eng =
+# text_por = Depois cantaram sobre ele, as mulheres choraram para ele. Ele sentou-se. Os Bororo ofereceram-lhe mel silvestre, colocando na boca dele.
+1	Icare	icare	ADV	_	_	3	advmod	_	_
+2	boe	boe	NOUN	_	Number=Plur	3	nsubj	_	_
+3	eragodyre	ra	VERB	_	Mood=Ind|Number=Plur|Person=3|Voice=CauInc	0	root	_	_
+4	joki	joki	ADP	_	Number=Sing|Person=3	3	obl	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+6	Areme	aredy	NOUN	_	_	7	nsubj	_	_
+7	etoragodyre	ora	_	_	Mood=Ind|Number=Plur|Person=3|Voice=CauInc	3	conj	_	_
+8	joki	joki	ADP	_	Number=Sing|Person=3	7	obl	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+10	Mugure	mugu	VERB	_	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+11	oino	oino	ADV	_	_	10	advmod	_	_
+12	ty	ty	ADV	_	_	10	advmod	_	_
+13	.	.	PUNCT	_	_	10	punct	_	_
+14	Icare	icare	ADV	_	_	19	advmod	_	_
+15	Boe	boe	NOUN	_	_	19	nsubj:outer	_	_
+16	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	19	nsubj	_	_
+17	nowy	nowy	DET	_	Deixis=Med	18	nmod	_	_
+18	moiawe	moiawe	NOUN	_	_	19	obj	_	_
+19	emagu	magu	VERB	_	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+20	ai	ji	ADP	_	Number=Sing|Person=2	19	obl	_	_
+21	,	,	PUNCT	_	_	19	punct	_	_
+22	ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	23	nsubj	_	_
+23	jeto	jeto	VERB	_	_	19	conj	_	_
+24	okwa	okwa	NOUN	_	_	23	obl	_	_
+25	ji	ji	ADP	_	Number=Sing|Person=3	24	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
