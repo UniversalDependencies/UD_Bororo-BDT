@@ -1853,48 +1853,66 @@
 10	tagae	kae	ADP	_	Number=Plur|Person=2	9	case	_	_
 
 # sent_id = CoqueiroAutobio-27.6
-# text = Uw ! Pagimejera Jeri Kurireu bataru aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, tugarege ekeje
+# text = Uw ! Pagimejera Jeri Kurireu batary aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, tugarege ekeje
 # text_eng =
 # text_por = Sim! Chegou um recado do nosso Chefe Testa Grande (dizendo) que nos preparemos para recebê-lo, que matemos vaca, que matemos vaca, que matemos vaca, para os Cerae e os Tugarege comerem
-1	Uw	_	INTJ	_	_	_	_	_	_
-2	!	_	PUNCT	_	_	_	_	_	_
-3	Pagimejera	_	NOUN	_	_	_	_	_	_
-4	Jeri	_	PROPN	_	_	_	_	_	_
-5	Kurirewy	_	PROPN	_	_	_	_	_	_
-6	bataru	_	NOUN	_	_	_	_	_	_
-7	aregodure	_	VERB	_	_	_	_	_	_
-8	paiagu	_	PRON	_	_	_	_	_	_
-9	pado	_	PRON	_	_	_	_	_	_
-10	parugadu	_	VERB	_	_	_	_	_	_
-11	tudogi	_	ADP	_	_	_	_	_	_
-12	,	_	PUNCT	_	_	_	_	_	_
-13	paiagu	_	PRON	_	_	_	_	_	_
-14	tapira	_	NOUN	_	_	_	_	_	_
-15	bito	_	VERB	_	_	_	_	_	_
-16	,	_	PUNCT	_	_	_	_	_	_
-17	paiagu	_	PRON	_	_	_	_	_	_
-18	tapira	_	NOUN	_	_	_	_	_	_
-19	bito	_	VERB	_	_	_	_	_	_
-20	,	_	PUNCT	_	_	_	_	_	_
-21	paiagu	_	PRON	_	_	_	_	_	_
-22	tapira	_	NOUN	_	_	_	_	_	_
-23	bito	_	VERB	_	_	_	_	_	_
-24	,	_	PUNCT	_	_	_	_	_	_
-25	Ecerae	_	PROPN	_	_	_	_	_	_
-26	ekeje	_	VERB	_	_	_	_	_	_
-27	,	_	PUNCT	_	_	_	_	_	_
-28	Tugarege	_	PROPN	_	_	_	_	_	_
-29	ekeje	_	VERB	_	_	_	_	_	_
+1	Uw	_	INTJ	_	_	7	discourse	_	_
+2	!	_	PUNCT	_	_	1	punct	_	_
+3	Pagimejera	imejera	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	6	nmod	_	_
+4	Jeri	_	PROPN	_	_	3	appos	_	_
+5	Kurirewy	_	PROPN	_	_	4	flat	_	_
+6	batary	batary	NOUN	_	_	7	nsubj	_	_
+7	aregodure	_	VERB	_	Number=Sing|Person=3	0	root	_	_
+8	paiagu	_	PRON	_	Clusivity=In|Number=Sing|Person=1	10	nsubj	_	_
+9	pado	pa	PRON	_	Clusivity=In|Number=Sing|Person=1|Voice=Cau	10	dep	_	_
+10	parugadu	rugadu	VERB	_	Clusivity=In|Number=Sing|Person=1	7	ccomp	_	_
+11	tudogi	togi	ADP	_	Reflex=Yes	10	obl	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	paiagu	pa	PRON	_	Clusivity=In|Number=Sing|Person=1	15	nsubj	_	_
+14	tapira	tapira	NOUN	_	_	15	obj	_	_
+15	bito	bito	VERB	_	Number=Sing|Person=3	10	conj	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	paiagu	pa	PRON	bi	_	19	nsubj	_	_
+18	tapira	tapira	NOUN	_	_	19	obj	_	_
+19	bito	bito	VERB	_	Number=Sing|Person=3	10	conj	_	_
+20	,	_	PUNCT	_	_	19	punct	_	_
+21	paiagu	_	PRON	_	_	23	nsubj	_	_
+22	tapira	tapira	NOUN	_	_	23	obj	_	_
+23	bito	bito	VERB	_	Number=Sing|Person=3	10	conj	_	_
+24	,	_	PUNCT	_	_	23	punct	_	_
+25	Ecerae	_	PROPN	_	_	23	obl	_	_
+26	ekeje	_	VERB	_	Number=Plur|Person=3	25	case	_	_
+27	,	_	PUNCT	_	_	25	punct	_	_
+28	Tugarege	_	PROPN	_	_	25	conj	_	_
+29	ekeje	_	VERB	_	Number=Plur|Person=3	28	case	_	_
 
 # sent_id = CoqueiroAutobio-27.7
-# text = 
+# text = Taemaruiagu moiawe ewogai , taemaruiagu apeo bogai
 # text_eng =
-# text_por =
+# text_por = Que é para vocês procurar mel silvestre, que é para vocês procurar côco de acuri
+1	Taemaruiagu	emaru	VERB	_	Number=Plur|Person=2	0	root	_	_
+2	moiawe	moiawe	NOUN	_	_	1	obl	_	_
+3	ewogai	bogai	ADP	_	Number=Plur|Person=3	2	case	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	taemaruiagu	emaru	VERB	_	Number=Plur|Person=2	1	parataxis	_	_
+6	apeo	apeo	NOUN	_	_	5	obl	_	_
+7	bogai	bogai	ADP	_	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = CoqueiroAutobio-27.8
-# text = 
+# text = Icare Boe egore : U ! ema rugadu , ema rugadu
 # text_eng =
-# text_por =
+# text_por = Aí os Bororos disseram: Sim! Isso mesmo, isso mesmo
+1	Icare	ica	ADV	_	_	3	advmod	_	_
+2	Boe	boe	NOUN	_	Number=Plur	3	nsubj	_	_
+3	egore	ako	VERB	_	Number=Plur|Person=3	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	Uw	uw	INTJ	_	_	7	discourse	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+7	ema	ema	ADV	_	_	3	xcomp	_	_
+8	rugadu	rugadu	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	ema	ema	ADV	_	_	7	conj	_	_
+11	rugadu	rugadu	ADV	_	_	10	advcl	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
