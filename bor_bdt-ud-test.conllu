@@ -1806,7 +1806,7 @@
 2	!	!	PUNCT	_	_	1	punct	_	_
 3	Kodi	kodi	ADV	_	_	4	advmod	_	_
 4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
-5	oino	oino	VERB	_	_	4	advmod	_	_
+5	oino	oino	ADV	_	_	4	advmod	_	_
 6	itore	_	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
 7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
 8	,	,	PUNCT	_	_	6	punct	_	_
@@ -1821,7 +1821,7 @@
 2	!	!	PUNCT	_	_	1	punct	_	_
 3	Kodi	kodi	ADV	_	_	4	advmod	_	_
 4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
-5	oino	oino	VERB	_	_	4	advmod	_	_
+5	oino	oino	ADV	_	_	4	advmod	_	_
 6	iorubodarege	erubadare	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
 7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
 
@@ -1833,7 +1833,7 @@
 2	!	!	PUNCT	_	_	1	punct	_	_
 3	Kodi	kodi	ADV	_	_	4	advmod	_	_
 4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
-5	oino	oino	VERB	_	_	4	advmod	_	_
+5	oino	oino	ADV	_	_	4	advmod	_	_
 6	iogamage	o	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
 7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
 
@@ -1845,7 +1845,7 @@
 2	!	!	PUNCT	_	_	1	punct	_	_
 3	Kodire	kodi	ADV	_	Mood=Ind	4	advmod	_	_
 4	inago	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
-5	oino	oino	VERB	_	_	4	advmod	_	_
+5	oino	oino	ADV	_	_	4	advmod	_	_
 6	imugamage	muga	NOUN	_	Number=Plur|Number[psor]=Sing|Person=1	4	obl	_	_
 7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
 8	,	,	PUNCT	_	_	6	punct	_	_
