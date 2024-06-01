@@ -1799,7 +1799,7 @@
 18	tagae	kae	ADP	posp	Number=Plur|Person=2	15	obl	_	_
 
 # sent_id = CoqueiroAutobio-27.2
-# text = Uw ! Kodire inago oino itore tagae , imedumage tagae
+# text = Uw ! Kodire inago oino itore tagae , imedymage tagae
 # text_eng =
 # text_por = Sim! Por isso eu falo assim para vocês meus filhos, para vocês meninos
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
@@ -1826,7 +1826,7 @@
 7	tagae	kae	ADP	_	Number=Plur|Person=2	6	case	_	_
 
 # sent_id = CoqueiroAutobio-27.4
-# text = Uw ! Kodi inago oino iiogamage tagae
+# text = Uw ! Kodi inago oino iogamage tagae
 # text_eng =
 # text_por = Sim! Por isso eu falo assim para vocês meus pais
 1	Uw	uw	INTJ	_	_	4	discourse	_	_
@@ -1853,7 +1853,7 @@
 10	tagae	kae	ADP	_	Number=Plur|Person=2	9	case	_	_
 
 # sent_id = CoqueiroAutobio-27.6
-# text = Uw ! Pagimejera Jeri Kurireu batary aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, tugarege ekeje
+# text = Uw ! Pagimejera Jeri Kurirewy batary aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, tugarege ekeje
 # text_eng =
 # text_por = Sim! Chegou um recado do nosso Chefe Testa Grande (dizendo) que nos preparemos para recebê-lo, que matemos vaca, que matemos vaca, que matemos vaca, para os Cerae e os Tugarege comerem
 1	Uw	_	INTJ	_	_	7	discourse	_	_
@@ -1899,7 +1899,7 @@
 7	bogai	bogai	ADP	_	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = CoqueiroAutobio-27.8
-# text = Icare Boe egore : U ! ema rugadu , ema rugadu
+# text = Icare Boe egore : Uw ! ema rugadu , ema rugadu
 # text_eng =
 # text_por = Aí os Bororos disseram: Sim! Isso mesmo, isso mesmo
 1	Icare	ica	ADV	_	_	3	advmod	_	_
