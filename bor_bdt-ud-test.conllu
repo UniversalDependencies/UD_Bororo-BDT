@@ -1863,20 +1863,20 @@
 5	Kurirewy	_	PROPN	_	_	4	flat	_	_
 6	batary	batary	NOUN	_	_	7	nsubj	_	_
 7	aregodure	_	VERB	_	Number=Sing|Person=3	0	root	_	_
-8	paiagu	_	PRON	_	Clusivity=In|Number=Sing|Person=1	10	nsubj	_	_
+8	paiagu	_	PRON	_	Clusivity=In|Number=Sing|Person=1|Speech=IndTrans	10	nsubj	_	_
 9	pado	pa	PRON	_	Clusivity=In|Number=Sing|Person=1|Voice=Cau	10	dep	_	_
 10	parugadu	rugadu	VERB	_	Clusivity=In|Number=Sing|Person=1	7	ccomp	_	_
 11	tudogi	togi	ADP	_	Reflex=Yes	10	obl	_	_
 12	,	,	PUNCT	_	_	10	punct	_	_
-13	paiagu	pa	PRON	_	Clusivity=In|Number=Sing|Person=1	15	nsubj	_	_
+13	paiagu	pa	PRON	_	Clusivity=In|Number=Sing|Person=1|Speech=IndTrans	15	nsubj	_	_
 14	tapira	tapira	NOUN	_	_	15	obj	_	_
 15	bito	bito	VERB	_	Number=Sing|Person=3	10	conj	_	_
 16	,	,	PUNCT	_	_	15	punct	_	_
-17	paiagu	pa	PRON	bi	_	19	nsubj	_	_
+17	paiagu	pa	PRON	bi	Clusivity=In|Number=Sing|Person=1|Speech=IndTrans	19	nsubj	_	_
 18	tapira	tapira	NOUN	_	_	19	obj	_	_
 19	bito	bito	VERB	_	Number=Sing|Person=3	10	conj	_	_
 20	,	_	PUNCT	_	_	19	punct	_	_
-21	paiagu	_	PRON	_	_	23	nsubj	_	_
+21	paiagu	_	PRON	_	Clusivity=In|Number=Sing|Person=1|Speech=IndTrans	23	nsubj	_	_
 22	tapira	tapira	NOUN	_	_	23	obj	_	_
 23	bito	bito	VERB	_	Number=Sing|Person=3	10	conj	_	_
 24	,	_	PUNCT	_	_	23	punct	_	_
@@ -1890,7 +1890,7 @@
 # text = Taemaruiagu moiawe ewogai , taemaruiagu apeo bogai
 # text_eng =
 # text_por = Que é para vocês procurar mel silvestre, que é para vocês procurar côco de acuri
-1	Taemaruiagu	emaru	VERB	_	Number=Plur|Person=2	0	root	_	_
+1	Taemaruiagu	emaru	VERB	_	Number=Plur|Person=2|Speech=IndTrans	0	root	_	_
 2	moiawe	moiawe	NOUN	_	_	1	obl	_	_
 3	ewogai	bogai	ADP	_	Number=Plur|Person=3	2	case	_	_
 4	,	,	PUNCT	_	_	1	punct	_	_
@@ -2996,7 +2996,7 @@
 # text_eng =
 # text_por = O povo está querendo celebrar a dança das almas
 1	Boere	boe	NOUN	n	Mood=Ind	5	nsubj	_	_
-2	tuiagu	ty	PRON	bi	Reflex=Yes	5	dep	_	_
+2	tuiagu	ty	PRON	bi	Reflex=Yes|Speech=IndTrans	5	dep	_	_
 3	aroe	aroe	NOUN	n	_	4	nmod	_	_
 4	ereru	reru	NOUN	n	Number=Plur|Person=3	5	obj	_	_
 5	parudo	_	VERB	v	Voice=Cau	0	root	_	_
@@ -4431,7 +4431,7 @@
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	[];;
 4	akore	ko	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
-5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3|Speech=IndOpt	4	xcomp	_	eat;comer
+5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3|Speech=IndTrans	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	[];;
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
@@ -7278,13 +7278,13 @@
 # text = Makydyiagu
 # text_eng =
 # text_por = que é para ser dado
-1	Makydyiagu	maky	VERB	v	Purp=Trans|Voice=Pass	0	root	_	[];;
+1	Makydyiagu	maky	VERB	v	Speech=IndTrans|Voice=Pass	0	root	_	[];;
 
 # sent_id = 101j.PessGr
 # text = Makydykaiagu
 # text_eng =
 # text_por = que é para não ser dado
-1	Makydykaiagu	maky	VERB	v	Polarity=Neg|Purp=Trans|Voice=Pass	0	root	_	[];;
+1	Makydykaiagu	maky	VERB	v	Polarity=Neg|Speech=IndTrans|Voice=Pass	0	root	_	[];;
 
 # sent_id = 101k.PessGr
 # text = Makydyrewu
@@ -9563,7 +9563,7 @@
 # text = Imana akore aiagu tuge rodo
 # text_eng = My older brother said you should prepare him tasty food
 # text_por = Meu irmao maior disse que lhe prepares uma comida gostosa
-1	Imana	mana	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	nsubj	_	_
+1	Imana	mana	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1|Speech=IndTrans	2	nsubj	_	_
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=IndOpt	5	nsubj	_	_
 4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	obj	_	food;comida
@@ -9717,7 +9717,7 @@
 # text_por = A cigarra disse que ia medir a resistência do seu desejo de comida com o da onça
 1	Konorigi	konorigi	NOUN	n	_	2	nsubj	_	cicada;cigarra
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
-3	tuiagu	iagu	PRON	pron	Number=Sing|Person=3|Reflex=Yes	2	ccomp	_	[];;
+3	tuiagu	iagu	PRON	pron	Number=Sing|Person=3|Reflex=Yes|Speech=IndTrans	2	ccomp	_	[];;
 4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	nmod	_	[];;
 5	boi	boi	NOUN	n	_	6	obj	_	[];;
 6	remagu	remagu	VERB	v	Number=Sing|Person=3	3	xcomp	_	[];measure;medir
@@ -10949,7 +10949,7 @@
 # text_por = Um homem estava para ir àquele seu lugar da espera dos peixes, e seu filho ia com ele, mas seu pai não queria que ele fosse com ele
 1	Ia	ia	DET	dem	_	2	det	_	[];;
 2	imedynure	imedy	NOUN	n	Aspect=Prog|Mood=Ind|Number=Sing	0	root	_	[];;
-3	tudyiagu	ty	NOUN	n	Reflex=Yes	2	acl	_	[];;
+3	tudyiagu	ty	NOUN	n	Reflex=Yes|Speech=IndTrans	2	acl	_	[];;
 4	turagoja	ragoja	NOUN	n	_	3	obl	_	[];;
 5	kare	karo	NOUN	n	Number=Plur	7	obl	_	['kaɾɔ];fish;peixe
 6	ei	ji	ADP	posp	Number=Plur|Person=3	5	case	_	[];;
@@ -10958,7 +10958,7 @@
 9	,	;	PUNCT	punct	_	3	punct	_	[];;
 10	icare	icare	ADV	adv	_	12	advcl	_	[];;
 11	onaregedyre	onaregedy	NOUN	n	Mood=Ind	12	nsubj	_	[];;
-12	tugoduiagu	_	NOUN	n	_	2	parataxis	_	[];;
+12	tugoduiagu	_	NOUN	n	Reflex=Yes|Speech=IndTrans	2	parataxis	_	[];;
 13	tuo	o	NOUN	n	Number=Sing|Person=3|Reflex=Yes	12	obl	_	[];;
 14	apo	apo	ADP	posp	Number=Sing|Person=3	13	case	_	[];;
 15	,	,	PUNCT	punct	_	12	punct	_	[];;
@@ -11032,7 +11032,7 @@
 1	Icare	icare	ADV	adv	_	3	advmod	_	[];;
 2	onaregedy	onaregedy	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	3	nsubj	_	[];;
 3	akore	ako	VERB	v	Number=Sing|Person=3	0	root	_	[];;
-4	tuoiagu	_	NOUN	n	Number=Sing|Person=3|Reflex=Yes|Speech=IndOpt	3	ccomp	_	[];;
+4	tuoiagu	_	NOUN	n	Number=Sing|Person=3|Reflex=Yes|Speech=IndTrans	3	ccomp	_	[];;
 5	jorugo	jorugo	NOUN	n	_	4	obj	_	[];;
 6	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	7	nmod	_	[];;
 7	boie	_	NOUN	n	Speech=Ind	4	conj	_	[];;
@@ -11450,7 +11450,7 @@
 7	tagogududo	_	VERB	v	Number=Plur|Number[obj]=Sing|Person=2|Person[obj]=1|Voice=Cau	3	ccomp	_	_
 8	itabo	apo	ADP	posp	Number=Sing|Person=1	7	obl	_	_
 9	,	,	PUNCT	punct	_	7	punct	_	_
-10	taiagududo	_	VERB	v	Number=Plur|Number[obj]=Sing|Person=2|Person[obj]=1|Voice=Cau	7	conj	_	_
+10	taiagududo	_	VERB	v	Number=Plur|Number[obj]=Sing|Person=2|Person[obj]=1|Speech=IndTrans|Voice=Cau	7	conj	_	_
 11	itabo	apo	ADP	posp	Number=Sing|Person=1	10	obl	_	_
 12	!	!	PUNCT	punct	_	10	punct	_	_
 
