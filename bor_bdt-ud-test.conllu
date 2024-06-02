@@ -2024,16 +2024,42 @@
 34	bu	bu	VERB	_	_	4	parataxis	_	_
 35	,	,	PUNCT	punct	_	34	punct	_	_
 36	bu	bu	VERB	_	_	34	conj	_	_
-37	baku	_	_	_	_	36	obl	_	_
+37	baku	baku	NOUN	_	_	36	obl	_	_
 38	keje	keje	ADP	posp	_	37	case	_	_
 39	.	.	PUNCT	punct	_	36	punct	_	_
 40	Boe	boe	NOUN	n	_	41	nsubj	_	_
-41	turoia	_	VERB	_	_	4	parataxis	_	_
+41	turoia	_	VERB	_	Reflex=Yes	4	parataxis	_	_
 42	mariguduwu	mariguduwu	ADV	adv	_	41	advmod	_	_
-43	jire	_	_	_	_	42	obl	_	_
-44	Boe	boe	NOUN	n	_	45	nsubj	_	_
+43	jire	ji	ADP	posp	Mood=Ind|Number=Sing|Person=3	42	obl	_	_
+44	Boe	boe	NOUN	n	Number=Plur	45	nsubj	_	_
 45	eroino	ro	VERB	v	Number=Plur|Person=3	41	conj	_	_
 46	ji	ji	ADP	posp	Number=Sing|Person=3	45	obl	_	_
+
+# sent_id = CoqueiroAutobio-27.13
+# text = Akedyre dykeje icare ure aroia maky etai , boe eiamedy boe etai . Ukare diiero maky. Ure aroia rugadu maky
+# text_eng = Afetr finished, eh gave them clothes, to all. He did not give money, he gave clothes indeed.
+# text_por = Depois que acabou (a recepção) ele deu para eles roupa, para todos. Não deu dinheiro, deu roupa mesmo.
+1	Akedyre	akedy	VERB	v	mood=ind|Number=Sing|Person=3	6	advcl	_	_
+2	dykeje	dykeje	SCONJ	sconj	_	1	mark	_	_
+3	icare	icare	ADV	adv	_	6	advmod	_	_
+4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
+5	aroia	aroia	NOUN	n	_	6	obj	_	_
+6	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
+7	etai	ai	ADP	posp	Number=Plur|Person=3	6	obl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	boe	boe	NOUN	n	_	7	conj	_	_
+10	eiamedy	iamedy	PRON	pron	Number=Plur|Person=3|PronType=Tot	9	compound	_	_
+11	boe	boe	NOUN	n	Number=Plur	7	conj	_	_
+12	etai	ai	ADP	posp	Number=Plur|Person=3	11	case	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
+14	Ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	16	nsubj	_	_
+15	diiero	diiero	NOUN	n	_	16	obj	_	_
+16	maky	maky	VERB	vt	Number=Sing|Person=3	6	conj	_	_
+17	.	.	PUNCT	punct	_	16	punct	_	_
+18	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	21	nsubj	_	_
+19	aroia	aroia	NOUN	n	_	21	obj	_	_
+20	rugadu	rugadu	ADV	adv	_	21	advmod	_	_
+21	maky	maky	VERB	vt	Number=Sing|Person=3	6	conj	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
