@@ -852,13 +852,13 @@
 1	Ia	ia	PRON	art	Definite=Ind|PronType=Art	2	nsubj	_	_
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
-4	kui	kui	X	_	_	2	ccomp	_	_
+4	kui	kui	X	onom	_	2	ccomp	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	kui	kui	X	_	_	4	conj	_	_
+6	kui	kui	X	onom	_	4	conj	_	_
 7	,	,	PUNCT	punct	_	6	punct	_	_
-8	kui	_	X	_	_	4	conj	_	_
-9	;	_	PUNCT	punct	_	8	punct	_	_
-10	je	_	X	_	_	11	dep	_	_
+8	kui	kui	X	onom	_	4	conj	_	_
+9	;	;	PUNCT	punct	_	8	punct	_	_
+10	je	je	X	_	_	11	dep	_	_
 11	padyre	_	VERB	v	Mood=Ind	2	parataxis	_	_
 12	moto	moto	NOUN	n	Number=Sing	11	obl	_	_
 13	kejeje	kejeje	ADP	posp	Number=Sing|Person=3	12	case	_	_
@@ -868,12 +868,12 @@
 17	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	18	nsubj	_	_
 18	toiado	_	VERB	v	_	2	parataxis	_	_
 19	bai	bai	ADV	adv	_	18	advmod	_	quickly;rapidamente
-20	kuri	_	ADV	adv	_	18	advmod	_	_
-21	tuku	_	ADV	adv	_	18	advmod	_	_
-22	Okoge	_	PROPN	propn	_	24	nmod	_	_
-23	Ebowy	_	PROPN	propn	_	22	flat	_	_
-24	bure	_	NOUN	n	Number=Sing	25	nmod	_	_
-25	paru	_	NOUN	n	Number=Sing	18	obl	_	_
+20	kuri	kuri	ADV	adv	_	18	advmod	_	_
+21	tuku	tuku	ADV	adv	_	18	advmod	_	_
+22	Okoge	Okoge	PROPN	propn	_	24	nmod	_	_
+23	Ebowy	Ebowy	PROPN	propn	_	22	flat	_	_
+24	bure	bure	NOUN	n	Number=Sing	25	nmod	_	_
+25	paru	paru	NOUN	n	Number=Sing	18	obl	_	_
 26	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	25	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-16
@@ -1983,6 +1983,57 @@
 23	jeto	jeto	VERB	v	_	19	conj	_	_
 24	okwa	okwa	NOUN	n	_	23	obl	_	_
 25	ji	ji	ADP	posp	Number=Sing|Person=3	24	case	_	_
+
+# sent_id = CoqueiroAutobio-27.12
+# text = Icare ere toe maky ai . Ure kowyje , kowyje , kowyje , biega ty , biega ty , biega ty . Ere mearogu maky ai , ure togwa to ji mito ty , ure bu , bu baku keje . Boe turoia mariguduwu jire Boe eroino ji
+# text_eng =
+# text_por = Depois ofereceram-lhe suas coisas. Ele foi comendo, um pouco de cada coisa. Ofereceram-lhe cigarros e ele foi experimentando um por um, e depositando-os na bandeja de palha (Os Bororos fizeram com ele segundo seu costume antigo).
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
+3	toe	o	NOUN	n	Number=Plur	4	obj	_	_
+4	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
+5	ai	ai	ADP	posp	Number=Sing|Person=3	4	obl	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Ure	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+8	kowyje	kowyje	VERB	vt	Number=Sing|Person=3	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	kowyje	kowyje	VERB	vt	Number=Sing|Person=3	8	conj	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	kowyje	kowyje	VERB	vt	Number=Sing|Person=3	8	conj	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	biega	biega	NOUN	n	_	8	advmod	_	_
+15	ty	ty	ADV	adv	_	14	compound	_	_
+16	biega	biega	NOUN	n	_	8	advmod	_	_
+17	ty	ty	ADV	adv	_	16	compound	_	_
+18	biega	biega	NOUN	n	_	8	advcl	_	_
+19	ty	ty	ADV	adv	_	18	compound	_	_
+20	.	.	PUNCT	punct	_	18	punct	_	_
+21	Ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	23	nsubj	_	_
+22	mearogu	mea	NOUN	n	Degree=Dim	23	obj	_	_
+23	maky	maky	VERB	vt	Number=Sing|Person=3	4	parataxis	_	_
+24	ai	ai	ADP	posp	Number=Sing|Person=3	23	obl	_	_
+25	,	,	PUNCT	punct	_	23	punct	_	_
+26	ure	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	28	nsubj	_	_
+27	togwa	okwa	NOUN	n	Reflex=Yes	28	obj	_	_
+28	to	to	VERB	v	_	4	parataxis	_	_
+29	ji	ji	ADP	posp	Number=Sing|Person=3	28	obl	_	_
+30	mito	mito	NUM	num	NumType=Card	28	advmod	_	_
+31	ty	ty	ADV	adv	_	30	compound	_	_
+32	,	,	PUNCT	punct	_	28	punct	_	_
+33	ure	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	34	nsubj	_	_
+34	bu	bu	VERB	_	_	4	parataxis	_	_
+35	,	,	PUNCT	punct	_	34	punct	_	_
+36	bu	bu	VERB	_	_	34	conj	_	_
+37	baku	_	_	_	_	36	obl	_	_
+38	keje	keje	ADP	posp	_	37	case	_	_
+39	.	.	PUNCT	punct	_	36	punct	_	_
+40	Boe	boe	NOUN	n	_	41	nsubj	_	_
+41	turoia	_	VERB	_	_	4	parataxis	_	_
+42	mariguduwu	mariguduwu	ADV	adv	_	41	advmod	_	_
+43	jire	_	_	_	_	42	obl	_	_
+44	Boe	boe	NOUN	n	_	45	nsubj	_	_
+45	eroino	ro	VERB	v	Number=Plur|Person=3	41	conj	_	_
+46	ji	ji	ADP	posp	Number=Sing|Person=3	45	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
