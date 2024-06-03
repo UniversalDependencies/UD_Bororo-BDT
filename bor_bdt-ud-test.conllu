@@ -2037,7 +2037,7 @@
 
 # sent_id = CoqueiroAutobio-27.13
 # text = Akedyre dykeje icare ure aroia maky etai , boe eiamedy boe etai . Ukare diiero maky. Ure aroia rugadu maky
-# text_eng = Afetr finished, eh gave them clothes, to all. He did not give money, he gave clothes indeed.
+# text_eng = After finished, eh gave them clothes, to all. He did not give money, he gave clothes indeed.
 # text_por = Depois que acabou (a recepção) ele deu para eles roupa, para todos. Não deu dinheiro, deu roupa mesmo.
 1	Akedyre	akedy	VERB	v	mood=ind|Number=Sing|Person=3	6	advcl	_	_
 2	dykeje	dykeje	SCONJ	sconj	_	1	mark	_	_
@@ -2057,9 +2057,14 @@
 16	maky	maky	VERB	vt	Number=Sing|Person=3	6	conj	_	_
 17	.	.	PUNCT	punct	_	16	punct	_	_
 18	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	21	nsubj	_	_
-19	aroia	aroia	NOUN	n	_	21	obj	_	_
+19	aroia	aroia	NOUN	n	_	21	obj	_	clothe;pano,tecido
 20	rugadu	rugadu	ADV	adv	_	21	advmod	_	_
 21	maky	maky	VERB	vt	Number=Sing|Person=3	6	conj	_	_
+
+# sent_id = CoqueiroAutobio-27.14
+# text = Akore : itore , itugarege ! Akore : itaregodymode awy itaregodyre oino kejeboe keje pugeje . Tagiwa rakado tajebae okori ji , tagiwa rakado jorubo okori ji , taerydywo itaregody ji pugeje
+# text_eng = 
+# text_por = Disse : meus filhos , meus guerreiros ! Disse: - Eu vou voltar a este lugar onde eu cheguei agora. Sejam fortes contra os sofrimentos, contra as doenças, para que possam ver o a minha vinda de novo aqui.
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
@@ -2712,55 +2717,55 @@
 5	cimo	cimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	6	nmod	_	_
 6	nonogo	nonogo	NOUN	n	_	3	obl	_	_
 7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
-8	,	,	PUNCT	PUNCT	punct	3	punct	_	_
+8	,	,	PUNCT	punct	_	3	punct	_	_
 9	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 10	nowy	nowy	DET	dem	Deixis=Med	12	det	_	_
 11	cimo	cimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	12	nmod	_	_
 12	kidoguru	kidoguru	NOUN	n	Number=Sing	9	obl	_	resine;resina
 13	ji	ji	ADP	posp	Number=Sing|Person=3	12	case	_	_
-14	,	,	PUNCT	PUNCT	punct	9	punct	_	_
+14	,	,	PUNCT	punct	_	9	punct	_	_
 15	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 16	nowy	nowy	DET	dem	Deixis=Med	18	det	_	_
 17	cimo	cimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	18	nmod	_	_
 18	kiogoagiri	kiogoagiri	NOUN	n	_	15	obl	_	_
 19	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
-20	,	,	PUNCT	PUNCT	punct	15	punct	_	_
+20	,	,	PUNCT	punct	_	15	punct	_	_
 21	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 22	nowy	nowy	DET	dem	Deixis=Med	25	det	_	_
 23	cimo	cimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	25	nmod	_	_
 24	kuje	_	NOUN	n	_	25	nmod	_	_
 25	bo	_	NOUN	n	_	21	obl	_	feathering;plumagem
 26	ji	ji	ADP	posp	Number=Sing|Person=3	25	case	_	_
-27	,	,	PUNCT	PUNCT	punct	21	punct	_	_
+27	,	,	PUNCT	punct	_	21	punct	_	_
 28	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 29	nowy	nowy	DET	dem	Deixis=Med	32	det	_	_
 30	cimo	cimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	31	nmod	_	_
 31	nabure	nabure	NOUN	n	Number=Sing	32	nmod	_	_
 32	bu	bu	NOUN	n	Number=Sing	28	obl	_	_
 33	ji	ji	ADP	posp	Number=Sing|Person=3	32	case	_	_
-34	,	,	PUNCT	PUNCT	punct	28	punct	_	_
+34	,	,	PUNCT	punct	_	28	punct	_	_
 35	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 36	nowy	nowy	DET	dem	Deixis=Med	39	det	_	_
 37	cimo	cimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	38	nmod	_	_
 38	nabure	nabure	NOUN	n	Number=Sing	39	nmod	_	_
 39	oiaga	_	NOUN	n	_	35	obl	_	_
 40	ji	ji	ADP	posp	Number=Sing|Person=3	39	case	_	_
-41	,	,	PUNCT	PUNCT	punct	39	punct	_	_
+41	,	,	PUNCT	punct	_	39	punct	_	_
 42	kuido	_	NOUN	n	_	43	nmod	_	_
 43	oiaga	_	NOUN	n	_	39	obl	_	_
 44	ji	ji	ADP	posp	Number=Sing|Person=3	43	case	_	_
-45	,	,	PUNCT	PUNCT	punct	43	punct	_	_
+45	,	,	PUNCT	punct	_	43	punct	_	_
 46	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 47	nowy	nowy	DET	dem	Deixis=Med	50	det	_	_
 48	cimo	cimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	49	nmod	_	_
 49	nabure	nabure	NOUN	n	Number=Sing	50	nmod	_	_
 50	aro	_	NOUN	n	_	46	obl	_	_
 51	ji	ji	ADP	posp	Number=Sing|Person=3	50	case	_	_
-52	,	,	PUNCT	PUNCT	punct	50	punct	_	_
+52	,	,	PUNCT	punct	_	50	punct	_	_
 53	kuido	_	NOUN	n	_	54	nmod	_	_
 54	aro	_	NOUN	n	_	50	obl	_	_
 55	ji	ji	ADP	posp	Number=Sing|Person=3	54	case	_	_
-56	,	,	PUNCT	PUNCT	punct	54	punct	_	_
+56	,	,	PUNCT	punct	_	54	punct	_	_
 57	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 58	nowy	nowy	DET	dem	Deixis=Med	62	det	_	_
 59	tuie	_	PRON	_	_	60	nmod	_	_
@@ -2768,62 +2773,62 @@
 61	ciwaboe	_	NOUN	n	_	62	nmod	_	_
 62	etoiaga	_	NOUN	n	_	57	obl	_	_
 63	ji	ji	ADP	posp	Number=Sing|Person=3	62	case	_	_
-64	,	,	PUNCT	PUNCT	punct	57	punct	_	_
+64	,	,	PUNCT	punct	_	57	punct	_	_
 65	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 66	tuguie	_	NOUN	n	_	67	nmod	_	_
 67	bokodori	_	NOUN	n	_	65	obl	_	_
 68	ji	ji	ADP	posp	Number=Sing|Person=3	67	case	_	_
-69	,	,	PUNCT	PUNCT	punct	65	punct	_	_
+69	,	,	PUNCT	punct	_	65	punct	_	_
 70	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 71	tuguie	_	NOUN	n	_	70	obl	_	_
 72	akigu	_	NOUN	n	_	71	nmod	_	_
 73	ji	ji	ADP	posp	Number=Sing|Person=3	72	case	_	_
-74	,	,	PUNCT	PUNCT	punct	70	punct	_	_
+74	,	,	PUNCT	punct	_	70	punct	_	_
 75	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 76	tuguie	_	NOUN	n	_	75	obl	_	_
 77	meriri	_	NOUN	n	_	76	nmod	_	_
 78	ji	ji	ADP	posp	Number=Sing|Person=3	76	case	_	_
-79	,	,	PUNCT	PUNCT	punct	75	punct	_	_
+79	,	,	PUNCT	punct	_	75	punct	_	_
 80	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 81	uworo	_	NOUN	n	_	82	nmod	_	_
 82	aroeceba	_	NOUN	n	_	80	obl	_	_
 83	ji	ji	ADP	posp	Number=Sing|Person=3	82	case	_	_
-84	,	,	PUNCT	PUNCT	punct	80	punct	_	_
+84	,	,	PUNCT	punct	_	80	punct	_	_
 85	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 86	tuworo	_	NOUN	n	_	87	nmod	_	_
 87	kuruguga	_	NOUN	n	_	85	obl	_	_
 88	ji	ji	ADP	posp	Number=Sing|Person=3	87	case	_	_
-89	,	,	PUNCT	PUNCT	punct	85	punct	_	_
+89	,	,	PUNCT	punct	_	85	punct	_	_
 90	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 91	tui	_	PRON	_	_	92	nmod	_	_
 92	aroedu	_	NOUN	n	_	90	obl	_	_
 93	puje	_	NOUN	n	_	92	nmod	_	_
 94	dyji	dyji	ADP	adp	_	92	case	_	_
-95	,	,	PUNCT	PUNCT	punct	90	punct	_	_
+95	,	,	PUNCT	punct	_	90	punct	_	_
 96	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 97	tuwiadawu	_	NOUN	n	_	96	obl	_	_
 98	cugui	cugui	NOUN	n	_	99	nmod	_	_
 99	biri	biri	NOUN	n	_	97	nmod	_	_
 100	ji	ji	ADP	posp	Number=Sing|Person=3	97	case	_	_
-101	,	,	PUNCT	PUNCT	punct	96	punct	_	_
+101	,	,	PUNCT	punct	_	96	punct	_	_
 102	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 103	tadugo	atugo	NOUN	n	_	104	nmod	_	_
 104	Bakororo	Bakororo	PROPN	propn	_	105	nmod	_	_
 105	atugo	atugo	NOUN	n	_	102	obl	_	_
 106	ji	ji	ADP	posp	Number=Sing|Person=3	105	case	_	_
-107	,	,	PUNCT	PUNCT	punct	102	punct	_	_
+107	,	,	PUNCT	punct	_	102	punct	_	_
 108	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 109	turijo	_	NOUN	n	_	110	nmod	_	_
 110	oinono	oinono	ADV	adv	_	111	advmod	_	_
 111	pureore	reore	NOUN	n	Mood=Ind|Reflex=Yes	108	obl	_	_
 112	dyji	dyji	ADP	posp	Number=Sing|Person=3	111	case	_	_
-113	,	,	PUNCT	PUNCT	punct	111	punct	_	_
+113	,	,	PUNCT	punct	_	111	punct	_	_
 114	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 115	tuwaiga	iwaiga	NOUN	n	Reflex=Yes	116	nmod	_	_
 116	ao	ao	NOUN	n	_	111	conj	_	_
 117	keje	keje	ADP	posp	Number=Sing	116	case	_	_
 118	dyji	dyji	ADP	posp	Number=Sing|Person=3	116	case	_	_
-119	,	,	PUNCT	PUNCT	punct	116	punct	_	_
+119	,	,	PUNCT	punct	_	116	punct	_	_
 120	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 121	Aije	Aije	PROPN	propn	_	111	conj	_	_
 122	ji	ji	ADP	posp	Number=Sing|Person=3	121	case	_	_
