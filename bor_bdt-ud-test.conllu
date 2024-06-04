@@ -1883,7 +1883,7 @@
 25	Ecerae	Eceraedy	PROPN	propn	_	23	obl	_	_
 26	ekeje	keje	ADP	posp	Number=Plur|Person=3	25	case	_	_
 27	,	,	PUNCT	punct	_	25	punct	_	_
-28	Tugarege	tugaregedy	PROPN	propn	Number=Plur	25	conj	_	_
+28	Tugarege	tugaregedy	PROPN	propn	_	25	conj	_	_
 29	ekeje	keje	ADP	posp	Number=Plur|Person=3	28	case	_	_
 
 # sent_id = CoqueiroAutobio-27.7
