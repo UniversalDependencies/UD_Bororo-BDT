@@ -138,7 +138,7 @@
 27	kabi	kabi	VERB	vt	Number=Sing|Person=3	6	conj	_	_
 28	,	,	PUNCT	punct	_	27	punct	_	_
 29	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	31	nsubj	_	_
-30	awyre	awyre	NOUN	NOUN	n	31	obj	_	_
+30	awyre	awyre	NOUN	NOUN	_	31	obj	_	_
 31	kabi	kabi	VERB	vt	Number=Sing|Person=3	6	conj	_	_
 32	;	;	PUNCT	punct	_	31	punct	_	_
 33	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	36	nsubj	_	_
@@ -1880,7 +1880,7 @@
 22	tapira	tapira	NOUN	n	Number=Sing	23	obj	_	_
 23	bito	bito	VERB	v	Number=Sing|Person=3	10	conj	_	_
 24	,	,	PUNCT	punct	_	23	punct	_	_
-25	Ecerae	Eceraedy	PROPN	propn	Number=Plur	23	obl	_	_
+25	Ecerae	Eceraedy	PROPN	propn	_	23	obl	_	_
 26	ekeje	keje	ADP	posp	Number=Plur|Person=3	25	case	_	_
 27	,	,	PUNCT	punct	_	25	punct	_	_
 28	Tugarege	tugaregedy	PROPN	propn	Number=Plur	25	conj	_	_
