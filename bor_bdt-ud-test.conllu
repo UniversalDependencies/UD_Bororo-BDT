@@ -1883,7 +1883,7 @@
 25	Ecerae	Eceraedy	PROPN	propn	_	23	obl	_	_
 26	ekeje	keje	ADP	posp	Number=Plur|Person=3	25	case	_	_
 27	,	,	PUNCT	punct	_	25	punct	_	_
-28	Tugarege	tugaregedy	PROPN	propn	_	25	conj	_	_
+28	Tugarege	tugaregedy	PROPN	propn	Number=Plur	25	conj	_	_
 29	ekeje	keje	ADP	posp	Number=Plur|Person=3	28	case	_	_
 
 # sent_id = CoqueiroAutobio-27.7
@@ -2064,7 +2064,39 @@
 # sent_id = CoqueiroAutobio-27.14
 # text = Akore : itore , itugarege ! Akore : itaregodymode awy itaregodyre oino kejeboe keje pugeje . Tagiwa rakado tajebae okori ji , tagiwa rakado jorubo okori ji , taerydywo itaregody ji pugeje
 # text_eng = 
-# text_por = Disse : meus filhos , meus guerreiros ! Disse: - Eu vou voltar a este lugar onde eu cheguei agora. Sejam fortes contra os sofrimentos, contra as doenças, para que possam ver o a minha vinda de novo aqui.
+# text_por = Disse : meus filhos , meus guerreiros ! Disse: - Eu vou voltar a este lugar onde eu cheguei agora. Sejam fortes contra os sofrimentos, contra as doenças, para que possam ver a minha vinda de novo aqui.
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	:	:	PUNCT	punct	_	1	punct	_	_
+3	itore	onaregedy	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	1	vocative	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	conj	_	_
+6	!	!	PUNCT	punct	_	5	punct	_	_
+7	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	conj	_	_
+8	:	:	PUNCT	punct	_	7	punct	_	_
+9	itaregodymode	aregody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	7	xcomp	_	_
+10	awy	awy	DET	dem	Deixis=Prox	11	det	_	_
+11	itaregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	9	obl	_	_
+12	oino	oino	ADV	adv	_	11	advmod	_	_
+13	kejeboe	kejeboe	X	_	_	11	dep	_	_
+14	keje	keje	ADP	posp	Number=Sing|Person=3	13	case	_	_
+15	pugeje	pugeje	ADV	adv	_	11	advmod	_	_
+16	.	.	PUNCT	punct	_	15	punct	_	_
+17	Tagiwa	iwa	NOUN	n	Number=Plur|Person=2	18	nsubj	_	_
+18	rakado	raka	VERB	v	Voice=Cau	1	parataxis	_	_
+19	tajebae	_	NOUN	n	Number=Plur|Person=2	18	obl	_	_
+20	okori	okori	NOUN	n	_	19	conj	_	_
+21	ji	ji	ADP	posp	Number=Sing|Person=3	20	case	_	_
+22	,	,	PUNCT	punct	_	20	punct	_	_
+23	tagiwa	iwa	NOUN	n	Number=Plur|Person=2	24	nsubj	_	_
+24	rakado	raka	VERB	v	Voice=Cau	18	conj	_	_
+25	jorubo	jorubo	NOUN	n	_	24	obl	_	_
+26	okori	okori	NOUN	n	_	25	conj	_	_
+27	ji	ji	ADP	posp	Number=Sing|Person=3	26	case	_	_
+28	,	,	PUNCT	punct	_	26	punct	_	_
+29	taerydywo	aerydy	VERB	v	Mood=Sub|Number=Plur|Person=2	18	ccomp	_	_
+30	itaregody	aregody	NOUN	n	_	29	obl	_	_
+31	ji	ji	ADP	posp	Number=Sing|Person=3	30	case	_	_
+32	pugeje	pugeje	ADV	adv	_	29	advmod	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
