@@ -138,7 +138,7 @@
 27	kabi	kabi	VERB	vt	Number=Sing|Person=3	6	conj	_	_
 28	,	,	PUNCT	punct	_	27	punct	_	_
 29	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	31	nsubj	_	_
-30	awyre	awyre	NOUN	NOUN	_	31	obj	_	_
+30	awyre	awyre	NOUN	NOUN	n	31	obj	_	_
 31	kabi	kabi	VERB	vt	Number=Sing|Person=3	6	conj	_	_
 32	;	;	PUNCT	punct	_	31	punct	_	_
 33	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	36	nsubj	_	_
@@ -2021,14 +2021,14 @@
 31	ty	ty	ADV	adv	_	30	compound	_	_
 32	,	,	PUNCT	punct	_	28	punct	_	_
 33	ure	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	34	nsubj	_	_
-34	bu	bu	VERB	_	_	4	parataxis	_	_
+34	bu	bu	VERB	v	_	4	parataxis	_	_
 35	,	,	PUNCT	punct	_	34	punct	_	_
-36	bu	bu	VERB	_	_	34	conj	_	_
-37	baku	baku	NOUN	_	_	36	obl	_	_
+36	bu	bu	VERB	v	_	34	conj	_	_
+37	baku	baku	NOUN	n	_	36	obl	_	_
 38	keje	keje	ADP	posp	_	37	case	_	_
 39	.	.	PUNCT	punct	_	36	punct	_	_
 40	Boe	boe	NOUN	n	_	41	nsubj	_	_
-41	turoia	_	VERB	_	Reflex=Yes	4	parataxis	_	_
+41	turoia	_	VERB	v	Reflex=Yes	4	parataxis	_	_
 42	mariguduwu	mariguduwu	ADV	adv	_	41	advmod	_	_
 43	jire	ji	ADP	posp	Mood=Ind|Number=Sing|Person=3	42	obl	_	_
 44	Boe	boe	NOUN	n	Number=Plur	45	nsubj	_	_
@@ -2097,6 +2097,35 @@
 30	itaregody	aregody	NOUN	n	_	29	obl	_	_
 31	ji	ji	ADP	posp	Number=Sing|Person=3	30	case	_	_
 32	pugeje	pugeje	ADV	adv	_	29	advmod	_	_
+
+# sent_id = CoqueiroAutobio-27.15
+# text = Utyre kuri je , pobo joki , ika tabo , motor tabo - nowy ika padure kimo nono chácara keje , Cuiabá keje : pegagodyre
+# text_eng = 
+# text_por = Partiu logo rio abaixo, num barco a motor (esse barco está ainda na Chácara, em Cuiabá. Está estragado)
+1	Utyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	kuri	kuri	ADV	adv	_	1	advmod	_	_
+3	je	je	ADV	adv	_	2	compound	_	_
+4	pobo	pobo	NOUN	n	_	1	obl	_	_
+5	joki	joki	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ika	ika	NOUN	n	_	1	obl	_	_
+8	tabo	tabo	ADP	posp	Number=Sing|Person=3	7	case	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	motor	motor	NOUN	n	_	7	conj	_	_
+11	tabo	_	ADP	posp	Number=Sing|Person=3	10	case	_	_
+12	-	-	PUNCT	punct	_	11	punct	_	_
+13	nowy	nowy	DET	_	Deixis=Med	14	det	_	_
+14	ika	ika	NOUN	n	_	15	nsubj	_	_
+15	padure	padure	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
+16	kimo	kimo	ADV	adv	_	17	advmod	_	_
+17	nono	nono	ADV	adv	_	15	advmod	_	_
+18	chácara	chácara	NOUN	n	_	15	obl	_	_
+19	keje	keje	ADP	posp	Number=Sing|Person=3	18	case	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	Cuiabá	Cuiabá	PROPN	_	_	18	case	_	_
+22	keje	keje	ADP	posp	_	21	case	_	_
+23	:	:	PUNCT	punct	_	22	punct	_	_
+24	pegagodyre	pega	VERB	v	Mood=Ind|Number=Sing|Person=3	15	conj	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
