@@ -2127,6 +2127,21 @@
 23	:	:	PUNCT	punct	_	22	punct	_	_
 24	pegagodyre	pega	VERB	v	Mood=Ind|Number=Sing|Person=3	15	conj	_	_
 
+# sent_id = CoqueiroAB-RumoDasMissoes-01.1
+# text = Dykeje icare ityre mato . Awy Pao Pemore itydo mato
+# text_eng = 
+# text_por = Depois eu vim embora. O nosso Pai Pemo me fez vir embora.
+1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
+2	icare	icare	ADV	adv	_	3	advmod	_	_
+3	ityre	ty	VERB	vi	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+4	mato	mato	ADV	adv	_	3	advmod	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+6	Awy	awy	DET	det	Deixis=Prox	7	det	_	_
+7	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	9	nsubj	_	_
+8	Pemore	Pemo	PROPN	_	Mood=Ind	7	appos	_	_
+9	itydo	ty	VERB	vc	Mood=Ind|Number=Sing|Person=1|Voice=Cau	3	parataxis	_	_
+10	mato	mato	ADV	adv	_	9	advmod	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
