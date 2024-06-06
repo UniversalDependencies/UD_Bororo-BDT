@@ -1853,7 +1853,7 @@
 10	tagae	kae	ADP	posp	Number=Plur|Person=2	9	case	_	_
 
 # sent_id = CoqueiroAutobio-27.6
-# text = Uw ! Pagimejera Jeri Kurirewy batary aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje, Tugarege ekeje
+# text = Uw ! Pagimejera Jeri Kurirewy batary aregodyre paiagu pado parugadu tudogi , paiagu tapira bito , paiagu tapira bito , paiagu tapira bito , Ecerae ekeje , Tugarege ekeje
 # text_eng =
 # text_por = Sim! Chegou um recado do nosso Chefe Testa Grande (dizendo) que nos preparemos para recebê-lo, que matemos vaca, que matemos vaca, que matemos vaca, para os Cerae e os Tugarege comerem
 1	Uw	_	INTJ	intj	_	7	discourse	_	_
@@ -1933,7 +1933,7 @@
 13	kuda	_	ADP	posp	Number=Sing|Person=3	12	obl	_	_
 
 # sent_id = CoqueiroAutobio-27.10
-# text = Icare boe ere pariko kogudo aora kajeje . Boe ere kuruguga , aroeceba tugu aoto ty
+# text = Icare boe ere pariko kogudo aora kajeje . Boe ere kuruguga , aroeceba tugu ao to ty
 # text_eng =
 # text_por = Depois amarraram na cabeça dele o pariko . Puseram-lhe também pregos (penas ornamentais) de gavião e de águia na cabeça.
 1	Icare	icare	ADV	adv	_	5	advmod	_	_
@@ -1955,7 +1955,7 @@
 17	ty	ty	ADV	adv	_	14	advmod	_	_
 
 # sent_id = CoqueiroAutobio-27.11
-# text = Icare boe eragodyre joki . Areme etoragodyre joki . Mugure oino ty . Icare Boe ere nowy moiawe emagu ai , ere jeto okwaji
+# text = Icare boe eragodyre joki . Areme etoragodyre joki . Mugure oino ty . Icare Boe ere nowy moiawe emagu ai , ere jeto okwa ji
 # text_eng =
 # text_por = Depois cantaram sobre ele, as mulheres choraram para ele. Ele sentou-se. Os Bororo ofereceram-lhe mel silvestre, colocando na boca dele.
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
@@ -1985,7 +1985,7 @@
 25	ji	ji	ADP	posp	Number=Sing|Person=3	24	case	_	_
 
 # sent_id = CoqueiroAutobio-27.12
-# text = Icare ere toe maky ai . Ure kowyje , kowyje , kowyje , biega ty , biega ty , biega ty . Ere mearogu maky ai , ure togwa to ji mito ty , ure bu , bu baku keje . Boe turoia mariguduwu jire Boe eroino ji
+# text = Icare ere toe maky ai . Ure kowyje , kowyje , kowyje , biega ty biega ty , biega ty . Ere mearogu maky ai , ure togwa to ji mito ty , ure bu , bu baku keje . Boe turoia mariguduwu jire Boe eroino ji
 # text_eng =
 # text_por = Depois ofereceram-lhe suas coisas. Ele foi comendo, um pouco de cada coisa. Ofereceram-lhe cigarros e ele foi experimentando um por um, e depositando-os na bandeja de palha (Os Bororos fizeram com ele segundo seu costume antigo).
 1	Icare	icare	ADV	adv	_	4	advmod	_	_
@@ -2001,9 +2001,9 @@
 11	,	,	PUNCT	punct	_	10	punct	_	_
 12	kowyje	kowyje	VERB	vt	Number=Sing|Person=3	8	conj	_	_
 13	,	,	PUNCT	punct	_	12	punct	_	_
-14	biega	biega	NOUN	n	_	8	advmod	_	_
+14	biega	biega	ADV	n	_	8	advmod	_	_
 15	ty	ty	ADV	adv	_	14	compound	_	_
-16	biega	biega	NOUN	n	_	8	advmod	_	_
+16	biega	biega	ADV	n	_	8	advmod	_	_
 17	ty	ty	ADV	adv	_	16	compound	_	_
 18	biega	biega	NOUN	n	_	8	advcl	_	_
 19	ty	ty	ADV	adv	_	18	compound	_	_
@@ -2017,7 +2017,7 @@
 27	togwa	okwa	NOUN	n	Reflex=Yes	28	obj	_	_
 28	to	to	VERB	v	_	4	parataxis	_	_
 29	ji	ji	ADP	posp	Number=Sing|Person=3	28	obl	_	_
-30	mito	mito	NUM	num	NumType=Card	28	advmod	_	_
+30	mito	mito	ADV	num	NumType=Card	28	advmod	_	_
 31	ty	ty	ADV	adv	_	30	compound	_	_
 32	,	,	PUNCT	punct	_	28	punct	_	_
 33	ure	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	34	nsubj	_	_
@@ -2036,10 +2036,10 @@
 46	ji	ji	ADP	posp	Number=Sing|Person=3	45	obl	_	_
 
 # sent_id = CoqueiroAutobio-27.13
-# text = Akedyre dykeje icare ure aroia maky etai , boe eiamedy boe etai . Ukare diiero maky. Ure aroia rugadu maky
+# text = Akedyre dykeje icare ure aroia maky etai , boe eiamedy boe etai . Ukare diiero maky . Ure aroia rugadu maky
 # text_eng = After finished, eh gave them clothes, to all. He did not give money, he gave clothes indeed.
 # text_por = Depois que acabou (a recepção) ele deu para eles roupa, para todos. Não deu dinheiro, deu roupa mesmo.
-1	Akedyre	akedy	VERB	v	mood=ind|Number=Sing|Person=3	6	advcl	_	_
+1	Akedyre	akedy	VERB	v	Mood=Ind|Number=Sing|Person=3	6	advcl	_	_
 2	dykeje	dykeje	SCONJ	sconj	_	1	mark	_	_
 3	icare	icare	ADV	adv	_	6	advmod	_	_
 4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
