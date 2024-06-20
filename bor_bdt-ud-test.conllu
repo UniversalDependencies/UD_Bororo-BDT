@@ -12323,6 +12323,28 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-918
+# text = ure tado imaragodydo
+# text_por = ele fez vocês me fazer trabalhar
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tado	ta	VERB	v	Number=Sing|Person=3|Voice=Cau	3	obj	_	_
+3	imaragodydo	maragody	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-920
+# text = ure tado tageragu iaboe ji
+# text_por = Ele fez vocês pegarem algo
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tado	ta	VERB	v	Number=Plur|Person=2|Voice=Cau	3	obj	_	_
+3	tageragu	ageraku	VERB	v	_	0	root	_	_
+4	iaboe	iaboe	PRON	pron	PronType=Ind	2	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-921
+# text = ure tamagadydo
+# text_por = Ele se mexeu
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tamagadydo	amagady	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	_
+
 # sent_id = Ochoa-Dic-Ex-922
 # text = ure toredy bie
 # text_por = Ela avisou o seu marido
@@ -12623,5 +12645,4 @@
 1	uwo	u	PRON	bi	Mood=Sub|Number=Sing|Person=3	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	obj	_	_
 3	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
-
 
