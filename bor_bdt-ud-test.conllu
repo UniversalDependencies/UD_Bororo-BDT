@@ -12264,3 +12264,33 @@
 2	emageie	emage	PRON	pron	Number=Plur|Person=3|PronType=Prs|Speech=Ind	3	nsubj	_	_
 3	etumode	u	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Fut	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-83
+# text = akore emodykae boe maky
+# text_por = ele falou que eles não dariam algo
+1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	emodykae	e	PRON	bi	Number=Plur|Person=3|Polarity=Neg|PronType=Bi|Tense=Fut	4	nsubj	_	_
+3	boe	boe	NOUN	n	_	4	obj	_	_
+4	maky	maky	VERB	vt	Number=Sing|Person=3	1	ccomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-84
+# text = akore ii 
+# text_por = Me disse
+1	akore	akore	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	ii	ji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+
+# sent_id = Ochoa-Dic-Ex-85
+# text = akore iie amaragodydo 
+# text_por = Falou que eu fiz você trabalhar
+1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	iie	i	X	x	Number=Sing|Person=1|Speech=Ind	3	dep	_	_
+3	amaragodydo	maragody	VERB	v	Number=Sing|Person=2|Voice=Cau	1	ccomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-86
+# text = akore iie boe maky
+# text_por = Falou que eu dei algo
+1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	iie	i	PRON	bi	Number=Sing|Person=1|Speech=Ind	4	dep	_	_
+3	boe	boe	NOUN	n	_	4	obj	_	_
+4	maky	maky	VERB	vt	Number=Sing|Person=3	1	ccomp	_	_
+
+
