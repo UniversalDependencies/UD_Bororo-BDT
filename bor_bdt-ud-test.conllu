@@ -11823,3 +11823,50 @@
 3	paiamedu	iamedu	PRON	pron	Clusivity=In|Number=Plur|Person=2|PronType=Tot	2	obl	_	_
 4	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
 
+# sent_id = Ochoa-Dic-Ex-7
+# text = aeku irure ii
+# text_por = Você me desprezou
+1	aeku	eku	NOUN	n	Number=Sing|Person=2	2	nsubj	_	_
+2	irure	ru	VERB	v	Mood=Ind	0	root	_	_
+3	ii	ji	ADP	posp	Number=Sing|Person=1	2	obl	_	_
+
+# sent_id = Ochoa-Dic-Ex-8
+# text = aekugigire
+# text_por = você sorriu
+1	aekugigire	ekugigi	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-9
+# text = aerydywakare ii !
+# text_por = Você não me conhece
+1	aerydywakare	erydywa	VERB	v	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	0	root	_	_
+2	ii	ji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-10
+# text = aerydyre ceiure boe maky
+# text_por = Você viu que nós estávamos dando algo
+1	aerydyre	erudu	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+2	ceiure	ceiure	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Speech=Ind	4	nsubj	_	_
+3	boe	boe	NOUN	n	_	4	obj	_	_
+4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-11
+# text = aerydyre ji !
+# text_por = Você o viu
+1	aerydyre	erydy	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-12
+# text = aetudo cei !
+# text_por = Cuida de nós!
+1	aetudo	etu	VERB	v	Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+2	cei	ji	ADP	posp	Clusivity=Ex|Number=Plur|Person=1	1	obl	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-13
+# text = aetudo ii !
+# text_por = Ajude-me!
+1	aetydo	ety	VERB	v	Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+2	ii	ji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
