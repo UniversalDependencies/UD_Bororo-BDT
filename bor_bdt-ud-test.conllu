@@ -12323,6 +12323,56 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-953
+# text = uture tugai boe maky dytabo !
+# text_por = foi embora sem ter dado algo
+1	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	tugai	tu	PRON	pron	Polarity=Neg|Reflex=Yes	4	nsubj	_	_
+3	boe	boe	NOUN	n	_	4	obj	_	_
+4	maky	maky	VERB	vt	Number=Sing|Person=3	1	xcomp	_	_
+5	dytabo	dytabo	NOUN	n	_	4	dep	_	_
+
+# sent_id = Ochoa-Dic-Ex-954
+# text = uture tugai imaragodydo dytabo
+# text_por = ele foi embora para não fazer você trabalhar
+1	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	tugai	gai	PRON	pron	Polarity=Neg|Reflex=Yes	3	nsubj	_	_
+3	imaragodydo	maragody	VERB	v	Number=Sing|Person=1|Voice=Cau	1	xcomp	_	_
+4	dytabo	apo	ADP	posp	Number=Sing|Person=3	3	dep	_	_
+
+# sent_id = Ochoa-Dic-Ex-956
+# text = uture tugai tugeragu boe ji
+# text_por = Foi embora sem ter pego algo
+1	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	tugai	gai	NOUN	n	Reflex=Yes	3	nsubj	_	_
+3	tugeragu	eragu	VERB	v	Reflex=Yes	1	advcl	_	_
+4	boe	boe	NOUN	n	_	3	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-957
+# text = uture tugawo amaragodydo !
+# text_por = Foi embora sem querer (não querendo) levar nada
+1	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	tugawo	ugawo	NOUN	n	Mood=Sub|Number=Sing|Person=3|Reflex=Yes	3	nsubj	_	_
+3	amaragodydo	maragody	VERB	v	Number=Sing|Person=2|Voice=Cau	1	advcl	_	_
+
+# sent_id = Ochoa-Dic-Ex-958
+# text = uture tugawo boe maky
+# text_por = ele foi embora para não dar algo
+1	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	tugawo	ugawo	NOUN	n	Mood=Sub|Number=Sing|Person=3|Reflex=Yes	4	nsubj	_	_
+3	boe	boe	NOUN	n	_	4	obj	_	_
+4	maky	maky	VERB	vt	Number=Sing|Person=3	1	advcl	_	_
+
+# sent_id = Ochoa-Dic-Ex-959
+# text = uture tugawo tugeragu boe ji
+# text_por = Ele foi embora para não pegar algo
+1	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	tugawo	tu	NOUN	n	Number=Sing|Person=3|Polarity=Neg|Reflex=Yes	3	nsubj	_	_
+3	tugeragu	eragu	VERB	v	Reflex=Yes	1	advcl	_	_
+4	boe	boe	NOUN	n	_	3	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
 # sent_id = Ochoa-Dic-Ex-960
 # text = uture tui boe maky dykeje !
 # text_por = Foi embora depois de ter dado algo
