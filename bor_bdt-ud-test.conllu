@@ -12293,4 +12293,54 @@
 3	boe	boe	NOUN	n	_	4	obj	_	_
 4	maky	maky	VERB	vt	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-87
+# text = akore iie ikeragu !
+# text_por = Falou que eu peguei
+1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	iie	i	PRON	bi	Number=Sing|Person=1|Speech=Ind	3	dep	_	_
+3	ikeragu	eragu	VERB	v	Number=Sing|Person=1	1	ccomp	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-88
+# text = akore iie imagu
+# text_por = Falou que eu me entreguei
+1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	iie	i	PRON	bi	Number=Sing|Person=1|Speech=Ind	3	dep	_	_
+3	imagu	kamy	VERB	v	Number=Sing|Person=1	1	ccomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-89
+# text = akore ikae amaragodydo
+# text_por = Falou que eu não fiz você trabalhar
+1	akore	akor	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	ikae	ikae	NOUN	n	Number=Sing|Person=1|Polarity=Neg|Speech=Ind	3	nsubj	_	_
+3	amaragodydo	maragodu	VERB	v	Number=Sing|Person=2|Voice=Cau	1	ccomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-90
+# text = akore ikae boe maky
+# text_por = Falou que eu não dei algo
+1	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	ikae	ikae	NOUN	n	Number=Sing|Person=1|Polarity=Neg|Speech=Ind	3	nmod	_	_
+3	boe	boe	NOUN	n	_	4	nsubj	_	_
+4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-963
+# text = uture tuiorydykawo ai
+# text_por = Foi embora para não ver você
+1	uture	uture	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	tuiorydykawo	iorydyka	VERB	v	Mood=Sub|Reflex=Yes	1	advcl	_	_
+3	ai	ji	ADP	posp	Number=Sing|Person=2	2	obl	_	_
+
+# sent_id = Ochoa-Dic-Ex-964
+# text = uturumode !
+# text_por = ele irá mesmo!
+1	uturumode	uturu	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-965
+# text = uwo boe maky
+# text_por = Para ele dar algo
+1	uwo	u	PRON	bi	Mood=Sub|Number=Sing|Person=3	3	nsubj	_	_
+2	boe	boe	NOUN	n	_	3	obj	_	_
+3	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
+
 
