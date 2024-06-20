@@ -12323,6 +12323,35 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-948
+# text = ure tuwiado tugawo tumagu
+# text_por = Ele se escondeu para não se entregar
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	tuwiado	wia	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
+3	tugawo	ugawo	NOUN	n	Mood=Sub|Polarity=Neg|Reflex=Yes	3	nsubj	_	_
+4	tumagu	maky	NOUN	n	Reflex=Yes|Speech=IndTrans	2	xcomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-949
+# text = utukare roga ou utukare roga !
+# text_por = Ainda não foi embora!
+1	utukare	utu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
+2	roga	roga	ADV	adv	AdvType=Man	4	advmod	_	_
+3	ou	ou	NOUN	n	_	4	nsubj	_	_
+4	!	!	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-950
+# text = utumode !
+# text_por = Ele irá!
+1	utumode	utu	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-951
+# text = uture itabo !
+# text_por = Ele foi comigo
+1	uture	utu	VERB	v	Mood=Ind	0	root	_	_
+2	itabo	apo	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+
 # sent_id = Ochoa-Dic-Ex-953
 # text = uture tugai boe maky dytabo !
 # text_por = foi embora sem ter dado algo
