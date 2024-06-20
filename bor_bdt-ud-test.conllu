@@ -12323,6 +12323,107 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-922
+# text = ure toredy bie
+# text_por = Ela avisou o seu marido
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+2	toredy	oredy	NOUN	v	Number=Sing|Person=3|Reflex=Yes	3	obj	_	_
+3	bie	bie	VERB	v	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-923
+# text = ure tudo nono barogore
+# text_por = se fez como bicho
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	tudo	tu	PRON	pron	Reflex=Yes	0	root	_	_
+3	nono	nono	ADV	adv	_	2	advmod	_	_
+4	barogore	barogo	NOUN	n	Mood=Ind	2	obl	_	_
+
+# sent_id = Ochoa-Dic-Ex-924
+# text = ure tudydo
+# text_por = Ele mudou de forma
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tudydo	tudy	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-925
+# text = ure tugagu
+# text_por = Ficou zangado
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tugagu	gagu	PRON	pron	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-926
+# text = ure tugera kagu to riruroguto
+# text_por = Esfregou com as mãos o seu aparelinho de fazer fogo
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	5	nsubj	_	_
+2	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	3	nmod	_	_
+3	kagu	kagu	VERB	v	_	0	root	_	_
+4	to	to	ADP	posp	Number=Sing|Person=3	3	case	_	_
+5	riruroguto	riruroguto	X	X	_	3	dep	_	_
+
+# sent_id = Ochoa-Dic-Ex-927
+# text = ure tugera pagado
+# text_por = Ele apalpou
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	3	obj	_	_
+3	pagado	paga	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-928
+# text = ure tugeragu boe ji
+# text_por = Ele pegou algo
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tugeragu	tugeragu	VERB	v	_	0	root	_	_
+3	boe	boe	NOUN	n	_	2	obl	_	_
+4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-929
+# text = ure tugerakagu to riru
+# text_por = Esfregou seu pequeno instrumento de fazer fogo
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tugerakagu	rakagu	VERB	v	Reflex=Yes|Speech=IndTrans	0	rrot	_	_
+3	to	to	NOUN	n	Number=Plur|Person=3	3	nmod	_	_
+4	riru	riru	NOUN	n	_	2	obj	_	_
+
+# sent_id = Ochoa-Dic-Ex-930
+# text = ure tugirimi !
+# text_por = Ele regressou
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	tugirimi	kirimi	VERB	v	Reflex=Yes	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-931
+# text = ure tuguo
+# text_por = ele apareceu / ele se manifestou
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tuguo	uguo	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-932
+# text = ure tuia mugudo
+# text_por = Ele fez sua curva
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tuia	ia	NOUN	n	Person=3|Reflex=Yes	3	obj	_	_
+3	mugudo	mugudo	VERB	v	_	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-933
+# text = ure tuiaedo ii
+# text_por = Ele se afastou de mim
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	tuiaedo	iaedo	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
+3	ii	ji	ADP	posp	Number=Sing|Person=1	2	obl	_	_
+
+# sent_id = Ochoa-Dic-Ex-934
+# text = ure tuie jodo moto to !
+# text_por = Inclinou seu rosto para o chão
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tuie	ie	NOUN	n	Number=Sing|Reflex=Yes	3	obj	_	_
+3	jodo	jodo	VERB	n	Voice=Cau	0	root	_	_
+4	moto	moto	NOUN	noun	_	0	obl	_	_
+5	to	to	ADP	posp	Number=Sing|Person=3	4	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-935
+# text = ure tuiebu
+# text_por = Ele saiu
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+
 # sent_id = Ochoa-Dic-Ex-936
 # text = ure tuiedorodo
 # text_por = ele se endireitou/converteu
