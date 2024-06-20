@@ -12323,6 +12323,68 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-938
+# text = ure tuiejodo moto to !
+# text_por = Ele se inclinou para o chão
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	tuiejodo	jejodo	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
+3	moto	mototo	NOUN	n	_	2	obl	_	_
+4	to	to	ADP	posp	_	3	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-939
+# text = ure tuioku kidydo ii
+# text_por = ele olhou-me fixamente
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tuioku	joku	NOUN	n	Number=Sing|Reflex=Yes	3	obj	_	_
+3	kidydo	kidy	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
+
+# sent_id = Ochoa-Dic-Ex-942
+# text = ure tumagu tuwobe etai
+# text_por = Ele se entregou pelo seu próprio povo
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tumagu	maky	VERB	v	Reflex=Yes	0	root	_	_
+3	tuwobe	tuwobe	NOUN	n	Number=Plur|Person=3	2	obl	_	_
+4	etai	ai	ADP	posp	Number=Plur|Person=3	3	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-943
+# text = ure tumorido ei !
+# text_por = ele os venceu!
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	tumorido	morido	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
+3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
+4	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-944
+# text = ure tumorido tui tumagu dytabo
+# text_por = ele venceu entregandose
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	tumorido	morido	VERB	v	Reflex=Yes	0	root	_	_
+3	tui	tu	PRON	pron	Reflex=Yes	4	nsubj	_	_
+4	tumagu	maky	VERB	v	_	5	xcomp	_	_
+5	dytabo	dytabo	NOUN	n	_	4	dep	_	_
+
+# sent_id = Ochoa-Dic-Ex-945
+# text = ure tumugudo iaboe keje
+# text_por = Ele puxou algo
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	tumugudo	mugu	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
+3	iaboe	boe	PRON	pron	PronType=Ind	2	obl	_	_
+4	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-946
+# text = ure tuomage eegaredo
+# text_por = Ele alegrou seus pais
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	nsubj	_	_
+2	tuomage	o	NOUN	n	Number=Plur|Reflex=Yes	3	obj	_	_
+3	eegaredo	jeegaredo	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-947
+# text = ure turiago
+# text_por = Ele se encerrou
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	turiago	riago	VERB	v	Reflex=Yes	0	root	_	_
+
 # sent_id = Ochoa-Dic-Ex-948
 # text = ure tuwiado tugawo tumagu
 # text_por = Ele se escondeu para não se entregar
