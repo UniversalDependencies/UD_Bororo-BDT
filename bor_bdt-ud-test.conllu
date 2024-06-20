@@ -11775,3 +11775,51 @@
 8	joki	joki	NOUN	n	_	5	case	_	_
 9	inai	ai	ADP	posp	Number=Sing|Person=1	5	obl	_	_
 
+# sent_id = Ochoa-Dic-Ex-Ochoa-Dic-Ex-1
+# text = aidy karega ure
+# text_por = Ele não está querendo
+1	aidy	aidy	VERB	v	Number=Sing|Person=3	0	root	_	SpacesBefore=\n
+2	karega	karega	PART	prcl	Polarity=Neg	1	dep	_	_
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	1	nsubj	_	_
+
+# sent_id = Ochoa-Dic-Ex-2
+# text = atumodykana ?
+# text_por = Por acaso você não virá?
+1	atumodykana	atumodykana	NOUN	n	Dub=Yes|Number=Sing|Person=2|Polarity=Neg	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-3
+# text = adugo jagi
+# text_por = Pela boca da onça adentro
+1	adugo	adugo	NOUN	n	Number=Sing	0	root	_	_
+2	jagi	jagi	ADP	posp	Number=Sing|Person=3	1	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-4
+# text = adugore ceru kabi juko uke karo ra kaguru boe ji
+# text_por = A onça lambeu a gordura dos ossos de peixe do macaco.
+1	adugore	adugo	NOUN	n	Mood=Ind	3	nsubj	_	_
+2	ceru	ceru	NOUN	n	_	3	obj	_	_
+3	kabi	kabi	VERB	v	_	0	root	_	_
+4	juko	juko	NOUN	n	_	5	nmod	_	_
+5	uke	ke	NOUN	n	Number=Sing|Person=3|Poss=Yes	3	obl	_	_
+6	karo	karo	NOUN	n	_	9	nmod	_	_
+7	ra	ra	NOUN	n	Number=Sing|Person=3|Poss=Yes	9	nmod	_	_
+8	kaguru	kaguru	NOUN	n	_	9	nmod	_	_
+9	boe	boe	NOUN	n	_	5	obl	_	_
+10	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-5
+# text = ae otowubo !
+# text_por = Levante o rosto
+1	ae	ae	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nsubj	_	_
+2	otowubo	otowubo	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-6
+# text = aege jodo paiamedu keje
+# text_por = Inclina tua face sobre todos nós
+1	aege	eke	NOUN	n	Number=Sing|Person=2	2	nsubj	_	_
+2	jodo	jodo	VERB	v	Mood=Imp|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+3	paiamedu	iamedu	PRON	pron	Clusivity=In|Number=Plur|Person=2|PronType=Tot	2	obl	_	_
+4	keje	keje	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
