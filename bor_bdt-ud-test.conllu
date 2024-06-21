@@ -12323,6 +12323,14 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-589
+# text = iwiapaga okwarinure eroino dykae
+# text_por = Sempre estou pondo atenção ao que eles fazem
+1	iwiapaga	biapaga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nmod	_	_
+2	okwarinure	okwari	ADV	adv	Aspect=Prog|Mood=Ind	3	nsubj	_	_
+3	eroino	ro	VERB	v	Number=Plur|Person=3	0	root	_	_
+4	dykae	dykae	NOUN	n	_	3	dep	_	_
+
 # sent_id = Ochoa-Dic-Ex-588
 # text = iwiagodyre itoriga piji buke jemaguda keje
 # text_por = Esqueci minha faca no lugar onde foi aberto o tamanduá bandeira
