@@ -12323,6 +12323,23 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-588
+# text = iwiagodyre itoriga piji buke jemaguda keje
+# text_por = Esqueci minha faca no lugar onde foi aberto o tamanduá bandeira
+1	iwiagodyre	biagody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	itoriga	toriga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	1	obl	_	_
+3	piji	piji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	buke	buke	NOUN	n	_	5	nmod	_	_
+5	jemaguda	emaguda	NOUN	n	_	1	obl	_	_
+6	keje	keje	ADP	posp	Number=Sing|Person=3	5	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-595
+# text = iwodo ure taererudo
+# text_por = O vinho de acuri vos embriagou
+1	iwodo	wodo	NOUN	n	Number=Sing	3	nsubj	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	3	obj	_	_
+3	taererudo	ereru	VERB	vc	Number=Plur|Person=2|Voice=Cau	0	root	_	_
+
 # sent_id = Ochoa-Dic-Ex-628
 # text = ki kodu kamo jekejewy kogodynure
 # text_por = A carne de anta que está sobre o jirau começa a alterarse
