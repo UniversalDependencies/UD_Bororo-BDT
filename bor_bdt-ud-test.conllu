@@ -12323,6 +12323,27 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-563
+# text = ireadodymode bakaru ji awiagai
+# text_por = eu vou contar a história para você
+1	ireadodymode	readody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+2	bakaru	bakaru	NOUN	n	_	1	obl	_	_
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	awiagai	biagai	ADP	posp	Number=Sing|Person=2	2	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-580
+# text = itoki karega ure tai
+# text_por = Não estou insultando vocês
+1	itokikarega	toki	NOUN	n	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	2	nsubj	_	_
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	obl	_	_
+4	tai	ji	ADP	posp	Number=Plur|Person=2	3	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-581
+# text = itonagodymode iwoguwo
+# text_por = Estarei pronto para pescar com anzol
+1	itonagodymode	onagody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=CauInc	0	root	_	_
+2	iwoguwo	wogu	VERB	v	Mood=Sub|Number=Sing|Person=1	1	ccomp	_	_
+
 # sent_id = Ochoa-Dic-Ex-589
 # text = iwiapaga okwarinure eroino dykae
 # text_por = Sempre estou pondo atenção ao que eles fazem
