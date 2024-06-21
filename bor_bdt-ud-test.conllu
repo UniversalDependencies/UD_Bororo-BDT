@@ -12323,11 +12323,27 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-663
+# text = nabure ekodure kuide etabagao
+# text_por = As araras vermelhas iam entre as araras amarelas
+1	nabure	nabure	NOUN	n	_	2	nsubj	_	_
+2	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	kuide	kuide	NOUN	n	_	2	obl	_	_
+4	etabagao	apagao	ADP	posp	Number=Plur||Person=3	3	case	_	_
+
 # sent_id = Ochoa-Dic-Ex-791
 # text = taia imaragodydo
 # text_por = Pudera que vocês me fizessem trabalhar
 1	taia	taia	NOUN	n	Mood=Opt|Number=Plur|Person=2	2	nsubj	_	_
 2	imaragodydo	ejmaragody	VERB	vt	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+
+# sent_id = Ochoa-Dic-Ex-794
+# text = taiagu boe maky
+# text_por = Disse que é para vocês o fazerem trabalhar
+1	akore	ako	VERB	vt	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+1	taiagu	ta	PRON	bi	PronType=Bi|Reflex=Yes|Speech=IndTrans	3	nsubj	_	_
+2	boe	boe	NOUN	n	_	3	obj	_	_
+3	maky	maky	VERB	vt	Number=Sing|Person=3	1	ccomp	_	_
 
 # sent_id = Ochoa-Dic-Ex-796
 # text = taiagu tageragu boe ji
