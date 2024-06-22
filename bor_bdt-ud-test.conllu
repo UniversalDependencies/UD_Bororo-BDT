@@ -12323,6 +12323,15 @@
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
 
+# sent_id = Ochoa-Dic-Ex-305
+# text = eegugudugodyre imedy roi pudui dyji
+# text_por = Começaram a ter medo do que o homem estava fazendo para eles
+1	eegugudugodyre	egugudugody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	imedy	imedy	NOUN	n	_	3	nsubj	_	_
+3	roi	ro	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	ccomp	_	_
+4	pudui	pudui	PRON	pron	PronType=Rcp	3	obl	_	_
+5	dyji	dyji	X	x	_	3	dep	_	_
+
 # sent_id = Ochoa-Dic-Ex-511
 # text = iorydyre ia imedy kabagururewy ji tuwai paru
 # text_por = Vi um homem estendido ao pé de sua casa
