@@ -1,4 +1,3 @@
-
 # sent_id = HMB-Pemo_e_Baraedugume-01
 # text = Pemo , oinore Pao iere boe oto ji
 # text_eng = Pemo, thus was called our father in the begining
@@ -12844,9 +12843,9 @@
 3	ai	ji	ADP	posp	Number=Sing|Person=2	2	obl	_	_
 
 # sent_id = Ochoa-Dic-Ex-964
-# text = uturumode !
+# text = utyrumode !
 # text_por = ele irá mesmo!
-1	uturumode	uturu	VERB	v	Assert=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+1	utyruode	ty	VERB	v	Assert=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = Ochoa-Dic-Ex-965
