@@ -1,3 +1,4 @@
+
 # sent_id = HMB-Pemo_e_Baraedugume-01
 # text = Pemo , oinore Pao iere boe oto ji
 # text_eng = Pemo, thus was called our father in the begining
@@ -12322,6 +12323,52 @@
 2	ikae	ikae	NOUN	n	Number=Sing|Person=1|Polarity=Neg|Speech=Ind	3	nmod	_	_
 3	boe	boe	NOUN	n	_	4	nsubj	_	_
 4	maky	maky	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
+
+# sent_id = Ochoa-Dic-Ex-511
+# text = iorydyre ia imedy kabagururewy ji tuwai paru
+# text_por = Vi um homem estendido ao pé de sua casa
+1	iorydyre	erydy	VERB	v	_	0	root	_	_
+2	ia	ia	DET	dem	_	3	det	Definite=Ind	_
+3	imedy	imedy	NOUN	n	Number=Sing	1	obl	_	_
+4	kabagururewy	kabaguru	NOUN	n	Mood=Ind|Nomzr=Rel	3	nmod	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
+6	tuwai	wai	NOUN	n	Number=Sing|Person=3|Reflex=Yes	1	obl	_	_
+7	paru	paru	ADP	posp	Number=Sing|Person=3	6	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-441
+# text = imana akore atuiagu iwai kae akiogowo ioga ji
+# text_por = Meu irmão mais velho disse que é para você ir a minha casa curar meu pai
+1	imana	mana	NOUN	n	Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	atuiagu	_	NOUN	n	Number=Sing|Person=2|Speech=IndTrans	6	nsubj	_	_
+4	iwai	iwai	NOUN	n	Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
+5	kae	kae	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	akiogowo	iogo	VERB	v	Mood=Sub|Number=Sing|Person=2	2	ccomp	_	_
+7	ioga	o	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	6	obl	_	_
+8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
+
+# sent_id = Ochoa-Dic-Ex-442
+# text = imana ure iiakudydo ioga bogai ! meu pai !
+# text_por = Meu irmão mais velho me fez gritar: meu pai
+1	imana	imana	NOUN	n	Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	_
+2	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	iiakudydo	iakudy	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+4	ioga	o	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obl	_	_
+5	bogai	bogai	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	!	!	PUNCT	punct	_	3	punct	_	_
+7	meu	_	_	_	_	3	nmod	_	_
+8	pai	_	NOUN	n	_	3	voc	_	_
+8	!	!	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = Ochoa-Dic-Ex-512
+# text = iorydywa pemegakare mare iorydywagodynure boe ji
+# text_por = Não sei bem, mas estou começando a aprender algo
+1	iorydywa	jorydywa	VERB	v	Number=Sing|Person=1	0	root	_	_
+2	pemegakare	pemegakare	PUNCT	punct	_	1	punct	_	_
+3	mare	mare	CCONJ	cconj	_	4	cc	_	_
+4	iorydywagodynure	orydywagody	VERB	vi	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Voice=CauInc	1	conj	_	_
+5	boe	boe	NOUN	n	_	4	obl	_	_
+6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 
 # sent_id = Ochoa-Dic-Ex-563
 # text = ireadodymode bakaru ji awiagai
