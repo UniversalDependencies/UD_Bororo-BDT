@@ -3659,7 +3659,7 @@
 2	pemegare	pemega	ADV	adv	Mood=Ind	1	advmod	_	[];;
 
 # sent_id = FWFFG-005
-# text = Oh , ceboere ! Pegakare pamode kowyje , boenure pagi , paeku iro modykare
+# text = Oh , ceboere ! Pegakare pamode kowyje , boenure pagi , paeku iromodykare
 # text_eng = Oh, wow! Our food is not bad, we are humans, let's not deviate our eyes (be proud)!
 # text_por = Oh, oba! Não é mal nossa comida, nós somos gente, não desviemos os olhos (luxo, asco, orgulho)!
 1	Oh	oh	INTJ	intj	_	3	discourse	_	[];;
@@ -3674,8 +3674,7 @@
 10	pagi	pagi	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	[];;
 11	,	,	PUNCT	punct	_	9	punct	_	[];;
 12	paeku	joko	NOUN	noun	Clusivity=In|Number[psor]=Plur|Person=1	5	parataxis	_	[];;
-13	iro	_	NOUN	n	_	12	nmod	_	[];;
-14	modykare	_	X	x	Mood=Ind|Polarity=Neg|Tense=Fut	12	dep	_	[];;
+13	iromodykare	iro	NOUN	n	Mood=Ind|Polarity=Neg|Tense=Fut	12	nmod	_	[];;
 
 # sent_id = FWFFG-006
 # text = Ure boe etore erydywado boe ewadary ji
