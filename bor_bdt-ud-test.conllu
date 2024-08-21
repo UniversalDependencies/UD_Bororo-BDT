@@ -2190,7 +2190,7 @@
 14	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
 15	ii	ji	ADP	posp	Number=Sing|Person=1	14	obl	_	_
 
-# sent_id = CoqueiroAB-RumoDasMissoes-01.4
+# sent_id = CoqueiroAB-RumoDasMissoes-02.1
 # text = Icare ure itaidygo nono nono iaboere ii . Ure iegaredo , ure iwure aidydo , ure igigido , ure imearudaedo boe pemegarewy awady ji . Ure barogwa kododudo
 # text_por = Aí ele me deu vontade. Ele me deu alegria, animou meus pés, me fez sorrir, me fez imaginar só coisa boa. Ao amanhecer, ele me acordou.
 # text_eng = 
@@ -2223,7 +2223,7 @@
 27	barogwa	barogwa	NOUN	n	_	28	advmod	_	_
 28	kododudo	kodo	VERB	vc	Voice=CauPass	3	conj	_	_
 
-# sent_id = CoqueiroAB-RumoDasMissoes-01.4b
+# sent_id = CoqueiroAB-RumoDasMissoes-02.2
 # text = Ure iedadydo . Ure ido iebu boe awady kae , ure ido iemaedo ty baru paru ji : barogwa kodody motyre jetu , awy ime eedurewo jaogwai
 # text_por = Ele me fez sair fora, fez-me olhar ao redor no horizonte: o amanhecer estava bonito para cá, no rumo destes homens.
 # text_eng = 
@@ -2254,6 +2254,47 @@
 25	ime	imedy	NOUN	n	Number=Plur	26	nmod	_	_
 26	eedurewo	_	NOUN	_	Number=Plur|Person=3	21	parataxis	_	_
 27	jaogwai	jaogwai	ADP	posp	Number=Sing|Person=3	26	case	_	_
+
+# sent_id = CoqueiroAB-RumoDasMissoes-03.1
+# text = Icare ityre , ityre iegare tabo , pobo oiagi , ika tabo , ityre jii mato . Itaregodyre Kejari kae , mato Koroia piji pugeje . Karoia kejere ioga bire . Imuga bire Korogedy Paru keje .
+# text_por = Aí parti, parti alegre, pelo rio, de canoa, parti para cá. Cheguei a Kejari, procedente da Colônia de novo. Colônia que meu pai morreu. Minha mãe morreu em Córrego Grande.
+# text_eng = 
+1	Icare	icare	ADV	_	_	2	advmod	_	_
+2	ityre	ty	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ityre	ty	VERB	_	Mood=Ind|Number=Sing|Person=1	2	conj	_	_
+5	iegare	iega	NOUN	_	Mood=Ind	4	obl	_	_
+6	tabo	tabo	ADP	posp	Number=Sing|Person=3	5	case	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	pobo	pobo	NOUN	_	Number=Sing	5	conj	_	_
+9	oiagi	_	ADP	_	_	8	case	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	ika	ika	NOUN	_	Number=Sing	5	conj	_	_
+12	tabo	tabo	ADP	posp	Number=Sing|Person=3	11	case	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	ityre	ty	VERB	_	Mood=Ind|Number=Sing|Person=1	2	conj	_	_
+15	jii	jii	ADV	_	_	14	advmod	_	_
+16	mato	mato	ADV	_	_	14	advmod	_	_
+17	.	.	PUNCT	_	_	14	punct	_	_
+18	Itaregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=1	2	parataxis	_	_
+19	Kejari	Kejari	PROPN	_	_	18	obl	_	_
+20	kae	kae	ADP	_	Number=Sing|Person=3	19	case	_	_
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	mato	mato	ADV	_	_	18	advmod	_	_
+23	Koroia	Koroia	PROPN	_	_	22	obl	_	_
+24	piji	piji	ADP	_	Number=Sing|Person=3	23	case	_	_
+25	pugeje	pugeje	ADV	_	_	18	advmod	_	_
+26	.	.	PUNCT	_	_	25	punct	_	_
+27	Karoia	Karoia	PROPN	_	_	30	obl	_	_
+28	kejere	kejere	ADP	_	Mood=Ind|Number=Sing|Person=3	27	case	_	_
+29	ioga	ioga	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	30	nsubj	_	_
+30	bire	bire	VERB	vi	Number=Sing|Person=3	2	parataxis	_	_
+31	.	.	PUNCT	_	_	30	punct	_	_
+32	Imuga	muga	NOUN	_	Number=Sing|Number[psor]=Sing|Person=1	33	nsubj	_	_
+33	bire	bire	VERB	_	Number=Sing|Person=3	30	conj	_	_
+34	Korogedy	Korogedy	PROPN	_	_	33	obl	_	_
+35	Paru	Paru	PROPN	_	_	34	flat	_	_
+36	keje	keje	ADP	_	Number=Sing|Person=3	34	case	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
