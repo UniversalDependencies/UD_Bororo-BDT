@@ -2455,6 +2455,15 @@
 65	emori	mori	NOUN	_	_	63	obl	_	;payment,ransom;pagamento,resgate;recompensa
 66	ce	ce	ADP	_	Number=Sing|Person=3	65	case	_	_
 
+# sent_id = CoqueiroAB-RumoDasMissoes-08
+# text = Boe emagare kimo toro
+# text_por = Tinha muitos Bororo ainda da lá.
+# text_eng = 
+1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
+2	emagare	maka	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	kimo	kimo	ADV	_	_	2	advmod	_	_
+4	toro	toro	ADV	_	_	2	advmod	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
