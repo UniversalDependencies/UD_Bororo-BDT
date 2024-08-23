@@ -2354,6 +2354,36 @@
 23	Arua	Arua	PROPN	_	_	22	nsubj	_	_
 24	Bororo	Bororo	PROPN	_	_	23	flat	_	_
 
+# sent_id = CoqueiroAB-RumoDasMissoes-06
+# text = Iragoje kobori ty nono , dykeje ityre pugeje . Ikodo jii , itaregodyre Jarudori Paru to . Boe emagare nono Jarudori keje . Boe emagaguraga
+# text_por = Fiquei só pouco tempo ali, depois parti de novo. Andei bastante e cheguei a Jarudori Paru (o pé do morro dos mandis). Tinha muitos Bororos em Jarudori. Era muitíssimo Bororo
+# text_eng = 
+1	Iragoje	_	VERB	_	Number=Sing|Person=1	0	root	_	_
+2	kobori	kobori	ADV	_	_	1	advmod	_	_
+3	ty	ty	ADV	_	_	1	advmod	_	_
+4	nono	nono	ADV	_	_	1	advmod	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	dykeje	dykeje	ADV	_	_	7	advmod	_	_
+7	ityre	ty	VERB	_	Mood=Ind|Number=Sing|Person=1	1	parataxis	_	_
+8	pugeje	pugeje	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+10	Ikodo	kodo	NOUN	_	Number=Sing|Person=1	_	_	_	_
+11	jii	jii	ADV	_	_	10	advmod	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	itaregodyre	aregody	VERB	vi	Mood=Ind|Number=Sing|Person=1	1	parataxis	_	_
+14	Jarudori	Jarudori	PROPN	_	_	13	obl	_	_
+15	Paru	Paru	PROPN	_	_	14	flat	_	_
+16	to	to	ADP	_	Number=Sing|Person=3	14	case	_	_
+17	.	.	PUNCT	_	_	13	punct	_	_
+18	Boe	boe	NOUN	_	Number=Plur	19	nsubj	_	_
+19	emagare	maka	VERB	_	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
+20	nono	nono	ADV	_	_	19	advmod	_	_
+21	Jarudori	Jarudori	PROPN	_	_	20	appos	_	_
+22	keje	keje	ADP	_	Number=Sing|Person=3	21	case	_	_
+23	.	.	PUNCT	_	_	19	punct	_	_
+24	Boe	boe	NOUN	_	Number=Plur	25	nsubj	_	_
+25	emagaguraga	makaguraga	VERB	_	Number=Plur|Person=3	1	parataxis	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
