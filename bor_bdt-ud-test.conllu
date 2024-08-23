@@ -2384,6 +2384,77 @@
 24	Boe	boe	NOUN	_	Number=Plur	25	nsubj	_	_
 25	emagaguraga	makaguraga	VERB	_	Number=Plur|Person=3	1	parataxis	_	_
 
+# sent_id = CoqueiroAB-RumoDasMissoes-07
+# text = Iragojere biega ty nono pugeje . Icare ityre pugeje . Ikodo jii ... itaregodyre Pocorewy to pugeje . Barae emagare , barae eke kuri , ekudae kuri , enoroe kuri , etaidy rakare karei . Kode ire kare ewido ty , ewido ty , ekeje , akiró rogu bogai . Ere akiro rogu maky inai ty, maky inai ty, cewy tuge kare kugure emorice
+# text_por = Fiquei pouco tempo também ali. Depois parti de novo. Fui andando e cheguei a Poxoréo. Tinha muitos brancos, tinha muita comida dos brancos, muitas coisas deles, eles gostavam muito de peixe. Por isso eu fiquei pescando para eles, a troca de algum agrado. Eles iam me dando alguma coisa em pagamento dos peixes.
+# text_eng = 
+1	Iragojere	ragoje	VERB	vi	Mood=Ind|Number=Sing|Person=1	_	_	_	_
+2	biega	biega	ADV	_	_	1	advmod	_	_
+3	ty	ty	ADV	adv	_	1	advmod	_	_
+4	nono	_	ADV	_	_	1	advmod	_	_
+5	pugeje	_	ADV	_	_	1	advmod	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+7	Icare	_	ADV	_	_	8	advmod	_	_
+8	ityre	ty	VERB	_	Mood=Ind|Number=Sing|Person=1	1	parataxis	_	_
+9	pugeje	pugeje	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_
+11	Ikodo	kodo	NOUN	_	Number=Sing||Number[psor]=Sing|Person=1	1	parataxis	_	_
+12	jii	jii	ADV	_	_	11	advmod	_	_
+13	...	...	PUNCT	_	_	11	punct	_	_
+14	itaregodyre	aregody	VERB	vi	Mood=Ind|Number=Sing|Person=1	1	parataxis	_	_
+15	Pocorewy	_	PROPN	_	_	14	obl	_	_
+16	to	_	ADP	_	_	15	case	_	_
+17	pugeje	_	ADV	_	_	14	advmod	_	_
+18	.	.	PUNCT	_	_	14	punct	_	_
+19	Barae	baraedo	NOUN	_	Number=Plur	20	nsubj	_	_
+20	emagare	_	VERB	_	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
+21	,	_	PUNCT	_	_	20	punct	_	_
+22	barae	baraedo	NOUN	_	Number=Sing	23	nmod	_	_
+23	eke	ke	NOUN	_	Number=Plur|Person=3	24	nsubj	_	_
+24	kuri	_	ADV	_	_	1	parataxis	_	_
+25	,	_	PUNCT	_	_	24	punct	_	_
+26	ekudae	kudae	NOUN	_	Number=Plur|Person=3	27	nsubj	_	_
+27	kuri	kuri	ADV	_	_	1	parataxis	_	_
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	enoroe	_	NOUN	_	Number=Plur|Person=3	30	nsubj	_	_
+30	kuri	kuri	ADV	_	_	1	parataxis	_	_
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	etaidy	aidy	VERB	_	Number=Plur|Person=3	1	parataxis	_	_
+33	rakare	raka	ADV	_	Mood=Ind	32	advmod	_	_
+34	kare	karo	NOUN	_	Number=Plur	32	obl	_	_
+35	ji	ji	ADP	_	Number=Sing|Person=3	_	_	_	_
+36	.	i	PUNCT	_	_	32	punct	_	_
+37	Kode	koda	ADV	_	_	40	advmod	_	_
+38	ire	i	PRON	_	Mood=Ind|Number=Sing|Person=1	40	nsubj	_	_
+39	kare	karo	NOUN	_	Number=Plur	40	obj	_	_
+40	ewido	bito	VERB	v	Number=Plur|Person=3	32	parataxis	_	_
+41	ty	ty	ADV	adv	_	40	advmod	_	_
+42	,	_	PUNCT	_	_	40	punct	_	_
+43	ewido	bito	VERB	_	Number=Plur|Person=3	40	conj	_	_
+44	ty	ty	ADV	adv	_	43	advmod	_	_
+45	,	,	PUNCT	_	_	43	punct	_	_
+46	ekeje	keje	ADP	_	Number=Plur|Person=3	48	dislocated	_	_
+47	,	,	PUNCT	_	_	46	punct	_	_
+48	akirórogu	akiró	NOUN	n	Degree=Dim	40	parataxis	_	_
+49	bogai	bogai	ADP	_	Number=Sing|Person=3	48	case	_	_
+50	.	.	PUNCT	_	_	48	punct	_	_
+51	Ere	e	PRON	_	Mood=Ind|Number=Plur|Person=3	53	nsubj	_	_
+52	akirórogu	akiró	NOUN	n	Degree=Dim	53	obj	_	_
+53	maky	maky	VERB	vt	Number=Sing|Person=3	48	parataxis	_	_
+54	inai	ai	ADP	posp	Number=Sing|Person=1	53	obl	_	_
+55	ty	ty	ADV	adv	_	53	advmod	_	_
+56	,	,	PUNCT	punct	_	53	punct	_	_
+57	maky	maky	VERB	vt	Number=Sing|Person=3	53	conj	_	_
+58	inai	ai	ADP	posp	Number=Sing|Person=1	57	case	_	_
+59	ty	ty	ADV	adv	_	57	advmod	_	_
+60	,	,	PUNCT	_	_	57	punct	_	_
+61	cewy	cewy	DET	dem	Deixis=Dist	63	det	_	_
+62	tuge	ke	NOUN	_	Number=Sing|Reflex=Yes	63	nmod	_	_
+63	kare	karo	NOUN	_	Number=Plur	53	parataxis	_	_
+64	kugure	kugure	NOUN	_	_	63	nmod	_	_
+65	emori	mori	NOUN	_	_	63	obl	_	;payment,ransom;pagamento,resgate;recompensa
+66	ce	ce	ADP	_	Number=Sing|Person=3	65	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
