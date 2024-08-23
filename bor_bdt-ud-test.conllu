@@ -2296,6 +2296,64 @@
 35	Paru	Paru	PROPN	_	_	34	flat	_	_
 36	keje	keje	ADP	_	Number=Sing|Person=3	34	case	_	_
 
+# sent_id = CoqueiroAB-RumoDasMissoes-04
+# text = Itaregodyre , ityre , ikodo jii ... ia pobo paru kae . Iere Pocorewy : ia Bororomanadoge eke pobo Boe emagare toro Pocorewy keje
+# text_por = Cheguei, parti, e dirigi-me para a barra de um córrego. Chamava-se Poxoréu : Era o rio de um povo ruim (porque se matavam uns aos outros). Tinha bastantes Bororo aí em Poxoréu (parece que ser refere a outro Poxoréu diferente do que atualmente nós conhecemos como Poxoréo e do qual vai falar mais adiante).
+# text_eng = 
+1	Itaregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ityre	ty	VERB	vi	Mood=Ind|Number=Sing|Person=1	1	conj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ikodo	kodo	NOUN	_	Number=Sing|Person=1	1	conj	_	_
+6	jii	jii	ADV	_	_	5	advmod	_	_
+7	...	...	PUNCT	_	_	6	punct	_	_
+8	ia	ia	DET	_	_	10	det	_	_
+9	pobo	pobo	NOUN	_	_	10	nmod	_	_
+10	paru	paru	NOUN	_	_	5	conj	_	_
+11	kae	kae	ADP	_	Number=Sing|Person=3	10	case	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+13	Iere	ie	NOUN	_	Mood=Ind	10	parataxis	_	_
+14	Pocorewy	Pocorewy	PRON	_	_	13	nsubj	_	_
+15	:	:	PUNCT	_	_	13	punct	_	_
+16	ia	ia	DET	_	_	17	det	_	_
+17	Bororomanadoge	bororo	NOUN	_	Number=Plur	21	nsubj	_	_
+18	eke	ke	NOUN	_	Number=Plur|Person=3	19	nmod	_	_
+19	pobo	pobo	NOUN	_	_	21	discourse	_	_
+20	Boe	boe	NOUN	_	_	21	nsubj	_	_
+21	emagare	maka	VERB	_	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
+22	toro	toro	ADV	_	_	21	advcl	_	_
+23	Pocorewy	Pocorewy	PROPN	_	_	21	obl	_	_
+24	keje	keje	ADP	_	Number=Sing|Person=3	23	case	_	_
+
+# sent_id = CoqueiroAB-RumoDasMissoes-05 
+# text = Ityre piji. Ikodo pugeje jii ... Arareiao Paru kae . Ie remawy : Meririabo . Boe emagare Arareiao Paru keje . Iere Arua Bororo
+# text_por = Parti dali e dirigi-me para Arareiao Paru. O seu verdadeiro nome era Meririabo. Tinha bastantes Bororo em Arareiao Paru. A Aldeia chamava-se Arua Bororo.
+# text_eng = 
+1	Ityre	ty	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	piji	piji	ADP	_	Number=Sing|Person=3	1	obl	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	Ikodo	kodo	NOUN	_	Number=Sing|Person=1	1	parataxis	_	_
+5	pugeje	pugeje	ADV	_	_	4	advmod	_	_
+6	jii	jii	ADV	_	_	4	advmod	_	_
+7	...	...	PUNCT	_	_	4	punct	_	_
+8	Arareiao	Arareiao	PROPN	_	_	1	parataxis	_	_
+9	Paru	Paru	PROPN	_	_	8	flat	_	_
+10	kae	kae	ADP	_	Number=Sing|Person=3	8	case	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+12	Ie	ie	NOUN	_	_	14	nsubj	_	_
+13	remawy	rema	NOUN	_	Nomzr=Rel	12	acl	_	_
+14	Meririabo	Meririabo	PROPN	_	_	1	parataxis	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+16	Boe	boe	NOUN	_	Number=Plur	17	nsubj	_	_
+17	emagare	maka	VERB	_	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
+18	Arareiao	Arareiao	PROPN	_	_	17	obl	_	_
+19	Paru	Paru	PROPN	_	_	18	flat	_	_
+20	keje	keje	ADP	_	Number=Sing|Person=3	18	case	_	_
+21	.	.	PUNCT	_	_	17	punct	_	_
+22	Iere	ie	NOUN	_	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
+23	Arua	Arua	PROPN	_	_	22	nsubj	_	_
+24	Bororo	Bororo	PROPN	_	_	23	flat	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
