@@ -2464,6 +2464,37 @@
 3	kimo	kimo	ADV	_	_	2	advmod	_	_
 4	toro	toro	ADV	_	_	2	advmod	_	_
 
+# sent_id = CoqueiroAB-RumoDasMissoes-09
+# text = Icare ityre pugeje . Ityre piji . Ikodyre jii ... ia Boe ebo , Atílio , iage ebo . Cedyre mato bakowy kae , cemeru tabo
+# text_por = Depois parti de novo. Parti dali. Fui andando com outros Bororo, Atílio e outros. Viemos caçando para o lado de cá (da serra).
+# text_eng = 
+1	Icare	icare	ADV	_	_	2	advmod	_	_
+2	ityre	ty	VERB	vi	Mood=Ind|Number=Plur|Person=1	0	root	_	_
+3	pugeje	pugeje	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+5	Ityre	ty	VERB	_	Mood=Ind|Number=Plur|Person=1	2	conj	_	_
+6	piji	piji	ADP	posp	Number=Plur|Person=3	5	obl	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+8	Ikodyre	kody	VERB	_	Mood=Ind|Number=Plur|Person=1	2	parataxis	_	_
+9	jii	jii	ADV	adv	_	8	advmod	_	_
+10	...	...	PUNCT	_	_	8	punct	_	_
+11	ia	ia	DET	_	Definite=Ind	12	det	_	_
+12	Boe	boe	NOUN	_	Number=Plur	8	obl	_	_
+13	ebo	apo	ADP	posp	Number=Plur|Person=3	12	case	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	Atílio	Atílio	PROPN	_	_	12	conj	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	iage	ia	PRON	_	Definite=Ind|Number=Plur|PronType=Ind	12	conj	_	_
+18	ebo	apo	ADP	_	Number=Plur|Person=3	17	obl	_	_
+19	.	.	PUNCT	_	_	17	punct	_	_
+20	Cedyre	ty	VERB	vi	_	2	parataxis	_	_
+21	mato	mato	ADV	_	_	20	advmod	_	_
+22	bakowy	bakowy	NOUN	_	_	20	obl	_	_
+23	kae	kae	ADP	_	Number=Sing|Person=3	22	case	_	_
+24	,	,	PUNCT	_	_	20	punct	_	_
+25	cemeru	meru	NOUN	_	Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=3	20	obl	_	_
+26	tabo	tabo	ADP	_	Number=Sing|Person=3	25	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
