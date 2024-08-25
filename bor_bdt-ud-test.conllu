@@ -2492,8 +2492,24 @@
 22	bakowy	bakowy	NOUN	_	_	20	obl	_	_
 23	kae	kae	ADP	_	Number=Sing|Person=3	22	case	_	_
 24	,	,	PUNCT	_	_	20	punct	_	_
-25	cemeru	meru	NOUN	_	Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=3	20	obl	_	_
+25	cemeru	meru	NOUN	_	Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1	20	obl	_	_
 26	tabo	tabo	ADP	_	Number=Sing|Person=3	25	case	_	_
+
+# sent_id = CoqueiroAB-emSangradouro-01
+# text = Cedaregodyre Sangradouro kae . Padre Crema , Me. Bussi , emugure nono
+# text_por = Chegamos a Sangradouro. O Padre Crema e o Me. Bussi estavam ali.
+# text_eng = We arrived at Sangradouro. Father Crema and master Bussi were/lived there
+1	Cedaregodyre	aregody	VERB	_	Clusivity=Ex|Number=Sing|Person=1	0	root	_	_
+2	Sangradouro	Sangradouro	PROPN	_	_	1	obl	_	_
+3	kae	kae	ADP	_	Number=Sing|Person=3	2	case	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+5	Padre	padre	NOUN	_	_	6	nmod	_	_
+6	Crema	Crema	PROPN	_	_	10	nsubj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	Mestre	mestre	NOUN	_	_	9	nmod	_	_
+9	Bussi	Bussi	PROPN	_	_	6	conj	_	_
+10	emugure	mugu	VERB	vi	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
+11	nono	nono	ADV	_	_	10	advmod	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
