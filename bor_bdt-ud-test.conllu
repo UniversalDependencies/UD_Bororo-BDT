@@ -2622,6 +2622,97 @@
 13	ie	ie	NOUN	n	Number=Sing	11	obl	_	_
 14	tabo	tabo	ADP	posp	_	13	case	_	_
 
+# sent_id = CoqueiroAB-emSangradouro-06
+# text = Icare ure turemo toro bai to . Aregodyre tabowy tapira kody , aroe , boe kaguru , padura kuru , jukudu . Akore icá ! Awy rogu ko . Tamedugody akedywo tabiji . Tagamudo barogwato , taedo tugudo . Meri rekody tabo tadyre mato , iwo iarogu maky tagai pugeje
+# text_por = Aí ele entrou em casa e voltou trazendo carne, arroz, gordura, rapadura e farinha de mandioca. E disse: - Eis! Comam isto para tirar o cansaço de vocês. Descansem até amanhã. Fiquem sossegados. De tarde venham, para eu lhes dar de novo alguma coisa.
+# text_eng =
+1	care	care	ADV	_	_	3	advmod	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	turemo	remo	VERB	_	Reflex=Yes	_	_	_	_
+4	toro	toro	ADV	_	_	3	advmod	_	_
+5	bai	bai	NOUN	_	Number=Sing	3	obl	_	_
+6	to	to	ADP	_	Number=Sing|Person=3	5	case	_	_
+7	.	.	PUNCT	punct	_	3	punct	_	_
+8	Aregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=3	3	conj	_	_
+9	tabowy	apo	VERB	_	Mood=Sub|Number=Plur|Person=2	8	ccomp	_	_
+10	tapira	tapira	NOUN	_	_	11	nmod	_	_
+11	kody	kody	NOUN	_	_	9	obj	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	aroe	aroe	NOUN	_	_	11	conj	_	;rice;arroz
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	boe	boe	NOUN	_	_	11	conj	_	_
+16	kaguru	kaguru	NOUN	_	_	15	flat	_	_
+17	,	,	PUNCT	punct	_	15	punct	_	_
+18	padura	padura	NOUN	_	_	19	nmod	_	_
+19	kuru	kuru	NOUN	_	_	11	conj	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	jukudu	jukudu	NOUN	_	_	11	conj	_	_
+22	.	.	PUNCT	punct	_	21	punct	_	_
+23	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+24	icá	icá	INTJ	adv	_	23	ccomp	_	_
+25	!	!	PUNCT	punct	_	23	punct	_	_
+26	Awy	awy	DET	dem	Deixis=Prox	28	det	_	_
+27	rogu	_	X	_	_	26	dep	_	_
+28	ko	ko	VERB	_	_	23	ccomp	_	_
+29	.	.	PUNCT	punct	_	28	punct	_	_
+30	Tamedugody	medugody	_	_	_	31	obj	_	_
+31	akedywo	_	_	_	_	28	advcl	_	_
+32	tabiji	piji	ADP	posp	Number=Plur|Person=2	30	obl	_	_
+33	.	.	PUNCT	punct	_	31	punct	_	_
+34	Tagamudo	_	VERB	_	_	23	parataxis	_	_
+35	barogwato	barogwato	ADV	_	_	34	advmod	_	_
+36	,	,	PUNCT	punct	_	34	punct	_	_
+37	taedo	_	X	_	_	38	dep	_	_
+38	tugudo	_	VERB	_	_	34	parataxis	_	_
+39	.	.	PUNCT	punct	_	38	punct	_	_
+40	Meri	meri	NOUN	_	_	43	obl	_	_
+41	rekody	rekody	NOUN	_	_	40	flat	_	_
+42	tabo	tabo	ADP	posp	_	40	case	_	_
+43	tadyre	ty	VERB	_	 Mood=Ind|Number=Plur|Person=2	34	parataxis	_	_
+44	mato	mato	ADV	adv	_	43	advmod	_	_
+45	,	,	PUNCT	punct	_	43	punct	_	_
+46	iwo	iwo	PRON	bi	Mood=Sub|Number=Sing|Person=1	48	nsubj	_	_
+47	iarogu	ia	NOUN	_	_	48	obj	_	_
+48	maky	maky	VERB	_	_	43	advcl	_	_
+49	tagai	kai	ADP	_	_	48	obl	_	_
+50	pugeje	pugeje	ADV	_	_	48	advmod	_	_ 
+
+# sent_id = CoqueiroAB-emSangradouro-07
+# text = Akore barogwato tamode aroe kado , tamode takorewy kado . Nono cererugodyre ceegare koia . Cedyre bato ceegare tabo rugadu . Boe emagare Sangradouro keje . Capitão iere José Maria
+# text_por = Disse: - Amanhã vocês vão cortar arroz, e cana. Aí nos dançamos de alegria. Fomos para a aldeia alegres mesmo. Tinha bastantes Bororo em Sangradouro. O Capitão chamava-se José Maria.
+# text_eng =
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	barogwato	barogwato	ADV	_	_	1	advmod	_	_
+3	tamode	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2|Status=Irr	5	nsubj	_	_
+4	aroe	aroe	NOUN	_	_	5	obj	_	_
+5	kado	kado	VERB	v	Number=Sing|Person=3	1	ccomp	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	tamode	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2|Status=Irr	9	nsubj	_	_
+8	takorewy	takorewy	NOUN	_	_	9	obj	_	_
+9	kado	kado	VERB	v	Number=Sing|Person=3	5	conj	_	_
+10	.	.	PUNCT	punct	_	9	punct	_	_
+11	Nono	nono	ADV	adv	_	12	advmod	_	_
+12	cererugodyre	rerug	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Voice=CauInc	1	parataxis	_	_
+13	ceegare	ekare	VERB	v	Clusivity=Ex|Number=Plur|Person=1	12	obl	_	_
+14	koia	koia	ADP	posp	Number=Sing|Person=3	13	case	_	_
+15	.	.	PUNCT	punct	_	12	punct	_	_
+16	Cedyre	ce	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	12	parataxis	_	_
+17	ba	ba	NOUN	_	Number=Sing	16	obl	_	_
+18	to	to	ADP	posp	Number=Sing|Person=3	17	case	_	_
+19	ceegare	ekare	NOUN	_	Clusivity=Ex|Number=Plur|Person=1	16	obl	_	_
+20	tabo	tabo	ADP	posp	_	19	case	_	_
+21	rugadu	rugadu	ADV	adv	_	16	advmod	_	_
+22	.	.	PUNCT	punct	_	16	punct	_	_
+23	Boe	boe	NOUN	n	Number=Plur	24	nsubj	_	_
+24	emagare	maka	VERB	v	Mood=Ind|Number=Plur|Person=3	12	parataxis	_	_
+25	Sangradouro	Sangradouro	PROPN	_	_	24	obl	_	_
+26	keje	keje	ADP	posp	Number=Sing|Person=3	25	case	_	_
+27	.	.	PUNCT	punct	_	24	punct	_	_
+28	Capitão	capitão	NOUN	_	_	29	nmod	_	_
+29	iere	ie	NOUN	_	_	30	nsubj	_	_
+30	José	José	PROPN	_	_	24	parataxis	_	_
+31	Maria	Maria	PROPN	_	_	30	flat	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
