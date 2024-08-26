@@ -2567,6 +2567,61 @@
 27	tagaregody	aregody	VERB	v	Mood=Sub|Number=Plur|Person=2	25	obl	_	_
 28	tabo	tabo	ADP	posp	_	27	case	_	_
 
+# sent_id = CoqueiroAB-emSangradouro-04
+# text = Akore uw ! Kajá , kajá , kajá . Iemary pagawo ty woe , boe redugody . Ikerogu bokwa . Tawimode tage boi koia . Pagare tare tamagy tawyre okori kae
+# text_por = Disse: - Sim! Esperem um pouco. Vou procurar por ai, que vergonha. Não tenho comida. Vocês vão morrer de fome. Vocês cansaram seus pés à toa.
+# text_eng =
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	uw	uw	PART	prcl	_	1	ccomp	_	_
+3	!	!	PUNCT	punct	_	2	punct	_	_
+4	Kajá	kajá	X	x	_	2	conj	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	kajá	kajá	X	x	_	2	conj	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	kajá	kajá	X	x	_	2	conj	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
+10	Iemary	emary	VERB	_	Number=Sing|Person=1	1	conj	_	_
+11	pagawo	_	X	x	_	10	dep	_	_
+12	ty	ty	ADV	_	_	10	advmod	_	_
+13	woe	woe	ADV	_	_	12	goeswith	_	_
+14	,	,	PUNCT	punct	_	10	punct	_	_
+15	boe	boe	NOUN	_	_	10	discourse	_	_
+16	redugody	redugody	NOUN	_	_	15	goeswith	_	;shame;vergonha
+17	.	.	PUNCT	punct	_	15	punct	_	_
+18	Ikerogu	ke	NOUN	_	Degree=Dim|Number=Sing|Person=1	1	conj	_	_
+19	bokwa	bokwa	X	_	Polarity=Neg	18	dep	_	_
+20	.	.	PUNCT	punct	_	_	_	_	_
+21	Tawimode	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2|Status=Irr	18	conj	_	_
+22	tage	ke	NOUN	_	Number=Plur|Person=2	23	nmod	_	_
+23	boi	boi	NOUN	_	_	21	obl	_	_
+24	koia	koia	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	.	.	PUNCT	punct	_	21	punct	_	_
+26	Pagare	_	X	_	_	28	dep	_	_
+27	tare	_	PRON	_	Mood=Ind|Number=Plur|Person=2	28	nsubj	_	_
+28	tamagy	maky	VERB	_	Number=Plur|Person=2	18	conj	_	_
+29	tawyre	_	NOUN	_	_	28	obj	_	_
+30	okori	okori	NOUN	_	_	28	obl	_	_
+31	kae	kae	ADP	_	Number=Sing|Person=3	30	case	_	_
+
+# sent_id = CoqueiroAB-emSangradouro-05
+# text = Imedyre imi dytabore itaregodyre Sangradouro kae . Idurure . Icare iegarere Pao ie tabo
+# text_por = Eu já era adulto quando cheguei a Sangradouro. Eu era forte. Então fiquei alegre em nome de Deus.
+# text_eng =
+1	Imedyre	imedy	NOUN	n	Mood=Ind|Number=Sing	4	advcl	_	_
+2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	dytabore	dytabo	SCONJ	_	Mood=Ind	1	mark	_	_
+4	itaregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+5	Sangradouro	Sangradouro	PROPN	_	_	4	obl	_	_
+6	kae	kae	ADP	_	Number=Sing|Person=3	5	case	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	Idurure	turu	VERB	v	Mood=Ind|Number=Sing|Person=1	4	parataxis	_	?
+9	.	.	PUNCT	punct	_	8	punct	_	_
+10	Icare	icare	ADV	_	_	11	advmod	_	_
+11	iegarere	ekare	VERB	v	Mood=Ind|Number=Sing|Person=1	4	parataxis	_	_
+12	Pao	Pao	NOUN	n	Clusivity=In|Number=Plur|Person=1	13	nmod	_	_
+13	ie	ie	NOUN	n	Number=Sing	11	obl	_	_
+14	tabo	tabo	ADP	posp	_	13	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
