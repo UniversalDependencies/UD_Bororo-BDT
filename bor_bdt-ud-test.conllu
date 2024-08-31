@@ -2713,6 +2713,60 @@
 30	José	José	PROPN	_	_	24	parataxis	_	_
 31	Maria	Maria	PROPN	_	_	30	flat	_	_
 
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-01
+# text = Dypijire ityre mato Meruri to
+# text_por = Dali eu vim para cá para Meruri
+# text_eng = From there then, I came here to Meruri
+1	Dypijire	dypiji	ADV	adv	Mood=Ind	2	_	_	_
+2	ityre	ty	VERB	v	Mod=Ind|Number=Sing|Person=1	0	root	_	_
+3	mato	mato	ADV	adv	_	2	_	_	_
+4	Meruri	Maruri	PROPN	propn	_	2	_	_	_
+5	to	to	ADP	posp	Number=Sing|Person=3	4	_	_	_
+
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-012
+# text = Barogwa kododyre . Ire iebu , itaiwore ty , ire iemaedo ty , itaiwore jety . Baru paru ekure, baru motyre
+# text_por = Amanheceu. Eu saí para fora, observei, estendi a vista, olhei para cá: O horizonte estava claro, o céu estava bonito.
+# text_eng =
+1	Barogwa	barogwa	ADV	_	_	2	nsubj	_	;morning;manhã,amanhecer
+2	kododyre	kodo	VERB	v	Mood=Ind|Voice=Pass	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	5	nsubj	_	_
+5	iebu	_	VERB	vi	_	2	parataxis	_	;;sair,saída
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	itaiwore	aiwo	VERB	v	Mood=Ind|Number=Sing|Person=1	2	parataxis	_	;;olhar,visão,observar
+8	ty	ty	ADV	adv	_	7	advmod	_	_
+9	,	,	PUNCT	punct	_	7	punct	_	_
+10	ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	11	nsubj	_	_
+11	iemaedo	iemaedo	VERB	_	_	2	parataxis	_	;;estender a vista
+12	ty	ty	ADV	adv	_	11	advmod	_	_
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	itaiwore	_	VERB	v	_	2	parataxis	_	_
+15	jety	jety	AUX	v	_	14	aux	_	_
+16	.	.	PUNCT	_	_	14	punct	_	_
+17	Baru	baru	NOUN	n	Number=Sing	18	nmod	_	_
+18	paru	paru	NOUN	n	_	19	nsubj	_	;;nascente,base,início
+19	ekure	eku	VERB	v	Mood=Ind	2	parataxis	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	baru	baru	NOUN	n	Number=Sing	22	nsubj	_	_
+22	motyre	moty	NOUN	n	Mood=Ind	19	conj	_	_
+
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-012-1
+# text = Inagore uw , itaidyre iorydywo Meruri ji ! Boe motyre Meruri jaogwai
+# text_por = Eu disse: - Sim! Eu quero ver Meruri! O tempo estava bonito paro o lado de Meruri.
+# text_eng =
+1	Inagore	ako	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	uw	uw	ADV	_	_	1	ccomp	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	itaidyre	aidy	VERB	_	Mood=Ind|Number=Sing|Person=1	2	parataxis	_	_
+5	iorydywo	erydy	VERB	_	Mood=Sub|Number=Sing|Person=1	4	ccomp	_	_
+6	Meruri	Meruri	PROPN	_	_	5	obl	_	_
+7	ji	ji	ADP	_	Number=Sing|Person=3	6	case	_	_
+8	!	!	PUNCT	_	_	4	punct	_	_
+9	Boe	boe	NOUN	_	Number=Sing	10	nsubj	_	_
+10	motyre	moty	VERB	_	Mood=Ind	4	parataxis	_	_
+11	Meruri	Meruri	PROPN	_	_	10	obl	_	_
+12	jaogwai	_	ADP	_	Number=Sing|Person=3	11	case	_	_
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
