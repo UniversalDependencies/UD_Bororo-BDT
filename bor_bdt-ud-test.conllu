@@ -2731,7 +2731,7 @@
 2	kododyre	kodo	VERB	v	Mood=Ind|Voice=Pass	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 4	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	5	nsubj	_	_
-5	iebu	_	VERB	vi	_	2	parataxis	_	;;sair,saída
+5	iebu	ebu	VERB	vi	Number=Sing|Person=1	2	parataxis	_	;;sair,saída
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	itaiwore	aiwo	VERB	v	Mood=Ind|Number=Sing|Person=1	2	parataxis	_	;;olhar,visão,observar
 8	ty	ty	ADV	adv	_	7	advmod	_	_
