@@ -2151,7 +2151,7 @@
 3	woje	woje	ADV	adv	_	2	advmod	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	aerydywo	erydy	VERB	v	Mood=Sub|Number=Sing|Person=2	2	xcomp	_	_
-6	ia	ia	DET	_	_	7	det	_	_
+6	ia	ia	DET	det	Definite=Ind	7	det	_	_
 7	ime	imedy	NOUN	n	Number=Plur	5	obl	_	_
 8	motyrewyge	motyre	NOUN	n	_	7	nmod	_	_
 9	ii	ji	ADP	posp	Number=Sing|Person=1	7	case	_	_
@@ -2307,7 +2307,7 @@
 5	ikodo	kodo	NOUN	_	Number=Sing|Person=1	1	conj	_	_
 6	jii	jii	ADV	_	_	5	advmod	_	_
 7	...	...	PUNCT	_	_	6	punct	_	_
-8	ia	ia	DET	_	_	10	det	_	_
+8	ia	ia	DET	det	Definite=Ind	10	det	_	_
 9	pobo	pobo	NOUN	_	_	10	nmod	_	_
 10	paru	paru	NOUN	_	_	5	conj	_	_
 11	kae	kae	ADP	_	Number=Sing|Person=3	10	case	_	_
@@ -2315,7 +2315,7 @@
 13	Iere	ie	NOUN	_	Mood=Ind	10	parataxis	_	_
 14	Pocorewy	Pocorewy	PRON	_	_	13	nsubj	_	_
 15	:	:	PUNCT	_	_	13	punct	_	_
-16	ia	ia	DET	_	_	17	det	_	_
+16	ia	ia	DET	det	Definite=Ind	17	det	_	_
 17	Bororomanadoge	bororo	NOUN	_	Number=Plur	21	nsubj	_	_
 18	eke	ke	NOUN	_	Number=Plur|Person=3	19	nmod	_	_
 19	pobo	pobo	NOUN	_	_	21	discourse	_	_
@@ -2791,7 +2791,7 @@
 # text_eng =
 1	Dykejere	dykeje	ADV	_	Mood=Ind	5	advmod	_	_
 2	icare	icare	ADV	_	_	5	advmod	_	_
-3	ia	ia	DET	_	_	4	det	_	_
+3	ia	ia	DET	det	Definite=Ind	4	det	_	_
 4	baraedy	baraedy	NOUN	_	Number=Sing	5	nsubj	_	_
 5	aregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 6	toro	toro	ADP	_	_	5	advmod	_	_
