@@ -2723,7 +2723,7 @@
 4	Meruri	Maruri	PROPN	propn	_	2	_	_	_
 5	to	to	ADP	posp	Number=Sing|Person=3	4	_	_	_
 
-# sent_id = CoqueiroAB-deSangradouroParaMeruri-012
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-02
 # text = Barogwa kododyre . Ire iebu , itaiwore ty , ire iemaedo ty , itaiwore jety . Baru paru ekure, baru motyre
 # text_por = Amanheceu. Eu saí para fora, observei, estendi a vista, olhei para cá: O horizonte estava claro, o céu estava bonito.
 # text_eng =
@@ -2750,7 +2750,7 @@
 21	baru	baru	NOUN	n	Number=Sing	22	nsubj	_	_
 22	motyre	moty	NOUN	n	Mood=Ind	19	conj	_	_
 
-# sent_id = CoqueiroAB-deSangradouroParaMeruri-012-1
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-02-1
 # text = Inagore uw , itaidyre iorydywo Meruri ji ! Boe motyre Meruri jaogwai
 # text_por = Eu disse: - Sim! Eu quero ver Meruri! O tempo estava bonito paro o lado de Meruri.
 # text_eng =
@@ -2767,7 +2767,7 @@
 11	Meruri	Meruri	PROPN	_	_	10	obl	_	_
 12	jaogwai	_	ADP	_	Number=Sing|Person=3	11	case	_	_
 
-# sent_id = CoqueiroAB-deSangradouroParaMeruri-012-2
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-02-2
 # text = Wo ! Barogwa kodody jamedy jire ikiarigodyre ikodywo Meruri to . Wo !
 # text_por = Oh! Todas as manhãs estava com desejo de partir para Meruri. Oh!
 # text_eng =
@@ -2785,7 +2785,7 @@
 12	Wo	wo	INTJ	intj	_	7	discourse	_	_
 13	!	!	PUNCT	_	_	12	punct	_	_
 
-# sent_id = CoqueiroAB-deSangradouroParaMeruri-013
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-03
 # text = Dykejere icare ia baraedy aregodyre toro Meruri piji , imarido tabo . Itaiwore ty ... Inagore Wo ! kiari kaia tyje ! Ikodyia apo jorydywo Meruri ji ! Inagore
 # text_por = Depois chegou um branco procedente de Meruri, com carro de boi. Olhei... e disse: - O! Se ele aceitasse! Se eu pudesse ir com ele para ver Meruri.
 # text_eng =
@@ -2817,6 +2817,35 @@
 26	Meruri	Meruri	PROPN	_	_	25	obl	_	_
 27	ji	ji	ADP	_	Number=Sing|Person=3	26	case	_	_
 28	!	!	PUNCT	_	_	23	punct	_	_
+
+# sent_id = CoqueiroAB-deSangradouroParaMeruri-04
+# text = Dykeje itaiwore jetu : nonowyge kugure egore wo ! Boe etaregody ! Boe ebore roino . Egore Egídio , Natal , ebore roino
+# text_por = Depois olhei para cá: os que estavam ali disseram: O! Estão chegando Bororos, vem com Bororos! Disseram: está chegando com Egídio e Natal.
+# text_eng =
+1	Dykeje	dykeje	ADV	_	_	2	advmod	_	_
+2	itaiwore	aiwo	VERB	_	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+3	jetu	jetu	ADV	_	_	2	advmod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	nonowyge	nono	NOUN	_	Nomzr=Rel|Number=Plur	6	nsubj	_	_
+6	kugure	kugu	VERB	_	Mood=Ind	7	csubj	_	_
+7	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+8	wo	wo	INTJ	_	_	7	ccomp	_	_
+9	!	!	PUNCT	_	_	8	punct	_	_
+10	Boe	boe	NOUN	_	Number=Plur	11	nsubj	_	_
+11	etaregody	aregody	VERB	_	Number=Plur|Person=3	2	parataxis	_	_
+12	!	!	PUNCT	_	_	11	punct	_	_
+13	Boe	boe	NOUN	_	_	15	obl	_	_
+14	ebore	ap	ADP	_	Mood=Ind|Number=Plur|Person=3	13	case	_	_
+15	ro	ro	VERB	_	_	11	parataxis	_	_
+16	oino	oino	ADV	_	_	15	advmod	_	_
+17	.	.	PUNCT	_	_	15	punct	_	_
+18	Egore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	_
+19	Egídio	Egídio	PROPN	_	_	23	obl	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	Natal	Natal	PROPN	_	_	19	conj	_	_
+22	ebore	apo	ADP	_	Mood=Ind|Number=Plur|Person=3	19	case	_	_
+23	ro	ro	VERB	_	_	18	ccomp	_	_
+24	oino	oino	ADV	_	_	23	advmod	_	_
 
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
