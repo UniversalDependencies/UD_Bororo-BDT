@@ -893,6 +893,71 @@
 64	ai	ji	ADP	posp	Number=Sing|Person=2	63	obl	_	_
 65	!	!	PUNCT	punct	_	63	punct	_	_
 
+# sent_id = HMB-criacao_dos_homens-06
+# text = Icare boecodyre pugeje . Icare ure barogwa kododydo pugeje . Icare makore ia imedy bogai pugeje . Akore Kiko ! Akore Kiko ! Kudugodyre: - Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo ape kujagu barigu , awo kiguru kujagu barigu , amearydy awadywo ai .
+# text_port = Fez anoitecer de novo, e de novo fez amanhecer. Aí chamou um outro homem dizendo: - Kiko! Chamou: - Kiko! gritou: - Kao! Disse-lhe: Saia! Para se esquentar, para ver o fogo, para lavar as mãos, para lavar o rosto, para lavar a boca; para fazer as suas necessidades, para ficar esperto.
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	boecodyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Voice=Pas	0	root	_	_
+3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+4	.	,	PUNCT	punct	_	2	punct	_	_
+5	Icare	icare	ADV	adv	_	8	advmod	_	_
+6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+7	barogwa	barogwa	NOUN	n	Number=Sing	8	obj	_	_
+8	kododydo	kodody	VERB	vt	Voice=Cau	2	parataxis	_	_
+9	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
+10	.	,	PUNCT	punct	_	8	punct	_	_
+11	Icare	_	ADV	adv	_	12	advmod	_	_
+12	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+13	ia	ia	DET	_	Definite=Ind|PronType=Art	14	det	_	_
+14	imedy	imedy	NOUN	n	Number=Sgtv	12	obl	_	_
+15	bogai	bogai	ADP	posp	Number=Sing|Person=3	14	case	_	_
+16	pugeje	pugeje	ADV	adv	_	12	advmod	_	_
+17	.	,	PUNCT	punct	_	12	punct	_	_
+18	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	parataxis	_	_
+19	Kiko	Kiko	PROPN	propn	_	18	ccomp	_	_
+20	!	!	PUNCT	punct	_	19	punct	_	_
+21	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	19	conj	_	_
+22	Kiko	Kiko	PROPN	propn	_	21	ccomp	_	_
+23	!	!	PUNCT	punct	_	22	punct	_	_
+24	Kudugodyre	Kudugody	VERB	v	Mood=Ind|Number=Sing|Person=3	22	conj	_	SpaceAfter=No
+25	Kao	Kao	X	_	_	26	ccomp	_	_
+26	!	!	PUNCT	punct	_	27	punct	_	_
+27	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+28	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	27	ccomp	_	_
+29	!	!	PUNCT	punct	_	28	punct	_	_
+30	Awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	31	nsubj	_	_
+31	akowarudo	akowarudo	X	_	_	28	conj	_	_
+32	,	,	PUNCT	punct	_	31	punct	_	_
+33	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	31	conj	_	_
+34	joru	joru	NOUN	n	Number=Sing	33	obl	_	_
+35	ji	ji	ADP	posp	Number=Sing|Person=3	34	case	_	_
+36	,	,	PUNCT	punct	_	33	punct	_	_
+37	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	39	nsubj	_	_
+38	akera	kera	NOUN	n	Number=Sing|Person=2	39	obj	_	_
+39	kabi	kabi	VERB	vt	Number=Sing|Person=3	31	conj	_	_
+40	,	,	PUNCT	punct	_	39	punct	_	_
+41	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	43	nsubj	_	_
+42	ae	ae	NOUN	n	_	43	obj	_	_
+43	kabi	kabi	VERB	vt	Number=Sing|Person=3	33	conj	_	_
+44	,	,	PUNCT	punct	_	43	punct	_	_
+45	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	47	nsubj	_	_
+46	aia	ia	DET	_	Definite=Ind|PronType=Art	47	obj	_	_
+47	kabi	kabi	VERB	vt	Number=Sing|Person=3	31	conj	_	_
+48	,	,	PUNCT	punct	_	47	punct	_	_
+49	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	54	nsubj	_	_
+50	ape	ape	NOUN	n	_	51	nmod	_	_
+51	kujagu	kujagu	NOUN	n	_	52	obj	_	_
+52	barigu	barigu	VERB	vt	Number=Sing|Person=3	47	parataxis	_	_
+53	,	,	PUNCT	punct	_	52	punct	_	_
+54	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	57	nsubj	_	_
+55	kiguru	kiguru	NOUN	n	_	56	nmod	_	_
+56	kujagu	kujagu	NOUN	n	_	57	obj	_	_
+57	barigu	barigu	VERB	vt	Number=Sing|Person=3	60	parataxis	_	_
+58	,	,	PUNCT	punct	_	57	punct	_	_
+59	amearydy	mearydy	NOUN	n	_	60	nsubj	_	_
+60	awadywo	awadu	VERB	v	Mood=Sub	52	parataxis	_	_
+61	ai	ji	ADP	posp	Number=Sing|Person=2	58	obl	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
