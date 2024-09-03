@@ -958,6 +958,88 @@
 60	awadywo	awadu	VERB	v	Mood=Sub	52	parataxis	_	_
 61	ai	ji	ADP	posp	Number=Sing|Person=2	58	obl	_	_
 
+# sent_id = HMB-criacao_dos_homens-07
+# text = Icá , akado ! Kodure boe otojiwo paomage reno . Nonore kodure boe otojiwy paomage eiere . Nowy Pao Pemo koia . Nowy tore pawadure jore , nowy pijire pawadary uture . Nowy tore pagie jore , nowy pijire pagie uture . Nowy tore page jore . Nowy pijire page uture . Nowy tore pagoroe jore , nowy pijire pagoroe uture . Nowy tore bakaru jore , nowy pijire bakaru uture . Nowy kodure boe otojiwy Pao koia
+# text_por = Eis! Veja! Esses são os nossos primeiros pais. Assim que era o nome dos nossos primeiros pais. Pela ação do nosso Pai Pemo. Nele estava a nossa palavra, dele saiu a nossa palavra. Nele estava o nosso nome, o nosso nome saiu dele. O nosso alimento estava nele. Dele saiu o nosso alimento. Nossos enfeites estavam nele, dele saíram os nossos enfeites. Nele estava a nossa história. A nossa história saiu dele. Pela ação daquele nosso primeiro Pai.
+1	Icá	icá	PRON	pron	PronType=Int	3	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	akado	a	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+5	Kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+6	boe	boeto	ADV	adv	_	8	nmod	_	_
+7	otojiwo	jiwo	ADV	adv	_	6	flat	_	_
+8	paomage	o	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	5	nsubj	_	_
+9	reno	reno	ADV	adv	_	8	advmod	_	_
+10	.	,	PUNCT	punct	_	5	punct	_	_
+11	Nonore	_	ADV	adv	_	12	advmod	_	_
+12	kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+13	boe	boeto	ADV	adv	_	15	nmod	_	_
+14	otojiwy	jiwy	ADP	posp	Nomzr=Rel	13	flat	_	_
+15	paomage	o	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	16	nsubj	_	_
+16	eiere	_	VERB	v	Mood=Ind|Number=Plur|Person=3	12	parataxis	_	_
+17	.	.	PUNCT	punct	_	16	punct	_	_
+18	Nowy	nowy	DET	dem	Deixis=Med	19	det	_	_
+19	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	20	nmod	_	_
+20	Pemo	Pemo	PROPN	propn	_	3	parataxis	_	_
+21	koia	koia	ADP	posp	Number=Sing|Person=3	20	case	_	_
+22	.	,	PUNCT	punct	_	20	punct	_	_
+23	Nowy	nowy	DET	dem	Deixis=Med	24	det	_	_
+24	tore	ore	NOUN	n	_	25	obl	_	_
+25	pawadure	pawadu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+26	jore	jore	X	x	_	25	dep	_	_
+27	,	,	PUNCT	punct	_	25	punct	_	_
+28	nowy	nowy	DET	dem	Deixis=Med	29	det	_	_
+29	pijire	_	ADP	posp	Mood=Ind	31	obl	_	_
+30	pawadary	batary	NOUN	n	Clusivity=In|Number=Plur|Person=1	31	nsubj	_	_
+31	uture	uture	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+32	.	,	PUNCT	punct	_	31	punct	_	_
+33	Nowy	nowy	DET	dem	Deixis=Med	34	det	_	_
+34	tore	_	NOUN	n	_	35	nmod	_	_
+35	pagie	_	NOUN	n	_	36	nmod	_	_
+36	jore	jore	X	x	_	31	conj	_	_
+37	,	,	PUNCT	punct	_	36	punct	_	_
+38	nowy	nowy	DET	dem	Deixis=Med	39	det	_	_
+39	pijire	_	ADP	posp	Mood=Ind	41	dep	_	_
+40	pagie	_	NOUN	n	_	41	dep	_	_
+41	uture	uture	PRON	bi	Mood=Ind|Number=Sing|Person=3	31	conj	_	_
+42	.	,	PUNCT	punct	_	41	punct	_	_
+43	Nowy	nowy	DET	dem	Deixis=Med	44	det	_	_
+44	tore	ore	NOUN	n	_	45	nmod	_	_
+45	page	ke	NOUN	n	Clusivity=In|Number=Plur|Person=1	41	conj	_	_
+46	jore	jore	X	x	_	45	dep	_	_
+47	.	,	PUNCT	punct	_	45	punct	_	_
+48	Nowy	nowy	DET	dem	Deixis=Med	49	det	_	_
+49	pijire	_	ADP	posp	Mood=Ind	51	dep	_	_
+50	page	ke	NOUN	n	Clusivity=In|Number=Plur|Person=1	51	nsubj	_	_
+51	uture	uture	PRON	bi	Mood=Ind|Number=Sing|Person=3	45	parataxis	_	_
+52	.	,	PUNCT	punct	_	51	punct	_	_
+53	Nowy	nowy	DET	dem	Deixis=Med	54	det	_	_
+54	tore	_	NOUN	n	_	55	nmod	_	_
+55	pagoroe	pagoroe	NOUN	n	_	56	obj	_	_
+56	jore	jore	X	x	_	51	parataxis	_	_
+57	,	,	PUNCT	punct	_	56	punct	_	_
+58	nowy	nowy	DET	dem	Deixis=Med	61	obl	_	_
+59	pijire	_	ADP	posp	Mood=Ind	58	case	_	_
+60	pagoroe	_	NOUN	n	Number=Sing	61	nsubj	_	_
+61	uture	utu	VERB	v	Mood=Ind	51	conj	_	_
+62	.	,	PUNCT	punct	_	61	punct	_	_
+63	Nowy	nowy	DET	dem	Deixis=Med	65	det	_	_
+64	tore	tore	NOUN	n	Number=Plur|Person=3	65	nmod	_	_
+65	bakaru	bakaru	NOUN	n	_	61	parataxis	_	_
+66	jore	jore	X	x	_	65	dep	_	_
+67	,	,	PUNCT	punct	_	65	punct	_	_
+68	nowy	nowy	DET	dem	Deixis=Med	71	obl	_	_
+69	pijire	piji	ADP	posp	Mood=Ind|Number=Sing|Person=3	68	case	_	_
+70	bakaru	bakaru	NOUN	n	_	71	nsubj	_	_
+71	uture	_	VERB	punct	_	61	conj	_	_
+72	.	,	PUNCT	punct	_	71	punct	_	_
+73	Nowy	nowy	DET	dem	Deixis=Med	74	nsubj	_	_
+74	kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	71	parataxis	_	_
+75	boe	boe	ADV	adv	_	77	nmod	_	_
+76	otojiwy	jiwy	ADP	posp	Nomzr=Rel	75	flat	_	_
+77	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	74	obl	_	_
+78	koia	koia	ADP	posp	Number=Sing|Person=3	77	case	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
