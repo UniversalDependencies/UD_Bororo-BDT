@@ -799,6 +799,31 @@
 70	gu	gu	X	_	_	67	dep	_	_
 71	...	...	PUNCT	punct	_	67	punct	_	_
 
+# sent_id = HMB-criacao_dos_homens-04
+# text = Nowy koiare ure nowy tonaregedy batary towyje . Nowy tonaregedy ure paerdydo ji , mare ema remawy rema ukare paeredydo pudui .
+# text_port = Foi ele que fez a palavra do filho. Foi ele que nos fez ver o seu filho, mas a si mesmo ele não nos fez
+1	Nowy	nowy	DET	dem	Deixis=Med	2	det	_	_
+2	koiare	koiare	ADV	adv	_	7	advmod	_	_
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
+4	nowy	nowy	DET	dem	Deixis=Med	5	det	_	_
+5	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	6	nmod	_	_
+6	batary	batary	NOUN	n	_	7	obj	_	_
+7	towyje	towyje	VERB	vt	Number=Sing|Person=3	0	root	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Nowy	nowy	DET	dem	Deixis=Remt	10	det	_	_
+10	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	12	obj	_	_
+11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
+12	paerdydo	paerdy	VERB	v	Number=Sing|Person=3|Voice=Cau	7	parataxis	_	_
+13	ji	ji	ADP	posp	Number=Sing|Person=3	12	obl	_	_
+14	,	.	PUNCT	punct	_	12	punct	_	_
+15	mare	mare	CCONJ	cconj	_	20	cc	_	_
+16	ema	_	PRON	_	_	20	obj	_	_
+17	remawy	rema	ADV	n	Nomzr=Rel	16	advmod	_	_
+18	rema	rema	AUX	cop	_	16	aux	_	_
+19	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	20	nsubj	_	_
+20	paeredydo	paeredy	VERB	v	Number=Sing|Person=3|Voice=Cau	7	parataxis	_	_
+21	pudui	pudui	PRON	_	PronType=Rcp	20	obl	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
