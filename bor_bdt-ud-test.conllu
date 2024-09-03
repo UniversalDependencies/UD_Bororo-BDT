@@ -824,6 +824,75 @@
 20	paeredydo	paeredy	VERB	v	Number=Sing|Person=3|Voice=Cau	7	parataxis	_	_
 21	pudui	pudui	PRON	_	PronType=Rcp	20	obl	_	_
 
+# sent_id = HMB-criacao_dos_homens-05
+# text = Ca ! Boecodyre pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodyre . Akore Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awy re kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearydy awadywo ai !
+# text_port = Eis! Anoiteceu de novo, e de novo ele fez amanhecer. Então disse: - Noé! Disse: - Noé! Ele respondeu gritando: - Kao! Disse: - Saia! Para se esquentar, para ver o fogo, pala lavar as mãos, para lavar o rosto, para lavar a boca, para lavar os pés, para fazer as suas necessidades, para ficares esperto.
+1	Ca	ca	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Boecodyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
+5	.	,	PUNCT	punct	_	3	punct	_	_
+6	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+7	barogwa	barogwa	NOUN	n	Number=Sing	8	obj	_	_
+8	kododydo	kodody	VERB	vt	Voice=Cau	3	parataxis	_	_
+9	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
+10	.	,	PUNCT	punct	_	8	punct	_	_
+11	Icare	icare	ADV	adv	_	12	advmod	_	_
+12	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+13	Nowé	Nowé	PROPN	propn	_	12	ccomp	_	_
+14	!	!	PUNCT	punct	_	13	punct	_	_
+15	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	conj	_	_
+16	Nowé	Nowé	PROPN	propn	_	15	ccomp	_	_
+17	!	!	PUNCT	punct	_	16	punct	_	SpacesAfter=\s\r
+18	Dykeje	dykeje	ADV	adv	_	20	advmod	_	_
+19	icare	icare	ADV	adv	_	20	advmod	_	_
+20	kudugodyre	kudugody	VERB	v	Mood=Ind|Number=Sing|Person=3	12	parataxis	_	_
+21	.	.	PUNCT	punct	_	20	punct	_	_
+22	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	parataxis	_	_
+23	Kao	Kao	X	x	_	22	ccomp	_	_
+24	!	!	PUNCT	punct	_	23	punct	_	SpacesAfter=\s\r
+25	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	22	parataxis	_	_
+26	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	25	ccomp	_	_
+27	!	!	PUNCT	punct	_	26	punct	_	_
+28	Awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	29	nsubj	_	_
+29	akowarudo	akowarudo	X	_	_	26	ccomp	_	_
+30	,	,	PUNCT	punct	_	29	punct	_	_
+31	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	29	conj	_	_
+32	joru	joru	NOUN	n	Number=Sing	31	obl	_	_
+33	ji	ji	ADP	posp	Number=Sing|Person=3	32	case	_	_
+34	,	,	PUNCT	punct	_	31	punct	_	_
+35	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	37	nsubj	_	_
+36	akera	kera	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	37	obj	_	_
+37	kabi	kabi	VERB	vt	Number=Sing|Person=3	29	conj	_	_
+38	,	,	PUNCT	punct	_	37	punct	_	_
+39	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	41	nsubj	_	_
+40	ae	ae	NOUN	n	_	41	obj	_	_
+41	kabi	kabi	VERB	vt	Number=Sing|Person=3	37	parataxis	_	_
+42	,	,	PUNCT	punct	_	41	punct	_	_
+43	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	45	nsubj	_	_
+44	aia	ia	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	45	obj	_	_
+45	kabi	kabi	VERB	vt	Number=Sing|Person=3	41	parataxis	_	_
+46	,	,	PUNCT	punct	_	45	punct	_	_
+47	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	50	nsubj	_	_
+48	awy	awy	DET	dem	Deixis=Prox	50	obj	_	_
+49	re	re	NOUN	n	Number=Sing	50	nsubj	_	_
+50	kabi	kabi	VERB	vt	Number=Sing|Person=3	45	parataxis	_	_
+51	,	,	PUNCT	punct	_	50	punct	_	_
+52	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	55	nsubj	_	_
+53	ape	ape	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	54	nmod	_	_
+54	kujagu	kujagu	NOUN	n	_	55	obj	_	_
+55	barigu	barigu	VERB	vt	Number=Sing|Person=3	50	parataxis	_	_
+56	,	,	PUNCT	punct	_	55	punct	_	_
+57	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	60	nsubj	_	_
+58	akiguru	ikuru	NOUN	NOUN	Number=Sing|Number[psor]=Sing|Person=2	60	obj	_	_
+59	kujagu	kujagu	NOUN	n	_	58	nmod	_	_
+60	barigu	barigu	VERB	vt	Number=Sing|Person=3	55	parataxis	_	_
+61	,	,	PUNCT	punct	_	60	punct	_	_
+62	amearydy	mearydy	NOUN	n	_	60	parataxis	_	_
+63	awadywo	awadu	ADV	v	Mood=Sub	62	advmod	_	_
+64	ai	ji	ADP	posp	Number=Sing|Person=2	63	obl	_	_
+65	!	!	PUNCT	punct	_	63	punct	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
