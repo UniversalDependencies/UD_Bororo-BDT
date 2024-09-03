@@ -627,6 +627,41 @@
 31	Kao	Kao	X	_	_	30	dep	_	SpaceAfter=No
 32	!	!	PUNCT	punct	_	30	punct	_	_
 
+# sent_id = HMB-criacao_dos_homens-02
+# text = Akore Aebu awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi . Akore awo ape kujagu barigu , awo akiguru kujagu barigu , amearudu awaduwo ai
+# text_por = Disse: - Saia! Para se esquentar, para ver o fogo, para lavar as mãos e o rosto, para fazer as suas necessidades, para ficar esperto.
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	1	ccomp	_	_
+3	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	4	nsubj	_	_
+4	akowarudo	akowarudo	VERB	Voice=Cau	_	2	xcomp	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	4	conj	_	_
+7	joru	joru	NOUN	n	Number=Sing	6	obl	_	_
+8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
+9	,	,	PUNCT	punct	_	6	punct	_	_
+10	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	12	nsubj	_	_
+11	akera	kera	NOUN	n	Number=Sing|Person=2	12	obj	_	_
+12	kabi	kabi	VERB	vt	Number=Sing|Person=3	4	conj	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	16	nsubj	_	_
+15	ae	ae	NOUN	n	_	16	obj	_	_
+16	kabi	kabi	VERB	vt	Number=Sing|Person=3	4	conj	_	_
+17	.	,	PUNCT	punct	_	16	punct	_	_
+18	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	4	parataxis	_	_
+19	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	22	nsubj	_	_
+20	ape	ape	NOUN	n	_	22	obj	_	_
+21	kujagu	kujagu	NOUN	n	_	20	nmod	_	_
+22	barigu	barigu	VERB	vt	Number=Sing|Person=3	18	ccomp	_	_
+23	,	,	PUNCT	punct	_	22	punct	_	_
+24	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	27	nsubj	_	_
+25	akiguru	ikuru	NOUN	NOUN	Number=Sing|Person=2	27	obj	_	_
+26	kujagu	kujagu	NOUN	n	_	25	nmod	_	_
+27	barigu	barigu	VERB	vt	Number=Sing|Person=3	22	conj	_	_
+28	,	,	PUNCT	punct	_	27	punct	_	_
+29	amearudu	mearudu	NOUN	n	_	22	conj	_	_
+30	awaduwo	awadu	VERB	v	Mood=Sub	29	advmod	_	_
+31	ai	ji	ADP	posp	Number=Sing|Person=2	30	obl	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
