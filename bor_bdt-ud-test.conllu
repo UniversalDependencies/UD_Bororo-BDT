@@ -4945,6 +4945,27 @@
 1	akegodynure	ake	VERB	v	Aspect=Prog|Mood=Ind|Voice=CauInc	0	root	_	_
 2	ii	ji	ADP	_	Number=Sing|Person=1	1	obl	_	_
 
+# sent_id = FWFFG-0117
+# text = Ca ure turugady , oinore boe erore ere pu boe bie tutu je , pemegare
+# text_por = Então, está pronto, assim que bororo faz, eles avisam uns aos outros mutuamente, tá bom 
+# text_eng =
+1	Ca	ca	INTJ	intj	_	3	discourse	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	turugady	rugady	VERB	_	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	oinore	oino	ADV	adv	Mood=Ind	7	advmod	_	_
+6	boe	boe	NOUN	n	Number=Plur	7	nsubj	_	_
+7	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	12	nsubj	_	_
+10	pu	pu	PRON	pron	Reflex=Yes	11	dep	_	_
+11	boe	boe	NOUN	n	_	12	obj	_	_
+12	bie	bie	VERB	vt	Number=Sing|Person=3	7	parataxis	_	_
+13	tutu	tu	X	x	_	12	discourse	_	_
+14	je	je	X	x	_	13	flat	_	_
+15	,	,	PUNCT	punct	_	12	punct	_	_
+16	pemegare	pemega	NOUN	n	Mood=Ind	7	parataxis	_	_
+
 # sent_id = 0.1.BEBE
 # text = Itaidyre iwo taryduwado boe enogiegidae ji , boe eno ie ji
 # text_eng =
