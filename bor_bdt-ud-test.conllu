@@ -1210,7 +1210,7 @@
 41	ai	ji	ADP	posp	Number=Sing|Person=2	40	obl	_	_
 42	!	!	PUNCT	punct	_	40	punct	_	_
 
-# sent_id = HMB-criação_das_mulheres-07
+# sent_id = HMB-criação_dos_alimentos-01
 # text = Ca ! Nonore icare ure tonaregedy . Baraedugume udo boe eke iegi pugeje . Ure boecodydo . Ure barogwa kododydo
 # text_port = Eis! Então ele (Pemo) fez com que seu filho Baraedugume nomeasse os alimentos. Ele fez anoitecer e fez amanhecer.
 1	Ca	ca	INTJ	intj	_	6	discourse	_	_
@@ -1235,7 +1235,7 @@
 20	kododydo	kodody	VERB	vt	Voice=Cau	6	parataxis	_	_
 21	.	,	PUNCT	punct	_	20	punct	_	_
 
-# sent_id = HMB-criação_das_mulheres-08
+# sent_id = HMB-criação_dos_alimentos-02
 # text = Icare Baraedygume ure tuie maedy pugeje ty ... Akore e , Itugare braedy uke iro bokwa ra ... Itugare braedy uke kuiada bokwa ra ... Itugare braedy uke riboarewy bokwa ra ... Itugare braedy uke tako bokwa ra ... Itugare braedy uke bako bokwa ra ...
 # text_port = Então Baraedugume estendeu a vista e disse: - Eh! O meu súdito o branco não tem arroz... O meu súdito branco não tem milho... O meu súdito branco não tem ab—bora...O meu súdito branco não tem cana... O meu súdito branco não tem banana...
 1	Icare	_	ADV	adv	_	5	advmod	_	_
