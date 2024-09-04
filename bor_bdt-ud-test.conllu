@@ -3041,7 +3041,7 @@
 10	Iemary	emary	VERB	_	Number=Sing|Person=1	1	conj	_	_
 11	pagawo	_	X	x	_	10	dep	_	_
 12	ty	ty	ADV	_	_	10	advmod	_	_
-13	woe	woe	ADV	_	_	12	goeswith	_	_
+13	woe	woe	ADV	adv	AdvType=Loc	12	goeswith	_	_
 14	,	,	PUNCT	punct	_	10	punct	_	_
 15	boe	boe	NOUN	_	_	10	discourse	_	_
 16	redugody	redugody	NOUN	_	_	15	goeswith	_	;shame;vergonha
