@@ -1084,6 +1084,50 @@
 23	!	!	PUNCT	_	_	21	punct	_	_
 24	Oino	oino	ADV	_	_	17	advmod	_	_
 
+# sent_id = HMB-criação_das_mulheres-03
+# text = Akore aerydywo barogwa kodody ji , awo akowarudo , awo akera kabi , awo ae kabi , awo aia kabi , awo awy re kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , Amearydy awadywo ai!
+# text_port = Ele disse: - Para você contemplar o amanhecer, para você se esquentar, para lavar as mãos, para lavar o rosto, para lavar a boca, para lavar os pés, para fazer as suas necessidades, para ficar animada.
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	1	ccomp	_	_
+3	barogwa	barogwa	NOUN	n	Number=Sing	4	nmod	_	_
+4	kodody	_	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	,	,	PUNCT	punct	_	2	punct	_	_
+7	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	8	nsubj	_	_
+8	akowarudo	akowarudo	VERB	_	_	2	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	12	nsubj	_	_
+11	akera	kera	NOUN	n	Number=Sing|Person=2	12	obj	_	_
+12	kabi	kabi	VERB	vt	Number=Sing|Person=3	8	conj	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	16	nsubj	_	_
+15	ae	ae	NOUN	n	_	16	obj	_	_
+16	kabi	kabi	VERB	vt	Number=Sing|Person=3	12	parataxis	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	20	nsubj	_	_
+19	aia	ia	DET	_	Definite=Ind|PronType=Art	20	obj	_	_
+20	kabi	kabi	VERB	vt	Number=Sing|Person=3	16	parataxis	_	_
+21	,	,	PUNCT	punct	_	20	punct	_	_
+22	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	25	nsubj	_	_
+23	awy	awy	DET	dem	Deixis=Prox	24	det	_	_
+24	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	25	nsubj	_	_
+25	kabi	kabi	VERB	vt	Number=Sing|Person=3	20	parataxis	_	_
+26	,	,	PUNCT	punct	_	25	punct	_	_
+27	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	30	nsubj	_	_
+28	ape	ape	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	29	nmod	_	_
+29	kujagu	kujagu	NOUN	n	_	30	obj	_	_
+30	barigu	barigu	VERB	vt	Number=Sing|Person=3	25	parataxis	_	_
+31	,	,	PUNCT	punct	_	30	punct	_	_
+32	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	35	nsubj	_	_
+33	akiguru	ikuru	NOUN	NOUN	Number=Sing|Number[psor]=Sing|Person=2	35	obj	_	_
+34	kujagu	kujagu	NOUN	n	_	33	nmod	_	_
+35	barigu	barigu	VERB	vt	Number=Sing|Person=3	30	conj	_	_
+36	,	,	PUNCT	punct	_	35	punct	_	_
+37	Amearydy	mearydy	NOUN	n	_	38	nsubj	_	_
+38	awadywo	awadu	VERB	v	Mood=Sub	35	parataxis	_	_
+39	ai	ji	ADP	posp	Number=Sing|Person=2	38	obl	_	_
+40	!	!	PUNCT	punct	_	38	punct	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
