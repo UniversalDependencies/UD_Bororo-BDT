@@ -1139,6 +1139,31 @@
 6	barogwa	barogwa	NOUN	n	Number=Sing	7	obj	_	_
 7	kododydo	kodody	VERB	vt	Voice=CauPass	2	parataxis	_	_
 
+# sent_id = HMB-criação_das_mulheres-05
+# text = Icare makogodyre toro aredy bogai pugeje . Akore Cibae Ekurewydo ! Aebu mato ! Kudugodyre kuri je , akore bwe !
+# text_port = Ai chamou de novo uma mulher dizendo: - Cibae Ekurewydo! Sai para cá! Ela respondeu logo gritando: - Bwé!
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	makogodyre	mako	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=CauInc	0	root	_	_
+3	toro	toro	ADV	adv	AdvType=Loc	2	advmod	_	_
+4	aredy	aredy	NOUN	n	Number=Sgtv	2	obl	_	_
+5	bogai	bogai	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+8	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+9	Cibae	Cibae	PROPN	propn	_	12	vocative	_	_
+10	Ekurewydo	Ekurewydo	PROPN	propn	Gender=Fem	9	flat	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12	Aebu	ebu	VERB	v	Mood=Imp|Number=Sing|Person=2	8	ccomp	_	_
+13	mato	mato	ADV	adv	_	12	advmod	_	_
+14	!	!	PUNCT	punct	_	12	punct	_	_
+15	Kudugodyre	Kudugody	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=CauInc	2	parataxis	_	_
+16	kuri	kuri	ADV	adv	_	15	advmod	_	_
+17	je	je	ADV	adv	_	16	flat	_	_
+18	,	,	PUNCT	punct	_	15	punct	_	_
+19	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	15	xcomp	_	_
+20	bwe	bwe	PROPN	propn	_	19	ccomp	_	SpaceAfter=No
+21	!	!	PUNCT	punct	_	19	punct	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
