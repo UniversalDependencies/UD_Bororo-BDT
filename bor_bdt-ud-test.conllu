@@ -1128,7 +1128,7 @@
 39	ai	ji	ADP	posp	Number=Sing|Person=2	38	obl	_	_
 40	!	!	PUNCT	punct	_	38	punct	_	_
 
-# sent_id = HMB-criação_das_mulheres-03
+# sent_id = HMB-criação_das_mulheres-04
 # text = Ure boecodydo pugeje , ure barogwa kododydo
 # text_port = Ele fez anoitecer de novo e fez amanhecer.
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
