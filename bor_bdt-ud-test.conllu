@@ -1128,6 +1128,17 @@
 39	ai	ji	ADP	posp	Number=Sing|Person=2	38	obl	_	_
 40	!	!	PUNCT	punct	_	38	punct	_	_
 
+# sent_id = HMB-criação_das_mulheres-03
+# text = Ure boecodydo pugeje , ure barogwa kododydo
+# text_port = Ele fez anoitecer de novo e fez amanhecer.
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
+6	barogwa	barogwa	NOUN	n	Number=Sing	7	obj	_	_
+7	kododydo	kodody	VERB	vt	Voice=CauPass	2	parataxis	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
