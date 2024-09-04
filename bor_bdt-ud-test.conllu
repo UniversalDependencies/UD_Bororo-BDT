@@ -1056,6 +1056,34 @@
 11	etowyje	towyje	VERB	v	Number[abs]=Sing|Person[abs]=1	1	parataxis	_	_
 12	woe	woe	ADV	adv	AdvType=Loc	11	advmod	_	_
 
+# sent_id = HMB-criação_das_mulheres-02
+# text = Ca , ure boecodydo , ure barogwa kododydo . Akore okoge Ekurewydo ! Aebu mato ! Kudugodyre kuri je , akore bwe , oino
+# text_port = Eis! Ele fez anoitecer e fez amanhecer. E disse:- Okoge Ekurewydo! Sai para cá! Ela gritou dizendo assim: - Bwé!
+1	Ca	ca	INTJ	intj	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+4	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+5	,	.	PUNCT	punct	_	4	punct	_	_
+6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+7	barogwa	barogwa	NOUN	n	Number=Sing	8	obj	_	_
+8	kododydo	kodody	VERB	vt	Voice=Cau	4	parataxis	_	_
+9	.	,	PUNCT	punct	_	8	punct	_	_
+10	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	4	parataxis	_	_
+11	Okoge	Okoge	PROPN	_	_	14	vocative	_	_
+12	Ekurewydo	Ekurewydo	PROPN	_	_	11	flat	_	_
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	aebu	ebu	VERB	_	Mood=Imp|Number=Sing|Person=2	10	ccomp	_	_
+15	mato	mato	ADV	_	_	14	advmod	_	_
+16	!	!	PUNCT	_	_	14	punct	_	_
+17	Kudugodyre	kudugody	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=CauInc	10	parataxis	_	;yell,scream;gritar
+18	kuri	kuri	ADV	_	_	17	advmod	_	_
+19	je	je	ADV	_	_	18	flat	_	_
+20	,	,	PUNCT	_	_	17	punct	_	_
+21	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	17	xcomp	_	_
+22	bwe	bwe	INTJ	_	_	21	ccomp	_	_
+23	!	!	PUNCT	_	_	21	punct	_	_
+24	Oino	oino	ADV	_	_	17	advmod	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
