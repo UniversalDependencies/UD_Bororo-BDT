@@ -1040,6 +1040,22 @@
 77	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	74	obl	_	_
 78	koia	koia	ADP	posp	Number=Sing|Person=3	77	case	_	_
 
+# sent_id = HMB-criação_das_mulheres-01
+# text = Areme pugeje . Icá, woere icare Pemo ure areme etowyje woe
+# text_port = Agora as mulheres. Eis! Foi aqui que Pemo fez as mulheres.
+1	Areme	aredy	NOUN	n	Number=Plur	0	root	_	_
+2	pugeje	pugeje	ADV	adv	_	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+4	Icá	icá	INTJ	intj	_	1	parataxis	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	woere	woe	ADV	adv	Mood=Ind	11	advmod	_	_
+7	icare	ica	ADV	adv	_	11	advmod	_	_
+8	Pemo	Pemo	PROPN	propn	_	11	nsubj	_	_
+9	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	11	nsubj	_	_
+10	areme	aredy	NOUN	n	Number=Plur	11	obj	_	_
+11	etowyje	towyje	VERB	v	Number[abs]=Sing|Person[abs]=1	1	parataxis	_	_
+12	woe	woe	ADV	adv	AdvType=Loc	11	advmod	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
