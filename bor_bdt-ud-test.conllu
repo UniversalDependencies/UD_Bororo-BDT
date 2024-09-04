@@ -1210,6 +1210,31 @@
 41	ai	ji	ADP	posp	Number=Sing|Person=2	40	obl	_	_
 42	!	!	PUNCT	punct	_	40	punct	_	_
 
+# sent_id = HMB-criação_das_mulheres-07
+# text = Ca ! Nonore icare ure tonaregedy . Baraedugume udo boe eke iegi pugeje . Ure boecodydo . Ure barogwa kododydo
+# text_port = Eis! Então ele (Pemo) fez com que seu filho Baraedugume nomeasse os alimentos. Ele fez anoitecer e fez amanhecer.
+1	Ca	ca	INTJ	intj	_	6	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Nonore	nono	ADV	adv	Mood=Ind	6	advmod	_	_
+4	icare	icare	ADV	adv	_	6	advmod	_	_
+5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
+6	tonaregedy	onaregedy	NOUN	n	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+8	Baraedugume	Baraedugume	NOUN	n	_	9	dep	_	_
+9	udo	u	PRON	bi	Number=Sing|Person=3|Voice=Cau	12	nsubj	_	_
+10	boe	boe	NOUN	n	_	12	obl	_	_
+11	eke	ke	NOUN	n	Number=Plur|Person=3	10	flat	_	_
+12	iegi	iegi	VERB	v	_	6	parataxis	_	_
+13	pugeje	pugeje	ADV	adv	_	12	advmod	_	_
+14	.	,	PUNCT	punct	_	12	punct	_	_
+15	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	16	nsubj	_	_
+16	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=CauPass	12	parataxis	_	_
+17	.	.	PUNCT	punct	_	16	punct	_	_
+18	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	nsubj	_	_
+19	barogwa	barogwa	NOUN	n	Number=Sing	20	obj	_	_
+20	kododydo	kodody	VERB	vt	Voice=Cau	6	parataxis	_	_
+21	.	,	PUNCT	punct	_	20	punct	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
