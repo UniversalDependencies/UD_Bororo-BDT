@@ -1285,6 +1285,40 @@
 45	ra	ra	INTJ	intj	_	43	discourse	_	_
 46	...	...	PUNCT	punct	_	43	punct	_	_
 
+# sent_id = HMB-ciração_dos_alimentos-03
+# text = Icare Pemore tonaregedydo tudugu tuguda , ure udo tudo moto ji pr ! Cewy makore jiboe jamedy pado moto kajeje ja tuku . Oinore nowy makore jiboere boe joki!
+# text_port = Então Pemo fez com que seu filho o levantasse e o jogasse no chão. De repente todas as coisas que tinha falado apareceram na terra. Tudo o que ele tinha falado estava espalhado por toda parte.
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
+2	Pemore	Pemo	PROPN	prop	Mood=Ind	4	nsubj	_	_
+3	tonaregedydo	tonaregedy	VERB	v	Number=Sing|Person=3|Voice=Cau	4	root	_	_
+4	tudugu	tududugu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+5	tuguda	kuda	ADP	posp	Number=Plur|Person=3|Reflex=Yes	4	case	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+8	udo	u	PRON	bi	Number=Sing|Person=3|Voice=Cau	9	obj	_	_
+9	tudo	_	VERB	v	_	4	parataxis	_	_
+10	moto	moto	NOUN	n	_	9	obl	_	_
+11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
+12	pr	pr	X	ideo	_	9	punct	_	_
+13	!	!	PUNCT	punct	_	9	punct	_	_
+14	Cewy	Cewy	PRON	dem	Deixis=Nvis|PronType=Dem	15	nmod	_	_
+15	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	18	dislocated	_	_
+16	jiboe	jiboe	NOUN	x	_	18	nsubj	_	_
+17	jamedy	jamedy	PRON	x	PronType=Tot	16	nmod	_	_
+18	pado	pado	VERB	v	Number=Sing|Person=3|Voice=Cau	4	parataxis	_	_
+19	moto	moto	NOUN	n	Number=Sing	18	obl	_	_
+20	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	19	case	_	_
+21	ja	ja	ADV	pron	PronType=Int	18	advmod	_	_
+22	tuku	tuku	ADV	adv	_	18	advmod	_	;suddenly;de repente
+23	.	.	PUNCT	punct	_	18	punct	_	_
+24	Oinore	oinore	ADV	adv	Mood=Ind	26	advmod	_	_
+25	nowy	nowy	DET	dem	Deixis=Med	26	nsubj	_	_
+26	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	27	csubj	_	_
+27	jiboere	jiboedy	NOUN	n	Mood=Ind	18	parataxis	_	_
+28	boe	boe	NOUN	n	Number=Sing|Person=3	_	_	_	_
+29	joki	joki	ADP	posp	_	28	case	_	_
+30	!	!	PUNCT	punct	_	27	punct	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
