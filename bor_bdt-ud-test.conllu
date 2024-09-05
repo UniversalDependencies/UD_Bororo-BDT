@@ -122,7 +122,7 @@
 11	,	,	PUNCT	punct	_	8	punct	_	_
 12	aerydywo	aerydy	VERB	v	Mood=Sub|Number=Sing|Person=3	6	conj	_	_
 13	barogwa	barogwa	ADV	n	_	12	advmod	_	_
-14	kododu	kododu	VERB	v	_	12	obl	_	increase,advance;aumetoar,avançar
+14	kododu	kododu	VERB	v	_	12	obl	_	increase,advance;aumentar,avançar
 15	ji	ji	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	;	;	PUNCT	punct	_	12	punct	_	_
 17	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	19	nsubj	_	_
