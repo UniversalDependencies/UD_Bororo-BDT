@@ -1236,7 +1236,7 @@
 21	.	,	PUNCT	punct	_	20	punct	_	_
 
 # sent_id = HMB-criação_dos_alimentos-02
-# text = Icare Baraedygume ure tuie maedy pugeje ty ... Akore e , Itugare braedy uke iro bokwa ra ... Itugare braedy uke kuiada bokwa ra ... Itugare braedy uke riboarewy bokwa ra ... Itugare braedy uke tako bokwa ra ... Itugare braedy uke bako bokwa ra ...
+# text = Icare Baraedygume ure tuie maedy pugeje ty ... Akore e , Itugare baraedy uke iro bokwa ra ... Itugare baraedy uke kuiada bokwa ra ... Itugare baraedy uke riboarewy bokwa ra ... Itugare baraedy uke tako bokwa ra ... Itugare baraedy uke bako bokwa ra ...
 # text_port = Então Baraedugume estendeu a vista e disse: - Eh! O meu súdito o branco não tem arroz... O meu súdito branco não tem milho... O meu súdito branco não tem ab—bora...O meu súdito branco não tem cana... O meu súdito branco não tem banana...
 1	Icare	_	ADV	adv	_	5	advmod	_	_
 2	Baraedygume	Baraedugume	PROPN	propn	_	3	dep	_	_
@@ -1250,35 +1250,35 @@
 10	e	e	INTJ	x	_	15	discourse	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
 12	Itugare	Ituga	VERB	verb	Mood=Ind|Number=Sing|Person=3	15	nsubj	_	_
-13	braedy	_	NOUN	noun	Number=Sing	12	nmod	_	_
+13	baraedy	_	NOUN	noun	Number=Sing	12	nmod	_	_
 14	uke	ke	NOUN	n	Number=Sing|Person=3	15	nmod	_	_
 15	iro	iro	NOUN	n	_	9	ccomp	_	_
 16	bokwa	bokwa	AUX	adv	Polarity=Neg	15	aux	_	_
 17	ra	ra	INTJ	intj	_	15	discourse	_	_
 18	.	,	PUNCT	punct	_	15	punct	_	_
 19	Itugare	Ituga	VERB	v	Mood=Ind	22	nsubj	_	_
-20	braedy	_	NOUN	noun	Number=Sing	19	nmod	_	_
+20	baraedy	_	NOUN	noun	Number=Sing	19	nmod	_	_
 21	uke	ke	NOUN	n	Number=Sing|Person=3	22	nmod	_	_
 22	kuiada	kuiada	NOUN	n	_	15	conj	_	_
 23	bokwa	bokwa	AUX	adv	Polarity=Neg	22	aux	_	_
 24	ra	ra	INTJ	intj	_	22	discourse	_	_
 25	.	,	PUNCT	punct	_	22	punct	_	_
 26	Itugare	Ituga	VERB	v	Mood=Ind	29	nsubj	_	_
-27	braedy	_	NOUN	noun	Number=Sing	26	nmod	_	_
+27	baraedy	_	NOUN	noun	Number=Sing	26	nmod	_	_
 28	uke	ke	NOUN	n	Number=Sing|Person=3	29	nmod	_	_
 29	riboarewy	riboa	NOUN	n	Mood=Ind|Nomzr=Rel	15	conj	_	_
 30	bokwa	bokwa	AUX	adv	Polarity=Neg	29	aux	_	_
 31	ra	ra	INTJ	intj	_	29	discourse	_	_
 32	.	,	PUNCT	punct	_	29	punct	_	_
 33	Itugare	Ituga	VERB	v	Mood=Ind	36	nsubj	_	_
-34	braedy	_	NOUN	noun	Number=Sing	33	nmod	_	_
+34	baraedy	_	NOUN	noun	Number=Sing	33	nmod	_	_
 35	uke	ke	NOUN	n	Number=Sing|Person=3	36	nmod	_	_
 36	tako	_	NOUN	n	_	15	conj	_	_
 37	bokwa	bokwa	AUX	adv	Polarity=Neg	36	aux	_	_
 38	ra	ra	INTJ	intj	_	36	discourse	_	_
 39	...	...	PUNCT	punct	_	36	punct	_	_
 40	Itugare	ituga	NOUN	_	Mood=Ind	43	nsubj	_	_
-41	braedy	_	NOUN	noun	Number=Sing	40	nmod	_	_
+41	baraedy	_	NOUN	noun	Number=Sing	40	nmod	_	_
 42	uke	ke	NOUN	n	Number=Sing|Person=3	43	nmod	_	_
 43	bako	bako	NOUN	n	_	15	conj	_	_
 44	bokwa	bokwa	AUX	adv	Polarity=Neg	43	aux	_	_
@@ -1318,6 +1318,50 @@
 28	boe	boe	NOUN	n	Number=Sing|Person=3	_	_	_	_
 29	joki	joki	ADP	posp	_	28	case	_	_
 30	!	!	PUNCT	punct	_	27	punct	_	_
+
+# sent_id = HMB-ciração_dos_alimentos-04
+# text = Icare ure boecodydo pugeje , icare ure barogwa kododydo . Icare okeare pugeje , akore Wo ! Itugare baraedy uke tapira bokwa ra ! Uke kagariga bokwa ra ! Uke jugorewy bokwa ra ! Aku kowaru bokwa ra !
+# text_port= Depois ele fez anoitecer e amanhecer novamente. Então ele continuou achando falta, dizendo: - Oh! Eis que o meu súdito branco não tem gado... Ele não tem galinha... Ele não tem porcos... Ele não tem cavalos!
+1	Icare	icare	ADV	adv	_	3	advmod	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=CauPas	0	root	_	_
+4	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	icare	icare	ADV	adv	_	9	advmod	_	_
+7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+8	barogwa	barogwa	NOUN	n	Number=Sing	9	obj	_	_
+9	kododydo	kodody	VERB	vt	Voice=CauPas	3	conj	_	_
+10	.	,	PUNCT	punct	_	9	punct	_	_
+11	Icare	icare	ADV	adv	_	12	advmod	_	_
+12	okeare	okea	NOUN	n	Mood=Ind	3	parataxis	_	;;desejou, achou falta
+13	pugeje	pugeje	ADV	adv	_	12	advmod	_	_
+14	,	,	PUNCT	punct	_	12	punct	_	_
+15	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	parataxis	_	_
+16	Wo	wo	INTJ	intj	_	21	discourse	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	Itugare	Ituga	VERB	verb	Mood=Ind|Number=Sing|Person=3	21	nsubj	_	_
+19	baraedy	_	NOUN	noun	Number=Sing	18	nmod	_	_
+20	uke	ke	NOUN	n	Number=Sing|Person=3	21	nmod	_	_
+21	tapira	tapira	NOUN	n	_	15	ccomp	_	_
+22	bokwa	bokwa	AUX	n	_	21	aux	_	_
+23	ra	ra	INTJ	v	Number=Sing|Person=3	21	discourse	_	_
+24	!	!	PUNCT	punct	_	21	punct	_	_
+25	Uke	ke	NOUN	n	Number=Sing|Person=3	26	nmod	_	_
+26	kagariga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	21	conj	_	_
+27	bokwa	bokwa	AUX	n	_	26	aux	_	_
+28	ra	ra	INTJ	v	Number=Sing|Person=3	26	discourse	_	_
+29	!	!	PUNCT	punct	_	26	punct	_	_
+30	Uke	ke	NOUN	n	Number=Sing|Person=3	31	nmod	_	_
+31	jugorewy	jugo	NOUN	n	Mood=Ind|Nomzr=Rel	21	conj	_	_
+32	bokwa	bokwa	AUX	n	_	31	aux	_	_
+33	ra	ra	INTJ	v	Number=Sing|Person=3	31	discourse	_	_
+34	!	!	PUNCT	punct	_	31	punct	_	_
+35	Aku	aku	NOUN	n	_	36	nmod	_	_
+36	kowaru	kowaru	NOUN	n	_	21	conj	_	_
+37	bokwa	bokwa	AUX	n	_	36	aux	_	_
+38	ra	ra	INTJ	v	Number=Sing|Person=3	36	discourse	_	_
+39	!	!	PUNCT	punct	_	36	punct	_	_
+
 
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
@@ -12584,7 +12628,7 @@
 18	akore	ako	VERB	v	_	16	conj	_	[];;
 
 # sent_id = 014.KoeMakarewydo
-# text = Jiwy tori mugu kimore oinono ca braedy iedo Santo Antonio , mare boe ewadary tabo iere Torowari ri oinore ioga akore
+# text = Jiwy tori mugu kimore oinono ca baraedy iedo Santo Antonio , mare boe ewadary tabo iere Torowari ri oinore ioga akore
 # text_eng =
 # text_por = pois o morro ainda existe os brae deram o nome de Santo Antonio, morro de Santo Antonio mas na lingua bororo se chama Torowari ri assim que meu pai disse
 1	Jiwy	_	DET	dem	_	3	det	_	[];;
@@ -12593,7 +12637,7 @@
 4	kimore	_	ADV	adv	Mood=Ind	3	advmod	_	[];;
 5	oinono	_	ADV	adv	_	8	advmod	_	[];;
 6	ca	_	PART	_	_	8	discourse	_	[];;
-7	braedy	_	NOUN	noun	Number=Sing	8	nsubj	_	[];;
+7	baraedy	_	NOUN	noun	Number=Sing	8	nsubj	_	[];;
 8	iedo	_	VERB	v	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	[];;
 9	Santo	_	PROPN	propn	_	8	obj	_	[];;
 10	Antonio	_	PROPN	propn	_	9	flat	_	[];;
