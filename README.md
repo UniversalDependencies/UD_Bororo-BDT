@@ -47,7 +47,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Gerardi, Fabrício Ferraz; Aragon, Carolina
+Contributors: Gerardi, Fabrício Ferraz
 Contributing: here
 Contact: fabricio.gerardi@uni-tuebingen.de
 ===============================================================================
