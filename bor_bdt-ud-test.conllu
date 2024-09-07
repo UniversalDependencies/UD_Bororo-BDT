@@ -1362,6 +1362,34 @@
 38	ra	ra	INTJ	v	Number=Sing|Person=3	36	discourse	_	_
 39	!	!	PUNCT	punct	_	36	punct	_	_
 
+# sent_id = HMB-ciração_dos_alimentos-05
+# text = Dykeje icare ure tonaregedy Baraedugume udo tudugu tuguda . Ure udo tudo moto ji pr ! Nono nowy makore jiboe jamedy padyre moto kajeje pugeje
+# text_port = Então ele (Pemo), fez com que seu filho Baraedugume o levantasse e o jogasse no chão. Aí tudo o que ele tinha falado apareceu também na terra.
+1	Dykeje	dykeje	ADV	adv	_	7	advmod	_	_
+2	icare	icare	ADV	adv	_	7	advmod	_	_
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
+4	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	6	dep	_	_
+5	Baraedugume	Baraedugume	PROPN	n	_	4	appos	_	_
+6	udo	u	PRON	bi	Number=Sing|Person=3|Voice=Cau	7	obj	_	_
+7	tudugu	tududugu	VERB	v	Reflex=Yes	0	root	_	_
+8	tuguda	tuguda	ADP	posp	_	7	advmod	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+10	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
+11	udo	u	PRON	bi	Number=Sing|Person=3|Voice=Cau	12	obj	_	_
+12	tudo	_	VERB	v	_	7	parataxis	_	_
+13	moto	moto	NOUN	n	_	12	obl	_	_
+14	ji	ji	ADP	posp	Number=Sing|Person=3	13	case	_	_
+15	pr	pr	X	ideo	_	12	discourse	_	__
+16	!	!	PUNCT	punct	_	12	punct	_	_
+17	Nono	nono	ADV	adv	_	22	advmod	_	_
+18	nowy	nowy	DET	dem	Deixis=Med	19	det	_	_
+19	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	20	nmod	_	_
+20	jiboe	jiboe	PRON	x	_	22	nsubj	_	_
+21	jamedy	jamedy	ADV	adv	_	22	advmod	_	_
+22	padyre	pady	VERB	vi	Mood=Ind|Number=Sing|Person=3	7	parataxis	_	_
+23	moto	moto	NOUN	n	Number=Sing	22	obl	_	_
+24	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	pugeje	pugeje	ADV	adv	_	22	advmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
