@@ -1391,6 +1391,61 @@
 24	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	23	case	_	_
 25	pugeje	pugeje	ADV	adv	_	22	advmod	_	_
 
+# sent_id = HMB-ciração_dos_alimentos-06
+# text = Icare pare kowyje : pemegare pai rugadu . Ukare paguri kugudo , pegakare pai . Mare pagogwagekare kuri je . Boe raire pagogwage kadu ji . Mare page boikare pai , Pagiarigodykare page boi koia . Kodire page kodukare boeto ji . Pare parugadu , dykeje icare page aregodyre . Oino
+# text_port = Aí nós  comemos e gostamos. Não nos revoltou o estômago, não nos fez mal. Mas não foi logo que comemos. Passamos muito tempo sem comer, porque não sentíamos fome. Não ficávamos tristes por falta de comida. Então não foi a comida que apareceu primeiro. Depois que nós  estávamos prontos foi que veio a comida.
+1	Icare	icare	ADV	adv	_	3	advmod	_	_
+2	pare	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	3	nsubj	_	_
+3	kowyje	kowyje	VERB	v	_	0	root	_	SpaceAfter=No
+4	:	_	PUNCT	punct	_	3	punct	_	_
+5	pemegare	pemega	NOUN	n	Mood=Ind	3	conj	_	_
+6	pai	ai	ADP	posp	Clusivity=In|Mood=Ind|Number=Plur|Person=1	5	obl	_	_
+7	rugadu	rugadu	ADV	adv	_	5	advmod	_	_
+8	.	,	PUNCT	punct	_	5	punct	_	_
+9	Ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	11	nsubj	_	_
+10	paguri	kuri	NOUN	n	Clusivity[psor]=In|Mood=Ind|Number=Sing|Number[psor]=Plur|Person[psor]=1	11	obj	_	_
+11	kugudo	kugudo	VERB	v	Voice=Cau	5	parataxis	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	pegakare	pega	NOUN	n	Mood=Ind|Polarity=Neg	11	parataxis	_	_
+14	pai	pai	NOUN	n	_	13	obl	_	_
+15	.	,	PUNCT	punct	_	11	punct	_	_
+16	Mare	mare	CCONJ	cconj	ConjType=Disj	17	cc	_	_
+17	pagogwagekare	okwage	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	11	conj	_	_
+18	kuri	kuri	ADV	adv	_	17	advmod	_	_
+19	je	je	ADV	adv	_	18	flat	_	_
+20	.	,	PUNCT	punct	_	17	punct	_	_
+21	Boe	boe	NOUN	n	_	22	nmod	_	_
+22	raire	rai	VERB	v	Mood=Ind	23	nsubj	_	_
+23	pagogwage	kogwage	NOUN	n	Clusivity=In|Number=Plur|Person=1	17	parataxis	_	_
+24	kadu	kadu	NOUN	n	_	23	obl	_	_
+25	ji	ji	ADP	posp	Number=Sing|Person=3	24	case	_	_
+26	.	.	PUNCT	punct	_	23	punct	_	_
+27	Mare	mare	CCONJ	cconj	ConjType=Disj	29	cc	_	_
+28	page	ke	NOUN	n	Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person[psor]=1	29	nsubj	_	_
+29	boikare	boi	NOUN	n	Mood=Ind|Polarity=Neg	23	conj	_	_
+30	pai	pai	ADP	posp	Clusivity=In|Number=Plur|Person=1	29	obl	_	_
+31	,	,	PUNCT	punct	_	29	punct	_	_
+32	Pagiarigodykare	pagiarigodykare	NOUN	n	Mood=Ind|Polarity=Neg	29	parataxis	_	_
+33	page	ke	NOUN	n	Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person[psor]=1	34	nmod	_	_
+34	boi	boi	NOUN	n	_	32	obl	_	_
+35	koia	koia	ADP	posp	Number=Sing|Person=3	34	case	_	_
+36	.	.	PUNCT	punct	_	32	punct	_	_
+37	Kodire	kodi	ADV	adv	Mood=Ind	39	advmod	_	_
+38	page	ke	NOUN	n	Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person[psor]=1	39	nsubj	_	_
+39	kodukare	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	32	parataxis	_	_
+40	boeto	boeto	NOUN	n	_	39	obl	_	_
+41	ji	ji	ADP	posp	Number=Sing|Person=3	40	case	_	_
+42	.	.	PUNCT	punct	_	39	punct	_	_
+43	Pare	pare	PRON	pron	Clusivity=In|Mood=Ind|Number[subj]=Plur|Person[subj]=1|PronType=Prs	44	nsubj	_	_
+44	parugadu	rugadu	VERB	v	Clusivity=In|Number=Sing|Person=1	39	parataxis	_	_
+45	,	,	PUNCT	punct	_	44	punct	_	_
+46	dykeje	dykeje	SCONJ	sconj	_	49	mark	_	_
+47	icare	icare	ADV	adv	_	49	advmod	_	_
+48	page	ke	NOUN	n	Clusivity=In|Mood=Ind|Number[subj]=Plur|Person[subj]=1|PronType=Prs	49	nsubj	_	_
+49	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	44	advcl	_	_
+50	.	.	PUNCT	punct	_	49	punct	_	_
+51	Oino	oino	ADV	adv	_	49	advmod	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
