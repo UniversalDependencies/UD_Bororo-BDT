@@ -1622,6 +1622,35 @@
 23	tumugato	tumugato	VERB	v	Reflex=Yes	18	obl	_	_
 24	pugeje	pugeje	ADV	adv	_	18	advmod	_	_
 
+# sent_id = HMB-Os_Bororos-09
+# text = Duwygere eiere Jerigi Otojiwy . O Cerae , Boro Cerae . Duwygere eiere Uiagudumaga , Bak Ec . Duwygere eiere Akaruio Bokodori , Bak Ec
+# text_port = Os quais se chamam Jerigi Otojiwy (do sub-clã dos socou do caracol Boro). Os quais se chamam Uiagudumaga ( do sub-clã do esp’rito Bakoro). Os quais se chamam Akaruio Bokodori (do sub-clã do esp’rito Bakoro)
+1	Duwygere	Du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	2	nsubj	_	_
+2	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	Jerigi	Jerigi	PROPN	pron	_	2	ccomp	_	_
+4	Otojiwy	Otojiwy	PROPN	pron	_	3	flat	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+6	O	o	PROPN	propn	_	3	appos	_	_
+7	Cerae	ceraedy	PROPN	propn	_	6	flat	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	Boro	boro	PROPN	propn	_	6	conj	_	_
+10	Cerae	Cerae	PROPN	propn	_	9	flat	_	_
+11	.	.	PUNCT	punct	_	3	punct	_	_
+12	Duwygere	du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	13	nsubj	_	_
+13	eiere	ie	PRON	bi	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+14	Uiagudumaga	Uiagudumaga	NOUN	n	_	13	ccomp	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	Bak	Bak	PROPN	propn	_	14	appos	_	_
+17	Ec	Ec	PROPN	propn	_	16	flat	_	_
+18	,	,	PUNCT	punct	_	16	punct	_	_
+19	Duwygere	Du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	20	nsubj	_	_
+20	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+21	Akaruio	Akaruio	PROPN	propn	_	20	ccomp	_	_
+22	Bokodori	Bokodori	PROPN	propn	_	21	flat	_	_
+23	,	,	PUNCT	punct	_	21	punct	_	_
+24	Bak	Bak	PROPN	propn	_	21	appos	_	_
+25	Ec	Ec	PROPN	propn	_	24	flat	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
