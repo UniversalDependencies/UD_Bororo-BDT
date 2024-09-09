@@ -12,7 +12,7 @@
 8	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-02
-# text = Pemo koiare icare ure Pemo metyia iegi . Mare ia pagaboe karega . Nowy Pemo onaregedy . Tonaregedyre ure jeto boe ji pugeje . Mare nowy onaregedy botukare aredy piji . Koia karega ure towyje jamedu
+# text = Pemo koiare icare ure Pemo metyia iegi . Mare ia pagaboe karega . Nowy Pemo onaregedy . Tonaregedyre ure jeto boe ji pugeje . Mare nowy onaregedy botukare aredy piji . Koia karega ure towyje jamedy
 # text_eng = 
 # text_por = Foi Pemo que chamou o outro Pemo. Mas ele não era qualquer um. Era o filho de Pemo. Foi ao seu filho que ele colocou para tomar conta da gente. Mas esse seu filho não nasceu de mulher, e também não foi ele quem o fez.
 1	Pemo	Pemo	PROPN	propn	_	7	obl	_	_
@@ -50,7 +50,7 @@
 33	karega	karega	X	_	Polarity=Neg	35	dep	_	_
 34	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	35	nsubj	_	_
 35	towyje	towyje	VERB	vt	Number=Sing|Person=3	20	conj	_	_
-36	jamedu	jamedu	ADV	adv	_	35	advmod	_	_
+36	jamedy	jamedy	ADV	adv	_	35	advmod	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-03
 # text = Ure boecodydo . Nowy Pemore boecodydo . Dytabore icare makore nowy tonaregedy bogai baito . Bai tadare ure tuguwo
@@ -1850,7 +1850,7 @@
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	8	conj	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
-12	tuiamedu	jamedu	NOUN	n	Reflex=Yes	8	obl	_	_
+12	tuiamedu	jamedy	NOUN	n	Reflex=Yes	8	obl	_	_
 13	tabo	tabo	ADP	posp	Number=Sing|Person=3	12	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-18
@@ -5749,14 +5749,14 @@
 10	tada	tada	ADP	posp	Number=Sing|Person=3	9	case	_	_
 
 # sent_id = FWFFG-0105
-# text = Atumode barogwato dykeje itymode jamedu
+# text = Atumode barogwato dykeje itymode jamedy
 # text_eng = If you come tomorrow, I'll also go
 # text_por = Se você vier amanhã, eu irei também
 1	Atumode	ty	VERB	v	Mood=Ind|Number=Sing|Person=2|Status=Irr	4	advcl	_	_
 2	barogwato	barogwato	ADV	adv	_	1	advmod	_	_
 3	dykeje	dykeje	SCONJ	sconj	_	1	mark	_	_
 4	itymode	ty	VERB	v	Mood=Ind|Number=Sing|Person=1|Status=Irr	0	root	_	_
-5	jamedu	jamedu	ADV	adv	_	4	advmod	_	_
+5	jamedy	jamedy	ADV	adv	_	4	advmod	_	_
 
 # sent_id = FWFFG-0106
 # text = João ogwarire dykeje ure tugerago marido ji
@@ -5771,7 +5771,7 @@
 7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = FWFFG-0107
-# text = Akaregodumode jawy meriji dy ma ikodymode jamedu
+# text = Akaregodumode jawy meriji dy ma ikodymode jamedy
 # text_eng =
 # text_por = Se você tivesse ido ontem, eu teria ido também
 1	Akaregodumode	aregodu	VERB	v	Mood=Ind|Number=Sing|Person=2|Status=Irr	6	advcl	_	_
@@ -5780,7 +5780,7 @@
 4	dy	dy	X	_	_	1	dep	_	_
 5	ma	ma	X	_	_	1	mark	_	_
 6	ikodymode	kody	VERB	v	Mood=Ind|Number=Sing|Person=1|Status=Irr	0	root	_	_
-7	jamedu	jamedu	ADV	adv	_	6	advmod	_	_
+7	jamedy	jamedy	ADV	adv	_	6	advmod	_	_
 
 # sent_id = FWFFG-0108
 # text = Meriri kurire kuricigore akabo
@@ -9624,7 +9624,7 @@
 7	Nonore	_	ADV	adv	_	8	advmod	_	[];;
 8	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	[];;
 9	.	.	PUNCT	punct	_	8	punct	_	[];;
-10	Tuiamedu	jamedu	PRON	bi	PronType=Tot	3	obl	_	[];;
+10	Tuiamedu	jamedy	PRON	bi	PronType=Tot	3	obl	_	[];;
 11	tabo	_	ADP	posp	_	10	case	_	[];;
 
 # sent_id = sabia.016
