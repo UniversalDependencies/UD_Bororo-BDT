@@ -1594,6 +1594,34 @@
 26	Ap	Ap	NOUN	n	_	24	appos	_	_
 27	Cob	Cob	NOUN	n	_	26	flat	_	_
 
+# sent_id = HMB-Os_Bororos-08
+# text = Baraedugume mugatowy iere Meriri Baru , Paiwedu . Pao Baraedugume mugatowyge reo . Awy gere icare ere tugeragu iage ji pugeje , tumugato pugeje
+# text_port = O sucessor do nosso Pai Baraedugume chama-se Meriri Baru (do clã dos Bugios). Esses são os sucessores do nosso Pai Baraedugume. Estes por sua vez pegaram outros para serem os seus sucessores.
+1	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
+2	Baraedugume	Baraedugume	NOUN	n	_	3	nmod	_	_
+3	mugatowy	mugatowy	NOUN	n	Nomzr=Rel	4	nsubj	_	_
+4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	Meriri	Meriri	PROPN	propn	_	4	ccomp	_	_
+6	Baru	Baru	PROPN	propn	_	5	flat	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	Paiwedu	Paiwedu	NOUN	n	_	5	appos	_	_
+9	Pao	oga	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Sing|Person=1	10	nmod	_	_
+10	Baraedugume	Baraedugume	PROPN	propn	_	11	nmod	_	_
+11	mugatowyge	mugatowy	NOUN	x	Nomzr=Rel|Number=Plur	4	parataxis	_	_
+12	reo	reo	INTJ	intj	_	11	discourse	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
+14	Awy	awy	DET	dem	Deixis=Prox	18	dislocated	_	_
+15	gere	gere	ADV	adv	_	14	advmod	_	_
+16	icare	icare	ADV	adv	_	18	advmod	_	_
+17	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	18	nsubj	_	_
+18	tugeragu	tugeragu	VERB	v	Reflex=Yes	4	parataxis	_	_
+19	iage	ia	PRON	pron	Number=Plur|PronType=Ind	18	obl	_	_
+20	ji	ji	ADP	posp	Number=Sing|Person=3	18	obl	_	_
+21	pugeje	pugeje	ADV	adv	_	18	advmod	_	_
+22	,	,	PUNCT	punct	_	18	punct	_	_
+23	tumugato	tumugato	VERB	v	Reflex=Yes	18	obl	_	_
+24	pugeje	pugeje	ADV	adv	_	18	advmod	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
