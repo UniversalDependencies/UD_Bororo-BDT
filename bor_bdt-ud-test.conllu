@@ -305,7 +305,7 @@
 2	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-12
-# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure dure padure nono , nowy inodu renure ji gu ...
+# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure dure padyre nono , nowy inodu renure ji gu ...
 # text_por = Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí .....
 1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
 2	nowy	nowy	DET	dem	Deixis=Remt	3	det	_	_
@@ -349,7 +349,7 @@
 40	Ia	ia	DET	_	Definite=Ind|PronType=Art	41	det	_	_
 41	boe	boe	NOUN	n	_	43	nsubj	_	_
 42	aiarewy	aia	NOUN	n	Mood=Ind|Nomzr=Rel	41	nmod	_	_
-43	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	25	conj	_	_
+43	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	25	conj	_	_
 44	nono	nono	ADV	adv	Deixis=Med	43	advcl	_	_
 45	joru	joru	NOUN	n	Number=Sing	43	obl	_	_
 46	okwai	okwai	NOUN	n	_	45	case	_	_
@@ -365,7 +365,7 @@
 56	Oinore	oino	ADV	adv	Mood=Ind	59	dislocated	_	_
 57	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	nsubj	_	_
 58	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	dep	_	_
-59	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	43	parataxis	_	_
+59	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	43	parataxis	_	_
 60	nono	nono	ADV	adv	Deixis=Med	59	advcl	_	_
 61	,	,	PUNCT	punct	_	59	punct	_	_
 62	nowy	nowy	DET	dem	Deixis=Remt	63	det	_	_
@@ -376,7 +376,7 @@
 67	...	...	PUNCT	punct	_	63	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-13
-# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padure nono , nowy inodure renu re ji gu ...
+# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padyre nono , nowy inodure renu re ji gu ...
 # text_por = Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles  se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí
 1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
 2	nowy	nowy	DET	dem	Deixis=Remt	3	det	_	_
@@ -420,7 +420,7 @@
 40	Ia	ia	DET	_	Definite=Ind|PronType=Art	41	det	_	_
 41	boe	boe	NOUN	n	_	25	parataxis	_	_
 42	aiarewy	aia	NOUN	n	Nomzr=Rel	41	nmod	_	_
-43	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	41	xcomp	_	_
+43	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	41	xcomp	_	_
 44	nono	nono	ADV	adv	Deixis=Med	43	advmod	_	_
 45	joru	joru	NOUN	n	Number=Sing	43	obl	_	_
 46	okwai	okwai	ADP	posp	_	45	case	_	_
@@ -437,7 +437,7 @@
 57	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	nsubj	_	_
 58	,	,	PUNCT	punct	_	56	punct	_	_
 59	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	60	dep	_	_
-60	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	parataxis	_	_
+60	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	parataxis	_	_
 61	nono	nono	ADV	adv	Deixis=Med	60	advmod	_	_
 62	,	,	PUNCT	punct	_	60	punct	_	_
 63	nowy	nowy	DET	dem	Deixis=Remt	64	det	_	_
@@ -725,7 +725,7 @@
 58	!	!	ADP	punct	_	55	punct	_	_
 
 # sent_id = HMB-criacao_dos_homens-03
-# text = Ure tuiebu , mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emeardae reore: aora bokware , joku bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padure nono joru okwai: ekure , kujagure , core , kaworure . Oinore ure , dure padure nono , nowy inodu renure ji gu.. .
+# text = Ure tuiebu , mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emeardae reore: aora bokware , joku bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai: ekure , kujagure , core , kaworure . Oinore ure , dure padyre nono , nowy inodu renure ji gu.. .
 # text_port = Ele saiu, mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho, preto, azul. Assim que era, ele estava a
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
@@ -772,7 +772,7 @@
 43	Ia	ia	DET	_	Definite=Ind|PronType=Art	44	det	_	_
 44	boe	boe	NOUN	n	_	46	nsubj	_	_
 45	aiarewy	aia	NOUN	n	Nomzr=Rel	44	nmod	_	_
-46	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	29	parataxis	_	_
+46	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	29	parataxis	_	_
 47	nono	nono	ADV	adv	Deixis=Med	46	advmod	_	_
 48	joru	joru	NOUN	n	Number=Sing	46	obl	_	_
 49	okwai	_	PUNCT	punct	_	48	punct	_	_
@@ -789,7 +789,7 @@
 60	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	nsubj	_	_
 61	,	,	PUNCT	punct	_	59	punct	_	_
 62	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	63	nsubj	_	_
-63	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	parataxis	_	_
+63	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	parataxis	_	_
 64	nono	nono	ADV	adv	Deixis=Med	63	advmod	_	_
 65	,	,	PUNCT	punct	_	64	punct	_	_
 66	nowy	nowy	DET	dem	Deixis=Remt	67	nsubj	_	_
@@ -3047,7 +3047,7 @@
 32	pugeje	pugeje	ADV	adv	_	29	advmod	_	_
 
 # sent_id = CoqueiroAutobio-27.15
-# text = Utyre kuri je pobo joki , ika tabo , motor tabo - nowy ika padure kimo nono chácara keje , Cuiabá keje : pegagodyre
+# text = Utyre kuri je pobo joki , ika tabo , motor tabo - nowy ika padyre kimo nono chácara keje , Cuiabá keje : pegagodyre
 # text_eng = 
 # text_por = Partiu logo rio abaixo, num barco a motor (esse barco está ainda na Chácara, em Cuiabá. Está estragado)
 1	Utyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3064,7 +3064,7 @@
 12	-	-	PUNCT	punct	_	11	punct	_	_
 13	nowy	nowy	DET	dem	Deixis=Med	14	det	_	_
 14	ika	ika	NOUN	n	_	15	nsubj	_	_
-15	padure	padure	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
+15	padyre	padyre	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
 16	kimo	kimo	ADV	adv	_	17	advmod	_	_
 17	nono	nono	ADV	adv	_	15	advmod	_	_
 18	chácara	chácara	NOUN	n	_	15	obl	_	_
