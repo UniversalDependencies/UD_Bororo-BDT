@@ -1530,6 +1530,39 @@
 18	Iwagudu	Iwagudu	NOUN	n	_	15	appos	_	_
 19	Cobugiwy	Cobugiwy	NOUN	n	_	18	flat	_	_
 
+# sent_id = HMB-Os_Bororos-05
+# text = Pao Baraedugume mugatowy iere Butoregadu , Iwagudu Cobugiwy
+# text_port = O sucessor do nosso Pai Baraedugume chama-se Butoregadu (do clã das gralhas do lado de cima)
+1	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
+2	Baraedugume	Baraedugume	PROPN	n	_	3	nmod	_	_
+3	mugatowy	mugato	NOUN	n	Nomzr=Rel	4	nsubj	_	_
+4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	Butoregadu	Butoregadu	PROPN	n	_	4	ccomp	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	Iwagudu	Iwagudu	PROPN	propn	_	5	appos	_	_
+8	Cobugiwu	Cobugiwu	PROPN	propn	_	7	flat	_	_
+
+# sent_id = HMB-Os_Bororos-06
+# text = Pao Baraedugume mugatowy iere Kaborewy , Aroroedy Cebegiwy . Pao Baraedugume mugatowy iere Birimodu , Aroroedy Cebegiwy
+# text_port = O sucessor do nosso Pai Baraedugume chama-se Kaborewy (do clã das larvas, do lado de cima).
+1	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
+2	Baraedugume	Baraedugume	NOUN	n	_	3	nmod	_	_
+3	mugatowy	mugatowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	4	nsubj	_	_
+4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	Kaborewy	Kaborewy	PROPN	propn	_	4	ccomp	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	Aroroedy	Aroroedy	PROPN	propn	_	5	appos	_	_
+8	Cebegiwy	Cebegiwy	NOUN	n	_	7	flat	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+10	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	11	nmod	_	_
+11	Baraedugume	Baraedugume	PROPN	propn	_	12	nmod	_	_
+12	mugatowy	mugatowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	13	nsubj	_	_
+13	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	4	parataxis	_	_
+14	Birimodu	Birimodu	PROPN	propn	_	13	cc	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	Aroroedy	Aroroedy	PROPN	propn	_	14	appos	_	_
+17	Cebegiwy	Cebegiwy	NOUN	n	_	16	flat	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
