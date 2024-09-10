@@ -1990,6 +1990,46 @@
 66	.	,	PUNCT	punct	_	62	punct	_	_
 67	Oino	oino	ADV	adv	_	62	parataxis	_	_
 
+# sent_id = HMB-Primeira_Aldeia-03
+# text = Ure boecodydo pugeje . Ure barogwa kododydo pugeje . Makore toro pugeje . Akore Kiege kugure , taebu mato ! Tawoaduwo boe oto ji , taegarewo boe oto ji , tagogwagewo okureboe ji , tudureboe ji
+# text_port = Ele fez aniotecer e fez amanhcer de novo. Chamou novamente dizendo: - Passarinhos! Saiam para cá! Para brincar no espaço, pare se alegrarem no espaço, para comerem flores e frutas.
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
+2	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+4	.	,	PUNCT	punct	_	2	punct	_	_
+5	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
+6	barogwa	barogwa	NOUN	n	Number=Sing	7	obj	_	_
+7	kododydo	kodody	VERB	vt	Voice=Cau	2	conj	_	_
+8	pugeje	pugeje	ADV	adv	_	7	advmod	_	_
+9	.	,	PUNCT	punct	_	7	punct	_	_
+10	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+11	toro	toro	ADV	adv	Deixis=Remt	10	advmod	_	_
+12	pugeje	pugeje	ADV	adv	_	10	advmod	_	_
+13	.	,	PUNCT	punct	_	10	punct	_	_
+14	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	10	parataxis	_	_
+15	Kiege	Kiege	PROPN	propn	_	18	vocative	_	_
+16	kugure	kugu	NOUN	n	Mood=Ind	15	nmod	_	_
+17	,	;	PUNCT	punct	_	15	punct	_	_
+18	taebu	taebu	VERB	v	Number=Sing|Person=3	14	ccomp	_	_
+19	mato	mato	ADV	adv	_	18	advmod	_	_
+20	!	!	PUNCT	punct	_	18	punct	_	_
+21	Tawoaduwo	Tawoada	VERB	v	_	18	xcomp	_	_
+22	boe	boe	NOUN	n	_	23	nmod	_	_
+23	oto	oto	NOUN	n	Number=Sing	21	obl	_	_
+24	ji	ji	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	,	,	PUNCT	punct	_	21	punct	_	_
+26	taegarewo	aegarewo	NOUN	n	Number=Sing|Person=3|Reflex=Yes	21	conj	_	_
+27	boe	_	NOUN	n	_	28	nmod	_	_
+28	oto	oto	NOUN	n	_	26	obl	_	_
+29	ji	ji	ADP	posp	Number=Sing|Person=3	28	case	_	_
+30	,	,	PUNCT	punct	_	26	punct	_	_
+31	tagogwagewo	agogwagewo	NOUN	n	Number=Sing|Person=3|Reflex=Yes	21	conj	_	_
+32	okureboe	okureboe	NOUN	_	_	31	obl	_	_
+33	ji	ji	ADP	posp	Number=Sing|Person=3	32	conj	_	_
+34	,	,	PUNCT	punct	_	31	punct	_	_
+35	tudureboe	tudureboe	NOUN	n	_	21	obl	_	_
+36	ji	ji	ADP	posp	Number=Sing|Person=3	35	case	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
