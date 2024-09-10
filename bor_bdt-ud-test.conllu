@@ -1826,6 +1826,62 @@
 66	eie	e	PRON	n	Speech=Ind	65	obl	_	_
 67	reo	reo	ADP	posp	_	66	case	_	_
 
+# sent_id = HMB-Os_Bororos-13
+# text = Oinore Baraedugume maragodaere mare Pemo koiare ure rodino . Pemo koiare ure tumearudae pemegarewy , Pemo koiare ure tuiorydae pemegarewy , Pemo koiare ure tuwadary pemegarewy ure maky nowy ime ewogai , Baraedugume ai . Baraedugume koiare ure maky nowy pemegarewyge ime etai , duwyge eie reno , duwyge etagaru reno .
+# text_port = Essa foi obra de Baraedugume, mas foi Pemo que o fez agir assim. Pemo deu seu pensamento bom, seu bom saber e sua palavra boa a Baraedugume, para os homens. Baraedugume deu para esses homens bons, cujos nomes estão ai.
+1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
+2	Baraedugume	Baraedugume	PROPN	propn	_	3	nsubj	_	_
+3	maragodaere	maragodae	CCONJ	cconj	_	0	root	_	_
+4	mare	mare	CCONJ	cconj	_	8	cc	_	_
+5	Pemo	Pemo	PROPN	propn	_	8	obl	_	_
+6	koiare	koia	ADP	posp	Number=Sing|Person=3	5	case	_	_
+7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+8	ro	ro	VERB	v	_	3	conj	_	_
+9	oino	oino	ADV	adv	_	8	advmod	_	_
+10	.	,	PUNCT	punct	_	8	punct	_	_
+11	Pemo	Pemo	PROPN	propn	_	29	obl	_	_
+12	koiare	koia	ADP	posp	Number=Sing|Person=3	11	obl	_	_
+13	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	14	dep	_	_
+14	tumearudae	mearudae	NOUN	n	Number=Plur|Person=2|Reflex=Yes	29	obj	_	_
+15	pemegarewy	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	14	nmod	_	_
+16	,	,	PUNCT	punct	_	14	punct	_	_
+17	Pemo	Pemo	PROPN	propn	_	20	obl	_	_
+18	koiare	koia	ADP	posp	Number=Sing|Person=3	17	case	_	_
+19	ure	pron	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	dep	_	_
+20	tuiorydae	jorydae	NOUN	n	Number=Plur|Person=2|Reflex=Yes	14	conj	_	_
+21	pemegarewy	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	20	nmod	_	_
+22	,	,	PUNCT	punct	_	20	punct	_	_
+23	Pemo	Pemo	PROPN	propn	_	26	obl	_	_
+24	koiare	koia	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	ure	ure	PRON	bi	Mood=Ind|Number=Sing|Person=3	26	dep	_	_
+26	tuwadary	batary	NOUN	n	Number=Sing|Person=3|Reflex=Yes	20	conj	_	_
+27	pemegarewy	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	26	nmod	_	_
+28	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	29	nsubj	_	_
+29	maky	maky	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
+30	nowy	nowy	DET	dem	Deixis=Med	31	det	_	_
+31	ime	ime	NOUN	n	Number=Sing	29	obl	_	_
+32	ewogai	bogai	ADP	posp	Number=Plur|Person=3	31	case	_	_
+33	,	,	PUNCT	punct	_	31	punct	_	_
+34	Baraedugume	Baraedugume	PROPN	propn	_	29	iobj	_	_
+35	ai	ji	ADP	posp	Number=Sing|Person=2	34	case	_	_
+36	.	_	PUNCT	punct	_	34	punct	_	_
+37	Baraedugume	Baraedugume	PROPN	propn	_	40	obl	_	_
+38	koiare	koiare	ADP	posp	_	37	case	_	_
+39	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	40	nsubj	_	_
+40	maky	maky	VERB	v	Number[abs]=Sing|Person[asb]=3	29	parataxis	_	_
+41	nowy	nowy	DET	dem	Deixis=Med	42	det	_	_
+42	pemegarewyge	pemega	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	43	nmod	_	_
+43	ime	ime	NOUN	n	Number=Plur	40	obl	_	_
+44	etai	ai	ADP	posp	Number=Plur|Person=3	43	case	_	_
+45	,	.	PUNCT	punct	_	40	punct	_	_
+46	duwyge	duwy	PRON	pron	Number=Plur|PronType=Dem	47	nsubj	_	_
+47	eie	e	NOUN	n	Speech=Ind	40	conj	_	_
+48	reno	re	X	x	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes	47	dep	_	_
+49	,	;	PUNCT	punct	_	47	punct	_	_
+50	duwyge	du	PRON	pron	Nomzr=Rel|Number=Plur	51	dep	_	_
+51	etagaru	tagaru	VERB	posp	Number[subj]=Plur|Person[subj]=3	47	conj	_	_
+52	reno	reno	ADV	adv	_	51	advmod	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
