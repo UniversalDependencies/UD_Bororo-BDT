@@ -1625,7 +1625,7 @@
 # sent_id = HMB-Os_Bororos-09
 # text = Duwygere eiere Jerigi Otojiwy . O Cerae , Boro Cerae . Duwygere eiere Uiagudumaga , Bak Ec . Duwygere eiere Akaruio Bokodori , Bak Ec
 # text_port = Os quais se chamam Jerigi Otojiwy (do sub-clã dos socou do caracol Boro). Os quais se chamam Uiagudumaga ( do sub-clã do esp’rito Bakoro). Os quais se chamam Akaruio Bokodori (do sub-clã do esp’rito Bakoro)
-1	Duwygere	Du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	2	nsubj	_	_
+1	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	2	nsubj	_	_
 2	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	Jerigi	Jerigi	PROPN	pron	_	2	ccomp	_	_
 4	Otojiwy	Otojiwy	PROPN	pron	_	3	flat	_	_
@@ -1636,14 +1636,14 @@
 9	Boro	boro	PROPN	propn	_	6	conj	_	_
 10	Cerae	Cerae	PROPN	propn	_	9	flat	_	_
 11	.	.	PUNCT	punct	_	3	punct	_	_
-12	Duwygere	du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	13	nsubj	_	_
+12	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	13	nsubj	_	_
 13	eiere	ie	PRON	bi	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 14	Uiagudumaga	Uiagudumaga	NOUN	n	_	13	ccomp	_	_
 15	,	,	PUNCT	punct	_	14	punct	_	_
 16	Bak	Bak	PROPN	propn	_	14	appos	_	_
 17	Ec	Ec	PROPN	propn	_	16	flat	_	_
 18	,	,	PUNCT	punct	_	16	punct	_	_
-19	Duwygere	Du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	20	nsubj	_	_
+19	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	20	nsubj	_	_
 20	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 21	Akaruio	Akaruio	PROPN	propn	_	20	ccomp	_	_
 22	Bokodori	Bokodori	PROPN	propn	_	21	flat	_	_
@@ -1654,7 +1654,7 @@
 # sent_id = HMB-Os_Bororos-10
 # text = Duwygere eiere Kaigu, Bok Ec Cob . Duwygere eiere Imorio . Duwygere eiere Barogo Bororo , Bok Ec Boiad . Duwygere eiere Barameri , Barameri Pijiwu , Bok Ec Boiadowu . Duwygere eiere Poruiepa , Bok Ec . Duwygere eiere Aromerere , Aromere Ekenawy , Bok Ec Ceb . Duwygere eiere Inokuri , Bok Ec Ceb
 # text_port = Os quais se chamam Kaigu (do clã do tatu canastra, do lado de cima). Os quais se chamam Imorio (do clã do tatu-canastra, do lado de cima) Os quais se chamam Barogo Bororo (clã do tatu-canastra, do meio) Os quais se chamam Poruiepa (do clã do tatu-canastra) Os quais se chamam Aromerere (do clã do tatu-canastra, do lado de baixo) Os quais se chamam Inokuri (do clão dos tatu canastra, do lado de baixo).
-1	Duwygere	du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	2	nsubj	_	_
+1	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	2	nsubj	_	_
 2	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	_	_	_	_
 3	Kaigu	Kaigu	PROPN	propn	_	2	ccomp	_	_
 4	Bok	Bok	PROPN	propn	_	3	flat	_	_
@@ -1747,13 +1747,84 @@
 33	Kie	_	PROPN	propn	_	30	appos	_	_
 34	Ceb	Ceb	PROPN	propn	_	33	flat	_	_
 35	.	.	PUNCT	punct	_	33	punct	_	_
-36	Duwygere	Du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	37	nsubj	_	_
+36	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	37	nsubj	_	_
 37	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 38	Oca	Oca	PROPN	propn	_	37	ccomp	_	_
 39	Kudurewy	Kudurewy	PROPN	propn	_	38	flat	_	_
 40	,	,	PUNCT	punct	_	38	punct	_	_
 41	Bad	Bad	PROPN	propn	_	38	appos	_	_
 42	Cob	Cob	PROPN	propn	_	41	flat	_	_
+
+# sent_id = HMB-Os_Bororos-12
+# text =  Duwygere eiere Atugorewy , Bad Boiadowu . Duwygere eiere Boro Erudu , Bad Cob . Duwygere eiere Kaiaceba , Bad Boiadowu . Duwygere eiere Uwae Epa , Bad Boiadowu . Duwygere eiere  Ewiriga , Bad Cob . Duwygere eiere BakoroAkaru ,Bad Boiadowu . Duwygere eiere Bakoro Kudu , Bad Boiadowu . Duwygere eiere Meriri Upo . Duwygere eiere Kuiabaru . Ca , Eregodajiwyge eie reo
+# text_port = Os quais se chamam Oca Kudurewy (do clã dos chefes , do lado de cima) Os quais se chamam Atugorewy Do clã dos chefes, do meio). Os quais se chamam Boro Erudu ( do clã dos chefes, do lado de cima). Os quais se chamam Kaiaceba (do clã dos chefes, do meio). Os quais se chamam Uwae Epa (do clã dos chefes, do meio). Os quais se chamam Ewiriga (do clã dos chefes, do lado de cima). Os quais se chamam Bakoro Akaru (do clã dos chefes, do meio). Os quais se chamamBakoro Kudu (do clã dos chefes, do meio). Os quais se chamam Meri Upo Os quais se chamam Kuiabaru Eis, estes são os que vieram depois daqueles
+1	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	2	nsubj	_	_
+2	eiere	_	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	Atugorewy	atugorewy	PROPN	propn	_	2	ccomp	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	Bad	Bad	NOUN	n	_	3	appos	_	_
+6	Boiadowu	Boiadowu	NOUN	n	_	5	flat	_	_
+7	.	.	PUNCT	punct	_	5	punct	_	_
+8	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	9	nsubj	_	_
+9	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+10	Boro	Boro	PROPN	propn	_	9	ccomp	_	_
+11	Erudu	Erudu	PROPN	propn	_	10	flat	_	_
+12	.	,	PUNCT	punct	_	10	punct	_	_
+13	Bad	Bad	NOUN	n	_	10	appos	_	_
+14	Cob	Cob	NOUN	n	_	13	flat	_	_
+15	.	,	PUNCT	punct	_	13	punct	_	_
+16	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	17	nsubj	_	_
+17	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+18	Kaiaceba	Kaiaceba	PROPN	pron	_	17	ccomp	_	_
+19	.	,	PUNCT	punct	_	18	punct	_	_
+20	Bad	Bad	NOUN	n	_	18	appos	_	_
+21	Boiadowu	Boiadowu	PUNCT	punct	_	20	punct	_	_
+22	.	,	PUNCT	punct	_	20	punct	_	_
+23	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	24	nsubj	_	_
+24	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+25	Uwae	_	PROPN	propn	_	24	ccomp	_	_
+26	Epa	Epa	PROPN	propn	_	25	flat	_	_
+27	,	,	PUNCT	punct	_	25	punct	_	_
+28	Bad	Bad	PROPN	n	_	25	appos	_	_
+29	Boiadowu	Boiadowu	PROPN	n	_	28	flat	_	_
+30	.	.	PUNCT	punct	_	28	punct	_	_
+31	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	nsubj	_	_
+32	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+33	Ewiriga	Ewiriga	PROPN	n	Number=Sing|Number[psor]=Sing|Person=1	32	ccomp	_	_
+34	,	,	PUNCT	punct	_	33	punct	_	_
+35	Bad	Bad	PROPN	n	_	33	appos	_	_
+36	Cob	Cob	PROPN	punct	_	35	flat	_	_
+37	,	,	PUNCT	punct	_	35	punct	_	_
+38	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	39	nsubj	_	_
+39	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+40	Bakoro	Bakoro	PROPN	propn	_	39	ccomp	_	_
+41	Akaru	Akaru	PROPN	n	_	40	flat	_	_
+42	,	,	PUNCT	punct	_	40	punct	_	_
+43	Bad	Bad	NOUN	n	_	40	appos	_	_
+44	Boiadowu	Boiadowu	PROPN	punct	_	43	flat	_	_
+45	.	.	PUNCT	punct	_	43	punct	_	_
+46	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	47	nsubj	_	_
+47	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+48	Bakoro	Bakoro	PROPN	propn	_	47	ccomp	_	_
+49	Kudu	Kudu	PROPN	propn	_	48	flat	_	_
+50	,	,	PUNCT	punct	_	48	punct	_	_
+51	Bad	Bad	NOUN	n	_	48	appos	_	_
+52	Boiadowu	Boiadowu	NOUN	n	_	51	flat	_	_
+53	.	.	PUNCT	punct	_	51	punct	_	_
+54	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	55	nsubj	_	_
+55	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+56	Meriri	Meriri	PROPN	propn	_	55	ccomp	_	_
+57	Upo	Upo	PROPN	propn	_	56	flat	_	_
+58	.	.	PUNCT	punct	_	56	punct	_	_
+59	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	60	nsubj	_	_
+60	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+61	Kuiabaru	Kuiabaru	VERB	v	_	60	ccomp	_	_
+62	.	.	PUNCT	punct	_	60	punct	_	_
+63	Ca	ca	INTJ	prcl	_	65	discourse	_	_
+64	,	,	PUNCT	punct	_	63	punct	_	_
+65	Eregodajiwyge	regodaji	NOUN	pron	Number=Plur|Person=3|PronType=Prs	2	parataxis	_	_
+66	eie	e	PRON	n	Speech=Ind	65	obl	_	_
+67	reo	reo	ADP	posp	_	66	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
