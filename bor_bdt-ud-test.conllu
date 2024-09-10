@@ -1709,6 +1709,52 @@
 53	Ec	Ec	PROPN	propn	_	52	flat	_	_
 54	Ceb	Ceb	PROPN	propn	_	53	flat	_	_
 
+# sent_id = HMB-Os_Bororos-11
+# text = Duwygere eiere Torobaru , Kie Cob . Duwygere eiere Badojeba Kudoro (Kiedy Boiadowu) . Duwugere eiere Ikiedu . Duwygere eiere Meredy , Ki Ceb . Duwygere eiere Ki Bakororo , Kie Ceb . Duwygere eiere Oca Kudurewy , Bad Cob
+# text_port = Os quais se chamam Torobaru (do clã das antas, do lado de cima) Os quais se chamam Badojeba Kudoro (do clã das antas, do meio) Os quais se chamam Ikiedu Os quais se chamam Meredy (do clã das antas, do lado de baixo) Os quais se chamam Ki Bakororo (do clã das antas, do lado de baixo)
+1	Duwygere	du	NOUN	n	_	2	nsubj	_	_
+2	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	Torobaru	Torobaru	PROPN	propn	Number=Plur|Person=1	2	ccomp	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	Kie	Kie	PROPN	propn	_	3	appos	_	_
+6	Cob	Cob	PROPN	propn	_	5	flat	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	Duwygere	du	NOUN	n	_	9	nsubj	_	_
+9	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+10	Torobaru	Torobaru	PROPN	propn	Number=Plur|Person=1	9	ccomp	_	_
+11	Badojeba	Badojeba	PROPN	propn	_	10	flat	_	_
+12	Kudoro	Kudoro	PROPN	propn	_	11	flat	_	_
+13	,	,	PUNCT	punct	_	10	punct	_	_
+14	Kiedy	Kiedy	PROPN	v	Nomzr=Rel	10	appos	_	_
+15	Boiadowu	Boiadowu	NOUN	n	_	14	flat	_	_
+16	.	.	PUNCT	punct	_	14	punct	_	_
+17	Duwygere	duwygere	NOUN	n	_	18	nsubj	_	_
+18	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+19	Ikiedu	ikiedy	PROPN	propn	Number=Sing|Number[psor]=Sing|Person=1	18	ccomp	_	_
+20	.	.	PUNCT	punct	_	18	punct	_	_
+21	Duwygere	duwygere	NOUN	n	_	22	nsubj	_	_
+22	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+23	Meredy	Mere	PROPN	v	Nomzr=Rel	22	ccomp	_	_
+24	,	,	PUNCT	punct	_	23	punct	_	_
+25	Ki	Ki	PROPN	propn	_	23	appos	_	_
+26	Ceb	Ceb	PROPN	propn	_	25	flat	_	_
+27	.	.	PUNCT	punct	_	25	punct	_	_
+28	Duwygere	Duwyge	ADV	adv	Mood=Ind	29	nsubj	_	_
+29	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+30	Ki	ki	PROPN	propn	_	29	ccomp	_	_
+31	Bakororo	Bakororo	PROPN	propn	_	30	flat	_	_
+32	,	,	PUNCT	punct	_	30	punct	_	_
+33	Kie	_	PROPN	propn	_	30	appos	_	_
+34	Ceb	Ceb	PROPN	propn	_	33	flat	_	_
+35	.	.	PUNCT	punct	_	33	punct	_	_
+36	Duwygere	Du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	37	nsubj	_	_
+37	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+38	Oca	Oca	PROPN	propn	_	37	ccomp	_	_
+39	Kudurewy	Kudurewy	PROPN	propn	_	38	flat	_	_
+40	,	,	PUNCT	punct	_	38	punct	_	_
+41	Bad	Bad	PROPN	propn	_	38	appos	_	_
+42	Cob	Cob	PROPN	propn	_	41	flat	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
