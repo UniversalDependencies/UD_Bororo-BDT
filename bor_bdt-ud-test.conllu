@@ -2030,6 +2030,68 @@
 35	tudureboe	tudureboe	NOUN	n	_	21	obl	_	_
 36	ji	ji	ADP	posp	Number=Sing|Person=3	35	case	_	_
 
+# sent_id = HMB-Primeira_Aldeia-04
+# text = A ! Ere tuiebu rugadu ... ja ... Toro boeto rugadu ! Ure etudo toro boeto . Etaregodyre tuiabagi toro nowy tunu pa kae pugeje . A ! Nowy enupare iere Tori bai otorewy . Nowy tadare enudare , nowy oto jire enudare . Koiare ure towyje , ure nowy tori towyje . Nowy bai onajire torire tudowyje
+# text_port = Ah! Eles saíram mesmo! E foram lá para o campo! Ele as mandou para o campo. Depois elas voltaram de novo para os seu lugar de dormir. O lugar delas dormirem chamava-se Pedra parecida com o interior de uma casa. Ali dentro elas dormiram. Foi ele quem fez essa pedra. Foi na frente da aldeia que surgiu a pedra
+1	A	a	INTJ	intj	_	4	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
+4	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
+5	rugadu	rugadu	ADV	adv	_	4	punct	_	_
+6	...	...	PUNCT	punct	_	4	punct	_	_
+7	ja	ja	INTJ	_	_	4	discourse	_	_
+8	...	...	PUNCT	punct	_	7	punct	_	_
+9	Toro	toro	ADV	propn	_	10	advmod	_	_
+10	boeto	boeto	VERB	v	_	4	parataxis	_	_
+11	rugadu	rugadu	ADV	adv	_	10	advmod	_	_
+12	!	!	PUNCT	punct	_	10	punct	_	_
+13	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	14	nsubj	_	_
+14	etudo	_	VERB	v	_	4	parataxis	_	_
+15	toro	toro	ADV	adv	Deixis=Remt	14	advmod	_	_
+16	boeto	boeto	VERB	v	_	14	punct	_	_
+17	.	,	PUNCT	punct	_	14	punct	_	_
+18	Etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
+19	tuiabagi	tuiabagi	PRON	pron	Number=Plur|Person=2|PronType=Prs	18	obl	_	_
+20	toro	toro	ADV	adv	Deixis=Remt	18	advmod	_	_
+21	nowy	nowy	DET	dem	Deixis=Med	22	det	_	_
+22	tunu	tunu	NOUN	v	_	23	nmod	_	_
+23	pa	pa	NOUN	n	_	18	obl	_	_
+24	kae	kae	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	pugeje	pugeje	ADV	adv	_	18	advmod	_	_
+26	.	,	PUNCT	punct	_	18	punct	_	_
+27	A	a	INTJ	intj	_	31	discourse	_	_
+28	!	!	PUNCT	punct	_	27	punct	_	_
+29	Nowy	nowy	DET	dem	Deixis=Med	30	det	_	_
+30	enupare	enupare	NOUN	n	_	31	nsubj	_	_
+31	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	18	parataxis	_	_
+32	Tori	Tori	NOUN	propn	_	31	ccomp	_	_
+33	bai	bai	NOUN	n	_	34	nmod	_	_
+34	otorewy	oto	NOUN	n	Mood=Ind|Nomzr=Rel	32	nmod	_	_
+35	.	.	PUNCT	punct	_	31	punct	_	_
+36	Nowy	nowy	DET	dem	Deixis=Med	37	det	_	_
+37	tadare	tada	NOUN	posp	Mood=Ind	38	obl	_	_
+38	enudare	enudare	NOUN	n	_	31	parataxis	_	_
+39	,	,	PUNCT	punct	_	38	punct	_	_
+40	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	41	det	_	_
+41	oto	oto	NOUN	n	_	43	obl	_	_
+42	jire	ji	ADP	posp	Mood=Ind|Number=Sing|Person=3	41	case	_	_
+43	enudare	enudare	VERB	n	_	38	conj	_	_
+44	.	.	PUNCT	punct	_	43	punct	_	_
+45	Koiare	koia	ADV	posp	Mood=Ind	47	advmod	_	_
+46	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	47	nsubj	_	_
+47	towyje	towyje	VERB	vt	Number=Sing|Person=3	38	parataxis	_	_
+48	,	.	PUNCT	punct	_	47	punct	_	_
+49	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	52	nsubj	_	_
+50	nowy	nowy	DET	dem	_	51	det	_	_
+51	tori	tori	NOUN	n	_	52	obj	_	_
+52	towyje	towyje	VERB	vt	Number=Sing|Person=3	47	parataxis	_	_
+53	.	.	PUNCT	punct	_	52	punct	_	_
+54	Nowy	nowy	DET	dem	Deixis=Med	55	det	_	_
+55	bai	bai	NOUN	n	_	58	nsubj	_	_
+56	onajire	onaji	NOUN	n	Mood=Ind	58	nsubj	_	_
+57	torire	torire	NOUN	n	_	58	obj	_	_
+58	tudowyje	tudowyje	VERB	vt	Number=Sing|Person=3	52	parataxis	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
