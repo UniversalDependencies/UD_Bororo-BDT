@@ -1369,7 +1369,7 @@
 2	icare	icare	ADV	adv	_	7	advmod	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
 4	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	6	dep	_	_
-5	Baraedugume	Baraedugume	PROPN	n	_	4	appos	_	_
+5	Baraedugume	Baraedugume	PROPN	propn	_	4	appos	_	_
 6	udo	u	PRON	bi	Number=Sing|Person=3|Voice=Cau	7	obj	_	_
 7	tudugu	tududugu	VERB	v	Reflex=Yes	0	root	_	_
 8	tuguda	tuguda	ADP	posp	_	7	advmod	_	_
@@ -1517,7 +1517,7 @@
 5	Aroia	arioa	PROPN	propn	_	4	ccomp	_	_
 6	Kurirewy	Kurirewy	PROPN	propn	_	5	flat	_	_
 7	,	,	PUNCT	punct	propn	5	punct	_	_
-8	Iwagudu	Iwagudu	PROPN	n	_	5	appos	_	_
+8	Iwagudu	Iwagudu	PROPN	propn	_	5	appos	_	_
 9	Cebegiwy	Cebegiwy	PROPN	propn	_	8	flat	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 11	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	12	nmod	_	_
@@ -1534,10 +1534,10 @@
 # text = Pao Baraedugume mugatowy iere Butoregadu , Iwagudu Cobugiwy
 # text_port = O sucessor do nosso Pai Baraedugume chama-se Butoregadu (do clã das gralhas do lado de cima)
 1	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
-2	Baraedugume	Baraedugume	PROPN	n	_	3	nmod	_	_
+2	Baraedugume	Baraedugume	PROPN	propn	_	3	nmod	_	_
 3	mugatowy	mugato	NOUN	n	Nomzr=Rel	4	nsubj	_	_
 4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-5	Butoregadu	Butoregadu	PROPN	n	_	4	ccomp	_	_
+5	Butoregadu	Butoregadu	PROPN	propn	_	4	ccomp	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	Iwagudu	Iwagudu	PROPN	propn	_	5	appos	_	_
 8	Cobugiwu	Cobugiwu	PROPN	propn	_	7	flat	_	_
@@ -1650,6 +1650,64 @@
 23	,	,	PUNCT	punct	_	21	punct	_	_
 24	Bak	Bak	PROPN	propn	_	21	appos	_	_
 25	Ec	Ec	PROPN	propn	_	24	flat	_	_
+
+# sent_id = HMB-Os_Bororos-10
+# text = Duwygere eiere Kaigu, Bok Ec Cob . Duwygere eiere Imorio . Duwygere eiere Barogo Bororo , Bok Ec Boiad . Duwygere eiere Barameri , Barameri Pijiwu , Bok Ec Boiadowu . Duwygere eiere Poruiepa , Bok Ec . Duwygere eiere Aromerere , Aromere Ekenawy , Bok Ec Ceb . Duwygere eiere Inokuri , Bok Ec Ceb
+# text_port = Os quais se chamam Kaigu (do clã do tatu canastra, do lado de cima). Os quais se chamam Imorio (do clã do tatu-canastra, do lado de cima) Os quais se chamam Barogo Bororo (clã do tatu-canastra, do meio) Os quais se chamam Poruiepa (do clã do tatu-canastra) Os quais se chamam Aromerere (do clã do tatu-canastra, do lado de baixo) Os quais se chamam Inokuri (do clão dos tatu canastra, do lado de baixo).
+1	Duwygere	du	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	2	nsubj	_	_
+2	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	_	_	_	_
+3	Kaigu	Kaigu	PROPN	propn	_	2	ccomp	_	_
+4	Bok	Bok	PROPN	propn	_	3	flat	_	_
+5	.	,	PUNCT	punct	_	4	punct	_	_
+6	Ec	Ec	PROPN	propn	_	3	appos	_	_
+7	Cob	Cob	PROPN	propn	_	6	flat	_	_
+8	.	,	PUNCT	punct	_	6	punct	_	_
+9	Duwygere	du	NOUN	n	_	10	nsubj	_	_
+10	eiere	ie	NOUN	n	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+11	Imorio	Imorio	PROPN	propn	_	10	ccomp	_	_
+12	.	,	PUNCT	punct	_	11	punct	_	_
+13	Duwygere	Duwyge	ADV	adv	Mood=Ind	14	nsubj	_	_
+14	eiere	ie	PRON	bi	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+15	Barogo	Barogo	PROPN	propn	_	14	ccomp	_	_
+16	Bororo	Bororo	PROPN	propn	_	15	flat	_	_
+17	,	,	PUNCT	punct	_	15	punct	_	_
+18	Bok	Bok	PROPN	propn	_	15	appos	_	_
+19	Ec	Ec	PROPN	propn	_	18	flat	_	_
+20	Boiad	Boiad	PROPN	propn	_	19	flat	_	_
+21	.	,	PUNCT	punct	_	18	punct	_	_
+22	Duwygere	duwygere	NOUN	n	_	23	nsubj	_	_
+23	eiere	ie	NOUN	n	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+24	Barameri	Barameri	PROPN	propn	_	23	ccomp	_	_
+25	Barameri	Barameri	PROPN	propn	_	24	appos	_	_
+26	Pijiwy	_	PUNCT	punct	_	25	nmod	_	_
+27	Bok	Bok	PROPN	propn	_	26	appos	_	_
+28	Ec	Ec	PROPN	propn	_	27	flat	_	_
+29	Boiadowy	Boiadowy	PROPN	propn	_	26	nmod	_	_
+30	.	,	PUNCT	punct	_	29	punct	_	_
+31	Duwygere	duwygere	NOUN	n	_	32	nsubj	_	_
+32	eiere	ie	NOUN	n	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+33	Poruiepa	Poruiepa	PROPN	propn	_	32	ccomp	_	_
+34	,	,	PUNCT	punct	_	33	punct	_	_
+35	Bok	Bok	PROPN	propn	_	33	appos	_	_
+36	Ec	Ec	PROPN	propn	_	35	flat	_	_
+37	.	,	PUNCT	punct	_	35	punct	_	_
+38	Duwygere	duwygere	NOUN	n	_	39	nsubj	_	_
+39	eiere	ie	NOUN	n	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+40	Aromerere	romere	PROPN	v	Mood=Ind|Number=Sing|Person=2	39	ccomp	_	_
+41	Aromere	Arome	PROPN	adv	Mood=Ind	40	appos	_	_
+42	Ekenawy	Ekenawy	PROPN	propn	_	41	nmod	_	_
+43	.	.	PUNCT	punct	_	41	punct	_	_
+44	Bok	Bok	PROPN	propn	_	41	conj	_	_
+45	Ec	Ec	PROPN	propn	_	44	flat	_	_
+46	Ceb	Ceb	PROPN	propn	_	45	flat	_	_
+47	.	.	PUNCT	punct	_	41	punct	_	_
+48	Duwygere	duwygere	NOUN	n	_	49	nsubj	_	_
+49	eiere	ie	NOUN	n	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+50	Inokuri	nokuri	NOUN	n	Number=Plur|Person=1	49	ccomp	_	_
+51	,	,	PUNCT	punct	_	50	punct	_	_
+52	Bok	Bok	PROPN	propn	_	50	appos	_	_
+53	Ec	Ec	PROPN	propn	_	52	flat	_	_
+54	Ceb	Ceb	PROPN	propn	_	53	flat	_	_
 
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
