@@ -1919,6 +1919,77 @@
 32	tuiamedy	tuiamedy	NOUN	n	_	28	obl	_	_
 33	tabo	apo	ADP	posp	Number=Sing|Person=3	32	case	_	_
 
+# sent_id = HMB-Primeira_Aldeia-02
+# text = Nowy Anabo Bororo bukejere icare ure barogwa kododydo pugeje , awy kiege kugure ewogai pugeje . Icare akore Piroje ! Piroje ! Egogodyre . Akore Taebu ! Tagogwagewo okureboeji . Icare ere tuiebu . Emagare rugadu . Nowy boeto jiwyge eiekare , nowy boiwure icare eiegidure . Dure eiere oinono: Piroje , Piroje . Mare boenure emage . Ure boedo emage boi pugeje . Oino
+# text_port = Aí na aldeia de Anabo ele fez amanhecer novamente para os passarinhos Aí ele disse: Andorinhas! Andorinhas! - Saiam! Para comer frutas. Então elas saíram. Eram muitas mesmo. As primeiras não tinham nome. As últimas tinham. Elas se chamavam "Andorinhas". Mas elas eram gente. Ultimamente ele as tinha convertido em gente.
+1	Nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
+2	Anabo	anabo	VERB	v	Number=Plur|Person=3|Voice=Cau	3	nmod	_	_
+3	Bororo	Bororo	PROPN	propn	_	8	obl	_	_
+4	bukejere	bukeje	ADP	posp	Mood=Ind|Number=Sing|Person=3	3	advmod	_	_
+5	icare	icare	ADV	adv	_	8	advmod	_	_
+6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+7	barogwa	barogwa	NOUN	n	Number=Sing	8	obj	_	_
+8	kododydo	kodody	VERB	vt	Voice=Cau	0	root	_	_
+9	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
+10	,	.	PUNCT	punct	_	8	punct	_	_
+11	awy	awy	DET	dem	_	12	det	_	_
+12	kiege	kiege	NOUN	n	_	8	obl	_	_
+13	kugure	kugure	NOUN	n	_	12	nmod	_	_
+14	ewogai	bogai	ADP	posp	Number=Plur|Person=3	12	case	_	_
+15	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
+16	.	,	PUNCT	punct	_	8	punct	_	_
+17	Icare	_	ADV	adv	_	18	advmod	_	_
+18	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	8	parataxis	_	_
+19	Piroje	Piroje	VERB	vt	Number=Sing|Person=3	23	vocative	_	_
+20	!	!	PUNCT	punct	_	19	punct	_	_
+21	Piroje	Piroje	VERB	vt	Number=Sing|Person=3	19	conj	_	_
+22	!	!	PUNCT	punct	_	21	punct	_	_
+23	Egogodyre	Egogody	VERB	v	Mood=Ind|Number=Sing|Person=3	18	ccomp	_	_
+24	.	.	PUNCT	punct	_	23	punct	_	_
+25	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	8	parataxis	_	_
+26	Taebu	Taebu	PROPN	propn	_	25	ccomp	_	_
+27	!	!	PUNCT	punct	_	26	punct	_	_
+28	Tagogwagewo	gogwage	VERB	v	Mood=Sub|Number=Plur|Person=2	26	xcomp	_	_
+29	okureboe	okureboeji	NOUN	_	_	28	obl	_	_
+30	ji	ji	ADP	posp	Number=Sing|Person=3	29	case	_	_
+31	.	,	PUNCT	punct	_	28	punct	_	_
+32	Icare	icare	ADV	adv	_	34	advmod	_	_
+33	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	34	nsubj	_	_
+34	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	8	parataxis	_	_
+35	.	_	PUNCT	punct	_	34	punct	_	_
+36	Emagare	maka	VERB	v	Mood=Ind|Number=Plur|Person=3	34	conj	_	_
+37	rugadu	rugadu	ADV	adv	_	36	advmod	_	_
+38	.	,	PUNCT	punct	_	36	punct	_	_
+39	Nowy	nowy	DET	dem	Deixis=Med	41	det	_	_
+40	boeto	boeto	VERB	v	_	41	nmod	_	_
+41	jiwyge	ji	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	42	nsubj	_	_
+42	eiekare	joie	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	34	conj	_	_
+43	,	,	PUNCT	punct	_	42	punct	_	_
+44	nowy	nowy	DET	dem	Deixis=Med	45	det	_	_
+45	boiwure	_	NOUN	n	Mood=Ind	47	nsubj	_	_
+46	icare	icare	ADV	adv	_	47	advmod	_	_
+47	eiegidure	iegidu	VERB	v	Mood=Ind|Number=Plur|Person=3	34	conj	_	_
+48	.	.	PUNCT	punct	_	47	punct	_	_
+49	Dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	50	nsubj	_	_
+50	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	34	conj	_	_
+51	oinono	oinono	ADV	n	_	50	advmod	_	SpaceAfter=No
+52	:	:	PUNCT	punct	_	50	punct	_	_
+53	Piroje	Piroje	VERB	vt	Number=Sing|Person=3	50	ccomp	_	_
+54	,	,	PUNCT	punct	_	53	punct	_	_
+55	Piroje	Piroje	VERB	vt	Number=Sing|Person=3	53	conj	_	_
+56	.	.	PUNCT	punct	_	55	punct	_	_
+57	Mare	mare	CCONJ	cconj	ConjType=Disj	58	cc	_	_
+58	boenure	boe	VERB	n	Aspect=Prog|Mood=Ind	50	conj	_	_
+59	emage	emage	PRON	pron	Number=Plur|Person=3|PronType=Prs	58	nsubj	_	_
+60	.	_	PUNCT	punct	_	58	punct	_	_
+61	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	62	nsubj	_	_
+62	boedo	boe	VERB	v	Voice=Cau	58	parataxis	_	_
+63	emage	emage	PRON	pron	Number=Plur|Person=3|PronType=Prs	62	obj	_	_
+64	boi	_	ADV	n	_	62	advmod	_	_
+65	pugeje	_	ADV	adv	_	62	advmod	_	_
+66	.	,	PUNCT	punct	_	62	punct	_	_
+67	Oino	oino	ADV	adv	_	62	parataxis	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
