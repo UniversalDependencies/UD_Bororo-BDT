@@ -1882,6 +1882,43 @@
 51	etagaru	tagaru	VERB	posp	Number[subj]=Plur|Person[subj]=3	47	conj	_	_
 52	reno	reno	ADV	adv	_	51	advmod	_	_
 
+# sent_id = HMB-Primeira_Aldeia-01
+# text = Ure nowy ekerogu maky ty etai . Ure etudo . Ekodure kuri , nowy Bakurebo okwato , Anabo Bororo kae . Icare eedure Anabo Bororo keje tuiamedy tabo .
+# text_port = Quando ele (Pemo) deu os alimentos para os Bororo, eles foram embora. Ele fez que eles viajassem. Dirigiram-se para a margem do rio Bakurebo, para a aldeia de Anabo Bororo. Então ficaram na aldeia Anabo Bororo todos juntos
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+2	nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
+3	ekerogu	kerogu	NOUN	n	Number=Plur|Person=3	4	obj	_	_
+4	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
+5	ty	_	ADV	adv	_	4	advmod	_	_
+6	etai	ai	ADP	posp	Number=Plur|Person=3	4	obl	_	_
+7	.	,	PUNCT	punct	_	4	punct	_	_
+8	Dytabo	dytabo	SCONJ	sconj	_	10	mark	_	_
+9	icare	icare	ADV	adv	_	10	advmod	_	_
+10	eture	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	4	advcl	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
+12	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	13	nsubj	_	_
+13	etudo	_	VERB	v	_	4	parataxis	_	_
+14	.	.	PUNCT	punct	_	13	punct	_	_
+15	Ekodure	kodu	VERB	v	Number=Plur|Person=3	13	parataxis	_	_
+16	kuri	kuri	ADV	adv	_	15	advmod	_	_
+17	,	,	PUNCT	punct	_	15	punct	_	_
+18	nowy	nowy	DET	dem	Deixis=Med	19	det	_	_
+19	Bakurebo	Bakurebo	PRON	_	_	20	nmod	_	_
+20	okwa	okwa	NOUN	n	_	15	obl	_	_
+21	to	to	ADV	adv	_	20	case	_	_
+22	,	,	PUNCT	punct	_	20	punct	_	_
+23	Anabo	anapo	NOUN	posp	_	24	nmod	_	_
+24	Bororo	Bororo	PROPN	propn	_	22	obl	_	_
+25	kae	kae	ADP	posp	_	24	obl	_	_
+26	.	.	PUNCT	punct	_	24	punct	_	_
+27	Icare	_	ADV	adv	_	28	advmod	_	_
+28	eedure	_	VERB	v	_	15	parataxis	_	_
+29	Anabo	Anabo	NOUN	n	_	30	nmod	_	_
+30	Bororo	bororo	PROPN	propn	_	28	obl	_	_
+31	keje	keje	ADP	posp	_	30	case	_	_
+32	tuiamedy	tuiamedy	NOUN	n	_	28	obl	_	_
+33	tabo	apo	ADP	posp	Number=Sing|Person=3	32	case	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
