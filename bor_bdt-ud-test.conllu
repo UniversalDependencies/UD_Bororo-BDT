@@ -2093,7 +2093,7 @@
 58	tudowyje	tudowyje	VERB	vt	Number=Sing|Person=3	52	parataxis	_	_
 
 # sent_id = HMB-Primeira_Aldeia-05
-# text = Boeco jire igurure tudowyje . Boeco jire boebytyre tudowyje . Pobore boe eerydykare ui tudowyjeduji
+# text = Boeco jire igurure tudowyje . Boeco jire boebytyre tudowyje . Pobore boe eerydykare ui tudowyjedy ji
 # text_port = As plantas e o capim foram feitas de noite. Quanto à água ninguém sabe quando ela foi feita.
 1	Boeco	boeco	NOUN	n	_	4	obl	_	_
 2	jire	ji	ADP	posp	Mood=Ind|Number=Sing|Person=3	1	case	_	_
@@ -2107,8 +2107,9 @@
 10	Pobore	pobore	NOUN	n	Mood=Ind	12	obl	_	_
 11	boe	boe	NOUN	n	_	12	nsubj	_	_
 12	eerydykare	_	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	4	parataxis	_	_
-13	ui	_	ADP	_	_	12	case	_	_
-14	tudowyjeduji	tudowyjeduji	X	x	_	12	dep	_	_
+13	ui	ji	ADP	posp	_	12	case	_	_
+14	tudowyjedy	towyje	VERB	v	Reflex=Yes|Voice=Pass	12	dep	_	_
+14	ji	ji	ADP	posp	Number=Sing|Person=3	14	obl	_	_
 
 # sent_id = HMB-Primeira_Aldeia-06
 # text = Barogwa kododure Pemo apo pobo keje rugadu. Unudure nowy pobo tada, merure nowy pobo ao ji. Kodire nowy Pao Pemo apore nowy pobo boture boeto ji . Awy baru, awy moto, awy itura, awy kiaorewy, awy ipogurutoru jamedy boe otodaire pobo kodure Pao apo. Ca! Oino.
