@@ -2094,7 +2094,7 @@
 
 # sent_id = HMB-Primeira_Aldeia-05
 # text = Boeco jire igurure tudowyje . Boeco jire boebytyre tudowyje . Pobore boe eerydykare ui tudowyjeduji
-# text_port = As plantas e o capim foram feitas de noite.
+# text_port = As plantas e o capim foram feitas de noite. Quanto à água ninguém sabe quando ela foi feita.
 1	Boeco	boeco	NOUN	n	_	4	obl	_	_
 2	jire	ji	ADP	posp	Mood=Ind|Number=Sing|Person=3	1	case	_	_
 3	igurure	guru	VERB	v	Mood=Ind|Number=Sing|Person=3|Reflex=Yes	4	obj	_	_
