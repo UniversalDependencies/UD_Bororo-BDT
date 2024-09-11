@@ -2087,9 +2087,9 @@
 52	towyje	towyje	VERB	vt	Number=Sing|Person=3	47	parataxis	_	_
 53	.	.	PUNCT	punct	_	52	punct	_	_
 54	Nowy	nowy	DET	dem	Deixis=Med	55	det	_	_
-55	bai	bai	NOUN	n	_	58	nsubj	_	_
-56	onajire	onaji	NOUN	n	Mood=Ind	58	nsubj	_	_
-57	torire	torire	NOUN	n	_	58	obj	_	_
+55	bai	bai	NOUN	n	_	58	obl	_	_
+56	onajire	onaji	ADP	n	Mood=Ind	55	case	_	_
+57	torire	torire	NOUN	n	_	58	nsubj	_	_
 58	tudowyje	tudowyje	VERB	vt	Number=Sing|Person=3	52	parataxis	_	_
 
 # sent_id = HMB-Primeira_Aldeia-05
