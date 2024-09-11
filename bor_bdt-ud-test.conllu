@@ -2110,6 +2110,65 @@
 13	ui	_	ADP	_	_	12	case	_	_
 14	tudowyjeduji	tudowyjeduji	X	x	_	12	dep	_	_
 
+# sent_id = HMB-Primeira_Aldeia-06
+# text = Barogwa kododure Pemo apo pobo keje rugadu. Unudure nowy pobo tada, merure nowy pobo ao ji. Kodire nowy Pao Pemo apore nowy pobo boture boeto ji . Awy baru, awy moto, awy itura, awy kiaorewy, awy ipogurutoru jamedy boe otodaire pobo kodure Pao apo. Ca! Oino.
+# text_port = O dia amanheceu com Pemo, na água. Ele dormia na água, e andava na água. Por isso a água brotou com Pemo no começo. Antes do céu e da terra, da mata, do campo e do cerrado, antes de tudo veio a água com Pemo. Eis! Foi assim
+1	Barogwa	barogwa	NOUN	n	_	2	nsubj	_	_
+2	kododure	kododu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	Pemo	Pemo	PROPN	propn	_	2	obl	_	_
+4	apo	apo	ADP	posp	Number=Sing|Person=3	3	case	_	_
+5	pobo	pobo	NOUN	n	_	3	obl	_	_
+6	keje	keje	ADP	posp	Number=Sing|Person=3	5	case	_	_
+7	rugadu	rugadu	ADV	adv	_	2	advmod	_	_
+8	.	.	PUNCT	punct	_	2	punct	_	_
+9	Unudure	nudu	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+10	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	11	dep	_	_
+11	pobo	pobo	NOUN	n	_	9	obl	_	_
+12	tada	tada	ADP	posp	_	11	case	_	_
+13	,	.	PUNCT	punct	_	9	punct	_	_
+14	merure	meru	VERB	v	Mood=Ind	2	parataxis	_	_
+15	nowy	nowy	DET	dem	Deixis=Med	17	det	_	_
+16	pobo	pobo	NOUN	n	_	17	nmod	_	_
+17	ao	ao	NOUN	n	Number=Sing	14	obl	_	_
+18	ji	ji	ADP	posp	Number=Sing|Person=3	17	case	_	_
+19	.	.	PUNCT	_	_	14	punct	_	_
+20	Kodire	kodi	ADV	_	Mood=Ind	27	advmod	_	_
+21	nowy	nowy	DET	_	Deixis=Med	23	det	_	_
+22	Pao	o	NOUN	_	Clusivity=In|Number=Plur|Person=1	23	nmod	_	_
+23	Pemo	_	PROPN	_	_	27	obl	_	_
+24	apore	apo	ADP	_	Mood=Ind|Number=Sing|Person=3	23	case	_	_
+25	nowy	nowy	DET	_	_	26	det	_	_
+26	pobo	pobo	NOUN	_	_	27	nsubj	_	_
+27	boture	botu	VERB	_	Mood=Ind	2	parataxis	_	_
+28	boeto	boeto	NOUN	_	_	27	obl	_	_
+29	ji	ji	ADP	_	Number=Sing|Person=3	28	case	_	_
+30	.	.	PUNCT	_	_	27	punct	_	_
+31	Awy	awy	DET	_	Deixis=Prox	32	det	_	_
+32	baru	baru	NOUN	_	_	49	nsubj	_	_
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	awy	awy	DET	_	Deixis=Prox	35	det	_	_
+35	moto	moto	NOUN	_	_	32	conj	_	_
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	awy	awy	DET	_	Deixis=Prox	38	det	_	_
+38	itura	itura	NOUN	_	_	32	conj	_	_
+39	,	,	PUNCT	_	_	38	punct	_	_
+40	awy	awy	DET	_	Deixis=Prox	41	det	_	_
+41	kiaorewy	kiaorewy	NOUN	_	Mood=Ind|Nomzr=Rel	32	conj	_	_
+42	,	,	PUNCT	_	_	41	punct	_	_
+43	awy	awy	DET	_	Deixis=Prox	44	det	_	_
+44	ipogurutoru	ipogurutoru	NOUN	_	_	32	conj	_	_
+45	jamedy	jamedy	PRON	pron	PronType=Tot	46	nmod	_	_
+46	boe	boe	NOUN	_	_	32	conj	_	_
+47	otodaire	otodai	ADP	_	Number=Plur|Person=3	46	obl	_	_
+48	pobo	pobo	NOUN	_	_	46	conj	_	_
+49	kodure	kodu	VERB	_	Mood=Ind	2	parataxis	_	_
+50	Pao	o	NOUN	_	Clusivity=In|Number=Plur|Person=1	49	obl	_	_
+51	apo	apo	ADP	_	Number=Plur|Person=3	50	case	_	_
+52	.	.	PUNCT	_	_	49	punct	_	_
+53	Ca	ca	INTJ	_	_	49	parataxis	_	_
+54	!	!	PUNCT	_	_	53	punct	_	_
+55	Oino	oino	ADV	_	_	53	parataxis	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
