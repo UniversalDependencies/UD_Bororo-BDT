@@ -2170,6 +2170,89 @@
 54	!	!	PUNCT	_	_	53	punct	_	_
 55	Oino	oino	ADV	_	_	53	parataxis	_	_
 
+# sent_id = HMB-Comentario_pedagogico-03
+# text = Dy inodu karega ure Boe ce . Eerydyware Pao Pemo ji , eerydyware Pao Baraedugume ji , eerydyware Paje Okoge Ekurewydo ji . Erydyware eiamedy ewadaryji . Dy inodu tabo icare etaidyre tuwo tudo nono torire . Etaidyre tuwo tudo nono pobore . Pobore batary bokware , torire batary bokware . Mare tori bataryre bakuru rema , pobo bataryre bakuru rema . Bakurire ji du du du du , du batary reno . Icare jorydywarewygere tudo nono reore
+# text_port = Mas os Bororo não são assim. Eles conhecem o nosso Pai Pemo, eles conhecem o nosso Pai Baraedugume, conhecem a nossa Mãe Okoge Ekurewydo. Conhecem todas as palavras deles. A pesar disso querem ser como pedras, querem ser como água. A água não fala, a pedra não fala. Mas a fala da pedra é o vento, a fala da água é o vento. Quando o vento sopra neles, essa é a sua fala. Então os sabidos se fazem como eles.
+1	Dy	dy	PRON	pron	_	2	nsubj	_	_
+2	inodu	inodu	NOUN	_	_	5	dislocated	_	_
+3	karega	karega	X	x	Polarity=Neg	2	dep	_	_
+4	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
+5	Boe	Boe	NOUN	n	_	0	root	_	_
+6	ce	ce	ADP	posp	_	5	case	_	_
+7	.	.	PUNCT	punct	_	5	punct	_	_
+8	Eerydyware	erydy	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
+9	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	10	nmod	_	_
+10	Pemo	Pemo	PROPN	propn	_	8	obl	_	_
+11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	eerydyware	erydywa	NOUN	n	Mood=Ind|Number=Plur|Person=3	8	conj	_	_
+14	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	15	nmod	_	_
+15	Baraedugume	Baraedugume	PROPN	propn	_	13	obl	_	_
+16	ji	ji	ADP	posp	Number=Sing|Person=3	15	case	_	_
+17	,	,	PUNCT	punct	_	13	conj	_	_
+18	eerydyware	eerydyware	NOUN	n	_	8	conj	_	_
+19	Paje	Paje	NOUN	n	_	20	nmod	_	_
+20	Okoge	okoge	PROPN	propn	_	18	obl	_	_
+21	Ekurewydo	ekurewydo	VERB	v	_	20	flat	_	_
+22	ji	ji	ADP	posp	Number=Sing|Person=3	20	case	_	_
+23	.	.	PUNCT	punct	_	18	punct	_	_
+24	Erydyware	erydyware	NOUN	n	_	8	conj	_	_
+25	eiamedy	iamedy	PRON	pron	Number=Plur|Person=3|PronType=Tot	26	nmod	_	_
+26	ewadary	batary	VERB	v	Number=Plur|Person=3	24	obl	_	_
+27	ji	ji	ADP	posp	Number=Sing|Person=3	26	case	_	_
+28	.	.	PUNCT	punct	_	24	punct	_	_
+29	Dy	dy	ADV	adv	_	30	nsubj	_	_
+30	inodu	inodu	X	_	_	33	dislocated	_	_
+31	tabo	apo	ADP	posp	Number=Sing|Person=3	30	case	_	_
+32	icare	icare	ADV	adv	_	33	advmod	_	_
+33	etaidyre	aidy	VERB	v	Mood=Ind|Number=Plur|Person=3	8	parataxis	_	_
+34	tuwo	_	PRON	bi	Mood=Sub|Reflex=Yes	35	nsubj	_	_
+35	tudo	to	VERB	v	Reflex=Yes	33	xcomp	_	_
+36	nono	nono	ADV	adv	Deixis=Med	37	advmod	_	_
+37	torire	torire	NOUN	n	Mood=Ind	35	advcl	_	_
+38	.	.	PUNCT	punct	_	37	punct	_	_
+39	Etaidyre	aidy	VERB	v	Mood=Ind|Number=Plur|Person=3	33	conj	_	_
+40	tywo	ty	PRON	bi	Mood=Sub|Reflex=Yes	41	nsubj	_	_
+41	tydo	ty	VERB	v	Mood=Sub|Reflex=Yes	39	xcomp	_	_
+42	nono	nono	ADV	adv	Deixis=Med	43	advmod	_	_
+43	pobore	pobo	NOUN	n	Mood=Ind	41	advcl	_	_
+44	.	.	PUNCT	punct	_	41	punct	_	_
+45	Pobore	pobore	NOUN	n	Mood=Ind	46	nsubj	_	_
+46	batary	batary	NOUN	n	_	33	conj	_	_
+47	bokware	bokwa	PART	prcl	Mood=Ind	46	dep	_	_
+48	,	,	PUNCT	punct	_	46	punct	_	_
+49	torire	torire	NOUN	n	Mood=Ind	50	nsubj	_	_
+50	batary	batary	NOUN	n	_	46	conj	_	_
+51	bokware	bokwa	PART	prcl	Mood=Ind	50	dep	_	_
+52	.	.	PUNCT	punct	_	50	punct	_	_
+53	Mare	mare	CCONJ	cconj	ConjType=Disj	56	cc	_	_
+54	tori	Torowari	NOUN	n	_	55	nmod	_	_
+55	bataryre	batary	NOUN	n	Mood=Ind	56	nsubj	_	_
+56	bakuru	bakuru	NOUN	n	_	33	conj	_	_
+57	rema	rema	AUX	cop	_	56	aux	_	_
+58	,	,	PUNCT	punct	_	56	punct	_	_
+59	pobo	pobo	NOUN	n	_	60	nmod	_	_
+60	bataryre	batary	NOUN	n	Mood=Ind	61	nsubj	_	_
+61	bakuru	bakuru	NOUN	n	_	56	conj	_	_
+62	rema	rema	AUX	cop	_	61	aux	_	_
+63	.	,	PUNCT	punct	_	61	punct	_	_
+64	Bakurire	bakurire	NOUN	n	_	72	dislocated	_	_
+65	ji	karo	NOUN	n	_	64	case	_	_
+66	du	du	NOUN	n	_	64	appos	_	_
+67	du	du	NOUN	n	_	66	conj	_	_
+68	du	du	NOUN	n	_	66	conj	_	_
+69	du	du	NOUN	n	_	66	conj	_	_
+70	,	,	PUNCT	punct	_	64	punct	_	_
+71	du	du	PRON	Pron	_	72	nsubj	_	_
+72	batary	batary	NOUN	n	_	33	parataxis	_	_
+73	reno	renowy	ADV	dem	Deixis=Med|Number=Sing|PronType=Dem	72	advmod	_	_
+74	.	.	PUNCT	punct	_	72	punct	_	_
+75	Icare	_	ADV	adv	_	77	advmod	_	_
+76	jorydywarewygere	jorydywa	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	77	nsubj	_	_
+77	tudo	tu	VERB	v	Reflex=Yes	33	parataxis	_	_
+78	nono	nono	ADV	adv	Deixis=Med	77	advmod	_	_
+79	reore	reo	ADV	n	Mood=Ind	77	advmod	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
