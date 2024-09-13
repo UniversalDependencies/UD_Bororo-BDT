@@ -2253,6 +2253,97 @@
 78	nono	nono	ADV	adv	Deixis=Med	77	advmod	_	_
 79	reore	reo	ADV	n	Mood=Ind	77	advmod	_	_
 
+# sent_id = HMB-novo_comentario_teológico-01
+# text = Oino , ica ! Tawiapaga pemegado Pao Pemo ko boeto jiwy pawadary ji . Icare imode pawadary pemegado pui , mare Pao Pemo koia , Paore Pemo rema dykoia . Du oino . Paore pagogiedae maky pagai , duwure iere Pagogiedae
+# text_port = Assim. Eis! Ponham bem atenção à primeira nossa linguagem que o nosso Pai Pemo formou. Então eu vou arrumar a nossa linguagem, mas é com a ajuda de Pemo, porque Pemo e o nosso Pai. É assim. O nosso Pai nos deu a nossa língua, isso se chama o nosso idioma..
+1	Oino	oino	ADV	adv	_	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ica	ica	INTJ	intj	_	1	discourse	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+5	Tawiapaga	Tawiapaga	VERB	v	Mood=Imp|Number=Plur|Person=2	1	parataxis	_	_
+6	pemegado	pemega	ADV	adv	Voice=Cau	5	advmod	_	_
+7	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	8	nmod	_	_
+8	Pemo	Pemo	PROPN	propn	_	9	nsubj	_	_
+9	ko	ko	VERB	v	_	12	acl	_	_
+10	boeto	boeto	ADV	v	_	9	obl	_	_
+11	jiwy	ji	ADP	posp	Nomzr=Rel	10	case	_	_
+12	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	obl	_	_
+13	ji	ji	ADP	posp	Number=Sing|Person=3	12	case	_	_
+14	.	.	PUNCT	punct	_	5	punct	_	_
+15	Icare	icare	ADV	adv	_	18	advmod	_	_
+16	imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|Tense=Fut	18	nsubj	_	_
+17	pawadary	batary	NOUN	n	Clusivity=In|Number=Plur|Person=1	18	obj	_	_
+18	pemegado	pemega	VERB	v	Voice=Cau	1	parataxis	_	_
+19	pui	pui	PRON	pron	PronType=Rcp	18	obl	_	_
+20	,	,	PUNCT	punct	_	18	punct	_	_
+21	mare	mare	CCONJ	cconj	ConjType=Disj	23	cc	_	_
+22	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	23	nmod	_	_
+23	Pemo	Pemo	PROPN	propn	_	18	conj	_	_
+24	koia	koia	ADP	posp	Number=Sing|Person=3	23	case	_	_
+25	,	,	PUNCT	punct	_	23	punct	_	_
+26	Paore	Paore	PROPN	propn	_	27	nsubj	_	_
+27	Pemo	pemo	PROPN	propn	_	23	advcl	_	_
+28	rema	rema	AUX	cop	Pred=AtrEq	27	aux	_	_
+29	dykoia	dykoia	SCONJ	sconj	_	27	mark	_	_
+30	.	.	PUNCT	punct	_	27	punct	_	_
+31	Du	du	PRON	pron	_	32	nsubj	_	_
+32	oino	oino	ADV	adv	_	18	parataxis	_	_
+33	.	.	PUNCT	punct	_	32	punct	_	_
+34	Paore	paore	NOUN	n	_	36	nsubj	_	_
+35	pagogiedae	pagogiedae	NOUN	n	_	36	obj	_	_
+36	maky	maky	VERB	v	_	18	parataxis	_	_
+37	pagai	pagai	ADP	posp	Clusivity=In|Number=Plur|Person=1	36	obl	_	_
+38	,	,	PUNCT	punct	_	36	punct	_	_
+39	duwure	du	ADV	adv	Mood=Ind|Nomzr=Rel	40	nsubj	_	_
+40	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	36	parataxis	_	_
+41	pagogiedae	okiedae	NOUN	noun	Clusivity=In|Number=Plur|Person=1	40	ccomp	_	;speech,narrative;fala,narrativa
+
+
+# sent_id = HMB-novo_comentario_teológico-02
+# text = Rekodajire , ure pagagodo iro . Ure pagagodo Kuiada . Ure pagagodo Ju . Ure pagagodo Bako . Ure pagagodo Tako . Ure Pagagodo Tapira . Ure pagagodo Kagariga . Ure pagagodo Kawaru . Ure pagagodo Meriacia . Ure pagagodo Riboarewy .
+# text_port = Depois ele nos fez dizer: Arroz. Ele nos fez dizer: Milho. Ele nos fez dizer: Mandioca. Ele nos fez dizer: Banana. Ele nos fez dizer: Cana. Ele nos fez dizer: Gado. Ele nos fez dizer: Galinha. Ele nos fez dizer: Cavalo. Ele nos fez dizer: Melancia. Ele nos fez dizer: Abóra
+1	Rekodajire	Rekodaji	ADV	adv	Mood=Ind	4	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	4	nsubj	_	_
+4	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	0	root	_	_
+5	iro	iro	NOUN	n	_	4	obj	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+8	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+9	kuiada	kuiada	NOUN	n	_	8	obj	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
+11	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
+12	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+13	ju	ju	ADV	adv	_	12	obj	_	_
+14	.	.	PUNCT	punct	_	12	punct	_	_
+15	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	16	nsubj	_	_
+16	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+17	Bako	bako	PROPN	propn	_	16	obj	_	_
+18	.	.	PUNCT	punct	_	16	punct	_	_
+19	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	20	nsubj	_	_
+20	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+21	tako	tako	PROPN	propn	_	20	obj	_	_
+22	.	.	PUNCT	punct	_	20	punct	_	_
+23	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	24	nsubj	_	_
+24	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+25	tapira	tapira	NOUN	n	_	24	obj	_	_
+26	.	.	PUNCT	punct	_	24	punct	_	_
+27	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	28	nsubj	_	_
+28	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+29	kagariga	kagariga	NOUN	_	_	28	obj	_	_
+30	.	.	PUNCT	punct	_	28	punct	_	_
+31	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	32	nsubj	_	_
+32	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+33	kawaru	kawaru	NOUN	n	_	32	obj	_	_
+34	.	.	PUNCT	punct	_	32	punct	_	_
+35	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	36	nsubj	_	_
+36	pagagodo	ako	VERB	punct	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+37	meriacia	meriacia	PROPN	propn	_	36	obj	_	_
+38	.	.	PUNCT	punct	_	36	punct	_	_
+39	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	40	nsubj	_	_
+40	pagagodo	ako	VERB	v	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
+41	riboarewy	riboa	NOUN	n	Mood=Ind|Nomzr=Rel	40	obj	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
