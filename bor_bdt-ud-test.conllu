@@ -2457,7 +2457,7 @@
 
 # sent_id = HMB-hora_da_criacao-02
 # text = Ca! Nonore icare ure boecodydo , icare ure barogwa kododydo . Dykeje icare ure kagariga akogo . Kogoriga kudugodyre dykejere icare Pemore tonaregedy udo tudo moto ji , pr ! Dykeje icare nowy makore bogaiboe jamedy padure moto kajeje .
-# text_port = Eis! Então ele fez anoitecer e fez amanhecer. Então ele fez cantar o galo. Quando o galo gritou, Pemo se fez jogar no chão pelo seu filho. Então tudo aquilo que ( o filho) tinha falado apareceu sobre a terra.
+# text_port = Eis! Então ele fez anoitecer e fez amanhecer. Então ele fez cantar o galo. Quando o galo gritou, Pemo se fez jogar no chão pelo seu filho. Então tudo aquilo que (o filho) tinha falado apareceu sobre a terra.
 1	Ca	ca	INTJ	intj	_	6	discourse	_	_
 2	!	!	PUNCT	_	_	1	punct	_	_
 3	Nonore	nono	ADV	_	Mood=Ind	6	advmod	_	_
@@ -2489,6 +2489,14 @@
 29	,	,	PUNCT	_	_	26	punct	_	_
 30	pr	pr	X	_	_	26	discourse	_	_
 31	!	!	PUNCT	_	_	30	punct	_	_
+32	Dykeje	dykeje	SCONJ	_	_	35	mark	_	_
+33	icare	icare	ADV	_	_	35	advmod	_	_
+34	nowy	nowy	PRON	_	PronType=Dem	35	nsubj	_	_
+35	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	39	advcl	_	_
+36	bogai	bogai	ADP	_	Number=Sing|Person=3	35	obl	_	_
+37	boe	boe	NOUN	_	_	39	nsubj	_	_
+38	jamedy	jamedy	PRON	_	PronType=Tot	37	nmod	_	_
+39	padyre	pady	VERB	_	Mood=Ind|Numbe=Sing|Person=3	26	parataxis	_	_
 
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
