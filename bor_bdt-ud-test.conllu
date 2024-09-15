@@ -2422,6 +2422,39 @@
 41	boe	boe	NOUN	n	_	40	nmod	_	_
 42	ji	ji	PUNCT	punct	Number=Sing|Person=3	40	punct	_	_
 
+# sent_id = HMB-hora_da_criacao-01
+# text = Ure tonaregedy Baraedugume akodo itugagerege eke iro bokwa ra ! Eke kuiada bokwa ra ... Eke tako bokwa ra ... Eke bako bokwa ra ! Eke meriacia bokwa ra
+# text_port = Ele (Pemo) fez o seu filho braeduguma dizer: - Eis que meus súditos não têm arroz!, eles não têm milho... não têm cana..., não têm banana... não têm melancia!
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+2	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	3	nmod	_	_
+3	Baraedugume	Baraedugume	PROPN	propn	_	4	obj	_	_
+4	akodo	ako	VERB	n	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+5	Itugagerege	Itugage	NOUN	n	Number=Plur	7	nsubj	_	_
+6	eke	ke	NOUN	n	Number=Plur|Person=3	7	nmod	_	_
+7	iro	iro	NOUN	n	_	4	ccomp	_	_
+8	bokwa	bokwa	AUX	aux	Polarity=Neg	7	aux	_	_
+9	ra	ra	INTJ	v	Number=Sing|Person=3	7	discourse	_	_
+10	!	!	PUNCT	punct	_	7	punct	_	_
+11	Eke	ke	NOUN	n	Number=Plur|Person=3	12	nmod	_	_
+12	kuiada	kuiada	NOUN	n	_	7	conj	_	_
+13	bokwa	bokwa	AUX	aux	Polarity=Neg	12	aux	_	_
+14	ra	ra	INTJ	punct	_	12	discourse	_	_
+15	.	.	PUNCT	punct	_	12	punct	_	_
+16	Eke	ke	NOUN	n	Number=Plur|Person=3	17	nmod	_	_
+17	tako	tako	NOUN	n	_	7	conj	_	_
+18	bokwa	bokwa	AUX	aux	Polarity=Neg	17	aux	_	_
+19	ra	ra	INTJ	punct	_	17	discourse	_	_
+20	.	.	PUNCT	punct	_	17	punct	_	_
+21	Eke	ke	NOUN	n	Number=Plur|Person=3	22	nmod	_	_
+22	bako	bako	NOUN	n	_	7	conj	_	_
+23	bokwa	bokwa	AUX	aux	Polarity=Neg	22	aux	_	_
+24	ra	ra	INTJ	v	Number=Sing|Person=3	22	discourse	_	_
+25	!	!	PUNCT	punct	_	22	punct	_	_
+26	Eke	ke	NOUN	n	Number=Plur|Person=3	27	nmod	_	_
+27	meriacia	meriacia	NOUN	n	_	7	conj	_	_
+28	bokwa	bokwa	AUX	aux	Polarity=Neg	27	aux	_	_
+29	ra	ra	INTJ	punct	_	27	discourse	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
