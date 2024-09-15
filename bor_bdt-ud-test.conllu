@@ -2344,6 +2344,84 @@
 40	pagagodo	ako	VERB	v	Clusivity=In|Number=Plur|Person=1|Voice=Cau	4	conj	_	_
 41	riboarewy	riboa	NOUN	n	Mood=Ind|Nomzr=Rel	40	obj	_	_
 
+# sent_id = HMB-novo_comentario_teológico-03
+# text = Ca ! Pagaguierogu reno , pagerogu reno . Nowyre Pemore maky pagai boeto ji . Ure pagagodo Itogeare , ino nowy pagaguierogu bogai , nowy pagerogu bogai .
+1	Ca	ca	INTJ	intj	_	6	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Pagaguierogu	Pagaguie	NOUN	n	Degree=Dim	6	nsubj	_	_
+4	reno	renowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	6	det	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	pagerogu	page	NOUN	n	Degree=Dim	0	root	_	_
+7	reno	renowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	6	conj	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Nowyre	nowy	ADV	adv	Mood=Ind	6	advmod	_	_
+1	Pemore	Pemo	PROPN	prop	Mood=Ind	2	nsubj	_	_
+2	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
+3	pagai	pagai	SCONJ	sconj	_	2	mark	_	_
+4	boeto	boeto	VERB	v	_	2	parataxis	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+8	pagagodo:	_	PUNCT	punct	_	4	parataxis	_	_
+9	-	-	PUNCT	punct	_	8	punct	_	_
+10	Itogeare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	9	parataxis	_	_
+11	,	.	PUNCT	punct	_	10	punct	_	_
+12	ino	_	ADV	adv	_	13	advmod	_	_
+13	nowy	nowy	DET	dem	Deixis=Med	14	det	_	_
+14	pagaguierogu	pagaguie	NOUN	n	Degree=Dim	10	conj	_	_
+15	bogai	bogai	ADP	posp	Number=Sing|Person=3	14	case	_	_
+16	,	,	PUNCT	punct	_	14	punct	_	_
+17	nowy	nowy	DET	dem	Deixis=Med	18	det	_	_
+18	pagerogu	page	NOUN	n	Degree=Dim	10	conj	_	_
+19	bogai	bogai	ADP	posp	Number=Sing|Person=3	18	case	_	_
+
+
+# sent_id = HMB-novo_comentario_teológico-04
+# text = Nowy Pao Pemo orenure pagi . Mare akokare itore ino pai . Ure nowy tonagegedy Baraedugume ure akodo itugarege oino pai , paiamedy boe ji . Kodire nowy Pao onaregedy Baraedugume utugaregenure paiamedy boe . Ure akodo : itugarege oino paiamedy boe ji
+# text_port = Nós somos filhos de nosso Pai Pemo. Mas ele mesmo não falou para nós : Meus filhos. Ele fez com que seu filho Baraedugume nos chamasse todos nós assim: - Meus súditos. Por isso, nós  todos somos súditos de Baraedugume o filho de nosso Pai Pemo
+1	Nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
+2	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	3	nmod	_	_
+3	Pemo	Pemo	PROPN	propn	_	4	nmod	_	_
+4	orenure	ore	NOUN	n	Aspect=Prog|Mood=Ind|Number=Plur	0	root	_	_
+5	pagi	pagi	PRON	pron	Clusivity=In|NumberPlur|Person=1|PronType=Prs	4	nsubj	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Mare	mare	CCONJ	cconj	ConjType=Disj	8	cc	_	_
+8	akokare	ako	VERB	v	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	4	conj	_	_
+9	itore	onaregedy	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	8	ccomp	_	_
+10	ino	o	NOUN	n	Number=Sing|Person=1	9	nmod	_	_
+11	pai	pai	ADP	posp	Clusivity=In|NumberPlur|Person=1	9	obl	_	_
+12	.	.	PUNCT	punct	_	9	punct	_	_
+13	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	17	dislocated	_	_
+14	nowy	nowy	DET	dem	Deixis=Remt	16	det	_	_
+15	tonagegedy	onagegedy	NOUN	n	Number=Sgtv|Reflex=Yes	16	nmod	_	_
+16	Baraedugume	Baraedugume	PROPN	propn	_	18	obj	_	_
+17	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	18	nsubj	_	_
+18	akodo	akodo	NOUN	n	Voice=Cau	4	parataxis	_	_
+19	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	18	obl	_	_
+20	oino	oino	ADV	x	_	18	advmod	_	_
+21	pai	pai	ADP	posp	Clusivity=In|Number=Plur|Person=1	19	case	_	_
+22	,	,	PUNCT	punct	_	18	punct	_	_
+23	paiamedy	paiamedy	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Tot	24	nsubj	_	_
+24	boe	boe	NOUN	n	_	19	conj	_	_
+25	ji	ji	ADP	punct	Number=Sing|Person=Plur	24	case	_	_
+26	.	.	PUNCT	punct	_	24	punct	_	_
+27	Kodire	kodire	ADV	adv	_	32	advmod	_	_
+28	nowy	nowy	DET	dem	Deixis=Med	30	det	_	_
+29	Pao	o	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Sing|Person=1	30	nmod	_	_
+30	onaregedy	onaregedy	NOUN	n	Number=Sgtv	31	nmod	_	_
+31	Baraedugume	Braedugume	PROPN	propn	_	32	nmod	_	_
+32	utugaregenure	tugarege	VERB	v	Aspect=IncProg|Mood=Ind|Number=Sing|Person=3	18	parataxis	_	_
+33	paiamedy	_	PRON	x	Clusivity=In|Number=Plur|Person=1|PronType=Tot	32	nsubj	_	_
+34	boe	boe	NOUN	n	_	33	nmod	_	_
+35	.	.	PUNCT	punct	_	32	punct	_	_
+36	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	37	nsubj	_	_
+37	akodo	akod	NOUN	n	_	32	parataxis	_	_
+38	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	37	ccomp	_	_
+39	oino	oino	ADV	adv	AdvType=Man	38	advmod	_	_
+40	paiamedy	jamedy	PRON	x	Clusivity=In|Number=Plur|Person=1|PronType=Tot	38	nsubj	_	_
+41	boe	boe	NOUN	n	_	40	nmod	_	_
+42	ji	ji	PUNCT	punct	Number=Sing|Person=3	40	punct	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
