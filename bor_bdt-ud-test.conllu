@@ -2793,6 +2793,86 @@
 22	ie	ie	NOUN	n	_	23	nsubj	_	_
 23	reo	reo	X	x	_	20	dep	_	_
 
+# sent_id = HMB-origem_das_metades-01
+# text = Nonore icare boe ekuiarure . Ie boeto jiwy reo: Kuborewymana , nowy metago iere Kuboruroe . Boe emagore jiwy ie reo .
+# text_port = Então as bororas começaram a engravidar. A primeira que engravidou foi Arogiarewydo, a outra chama-se Kuogori Pijiwudo. O primeiro nome era Kuborumana e o da companheira, Kuboruroe, assim que os Bororos as chamavam.
+1	Nonore	nonore	ADV	adv	_	4	advmod	_	_
+2	icare	icare	ADV	adv	_	4	advmod	_	_
+3	boe	boe	NOUN	n	_	4	nsubj	_	_
+4	ekuiarure	kuiaru	VERB	v	_	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+6	Ie	ie	NOUN	n	_	7	nsubj	_	_
+7	boeto	boeto	VERB	v	_	4	parataxis	_	_
+8	jiwy	ji	ADP	posp	Nomzr=Rel	7	obl	_	_
+9	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
+10	o	o	NOUN	n	Poss=Yes	4	parataxis	_	_
+11	:	_	PUNCT	punct	_	10	punct	_	_
+12	Kuborewymana	_	NOUN	n	_	10	conj	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	15	det	_	_
+15	metago	_	NOUN	n	_	17	nmod	_	_
+16	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	17	nsubj	_	_
+17	Kuboruroe	Kuboruroe	NOUN	n	_	12	conj	_	_
+18	.	.	PUNCT	punct	_	17	punct	_	_
+19	Boe	boe	NOUN	n	_	20	nsubj	_	_
+20	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	17	parataxis	_	_
+21	jiwy	ji	ADP	posp	Nomzr=Rel	20	obl	_	_
+22	ie	ie	NOUN	n	_	23	nsubj	_	_
+23	reo	reo	X	x	_	20	dep	_	_
+
+# sent_id = HMB-origem_das_metades-02
+# text = Nowy areme etaire Pao Pemore tuguo , dyre iere Baraedugume . Icare nowy Anabo Bororo bukejere care boere tuwiredo . Mare boe etuo Pemo koia . Icare ure boe etuwiredo , nowy ime pemegarewyge eiamedy uwiredo . Ure etore eiedo Ecerae . Ure nowy Etuomage eiedo Tugarege . Oino
+# text_port = A essas mulheres o nosso Pai Pemo se manifestou, o que se chama Baraedugume. Então foi na aldeia Anabo Bororo que os homens casaram. Mas foi por obra de Pemo. Então ele os fez casar. Ele fez casar todos os homens bons. Aos filhos ele os chamou "Ecerae" e aos pais os chamou "Tugarege".
+1	Nowy	nowy	DET	dem	Deixis=Med	2	obl	_	_
+2	areme	areme	NOUN	n	Number=Plur	6	obl	_	_
+3	etaire	_	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	2	case	_	_
+4	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	5	nmod	_	_
+5	Pemore	Pemo	PROPN	prop	Mood=Ind	6	nsubj	_	_
+6	tuguo	uguo	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	dyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nmod	_	_
+9	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
+10	Baraedugume	Braedugume	PROPN	propn	_	6	parataxis	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
+12	Icare	icare	ADV	adv	_	19	advmod	_	_
+13	nowy	nowy	DET	dem	Deixis=Med	14	det	_	_
+14	Anabo	anabo	VERB	v	Number=Plur|Person=3|Voice=Cau	19	obl	_	_
+15	Bororo	Bororo	PROPN	propn	_	14	flat	_	_
+16	bukejere	bukeje	ADP	posp	Mood=Ind|Number=Sing|Person=3	14	case	_	_
+17	care	care	ADV	adv	_	19	advmod	_	_
+18	boere	boe	NOUN	n	Mood=Ind	19	nsubj	_	_
+19	tuwiredo	uwiredo	VERB	v	Number=Sing|Person=3|Reflex=Yes|Voice=Cau	6	parataxis	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	Mare	mare	CCONJ	cconj	ConjType=Disj	23	cc	_	_
+22	boe	boe	NOUN	n	_	23	nsubj	_	_
+23	etuo	_	VERB	v	_	19	conj	_	_
+24	Pemo	Pemo	PROPN	propn	_	23	obl	_	_
+25	koia	koia	ADP	posp	Number=Sing|Person=3	24	case	_	_
+26	.	.	PUNCT	punct	_	23	punct	_	_
+27	Icare	icare	ADV	adv	_	30	advmod	_	_
+28	ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	30	nsubj	_	_
+29	boe	boe	NOUN	n	_	30	obl	_	_
+30	etuwiredo	_	VERB	v	Number=Plur|Person=3|Reflex=Yes|Voice=Cau	6	parataxis	_	_
+31	,	,	PUNCT	punct	_	30	punct	_	_
+32	nowy	nowy	DET	dem	Deixis=Med	33	det	_	_
+33	ime	imedy	NOUN	n	Number=Plur	36	obl	_	_
+34	pemegarewyge	pemega	NOUN	n	Mood=Ind|Nomzr=Rel|Number=Plur	33	nmod	_	_
+35	eiamedy	iamedy	PRON	pron	Number=Plur|Person=3|PronType=Tot	33	nmod	_	_
+36	uwiredo	uwire	VERB	v	Number=Sing|Person=3|Voice=Cau	30	parataxis	_	_
+37	.	.	PUNCT	punct	_	36	punct	_	_
+38	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	40	nsubj	_	_
+39	etore	_	NOUN	n	Number=Plur	40	obj	_	_
+40	eiedo	ie	VERB	v	Number=Plur|Person=3|Voice=Cau	30	parataxis	_	_
+41	Ecerae	Ecerae	PROPN	propn	_	40	obj	_	_
+42	.	.	PUNCT	punct	_	40	punct	_	_
+43	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	46	nsubj	_	_
+44	nowy	nowy	DET	dem	Deixis=Remt	45	det	_	_
+45	Etuomage	etuoma	NOUN	n	Number=Plur	46	obj	_	_
+46	eiedo	jeiedo	VERB	v	Number=Sing|Person=3|Voice=Cau	40	conj	_	_
+47	Tugarege	tugaregedy	PROPN	propn	_	46	obj	_	_
+48	.	.	PUNCT	punct	_	46	punct	_	_
+49	Oino	oino	ADV	adv	_	46	discourse	_	_
+
 # sent_id = ArigaodogeEiTuguodo-01
 # text = Arigao Bororo biagare tuje oino , dykaere boe etaregodyre
 # text_eng = The Bororo village was very small, the Bororo arived there
