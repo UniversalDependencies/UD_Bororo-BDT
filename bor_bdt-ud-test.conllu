@@ -2825,7 +2825,7 @@
 # text_port = A essas mulheres o nosso Pai Pemo se manifestou, o que se chama Baraedugume. Então foi na aldeia Anabo Bororo que os homens casaram. Mas foi por obra de Pemo. Então ele os fez casar. Ele fez casar todos os homens bons. Aos filhos ele os chamou "Ecerae" e aos pais os chamou "Tugarege".
 1	Nowy	nowy	DET	dem	Deixis=Med	2	obl	_	_
 2	areme	areme	NOUN	n	Number=Plur	6	obl	_	_
-3	etaire	_	VERB	v	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	2	case	_	_
+3	etaere	ae	ADP	posp	Mood=Ind|Number=Plur|Person=3	2	case	_	_
 4	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	5	nmod	_	_
 5	Pemore	Pemo	PROPN	prop	Mood=Ind	6	nsubj	_	_
 6	tuguo	uguo	VERB	v	Person=3|Reflex=Yes	0	root	_	_
