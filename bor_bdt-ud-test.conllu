@@ -16297,3 +16297,52 @@
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	batarygodyre	batary	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=CauInc	2	conj	_	_
 
+# sent_id = boe_ero-6
+# text = Icare akore: Ioga , oino . Akore : imuga , oino . Akore aja , oino . Akore mama , oino . Akore ike boire ii
+# text_port = Então ele diz: “Papai”. Diz: “Mamãe”. Diz: “Quero papinha”. E diz: “Estou com fome”.
+1	Icare	icare	ADV	_	_	2	advmod	_	_
+2	akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	Ioga	oga	NOUN	_	Number=Sing|Person=1	2	ccomp	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	oino	oino	ADV	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+7	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+8	imuga	muga	NOUN	_	Number=Sing|Person=1	7	ccomp	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	oino	oino	ADV	_	_	7	advmod	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+12	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+13	aja	_	NOUN	_	_	12	ccomp	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	oino	oino	ADV	_	_	12	advmod	_	_
+16	.	_	PUNCT	_	_	12	punct	_	_
+17	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+18	mama	mama	NOUN	_	_	17	ccomp	_	_
+19	,	,	PUNCT	_	_	17	punct	_	_
+20	oino	oino	ADV	_	_	17	advmod	_	_
+21	.	.	PUNCT	_	_	17	punct	_	_
+22	Akore	ako	VERB	_	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+23	ike	ke	NOUN	_	Number=Sing|Person=1	24	nmod	_	_
+24	boire	boi	NOUN	_	Mood=Ind	22	ccomp	_	_
+25	ii	ji	ADP	posp	Number=Sing|Person=1	24	case	_	_
+
+# sent_id = boe_ero-7
+# text = Ica , icare makore , icare bataryre. Boe egore ica , care bataryre , oino
+# text_port = Então ele já fala, conversa. E os bororo dizem: “Então agora ele conversa”.
+1	Ica	ica	ADV	adv	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	icare	icare	ADV	adv	_	4	advmod	_	_
+4	makore	mako	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	icare	icare	ADV	adv	_	7	advmod	_	_
+7	bataryre	batary	VERB	_	_	4	conj	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
+9	Boe	_	PROPN	_	_	10	nsubj	_	_
+10	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3_	4	conj	_	_
+11	ica	ica	ADV	adv	_	10	advmod	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	care	care	ADV	adv	_	14	advcl	_	_
+14	bataryre	batary	VERB	_	Mood=Ind|Number=Sing|Person=3_	10	conj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	oino	oino	ADV	adv	_	14	advmod	_	_
+
