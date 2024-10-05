@@ -16205,3 +16205,46 @@
 2	boe	boe	NOUN	n	_	3	obj	_	_
 3	maky	maky	VERB	vt	Number=Sing|Person=3	0	root	_	_
 
+# BOE ERO
+# Texto escolar documentado pelo Mestre Mario Bordiognon Enaureu
+# MEDU RO AKO BOE (Antônio Kanajó)
+# sent_id = boe_ero-1
+# text = Oinore boe egore tore kugure ei . Boe erore tore kugure ei
+# text_port = É desse jeito que os bororo falam com seus filhinhos, fazem com seus filhinhos.
+1	Oinore	oino	ADV	_	Mood=Ind	3	advmod	_	_
+2	Boe	Boe	PROPN	_	Number=Plur	3	nsubj	_	_
+3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	tore	tore	NOUN	n	_	3	obl	_	_
+5	kugure	kugure	NOUN	n	_	4	flat	_	_
+6	ei	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
+7	.	.	PUNCT	punct	_	3	punct	_	_
+8	Boe	Boe	PROPN	_	_	9	nsubj	_	_
+9	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
+10	tore	tore	NOUN	n	_	9	obl	_	_
+11	kugure	kugure	NOUN	n	_	10	flat	_	_
+12	ei	ji	ADP	posp	Number=Plur|Person=3	10	case	_	_
+
+# sent_id = boe_ero-2
+# text = Boe etonaregedy bytyre, Boe etonaregedy imedyrogu bytyre
+# text_port = Quando seu filho nasce, seu filho menino nasce.
+1	Boe	Boe	PROPN	propn	Number=Plur	2	nmod	_	_
+2	etonaregedy	etonaregedy	NOUN	n	_	3	nsubj	_	_
+3	bytyre	byty	VERB	vi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	Boe	Boe	PROPN	propn	Number=Plur	6	nmod	_	_
+6	etonaregedy	etonaregedy	NOUN	n	Number=Sing	8	nsubj	_	_
+7	imedyrogu	imedy	NOUN	n	Degree=Dim|Number=Sing	6	nmod	_	_
+8	bytyre	byty	VERB	vi	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+
+# sent_id = boe_ero-3
+# text = Icare boere iedo , boere tonaregedy imedyrogu iedo
+# text_port = Então eles lhe dão o nome eles dão o nome para seu filhinho.
+1	Icare	icare 	ADV	_	_	3	advmod	_	_
+2	boere	boe	NOUN	n	Mood=Ind	3	obj	_	_
+3	iedo	ie	VERB	v	Voice=Caus	0	root	_	_
+4	,	_	PUNCT	punct	_	3	punct	_	_
+5	boere	boe	NOUN	n	Mood=Ind	6	nmod	_	_
+6	tonaregedy	onaregedy	NOUN	n	Number=Sgtv	8	obj	_	_
+7	imedyrogu	imedy	NOUN	n	Degree=Dim	6	nmod	_	_
+8	iedo	ie	VERB	v	Voice=Caus	3	parataxis	_	_
+
