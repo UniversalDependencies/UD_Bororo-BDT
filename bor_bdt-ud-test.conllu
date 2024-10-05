@@ -305,7 +305,7 @@
 2	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-12
-# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure dure padyre nono , nowy inodu renure ji gu ...
+# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure dyre padyre nono , nowy inodu renure ji gu ...
 # text_por = Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí .....
 1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
 2	nowy	nowy	DET	dem	Deixis=Remt	3	det	_	_
@@ -364,7 +364,7 @@
 55	.	.	PUNCT	punct	_	54	punct	_	_
 56	Oinore	oino	ADV	adv	Mood=Ind	59	dislocated	_	_
 57	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	nsubj	_	_
-58	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	dep	_	_
+58	dyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	dep	_	_
 59	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	43	parataxis	_	_
 60	nono	nono	ADV	adv	Deixis=Med	59	advcl	_	_
 61	,	,	PUNCT	punct	_	59	punct	_	_
@@ -376,7 +376,7 @@
 67	...	...	PUNCT	punct	_	63	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-13
-# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dure padyre nono , nowy inodure renu re ji gu ...
+# text = Mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emearydae reore : aora bokware , joky bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai : ekure , kujagure , core , kaworure . Oinore ure , dyre padyre nono , nowy inodyre renu re ji gu ...
 # text_por = Mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles  se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho,  preto, azul. Assim que era, ele estava aí
 1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
 2	nowy	nowy	DET	dem	Deixis=Remt	3	det	_	_
@@ -436,12 +436,12 @@
 56	Oinore	oino	ADV	adv	Mood=Ind	41	parataxis	_	_
 57	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	nsubj	_	_
 58	,	,	PUNCT	punct	_	56	punct	_	_
-59	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	60	dep	_	_
+59	dyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	60	dep	_	_
 60	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	parataxis	_	_
 61	nono	nono	ADV	adv	Deixis=Med	60	advmod	_	_
 62	,	,	PUNCT	punct	_	60	punct	_	_
 63	nowy	nowy	DET	dem	Deixis=Remt	64	det	_	_
-64	inodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	conj	_	_
+64	inodyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	56	conj	_	_
 65	renu	re	X	_	_	64	dep	_	_
 66	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	64	dep	_	_
 67	ji	ji	ADP	posp	Number=Sing|Person=3	64	case	_	_
@@ -449,11 +449,11 @@
 69	...	...	PUNCT	punct	_	64	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-14
-# text = Ca ! Boecodure pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodyre , akore Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awure kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearydu awaduwo ai !
+# text = Ca ! Boecodyre pugeje . Ure barogwa kododydo pugeje . Icare akore Nowé ! Akore Nowé ! Dykeje icare kudugodyre , akore Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo awure kabi , awo ape kujagu barigu , awo akiguru kujagu barigu , amearydu awaduwo ai !
 # text_por = Eis! Anoiteceu de novo, e de novo ele fez amanhecer. Então disse: - Noé!  Disse: - Noé! Ele respondeu gritando: - Kao!Disse: - Saia! Para se esquentar, para ver o fogo, pala lavar as mãos, para lavar o rosto, para lavar a boca, para lavar os pés, para fazer as suas necessidades, para ficares esperto.
 1	Ca	ca	INTJ	intj	_	3	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Boecodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	Boecodyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 6	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
@@ -517,10 +517,10 @@
 64	!	!	PUNCT	punct	_	62	punct	_	_
 
 # sent_id = HMB-Pemo_e_Baraedugume-15
-# text = Icare boecodure pugeje . Icare ure barogwa kododydo pugeje . Icare makore ia imedy bogai pugeje . Akore Kiko ! Akore  Kiko ! Kudugodyre Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo ape kujagu barigu , awo kiguru kujagu barigu , amearydu awaduwo ai .
+# text = Icare boecodyre pugeje . Icare ure barogwa kododydo pugeje . Icare makore ia imedy bogai pugeje . Akore Kiko ! Akore  Kiko ! Kudugodyre Kao ! Akore Aebu ! Awo akowarudo , aerydywo joru ji , awo akera kabi , awo ae kabi , awo aia kabi , awo ape kujagu barigu , awo kiguru kujagu barigu , amearydu awaduwo ai .
 # text_por = Fez anoitecer de novo, e de novo fez amanhecer. Aí chamou um outro homem dizendo: - Kiko! Chamou: - Kiko! gritou: - Kao! Disse-lhe: Saia! Para se esquentar, para ver o fogo, para lavar as mãos, para lavar o rosto, para lavar a boca; para fazer as suas necessidades, para ficar esperto.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
-2	boecodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	boecodyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 5	Icare	icare	ADV	adv	_	8	advmod	_	_
@@ -725,7 +725,7 @@
 58	!	!	ADP	punct	_	55	punct	_	_
 
 # sent_id = HMB-criacao_dos_homens-04
-# text = Ure tuiebu , mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emeardae reore: aora bokware , joku bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai: ekure , kujagure , core , kaworure . Oinore ure , dure padyre nono , nowy inodu renure ji gu.. .
+# text = Ure tuiebu , mare nowy ime eerydykare ji . Eerydykare nowy imedy ji , eerydykare Pemo ji . Eerydyre nowy Pemo ji , ukare emeardae reore: aora bokware , joku bokware , enoja bokware , kana bokware , pogora bokware . Ia boe aiarewy padyre nono joru okwai: ekure , kujagure , core , kaworure . Oinore ure , dyre padyre nono , nowy inodu renure ji gu.. .
 # text_port = Ele saiu, mas os homens não o viam. Não viam aquele homem. Não viam Pemo. Viam Pemo mas não era como eles se imaginavam. Não tinha cabeça, não tinha olhos, não tinha nariz, não tinha braços, não tinha pernas. Era uma coisa redonda que estava ali na beira do fogo: era amarelo, vermelho, preto, azul. Assim que era, ele estava a
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
@@ -788,7 +788,7 @@
 59	Oinore	oino	ADV	adv	Mood=Ind	46	parataxis	_	_
 60	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	nsubj	_	_
 61	,	,	PUNCT	punct	_	59	punct	_	_
-62	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	63	nsubj	_	_
+62	dyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	63	nsubj	_	_
 63	padyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	59	parataxis	_	_
 64	nono	nono	ADV	adv	Deixis=Med	63	advmod	_	_
 65	,	,	PUNCT	punct	_	64	punct	_	_
@@ -959,20 +959,20 @@
 61	ai	ji	ADP	posp	Number=Sing|Person=2	58	obl	_	_
 
 # sent_id = HMB-criacao_dos_homens-08
-# text = Icá , akado ! Kodure boe otojiwo paomage reno . Nonore kodure boe otojiwy paomage eiere . Nowy Pao Pemo koia . Nowy tore pawadure jore , nowy pijire pawadary uture . Nowy tore pagie jore , nowy pijire pagie uture . Nowy tore page jore . Nowy pijire page uture . Nowy tore pagoroe jore , nowy pijire pagoroe uture . Nowy tore bakaru jore , nowy pijire bakaru uture . Nowy kodure boe otojiwy Pao koia
+# text = Icá , akado ! Kodyre boe otojiwo paomage reno . Nonore kodyre boe otojiwy paomage eiere . Nowy Pao Pemo koia . Nowy tore pawadyre jore , nowy pijire pawadary uture . Nowy tore pagie jore , nowy pijire pagie uture . Nowy tore page jore . Nowy pijire page uture . Nowy tore pagoroe jore , nowy pijire pagoroe uture . Nowy tore bakaru jore , nowy pijire bakaru uture . Nowy kodyre boe otojiwy Pao koia
 # text_por = Eis! Veja! Esses são os nossos primeiros pais. Assim que era o nome dos nossos primeiros pais. Pela ação do nosso Pai Pemo. Nele estava a nossa palavra, dele saiu a nossa palavra. Nele estava o nosso nome, o nosso nome saiu dele. O nosso alimento estava nele. Dele saiu o nosso alimento. Nossos enfeites estavam nele, dele saíram os nossos enfeites. Nele estava a nossa história. A nossa história saiu dele. Pela ação daquele nosso primeiro Pai.
 1	Icá	icá	PRON	pron	PronType=Int	3	nsubj	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	akado	a	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
-5	Kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+5	Kodyre	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 6	boe	boeto	ADV	adv	_	8	nmod	_	_
 7	otojiwo	jiwo	ADV	adv	_	6	flat	_	_
 8	paomage	o	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	5	nsubj	_	_
 9	reno	reno	ADV	adv	_	8	advmod	_	_
 10	.	,	PUNCT	punct	_	5	punct	_	_
 11	Nonore	_	ADV	adv	_	12	advmod	_	_
-12	kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+12	kodyre	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 13	boe	boeto	ADV	adv	_	15	nmod	_	_
 14	otojiwy	jiwy	ADP	posp	Nomzr=Rel	13	flat	_	_
 15	paomage	o	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	16	nsubj	_	_
@@ -985,7 +985,7 @@
 22	.	,	PUNCT	punct	_	20	punct	_	_
 23	Nowy	nowy	DET	dem	Deixis=Med	24	det	_	_
 24	tore	ore	NOUN	n	_	25	obl	_	_
-25	pawadure	pawadu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+25	pawadyre	pawadu	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 26	jore	jore	X	x	_	25	dep	_	_
 27	,	,	PUNCT	punct	_	25	punct	_	_
 28	nowy	nowy	DET	dem	Deixis=Med	29	det	_	_
@@ -1034,7 +1034,7 @@
 71	uture	_	VERB	punct	_	61	conj	_	_
 72	.	,	PUNCT	punct	_	71	punct	_	_
 73	Nowy	nowy	DET	dem	Deixis=Med	74	nsubj	_	_
-74	kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	71	parataxis	_	_
+74	kodyre	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	71	parataxis	_	_
 75	boe	boe	ADV	adv	_	77	nmod	_	_
 76	otojiwy	jiwy	ADP	posp	Nomzr=Rel	75	flat	_	_
 77	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	74	obl	_	_
@@ -1710,7 +1710,7 @@
 54	Ceb	Ceb	PROPN	propn	_	53	flat	_	_
 
 # sent_id = HMB-Os_Bororos-11
-# text = Duwygere eiere Torobaru , Kie Cob . Duwygere eiere Badojeba Kudoro (Kiedy Boiadowu) . Duwugere eiere Ikiedu . Duwygere eiere Meredy , Ki Ceb . Duwygere eiere Ki Bakororo , Kie Ceb . Duwygere eiere Oca Kudurewy , Bad Cob
+# text = Duwygere eiere Torobaru , Kie Cob . Duwygere eiere Badojeba Kudoro (Kiedy Boiadowu) . Duwugere eiere Ikiedu . Duwygere eiere Meredy , Ki Ceb . Duwygere eiere Ki Bakororo , Kie Ceb . Duwygere eiere Oca Kudyrewy , Bad Cob
 # text_port = Os quais se chamam Torobaru (do clã das antas, do lado de cima) Os quais se chamam Badojeba Kudoro (do clã das antas, do meio) Os quais se chamam Ikiedu Os quais se chamam Meredy (do clã das antas, do lado de baixo) Os quais se chamam Ki Bakororo (do clã das antas, do lado de baixo)
 1	Duwygere	du	NOUN	n	_	2	nsubj	_	_
 2	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -1750,14 +1750,14 @@
 36	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	37	nsubj	_	_
 37	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 38	Oca	Oca	PROPN	propn	_	37	ccomp	_	_
-39	Kudurewy	Kudurewy	PROPN	propn	_	38	flat	_	_
+39	Kudyrewy	Kudyrewy	PROPN	propn	_	38	flat	_	_
 40	,	,	PUNCT	punct	_	38	punct	_	_
 41	Bad	Bad	PROPN	propn	_	38	appos	_	_
 42	Cob	Cob	PROPN	propn	_	41	flat	_	_
 
 # sent_id = HMB-Os_Bororos-12
 # text =  Duwygere eiere Atugorewy , Bad Boiadowu . Duwygere eiere Boro Erudu , Bad Cob . Duwygere eiere Kaiaceba , Bad Boiadowu . Duwygere eiere Uwae Epa , Bad Boiadowu . Duwygere eiere  Ewiriga , Bad Cob . Duwygere eiere BakoroAkaru ,Bad Boiadowu . Duwygere eiere Bakoro Kudu , Bad Boiadowu . Duwygere eiere Meriri Upo . Duwygere eiere Kuiabaru . Ca , Eregodajiwyge eie reo
-# text_port = Os quais se chamam Oca Kudurewy (do clã dos chefes , do lado de cima) Os quais se chamam Atugorewy Do clã dos chefes, do meio). Os quais se chamam Boro Erudu ( do clã dos chefes, do lado de cima). Os quais se chamam Kaiaceba (do clã dos chefes, do meio). Os quais se chamam Uwae Epa (do clã dos chefes, do meio). Os quais se chamam Ewiriga (do clã dos chefes, do lado de cima). Os quais se chamam Bakoro Akaru (do clã dos chefes, do meio). Os quais se chamamBakoro Kudu (do clã dos chefes, do meio). Os quais se chamam Meri Upo Os quais se chamam Kuiabaru Eis, estes são os que vieram depois daqueles
+# text_port = Os quais se chamam Oca Kudyrewy (do clã dos chefes , do lado de cima) Os quais se chamam Atugorewy Do clã dos chefes, do meio). Os quais se chamam Boro Erudu ( do clã dos chefes, do lado de cima). Os quais se chamam Kaiaceba (do clã dos chefes, do meio). Os quais se chamam Uwae Epa (do clã dos chefes, do meio). Os quais se chamam Ewiriga (do clã dos chefes, do lado de cima). Os quais se chamam Bakoro Akaru (do clã dos chefes, do meio). Os quais se chamamBakoro Kudu (do clã dos chefes, do meio). Os quais se chamam Meri Upo Os quais se chamam Kuiabaru Eis, estes são os que vieram depois daqueles
 1	Duwygere	du	PRON	pron	Nomzr=Rel|Number=Plur	2	nsubj	_	_
 2	eiere	_	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	Atugorewy	atugorewy	PROPN	propn	_	2	ccomp	_	_
@@ -1883,7 +1883,7 @@
 52	reno	reno	ADV	adv	_	51	advmod	_	_
 
 # sent_id = HMB-Primeira_Aldeia-01
-# text = Ure nowy ekerogu maky ty etai . Ure etudo . Ekodure kuri , nowy Bakurebo okwato , Anabo Bororo kae . Icare eedure Anabo Bororo keje tuiamedy tabo .
+# text = Ure nowy ekerogu maky ty etai . Ure etudo . Ekodyre kuri , nowy Bakurebo okwato , Anabo Bororo kae . Icare eedyre Anabo Bororo keje tuiamedy tabo .
 # text_port = Quando ele (Pemo) deu os alimentos para os Bororo, eles foram embora. Ele fez que eles viajassem. Dirigiram-se para a margem do rio Bakurebo, para a aldeia de Anabo Bororo. Então ficaram na aldeia Anabo Bororo todos juntos
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 2	nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
@@ -1899,7 +1899,7 @@
 12	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	13	nsubj	_	_
 13	etudo	_	VERB	v	_	4	parataxis	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
-15	Ekodure	kodu	VERB	v	Number=Plur|Person=3	13	parataxis	_	_
+15	Ekodyre	kodu	VERB	v	Number=Plur|Person=3	13	parataxis	_	_
 16	kuri	kuri	ADV	adv	_	15	advmod	_	_
 17	,	,	PUNCT	punct	_	15	punct	_	_
 18	nowy	nowy	DET	dem	Deixis=Med	19	det	_	_
@@ -1912,7 +1912,7 @@
 25	kae	kae	ADP	posp	_	24	obl	_	_
 26	.	.	PUNCT	punct	_	24	punct	_	_
 27	Icare	_	ADV	adv	_	28	advmod	_	_
-28	eedure	_	VERB	v	_	15	parataxis	_	_
+28	eedyre	_	VERB	v	_	15	parataxis	_	_
 29	Anabo	Anabo	NOUN	n	_	30	nmod	_	_
 30	Bororo	bororo	PROPN	propn	_	28	obl	_	_
 31	keje	keje	ADP	posp	_	30	case	_	_
@@ -1920,7 +1920,7 @@
 33	tabo	apo	ADP	posp	Number=Sing|Person=3	32	case	_	_
 
 # sent_id = HMB-Primeira_Aldeia-02
-# text = Nowy Anabo Bororo bukejere icare ure barogwa kododydo pugeje , awy kiege kugure ewogai pugeje . Icare akore Piroje ! Piroje ! Egogodyre . Akore Taebu ! Tagogwagewo okureboeji . Icare ere tuiebu . Emagare rugadu . Nowy boeto jiwyge eiekare , nowy boiwure icare eiegidure . Dure eiere oinono: Piroje , Piroje . Mare boenure emage . Ure boedo emage boi pugeje . Oino
+# text = Nowy Anabo Bororo bukejere icare ure barogwa kododydo pugeje , awy kiege kugure ewogai pugeje . Icare akore Piroje ! Piroje ! Egogodyre . Akore Taebu ! Tagogwagewo okureboeji . Icare ere tuiebu . Emagare rugadu . Nowy boeto jiwyge eiekare , nowy boiwure icare eiegidyre . dyre eiere oinono: Piroje , Piroje . Mare boenure emage . Ure boedo emage boi pugeje . Oino
 # text_port = Aí na aldeia de Anabo ele fez amanhecer novamente para os passarinhos Aí ele disse: Andorinhas! Andorinhas! - Saiam! Para comer frutas. Então elas saíram. Eram muitas mesmo. As primeiras não tinham nome. As últimas tinham. Elas se chamavam "Andorinhas". Mas elas eram gente. Ultimamente ele as tinha convertido em gente.
 1	Nowy	nowy	DET	dem	Deixis=Med	3	det	_	_
 2	Anabo	anabo	VERB	v	Number=Plur|Person=3|Voice=Cau	3	nmod	_	_
@@ -1968,9 +1968,9 @@
 44	nowy	nowy	DET	dem	Deixis=Med	45	det	_	_
 45	boiwure	_	NOUN	n	Mood=Ind	47	nsubj	_	_
 46	icare	icare	ADV	adv	_	47	advmod	_	_
-47	eiegidure	iegidu	VERB	v	Mood=Ind|Number=Plur|Person=3	34	conj	_	_
+47	eiegidyre	iegidu	VERB	v	Mood=Ind|Number=Plur|Person=3	34	conj	_	_
 48	.	.	PUNCT	punct	_	47	punct	_	_
-49	Dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	50	nsubj	_	_
+49	dyre	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	50	nsubj	_	_
 50	eiere	ie	VERB	v	Mood=Ind|Number=Plur|Person=3	34	conj	_	_
 51	oinono	oinono	ADV	n	_	50	advmod	_	SpaceAfter=No
 52	:	:	PUNCT	punct	_	50	punct	_	_
@@ -1991,7 +1991,7 @@
 67	Oino	oino	ADV	adv	_	62	parataxis	_	_
 
 # sent_id = HMB-Primeira_Aldeia-03
-# text = Ure boecodydo pugeje . Ure barogwa kododydo pugeje . Makore toro pugeje . Akore Kiege kugure , taebu mato ! Tawoaduwo boe oto ji , taegarewo boe oto ji , tagogwagewo okureboe ji , tudureboe ji
+# text = Ure boecodydo pugeje . Ure barogwa kododydo pugeje . Makore toro pugeje . Akore Kiege kugure , taebu mato ! Tawoaduwo boe oto ji , taegarewo boe oto ji , tagogwagewo okureboe ji , tudyreboe ji
 # text_port = Ele fez aniotecer e fez amanhcer de novo. Chamou novamente dizendo: - Passarinhos! Saiam para cá! Para brincar no espaço, pare se alegrarem no espaço, para comerem flores e frutas.
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	boecodydo	boecody	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
@@ -2027,7 +2027,7 @@
 32	okureboe	okureboe	NOUN	_	_	31	obl	_	_
 33	ji	ji	ADP	posp	Number=Sing|Person=3	32	conj	_	_
 34	,	,	PUNCT	punct	_	31	punct	_	_
-35	tudureboe	tudureboe	NOUN	n	_	21	obl	_	_
+35	tudyreboe	tudyreboe	NOUN	n	_	21	obl	_	_
 36	ji	ji	ADP	posp	Number=Sing|Person=3	35	case	_	_
 
 # sent_id = HMB-Primeira_Aldeia-04
@@ -2112,17 +2112,17 @@
 14	ji	ji	ADP	posp	Number=Sing|Person=3	14	obl	_	_
 
 # sent_id = HMB-Primeira_Aldeia-06
-# text = Barogwa kododure Pemo apo pobo keje rugadu. Unudure nowy pobo tada, merure nowy pobo ao ji. Kodire nowy Pao Pemo apore nowy pobo boture boeto ji . Awy baru, awy moto, awy itura, awy kiaorewy, awy ipogurutoru jamedy boe otodaire pobo kodure Pao apo. Ca! Oino.
+# text = Barogwa kododyre Pemo apo pobo keje rugadu. Unudyre nowy pobo tada, merure nowy pobo ao ji. Kodire nowy Pao Pemo apore nowy pobo boture boeto ji . Awy baru, awy moto, awy itura, awy kiaorewy, awy ipogurutoru jamedy boe otodaire pobo kodyre Pao apo. Ca! Oino.
 # text_port = O dia amanheceu com Pemo, na água. Ele dormia na água, e andava na água. Por isso a água brotou com Pemo no começo. Antes do céu e da terra, da mata, do campo e do cerrado, antes de tudo veio a água com Pemo. Eis! Foi assim
 1	Barogwa	barogwa	NOUN	n	_	2	nsubj	_	_
-2	kododure	kododu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	kododyre	kododu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	Pemo	Pemo	PROPN	propn	_	2	obl	_	_
 4	apo	apo	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	pobo	pobo	NOUN	n	_	3	obl	_	_
 6	keje	keje	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	rugadu	rugadu	ADV	adv	_	2	advmod	_	_
 8	.	.	PUNCT	punct	_	2	punct	_	_
-9	Unudure	nudu	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
+9	Unudyre	nudu	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	2	parataxis	_	_
 10	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	11	dep	_	_
 11	pobo	pobo	NOUN	n	_	9	obl	_	_
 12	tada	tada	ADP	posp	_	11	case	_	_
@@ -2162,7 +2162,7 @@
 46	boe	boe	NOUN	_	_	32	conj	_	_
 47	otodaire	otodai	ADP	_	Number=Plur|Person=3	46	obl	_	_
 48	pobo	pobo	NOUN	_	_	46	conj	_	_
-49	kodure	kodu	VERB	_	Mood=Ind	2	parataxis	_	_
+49	kodyre	kodu	VERB	_	Mood=Ind	2	parataxis	_	_
 50	Pao	o	NOUN	_	Clusivity=In|Number=Plur|Person=1	49	obl	_	_
 51	apo	apo	ADP	_	Number=Plur|Person=3	50	case	_	_
 52	.	.	PUNCT	_	_	49	punct	_	_
@@ -2456,7 +2456,7 @@
 29	ra	ra	INTJ	punct	_	27	discourse	_	_
 
 # sent_id = HMB-hora_da_criacao-02
-# text = Ca! Nonore icare ure boecodydo , icare ure barogwa kododydo . Dykeje icare ure kagariga akogo . Kogoriga kudugodyre dykejere icare Pemore tonaregedy udo tudo moto ji , pr ! Dykeje icare nowy makore bogaiboe jamedy padure moto kajeje .
+# text = Ca! Nonore icare ure boecodydo , icare ure barogwa kododydo . Dykeje icare ure kagariga akogo . Kogoriga kudugodyre dykejere icare Pemore tonaregedy udo tudo moto ji , pr ! Dykeje icare nowy makore bogaiboe jamedy padyre moto kajeje .
 # text_port = Eis! Então ele fez anoitecer e fez amanhecer. Então ele fez cantar o galo. Quando o galo gritou, Pemo se fez jogar no chão pelo seu filho. Então tudo aquilo que (o filho) tinha falado apareceu sobre a terra.
 1	Ca	ca	INTJ	intj	_	6	discourse	_	_
 2	!	!	PUNCT	_	_	1	punct	_	_
@@ -2554,7 +2554,7 @@
 
 
 # sent_id = HMB-marcha_ate_Meruri-01
-# text = Ca ! Dytabore icare Pemore boe etydo . Ure boe egodo . Kodure boe ebo . Ure boe etydo . Ure kodure boe oto jiwyge ekudugo
+# text = Ca ! Dytabore icare Pemore boe etydo . Ure boe egodo . Kodyre boe ebo . Ure boe etydo . Ure kodyre boe oto jiwyge ekudugo
 # text_port = Eis! Nesse tempo Pemo fez o povo andar. Ele o fez falar. Ele andava com o povo. Os fez ir embora. Fez com que aqueles que iam na ponta começasses a gritassem.
 1	Ca	ca	INTJ	intj	_	7	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -2568,7 +2568,7 @@
 10	boe	boe	NOUN	n	Number=Plur	11	obj	_	_
 11	egodo	ko	VERB	v	Number=Plur|Person=3|Voice=Cau	7	parataxis	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
-13	Kodure	kodu	VERB	v	Mood=Ind	7	parataxis	_	_
+13	Kodyre	kodu	VERB	v	Mood=Ind	7	parataxis	_	_
 14	boe	boe	NOUN	n	Number=Plur	13	obl	_	_
 15	ebo	apo	ADP	posp	Number=Plur|Person=3	14	case	_	_
 16	.	.	PUNCT	punct	_	13	punct	_	_
@@ -2577,7 +2577,7 @@
 19	etydo	ty	VERB	v	Number[abs]=Plur|Person[abs]=3|Voice=Cau	7	parataxis	_	_
 20	.	_	PUNCT	punct	_	19	punct	_	_
 21	Ure	re	PRON	bi	Mood=Ind|Number=Sing|Person=3	26	nsubj	_	_
-22	kodure	kodu	VERB	vi	Mood=Ind|Number=Sing|Person=3	26	obj	_	_
+22	kodyre	kodu	VERB	vi	Mood=Ind|Number=Sing|Person=3	26	obj	_	_
 23	boe	boe	NOUN	n	_	22	obl	_	_
 24	oto	oto	NOUN	n	Number=Sing|Person=3	23	case	_	_
 25	jiwyge	ji	ADP	posp	Nomzr=Rel|Number=Plur	22	dep	_	_
@@ -2626,9 +2626,9 @@
 8	ooo	ooo	INTJ	intj	_	3	parataxis	_	_
 
 # sent_id = HMB-marcha_ate_Meruri-03-2
-# text = Kodure eregodajiwyge egore u u ... u u...u u . Kodure eregodajiwyge egore tori to to to , tori to to to . Oino dytabo .
+# text = Kodyre eregodajiwyge egore u u ... u u...u u . Kodyre eregodajiwyge egore tori to to to , tori to to to . Oino dytabo .
 # text_port = Os seguintes diziam: - u u... u u...u u... Os que iam depois destes diziam: Tori to to to, tori to to to (3x) . Assim
-1	Kodure	kodure	NOUN	n	_	3	nsubj	_	_
+1	Kodyre	kodyre	NOUN	n	_	3	nsubj	_	_
 2	eregodajiwyge	rekodaji	NOUN	n	Nomzr=Rel|Number=Plur|Number[psor]=Plur|Person[psor]=3	1	nmod	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	u	u	X	adv	_	3	ccomp	_	_
@@ -2640,7 +2640,7 @@
 10	u	u	X	n	_	4	parataxis	_	_
 11	u	u	X	punct	_	10	conj	_	_
 12	.	.	PUNCT	punct	_	10	punct	_	_
-13	Kodure	kodu	VERB	v	_	15	nsubj	_	_
+13	Kodyre	kodu	VERB	v	_	15	nsubj	_	_
 14	eregodajiwyge	rekodaji	NOUN	n	Nomzr=Rel|Number=Plur|Number[psor]=Plur|Person[psor]=3	13	nmod	_	_
 15	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
 16	tori	tori	NOUN	n	_	15	obl	_	_
@@ -2730,7 +2730,7 @@
 69	etydo	ty	NOUN	n	Number=Plur|Person=3|Voice=Cau	64	parataxis	_	_
 
 # sent_id = HMB-marcha_ate_Meruri-05
-# text = Boe etyre nowy tuwadary tabo . Boe ekodure jii ... je . Icare boe etaregodyre nowy Anabo Bororo kae , nowy tuwadary tabo , nowy tumago tabo , nowy tugerogu tabo . Ca !
+# text = Boe etyre nowy tuwadary tabo . Boe ekodyre jii ... je . Icare boe etaregodyre nowy Anabo Bororo kae , nowy tuwadary tabo , nowy tumago tabo , nowy tugerogu tabo . Ca !
 # text_port = O povo foi embora com sua prórpia fala. Andaram muito tempo. Até que chegaram à aldeia Anabo Bororo, com sua língua, com sua fala, com sua comida.
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	etyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -3168,14 +3168,14 @@
 26	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	25	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-16
-# text = Boekimo rema ! Arigao Kigadurewy rabody
+# text = Boekimo rema ! Arigao Kigadyrewy rabody
 # text_eng =
 # text_por = Pois então , na verdade era um cão branco.
 1	Boekimo	boe	NOUN	n	Number=Plur	4	discourse	_	_
 2	rema	rema	PART	prcl	_	1	dep	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 4	Arigao	Arigao	PROPN	propn	_	0	root	_	_
-5	Kigadurewy	kigady	NOUN	n	Mood=Ind|Nomzr=Rel	4	nmod	_	_
+5	Kigadyrewy	kigady	NOUN	n	Mood=Ind|Nomzr=Rel	4	nmod	_	_
 6	rabody	rabodu	ADV	adv	_	4	advmod	_	_
 
 # sent_id = ArigaodogeEiTuguodo-17
@@ -3277,7 +3277,7 @@
 7	to	uro	ADP	püosp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-23
-# text = Kujagu maere , kigadu maere , co maere , awygere , enoroe pemegare ; kodure boiwuge , emagere enoroe pemegakare
+# text = Kujagu maere , kigadu maere , co maere , awygere , enoroe pemegare ; kodyre boiwuge , emagere enoroe pemegakare
 # text_eng =
 # text_por = O vermelho por inteiro , o branco por inteiro , o preto por inteiro , esses , as características deles são mais bonitas; os que vieram depois/por último , esses suas características não são bonitas.
 1	Kujagu	kujagu	NOUN	n	_	13	nsubj:outer	_	_
@@ -3294,7 +3294,7 @@
 12	enoroe	oroe	NOUN	n	Number=Plur|Person=3	13	nsubj	_	_
 13	pemegare	pemega	NOUN	n	Mood=Ind	0	root	_	_
 14	;	;	PUNCT	punct	_	13	punct	_	_
-15	kodure	kodu	VERB	vi	Mood=Ind|Number=Sing|Person=3	13	parataxis	_	_
+15	kodyre	kodu	VERB	vi	Mood=Ind|Number=Sing|Person=3	13	parataxis	_	_
 16	boiwuge	boiwu	ADV	adv	_	15	advmod	_	_
 17	,	,	PUNCT	punct	_	15	punct	_	_
 18	emagere	emage	PRON	pron	Mood=Ind|Number=Plur	20	discourse	_	_
@@ -3360,9 +3360,9 @@
 20	ji	ji	ADP	posp	Number=Sing|Person=3	18	case	_	_
 
 # sent_id = ArigaodogeEiTuguodo-27
-# text = Okoge Ebowu ure Arigao Kigadu maerewy maky Porirewy ai , icare Porirewy akore Arigao Kigadurewy rugadu , ie bokwa
+# text = Okoge Ebowu ure Arigao Kigadu maerewy maky Porirewy ai , icare Porirewy akore Arigao Kigadyrewy rugadu , ie bokwa
 # text_eng =
-# text_por = Okoge Ebowu doou o cão branco por completo a Porirewy. Então Porirewy disse: Arigao Kigadurewy mesmo , não tem nome.
+# text_por = Okoge Ebowu doou o cão branco por completo a Porirewy. Então Porirewy disse: Arigao Kigadyrewy mesmo , não tem nome.
 1	Okoge	Okoge	PROPN	propn	_	3	dep	_	_
 2	Ebowu	Ebowu	PROPN	propn	_	1	flat	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
@@ -3377,21 +3377,21 @@
 12	Porirewy	Porirewy	PROPN	propn	_	13	nsubj	_	_
 13	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	7	parataxis	_	_
 14	Arigao	Arigao	PROPN	propn	_	13	ccomp	_	_
-15	Kigadurewy	Kigadurewy	PROPN	propn	_	14	flat	_	_
+15	Kigadyrewy	Kigadyrewy	PROPN	propn	_	14	flat	_	_
 16	rugadu	rugadu	ADV	adv	_	14	advmod	_	_
 17	,	,	PUNCT	punct	_	14	punct	_	_
 18	ie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	19	nsubj	_	_
 19	bokwa	bokwa	ADV	adv	Polarity=Neg	14	conj	_	_
 
 # sent_id = ArigaodogeEiTuguodo-28
-# text = Iwagududoge ere ia Arigao Kigadurewy maky Ino Kuri ai , eno core
+# text = Iwagududoge ere ia Arigao Kigadyrewy maky Ino Kuri ai , eno core
 # text_eng =
 # text_por = Os Iwagudu deram um cão branco a Ino Kuri , com nariz preto.
 1	Iwagududoge	Iwagudu	PROPN	propn	_	2	dep	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
 3	ia	ia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
 4	Arigao	Arigao	PROPN	propn	_	6	obj	_	_
-5	Kigadurewy	Kigadurewy	PROPN	propn	_	4	nmod	_	_
+5	Kigadyrewy	Kigadyrewy	PROPN	propn	_	4	nmod	_	_
 6	maky	_	VERB	v	_	0	root	_	_
 7	Ino	_	PROPN	propn	_	6	obl	_	_
 8	Kuri	_	PROPN	propn	_	7	flat	_	_
@@ -3497,9 +3497,9 @@
 22	iorubodaregedo	jorubadare	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	parataxis	_	_
 
 # sent_id = CoqueiroAutobio-10
-# text = Iwydyre Koroia keje . Iogware , iwagudu , iere Kodoridurewy , iere Butoregadu . Imuga Iere Butugo Mugu , Bokodori Eceraredo . Imugure Koroia keje jii , kejere iricodure
+# text = Iwydyre Koroia keje . Iogware , iwagudu , iere Kodoridyrewy , iere Butoregadu . Imuga Iere Butugo Mugu , Bokodori Eceraredo . Imugure Koroia keje jii , kejere iricodyre
 # text_eng =
-# text_por = Eu nasci na Colônia (Colônia Teresa Cristina). Meu pai, um "Iwagudu" (gralha-azul), chamava-se Kodoridureu, e também Butoregadu. Minha mãe chamava-se Butugo Mugu (lugar do bem-te-vi), do clã dos Bokodori Ecerae (tatus-canastra). Fiquei bastante tempo na Colônia, ali fui crescendo
+# text_por = Eu nasci na Colônia (Colônia Teresa Cristina). Meu pai, um "Iwagudu" (gralha-azul), chamava-se Kodoridyreu, e também Butoregadu. Minha mãe chamava-se Butugo Mugu (lugar do bem-te-vi), do clã dos Bokodori Ecerae (tatus-canastra). Fiquei bastante tempo na Colônia, ali fui crescendo
 1	Iwydyre	byty	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	Koroia	Koroia	PROPN	propn	_	1	obl	_	_
 3	keje	keje	ADP	posp	Number=Sing|Person=3	2	case	_	_
@@ -3509,7 +3509,7 @@
 7	iwagudu	iwagudu	NOUN	n	_	5	appos	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=3	10	nsubj	_	_
-10	Kodoridurewy	_	PROPN	propn	_	1	parataxis	_	_
+10	Kodoridyrewy	_	PROPN	propn	_	1	parataxis	_	_
 11	,	,	PUNCT	punct	_	10	punct	_	_
 12	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Number[psor]=Sing|Person=3	13	nsubj	_	_
 13	Butoregadu	Butoregadu	PROPN	propn	_	10	conj	_	_
@@ -3528,10 +3528,10 @@
 26	jii	jii	ADV	adv	_	24	advmod	_	_
 27	,	,	PUNCT	punct	_	24	punct	_	_
 28	kejere	keje	ADV	adv	Mood=Ind	29	advmod	_	_
-29	iricodure	ricodu	VERB	v	Mood=Ind|Number=Sing|Person=1	23	parataxis	_	_
+29	iricodyre	ricodu	VERB	v	Mood=Ind|Number=Sing|Person=1	23	parataxis	_	_
 
 # sent_id = CoqueiroAutobio-11
-# text = Dykeje icare ityre . ityre woje bakowuboe to , ora kae , ioga apo , imuga apo . Ikodure apowuge emegaguragare .  Boe ekodo jii toro , boe etaredodure Kiwabo to . Kiwabo piji Boe eture toro Tuguribo to , dypijire cedyre Tuborebo to , dypijire cedyre Bakurebo to
+# text = Dykeje icare ityre . ityre woje bakowuboe to , ora kae , ioga apo , imuga apo . Ikodyre apowuge emegaguragare .  Boe ekodo jii toro , boe etaredodyre Kiwabo to . Kiwabo piji Boe eture toro Tuguribo to , dypijire cedyre Tuborebo to , dypijire cedyre Bakurebo to
 # text_eng =
 # text_por = Depois eu fui embora. Fui para o lado oposto (do rio), para o pantanal, com o meu pai e com a minha mãe. Fui com um grupo grande. Os Bororo andaram muito tempo para lá, e chegaram ao rio Kiwabo (rio das capivaras). Do rio Kiwabo fomos embora para o rio Tuguribo (rio das palmeiras carandá) e dali nós fomos embora para o rio Bakurebo (rio dos macacos bakure)
 1	Dykeje	dykeje	ADV	adv	_	3	advmod	_	_
@@ -3552,7 +3552,7 @@
 16	imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	13	conj	_	_
 17	apo	apo	ADP	adp	Number=Sing|Person=3	16	case	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	_
-19	Ikodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=1	5	parataxis	_	_
+19	Ikodyre	kodu	VERB	v	Mood=Ind|Number=Sing|Person=1	5	parataxis	_	_
 20	apowuge	apowu	NOUN	n	Number=Plur	19	obl	_	_
 21	emegaguragare	_	NOUN	n	_	20	nmod	_	_
 22	.	.	PUNCT	punct	_	19	punct	_	_
@@ -3562,7 +3562,7 @@
 26	toro	toro	ADV	adv	Deixis=Remt	24	advmod	_	_
 27	,	,	PUNCT	punct	_	24	punct	_	_
 28	boe	boe	NOUN	n	Number=Plur	29	nsubj	_	_
-29	etaredodure	aredo	VERB	v	Mood=Ind|Number=Plur|Person=3	24	conj	_	_
+29	etaredodyre	aredo	VERB	v	Mood=Ind|Number=Plur|Person=3	24	conj	_	_
 30	Kiwabo	Kiwabo	PROPN	propn	_	29	obl	_	_
 31	to	to	ADP	posp	Number=Sing|Person=3	30	case	_	_
 32	.	.	PUNCT	punct	_	29	punct	_	_
@@ -3585,7 +3585,7 @@
 49	to	to	ADP	posp	Number=Sing|Person=3	48	case	_	_
 
 # sent_id = CoqueiroAutobio-12
-# text = Dykejere Boe ere tugirimi mato pugeje , etaidykare toro pugeje kodi . Ekodure mato , mato , Tuguribo to pugeje . Nonore ere bato . Boe emagare . Ia barae mugure Boe ebo . Makore Boe ei boe ewadary tabo ia meriri mako rakarewy tabo . Joru makare nono
+# text = Dykejere Boe ere tugirimi mato pugeje , etaidykare toro pugeje kodi . Ekodyre mato , mato , Tuguribo to pugeje . Nonore ere bato . Boe emagare . Ia barae mugure Boe ebo . Makore Boe ei boe ewadary tabo ia meriri mako rakarewy tabo . Joru makare nono
 # text_eng =
 # text_por = Depois os Bororo voltaram, não gostaram mais de lá. Foram voltando para cá até chegar de novo no Tuguribo. Aí eles fizeram aldeia. Tinha muitos Bororo. Tinha um branco com eles. Falava em bororo para os Bororos usava alto-falante. Ali passaram vários anos
 1	Dykejere	dykejere	ADV	adv	_	4	advmod	_	_
@@ -3600,7 +3600,7 @@
 10	pugeje	pugeje	ADV	adv	_	8	advmod	_	_
 11	kodi	kodi	SCONJ	sconj	_	8	mark	_	_
 12	.	.	PUNCT	punct	_	8	punct	_	_
-13	Ekodure	kodu	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
+13	Ekodyre	kodu	VERB	v	Number=Plur|Person=3	4	parataxis	_	_
 14	mato	mato	ADV	adv	_	13	advmod	_	_
 15	,	,	PUNCT	punct	_	14	punct	_	_
 16	mato	mato	ADV	adv	_	14	advmod	_	_
@@ -3668,7 +3668,7 @@
 24	kae	kae	ADP	posp	Number=Sing|Person=3	23	case	_	_
 
 # sent_id = CoqueiroAutobio-14
-# text = Icare cedyre piji pugeje .  Cegodyre jii . Kuruie Emerao to , mano kaere kuruie ety etyre , kodi icare iere Kuruie Emerao , maridoguru . Boe edure nono jii je , togwage tabo tugerogu boe ji : tuge aigujo , tuge mano , tuge otoe
+# text = Icare cedyre piji pugeje .  Cegodyre jii . Kuruie Emerao to , mano kaere kuruie ety etyre , kodi icare iere Kuruie Emerao , maridoguru . Boe edyre nono jii je , togwage tabo tugerogu boe ji : tuge aigujo , tuge mano , tuge otoe
 # text_eng =
 # text_por = Depois fomos embora dali novamente. Fomos até Kuruie Emerao (lugar das excursões dos rapazes)  Os rapazes costumavam ir lá pegar coco de buriti, por isso se chama assim Kuruie Emarao. Era um buritizal. Os Bororo ficaram ali bastante tempo, se alimentando, comendo cará, coco de buriti, batata do brejo.
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
@@ -3698,7 +3698,7 @@
 25	maridoguru	maridoguru	NOUN	n	_	22	parataxis	_	_
 26	.	.	PUNCT	punct	_	25	punct	_	_
 27	Boe	boe	NOUN	n	_	28	nsubj	_	_
-28	edure	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+28	edyre	ty	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 29	nono	nono	ADV	adv	Deixis=Med	28	advmod	_	_
 30	jii	jii	ADV	adv	_	28	advmod	_	_
 31	je	je	ADV	adv	_	30	advmod	_	_
@@ -3719,11 +3719,11 @@
 46	otoe	otoe	NOUN	n	_	45	nmod	_	_
 
 # sent_id = CoqueiroAutobio-15
-# text = Boe eedure nono togwage tabo tuge jugo ji , tuge buke ji , tuge apogo ji , tuge okwaru ji , tuge ki ji . Ii ! Boe eke kurinure rugadu !
+# text = Boe eedyre nono togwage tabo tuge jugo ji , tuge buke ji , tuge apogo ji , tuge okwaru ji , tuge ki ji . Ii ! Boe eke kurinure rugadu !
 # text_eng =
 # text_por = Os Bororo ficaram ali, comendo queixada, tamanduá-bandeira, tamanduá-mirim, tatupeba, anta. I! O povo tinha muita comida mesmo!
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	eedure	edu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	eedyre	edu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	nono	nono	ADV	adv	Deixis=Med	2	advmod	_	_
 4	togwage	okwage	NOUN	n	Reflex=Yes	2	obl	_	_
 5	tabo	apo	ADP	posp	Number=Sing|Person=3	4	case	_	_
@@ -3811,7 +3811,7 @@
 26	erere	re	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = CoqueiroAutobio-18
-# text = Ca , nowy piji icare Boe etaregodyre , tumode tugado puiatowy kae . Koroia kaewyge ekodure woje , pagana koborewy jaogwai . Kejari kaewyge woje pagana pemegarewy jaogwai
+# text = Ca , nowy piji icare Boe etaregodyre , tumode tugado puiatowy kae . Koroia kaewyge ekodyre woje , pagana koborewy jaogwai . Kejari kaewyge woje pagana pemegarewy jaogwai
 # text_eng =
 # text_por = Eis! Dali os Bororo vieram para o lugar onde iam se repartir. Os que iriam para a Colônia foram para a esquerda. Os que iriam para Kejari foram para a direita
 1	Ca	ca	INTJ	intj	_	7	discourse	_	_
@@ -3829,7 +3829,7 @@
 13	.	.	PUNCT	punct	_	10	punct	_	_
 14	Koroia	Koroia	NOUN	n	_	16	nsubj	_	_
 15	kaewyge	kae	NOUN	n	Nomzr=Rel|Number=Plur	14	nmod	_	_
-16	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	7	parataxis	_	_
+16	ekodyre	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	7	parataxis	_	_
 17	woje	woje	ADV	adv	_	16	advmod	_	_
 18	,	,	PUNCT	punct	_	16	punct	_	_
 19	pagana	_	NOUN	n	_	14	conj	_	_
@@ -3844,7 +3844,7 @@
 28	jaogwai	jaogwai	ADV	adv	_	26	advmod	_	_
 
 # sent_id = CoqueiroAutobio-19
-# text = Uw ! Icare Boe erore taci , cai tugodyre kodi . Enoiogwarire , ekudure , tuiegare tabo . Wo , cai tudyre dyji ! Erore toro ta ... Cerore woje ta ... Kejari kae
+# text = Uw ! Icare Boe erore taci , cai tugodyre kodi . Enoiogwarire , ekudyre , tuiegare tabo . Wo , cai tudyre dyji ! Erore toro ta ... Cerore woje ta ... Kejari kae
 # text_eng =
 # text_por = Sim! Ai os Bororo  foram embora, andando. Riam e gritavam alegres. O!  Enquanto partiam. Eles foram para lá, e nos viemos para cá, para Kejari
 1	Uw	uw	INTJ	intj	_	5	discourse	_	_
@@ -3860,7 +3860,7 @@
 11	.	.	PUNCT	punct	_	9	punct	_	_
 12	Enoiogwarire	oiogwari	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
 13	,	,	PUNCT	punct	_	12	punct	_	_
-14	ekudure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	12	conj	_	_
+14	ekudyre	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	12	conj	_	_
 15	,	,	PUNCT	punct	_	14	punct	_	_
 16	tuiegare	iega	VERB	v	Mood=Ind|Reflex=Yes	14	obl	_	_
 17	tabo	tabo	ADP	adp	_	16	case	_	_
@@ -4515,7 +4515,7 @@
 28	kododudo	kodo	VERB	vc	Voice=CauPass	3	conj	_	_
 
 # sent_id = CoqueiroAB-RumoDasMissoes-02.2
-# text = Ure iedadydo . Ure ido iebu boe awady kae , ure ido iemaedo ty baru paru ji : barogwa kodody motyre jetu , awy ime eedurewo jaogwai
+# text = Ure iedadydo . Ure ido iebu boe awady kae , ure ido iemaedo ty baru paru ji : barogwa kodody motyre jetu , awy ime eedyrewo jaogwai
 # text_por = Ele me fez sair fora, fez-me olhar ao redor no horizonte: o amanhecer estava bonito para cá, no rumo destes homens.
 # text_eng = 
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
@@ -4543,7 +4543,7 @@
 23	,	,	PUNCT	_	_	21	punct	_	_
 24	awy	awy	DET	dem	Deixis=Prox	25	det	_	_
 25	ime	imedy	NOUN	n	Number=Plur	26	nmod	_	_
-26	eedurewo	_	NOUN	_	Number=Plur|Person=3	21	parataxis	_	_
+26	eedyrewo	_	NOUN	_	Number=Plur|Person=3	21	parataxis	_	_
 27	jaogwai	jaogwai	ADP	posp	Number=Sing|Person=3	26	case	_	_
 
 # sent_id = CoqueiroAB-RumoDasMissoes-03.1
@@ -5363,10 +5363,10 @@
 28	apo	apo	ADP	posp	Number=Sing|Person=3	27	obl	_	_
 
 # sent_id = OiegoJiwuBakaru-14
-# text = Kodure apo jii je , aregodyre apo ba to
+# text = Kodyre apo jii je , aregodyre apo ba to
 # text_eng = He went with it until he got to the village
 # text_por = Foi com ele até chegar na aldeia
-1	Kodure	kodure	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+1	Kodyre	kodyre	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	apo	apo	ADP	posp	Number=Sing|Person=3	1	obl	_	_
 3	jii	jii	ADV	adv	_	1	advmod	_	_
 4	je	je	ADV	adv	_	3	compound	_	_
@@ -5570,7 +5570,7 @@
 14	!	!	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-24
-# text = Icare akore : Woie ... igo ! Woie ... igo ! Woie ... igo ! Woere ikodure , woere itugudyre
+# text = Icare akore : Woie ... igo ! Woie ... igo ! Woie ... igo ! Woere ikodyre , woere itugudyre
 # text_eng = Then he said:
 # text_por = Depois acrescentou: - Woie ... igo! Woie ... igo! Woie ... igo! (aqui estou cozinhado)
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
@@ -5589,7 +5589,7 @@
 14	igo	_	X	x	_	6	conj	_	_
 15	!	!	PUNCT	punct	_	14	punct	_	_
 16	Woere	woe	ADV	adv	Mood=Ind	17	advmod	_	_
-17	ikodure	kodu	VERB	n	Mood=Ind|Number=Sing|Person=3	6	conj	_	meat,cook meat;carne,cozinhar carne
+17	ikodyre	kodu	VERB	n	Mood=Ind|Number=Sing|Person=3	6	conj	_	meat,cook meat;carne,cozinhar carne
 18	,	,	PUNCT	punct	_	17	punct	_	_
 19	woere	woe	ADV	adv	Mood=Ind	20	advmod	_	_
 20	itugudyre	tugudu	VERB	v	Mood=Ind|Number=Sing|Person=3	6	ccomp	_	cook,burry;cozinhar,enterrar
@@ -6114,7 +6114,7 @@
 8	ei	i	ADP	posp	Number=Plur|Person=3	7	case	_	_
 
 # sent_id = Valmir-16
-# text = Itaiwore ty oino pawobe ei , inogudure ty pudabo pagore kugure ebo
+# text = Itaiwore ty oino pawobe ei , inogudyre ty pudabo pagore kugure ebo
 # text_eng = I see our people, I pity our small children
 # text_por = Eu vejo o nosso povo, eu fico com pena dos nosso filhoses pequenos
 1	Itaiwore	aiwo	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
@@ -6123,7 +6123,7 @@
 4	pawobe	wobe	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	1	obl	_	_
 5	ei	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 6	,	,	PUNCT	punct	_	4	punct	_	_
-7	inogudure	okudu	VERB	v	_	1	conj	_	_
+7	inogudyre	okudu	VERB	v	_	1	conj	_	_
 8	ty	ty	ADV	adv	_	7	advmod	_	_
 9	pudabo	apo	ADP	posp	Reflex=Yes	7	obl	_	_
 10	pagore	oredy	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	7	obl	_	_
@@ -6226,7 +6226,7 @@
 5	parudo	_	VERB	vc	Voice=Cau	0	root	_	_
 
 # sent_id = IpareEreru-4
-# text = Ca , boere aroe ereru parudo , icare boe ewadodure
+# text = Ca , boere aroe ereru parudo , icare boe ewadodyre
 # text_eng =
 # text_por = Então o povo celebra a dança das almas; aí avisam
 1	Ca	ca	ADV	adv	_	6	advmod	_	_
@@ -6238,15 +6238,15 @@
 7	,	,	PUNCT	punct	_	6	punct	_	_
 8	icare	icare	ADV	adv	_	10	advmod	_	_
 9	boe	boe	NOUN	n	_	10	nsubj	_	_
-10	ewadodure	u	VERB	v	Mood=Ind|Number=Plur|Person=3	6	parataxis	_	_
+10	ewadodyre	u	VERB	v	Mood=Ind|Number=Plur|Person=3	6	parataxis	_	_
 
 # sent_id = IpareEreru-5
-# text = Boe eimejerage ewadodure ipare etae ipare ewo ipo kado , ipare etuwo bai kae , ipare ewo baiado
+# text = Boe eimejerage ewadodyre ipare etae ipare ewo ipo kado , ipare etuwo bai kae , ipare ewo baiado
 # text_eng =
 # text_por = Os chefes avisam os rapazes para irem cortar paus, para os rapazes irem buscar palha, para fazerem o cercado
 1	Boe	boe	NOUN	n	_	2	nmod	_	_
 2	eimejerage	eimejera	NOUN	n	Number=Plur	3	nsubj	_	_
-3	ewadodure	u	VERB	v	Number=Plur|Person=3	0	root	_	_
+3	ewadodyre	u	VERB	v	Number=Plur|Person=3	0	root	_	_
 4	ipare	ipare	NOUN	n	_	3	obl	_	_
 5	etae	ae	ADP	adp	Number=Plur|Person=3	4	case	_	_
 6	ipare	_	NOUN	n	_	7	dep	_	_
@@ -6473,11 +6473,11 @@
 14	ererure	u	VERB	v	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
 
 # sent_id = IpareEreru-17
-# text = Boe ewadodure , boe etuwo marido oro kae , boe ewo toro pemegado toce , tureruwo tabo
+# text = Boe ewadodyre , boe etuwo marido oro kae , boe ewo toro pemegado toce , tureruwo tabo
 # text_eng =
 # text_por = Se dá o aviso para o povo ir buscar broto de buriti, para preparar a saia para si, para dançar com ela
 1	Boe	_	NOUN	n	_	2	nsubj	_	_
-2	ewadodure	u	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	ewadodyre	u	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	boe	boe	NOUN	n	_	5	nsubj	_	_
 5	etuwo	_	VERB	v	Mood=Sub|Number=Plur|Person=3	2	ccomp	_	_
@@ -7063,11 +7063,11 @@
 9	utyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = FWFFG-0103
-# text = Dieru makydure Fabrício ai mare boe erydykare ji pygeje
+# text = Dieru makydyre Fabrício ai mare boe erydykare ji pygeje
 # text_eng = The money was given to Fabrício, but it wasn't seen anymore
 # text_por = O dinheiro foi dado a Fabrício, mas não foi mais visto
 1	Dieru	dieru	NOUN	n	_	2	nsubj	_	_
-2	makydure	maky	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	_
+2	makydyre	maky	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 3	Fabrício	Fabrício	PROPN	propn	_	2	obl	_	_
 4	ai	ji	ADP	posp	Number=Sing|Person=2	3	case	_	_
 5	mare	mare	CCONJ	cconj	_	7	cc	_	_
@@ -8095,7 +8095,7 @@
 22	ekojai	kojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	[];;
 
 # sent_id = criacao_15
-# text = Deu koiare ure Satanae towyje ure bope towyje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodyre Deu kori kocare Deu ure rugadu barigu
+# text = Deu koiare ure Satanae towyje ure bope towyje boekare etaidyre etugoduwo pudumiwo tugurire , pudumiwo tugodyre Deu kori kocare Deu ure rugadu barigu
 # text_eng =
 # text_por = Deus que fez Satanáe, fez o demonio, antes eles eram bons mas depois eles quíseram ser maior do que Deus, por isso que Deus o expulsou
 1	Deu	Deu	NOUN	n	_	5	nsubj	_	[];;
@@ -8107,7 +8107,7 @@
 7	bope	_	NOUN	n	_	8	obj	_	[];;
 8	towyje	_	VERB	v	_	5	parataxis	_	[];;
 9	boekare	_	ADV	adv	_	10	advmod	_	[];;
-10	etaidure	u	VERB	v	_	5	parataxis	_	[];;
+10	etaidyre	u	VERB	v	_	5	parataxis	_	[];;
 11	etugoduwo	_	VERB	v	_	10	xcomp	_	[];;
 12	pudumiwo	_	VERB	v	_	11	obj	_	[];;
 13	tugurire	_	VERB	v	_	11	xcomp	_	[];;
@@ -9408,20 +9408,20 @@
 2	kodi	kodi	ADV	adv	_	1	mark	_	because;por.que
 
 # sent_id = CGPB-p19.1
-# text = Itaidure imuguwo woe boe ebo
+# text = Itaidyre imuguwo woe boe ebo
 # text_eng = I want to live here with the Bororo
 # text_por = Eu quero morar aqui com os bororos
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want;querer
 2	imuguwo	mugu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	live,be.home,sit;viver,morar,estar.sentado
 3	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	[];;
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	with;com
 
 # sent_id = CGPB-p19.3
-# text = Itaidure boe ji
+# text = Itaidyre boe ji
 # text_eng = I like the Bororo
 # text_por = Eu gosto dos bororo
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	boe	boe	NOUN	n	_	1	obl	_	[];;
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	[];;
 
@@ -9432,20 +9432,20 @@
 1	Akaregodyre	aregodu	VERB	v	Aspect=Inc|Mood=Ind|Number[subj]=Sing|Person[subj]=2	0	root	_	[];;
 
 # sent_id = CGPB-p19.4
-# text = Itaidure iorudiwawo boe ero ji
+# text = Itaidyre iorudiwawo boe ero ji
 # text_eng = I want to know the traditions of the Bororo
 # text_por = Eu quero conhecer os costumes dos bororo
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3	boe	boe	NOUN	n	_	4	nmod	_	[];;
 4	ero	ro	NOUN	n	_	2	obl	_	habits,tradition;costume,tradição
 5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	[];;
 
 # sent_id = CGPB-p19.5
-# text = Itaidure iorudiwawo ewadary ji
+# text = Itaidyre iorudiwawo ewadary ji
 # text_eng = I want to know the language of the Bororo
 # text_por = Eu quero conhecer a língua dos bororo
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
 2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
 3	ewadary	batary	NOUN	n	_	2	obl	_	word,language;palavra,língua,idioma
 4	ji	ji	ADP	posp	Number=Plur|Person=3	3	case	_	[];;
@@ -9466,28 +9466,28 @@
 3	?	?	PUNCT	punct	_	2	punct	_	[];;
 
 # sent_id = CGPB-p24.1
-# text = Itaidure imuguwo woe boe ebo
+# text = Itaidyre imuguwo woe boe ebo
 # text_eng = I want to live close to the Bororo
 # text_por = Eu quero morar aqui perto dos bororo
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	imuguwo	mugu	VERB	v	Number[subj]=Sing|Person[subj]=1|Subord=Yes	1	ccomp	_	[];;
 3	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	2	advmod	_	here;aqui
 4	boe	boe	NOUN	n	_	2	obl	_	[];;
 5	ebo	bo	ADP	posp	Number=Plur|Person=3	4	case	_	[];;
 
 # sent_id = CGPB-p24.2
-# text = Itaidure amuguwo woe
+# text = Itaidyre amuguwo woe
 # text_eng = I want yo to live here
 # text_por = Eu quero que você more aqui
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	ccomp	_	[];;
 3	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	2	advcl	_	[];;
 
 # sent_id = CGPB-p31.1
-# text = Itaidure erudiwawo
+# text = Itaidyre erudiwawo
 # text_eng = I want them to learn/know
 # text_por = Eu quero que eles aprendam/conheçam
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	[];;
 2	erudiwawo	rudiwa	VERB	v	Number=Plur|Person=3|Subord=Yes	1	ccomp	_	[];;
 
 # sent_id = CGPB-p31.2
@@ -9800,17 +9800,17 @@
 7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	[dʒi]
 
 # sent_id = 00.43aPessGr
-# text = Imi ikodure
+# text = Imi ikodyre
 # text_eng = I went / it was I who went
 # text_por = eu fui / Foi eu que fui
 1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	[imi];I;eu
-2	ikodure	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	go;ir
+2	ikodyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	go;ir
 
 # sent_id = 00.43bPessGr
-# text = Ikodure
+# text = Ikodyre
 # text_eng =
 # text_por = I went
-1	Ikodure	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
+1	Ikodyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
 
 # sent_id = 00.46aPessGr
 # text = Ure iwido
@@ -10551,10 +10551,10 @@
 3	pemegare	pemega	NOUN	n	Mood=Ind	0	root	_	[];;
 
 # sent_id = 0072h.PessGr
-# text = kodure pobo kaewy imedy
+# text = kodyre pobo kaewy imedy
 # text_eng =
 # text_por = o homem que foi no rio
-1	kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	4	acl	_	[];;
+1	kodyre	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	4	acl	_	[];;
 2	pobo	pobo	NOUN	n	_	1	obl	_	['pobo'];water;água
 3	kaewy	kae	ADP	posp	Nomzr=Rel	2	case	_	[];;
 4	imedy	imedy	NOUN	n	Number=Sgtv	0	root	_	['kodu];leave,go;sair,ir
@@ -10779,17 +10779,17 @@
 2	maky	maky	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 
 # sent_id = 0095b.PessGr
-# text = Itaidure imaragodywy
+# text = Itaidyre imaragodywy
 # text_eng = I want to worl
 # text_por = Eu quero trabalhar
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi	0	root	_	[];;
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi	0	root	_	[];;
 2	imaragodywy	maragody	VERB	vi	Nomzr=Rel|Number=Sing|Person=1|PronType=Bi	1	xcomp	_	[];;
 
 # sent_id = 0095c.PessGr
-# text = Itaidure ioruduwawo boe ewadary ji
+# text = Itaidyre ioruduwawo boe ewadary ji
 # text_eng = I want to learn Bororo
 # text_por = Eu quero aprender bororo
-1	Itaidure	aidu	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi	0	root	_	[];;
+1	Itaidyre	aidu	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi	0	root	_	[];;
 2	ioruduwawo	jorydyiwa	VERB	v	Nomzr=Rel|Number=Sing|Person=1|PronType=Bi	1	xcomp	_	[];;
 3	boe	boe	NOUN	n	_	4	nmod	_	[];;
 4	ewadary	batary	NOUN	n	Number=Plur|Person=3|PronType=Bi	2	obl	_	[];;
@@ -11067,7 +11067,7 @@
 21	tabo	tabo	ADP	posp	_	20	case	_	with;com
 
 # sent_id = sabia.004
-# text = Oinore akagomode nowy baru piji . Amearydure , amearydure , amearydure ?
+# text = Oinore akagomode nowy baru piji . Amearydyre , amearydyre , amearydyre ?
 # text_eng =
 # text_por = Assim que você vai falar para a água do céu. Escutou? Escutou? Escutou?
 1	Oinore	oino	ADV	adv	Mood=Ind	0	root	_	thus,this way;assim
@@ -11076,11 +11076,11 @@
 4	baru	baru	NOUN	n	_	2	obl	_	sky;céu
 5	piji	piji	ADP	posp	_	4	case	_	from;de
 6	.	.	PUNCT	punct	_	4	punct	_	[];;
-7	Amearydure	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	parataxis	_	hear,listen;ouvir,escutar
+7	Amearydyre	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	parataxis	_	hear,listen;ouvir,escutar
 8	,	,	PUNCT	punct	_	7	punct	_	[];;
-9	amearydure	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	[];;
+9	amearydyre	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	[];;
 10	,	,	PUNCT	punct	_	9	punct	_	[];;
-11	amearydure	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	[];;
+11	amearydyre	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	[];;
 12	?	?	PUNCT	punct	_	11	punct	_	[];;
 
 # sent_id = sabia.005
@@ -11641,11 +11641,11 @@
 4	amodugodyre	amodugody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 
 # sent_id = 030.EncIE
-# text = Apogorajiwy amodurewy maky inai
+# text = Apogorajiwy amodyrewy maky inai
 # text_eng = Give me your used trousers
 # text_por = Dá-me tua calça usada
 1	Apogorajiwy	apogorajiwy	NOUN	n	_	3	nsubj	_	[];;
-2	amodurewy	amodu	NOUN	n	Mood=Ind|Nomzr=Rel	1	nmod	_	[];;
+2	amodyrewy	amodu	NOUN	n	Mood=Ind|Nomzr=Rel	1	nmod	_	[];;
 3	maky	_	VERB	v	Number=Sing|Person=3	0	root	_	[];;
 4	inai	ai	ADP	posp	Number=Sing|Person=1	3	obl	_	[];;
 
@@ -14093,12 +14093,12 @@
 5	ikoduwo	ty	VERB	v	Mood=Sub|Number=Sing|Person=1	1	ccomp	_	_
 
 # sent_id = 041.IETKB
-# text = Oragudure , oragudure , tugoduwo , rekoduwo tuje rekoda ji
+# text = Oragudyre , oragudyre , tugoduwo , rekoduwo tuje rekoda ji
 # text_eng = He cried, cried, in order to go after her
 # text_por = Chorou, chorou, para ir atrás dela
-1	Oragudure	oragudu	VERB	v	Mood=Sub|Number=Sing|Person=3	0	root	_	_
+1	Oragudyre	oragudu	VERB	v	Mood=Sub|Number=Sing|Person=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	oragudure	oragudu	VERB	v	Mood=Sub|Number=Sing|Person=3	1	conj	_	_
+3	oragudyre	oragudu	VERB	v	Mood=Sub|Number=Sing|Person=3	1	conj	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	tugoduwo	ty	VERB	v	Mood=Sub|Number=Sing|Person=3|Reflex=Yes	1	advcl	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
@@ -14965,14 +14965,14 @@
 7	ce	ce	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 # sent_id = RO-2.01
-# text = Boe egore : cewy ceraedure rore oino ji
+# text = Boe egore : cewy ceraedyre rore oino ji
 # text_eng =
 # text_por = Os Bororo dizem: Foi aquele Ceraedo (da metade do Norte) que fez isso com ela
 1	Boe	boe	NOUN	n	_	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	:	:	PUNCT	punct	_	2	punct	_	_
 4	cewy	cewy	DET	dem	Deixis=Remt	5	det	_	_
-5	ceraedure	ceraedu	NOUN	n	Mood=Ind	6	nsubj	_	_
+5	ceraedyre	ceraedu	NOUN	n	Mood=Ind	6	nsubj	_	_
 6	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	2	ccomp	_	_
 7	oino	oino	ADV	adv	AdvType=Man	6	advmod	_	_
 8	ji	ji	ADP	posp	Number=Sing|Person=3	6	obl	_	_
@@ -15053,12 +15053,12 @@
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = RO-4.01
-# text = Ukadawu remawure uwadodure , akore : tagogudydo itabo , taiagudydo itabo !
+# text = Ukadawu remawure uwadodyre , akore : tagogudydo itabo , taiagudydo itabo !
 # text_eng = Have pity on me, have pity on me!
 # text_por = O dono do Couro (o que recebe o couro da onça) anuncia e diz : Tenham dó de mim, tenham pena de mim!
 1	Ukadawu	kadawu	NOUN	n	Nomzr=Rel	2	nmod	_	_
 2	remawure	u	NOUN	adv	_	3	nsubj	_	_
-3	uwadodure	u	VERB	v	_	0	root	_	_
+3	uwadodyre	u	VERB	v	_	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	conj	_	_
 6	:	:	PUNCT	punct	_	5	punct	_	_
@@ -15775,10 +15775,10 @@
 5	kogodynure	kogody	VERB	v	Aspect=Prog|Mood=Ind|Voice=IncProg	0	root	_	_
 
 # sent_id = Ochoa-Dic-Ex-663
-# text = nabure ekodure kuide etabagao
+# text = nabure ekodyre kuide etabagao
 # text_por = As araras vermelhas iam entre as araras amarelas
 1	nabure	nabure	NOUN	n	_	2	nsubj	_	_
-2	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	ekodyre	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	kuide	kuide	NOUN	n	_	2	obl	_	_
 4	etabagao	apagao	ADP	posp	Number=Plur||Person=3	3	case	_	_
 
