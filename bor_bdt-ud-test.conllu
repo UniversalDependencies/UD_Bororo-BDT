@@ -16356,3 +16356,20 @@
 5	care	care	ADV	adv	_	6	advmod	_	_
 6	jorydywagodyre	jorydywa	VERB	_	Mood=ind|Voice=CauInc	3	parataxis	_	_
 
+# sent_id = boe_ero-9
+# text = Dykeje icare Boe emagore ji , boere pagudydo , Boe egore atykaba toro
+# text_port = Daí então os bororo falam com ele. Eles o assustam. Os bororo falam: “Não vá lá”.
+1	Dykeje	dykeje	ADV	adv	_	4	advmod	_	_
+2	icare	icare	ADV	adv	_	4	advmod	_	_
+3	Boe	Boe	NOUN	n	Number=Plur	4	nsubj	_	_
+4	emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	boere	boe	NOUN	n	Mood=Ind	8	nsubj	_	_
+8	pagudydo	pagudy	VERB	v	Voice=Caus	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	Boe	bBoe	NOUN	n	_	11	nsubj	_	_
+11	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	8	parataxis	_	_
+12	atykaba	ty	VERB	vi	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	11	ccomp	_	_
+13	toro	toro	ADV	adv	_	12	advmod	_	_
+
