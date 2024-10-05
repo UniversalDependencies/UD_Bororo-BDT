@@ -16287,3 +16287,13 @@
 34	boererogu	boe	NOUN	_	Degree=Dim|Number=Sing	35	nsubj	_	_
 35	by	by	VERB	_	_	26	conj	_	_
 
+# sent_id = boe_ero-5
+# text = Icare merure , merugodyre , batarygodyre
+# text_port = Quando ainda é criança vai crescendo, crescendo e então ele anda, começa a andar e a falar bem
+1	Icare	icare	ADV	_	_	2	advmod	_	_
+2	merure	meru	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	merugodyre	meru	VERB	_	Mood=Ind|Number=Sing|Person=37Voice=CauInc	2	conj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	batarygodyre	batary	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=CauInc	2	conj	_	_
+
