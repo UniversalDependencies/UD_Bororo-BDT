@@ -16248,3 +16248,42 @@
 7	imedyrogu	imedy	NOUN	n	Degree=Dim	6	nmod	_	_
 8	iedo	ie	VERB	v	Voice=Caus	3	parataxis	_	_
 
+# sent_id = boe_ero-4
+# text = Icare boere. Imedy rema , boere okwa porodo , boe eragodyre ie paru ji, okwa paru ji jii ty Ca , boere iedo taci , icare ie akedyre , icare boererogu by
+# text_port = O tempo foi passando e ele se tornou um homem, os bororo furam-lhe o beiço e cantam por um bom tempo o canto para dar o nome ou para furação do beiço. Logo dão o nome e quando termina, o  deitam.
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	boere	boe	NOUN	_	Mood=Ind|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	Imedy	imedy	NOUN	_	Number=Sgtv	2	parataxis	_	_
+5	rema	rema	AUX	_	_	4	aux	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	boere	boe	NOUN	_	Mood=Ind|Number=Sing	9	nsubj	_	_
+8	okwa	okwa	NOUN	_	_	9	obj	_	_
+9	porodo	poro	VERB	_	Voice=Caus	2	parataxis	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	boe	boe	NOUN	_	_	12	nsubj	_	_
+12	eragodyre	ra	VERB	_	Mood=Ind|Number=Plur|Person=3|Voice=CauInc	2	parataxis	_	_
+13	ie	ie	NOUN	_	_	14	nmod	_	_
+14	paru	paru	NOUN	_	_	12	obl	_	_
+15	ji	ji	ADP	_	Number=Sing|Person=3	14	case	_	_
+16	,	_	PUNCT	_	_	14	punct	_	_
+17	okwa	_	NOUN	_	_	18	nmod	_	_
+18	paru	_	NOUN	_	_	14	conj	_	_
+19	ji	ji	ADP	_	Number=Sing|Person=3	18	case	_	_
+20	jii	jii	ADV	_	_	18	advmod	_	_
+21	ty	ty	ADV	_	_	18	advmod	_	_
+22	,	,	PUNCT	_	_	18	punct	_	_
+23	Ca	ca	INTJ	_	_	26	discourse	_	_
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	boere	boe	NOUN	_	Mood=Ind|Number=Sing	26	nsubj	_	_
+26	iedo	ie	VERB	_	Voice=Caus	2	parataxis	_	_
+27	taci	taci	ADV	_	_	26	advmod	_	_
+28	,	,	PUNCT	_	_	26	punct	_	_
+29	icare	icare	ADV	_	_	31	advmod	_	_
+30	ie	ie	NOUN	_	Number=Sing	31	nsubj	_	_
+31	akedyre	akedy	VERB	_	Mood=Ind	26	conj	_	_
+32	,	_	PUNCT	_	_	31	punct	_	_
+33	icare	icare	ADV	_	_	35	advmod	_	_
+34	boererogu	boe	NOUN	_	Degree=Dim|Number=Sing	35	nsubj	_	_
+35	by	by	VERB	_	_	26	conj	_	_
+
