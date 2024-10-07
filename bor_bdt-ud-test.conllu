@@ -16373,3 +16373,32 @@
 12	atykaba	ty	VERB	vi	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	11	ccomp	_	_
 13	toro	toro	ADV	adv	_	12	advmod	_	_
 
+# sent_id = boe_ero-10
+# text = Oino Boe egore kugure boe epagudae rema . Boe egore kugu , oino . Egore atu kaba toro , oino . Boe egore adugo , oino
+# text_port = é assim que falam: “É de bicho que os bororo têm medo”. Os bororo dizem: “Olha lá o curujão!”. Eles falam: “Não vá lá”. Eles falam: “Olha lá a onça”.
+1	Oino	oino	ADV	adv	_	3	advmod	_	_
+2	Boe	Boe	PROPN	_	Number=Plur	3	nsubj	_	_
+3	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	kugure	kugure	NOUN	_	_	5	nsubj	_	_
+5	boe	boe	NOUN	_	_	3	ccomp	_	_
+6	epagudae	epagudae	NOUN	_	_	5	flat	_	_
+7	rema	rema	AUX	aux	_	5	aux	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+9	Boe	Boe	PROPN	propn	Number=Plur	10	nsubj	_	_
+10	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+11	kugu	kugu	NOUN	_	_	10	ccomp	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	oino	oino	ADV	adv	_	10	advmod	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+15	Egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	10	parataxis	_	_
+16	atykaba	ty	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	15	ccomp	_	_
+17	toro	toro	ADV	_	_	16	advmod	_	_
+18	,	,	PUNCT	_	_	16	punct	_	_
+19	oino	oino	ADV	adv	_	16	advmod	_	_
+20	.	.	PUNCT	_	_	16	punct	_	_
+21	Boe	Boe	PROPN	propn	Number=Plur	22	nsubj	_	_
+22	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	10	parataxis	_	_
+23	adugo	adugo	NOUN	_	Number=Sing	22	ccomp	_	_
+24	,	,	PUNCT	_	_	22	punct	_	_
+25	oino	oino	ADV	adv	_	22	advmod	_	_
+
