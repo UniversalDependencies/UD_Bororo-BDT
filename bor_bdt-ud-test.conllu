@@ -800,7 +800,7 @@
 71	...	...	PUNCT	punct	_	67	punct	_	_
 
 # sent_id = HMB-criacao_dos_homens-05
-# text = Nowy koiare ure nowy tonaregedy batary towyje . Nowy tonaregedy ure paerdydo ji , mare ema remawy rema ukare paeredydo pudui .
+# text = Nowy koiare ure nowy tonaregedy batary towyje . Nowy tonaregedy ure paerydydo ji , mare ema remawy rema ukare paeredydo pudui .
 # text_port = Foi ele que fez a palavra do filho. Foi ele que nos fez ver o seu filho, mas a si mesmo ele não nos fez
 1	Nowy	nowy	DET	dem	Deixis=Med	2	det	_	_
 2	koiare	koiare	ADV	adv	_	7	advmod	_	_
@@ -813,7 +813,7 @@
 9	Nowy	nowy	DET	dem	Deixis=Remt	10	det	_	_
 10	tonaregedy	onaregedy	NOUN	n	Number=Sgtv|Reflex=Yes	12	obj	_	_
 11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
-12	paerdydo	paerdy	VERB	v	Number=Sing|Person=3|Voice=Cau	7	parataxis	_	_
+12	paerydydo	paerydy	VERB	v	Number=Sing|Person=3|Voice=Cau	7	parataxis	_	_
 13	ji	ji	ADP	posp	Number=Sing|Person=3	12	obl	_	_
 14	,	.	PUNCT	punct	_	12	punct	_	_
 15	mare	mare	CCONJ	cconj	_	20	cc	_	_
