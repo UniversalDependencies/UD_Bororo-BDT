@@ -16419,3 +16419,47 @@
 12	bari	bari	NOUN	_	_	11	obl	_	_
 13	ce	ce	ADP	posp	Number=Sing|Person=3	12	case	_	_
 
+# sent_id = boe_ero-12
+# text = Boe egore : aty kaba toro , nowy bari kodo mato , barimode awia porodo , barimode awaga kado . Oinore boe egore tonaregedy ji
+# text_port = Eles falam: “Não vá lá, o pajé vem aí, o pajé vai furar-lhe a orelha, o pajé vai lhe capar”. É assim que os bororo falam com seus filhos.
+1	Boe	Boe	PROPN	_	Number=Plur	2	nsubj	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	_	_	_	_
+3	atykaba	ty	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	2	ccomp	_	_
+4	toro	toro	ADV	_	_	3	advmod	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	nowy	nowy	DET	_	_	7	det	_	_
+7	bari	bari	NOUN	_	Number=Sing	8	nsubj	_	_
+8	kodo	kodo	VERB	_	_	2	parataxis	_	_
+9	mato	mato	ADV	adv	_	8	advmod	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	barimode	bari	NOUN	_	Mood=Ind|Status=Irr	13	nsubj	_	_
+12	awia	bia	NOUN	_	Number=Sing|Person=2	13	obj	_	_
+13	porodo	poro	VERB	_	Voice=Caus	2	parataxis	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	barimode	bari	NOUN	_	_	17	nsubj	_	_
+16	awaga	_	NOUN	_	Number=Sing|Person=2	17	obj	_	_
+17	kado	kado	VERB	_	Voice=Caus	13	conj	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
+19	Oinore	oino	ADV	_	Mood=Ind	21	advmod	_	_
+20	boe	boe	NOUN	_	_	21	nsubj	_	_
+21	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	13	parataxis	_	_
+22	tonaregedy	onaregedy	NOUN	_	Number=Sgtv	21	obl	_	_
+23	ji	ji	ADP	_	_	22	case	Number=Sing|Person=3	_
+
+# sent_id = 13
+# text = Boe enure tonaregedy pagudydo . Boe enure tonaregedy buredo . Boe enure kirimi
+# text_port = Os bororo assustam seus filhos, brecam os filhos, não deixam os filhos soltos.
+1	Boe	Boe	PROPN	pron	Number=Plur	2	dep	_	_
+2	enure	e	PRON	bi	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
+3	tonaregedy	onaregedy	NOUN	_	Number=Sgtv	4	obj	_	_
+4	pagudydo	pagudy	VERB	_	Voice=Caus	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+6	Boe	Boe	PROPN	_	_	7	dep	_	_
+7	enure	e	PRON	bi	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	9	nsubj	_	_
+8	tonaregedy	onaregedy	NOUN	_	Number=Sgtv	9	obj	_	_
+9	buredo	buredo	VERB	_	Voice=Caus	4	parataxis	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+11	Boe	Boe	PROPN	_	Number=Plur	12	dep	_	_
+12	enure	e	PRON	bi	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	13	nsubj	_	_
+13	kirimi	kirimi	VERB	_	_	4	parataxis	_	_
+
