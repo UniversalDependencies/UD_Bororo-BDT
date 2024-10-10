@@ -16446,7 +16446,7 @@
 22	tonaregedy	onaregedy	NOUN	_	Number=Sgtv	21	obl	_	_
 23	ji	ji	ADP	_	_	22	case	Number=Sing|Person=3	_
 
-# sent_id = 13
+# sent_id = boe_ero-13
 # text = Boe enure tonaregedy pagudydo . Boe enure tonaregedy buredo . Boe enure kirimi
 # text_port = Os bororo assustam seus filhos, brecam os filhos, não deixam os filhos soltos.
 1	Boe	Boe	PROPN	pron	Number=Plur	2	dep	_	_
@@ -16462,4 +16462,48 @@
 11	Boe	Boe	PROPN	_	Number=Plur	12	dep	_	_
 12	enure	e	PRON	bi	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	13	nsubj	_	_
 13	kirimi	kirimi	VERB	_	_	4	parataxis	_	_
+
+# sent_id = boe_ero-14
+# text = Boe egore atukaba toro . Oino boe egore aro kaba oino . Boe egore rie , oino . Boe egore kugu , oino . Boe egore umode toedo ai , oino . Boe egore umode tododo ai . Oino boe egore
+# text_port = Os bororo falam: “Não vá lá”. Os bororo falam: “Não faça isso”. Os bororo falam: “Olha lá o lobo”. Os bororo falam: “Olha lá o bicho”. Os bororo falam: “Ele vai te morder”. Os bororo falam: “Ele vai te bicar”. 
+1	Boe	Boe	PROPN	propn	_	2	nsubj	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	atykaba	ty	VERB	vi	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	2	ccomp	_	_
+4	toro	toro	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+6	Oino	oino	ADV	_	_	8	advmod	_	_
+7	Boe	Boe	PROPN	propn	_	8	nsubj	_	_
+8	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+9	arokaba	ro	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	8	ccomp	_	_
+10	oino	oino	ADV	_	_	8	advmod	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+12	Boe	Boe	PROPN	propn	_	13	nsubj	_	_
+13	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+14	rie	rie	NOUN	_	_	13	ccomp	_	_
+15	,	,	PUNCT	_	_	13	punct	_	_
+16	oino	oino	ADV	adv	_	13	advmod	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+18	Boe	Boe	PROPN	propn	_	19	nsubj	_	_
+19	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+20	kugu	kugu	NOUN	_	_	19	ccomp	_	_
+21	,	,	PUNCT	_	_	19	punct	_	_
+22	oino	oino	ADV	adv	_	19	advmod	_	_
+23	.	.	PUNCT	_	_	19	punct	_	_
+24	Boe	Boe	PROPN	propn	_	25	nsubj	_	_
+25	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+26	umode	u	PRON	_	Mood=Ind|Number=Sing|Person=3|Status=Irr	27	nsubj	_	_
+27	toedo	oedo	VERB	_	Reflex=Yes|Voice=Caus	25	ccomp	_	_
+28	ai	ji	ADP	posp	Number=Sing|Person=2	27	obl	_	_
+29	,	,	PUNCT	_	_	27	punct	_	_
+30	oino	oino	ADV	adv	_	27	advmod	_	_
+31	.	.	PUNCT	_	_	27	punct	_	_
+32	Boe	Boe	PROPN	propn	_	33	_	_	_
+33	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+34	umode	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Status=Irr	35	_	_	_
+35	tododo	ododo	_	_	Reflex=Yes|Voice=Caus	33	_	_	_
+36	ai	ji	ADP	posp	Number=Sing|Person=2	35	_	_	_
+37	.	.	PUNCT	_	_	35	punct	_	_
+38	Oino	oino	ADV	adv	_	_	40	_	_	_
+39	Boe	Boe	PROPN	propn	_	40	_	_	_
+40	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 
