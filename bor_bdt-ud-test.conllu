@@ -16463,6 +16463,41 @@
 12	enure	e	PRON	bi	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	13	nsubj	_	_
 13	kirimi	kirimi	VERB	_	_	4	parataxis	_	_
 
+# sent_id = boe_ero-15
+# text = Bari , boe egore barimode awia porodo , oino . Barimode awaga kado , oino
+# text_port = Pajé, os bororo falam: “O pajé vai furar-lhe a orelha, o pajé vai lhe capar.”
+1	Bari	bari	NOUN	n	Number=Sing	4	discourse	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	Boe	Boe	PROPN	propn	Number=Plur	4	nsubj	_	_
+4	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	barimode	bari	NOUN	n	Mood=Ind|Number=Sing|Status=Irr	7	nsubj	_	_
+6	awia	_	NOUN	n	Number=Sing|Person=2	7	obj	_	_
+7	porodo	_	VERB	v	Voice=Caus	4	ccomp	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	oino	oino	ADV	adv	_	7	advmod	_	_
+10	.	_	PUNCT	punct	_	7	punct	_	_
+11	Barimode	_	NOUN	n	_	13	nsubj	_	_
+12	awaga	_	NOUN	n	Number=Sing|Person=2	13	obj	_	_
+13	kado	_	VERB	vt	_	7	parataxis	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	oino	oino	ADV	adv	_	13	advmod	_	_
+
+# sent_id = boe_ero-16
+# text = Kodire boe etonaregedy pagudyre , Boe etonaregedy mearutorure, Boe etonaregedy pagudyre
+# text_port = Por isso que os filhos têm medo, os filhos dos bororo são obedientes, os filhos dos bororo têm vergonha.
+1	Kodire	_	ADV	adv	_	4	advmod	_	_
+2	boe	_	NOUN	n	_	4	nsubj	_	_
+3	etonaregedy	oneregedy	NOUN	n	Number=Sing|Reflex=Yes	2	flat	_	_
+4	pagudyre	_	VERB	v	_	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Boe	_	NOUN	n	_	8	nsubj	_	_
+7	etonaregedy	oneregedy	NOUN	n	Number=Sing|Reflex=Yes	6	flat	_	_
+8	mearutorure	_	VERB	v	_	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	boe	_	NOUN	n	_	12	nsubj	_	_
+11	etonaregedy	oneregedy	NOUN	n	Number=Sing|Reflex=Yes	10	flat	_	_
+12	pagudyre	_	VERB	v	_	4	parataxis	_	_
+
 # sent_id = boe_ero-14
 # text = Boe egore atukaba toro . Oino boe egore aro kaba oino . Boe egore rie , oino . Boe egore kugu , oino . Boe egore umode toedo ai , oino . Boe egore umode tododo ai . Oino boe egore
 # text_port = Os bororo falam: “Não vá lá”. Os bororo falam: “Não faça isso”. Os bororo falam: “Olha lá o lobo”. Os bororo falam: “Olha lá o bicho”. Os bororo falam: “Ele vai te morder”. Os bororo falam: “Ele vai te bicar”. 
@@ -16506,4 +16541,106 @@
 38	Oino	oino	ADV	adv	_	_	40	_	_	_
 39	Boe	Boe	PROPN	propn	_	40	_	_	_
 40	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+
+# sent_id = boe_ero-22
+# text = Icare merure boe ebo , icare ure karo bito , ure barogo bito tudugo remawy tabo gu , gu ...
+# text_port = Então já caça com os homens, então ele já mata peixe, ele já mata bicho até mesmo com suas próprias flechas.
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	merure	meru	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	boe	boe	NOUN	n	Number=Plur	2	obl	_	_
+4	ebo	apo	ADP	posp	Number=Plur|Person=3	3	case	_	_
+5	,	,	PUNCT	punct	_	2	punct	_	_
+6	icare	icare	ADV	adv	_	9	advmod	_	_
+7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+8	karo	karo	NOUN	n	Number=Sing	9	obj	_	_
+9	bito	bito	VERB	v	Number=Sing|Person=3|Voice=Caus	2	conj	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	13	nsubj	_	_
+12	barogo	barogo	NOUN	n	Number=Sing	13	obj	_	_
+13	bito	bito	VERB	v	Number=Sing|Person=3|Voice=Caus	2	conj	_	_
+14	tudugo	tugo	NOUN	n	Reflex=Yes	13	obl	_	_
+15	remawy	rema	NOUN	n	_	14	nmod	_	_
+16	tabo	tabo	ADP	_	_	14	case	_	_
+17	gu	gu	X	ideo	_	13	discourse	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	gu	gu	X	ideo	_	17	conj	_	_
+20	...	...	PUNCT	punct	_	19	punct	_	_
+
+# sent_id = boe_ero-22
+# text = Icare merure boe ebo , icare ure karo bito , ure barogo bito tudugo remawy tabo gu , gu ...
+# text_port = Então já caça com os homens, então ele já mata peixe, ele já mata bicho até mesmo com suas próprias flechas.
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	merure	meru	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	boe	boe	NOUN	n	Number=Plur	2	obl	_	_
+4	ebo	apo	ADP	posp	Number=Plur|Person=3	3	case	_	_
+5	,	,	PUNCT	punct	_	2	punct	_	_
+6	icare	icare	ADV	adv	_	9	advmod	_	_
+7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
+8	karo	karo	NOUN	n	Number=Sing	9	obj	_	_
+9	bito	bito	VERB	v	Number=Sing|Person=3|Voice=Caus	2	conj	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	13	nsubj	_	_
+12	barogo	barogo	NOUN	n	Number=Sing	13	obj	_	_
+13	bito	bito	VERB	v	Number=Sing|Person=3|Voice=Caus	2	conj	_	_
+14	tudugo	tugo	NOUN	n	Reflex=Yes	13	obl	_	_
+15	remawy	rema	NOUN	n	_	14	nmod	_	_
+16	tabo	tabo	ADP	_	_	14	case	_	_
+17	gu	gu	X	ideo	_	13	discourse	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	gu	gu	X	ideo	_	17	conj	_	_
+20	...	...	PUNCT	punct	_	19	punct	_	_
+
+# sent_id = boe_ero-23
+# text = Oino iparedynure ema ; iparedy , oinore Boe egore , iparedy , iparedyre ema gu , gu , gu ...
+# text_port = Agora ele já é rapaz. Os bororo o tratam mesmo de rapaz.
+1	Oino	oino	ADV	_	_	2	advmod	_	_
+2	iparedynure	ipare	NOUN	_	Aspect=Prog|Mood=Ind|Number=Sgtv	0	root	_	_
+3	ema	ema	PRON	pron	Nubmer=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	;	;	PUNCT	_	_	2	punct	_	_
+5	iparedy	ipare	NOUN	_	Number=Sgtv	9	dislocated	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	oinore	oino	ADV	_	Mood=Ind	9	advmod	_	_
+8	Boe	boe	PROPN	propn	Number=Plur	9	nsubj	_	_
+9	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	iparedy	ipare	NOUN	_	Number=Sgtv	13	dislocated	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	iparedyre	ipare	NOUN	_	Mood=Ind|Number=Sgtv	9	parataxis	_	_
+14	ema	ema	PRON	pron	Nubmer=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+15	gu	gu	X	_	_	13	discourse	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	gu	gu	X	_	_	15	conj	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	gu	gu	X	_	_	15	conj	_	_
+20	...	...	PUNCT	_	_	19	punct	_	_
+
+# sent_id = boe_ero-24
+# text = Icare ure karo bito , ure barogo bito
+# text_port = Então ele mata peixe, mata bicho.
+1	Icare	icare	ADV	_	_	4	advmod	_	_
+2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+3	karo	karo	NOUN	n	Number=Sing	4	obj	_	_
+4	bito	bito	VERB	vt	Number=Sing|Person=3|Voice=Caus	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+7	barogo	barogo	NOUN	n	Number=Sing	8	obj	_	_
+8	bito	bito	VERB	vt	Number=Sing|Person=3|Voice=Caus	4	conj	_	_
+
+# sent_id = boe_ero-25
+# text = Icare imedyre ema , dykeje icare uwirere , ia aredure tumagu ai rugady
+# text_port = Então ele já é homem, aí então ele casa, uma mulher casa com ele.
+1	Icare	icare	ADV	_	_	2	advmod	_	_
+2	imedyre	ime	VERB	_	Number=Sgtv	0	root	_	_
+3	ema	ema	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	dykeje	dykeje	ADV	_	_	7	advmod	_	_
+6	icare	icare	ADV	_	_	7	advmod	_	_
+7	uwirere	bire	VERB	_	Number=Sing|Person=3|Mood=Ind	2	parataxis	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	ia	ia	DET	_	_	10	det	_	_
+10	aredyre	are	NOUN	_	Number=Sgtv	11	nsubj	_	_
+11	tymagu	tymagu	VERB	_	Reflex=Yes	2	_	_	_
+12	ai	ai	ADP	_	Number=Sing|Person=3	11	case	_	_
+13	rugady	rugady	ADV	_	_	11	advmod	_	_
+
 
