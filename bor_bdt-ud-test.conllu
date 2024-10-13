@@ -16542,29 +16542,230 @@
 39	Boe	Boe	PROPN	propn	_	40	_	_	_
 40	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
 
-# sent_id = boe_ero-22
-# text = Icare merure boe ebo , icare ure karo bito , ure barogo bito tudugo remawy tabo gu , gu ...
-# text_port = Então já caça com os homens, então ele já mata peixe, ele já mata bicho até mesmo com suas próprias flechas.
-1	Icare	icare	ADV	adv	_	2	advmod	_	_
-2	merure	meru	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	boe	boe	NOUN	n	Number=Plur	2	obl	_	_
-4	ebo	apo	ADP	posp	Number=Plur|Person=3	3	case	_	_
-5	,	,	PUNCT	punct	_	2	punct	_	_
-6	icare	icare	ADV	adv	_	9	advmod	_	_
-7	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
-8	karo	karo	NOUN	n	Number=Sing	9	obj	_	_
-9	bito	bito	VERB	v	Number=Sing|Person=3|Voice=Caus	2	conj	_	_
-10	,	,	PUNCT	punct	_	9	punct	_	_
-11	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	13	nsubj	_	_
-12	barogo	barogo	NOUN	n	Number=Sing	13	obj	_	_
-13	bito	bito	VERB	v	Number=Sing|Person=3|Voice=Caus	2	conj	_	_
-14	tudugo	tugo	NOUN	n	Reflex=Yes	13	obl	_	_
-15	remawy	rema	NOUN	n	_	14	nmod	_	_
-16	tabo	tabo	ADP	_	_	14	case	_	_
-17	gu	gu	X	ideo	_	13	discourse	_	_
+# sent_id = boe_ero-15
+# text = Bari , boe egore barimode awia porodo , oino . Barimode awaga kado , oino
+# text_port = Pajé, os bororo falam: “O pajé vai furar-lhe a orelha, o pajé vai lhe capar.”
+1	Bari	bari	NOUN	n	Number=Sing	4	discourse	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	Boe	Boe	PROPN	propn	Number=Plur	4	nsubj	_	_
+4	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	barimode	bari	NOUN	n	Mood=Ind|Number=Sing|Status=Irr	7	nsubj	_	_
+6	awia	_	NOUN	n	Number=Sing|Person=2	7	obj	_	_
+7	porodo	_	VERB	v	Voice=Caus	4	ccomp	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	oino	oino	ADV	adv	_	7	advmod	_	_
+10	.	_	PUNCT	punct	_	7	punct	_	_
+11	Barimode	_	NOUN	n	_	13	nsubj	_	_
+12	awaga	_	NOUN	n	Number=Sing|Person=2	13	obj	_	_
+13	kado	_	VERB	vt	_	7	parataxis	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	oino	oino	ADV	adv	_	13	advmod	_	_
+
+# sent_id = boe_ero-16
+# text = Kodire boe etonaregedy pagudyre , Boe etonaregedy mearutorure, Boe etonaregedy pagudyre
+# text_port = Por isso que os filhos têm medo, os filhos dos bororo são obedientes, os filhos dos bororo têm vergonha.
+1	Kodire	_	ADV	adv	_	4	advmod	_	_
+2	boe	_	NOUN	n	_	4	nsubj	_	_
+3	etonaregedy	oneregedy	NOUN	n	Number=Sing|Reflex=Yes	2	flat	_	_
+4	pagudyre	_	VERB	v	_	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Boe	_	NOUN	n	_	8	nsubj	_	_
+7	etonaregedy	oneregedy	NOUN	n	Number=Sing|Reflex=Yes	6	flat	_	_
+8	mearutorure	_	VERB	v	_	4	parataxis	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	boe	_	NOUN	n	_	12	nsubj	_	_
+11	etonaregedy	oneregedy	NOUN	n	Number=Sing|Reflex=Yes	10	flat	_	_
+12	pagudyre	_	VERB	v	_	4	parataxis	_	_
+
+# sent_id = boe_ero-17
+# text = Tudymode jice ia boe ewai kae dyji , tymode tyremo ia boe ewai to dyji . Boe ekare tonaregedy rokowo
+# text_port = Quando ele vai até a casa de alguém, se por acaso ele entrar na casa de alguém, os bororo não deixam os filhos fazerem o que querem na casa dos outros
+1	Tudymode	ty	VERB	v	Mood=Ind|Reflex=Yes|Status=Irr	20	advcl	_	_
+2	jice	jice	X	_	_	1	discourse	_	_
+3	ia	ia	DET	_	Definite=Ind	4	det	_	_
+4	boe	boe	NOUN	n	_	5	nmod	_	_
+5	ewai	bai	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	_	_	_	_
+6	kae	kae	ADP	posp	Number=Sing|Person=3	5	case	_	_
+7	dyji	dyji	ADV	adv	_	1	dep	_	_
+8	,	,	PUNCT	punct	_	1	punct	_	_
+9	tymode	ty	PRON	bi	Mood=Ind|Reflex=Yes|Status=Irr	10	nsubj	_	_
+10	tyremo	remo	VERB	v	_	1	conj	_	_
+11	ia	ia	DET	_	_	12	det	_	_
+12	boe	boe	NOUN	n	_	13	nmod	_	_
+13	ewai	bai	NOUN	n	Number=Plur|Person=3	10	obl	_	_
+14	to	to	ADP	posp	Number=Sing|Person=3	13	case	_	_
+15	dyji	dyji	_	_	_	10	dep	_	_
+16	,	,	PUNCT	punct	_	10	punct	_	_
+17	Boe	Boe	PROPN	propn	Number=Plur	18	dep	_	_
+18	ekare	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	20	nsubj	_	_
+19	tonaregedy	oneregedy	NOUN	n	Number=Sing|Reflex=Yes	20	obj	_	_
+20	rokowo	rokowo	VERB	v	_	0	root	_	_
+
+# sent_id = boe_ero-18
+# text = Egore arokaba aino . Oino , Boe egore mato ! Oino , Boe egore tonaregedy imedy ji guu , guu , guu ...
+# text_port = Eles falam: “Não faça isso”. Os bororo falam: “Vem cá”. Os bororo falam muito com seus filhos.
+1	Egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	arokaba	ro	VERB	_	Mood=Imp|Number=Plur|Person=3|Polarity=Neg	1	ccomp	_	_
+3	oino	oino	ADV	adv	_	2	advmod	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+5	Oino	oino	ADV	adv	_	8	advmod	_	_
+6	,	,	PUNCT	punct	_	8	punct	_	_
+7	boe	boe	NOUN	n	Number=Plur	8	nsubj	_	_
+8	egore	ako	VERB	_	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
+9	mato	mato	_	_	_	8	ccomp	_	_
+10	!	!	PUNCT	punct	_	8	punct	_	_
+11	Oino	oino	ADV	adv	_	14	advmod	_	_
+12	,	,	PUNCT	punct	_	14	punct	_	_
+13	boe	boe	NOUN	n	Number=Plur	14	nsubj	_	_
+14	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
+15	tonaregedy	onerege	NOUN	n	Number=Sgtv|Reflex=Yes	14	obl	_	_
+16	imedy	ime	NOUN	n	Number=Sgtv	15	nmod	_	_
+17	ji	ji	ADP	posp	Number=Sing|Person=3	15	case	_	_
+18	guu	guu	X	_	_	14	ccomp	_	_
+19	,	,	PUNCT	punct	_	18	punct	_	_
+20	guu	guu	X	_	_	18	conj	_	_
+21	,	,	PUNCT	punct	_	20	punct	_	_
+22	guu	guu	X	_	_	18	conj	_	_
+23	...	...	PUNCT	punct	_	22	punct	_	_
+
+# sent_id = boe_ero-19
+# text = Care Boe etonaregedy padyre boe ebo ty , ty , ba tada
+# text_port = Então o menino tornado homem começa a dormir com os outros homens na casa central, baito. 
+1	Care	care	ADV	adv	_	4	advmod	_	_
+2	boe	boe	NOUN	n	_	4	nsubj	_	_
+3	etonaregedy	onregedy	NOUN	n	_	2	flat	_	_
+4	padyre	ty	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	0	root	_	_
+5	Boe	Boe	PROPN	propn	Number=Plur	4	obl	_	_
+6	ebo	apo	ADP	posp	Number=Plur|Person=3	5	case	_	_
+7	ty	ty	X	_	_	4	discourse	_	_
+8	,	,	PUNCT	punct	_	4	punct	_	_
+9	ty	ty	X	_	_	4	discourse	_	_
+10	,	,	PUNCT	punct	_	4	punct	_	_
+11	ba	ba	NOUN	n	Number=Sing	4	obl	_	_
+12	tada	tada	ADP	posp	_	11	case	_	_
+
+# sent_id = boe_ero-20
+# text = Oinore boe erore ty , ty , ty , je . Care o bare , icare boere o bado . Ica dykeje icare padykare tywobe ebo pugeje
+# text_port = É assim que os bororo sempre fazem. Então depois de estar preparado ele entra na iniciação do homem, então os bororo dão iniciação a ele, aí então ele não dorme mais com seus parentes. 
+1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
+2	Boe	Boe	PROPN	_	Number=Plur	3	nsubj	_	_
+3	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	ty	_	ADV	adv	_	3	advmod	_	_
+5	,	_	PUNCT	punct	_	4	punct	_	_
+6	ty	_	ADV	adv	_	4	conj	_	_
+7	,	_	PUNCT	punct	_	6	punct	_	_
+8	ty	_	ADV	adv	_	4	conj	_	_
+9	,	_	PUNCT	punct	_	8	punct	_	_
+10	je	_	ADV	adv	_	4	advmod	_	_
+11	.	_	PUNCT	punct	_	10	punct	_	_
+12	Care	care	ADV	adv	_	14	advmod	_	_
+13	o	o	NOUN	n	Number=Sing	14	dep	_	_
+14	bare	ba	NOUN	n	Mood=Ind	3	parataxis	_	_
+15	,	,	PUNCT	punct	_	14	punct	_	_
+16	icare	icare	ADV	adv	_	19	advmod	_	_
+17	boere	boere	NOUN	n	Mood=Ind	19	nsubj	_	_
+18	o	o	NOUN	n	Number=Sing	_	_	_	_
+19	bado	ba	VERB	v	Voice=Caus	14	conj	_	_
+20	.	.	PUNCT	punct	_	19	punct	_	_
+21	Ica	ica	INTJ	_	_	24	discourse	_	_
+22	dykeje	dykeje	ADV	adv	_	24	advmod	_	_
+23	icare	icare	ADV	adv	_	24	advmod	_	_
+24	padykare	ty	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Polarity=Neg	3	parataxis	_	_
+25	tywobe	bobe	NOUN	n	Reflex=Yes	24	obl	_	_
+26	ebo	apo	ADP	posp	Number=Plur|Person=3	25	case	_	_
+27	pugeje	pugeje	ADV	adv	_	24	advmod	_	_
+
+# sent_id = boe_ero-21
+# text = Nonore icare utynure boe epiji . Boe etonaregedy imedy utynure boe epiji . Dyre icare o bare , icare jorydyre aije ji , icare padyre bai tada , icare boere o bado ; ica, dukeje icare padykare tuwobe ebo pugeje , nonore icare utynure boe epiji . Boe etonaregedy imedy utynure boe epiji . Dyre icare o bare, icare jorydyre aije ji , icare padyre bai tada , icare padyre bai tada , icare unudure bai tada, icare jorydyre aroe ji . Jorydyre aije ji
+# text_port = Aí então ele está deixando de ser uma pessoa dependente dos parentes, tendo entrado na iniciação, ele já conhece aije, já dorme no baito, já viu as almas. 
+1	Nonore	nono	ADV	adv	Mood=Ind	3	advmod	_	_
+2	icare	icare	ADV	adv	_	3	advmod	_	_
+3	utynure	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	_	_	_	_
+4	boe	boe	NOUN	n	Number=Plur	3	obl	_	_
+5	epiji	piji	ADP	posp	Number=Plur|Person=3	4	case	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+7	Boe	boe	NOUN	n	_	10	nsubj	_	_
+8	etonaregedy	_	NOUN	n	_	7	flat	_	_
+9	imedy	ime	NOUN	n	Number=Sgtv	7	nmod	_	_
+10	utynure	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+11	boe	_	NOUN	n	_	10	obl	_	_
+12	epiji	piji	ADP	posp	Number=Plur|Person=3	11	case	_	_
+13	.	.	PUNCT	punct	_	10	punct	_	_
+14	Dyre	dy	PRON	_	Mood=Ind	17	advmod	_	_
+15	icare	icare	ADV	adv	_	17	advmod	_	_
+16	o	o	NOUN	n	Number=Sing	17	dep	_	_
+17	bare	ba	NOUN	n	Mood=Ind	3	parataxis	_	_
 18	,	,	PUNCT	punct	_	17	punct	_	_
-19	gu	gu	X	ideo	_	17	conj	_	_
-20	...	...	PUNCT	punct	_	19	punct	_	_
+19	icare	icare	ADV	adv	_	20	advmod	_	_
+20	jorydyre	erydy	VERB	v	Mood=Ind|Sing|Person=3	17	conj	_	_
+21	aije	aije	NOUN	n	_	20	obl	_	_
+22	ji	ji	ADP	posp	Number=Sing|Person=3	21	case	_	_
+23	,	,	PUNCT	punct	_	20	punct	_	_
+24	icare	icare	ADV	adv	_	25	advcl	_	_
+25	padyre	ty	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	3	parataxis	_	_
+26	bai	bai	NOUN	n	Number=Sing	25	obl	_	_
+27	tada	tada	ADP	posp	Number=Sing|Person=3	26	case	_	_
+28	,	,	PUNCT	punct	_	25	punct	_	_
+29	icare	icare	ADV	adv	_	32	advmod	_	_
+30	boere	boe	NOUN	n	_	32	nsubj	_	_
+31	o	o	NOUN	n	Number=Sing	32	dep	_	_
+32	bado	ba	VERB	v	Voice=Cau	3	parataxis	_	_
+33	;	;	PUNCT	punct	_	32	punct	_	_
+34	ica	ica	INTJ	_	_	32	parataxis	_	_
+35	,	,	PUNCT	punct	_	34	punct	_	_
+36	dykeje	dykeje	ADV	adv	_	38	advmod	_	_
+37	icare	icare	ADV	adv	_	38	advmod	_	_
+38	padykare	ty	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	3	parataxis	_	_
+39	tywobe	bobe	NOUN	n	Reflex=Yes	38	obl	_	_
+40	ebo	apo	ADP	posp	Number=Plur|Person=3	39	case	_	_
+41	pugeje	pugeje	ADV	adv	_	38	advmod	_	_
+42	,	_	PUNCT	punct	_	38	punct	_	_
+43	nonore	nono	ADV	adv	_	45	advmod	_	_
+44	icare	icare	ADV	adv	_	45	advmod	_	_
+45	utynure	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	38	conj	_	_
+46	boe	boe	NOUN	n	Number=Plur	45	obl	_	_
+47	epiji	piji	ADP	posp	Number=Plur|Person=3	46	case	_	_
+48	.	.	PUNCT	punct	_	45	punct	_	_
+49	Boe	Boe	PROPN	n	Number=Plur	52	nsubj	_	_
+50	etonaregedy	onarege	NOUN	n	Number=Sgtv	49	flat	_	_
+51	imedy	ime	NOUN	n	_	49	nmod	_	_
+52	utynure	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
+53	boe	boe	NOUN	n	_	52	obl	_	_
+54	epiji	_	ADP	posp	Number=Plur|Person=3	53	case	_	_
+55	.	_	PUNCT	punct	_	52	punct	_	_
+56	Dyre	dy	PRON	_	_	59	advmod	_	_
+57	icare	icare	ADV	adv	_	59	advmod	_	_
+58	o	o	NOUN	n	Number=Sing	59	dep	_	_
+59	bare	ba	VERB	v	Mood=Ind	52	conj	_	_
+60	,	,	PUNCT	punct	_	59	punct	_	_
+61	icare	_	ADV	adv	_	62	advmod	_	_
+62	jorydyre	erydy	VERB	v	Mood=Ind|Numer=Sing|Person=3	59	conj	_	_
+63	aije	aije	NOUN	n	_	62	obl	_	_
+64	ji	ji	ADP	posp	Numer=Sing|Person=3	63	case	_	_
+65	,	,	PUNCT	punct	_	62	punct	_	_
+66	icare	icare	ADV	adv	Mood=Ind	67	advmod	_	_
+67	padyre	ty	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	52	parataxis	_	_
+68	bai	bai	NOUN	n	Number=Sing	67	obl	_	_
+69	tada	tada	ADP	posp	_	68	case	_	_
+70	,	,	PUNCT	punct	_	67	punct	_	_
+71	icare	icare	ADV	adv	_	72	advmod	_	_
+72	padyre	ty	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	67	conj	_	_
+73	bai	bai	NOUN	n	Number=Sing	72	obl	_	_
+74	tada	tada	ADP	posp	_	73	case	_	_
+75	,	,	PUNCT	punct	_	72	punct	_	_
+76	icare	icare	ADV	adv	_	77	advmod	_	_
+77	unudure	nudu	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	67	conj	_	_
+78	bai	bai	NOUN	n	Number=Sing	77	obl	_	_
+79	tada	tada	ADP	posp	_	78	case	_	_
+80	,	,	PUNCT	punct	_	77	punct	_	_
+81	icare	icare	ADV	adv	_	82	advmod	_	_
+82	jorydyre	erydy	VERB	v	Mood=Ind|Number=Sing|Person=3	67	parataxis	_	_
+83	aroe	aroe	NOUN	n	_	82	obl	_	_
+84	ji	ji	ADP	posp	Number=Sing|Person=3	83	case	_	_
+85	.	.	PUNCT	punct	_	82	punct	_	_
+86	Jorydyre	erydy	VERB	_	Mood=Ind|Number=Sing|Person=3	82	conj	_	_
+87	aije	aije	NOUN	n	Number=Sing	86	obl	_	_
+88	ji	ji	ADP	posp	Number=Sing	87	case	_	_
 
 # sent_id = boe_ero-22
 # text = Icare merure boe ebo , icare ure karo bito , ure barogo bito tudugo remawy tabo gu , gu ...
@@ -16643,4 +16844,52 @@
 12	ai	ai	ADP	_	Number=Sing|Person=3	11	case	_	_
 13	rugady	rugady	ADV	_	_	11	advmod	_	_
 
+# sent_id = boe_ero-26
+# text = Toro boe jaowyge , imedy karega ure tuwiredo , aredyre ure tymagu imedy ai , iparedy ai tuge boi koia, uwo karo bito tugeje
+# text_port = Antigamente não eram os homens que procuravam para casar, eram as mulheres que se entregavam para o homem, para o rapaz. De fome para que ele matasse peixe e bicho para ela comer.
+1	Toro	toro	ADV	adv	_	8	advmod	_	_
+2	boe	boe	NOUN	n	_	1	flat	_	_
+3	jaowyge	jaowy	ADV	adv	_	2	flat	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	imedy	ime	NOUN	n	Number=Sgtv	7	dep	_	_
+6	karega	karega	X	_	Polarity=Neg	5	dep	_	_
+7	ure	u	PRON	_	Mood=Ind|Number=Sing|Person=3	8	nsubj	_	_
+8	tuwiredo	biredo	VERB	_	Number=Sing|Person=3|Reflex=Yes|Voice=Caus	0	root	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	aredyre	are	NONU	_	Number=Sgtv	11	dep	_	_
+11	ure	u	PRON	_	Mood=Ind|Number=Sing|Person=3	12	nsubj	_	_
+12	tymagu	maku	VERB	_	Number=Sing|Person=3|Reflex=Yes	8	parataxis	_	_
+13	imedy	ime	NOUN	n	Number=Sgtv	12	obl	_	_
+14	ai	ji	ADP	posp	Number=Sing|Person=2	13	case	_	_
+15	,	,	PUNCT	punct	_	13	punct	_	_
+16	iparedy	ipare	NOUN	n	Number=Sgtv	13	conj	_	_
+17	ai	ji	ADP	posp	Number=Sing|Person=2	16	case	_	_
+18	tuge	ke	NOUN	n	Reflex=Yes	19	nmod	_	_
+19	boi	boe	NOUN	n	_	12	obl	_	_
+20	koia	koia	ADP	posp	Number=Sing|Person=3	19	case	_	_
+21	,	,	PUNCT	punct	_	19	punct	_	_
+22	uwo	u	PRON	_	Mood=Sub|Number=Sing|Person=3	24	nsubj	_	_
+23	karo	karo	NOUN	n	Number=Sing	24	obj	_	_
+24	bito	bito	VERB	_	Voice=Caus	12	xcomp	_	_
+25	tugeje	keje	ADP	posp	Reflex=Yes	24	case	_	_
+
+# sent_id = boe_ero-27
+# text = Ica ; icare imedy aregodyre pydae , icare uwirere ; icare onaregedyre , icare ore kugurere
+# text_port = Então ele começa a ser um homem experiente e se casa, tendo filhos.
+1	Ica	ice	INTJ	_	_	5	discourse	_	_
+2	;	;	PUNCT	punct	_	1	punct	_	_
+3	icare	icare	ADV	_	_	5	advmod	_	_
+4	imedy	ime	NOUN	_	Number=Sgtv	5	nsubj	_	_
+5	aregodyre	aregody	VERB	_	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+6	pydae	ae	ADP	_	Reflex=Yes	5	case	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	icare	icare	ADV	_	_	9	advmod	_	_
+9	uwirere	bire	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
+10	;	;	PUNCT	punct	_	9	punct	_	_
+11	icare	icare	ADV	_	_	12	advmod	_	_
+12	onaregedyre	onarege	VERB	_	Mood=Ind|Number=Sgtv	5	parataxis	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	icare	icare	ADV	_	_	15	advmod	_	_
+15	ore	onarege	NOUN	_	Number=Plur	5	parataxis	_	_
+16	kugurere	kugurere	NOUN	_	Mood=Ind	15	flat	_	_
 
