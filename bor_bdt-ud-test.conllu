@@ -16927,3 +16927,16 @@
 29	,	,	PUNCT	_	_	27	punct	_	_
 30	oino	oino	ADV	adv	_	27	advmod	_	_
 
+# sent_id = boe_ero-29
+# text = Boe etuonure ema gu, gu, gu ...
+# text_port = Ele se torna um pai para os bororo.
+1	Boe	_	PROPN	_	_	2	nmod	_	_
+2	etuonure	_	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	ema	ema	PRON	pron	Nubmer=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	gu	gu	X	_	_	2	discourse	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	gu	gu	X	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	gu	gu	X	_	_	4	conj	_	_
+9	...	...	PUNCT	_	_	8	punct	_	_
+
