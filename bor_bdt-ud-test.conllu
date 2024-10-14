@@ -17004,3 +17004,36 @@
 30	oino	oino	ADV 	adv	_	27	advmod	_	_
 31	ji	ji	ADP	posp	Number=Sing|Person=3	27	obl	_	_
 
+# sent_id = boe_ero-32
+# text = Boe eimejerare ema , Boe eimejerare ema , Boe egore pagimejera , oino ji . Boe egore pagimejera , oino ji . Boe egore Boe eimejera , oino ji
+# text_port = Ele é chefe, os bororo falam: “Oh, nosso chefe. Oh, nosso chefe.”
+1	Boe	Boe	PROPN	_	Number=Plur	2	nmod	_	_
+2	eimejerare	imejera	NOUN	_	Mood=Ind|Number=Sing|Number[psor]=Plur|Person=3	0	root	_	_
+3	ema	ema	PRON	pron	Nubmer=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	Boe	Boe	PROPN	_	Number=Plur	6	nmod	_	_
+6	eimejerare	imejera	NOUN	_	Mood=Ind|Number=Sing|Number[psor]=Plur|Person=3	2	conj	_	_
+7	ema	ema	PRON	pron	Nubmer=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	Boe	Boe	PROPN	_	Number=Plur	10	nsubj	_	_
+10	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+11	pagimejera	mejera	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	10	ccomp	_	_
+12	,	_	PUNCT	_	_	11	punct	_	_
+13	oino	oino	ADV 	adv	_	11	advmod	_	_
+14	ji	ji	ADP	posp	Number=Sing|Person=3	11	obl	_	_
+15	.	_	PUNCT	_	_	11	punct	_	_
+16	Boe	Boe	PROPN	_	Number=Plur	17	nsubj	_	_
+17	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	10	conj	_	_
+18	pagimejera	imejera	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	17	ccomp	_	_
+19	,	_	PUNCT	_	_	18	punct	_	_
+20	oino	oino	ADV 	adv	_	17	advmod	_	_
+21	ji	ji	ADP	posp	Number=Sing|Person=3	17	obl	_	_
+22	.	_	PUNCT	_	_	17	punct	_	_
+23	Boe	Boe	PROPN	_	Number=Plur	24	nsubj	_	_
+24	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	10	conj	_	_
+25	Boe	Boe	PROPN	_	Number=Plur	26	nmod	_	_
+26	eimejera	imejera	NOUN	_	Mood=Ind|Number=Sing|Number[psor]=Plur|Person=3	24	ccomp	_	_
+27	,	_	PUNCT	_	_	26	punct	_	_
+28	oino	oino	ADV 	adv	_	26	advmod	_	_
+29	ji	ji	ADP	posp	Number=Sing|Person=3	26	obl	_	_
+
