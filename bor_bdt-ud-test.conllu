@@ -17232,6 +17232,75 @@
 23	akerogu	ke	NOUN	n	Degree=Dim|Number=Sing|Person=2	24	obj	_	_
 24	ko	ko	_	_	_	21	xcomp	_	_
 
+# sent_id = boe_ero-41
+# text = Ah ! Akore uuum , uuum , uuum ... ikerogu , ikerogu ... Ure tugeragu , tugeragu ji ty , ure ko tumugui tyje
+# text_port = Ele disse: “É meu, é meu”. Ele pegou a sua comidinha, saboreando sentado.
+1	Ah	ah	INTJ	_	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Akore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	uuum	_	X	_	_	3	discourse	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	uuum	_	X	_	_	4	conj	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	uuum	_	X	_	_	4	conj	_	_
+9	...	...	PUNCT	punct	_	8	punct	_	_
+10	ikerogu	ke	X	x	_	4	vocative	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	ikerogu	ke	X	x	_	10	conj	_	_
+13	...	...	PUNCT	punct	_	12	punct	_	_
+14	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	nsubj	_	_
+15	tugeragu	eragu	VERB	v	Number=Sing|Person=3|Reflex=Yes	3	parataxis	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	tugeragu	eragu	VERB	v	Number=Sing|Person=3|Reflex=Yes	15	conj	_	_
+18	ji	ji	ADP	posp	Number=Sing|Person=3	17	obl	_	_
+19	ty	ty	ADV	adv	_	17	discourse	_	_
+20	,	,	PUNCT	punct	_	17	punct	_	_
+21	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	22	nsubj	_	_
+22	ko	ko	VERB	v	Number=Sing|Person=3	15	conj	_	_
+23	tumugyi	mugy	VERB	v	Number=Sing|Person=3|Reflex=Yes|VerbForm=Ger	22	xcomp	_	_
+24	tyje	tyje	X	_	_	23	discourse	_	_
 
-
+# sent_id = boe_ero-42
+# text = ica , nonore icare akedyre , pegagodynure , icare akuru akedyre , oinonore icare pao pega , paedaga pega , pamana pegare , pagodowy pegare , pawyri pegare , pawagedy pegare , pagonaregedy pegare , oinore boere , ica .
+# text_port = Então aí que acabou, ele está ficando velho, está quase morrendo, assim, então nosso velho pai, padrinho, nosso irmão mais velho, cunhado, nosso genro, nosso filho é assim que é. 
+1	ica	ica	INTJ	_	_	5	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	nonore	nono	ADV	_	Mood=Ind	5	advmod	_	_
+4	icare	icare	ADV	adv	_	5	advmod	_	_
+5	akedyre	akedy	VERB	_	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	pegagodynure	_	VERB	_	Aspect=Prog|Mood=Ind	5	parataxis	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	icare	icare	ADV	adv	_	11	advmod	_	_
+10	akuru	akuru	NOUN	_	_	11	nsubj	_	_
+11	akedyre	akedy	VERB	_	Mood=Ind|Number=Sing|Person=3	5	parataxis	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	oinonore	oino	ADV	_	Mood=Ind	5	parataxis	_	_
+14	icare	icare	ADV	adv	_	13	advmod	_	_
+15	pao	o	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	13	parataxis	_	_
+16	pega	pega	NOUN	n	_	15	nmod	_	_
+17	,	,	PUNCT	punct	_	15	punct	_	_
+18	paedaga	edaga	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	15	conj	_	_
+19	pega	pega	NOUN	n	_	18	nmod	_	_
+20	,	,	PUNCT	punct	_	18	punct	_	_
+21	pamana	_	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	15	conj	_	_
+22	pegare	pega	NOUN	n	Mood=Ind	21	nmod	_	_
+23	,	,	PUNCT	punct	_	21	punct	_	_
+24	pagodowy	_	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	15	conj	_	_
+25	pegare	pega	NOUN	n	Mood=Ind	24	nmod	_	_
+26	,	,	PUNCT	punct	_	24	punct	_	_
+27	pawyri	_	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	15	conj	_	_
+28	pegare	pega	NOUN	n	Mood=Ind	27	nmod	_	_
+29	,	,	PUNCT	punct	_	27	punct	_	_
+30	pawagedy	_	NOUN	_	Clusivity=In|Number=Sgtv|Number[psor]=Plur|Person=1	15	conj	_	_
+31	pegare	pega	NOUN	n	Mood=Ind	30	nmod	_	_
+32	,	,	PUNCT	punct	_	30	punct	_	_
+33	pagonaregedy	onarege	NOUN	n	Clusivity=In|Number=Sgtv|Number[psor]=Plur|Person=1	15	conj	_	_
+34	pegare	pega	NOUN	n	Mood=Ind	33	nmod	_	_
+35	,	,	PUNCT	punct	_	33	punct	_	_
+36	oinore	oino	ADV	_	Mood=Ind	15	parataxis	_	_
+37	boere	boe	NOUN	_	Mood=Ind	36	nsubj	_	_
+38	,	,	PUNCT	punct	_	36	punct	_	_
+39	ica	ica	INTJ	_	_	36	discourse	_	_
+40	.	.	PUNCT	punct	_	39	punct	_	_
 
