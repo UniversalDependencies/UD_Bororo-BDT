@@ -16969,3 +16969,38 @@
 24	,	,	PUNCT	_	_	23	punct	_	_
 25	urare	ra	VERB	v	Mood=Ind|Number=Sing|Plur=3	23	parataxis	_	_
 
+# sent_id = boe_ero-31
+# text = Ia mearydywa rakarewy Boe eimejerare ema , boe eimejerare ema . Boe egore Pagimejera oino ji . Boe egore Boe eimejera , oinore ji . Boe egore pao , oino ji
+# text_port = Aquele que é inteligentíssimo se torna um chefe, os bororo o chamam de nosso chefe, os bororo o chamam de chefe dos bororo, os bororo o chamam de nosso pai.
+1	Ia	ia	Det	_	Definite=Ind	2	det	_	_
+2	mearydywa	mearydywa	NOUN	_	_	5	nsubj:outer	_	_
+3	rakarewy	raka	NOUN	_	Mood=Ind|Nomzr=Rel	2	nmod	_	_
+4	Boe	Boe	PROPN	_	Number=Plur	5	nmod	_	_
+5	eimejerare	imejera	NOUN	_	Number=Sing|Number[psor]=Plur|Person=3	0	root	_	_
+6	ema	ema	PRON	pron	Nubmer=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	Boe	Boe	PROPN	_	Number=Plur	9	nmod	_	_
+9	eimejerare	imejera	NOUN	_	Number=Sing|Number[psor]=Plur|Person=3	5	parataxis	_	_
+10	ema	ema	PRON	pron	Nubmer=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+12	Boe	Boe	PROPN	_	Number=Plur	13	nsubj	_	_
+13	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
+14	Pagimejera	imejera	NOUN	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	13	ccomp	_	_
+15	oino	oino	ADV 	adv	13	advmod	_	_
+16	ji	ji	ADP	posp	Number=Sing|Person=3	13	obl	_	_
+17	.	_	PUNCT	_	_	13	punct	_	_
+18	Boe	Boe	PROPN	_	Number=Plur	19	nsubj	_	_
+19	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	13	conj	_	_
+20	Boe	Boe	PROPN	_	Number=Plur	21	nmod	_	_
+21	eimejera	imejera	NOUN	_	Number=Sing|Number[psor]=Plur|Person=3	19	ccomp	_	_
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	oinore	oino	ADV 	adv	21	advmod	_	_
+24	ji	ji	ADP	posp	Number=Sing|Person=3	21	obl	_	_
+25	.	.	PUNCT	_	_	21	punct	_	_
+26	Boe	Boe	PROPN	_	Number=Plur	27	nsubj	_	_
+27	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	13	conj	_	_
+28	pao	o	_	_	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	27	ccomp	_	_
+29	,	,	PUNCT	_	_	27	punct	_	_
+30	oino	oino	ADV 	adv	_	27	advmod	_	_
+31	ji	ji	ADP	posp	Number=Sing|Person=3	27	obl	_	_
+
