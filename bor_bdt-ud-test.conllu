@@ -16940,3 +16940,32 @@
 8	gu	gu	X	_	_	4	conj	_	_
 9	...	...	PUNCT	_	_	8	punct	_	_
 
+# sent_id = boe_ero-30
+# text = Ah ! Mearydywareu, jorydywareu, mearydyware; icare uragodyre, mearydyre boe ekeroia ji, jorydyware boe ekeroia ji, icare uragodyre, urare 
+# text_port = Aquele que é inteligente, que sabe e é inteligente então ele canta e sabe cantar mesmo. Ele sabe a linguagem e ele começa a cantar.
+1	Ah	ah	INTJ	_	_	3	discourse	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Mearydywarewy	mearydy	NOUN	_	Mood=Ind|Nomzr=Rel	10	nsubj	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	jorydywarewy	erydy	NOUN	_	Mood=Ind|Nomzr=Rel	3	conj	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	mearydyware	mearydy	NOUN	_	Mood=Ind|Nomzr=Rel	3	conj	_	_
+8	;	;	PUNCT	_	_	7	punct	_	_
+9	icare	icare	ADV	_	_	10	advmod	_	_
+10	uragodyre	ra	VERB	v	Mood=Ind|Number=Sing|Plur=3	0	root	_	_
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	mearydyre	mearydy	NOUN	n	Mood=Ind|Nomzr=Rel	10	parataxis	_	_
+13	boe	boe	NOUN	_	_	14	nmod	_	_
+14	ekeroia	roia	NOUN	n	Class=Food|Number=Plur|Person=3	12	obl	_	_
+15	ji	ji	ADP	_	Number=Sing|Person=3	14	case	_	_
+16	,	_	PUNCT	_	_	14	punct	_	_
+17	jorydyware	erydywa	VERB	_	Mood=Ind|Nomzr=Rel	12	conj	_	_
+18	boe	boe	NOUN	_	_	19	nmod	_	_
+19	ekeroia	roia	NOUN	n	Class=Food|Number=Plur|Person=3	17	obl	_	_
+20	ji	ji	ADP	_	Number=Sing|Person=3	19	case	_	_
+21	,	,	PUNCT	_	_	19	punct	_	_
+22	icare	icare	ADV	_	_	23	advmod	_	_
+23	uragodyre	_	VERB	_	Mood=Ind|Number=Sing|Plur=3|Voice=CauInc	12	parataxis	_	_
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	urare	ra	VERB	v	Mood=Ind|Number=Sing|Plur=3	23	parataxis	_	_
+
