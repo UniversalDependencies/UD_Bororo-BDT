@@ -17204,4 +17204,34 @@
 24	amugudo	_	VERB	_	_	20	parataxis	_	_
 25	!	!	PUNCT	punct	_	24	punct	_	_
 
+# sent_id = boe_ero-40
+# text = Ia boere jetadydo , boe egore Ioga pega , ioga pega , ioga pega , aedadydo , akerogu reo , aedadydo awo akerogu ko
+# text_port = Alguém o acorda, os bororo falam: “Meu velho pai, meu velho pai acorda. Aqui sua comidinha, acorda para você comer sua comidinha.”
+1	Ia	ia	DET	det	Definite=Ind	2	det	_	_
+2	boere	boe	NOUN	n	Mood=Ind	3	vocative	_	_
+3	jetadydo	etady	VERB	v	Voice=Caus	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	Boe	Boe	PROPN	propn	Number=Plur	6	nsubj	_	_
+6	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+7	Ioga	oga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	16	vocative	_	_
+8	pega	pega	NOUN	n	_	7	nmod	_	_
+9	,	,	PUNCT	punct	_	7	punct	_	_
+10	ioga	oga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	7	conj	_	_
+11	pega	pega	NOUN	n	_	10	nmod	_	_
+12	,	,	PUNCT	punct	_	10	punct	_	_
+13	ioga	oga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	7	conj	_	_
+14	pega	pega	NOUN	n	_	13	_	_	_
+15	,	,	PUNCT	punct	_	13	punct	_	_
+16	aedadydo	etady	VERB	v	Mood=Imp|Number=Sing|Person=2|Voice=Caus	6	ccomp	_	_
+17	,	,	PUNCT	punct	_	16	punct	_	_
+18	akerogu	ke	NOUN	n	Degree=Dim|Number=Sing|Person=2	16	conj	_	_
+19	reo	reo	INTJ	intj	_	18	discourse	_	_
+20	,	,	PUNCT	punct	_	18	punct	_	_
+21	aedadydo	etady	VERB	v	Mood=Imp|Number=Sing|Person=2|Voice=Caus	16	conj	_	_
+22	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	24	nsubj	_	_
+23	akerogu	ke	NOUN	n	Degree=Dim|Number=Sing|Person=2	24	obj	_	_
+24	ko	ko	_	_	_	21	xcomp	_	_
+
+
+
 
