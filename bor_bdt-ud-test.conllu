@@ -4315,7 +4315,7 @@
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	[];;
 4	akore	ko	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
-5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3|Speech=IndOpt	4	xcomp	_	eat;comer
+5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3|Speech=Ind	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	[];;
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
@@ -8505,7 +8505,7 @@
 # text_por = Os bororo faz tempo impuseram o estójo peniano aos moços
 1	Boe	boe	NOUN	n	_	6	nsubj	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	dep	_	_
-3	ipare	iparedy	NOUN	n	Number=Plur	4	nmod	_	_
+3	ipare	iparedy	NOUN	n	Number=Plur	5	nmod	_	_
 4	eno	o	NOUN	n	_	5	clf	_	_
 5	o	o	NOUN	n	Poss=Yes	6	obj	_	_
 6	bado	_	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
@@ -9449,7 +9449,7 @@
 # text_por = Meu irmao maior disse que lhe prepares uma comida gostosa
 1	Imana	mana	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=IndOpt	5	nsubj	_	_
+3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=Ind	5	nsubj	_	_
 4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	obj	_	food;comida
 5	rodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	2	ccomp	_	make smell good;perfumar
 
@@ -10916,7 +10916,7 @@
 1	Icare	icare	ADV	adv	_	3	advmod	_	[];;
 2	onaregedy	onaregedy	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	3	nsubj	_	[];;
 3	akore	ako	VERB	v	Number=Sing|Person=3	0	root	_	[];;
-4	tuoiagu	_	NOUN	n	Number=Sing|Person=3|Reflex=Yes|Speech=IndOpt	3	ccomp	_	[];;
+4	tuoiagu	_	NOUN	n	Number=Sing|Person=3|Reflex=Yes|Speech=Ind	3	ccomp	_	[];;
 5	jorugo	jorugo	NOUN	n	_	4	obj	_	[];;
 6	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	7	nmod	_	[];;
 7	boie	_	NOUN	n	Speech=Ind	4	conj	_	[];;

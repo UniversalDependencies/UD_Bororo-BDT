@@ -33,7 +33,7 @@
     <tag name="X">160</tag><!-- _, dyji, dy, karega, br, nure, Kao, a, gu, hm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="77">
+  <feats unique="76">
     <feat name="AdvType" value="Loc" upos="ADV">16</feat><!-- woe -->
     <feat name="AdvType" value="Man" upos="ADV">23</feat><!-- oino, paga, tyjé -->
     <feat name="AdvType" value="Mod" upos="ADV">1</feat><!-- oino -->
@@ -101,8 +101,7 @@
     <feat name="Purp" value="Trans" upos="VERB">2</feat><!-- Makydyiagu, Makydykaiagu -->
     <feat name="Purp" value="Yes" upos="VERB">4</feat><!-- Makydykawo, Makydywo, Maragodydodykawo, Maragodydodywo -->
     <feat name="Reflex" value="Yes" upos="ADP,NOUN,PRON,VERB">183</feat><!-- tabo, tuge, cimo, tuo, tumugudo, akowarudo, pu, pudumi, pui, pujoku -->
-    <feat name="Speech" value="Ind" upos="ADP,ADV,NOUN,PART,SCONJ,VERB">19</feat><!-- koiaie, dytaboie, jurekaie, kaegae, arerumodyie, boejie, boie, dykodyie, jureie, kodie -->
-    <feat name="Speech" value="IndOpt" upos="NOUN,PRON,VERB">3</feat><!-- aiagu, enogwageiagu, tuoiagu -->
+    <feat name="Speech" value="Ind" upos="ADP,ADV,NOUN,PART,PRON,SCONJ,VERB">22</feat><!-- koiaie, dytaboie, jurekaie, kaegae, aiagu, arerumodyie, boejie, boie, dykodyie, enogwageiagu -->
     <feat name="Subord" value="Yes" upos="ADP,PRON,VERB">16</feat><!-- imuguwo, iorudiwawo, kowujewy, amuguwo, bagaidy, bagaiwy, erudiwawo, ikadykigodykare, iorydyiwamodedydo, itykadyre -->
     <feat name="Tense" value="Fut" upos="ADV,NOUN,PRON,VERB,X">179</feat><!-- imode, emode, pamode, amode, umode, Tamode, atumode, ikodymode, itymode, Cemode -->
     <feat name="VerbForm" value="Ger" upos="PRON,VERB">22</feat><!-- amagoi, makoi, roi, tagagoi, tagoi, Tamaragodyi, Taregodui, Tui, akoi, amaragodui -->

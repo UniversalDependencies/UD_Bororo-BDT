@@ -4,7 +4,7 @@ UD_Bororo-BDT is a compilation of annotated sentences in [Bororo](https://glotto
 
 # Introduction
 
-UD_Bororo-BDT stands as a comprehensive compilation of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). The corpus encompasses sentences derived from diverse sources, including grammar examples, mythological narratives, fieldwork material (elicited and spontaneous discourse), and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io). The project is work-in-progress and the treebank is being updated on a regular basis. 
+UD_Bororo-BDT stands as a comprehensive compilation of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). The corpus encompasses sentences derived from diverse sources, including grammar examples, mythological narratives, fieldwork material (elicited and spontaneous discourse), and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io). The project is work-in-progress and the treebank is being updated on a regular basis.
 
 # Acknowledgments
 
@@ -15,7 +15,7 @@ The development of this treebank is supported by the by European Research Counci
 * Nonato, Rafael (2008) _Ainore Boe egore: um estudo descritivo da língua bororo e conseqüências para a
 teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 
-* Ochoa, Gonçalo Camargo (2014) _Boe Ewadaru_. UCDB. (OBE) 
+* Ochoa, Gonçalo Camargo (2014) _Boe Ewadaru_. UCDB. (OBE)
 
 * Ochoa, Gonçalo Cibaikare and Etua, Frederico C. T. (1990) _História mítica bororo_. Vol. 1. Missão Salesiana de Mato Grosso (HMB)
 
@@ -47,7 +47,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Gerardi, Fabrício Ferraz; Aragon, Carolina
+Contributors: Gerardi, Fabrício Ferraz
 Contributing: here
 Contact: fabricio.gerardi@uni-tuebingen.de
 ===============================================================================
