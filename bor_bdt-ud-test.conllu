@@ -1798,6 +1798,179 @@
 17	imedymage	imedy	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	11	vocative	_	_
 18	tagae	kae	ADP	posp	Number=Plur|Person=2	15	obl	_	_
 
+# sent_id = CoqueiroAutobio.notícia da Chacina de Meruri-1
+# text = Kuri je cemearydyre barae erugodyie Boe ji dyji toro Meruri keje
+# text_por = Logo ouvimos que os brancos tinham atacado os Bororos lá em Meruri.
+# text_eng =
+1	Kuri	kuri	ADV	adv	_	3	advmod	_	_
+2	je	je	ADV	adv	_	1	flat	_	_
+3	cemearydyre	mearydy	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	0	root	_	_
+4	barae	baraedy	NOUN	n	Number=Plur	5	nmod	_	_
+5	eregodyie	rekody	NOUN	_	_	3	obl	_	_
+6	Boe	Boe	PROPN	propn	Number=Plur	5	obl	_	_
+7	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
+8	dyji	dyji	X	_	_	5	dep	_	_
+9	toro	toro	ADV	adv	_	3	advmod	_	_
+10	Meruri	Meruri	PROPN	_	_	3	obl	_	_
+11	keje	keje	ADP	posp	Number=Sing|Person=3	10	case	_	_
+
+# sent_id = CoqueiroAutobio.notícia da Chacina de Meruri-2
+# text = Boe eregodyre , Boere taodo Boe paru gajeje
+# text_por = Que os bororos tinham fugido e se espalhado por todo lado.
+# text_eng =
+1	Boe	Boe	PROPN	propn	Number=Plur	2	nsubj	_	_
+2	eregodyre	rekody	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	Boere	Boe	PROPN	propn	Number=Plur	5	nsubj	_	_
+5	taodo	_	VERB	_	_	2	parataxis	_	_
+6	Boe	Boe	PROPN	propn	Number=Plur	5	obl	_	_
+7	paru	paru	NOUN	n	_	6	flat	_	_
+8	gajeje	kajeje	ADP	posp	Number=Sing|Person=3	6	case	_	_
+
+# sent_id = CoqueiroAutobio.notícia da Chacina de Meruri-3
+# text = Iage eregodyie Jerigigirito , iage eregodyie Pae Eiaoto , iage, outros para eregodyie Cio Cio Iguruto
+# text_por = Que alguns tinham ido para o Morro de Ombro, outros para o lugar chamado Pae Eiao, outros para Cio-Cio-Iguru. 
+# text_eng =
+1	Iage	ia	PRON	_	Definite=Ind|Number=Plur	2	nsubj	_	_
+2	eregodyie	rekody	VERB	_	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	Jerigigiri	Jerigigiri	PROPN	_	_	2	obl	_	_
+4	to	to	ADP	posp	Number=Sing|Person=3	3	case	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	iage	ia	PRON	_	Definite=Ind|Number=Plur	7	nsubj	_	_
+7	eregodyie	rekody	VERB	_	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+8	Pae	Pae	PROPN	_	_	7	obl	_	_
+9	Eiao	Eiao	PROPN	_	_	8	flat	_	_
+10	to	to	ADP	posp	Number=Sing|Person=3	8	case	_	_
+11	,	,	PUNCT	_	_	7	punct	_	_
+12	iage	ia	PRON	_	Definite=Ind|Number=Plur	13	nsubj	_	_
+13	eregodyie	rekody	VERB	_	Mood=Ind|Number=Plur|Person=3	2	parataxis	_	_
+14	Cio	Cio	PROPN	_	_	13	obl	_	_
+15	Cio	Cio	PROPN	_	_	14	flat	_	_
+16	Iguru	Iguru	PROPN	_	_	15	flat	_	_
+17	to	to	ADP	posp	Number=Sing|Person=3	14	case	_	_
+
+# sent_id = CoqueiroAutobio.notícia da Chacina de Meruri-4
+# text = Baraeie Boe etogorido dy kuricigodo . Eie areme etogorido , eie ime etogorido , eie Padre bito , eie Simão bito , eie pu bito jamedy . Ewaiga jety pagaie tumedyia ji , kodie ere tumedyia bito
+# text_por = Que os brancos tinham ferido muitos Bororos. Que tinham ferido mulheres e homens, que tinham matado o Padre, que tinham matado Simão, e que se tinham matado entre si. Que a arma deles tinha atingido à toa um deles mesmos, e que assim tinham matado um próprio colega.
+# text_eng =
+1	Baraeie	baraedy	NOUN	_	Number=Plur	3	nsubj	_	_
+2	Boe	Boe	PROPN	_	Number=Plur	3	obj	_	_
+3	etogorido	okorido	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
+4	dy	dy	X	_	_	3	dep	_	_
+5	kuricigodo	_	ADV	_	_	3	advmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+7	Eie	e	PRON	bi	Numer=Plur|Person=3|Speech=Ind	9	nsubj	_	_
+8	areme	aredy	NOUN	_	Number=Plur	9	obj	_	_
+9	etogorido	okorido	VERB	v	Number=Plur|Person=3|Voice=Cau	3	parataxis	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	eie	e	PRON	bi	Numer=Plur|Person=3|Speech=Ind	13	nsubj	_	_
+12	ime	imedy	NOUN	_	Number=Plur	13	obj	_	_
+13	etogorido	okorido	VERB	v	Number=Plur|Person=3|Voice=Cau	3	parataxis	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	eie	_	PRON	_	_	17	nsubj	_	_
+16	Padre	_	NOUN	_	_	17	obj	_	_
+17	bito	bito	VERB	vc	Number=Sing|Person=3	3	parataxis	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	eie	e	PRON	bi	Numer=Plur|Person=3|Speech=Ind	21	nsubj	_	_
+20	Simão	_	PROPN	_	_	21	obj	_	_
+21	bito	bito	VERB	vc	Number=Sing|Person=3	3	parataxis	_	_
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	eie	e	PRON	bi	Numer=Plur|Person=3|Speech=Ind	25	nsubj	_	_
+24	pu	pu	PRON	pron	PronType=rcp	25	obj	_	_
+25	bito	bito	VERB	vc	Number=Sing|Person=3	3	parataxis	_	_
+26	jamedy	_	ADV	_	_	25	advmod	_	_
+27	.	.	PUNCT	_	_	25	punct	_	_
+28	Ewaiga	_	NOUN	_	_	30	nsubj	_	_
+29	jety	_	X	_	_	30	dep	_	_
+30	pagaie	_	ADV	_	_	3	parataxis	_	_
+31	tumedyia	metyia	NOUN	n	Number=Sing|Reflex=Yes	30	obl	_	_
+32	ji	ji	ADP	posp	Number=Sing|Person=3	31	case	_	_
+33	,	,	PUNCT	_	_	30	punct	_	_
+34	kodie	_	ADV	_	_	37	advmod	_	_
+35	ere	e	PROPN	bi	Mood=Ind|Number=Plur|Person=3	37	nsubj	_	_
+36	tumedyia	metyia	NOUN	n	Number=Sing|Reflex=Yes	37	obj	_	_
+37	bito	bito	VERB	vc	Number=Sing|Person=3	3	parataxis	_	_
+
+# sent_id = CoqueiroAutobio.notícia da Chacina de Meruri-5
+# text = Uw! Pega remawynure ! Cegiarigodyre ! Finada Margarida oragudyre padre bogai , imi jamedy iragodyre bogai
+# text_por = O! As coisas estavam muito ruins! Ficamos tristes. A finada Margarida chorava pelo padre e eu também chorava por ele.
+# text_eng =
+1	Uw	uw	INTJ	intj	_	4	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Pega	pega	NOUN	_	_	4	nsubj	_	_
+4	remawynure	rema	NOUN	_	Aspect=Prog|Mood=Ind|Nomzr=Rel	0	root	_	_
+5	!	!	PUNCT	punct	_	4	punct	_	_
+6	Cegiarigodyre	_	VERB	_	_	4	parataxis	_	_
+7	!	!	PUNCT	punct	_	6	punct	_	_
+8	Finada	finada	NOUN	_	_	9	nmod	_	_
+9	Margarida	Margarida	PROPN	_	_	10	nsubj	_	_
+10	oragudyre	_	VERB	v	Mood=Ind|Number=Sing|Person=3	4	parataxis	_	_
+11	padre	padre	NOUN	_	Number=Sing	10	obl	_	_
+12	bogai	bogai	ADP	posp	Number=Sing|Person=3	11	case	_	_
+13	,	,	PUNCT	punct	_	10	punct	_	_
+14	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+15	jamedy	jamedy	ADV	adv	_	16	advmod	_	_
+16	iragodyre	rakody	VERB	_	Mood=Ind|Number=Sing|Person=1	4	parataxis	_	_
+17	bogai	bogai	ADP	posp	Number=Sing|Person=3	16	case	_	_
+
+# sent_id = CoqueiroAutobio.notícia da Chacina de Meruri-6
+# text = Iragodyre boeco ji Bokodori Ecerae eke roia ji , i nure maky toro utaroe bogai toro , Pemo bogai , finado Simão jamedy
+# text_por = De noite eu cantei o canto dos Bokodori Ecerae; eu o estava oferecendo a Deus pela alma dele (do padre) e do finado Simão também
+# text_eng =
+1	Iragodyre	rakody	VERB	vi	_	0	root	_	_
+2	boeco	boeco	NOUN	n	_	1	obl	_	_
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	Bokodori	Bokodori	PROPN	_	_	6	nmod	_	_
+5	Ecerae	Ecerae	PROPN	_	_	4	flat	_	_
+6	eke	ke	NOUN	n	Number=Plur|Person=3	1	obl	_	_
+7	roia	roia	NOUN	_	Number=Sing	6	nmod	_	_
+8	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number[erg]=Sing|Person[erg]=1	11	nsubj	_	_
+11	maky	maky	VERB	vt	Numer[abs]=Sing|Person[abs]=3	1	parataxis	_	_
+12	toro	toro	ADV	_	_	11	advmod	_	_
+13	utaroe	_	NOUN	n	Numer=Sing	11	obl	_	_
+14	bogai	bogai	ADP	_	Number=Sing|Person=3	13	case	_	_
+15	toro	toro	ADV	_	_	11	advmod	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	Pemo	Pemo	PROPN	_	_	11	obl	_	_
+18	bogai	bogai	ADP	_	Number=Sing|Person=3	17	case	_	_
+19	,	,	PUNCT	_	_	17	punct	_	_
+20	finado	finado	ADJ	_	_	21	nmod	_	_
+21	Simão	Simão	PROPN	_	_	11	obl	_	_
+22	jamedy	jamedy	ADV	_	_	11	advmod	_	_
+
+# sent_id = CoqueiroAutobio.notícia da Chacina de Meruri-7
+# text = Barogwa kododyre . Imugyre ty ... Iwiapagare toro ty ... Pemo bogai . Kocare ! Padre bitodyre ! Simão bitodyre ! Kocare ! Icare ikiarigody akedykare
+# text_por = Quando amanheceu, eu estava sentado aí... pensando em Deus. Que coisa! O padre foi morto! Simão foi morto! Que coisa! A minha saudade não tinha fim.
+# text_eng =
+1	Barogwa	barogwa	NOUN	_	Number=Sing	2	nsubj	_	_
+2	kododyre	kodoy	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=Pas	0	root	_	_
+3	.	_	PUNCT	_	_	2	punct	_	_
+4	Imugyre	mugy	VERB	_	Mood=Ind|Number=Sing|Person=1	2	parataxis	_	_
+5	ty	ty	ADV	_	_	4	advmod	_	_
+6	...	...	PUNCT	_	_	4	punct	_	_
+7	Iwiapagare	biapaga	VERB	_	Mood=Ind|Number=Sing|Person=1	2	parataxis	_	_
+8	toro	toro	ADV	_	_	7	advmod	_	_
+9	ty	ty	ADV	_	_	7	advmod	_	_
+10	...	_	PUNCT	_	_	7	punct	_	_
+11	Pemo	Pemo	PROPN	_	_	7	obl	_	_
+12	bogai	bogai	ADP	_	Number=Sing|Person=3	11	case	_	_
+13	.	_	PUNCT	_	_	11	punct	_	_
+14	Kocare	Kocare	INTJ	_	_	2	discourse	_	_
+15	!	_	PUNCT	_	_	14	punct	_	_
+16	Padre	padre	NOUN	_	_	17	nsubj	_	_
+17	bitodyre	bito	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=Pas	2	parataxis	_	_
+18	!	!	PUNCT	_	_	17	punct	_	_
+19	Simão	Simão	PROPN	_	_	20	nsubj	_	_
+20	bitodyre	bito	VERB	_	Mood=Ind|Number=Sing|Person=3|Voice=Pas	17	parataxis	_	_
+21	!	!	PUNCT	_	_	20	punct	_	_
+22	Kocare	kocare	INTJ	_	_	17	discourse	_	_
+23	!	_	PUNCT	_	_	22	punct	_	_
+24	Icare	icare	INTJ	_	_	26	discourse	_	_
+25	ikiarigody	kiari	NOUN	_	Aspect=Inc|Number=Sing|Person=1	26	nsubj	_	_
+26	akedykare	akedy	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	17	parataxis	_	;terminate,end;acabar,terminar
+
 # sent_id = OiegoJiwuBakaru-01
 # text = Ia imedy uwogure
 # text_eng = A man went fishing
