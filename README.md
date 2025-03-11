@@ -41,13 +41,13 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 Data available since: UD v2.12
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: grammar-examples
+Genre: multiple
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Gerardi, Fabrício Ferraz
+Contributors: Gerardi, Fabrício Ferraz and Toribio, Lucas and Sollberger, Dolores
 Contributing: here
 Contact: fabricio.gerardi@uni-tuebingen.de
 ===============================================================================
