@@ -1526,24 +1526,24 @@
 
 # sent_id = ArigaodogeEiTuguodo-11
 # text = Boe egore arigao akore kui , kui , kui ; je padure moto kajeje rugadu .
-# text_eng = 
+# text_eng =
 # text_por = Os Bororo falam que os cães latem: kui , kui , kui; eles surgiram do chão mesmo.
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	arigao	arigao	NOUN	n	Number=Sing	4	nsubj	_	_
 4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	ccomp	_	_
-5	kui	_	X	_	_	6	conj	_	_
-6	,	,	PUNCT	punct	_	4	punct	_	_
-7	kui	_	X	_	_	8	conj	_	_
-8	,	,	PUNCT	punct	_	4	punct	_	_
-9	kui	_	X	_	_	4	conj	_	_
+5	kui	_	X	_	_	4	xcomp	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	kui	_	X	_	_	5	conj	_	_
+8	,	,	PUNCT	punct	_	9	punct	_	_
+9	kui	_	X	_	_	7	conj	_	_
 10	;	;	PUNCT	punct	_	12	punct	_	_
 11	je	_	ADV	adv	_	12	advmod	_	_
 12	padure	tu	VERB	vi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	2	parataxis	_	_
 13	moto	moto	NOUN	n	Number=Sing	12	obl	_	_
 14	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	rugadu	rugadu	ADV	adv	_	12	advmod	_	_
-16	.	.	PUNCT	punct	_	2	punct	_	_
+16	.	.	PUNCT	punct	_	12	punct	_	_
 
 # sent_id = ArigaodogeEiTuguodo-12_1
 # text = Ure toiado bai Aroia Kurirewu bure paru to .
@@ -2738,7 +2738,7 @@
 7	,	,	PUNCT	punct	_	12	punct	_	_
 8	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	9	det	_	_
 9	korogedu	korogedu	NOUN	n	_	10	nmod	_	_
-10	jipa	jipa	NOUN	n	_	12	advmod	_	_
+10	jipa	jipa	NOUN	n	_	12	nmod	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
 12	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	5	advmod	_	_
 13	,	,	PUNCT	punct	_	15	punct	_	_
@@ -2997,8 +2997,8 @@
 # text = Nonore ere bato .
 # text_eng = 
 # text_por = 
-1	Nonore	nono	ADV	adv	Mood=Ind	4	advmod	_	_
-2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
+1	Nonore	nono	ADV	adv	Mood=Ind	3	advmod	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	nsubj	_	_
 3	bato	bato	VERB	v	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
@@ -7161,13 +7161,13 @@
 # sent_id = HMB-Pemo_e_Baraedugume-08_2
 # text = Icare barogwa kododudo , dutabore icare nowu onaregedu makore tumedage ewogai pugeje , akore João !
 # text_eng = 
-# text_por = Quando fez de novo amanhecer, o Filho dele chamou os seus colegas dizendo: - João!
+# text_por = Quando fez de novo amanhecer, o Filho dele chamou os seus colegas dizendo: João!
 1	Icare	icare	ADV	adv	_	3	advmod	_	_
 2	barogwa	barogwa	NOUN	n	Number=Sing	3	obj	_	_
 3	kododudo	kododu	VERB	vt	Voice=Cau	0	root	_	_
 4	,	,	PUNCT	punct	_	9	punct	_	_
 5	dutabore	Dutabo	ADV	adv	Mood=Ind	9	mark	_	_
-6	Icare	icare	ADV	adv	_	9	advmod	_	_
+6	icare	icare	ADV	adv	_	9	advmod	_	_
 7	nowu	nowu	DET	dem	Deixis=Remt	8	det	_	_
 8	onaregedu	onaregedu	NOUN	n	Number=Sgtv	9	nsubj	_	_
 9	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
@@ -10007,7 +10007,7 @@
 10	hm	_	X	_	_	6	conj	_	_
 11	,	,	PUNCT	punct	_	12	punct	_	_
 12	tubadui	padu	VERB	v	Reflex=Yes|VerbForm=Ger	3	xcomp	_	_
-13	.	.	PUNCT	punct	_	2	punct	_	_
+13	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = OiegoJiwuBakaru-09_1
 # text = Icare nowu imedure ipo to aora ji po po po !
@@ -11310,7 +11310,7 @@
 # text_eng =
 # text_por = O que é primeiro irá último.
 1	Boe	boe	NOUN	n	_	4	nsubj	_	_
-2	to	to	ADP	pos	Number=Sing|Person3	1	case	_	_
+2	to	to	ADP	pos	Number=Sing|Person=3	1	case	_	_
 3	jiwu	ji	NOUN	n	Nomzr=Rel	1	nmod	_	_
 4	kodumode	kodu	VERB	v	Irr=Yes|Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	boi	boi	ADV	adv	_	4	advmod	_	_
@@ -11597,7 +11597,7 @@
 # text_eng = They gave themselves to each other.
 # text_por = Eles se deram um ao outro.
 1	Ere	e	PRON	bi	Number=Plur|Person=3	2	nsubj	_	_
-2	pumaku	maku	VERB	v	|Reflex=Yes	0	root	_	_
+2	pumaku	maku	VERB	v	Reflex=Yes	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = PessGr-072c
@@ -12467,11 +12467,11 @@
 # text = Awu ji ca ukare oino pugeje .
 # text_eng = Nowadays, things are not this way.
 # text_por = Hoje, a coisa não está assim.
-1	Awu	awu	DET	adv	Deixis=Prop	5	obl	_	_
+1	Awu	awu	DET	adv	Deixis=Prox	5	obl	_	_
 2	ji	ji	ADP	posp	_	1	case	_	_
 3	ca	ca	ADV	adv	_	5	advmod	_	_
 4	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	5	nsubj	_	_
-5	oino	oino	ADV	adv	AdvType=Mod|Person=3	0	root	_	_
+5	oino	oino	ADV	adv	AdvType=Mod	0	root	_	_
 6	pugeje	pugeje	ADV	adv	_	5	advmod	_	_
 7	.	.	PUNCT	punct	_	5	punct	_	_
 
@@ -14597,4 +14597,3 @@
 4	Cerewu	cerewu	PROPN	propn	_	3	flat	_	_
 5	rema	rema	AUX	cop	Pred=AtrEq	1	cop	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
-
