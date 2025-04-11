@@ -303,7 +303,7 @@
 # text_eng = (S)he thinks (s)he is pretty.
 # text_por = ele(a) pensa que é bonito(a)
 1	Mearudaere	mearudae	VERB	v	Mood=Ind	0	root	_	_
-2	tumotuie	motu	VERB	v	PronType=Rcp|Speech=Ind	1	ccomp	_	_
+2	tumotuie	motu	VERB	v	Refley=Yes|Speech=Ind	1	ccomp	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = ABE-219
