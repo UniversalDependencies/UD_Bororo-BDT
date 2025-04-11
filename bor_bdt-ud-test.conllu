@@ -13160,7 +13160,7 @@
 19	.	.	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = coqueiro-XVIII-36_1
-# text = Cemearudure jiboe reo : Baraedu jire ro oino .
+# text = Cemearudure jiboe reo : baraedu jire ro oino .
 # text_port = O que ouvimos dizer foi isto: Ela está mexendo com o branco que chegou aqui.
 # text_eng =
 1	Cemearudure	mearudu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	2	acl	_	_
@@ -13193,7 +13193,7 @@
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = coqueiro-XVIII-37_1
-# text = Inagore Uu , ema rugadu .
+# text = Inagore uw , ema rugadu .
 # text_port = Eu disse: - Sim! Está certo.
 # text_eng =
 1	Inagore	ako	VERB	v	_	0	root	_	_
@@ -13209,10 +13209,10 @@
 # text_eng =
 1	Jetu	etu	VERB	v	_	0	root	_	_
 2	kobori	kobori	ADV	adv	_	1	advmod	_	_
-3	rumode	ru	ADV	adv	Mood=Ind|Tens=Fut	1	advmod	_	_
+3	rumode	ru	ADV	adv	Mood=Ind|Tense=Fut	1	advmod	_	_
 4	pai	ji	ADP	posp	Clusivity=In|Number=Plur|Person=1	1	obl	_	_
 5	,	,	PUNCT	punct	_	8	punct	_	_
-6	Pagi	pagi	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+6	pagi	pagi	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 7	jamedu	jamedu	ADV	adv	_	8	advmod	_	_
 8	paetu	etu	VERB	v	Clusivity=In|Number=Plur|Person=1	1	conj	_	_
 9	kobori	kobori	ADV	adv	_	8	advmod	_	_
