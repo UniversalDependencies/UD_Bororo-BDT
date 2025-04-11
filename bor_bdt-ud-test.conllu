@@ -13048,7 +13048,7 @@
 1	Cedaidukare	adiu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Polarity=Neg	0	root	_	_
 2	awu	awu	DET	det	Deixis=Prox	5	det	_	_
 3	akaregodure	aregodu	VERB	v	Aspect=Inc|Mood=Ind|Number[subj]=Sing|Person[subj]=2	5	acl	_	_
-4	apowu	apo	SCONJ	n	Nomzr=Rel|Number=Sing|Person=2	3	mark	_	_
+4	apowu	apo	ADP	posp	Nomzr=Rel|Number=Sing|Person=2	3	mark	_	_
 5	aredu	are	NOUN	n	Number=Sgtv	1	obj	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
@@ -13068,7 +13068,7 @@
 9	mare	mare	CCONJ	_	_	10	cc	_	_
 10	ceerudu	erudu	VERB	v	Clusivity=Ex|Number=Plur|Person=1	2	conj	_	_
 11	pemegakare	pemega	NOUN	n	Mood=Ind|Polarity=Neg	10	ccomp	_	_
-12	roi	ro	NOUN	n	VerbForm=Ger	11	obl	_	_
+12	roi	ro	VERB	v	VerbForm=Ger	11	obl	_	_
 13	ai	ji	ADP	posp	Number=Sing|Person=2	12	case	_	_
 14	duji	duji	X	_	_	11	dep	_	_
 15	.	.	PUNCT	punct	_	11	punct	_	_
