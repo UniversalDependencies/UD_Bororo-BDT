@@ -10771,7 +10771,7 @@
 # text = Imedu kurirewu .
 # text_eng = 
 # text_por = homem grande.
-1	Imedu	imedu	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
+1	Imedu	imedu	NOUN	n	Number=Sing	0	root	_	_
 2	kurirewu	kuri	ADJ	adj	Nomzr=Rel	1	amod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -10779,7 +10779,7 @@
 # text = Ime kurireuge .
 # text_eng = 
 # text_por = homens grandes.
-1	Ime	imedu	NOUN	n	Gender=Masc|Number=Plur	0	root	_	_
+1	Ime	imedu	NOUN	n	Number=Plur	0	root	_	_
 2	kurireuge	kuri	ADJ	adj	Nomzr=Rel|Number=Plur	1	amod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -10804,7 +10804,7 @@
 # text_eng = The man who is good.
 # text_por = o homem que é bom.
 1	Pemegarewu	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	2	amod	_	_
-2	imedu	imedu	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
+2	imedu	imedu	NOUN	n	Number=Sing	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = PessGr-040a
@@ -13430,7 +13430,7 @@
 2	boecodure	boeco	VERB	v	Voice=Pass	0	root	_	_
 3	gu	gu	X	gu	_	2	discourse	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
-5	dukeje	dukeje	ADV	adv	AdvType=Temp	9	advmod	_	_
+5	dukeje	dukeje	ADV	adv	AdvType=Tim	9	advmod	_	_
 6	Icare	ica	ADV	adv	Mood=Ind	9	advmod	_	_
 7	ia	ia	DET	det	Definite=Ind|PronType=Art	9	det	_	_
 8	iparedu	iparedu	NOUN	n	_	9	nsubj	_	_
@@ -13587,7 +13587,7 @@
 # text_port = E disse: - Durante três meses. Você vai aprender "Ave-maria", depois "Pai-nosso", depois "Ato de Contrição", depois "Amar-a-Deus".
 # text_eng = And he said: - For three months. You will learn "Ave Maria", then "Our Father", then "Act of Contrition", then "To Love God".
 1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-2	ari	ari	ADV	adv	AdvType=Temp	4	advmod	_	_
+2	ari	ari	ADV	adv	AdvType=Tim	4	advmod	_	_
 3	oino	oino	ADV	adv	AdvType=Mod	4	advmod	_	_
 4	amagomode	mako	VERB	v	Irr=Yes|Mood=Ind|Number=Sing|Person=2	1	ccomp	_	_
 5	jiwu	jiwu	ADV	adv	_	4	advmod	_	_
@@ -14200,7 +14200,7 @@
 6	Cerewu	Cerewu	PROPN	propn	_	5	flat	_	_
 7	cedu	_	X	x	_	6	dep	_	_
 8	,	,	PUNCT	punct	_	9	punct	_	_
-9	Ceraedu	Ceraedu	NOUN	n	Gender=Masc	4	parataxis	_	_
+9	Ceraedu	Ceraedu	NOUN	n	_	4	parataxis	_	_
 10	,	,	PUNCT	punct	_	12	punct	_	_
 11	Baadojeba	Baadojeba	PROPN	propn	_	12	nmod	_	_
 12	Cobugiwu	Cobugiwu	PROPN	propn	_	4	parataxis	_	_
