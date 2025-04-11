@@ -13048,7 +13048,7 @@
 1	Cedaidukare	adiu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Polarity=Neg	0	root	_	_
 2	awu	awu	DET	det	Deixis=Prox	5	det	_	_
 3	akaregodure	aregodu	VERB	v	Aspect=Inc|Mood=Ind|Number[subj]=Sing|Person[subj]=2	5	acl	_	_
-4	apowu	apo	NOUN	n	Nomzr=Rel|Number=Sing|Person=2	3	mark	_	_
+4	apowu	apo	NOUN	n	Nomzr=Rel|Number=Sing|Person=2	3	sconj	_	_
 5	aredu	are	NOUN	n	Number=Sgtv	1	obj	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
@@ -13348,7 +13348,7 @@
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = coqueiro-XVIII-7_1
-# text = Inagore wo , itaidure pawo etugu woe ikuduwo kuruce .
+# text = Inagore wo , itaidure pawo etugu woe ikuduwo kuru ce .
 # text_port = Eu disse: O! Quero que os cozinhemos aqui para beber um caldo deles.
 # text_eng =
 1	Inagore	ako	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
