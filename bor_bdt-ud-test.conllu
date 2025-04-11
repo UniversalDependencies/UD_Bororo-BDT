@@ -13464,7 +13464,7 @@
 5	inodu	inodu	NOUN	n	_	7	obl	_	_
 6	tabo	tabo	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
-8	ikaiagu	ikaiagu	PRON	_	Mood=Purp|Number=Sing|Person=1|Polarity=Neg	7	ccomp	_	_
+8	ikaiagu	ikaiagu	PRON	_	Mood=Prp|Number=Sing|Person=1|Polarity=Neg	7	ccomp	_	_
 9	awie	_	ADP	_	_	8	obl	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
@@ -13696,13 +13696,13 @@
 1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	akie	ie	ADP	posp	Number=Sing|Person=2	1	obl	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
-4	atuiagu	tu	VERB	v	Mood=Purp|Number=Sing|Person=2	5	nsubj	_	_
+4	atuiagu	tu	VERB	v	Mood=Prp|Number=Sing|Person=2	5	nsubj	_	_
 5	toro	toro	ADV	adv	AdvType=Loc	1	ccomp	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
 7	awu	awu	DET	dem	Deixis=Prox	8	det	_	_
 8	barogwato	barogwato	ADV	adv	_	5	conj	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	aiagu	aiagu	PRON	bi	Mood=Purp|Number=Sing|Person=1	13	nsubj	_	_
+10	aiagu	aiagu	PRON	bi	Mood=Prp|Number=Sing|Person=1	13	nsubj	_	_
 11	awu	awu	DET	dem	Deixis=Prox	12	nmod	_	_
 12	akoreduje	oreduje	NOUN	n	Number=Sing|Number[poss]=Sing|Person=2	13	obj	_	_
 13	towuje	towuje	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
