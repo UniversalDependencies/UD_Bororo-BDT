@@ -12932,7 +12932,7 @@
 # text_port = Aí fomos andando de novo
 # text_eng = 
 1	Icare	icare	ADV	ADV	adv	2	advmod	_	_
-2	cegodure	akodu	VERB	v	Clusivity=Ex|Mood=ind|Number=Plur|Person=1	0	root	_	_
+2	cegodure	akodu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	0	root	_	_
 3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
@@ -12940,14 +12940,14 @@
 # text = Cedure jii tore ewogai toro , awu emuga Koboarewuge eiari kae .
 # text_port = Fomos lá aonde eles estavam, na gruta dos Cascudos (Na barra do córrego Fundo, na margem direita do Barreiro, para cima dos Tachos).
 # text_eng =
-1	Cedure	tu	VERB	v	Clusivity=Ex|Mood=ind|Number=Plur|Person=1	0	root	_	_
+1	Cedure	tu	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	0	root	_	_
 2	jii	jii	ADV	adv	_	1	advmod	_	_
 3	tore	tore	ADV	adv	_	1	advmod	_	_
 4	ewogai	bogai	ADP	posp	Number=Plur|Person=3	1	case	_	_
 5	toro	toro	ADV	adv	_	1	advmod	_	_
 6	,	,	PUNCT	punct	_	8	punct	_	_
 7	awu	awu	DET	det	Deixis=Prox	8	det	_	_
-8	emuga	muga	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	1	obl	_	_
+8	emuga	muga	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	10	obl	_	_
 9	Koboarewuge	_	PROPN	n	_	10	nmod	_	_
 10	eiari	_	NOUN	n	_	8	nmod	[];;gruta	_
 11	kae	_	ADP	posp	_	10	case	_	_
@@ -13368,7 +13368,7 @@
 # text = Ikugudugodure ekuru boi koia .
 # text_port = Estou fraco de vontade do caldo deles.
 # text_eng =
-1	Ikugudugodure	kugudu	VERB	v	Voice=	0	root	_	_
+1	Ikugudugodure	kugudu	VERB	v	Mood=Ind|Voice=CauInc	0	root	_	_
 2	ekuru	kuru	NOUN	n	Number=Plur|Person=1	3	nmod	_	_
 3	boi	boi	NOUN	n	_	1	obl	_	_
 4	koia	koia	ADP	posp	Number=Sing|Person=3	3	case	_	_
@@ -13678,7 +13678,7 @@
 3	kowuje	kowuje	VERB	vt	Number=Sing|Person=3	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	dutabore	dutabo	ADV	adv	Mood=Ind	7	advmod	_	_
-6	Icare	ica	ADV	adv	Mood=Ind	7	advmod	_	_
+6	icare	ica	ADV	adv	Mood=Ind	7	advmod	_	_
 7	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	14	nsubj	_	_
