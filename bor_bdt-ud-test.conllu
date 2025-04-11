@@ -13438,7 +13438,7 @@
 10	kowaru	kowaru	NOUN	n	_	9	obl	_	_
 11	apo	apo	ADP	posp	Number=Sing|Person=3	10	case	_	_
 12	,	,	PUNCT	punct	_	9	punct	_	_
-13	cewu	cewu	DET	det	Deixis=Dist	14	nsubj	_	_
+13	cewu	cewu	DET	det	Deixis=Remt	14	nsubj	_	_
 14	Piodudo	Piodudo	PROPN	_	_	2	parataxis	_	_
 15	.	.	PUNCT	punct	_	14	punct	_	_
 
@@ -13615,11 +13615,11 @@
 # text_eng = I said: - Yes! I didn’t understand what he was saying.
 1	Inagore	ako	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	uw	uw	INTJ	intj	_	4	discourse	_	_
-3	,	,	PUNCT	punct	_	4	punct	_	_
-4	ioruduwakare	_	VERB	v	_	1	ccomp	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ioruduwakare	jorudu	VERB	v	_	1	ccomp	_	_
 5	ako	ako	NOUN	n	_	4	obl	_	_
 6	oino	oino	ADV	adv	AdvType=Mod	4	advmod	_	_
-7	jiboe	_	X	x	_	5	dep	_	_
+7	jiboe	jiboe	X	x	_	5	dep	_	_
 8	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 9	.	.	PUNCT	punct	_	5	punct	_	_
 
@@ -13670,7 +13670,7 @@
 12	.	.	PUNCT	punct	_	10	punct	_	_
 
 # sent_id = coqueiro-XXI-7
-# text = Icare ure kowuje , utabore icare makore , ure nowu okwa inodu Padre iegi .
+# text = Icare ure kowuje , dutabore icare makore , ure nowu okwa inodu Padre iegi .
 # text_port = Aí ele comeu. Enquanto comia ele falou. Falou o nome do finado padre.
 # text_eng = Then he ate. While eating, he spoke. He mentioned the name of the late priest.
 1	Icare	ica	ADV	adv	Mood=Ind	3	advmod	_	_
@@ -13704,12 +13704,12 @@
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	aiagu	aiagu	PRON	bi	Mood=Prp|Number=Sing|Person=1	13	nsubj	_	_
 11	awu	awu	DET	dem	Deixis=Prox	12	nmod	_	_
-12	akoreduje	oreduje	NOUN	n	Number=Sing|Number[poss]=Sing|Person=2	13	obj	_	_
+12	akoreduje	oreduje	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	13	obj	_	_
 13	towuje	towuje	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
 
 # sent_id = coqueiro-XXI-9
-# text = Icare ure kowuje , dutabore icare makore , ure nowu okwa indu padre iegi .
+# text = Icare ure kowuje , dutabore icare makore , ure nowu okwa inodu padre iegi .
 # text_port =
 # text_eng = 
 1	Icare	ica	ADV	adv	Mood=Ind	3	advmod	_	_
@@ -13717,7 +13717,7 @@
 3	kowuje	kowuje	VERB	vt	Number=Sing|Person=3	0	root	_	_
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	dutabore	_	ADV	adv	_	7	advmod	_	_
-6	Icare	ica	ADV	adv	Mood=Ind	7	advmod	_	_
+6	icare	ica	ADV	adv	Mood=Ind	7	advmod	_	_
 7	makore	mako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	14	nsubj	_	_
