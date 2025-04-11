@@ -6035,7 +6035,7 @@
 # text_por = Meu irmao maior disse que lhe prepares uma comida gostosa.
 1	Imana	mana	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1|Speech=IndTrans	2	nsubj	_	_
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=IndOpt	5	nsubj	_	_
+3	aiagu	a	PRON	bi	Number=Sing|Person=2|Speech=Ind	5	nsubj	_	_
 4	tuge	ke	NOUN	n	Number=Sing|Person=3|Reflex=Yes	5	obj	_	_
 5	rodo	rodo	VERB	v	Number=Sing|Person=3|Voice=Cau	2	ccomp	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
@@ -14597,5 +14597,3 @@
 4	Cerewu	cerewu	PROPN	propn	_	3	flat	_	_
 5	rema	rema	AUX	cop	Pred=AtrEq	1	cop	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
-
-
