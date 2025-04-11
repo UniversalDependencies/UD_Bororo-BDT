@@ -2612,7 +2612,7 @@
 # text_eng = We made you put your food in the pan.
 # text_por = Nós fizemos você pôr sua comida dentro da panela.
 1	Pare	_	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1	5	nsubj	_	_
-2	ado	a	PRON	bi	Number=Sing|Person=2||Voice=Cau	5	obj	_	_
+2	ado	a	PRON	bi	Number=Sing|Person=2|Voice=Cau	5	obj	_	_
 3	ake	ke	NOUN	n	Number=Sing|Person=2	4	clf	_	_
 4	rogu	rogu	NOUN	n	_	5	obj	_	_
 5	tugo	tugo	VERB	v	_	0	root	_	_
@@ -4309,7 +4309,7 @@
 # text = Itamodugodunure .
 # text_eng = I am getting old(er)
 # text_por = Estou envelheçendo.
-1	Itamodugodunure	amodugodu	VERB	v	Irr=Yes|Aspect=IncProg|Mood=Ind|Number=Sing|Person=1	0	root	_	_
+1	Itamodugodunure	amodugodu	VERB	v	Aspect=IncProg|Irr=Yes|Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = EncIEx-029
@@ -4464,7 +4464,7 @@
 # text = Cemode ipodoge apado .
 # text_eng = we will make forks from the supports.
 # text_por = Faremos forquilhas dos esteios.
-1	Cemode	ce	PRON	bi	Irr=Yes|Clusivity=Ex|Mood=Ind|Number=Sing|Person=1	3	nsubj	_	_
+1	Cemode	ce	PRON	bi	Clusivity=Ex|Irr=Yes|Mood=Ind|Number=Sing|Person=1	3	nsubj	_	_
 2	ipodoge	_	NOUN	n	Number=Plur	3	obj	_	_
 3	apado	_	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
@@ -14599,3 +14599,4 @@
 4	Cerewu	cerewu	PROPN	propn	_	3	flat	_	_
 5	rema	rema	AUX	cop	Pred=AtrEq	1	cop	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
+
