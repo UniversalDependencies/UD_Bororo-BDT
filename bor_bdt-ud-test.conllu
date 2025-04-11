@@ -12947,7 +12947,7 @@
 7	awu	awu	DET	det	Deixis=Prox	8	det	_	_
 8	emuga	muga	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	10	obl	_	_
 9	Koboarewuge	_	PROPN	n	_	10	nmod	_	_
-10	eiari	_	NOUN	n	_	8	nmod	[];;gruta	_
+10	eiari	_	NOUN	n	_	8	nmod	_	[];;gruta
 11	kae	_	ADP	posp	_	10	case	_	_
 12	.	.	PUNCT	punct	_	1	punct	_	_
 
