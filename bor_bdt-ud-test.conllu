@@ -4989,7 +4989,7 @@
 1	Boe	boe	NOUN	n	_	6	nsubj	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	dep	_	_
 3	ipare	iparedu	NOUN	n	Number=Plur	4	nmod	_	_
-4	eno	o	NOUN	n	_	5	clf	_	_
+4	eno	o	NOUN	n	_	5	dep	_	_
 5	o	o	NOUN	n	Poss=Yes	6	obj	_	_
 6	bado	_	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 7	marigudu	marigudu	ADV	adv	_	6	advmod	_	_
@@ -5021,7 +5021,7 @@
 # text = Boecomode ai pobe .
 # text_eng = 
 # text_por = Estarás ausente duas noites.
-1	Boecomode	boeco	ADV	adv	Irr=Yes|Mood=Ind	0	root	_	_
+1	Boecomode	boeco	NOUN	n	Irr=Yes|Mood=Ind	0	root	_	_
 2	ai	i	ADP	posp	Number=Sing|Person=2	1	obl	_	_
 3	pobe	pobe	NUM	num	_	1	nummod	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
@@ -6269,9 +6269,8 @@
 6	pagi	pagi	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 7	,	,	PUNCT	punct	_	8	punct	_	_
 8	paeku	joko	NOUN	noun	Clusivity=In|Number[psor]=Plur|Person=1	1	parataxis	_	_
-9	iro	_	NOUN	n	_	8	nmod	_	_
-10	modukare	_	X	x	Irr=Yes|Mood=Ind|Polarity=Neg	8	dep	_	_
-11	.	.	PUNCT	punct	_	8	punct	_	_
+9	iromodukare	ro	VERB	Irr=Yes|Mood=Ind|Number=Sing|Person=1|Polarity=Neg	8	nmod	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
 
 # sent_id = FWFFG-006
 # text = Ure boe etore eruduwado boe ewadaru ji .
@@ -8108,7 +8107,7 @@
 # text_por = O dia avançou até a tarde... Elas regressaram novamente.
 1	Meri	meri	NOUN	n	_	2	nsubj	_	_
 2	kodure	kodu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-3	ji	ji	INTJ	posp	Number=Sing|Person=3	2	obl	_	_
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 4	...	...	PUNCT	punct	_	2	punct	_	_
 5	Meri	meri	NOUN	n	_	6	nmod	_	_
 6	rekodu	rekodu	NOUN	n	_	2	parataxis	_	_
@@ -9789,7 +9788,6 @@
 7	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	discourse	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	_
 
-# newdoc id = NT.GO.Jo.8
 # sent_id = NT.GO.Jo.8-23_1
 # text = Icare akore ei : woje comoroiwuge tagireo ; cebojewu imireo .
 # text_eng = But he continued: You are from below; I am from above.
@@ -9806,7 +9804,7 @@
 10	imireo	_	PRON	_	Number=Plur|Person=2	9	nsubj	_	_
 11	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = NT.GO.Jo.8-23_1
+# sent_id = NT.GO.Jo.8-23_1.1
 # text = Awu moto kejewugenure tagi , mare imi karega .
 # text_eng = You are of this world, I am not of this world.
 # text_por = Vocês são deste mundo, eu não sou deste mundo.
@@ -10910,7 +10908,7 @@
 1	Akaregodumodedu	aregodu	VERB	v	Irr=Yes|Nomzr=Rel|Number=Sing|Person=2	5	advcl	_	_
 2	kejere	kejere	ADV	adv	_	1	mark	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
-4	amode	a	X	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=2	5	obj	_	_
+4	amode	a	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=2	5	obj	_	_
 5	iwie	bie	VERB	v	Number=Sing|Person=1	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
