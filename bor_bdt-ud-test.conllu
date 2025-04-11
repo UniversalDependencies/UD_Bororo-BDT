@@ -12492,7 +12492,7 @@
 # text_eng =
 # text_por = Estes nosso filhos pequenos, estes nosso irmão mais novos, nossos irmão mais velhos, as pessoas que são mais novas eles (já) não falam a língua.
 1	Awu	awu	DET	dem	Deixis=Prox	2	det	_	_
-2	pagore	ore	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	13	nsubj	_	_
+2	pagore	ore	NOUN	n	Clusivity=In|Number=Plur|Number[psor]=Plur|Person=1	13	dep	_	_
 3	kugure	kugu	NOUN	n	Mood=Ind	2	nmod	_	_
 4	,	,	PUNCT	punct	_	6	punct	_	_
 5	awu	awu	DET	dem	Deixis=Prox	6	det	_	_
@@ -12502,7 +12502,7 @@
 9	,	,	PUNCT	punct	_	13	punct	_	_
 10	kodo	_	ADV	adv	_	13	advcl	_	_
 11	maiwuge	maiwu	NOUN	n	Number=Plur	12	nmod	_	_
-12	boe	boe	NOUN	n	_	13	conj	_	_
+12	boe	boe	NOUN	n	_	13	nsubj	_	_
 13	emagokare	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 14	pawadaru	bataru	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	13	obl	_	_
 15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	case	_	_
@@ -13028,7 +13028,7 @@
 2	uw	uw	INTJ	intj	_	4	discourse	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	ema	ema	ADV	adv	_	1	ccomp	_	_
-5	rugadu	rugadu	VERB	v	_	4	advmod	_	_
+5	rugadu	rugadu	ADV	adv	_	4	advmod	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = coqueiro-XVIII-31_1
@@ -13149,14 +13149,15 @@
 8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	;	;	PUNCT	punct	_	5	punct	_	_
 10	cemode	ce	PRON	bi	Clusivity=Ex|Irr=Yes|Mood=Ind|Number=Plur|Person=1	12	nsubj	_	_
-11	kodiba	kodiba	ADV	_	_	12	advmod	_	_
-12	cenago	ako	VERB	v	Clusivity=Ex|Number=Plur|Person=1	5	parataxis	_	_
-13	oino	oino	ADV	adv	_	12	advmod	_	_
-14	ai	ji	ADP	posp	Number=Sing|Person=2	12	obl	_	_
-15	dukodi	dukodi	ADV	_	_	12	advmod	_	_
-16	boe	boe	NOUN	n	Number=Sing|Person=3	15	flat	_	_
-17	ji	ji	ADP	posp	Number=Sing|Person=3	15	dep	_	_
-18	.	.	PUNCT	punct	_	12	punct	_	_
+11	awiie	biie	VERB	v	Number=Plur|Person=2	2	ccomp	_	_
+12	kodiba	kodiba	ADV	_	_	12	advmod	_	_
+13	cenago	ako	VERB	v	Clusivity=Ex|Number=Plur|Person=1	5	parataxis	_	_
+14	oino	oino	ADV	adv	_	12	advmod	_	_
+15	ai	ji	ADP	posp	Number=Sing|Person=2	12	obl	_	_
+16	dukodi	dukodi	ADV	_	_	12	advmod	_	_
+17	boe	boe	NOUN	n	Number=Sing|Person=3	15	flat	_	_
+18	ji	ji	ADP	posp	Number=Sing|Person=3	15	dep	_	_
+19	.	.	PUNCT	punct	_	12	punct	_	_
 
 # sent_id = coqueiro-XVIII-36_1
 # text = Cemearudure jiboe reo : Baraedu jire ro oino .
