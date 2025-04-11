@@ -6258,7 +6258,7 @@
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = FWFFG-005_2
-# text = Pegakare pamode kowuje , boenure pagi , paeku iro modukare .
+# text = Pegakare pamode kowuje , boenure pagi , paeku iromodukare .
 # text_eng = Our food is not bad, we are humans, let's not deviate our eyes (be proud)!
 # text_por = Não é mal nossa comida, nós somos gente, não desviemos os olhos (luxo, asco, orgulho)!
 1	Pegakare	pega	VERB	v	Mood=Ind|Polarity=Neg	0	root	_	_
@@ -12645,7 +12645,7 @@
 2	uw	uw	INTJ	intj	_	6	discourse	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	_
 4	Kodi	_	ADV	_	_	6	advmod	_	_
-5	icare	icare	ADV	ADV	adv	6	advmod	_	_
+5	icare	icare	ADV	adv	_	6	advmod	_	_
 6	itaregodure	_	VERB	v	_	1	ccomp	_	_
 7	ia	_	DET	_	_	8	det	_	_
 8	moturewu	_	NOUN	n	_	6	obl	_	_
@@ -12684,10 +12684,10 @@
 8	.	.	PUNCT	punct	_	4	punct	_	_
 
 # sent_id = coqueiro-XVIII-14
-# text = Icare egore aroe kuru towuje ! Amirewu towuje ! Pagogwa kuguwo tabo kare ekaguruto .
+# text = Icare egore aroe kuru towuje ! Amirewu towuje ! Pagogwa kuguwo tabo kare ekaguru to .
 # text_port = Aí disseram: Cozinhem arroz! Façam bolo! Vamos comer ensopados na gordura deles.
 # text_eng =
-1	Icare	icare	ADV	ADV	adv	2	advmod	_	_
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	aroe	aroe	NOUN	n	Number=Sing	4	nmod	_	_
 4	kuru	kuru	NOUN	n	_	5	obj	_	_
@@ -12718,7 +12718,7 @@
 # text = Icare nowu iedaga akore enokuri boire ii !
 # text_port = Depois o meu sogro disse: Tenho vontade de tatu-bola.
 # text_eng =
-1	Icare	icare	ADV	ADV	adv	4	advmod	_	_
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
 2	nowu	nowu	DET	dem	Deixis=Med	3	det	_	_
 3	iedaga	iedaga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	nsubj	_	_
 4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
