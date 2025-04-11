@@ -12775,7 +12775,7 @@
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 # sent_id = coqueiro-XVIII-18_3
-# text = Ekawadunure .
+# text = Eka wadunure .
 # text_port = Estavam bem gordos.
 # text_eng =
 1	Eka	_	NOUN	n	_	2	nsubj	_	_
@@ -12807,7 +12807,7 @@
 # text = Icare nowu areme kugure eregodure mato ... egore e ! Ia boe moturewu pugeje , ia boe moturewu pugeje !
 # text_port = Aí as meninas correram para cá, dizendo: E! Uma coisa bonita de novo, uma coisa bonita de novo!
 # text_eng =
-1	Icare	icare	ADV	ADV	adv	5	advmod	_	_
+1	Icare	icare	ADV	adv	_	5	advmod	_	_
 2	nowu	nowu	DET	dem	Deixis=Med	3	det	_	_
 3	areme	are	NOUN	n	Number=Plur	5	nsubj	_	_
 4	kugure	kugure	NOUN	n	_	3	nmod	_	_
@@ -12862,9 +12862,9 @@
 # text = Icare ere torudo .
 # text_port = Então eles assaram.
 # text_eng =
-1	Icare	icare	ADV	ADV	adv	3	advmod	_	_
+1	Icare	icare	ADV	adv	_	3	advmod	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	nsubj	_	_
-3	torudo	toru	VERB	v	Numer=Sing|Person=3|Voice=Cau	0	root	_	_
+3	torudo	toru	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = coqueiro-XVIII-22_2
