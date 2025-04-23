@@ -6675,8 +6675,8 @@
 
 # sent_id = 619
 # text = Ema reo !
-1	Ema	ema	ADV	cop	_	0	root	_	_
-2	reo	Emareo	AUX	aux	_	1	aux	_	_
+1	Ema	ema	ADV	adv	_	0	root	_	_
+2	reo	reo	AUX	aux	_	1	aux	_	_
 3	!	_	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = 620
