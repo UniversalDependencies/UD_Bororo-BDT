@@ -6703,11 +6703,6 @@
 8	reo	reo	AUX	cop	_	5	parataxis	_	_
 9	!	_	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 623
-# text = Emareo !
-1	Emareo	Emareo	AUX	cop	_	0	root	_	_
-2	!	_	PUNCT	punct	_	1	punct	_	_
-
 # sent_id = 624
 # text = Tugu tu akaoto , tugu tu akaoto !
 1	Tugu	tudugu	VERB	v	Reflex=Yes	0	root	_	_
