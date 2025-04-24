@@ -1,6 +1,6 @@
 # newdoc id = all_batches-udpipe/adugo_biri-udpipe.txt
 # newpar
-# sent_id = 1
+# sent_id = adugo_biri-0001
 # text = Boe mori barogo .
 1	Boe	boe	NOUN	v	_	2	nmod	_	SpacesBefore=\r\n
 2	mori	mori	NOUN	n	_	3	nsubj	_	_
@@ -8,7 +8,7 @@
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 2
+# sent_id = adugo_biri-0002
 # text = Imode awie pagado tuje boe ji .
 1	Imode	i	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=1	3	nsubj	_	_
 2	awie	_	ADP	_	_	3	obj	_	_
@@ -19,7 +19,7 @@
 7	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 3
+# sent_id = adugo_biri-0003
 # text = Ukare turugadu boe imode awie tu ji , paga tuje .
 1	Ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	turugadu	turugadu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
@@ -34,7 +34,7 @@
 11	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 4
+# sent_id = adugo_biri-0004
 # text = Ema remawu karega , ema remawu akedu , okware toro mototo , poboto , baruto , ia toro .
 1	Ema	ema	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	remawu	_	X	x	Polarity=Neg	0	root	_	_
@@ -57,7 +57,7 @@
 19	.	.	PUNCT	punct	_	18	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 5
+# sent_id = adugo_biri-0005
 # text = Kocare , boe etagedure , bakaru akedure , bakaru , roia akedure , boe eimejerage etagedure .
 1	Kocare	kocare	INTJ	intj	_	4	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -78,7 +78,7 @@
 17	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 6
+# sent_id = adugo_biri-0006
 # text = Kocare awu boe etore kugure , ce rumode boedo paga paga paga toro boe egomodedu boe bogai .
 1	Kocare	kocare	ADV	adv	_	5	advmod	_	_
 2	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
@@ -100,7 +100,7 @@
 18	.	.	PUNCT	punct	_	15	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 7
+# sent_id = adugo_biri-0007
 # text = Imerudae awu akoinowuge kugure ere mito tu tu to aIdeia adu rodu , baa mugu rodu tu tu je .
 1	Imerudae	merudy	NOUN	n	Number=Sing|Person=1	6	nsubj	_	_
 2	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
@@ -123,7 +123,7 @@
 19	je	ty	ADV	adv	_	18	advmod	_	_
 20	.	.	PUNCT	punct	_	18	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 8
+# sent_id = adugo_biri-0008
 # text = Umodukare pobe , ure mito tu je , ia rugadu ia baa kedore tu rugadu .
 1	Umodukare	Umodu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 2	pobe	pobe	NUM	n	_	1	punct	_	_
@@ -142,7 +142,7 @@
 15	rugadu	rugadu	ADV	adv	_	13	advmod	_	_
 16	.	.	PUNCT	punct	_	13	punct	_	_
 
-# sent_id = 9
+# sent_id = adugo_biri-0009
 # text = Ia baa kedore rugadu .
 1	Ia	ia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	baa	baa	NOUN	n	_	3	nsubj	_	_
@@ -150,7 +150,7 @@
 4	rugadu	rugadu	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 10
+# sent_id = adugo_biri-0010
 # text = Boe eimejerage bokware ia baa keje rugadu , ia boe eeda keje rugadu .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	eimejerage	eimejerage	PRON	pron	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
@@ -167,13 +167,13 @@
 13	rugadu	rugadu	ADV	adv	_	11	advmod	_	_
 14	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 11
+# sent_id = adugo_biri-0011
 # text = Awu meriji .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	0	root	_	_
 2	meriji	_	ADP	posp	Number=Sing|Person=3	1	case	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 12
+# sent_id = adugo_biri-0012
 # text = Du imode , ireadodumode bakaru ji .
 1	Du	Du	NOUN	n	Number=Sing	2	nsubj	_	_
 2	imode	i	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=1	4	nsubj	_	_
@@ -184,7 +184,7 @@
 7	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 13
+# sent_id = adugo_biri-0013
 # text = Bakarure , boe eiamedu boe egore bakaruie ema .
 1	Bakarure	Bakaru	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -196,7 +196,7 @@
 8	ema	ema	PRON	pron	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 14
+# sent_id = adugo_biri-0014
 # text = Bakarure boe egore bakaru aregodu , oino .
 1	Bakarure	bakarure	NOUN	n	_	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -207,7 +207,7 @@
 7	oino	oino	ADV	adv	_	3	advmod	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 15
+# sent_id = adugo_biri-0015
 # text = Inoba boe egore u !
 1	Inoba	inoba	PRON	whp	PronType=Int	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -215,7 +215,7 @@
 4	u	u	ADV	adv	_	3	advmod	_	_
 5	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 16
+# sent_id = adugo_biri-0016
 # text = Mano jire boe erere .
 1	Mano	~_~mano	NOUN	n	Number=Plur|Person=1	4	obl	_	_
 2	jire	ji	ADP	posp	Mood=Ind|Number=Sing|Person=3	1	case	_	_
@@ -223,25 +223,25 @@
 4	erere	re	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 17
+# sent_id = adugo_biri-0017
 # text = Bakaru pemegarewu aregodu .
 1	Bakaru	Bakaru	NOUN	n	_	2	nmod	_	_
 2	pemegarewu	pemegare	ADJ	_	Nomzr=Rel	3	nmod	_	_
 3	aregodu	aregodu	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 18
+# sent_id = adugo_biri-0018
 # text = Inoba ure ?
 1	Inoba	inoba	ADV	adv	PronType=Int	0	root	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 3	?	_	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 19
+# sent_id = adugo_biri-0019
 # text = U !
 1	U	u	INTJ	intj	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 20
+# sent_id = adugo_biri-0020
 # text = Reruia jire pamedage ero oino .
 1	Reruia	Reruia	PROPN	propn	_	2	nmod	_	_
 2	jire	ji	NOUN	n	Mood=Ind	3	nmod	_	_
@@ -251,7 +251,7 @@
 6	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 21
+# sent_id = adugo_biri-0021
 # text = Kode , bakaru karega , bakaru rugadu .
 1	Kode	_	ADV	adv	_	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -262,7 +262,7 @@
 7	rugadu	rugadu	ADV	adv	_	6	advmod	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 22
+# sent_id = adugo_biri-0022
 # text = Mare awu boe emoreae remawu , boe emoreare barogo rema , dure ireadodumode oino ji pagatu awu boe etore tawiagai , tamearuduwo paga tu boe ji , toro boe ji .
 1	Mare	mare	CCONJ	cconj	_	4	cc	_	_
 2	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
@@ -297,7 +297,7 @@
 31	.	.	PUNCT	punct	_	29	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 23
+# sent_id = adugo_biri-0023
 # text = Taro modukare ino , tagago modukare ino .
 1	Taro	ro	PRON	bi	Number=Plur|Person=2	2	nsubj	_	_
 2	modukare	modu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
@@ -308,7 +308,7 @@
 7	ino	ino	ADV	adv	_	6	advmod	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 24
+# sent_id = adugo_biri-0024
 # text = Tamodukare tageragu tugo ji , baiga ji , buke ji , nowuge eroreore .
 1	Tamodukare	tamoduka	PRON	bi	Mood=Ind|Number[subj]=Plur|Person[subj]=2|	3	nsubj	_	_
 2	tageragu	_	NOUN	n	Reflex=Yes|Speech=IndTrans	3	obj	_	_
@@ -326,7 +326,7 @@
 14	.	.	PUNCT	punct	_	13	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 25
+# sent_id = adugo_biri-0025
 # text = Mare metu pagawu tagabo tu je .
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	metu	metu	ADV	adv	_	1	advmod	_	_
@@ -337,7 +337,7 @@
 7	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 26
+# sent_id = adugo_biri-0026
 # text = Boe emerure , boe egore pameruwo .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	emerure	meru	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -347,7 +347,7 @@
 6	pameruwo	pameru	VERB	v	Mood=Sub|Number=Sing|Person=3	5	ccomp	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 27
+# sent_id = adugo_biri-0027
 # text = Boere toro marigudu , boe emeardaere tuia adugo bito , tuia aigo bito , tuia aipoburewu bito , tuia aroeceba , kuruguga , tuia bito , mare boe eiwo aidugirikare ji , boe eerudukare ji .
 1	Boere	boe	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	toro	toro	ADV	adv	Deixis=Remt	1	advmod	_	_
@@ -387,7 +387,7 @@
 36	.	.	PUNCT	punct	_	34	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 28
+# sent_id = adugo_biri-0028
 # text = Rakare , durure boe eeruduwo pa pudui .
 1	Rakare	Ra	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -398,7 +398,7 @@
 7	pudui	pudui	PRON	_	Reflex=Yes	8	nsubj	_	_
 8	.	_	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 29
+# sent_id = adugo_biri-0029
 # text = Apure , kuore makare , mare boe ekare tuwu tai kajeje .
 1	Apure	pu	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
@@ -413,7 +413,7 @@
 11	kajeje	kajeje	ADP	posp	_	10	case	_	_
 12	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 30
+# sent_id = adugo_biri-0030
 # text = Dukarega adugo , aigo , aipoburewu rema .
 1	Dukarega	dukarega	NOUN	n	_	2	nsubj	_	_
 2	adugo	adugo	VERB	v	_	0	root	_	_
@@ -425,7 +425,7 @@
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 31
+# sent_id = adugo_biri-0031
 # text = U ! Du , boe emerure .
 1	U	u	INTJ	intj	_	6	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -435,12 +435,12 @@
 6	emerure	meru	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 32
+# sent_id = adugo_biri-0032
 # text = A !
 1	A	a	INTJ	_	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 33
+# sent_id = adugo_biri-0033
 # text = Boe eerudure adugoji , boe erugodure ji , kaciworodoge erugodure ji boebo .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	eerudure	erudu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -457,14 +457,14 @@
 13	.	_	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 34
+# sent_id = adugo_biri-0034
 # text = Boe ekodure toro .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	toro	toro	ADV	adv	Deixis=Remt	2	advmod	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 35
+# sent_id = adugo_biri-0035
 # text = Ure rutudo , kaciworodogere rutudo .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	rutudo	jerutu	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
@@ -474,7 +474,7 @@
 6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 36
+# sent_id = adugo_biri-0036
 # text = Aregodure paru kae ca jewu , ia tugaregedu rabodu , ia ceraedu rabodu ; ia dukeje tugaregedu , tugaregedu aregodu ca awu paru kae .
 1	Aregodure	regodu	VERB	v	Mood=Ind|Number=Sing|Person=2	5	nmod	_	_
 2	paru	_	NOUN	n	_	1	obl	_	_
@@ -502,20 +502,14 @@
 24	kae	kae	ADP	posp	Number=Sing|Person=3	23	case	_	_
 25	.	.	PUNCT	punct	_	17	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 37
-# text = U !
-1	U	u	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 38
+# sent_id = adugo_biri-0038
 # text = Ioguduba aregodure ae ?
 1	Ioguduba	_	PRON	_	PronType=Int	2	nsubj	_	_
 2	aregodure	aregodu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	ae	ae	ADP	posp	_	2	obl	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 39
+# sent_id = adugo_biri-0039
 # text = U ! Awu re aregodure paru kae .
 1	U	u	INTJ	intj	_	5	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -526,29 +520,24 @@
 7	kae	kae	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 40
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 41
+# sent_id = adugo_biri-0041
 # text = Emaraduomode ema !
 1	Emaraduomode	maraduo	VERB	v	Irr=Yes|Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	ema	ema	PRON	pron	Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 42
+# sent_id = adugo_biri-0042
 # text = Akidogo ji !
 1	Akidogo	Akidogo	PROPN	propn	_	0	root	_	_
 2	ji	ji	ADP	posp	Number=Sing|Person=3	1	case	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 43
+# sent_id = adugo_biri-0043
 # text = O !
 1	O	o	VERB	v	_	0	root	_	_
 2	!	_	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 44
+# sent_id = adugo_biri-0044
 # text = Itogodure ji rugadu .
 1	Itogodure	ogodu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	_
@@ -556,7 +545,7 @@
 4	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 45
+# sent_id = adugo_biri-0045
 # text = Awu boe ekera kaire , boe eidogodure ji tuiamedu tabo , tugo tabo ; baigaakorewu tabo karega , boere barigu mato tuwi tabo po tu , butu , padu nono .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	boe	boe	NOUN	n	_	3	nmod	_	_
@@ -590,13 +579,7 @@
 30	nono	nono	ADV	adv	Deixis=Med	29	advmod	_	_
 31	.	.	PUNCT	punct	_	29	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 46
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 47
+# sent_id = adugo_biri-0047
 # text = Boe egore Akeragu oji .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -604,7 +587,7 @@
 4	oji	_	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 48
+# sent_id = adugo_biri-0048
 # text = Nowu itogodo ji jaowuji .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	itogodo	togodo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
@@ -612,20 +595,20 @@
 4	jaowuji	jaowuji	X	_	_	2	dep	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 49
+# sent_id = adugo_biri-0049
 # text = Akore O !
 1	Akore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	O	o	ADV	adv	_	1	advmod	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 50
+# sent_id = adugo_biri-0050
 # text = Rore gara je .
 1	Rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	gara	gara	NOUN	n	_	1	obl	_	_
 3	je	je	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 51
+# sent_id = adugo_biri-0051
 # text = Unure tuioku tugu kaiba umode nowu tumode to barogo okwacedo , barigu .
 1	Unure	u	PRON	bi	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	tuioku	joku	NOUN	n	Reflex=Yes	3	obj	_	_
@@ -642,14 +625,14 @@
 13	.	.	PUNCT	punct	_	12	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 52
+# sent_id = adugo_biri-0052
 # text = Boe egore o !
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	o	o	ADV	adv	_	2	advmod	_	_
 4	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 53
+# sent_id = adugo_biri-0053
 # text = Amara tabo nowu meri rekodu , akeragu adugo oji guru guru je .
 1	Amara	amara	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	5	obl	_	_
 2	tabo	tabo	ADP	posp	Number=Sing|Person=3	1	case	_	_
@@ -665,12 +648,7 @@
 12	je	je	ADP	posp	Number=Sing|Person=3	11	case	_	_
 13	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 54
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 55
+# sent_id = adugo_biri-0055
 # text = Care biabuture ia pemegarewu keje .
 1	Care	care	CCONJ	cconj	_	2	advmod	_	_
 2	biabuture	biabuture	NOUN	n	_	0	root	_	_
@@ -679,7 +657,7 @@
 5	keje	keje	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 56
+# sent_id = adugo_biri-0056
 # text = Ure tugeragu oji ta .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 2	tugeragu	geragu	PRON	pron	Number=Sing|Person=3|Reflex=Yes|Speech=IndTrans	4	nsubj	_	_
@@ -688,7 +666,7 @@
 5	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 57
+# sent_id = adugo_biri-0057
 # text = Nowu umode bureagun~do jiwu rakoreje woe , kodure woe .
 1	Nowu	nowu	NOUN	n	_	3	nsubj	_	_
 2	umode	u	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
@@ -701,7 +679,7 @@
 9	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	8	advmod	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 58
+# sent_id = adugo_biri-0058
 # text = Du eceraedu rabodu , tugaregedu rabodu .
 1	Du	_	NOUN	n	_	2	nsubj	_	_
 2	eceraedu	ceraedu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -711,13 +689,13 @@
 6	rabodu	rabodu	ADV	adv	_	2	advmod	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 59
+# sent_id = adugo_biri-0059
 # text = Ceraedure .
 1	Ceraedure	ceraedu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 60
+# sent_id = adugo_biri-0060
 # text = Oinore boe enoiqgwarire , boe egore wo !
 1	Oinore	_	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -728,7 +706,7 @@
 7	wo	wo	INTJ	_	_	6	obl	_	_
 8	!	!	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 61
+# sent_id = adugo_biri-0061
 # text = Ae tawu je mato !
 1	Ae	ae	NOUN	n	Number=Sing	2	nsubj	_	_
 2	tawu	tawu	VERB	v	Number=Sing|Person=3	0	root	_	_
@@ -737,7 +715,7 @@
 5	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 62
+# sent_id = adugo_biri-0062
 # text = Tugeragu taci tugaregedu ji .
 1	Tugeragu	geragu	PRON	pron	Number=Sing|Person=3|Reflex=Yes|Speech=IndTrans	3	nsubj	_	_
 2	taci	taci	NOUN	n	_	3	nmod	_	_
@@ -745,7 +723,7 @@
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 63
+# sent_id = adugo_biri-0063
 # text = Ure bure tugu tu .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	bure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
@@ -754,7 +732,7 @@
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 64
+# sent_id = adugo_biri-0064
 # text = Akore kae kae kae !
 1	Akore	ako	VERB	v	Number=Sing|Person=2	0	root	_	_
 2	kae	kae	ADP	posp	Number=Sing|Person=3	1	obl	_	_
@@ -762,7 +740,7 @@
 4	kae	_	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 65
+# sent_id = adugo_biri-0065
 # text = Emareo , mareo mareo mareo !
 1	Emareo	Emareo	AUX	cop	_	5	nsubj	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
@@ -771,7 +749,7 @@
 5	mareo	mareo	AUX	cop	_	0	root	_	_
 6	!	_	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 66
+# sent_id = adugo_biri-0066
 # text = Cewu aedaga , amana Aroia Kurirewu mori akudawu adugo reo .
 1	Cewu	cewu	NOUN	n	_	2	nmod	_	_
 2	aedaga	edaga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	3	nsubj	_	_
@@ -785,29 +763,23 @@
 10	reo	reo	AUX	cop	_	0	root	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 67
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 68
+# sent_id = adugo_biri-0068
 # text = Oragudure keje tu ...
 1	Oragudure	oragudu	VERB	v	Mood=Sub|Number=Sing|Person=3	0	root	_	_
 2	keje	keje	ADP	posp	Number=Sing	1	obl	_	_
 3	tu	tu	ADV	adv	_	1	advmod	_	_
 4	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 69
-# text = Dukeje icare ure batarudo akore
+# sent_id = adugo_biri-0069
+# text = Dukeje icare ure batarudo akore .
 1	Dukeje	keje	ADV	adv	_	5	advmod	_	_
 2	icare	icare	ADV	adv	_	5	advmod	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 4	batarudo	bataru	NOUN	n	Voice=Cau	5	obj	_	_
-5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	SpacesAfter=\s\r\n\r\n
+5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 70
+# sent_id = adugo_biri-0070
 # text = Hui ! Hui ! Ho ho , Ho ho Aroe Bakororo , Aroe Bakororo !
 1	Hui	_	PRON	_	Reflex=Yes	3	nsubj	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -826,7 +798,7 @@
 15	!	!	PUNCT	punct	_	14	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 71
+# sent_id = adugo_biri-0071
 # text = Ho ho Ho ho !
 1	Ho	Ho	PROPN	propn	_	4	nsubj	_	_
 2	ho	ho	PROPN	propn	_	1	flat	_	_
@@ -835,7 +807,7 @@
 5	!	_	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 72
+# sent_id = adugo_biri-0072
 # text = Aroe Areia Bakororo ... Aroe Areia Bakororo !
 1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	Areia	Areia	PROPN	propn	_	5	nsubj	_	_
@@ -846,35 +818,35 @@
 7	Bakororo	Bakororo	PROPN	propn	_	6	flat	_	_
 8	!	!	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 73
-# text = Aroe Buture Bakororo ... Aroe Buture
+# sent_id = adugo_biri-0073
+# text = Aroe Buture Bakororo ... Aroe Buture .
 1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	Buture	Butu	VERB	v	Mood=Ind|Number=Sing|Person=3	6	advcl	_	_
 3	Bakororo	Bakororo	PROPN	propn	_	2	obl	_	_
 4	...	...	PUNCT	punct	_	2	punct	_	_
-5	Aroe	aroe	NOUN	n	_	6	nsubj	_	_
-6	Buture	Butu	VERB	v	Mood=Ind	0	root	_	SpacesAfter=\s\r\n\r\n
+5	Aroe	aroe	NOUN	n	Number=Sing	6	nsubj	_	_
+6	Buture	Butu	VERB	v	Mood=Ind	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 74
+# sent_id = adugo_biri-0074
 # text = Bakororo !
 1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 75
+# sent_id = adugo_biri-0075
 # text = Ho Ho !
 1	Ho	Ho	PROPN	propn	_	2	nsubj	_	_
 2	Ho	Ho	PROPN	propn	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 76
+# sent_id = adugo_biri-0076
 # text = Ho ho !
 1	Ho	Ho	PROPN	propn	_	2	nsubj	_	_
 2	ho	ho	PROPN	propn	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 77
+# sent_id = adugo_biri-0077
 # text = Aroe Jakomea Bakororo !
 1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	Jakomea	Jakomea	PROPN	propn	_	0	root	_	_
@@ -882,15 +854,7 @@
 4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 78
-# text = Aroe Jakomea Bakororo !
-1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Jakomea	Jakomea	PROPN	propn	_	0	root	_	_
-3	Bakororo	Bakororo	PROPN	propn	_	2	flat	_	_
-4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 79
+# sent_id = adugo_biri-0079
 # text = Ho ho , Ho ho !
 1	Ho	Ho	PROPN	propn	_	5	nsubj	_	_
 2	ho	ho	PROPN	propn	_	1	flat	_	_
@@ -900,7 +864,7 @@
 6	!	_	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 80
+# sent_id = adugo_biri-0080
 # text = Aroe Marido Bakororo !
 1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	Marido	mari	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
@@ -908,15 +872,7 @@
 4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 81
-# text = Aroe Marido Bakororo !
-1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Marido	mari	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
-3	Bakororo	Bakororo	PROPN	propn	_	2	obl	_	_
-4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 82
+# sent_id = adugo_biri-0082
 # text = Aroe Kurirewu aetawu je mato !
 1	Aroe	aroe	NOUN	n	Number=Plur	3	nsubj	_	_
 2	Kurirewu	Kurire	ADJ	_	Nomzr=Rel	1	nmod	_	_
@@ -926,27 +882,7 @@
 6	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 83
-# text = Oinore boe enoiqgwarire , boe egore wo !
-1	Oinore	_	ADV	adv	_	3	advmod	_	_
-2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	enoiqgwarire	oiqgwari	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-4	,	;	PUNCT	punct	_	6	punct	_	_
-5	boe	boe	NOUN	n	_	6	nsubj	_	_
-6	egore	_	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
-7	wo	wo	INTJ	_	_	6	obl	_	_
-8	!	!	PUNCT	punct	_	6	punct	_	_
-
-# sent_id = 84
-# text = Ae tawu je mato !
-1	Ae	ae	NOUN	n	Number=Sing	2	nsubj	_	_
-2	tawu	tawu	VERB	v	Number=Sing|Person=3	0	root	_	_
-3	je	ty	ADV	adv	_	2	advmod	_	_
-4	mato	mato	ADV	adv	_	2	advmod	_	_
-5	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 85
+# sent_id = adugo_biri-0085
 # text = Ure batarudo adugo biri tabo : kae , kae , kae !
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	batarudo	bataru	NOUN	n	Voice=Cau	3	obj	_	_
@@ -962,148 +898,16 @@
 12	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 86
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 87
-# text = Oragudure keje tu ...
-1	Oragudure	oragudu	VERB	v	Mood=Sub|Number=Sing|Person=3	0	root	_	_
-2	keje	keje	ADP	posp	Number=Sing	1	obl	_	_
-3	tu	tu	ADV	adv	_	1	advmod	_	_
-4	...	...	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 88
-# text = Dukeje icare ure batarudo akore
-1	Dukeje	keje	ADV	adv	_	5	advmod	_	_
-2	icare	icare	ADV	adv	_	5	advmod	_	_
-3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
-4	batarudo	bataru	NOUN	n	Voice=Cau	5	obj	_	_
-5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 89
-# text = Hui !
-1	Hui	_	PRON	_	Reflex=Yes	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 90
-# text = Hui ! Ho ho , Ho ho Aroe Bakororo , Aroe Bakororo !
-1	Hui	_	PRON	_	Reflex=Yes	3	nsubj	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Ho	Ho	PROPN	propn	_	6	nsubj	_	_
-4	ho	ho	PROPN	propn	_	3	flat	_	_
-5	,	,	PUNCT	punct	_	3	punct	_	_
-6	Ho	Ho	PROPN	propn	_	7	nsubj	_	_
-7	ho	ho	PROPN	propn	_	0	root	_	_
-8	Aroe	aroe	NOUN	n	Number=Plur	9	nsubj	_	_
-9	Bakororo	Bakororo	PROPN	propn	_	7	flat	_	_
-10	,	,	PUNCT	punct	_	12	punct	_	_
-11	Aroe	aroe	NOUN	n	Number=Plur	12	nsubj	_	_
-12	Bakororo	Bakororo	PROPN	propn	_	7	conj	_	_
-13	!	!	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 91
-# text = Ho ho Ho ho !
-1	Ho	Ho	PROPN	propn	_	4	nsubj	_	_
-2	ho	ho	PROPN	propn	_	1	flat	_	_
-3	Ho	Ho	NOUN	n	_	4	nsubj	_	_
-4	ho	ho	VERB	v	_	0	root	_	_
-5	!	_	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 92
-# text = Aroe Areia Bakororo ... Aroe Areia Bakororo !
-1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Areia	Areia	PROPN	propn	_	5	nsubj	_	_
-3	Bakororo	Bakororo	PROPN	propn	_	2	flat	_	_
-4	...	...	PUNCT	punct	_	2	punct	_	_
-5	Aroe	aroe	NOUN	n	Number=Plur	6	nsubj	_	_
-6	Areia	Areia	PROPN	propn	_	0	root	_	_
-7	Bakororo	Bakororo	PROPN	propn	_	6	flat	_	_
-8	!	!	PUNCT	punct	_	6	punct	_	_
-
-# sent_id = 93
-# text = Aroe Buture Bakororo ... Aroe Buture
-1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Buture	Butu	VERB	v	Mood=Ind|Number=Sing|Person=3	6	advcl	_	_
-3	Bakororo	Bakororo	PROPN	propn	_	2	obl	_	_
-4	...	...	PUNCT	punct	_	2	punct	_	_
-5	Aroe	aroe	NOUN	n	_	6	nsubj	_	_
-6	Buture	Butu	VERB	v	Mood=Ind	0	root	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 94
-# text = Bakororo ! Ho Ho !
-1	Bakororo	Bakororo	PROPN	propn	_	3	nsubj	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Ho	Ho	PROPN	propn	_	0	root	_	_
-4	Ho	Ho	PROPN	propn	_	3	flat	_	_
-5	!	!	PUNCT	punct	_	3	punct	_	_
-
-# sent_id = 95
-# text = Ho ho !
-1	Ho	Ho	PROPN	propn	_	2	nsubj	_	_
-2	ho	ho	PROPN	propn	_	0	root	_	_
-3	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 96
-# text = Aroe Jakomea Bakororo ,
+# sent_id = adugo_biri-0096
+# text = Aroe Jakomea Bakororo .
 1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	Jakomea	Jakomea	PROPN	propn	_	0	root	_	_
 3	Bakororo	Bakororo	PROPN	propn	_	2	flat	_	_
-4	,	,	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
+4	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\r\n
 
 # newpar
-# sent_id = 97
-# text = Aroe Jakomea Bakororo !
-1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Jakomea	Jakomea	PROPN	propn	_	0	root	_	_
-3	Bakororo	Bakororo	PROPN	propn	_	2	flat	_	_
-4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 98
-# text = Ho ho , Ho ho !
-1	Ho	Ho	PROPN	propn	_	5	nsubj	_	_
-2	ho	ho	PROPN	propn	_	1	flat	_	_
-3	,	,	PUNCT	punct	_	5	punct	_	_
-4	Ho	Ho	NOUN	n	_	5	nsubj	_	_
-5	ho	ho	VERB	v	_	0	root	_	_
-6	!	_	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 99
-# text = Aroe Marido Bakororo !
-1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Marido	mari	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
-3	Bakororo	Bakororo	PROPN	propn	_	2	obl	_	_
-4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 100
-# text = Aroe Marido Bakororo !
-1	Aroe	aroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Marido	mari	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
-3	Bakororo	Bakororo	PROPN	propn	_	2	obl	_	_
-4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 101
-# text = Aroe Kurirewu aetawu je mato !
-1	Aroe	aroe	NOUN	n	Number=Plur	3	nsubj	_	_
-2	Kurirewu	Kurire	ADJ	_	Nomzr=Rel	1	nmod	_	_
-3	aetawu	_	VERB	v	Irr=Yes|Mood=Ind|Nomzr=Rel|Number=Sing|Person=2	0	root	_	_
-4	je	ty	ADV	adv	_	3	advmod	_	_
-5	mato	mato	ADV	adv	_	3	advmod	_	_
-6	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 102
-# text = Icare acareie , icare aerubodarege , icare atugarege I~are aewadumagere ake okwa , ere ake rie , ere ake Kurubeguru , ere ake kugu , ere ake tagogo , ere kireru butudo awu geje toro , ere kireru butudo awu geje toro !
+# sent_id = adugo_biri-0102
+# text = Icare acareie , icare aerubodarege , icare atugarege I~are aewadumagere ake okwa , ere .ake rie , ere ake Kurubeguru , ere ake kugu , ere ake tagogo , ere kireru butudo awu geje toro , ere kireru butudo awu geje toro !
 1	Icare	Icare	CCONJ	cconj	_	2	advmod	_	_
 2	acareie	_	VERB	v	Irr=Yes|Mood=Irr|Number=Sing|Person=2|Speech=Ind	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
@@ -1113,21 +917,21 @@
 7	icare	icare	ADV	adv	_	9	advmod	_	_
 8	atugarege	atugarege	NOUN	n	_	9	nsubj	_	_
 9	I~are	~_~i~are	VERB	v	_	2	parataxis	_	_
-10	aewadumagere	aewaduma	PRON	pron	PronType=Dem	9	obl	_	_
-11	ake	ke	NOUN	n	Number=Sing|Person=2	10	nmod	_	_
+10	aewadumagere	aewaduma	PRON	pron	PronType=Dem	16	nsubj	_	_
+11	ake	ke	NOUN	n	Number=Sing|Person=2	16	nsubj	_	_
 12	okwa	okwa	NOUN	n	_	11	nmod	_	_
-13	,	,	PUNCT	punct	_	15	punct	_	_
-14	ere	e	PRON	bi	_	15	nsubj	_	SpacesAfter=\s\r\n
-15	ake	ake	NOUN	n	_	16	conj	_	_
+13	,	,	PUNCT	punct	_	16	punct	_	_
+14	ere	e	PRON	bi	_	16	nsubj	_	_
+15	.ake	.ake	NOUN	n	_	16	obj	_	_
 16	rie	rie	ADV	adv	_	9	advmod	_	_
 17	,	,	PUNCT	punct	_	20	punct	_	_
 18	ere	e	PRON	bi	_	20	nsubj	_	_
 19	ake	ake	NOUN	n	_	20	obj	_	_
-20	Kurubeguru	Kurubeguru	VERB	v	_	9	parataxis	_	_
+20	Kurubeguru	Kurubeguru	VERB	v	_	16	parataxis	_	_
 21	,	,	PUNCT	punct	_	24	punct	_	_
 22	ere	e	PRON	bi	_	24	nsubj	_	_
 23	ake	ake	NOUN	n	_	24	obj	_	_
-24	kugu	_	VERB	v	Number=Sing|Person=3	9	parataxis	_	_
+24	kugu	_	VERB	v	Number=Sing|Person=3	20	parataxis	_	_
 25	,	,	PUNCT	punct	_	28	punct	_	_
 26	ere	e	PRON	bi	_	28	nsubj	_	_
 27	ake	ake	NOUN	n	_	28	obj	_	_
@@ -1149,15 +953,15 @@
 43	!	!	PUNCT	punct	_	39	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 103
-# text = Reodogere are etarego mato
-1	Reodogere	Reodoge	ADV	adv	Mood=Ind	3	advmod	_	_
-2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	3	nsubj	_	_
-3	etarego	tare	NOUN	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
-4	mato	mato	VERB	v	_	3	punct	_	SpacesAfter=\r\n\r\n
+# sent_id = adugo_biri-0103
+# text = Reodogere are etarego mato .
+1	Reodogere	Reodoge	ADV	adv	Mood=Ind	4	advmod	_	_
+2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	4	nsubj	_	_
+3	etarego	tare	NOUN	v	Number=Plur|Person=3|Voice=Cau	4	obj	_	_
+4	mato	mato	VERB	v	_	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 104
+# sent_id = adugo_biri-0104
 # text = Awu iare are maku mato etai mato ...
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	iare	ya	SCONJ	sconj	Mood=Ind	4	advmod	_	_
@@ -1168,14 +972,14 @@
 7	mato	mato	ADV	adv	_	4	advmod	_	_
 8	...	...	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 105
+# sent_id = adugo_biri-0105
 # text = Boe egore .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 106
+# sent_id = adugo_biri-0106
 # text = Ia rugadure ukudawu mede emawu rakoje toro .
 1	Ia	ia	PRON	art	Definite=Ind|PronType=Art	2	nsubj	_	_
 2	rugadure	rugadu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -1186,7 +990,7 @@
 7	toro	toro	ADV	adv	Deixis=Remt	5	advmod	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 107
+# sent_id = adugo_biri-0107
 # text = Nowu ore adugo cewu , ukudawu mode emawu rakojere toro baa tada ; kodukare , mugure woe baa tada , mare nowu kudawu umode emawu adugo bitodure toro itura tada .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	4	det	_	_
 2	ore	ore	NOUN	n	Mood=Ind	3	nmod	_	_
@@ -1221,7 +1025,7 @@
 31	.	.	PUNCT	punct	_	25	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 108
+# sent_id = adugo_biri-0108
 # text = Oino boe egore , boe ekudugodure kudawu mode emawu bagai : kao !
 1	Oino	oino	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -1237,13 +1041,13 @@
 12	kao	_	X	_	_	8	conj	_	_
 13	!	!	PUNCT	punct	_	12	punct	_	_
 
-# sent_id = 109
+# sent_id = adugo_biri-0109
 # text = Jakomea Kurirewu ...
 1	Jakomea	Jakomea	NOUN	n	_	2	nsubj	_	_
 2	Kurirewu	kurire	ADJ	_	Nomzr=Rel	0	root	_	_
 3	...	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 110
+# sent_id = adugo_biri-0110
 # text = Ire adugo bito ... Amana .
 1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1|	3	nsubj	_	_
 2	adugo	_	NOUN	n	Number=Sing	3	obj	_	_
@@ -1253,7 +1057,7 @@
 6	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 111
+# sent_id = adugo_biri-0111
 # text = Aroia Kurirewu marice woe , akudawu ce woe , akaogajejewuce woe , akuiece woe .
 1	Aroia	arioa	PROPN	propn	_	2	nmod	_	_
 2	Kurirewu	lurirewu	NOUN	n	Nomzr=Rel	3	nsubj	_	_
@@ -1272,14 +1076,14 @@
 15	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 112
+# sent_id = adugo_biri-0112
 # text = Boe eegarei Wo !
 1	Boe	boe	NOUN	v	_	3	nsubj	_	_
 2	eegarei	_	NOUN	n	_	3	nsubj	_	_
 3	Wo	Wo	VERB	v	_	0	root	_	_
 4	!	_	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 113
+# sent_id = adugo_biri-0113
 # text = Toro bogaire boe egoino toro baato .
 1	Toro	toro	ADV	adv	Deixis=Remt	4	advmod	_	_
 2	bogaire	bogai	ADV	adv	_	4	advmod	_	_
@@ -1289,13 +1093,13 @@
 6	baato	baato	ADV	adv	_	4	advmod	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 114
+# sent_id = adugo_biri-0114
 # text = Duwure .
 1	Duwure	Duwu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 115
+# sent_id = adugo_biri-0115
 # text = Mare kodure boebo dukejewu jire inagore oino .
 1	Mare	mare	CCONJ	cconj	_	2	dep	_	_
 2	kodure	kodu	VERB	vi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
@@ -1306,7 +1110,7 @@
 7	oino	oino	ADV	adv	_	6	advmod	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 116
+# sent_id = adugo_biri-0116
 # text = Care boe etaregodure baato , boere bureagurudo ji pemega pugeje woe baa tada pugeje .
 1	Care	Care	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -1325,12 +1129,12 @@
 15	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 117
+# sent_id = adugo_biri-0117
 # text = Ca !
 1	Ca	ca	INTJ	intj	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 118
+# sent_id = adugo_biri-0118
 # text = Ure adugo bitowure tugeragu tu ipoji , ure ipo kado , ipo maku tu Baadojeba cebegiwu ai , Akaruio Bokodori ai , Mamuiawu ge eceba ai , uwo ipo to ji , nowu adugo ji .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 2	adugo	adugo	NOUN	n	_	3	nmod	_	_
@@ -1370,7 +1174,7 @@
 36	.	.	PUNCT	punct	_	28	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 119
+# sent_id = adugo_biri-0119
 # text = Boe ero otogodunure boe ero otogodunure .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ero	ro	VERB	v	Number=Plur|Person=3	5	nsubj	_	_
@@ -1380,13 +1184,7 @@
 6	otogodunure	_	ADV	adv	Aspect=Prog|Mood=Ind	5	advmod	_	_
 7	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 120
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 121
+# sent_id = adugo_biri-0121
 # text = Iedure nowu ipoji nowu adugo keje woe .
 1	Iedure	edu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	nowu	nowu	NOUN	_	_	1	obl	_	_
@@ -1398,14 +1196,14 @@
 8	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 122
+# sent_id = adugo_biri-0122
 # text = Bakororo tugomagaia !
 1	Bakororo	Bakororo	PROPN	propn	_	2	nsubj	_	_
 2	tugomagaia	ugomaga	VERB	v	Mood=Opt|Number=Plur|Person=2	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 123
+# sent_id = adugo_biri-0123
 # text = Aia adugodoge etowaio otugodarere , aregodurema meremere etaregodure , etaregodure ...
 1	Aia	ia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	adugodoge	adugodoge	NOUN	n	_	3	nsubj	_	_
@@ -1419,14 +1217,14 @@
 10	etaregodure	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	8	parataxis	_	_
 11	...	...	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 124
+# sent_id = adugo_biri-0124
 # text = Aroweceba , kawoduiega ...
 1	Aroweceba	Arowece	ADV	adv	Int=Yes	3	advmod	_	_
 2	,	;	PUNCT	punct	_	1	punct	_	_
 3	kawoduiega	_	X	x	Polarity=Neg	0	root	_	_
 4	...	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 125
+# sent_id = adugo_biri-0125
 # text = Ai tuwaia kawu duiega okwa bukorire ...
 1	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	2	nsubj	_	_
 2	tuwaia	uwa	VERB	v	Mood=Opt|Number=Plur|Person=2	0	root	_	_
@@ -1436,7 +1234,7 @@
 6	bukorire	bukore	VERB	v	Mood=Ind	2	ccomp	_	_
 7	...	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 126
+# sent_id = adugo_biri-0126
 # text = Cawu duiega okwa bukorire ha bukorire ... !
 1	Cawu	Cawu	ADV	adv	_	4	advmod	_	_
 2	duiega	duiega	ADV	adv	_	4	advmod	_	_
@@ -1447,13 +1245,13 @@
 7	...	.	PUNCT	punct	_	6	punct	_	_
 8	!	!	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 127
+# sent_id = adugo_biri-0127
 # text = Aiewere taio ...
 1	Aiewere	iewe	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	taio	aio	VERB	v	Person=3|Reflex=Yes	1	ccomp	_	_
 3	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 128
+# sent_id = adugo_biri-0128
 # text = Aiewere taio butudo pu puwugeje mato awu bokodoriware joruduwo buregajeje .
 1	Aiewere	iewe	VERB	v	Mood=Ind|Number=Sing|Person=2	8	advcl	_	_
 2	taio	_	NOUN	n	_	3	nsubj	_	_
@@ -1467,7 +1265,7 @@
 10	buregajeje	_	ADV	adv	_	9	advmod	_	_
 11	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 129
+# sent_id = adugo_biri-0129
 # text = Aiewere taio butudo pu ... Wugeje !
 1	Aiewere	iewe	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	taio	_	NOUN	n	_	3	nsubj	_	_
@@ -1478,13 +1276,13 @@
 7	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 130
+# sent_id = adugo_biri-0130
 # text = Kudoro ika ...
 1	Kudoro	Kudoro	PROPN	propn	_	0	root	_	_
 2	ika	_	PROPN	propn	_	1	flat	_	_
 3	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 131
+# sent_id = adugo_biri-0131
 # text = Kudoro ika tugudo ce meriworege ereruia ho !
 1	Kudoro	Kudoro	PROPN	propn	_	3	nsubj	_	_
 2	ika	ika	PROPN	propn	_	3	nsubj	_	_
@@ -1495,7 +1293,7 @@
 7	ho	ho	VERB	v	_	0	root	_	_
 8	!	_	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 132
+# sent_id = adugo_biri-0132
 # text = Tugudo ce meriworege ereruia ho ... !
 1	Tugudo	gudo	VERB	v	Reflex=Yes	0	root	_	_
 2	ce	ce	NOUN	n	_	3	nmod	_	_
@@ -1505,7 +1303,7 @@
 6	...	...	PUNCT	punct	_	5	punct	_	_
 7	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 133
+# sent_id = adugo_biri-0133
 # text = Awu geje ... !
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	geje	geje	ADV	adv	_	0	root	_	_
@@ -1513,7 +1311,7 @@
 4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 134
+# sent_id = adugo_biri-0134
 # text = Ure ipo to ji , ure ipo to nowu adugoji : pó ... Pó ... Pó ... Tu jé .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	ipo	ipo	NOUN	n	_	3	obj	_	_
@@ -1536,13 +1334,7 @@
 19	jé	jé	PROPN	propn	_	18	flat	_	_
 20	.	.	PUNCT	punct	_	18	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 135
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 136
+# sent_id = adugo_biri-0136
 # text = Akedu keje ure tariga to awu eno oiagi pa okura oiagi pa !
 1	Akedu	akedu	NOUN	n	Gender=Fem|Number=Sing	5	obl	_	_
 2	keje	keje	ADP	posp	Number=Sing|Person=1	1	case	_	_
@@ -1558,14 +1350,14 @@
 12	pa	pa	NOUN	n	_	10	parataxis	_	_
 13	!	!	PUNCT	punct	_	12	punct	_	_
 
-# sent_id = 137
+# sent_id = adugo_biri-0137
 # text = Koja okeagi pa !
 1	Koja	koja	NOUN	n	_	2	nmod	_	_
 2	okeagi	okeagi	NOUN	n	_	3	nmod	_	_
 3	pa	pa	NOUN	n	_	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 138
+# sent_id = adugo_biri-0138
 # text = Ure iera ra paru bure ra paru tabo .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	iera	_	NOUN	n	_	3	obj	_	_
@@ -1578,7 +1370,7 @@
 9	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 139
+# sent_id = adugo_biri-0139
 # text = Batarukeadudoge egore , adugo imedu kejeie Bakoro tumoio padure ca je , adugo aredu keje dukeje awu aiewere taio kodure .
 1	Batarukeadudoge	Batarukeadu	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -1603,7 +1395,7 @@
 21	.	.	PUNCT	punct	_	20	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 140
+# sent_id = adugo_biri-0140
 # text = Adugo aredu keje aiewere taio kodure ca je , awu Bakoro tugumagaia akurure kuri okwa kae , dukeje boe ere ipo to adugoji .
 1	Adugo	~_~adugo	NOUN	n	Number=Sing	2	nsubj	_	_
 2	aredu	aredu	NOUN	n	Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -1630,14 +1422,14 @@
 23	adugoji	jdugoji	ADP	posp	Number=Sing|Person=2	22	obl	_	_
 24	.	.	PUNCT	punct	_	22	punct	_	_
 
-# sent_id = 141
+# sent_id = adugo_biri-0141
 # text = Oino boe egore .
 1	Oino	oino	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 142
+# sent_id = adugo_biri-0142
 # text = Batarukeadudoge , nege kugure egore .
 1	Batarukeadudoge	Batarukeadu	PROPN	propn	_	5	nsubj	_	_
 2	,	,	PUNCT	punct	_	5	punct	_	_
@@ -1646,7 +1438,7 @@
 5	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 143
+# sent_id = adugo_biri-0143
 # text = Imeduia boe tore kugure egore .
 1	Imeduia	~_~imeduia	DET	_	_	2	det	_	_
 2	boe	boe	NOUN	n	_	3	nmod	_	_
@@ -1656,7 +1448,7 @@
 6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 144
+# sent_id = adugo_biri-0144
 # text = Imeduia boe etore kugure ewaduru jire ikedure tu tu je .
 1	Imeduia	~_~imeduia	DET	_	_	3	det	_	_
 2	boe	boe	NOUN	n	_	3	nmod	_	_
@@ -1671,7 +1463,7 @@
 11	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 145
+# sent_id = adugo_biri-0145
 # text = Icare boere biri tadu akedudo .
 1	Icare	Icare	CCONJ	cconj	_	5	advmod	_	_
 2	boere	boedy	NOUN	n	_	5	nsubj	_	_
@@ -1680,7 +1472,7 @@
 5	akedudo	aked	VERB	v	_	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 146
+# sent_id = adugo_biri-0146
 # text = Ioguduba umode turagojedo Cibae Tawadu tabo ?
 1	Ioguduba	_	PRON	_	PronType=Int	3	nsubj	_	_
 2	umode	u	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=3	3	dep	_	_
@@ -1690,12 +1482,12 @@
 6	tabo	apo	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	?	?	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 147
+# sent_id = adugo_biri-0147
 # text = Aaa !
 1	Aaa	aa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 148
+# sent_id = adugo_biri-0148
 # text = Jewu ure ipo to jiwu mitodu .
 1	Jewu	jewu	NOUN	n	_	4	nsubj	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	dep	_	_
@@ -1706,7 +1498,7 @@
 7	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 149
+# sent_id = adugo_biri-0149
 # text = Ure adugo bitowu , ure maku tubiji , jice , ukudawu re emawu ai toro tubiji .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
 2	adugo	adugo	NOUN	n	_	3	nmod	_	_
@@ -1727,7 +1519,7 @@
 17	.	.	PUNCT	punct	_	13	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 150
+# sent_id = adugo_biri-0150
 # text = O jore tuwure boe egore uporora , aino .
 1	O	o	PROPN	propn	_	2	nsubj	_	_
 2	jore	jo	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -1739,12 +1531,12 @@
 8	aino	ino	VERB	vt	Number=Sing|Person=2	5	parataxis	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 151
+# sent_id = adugo_biri-0151
 # text = Uuu !
 1	Uuu	Uuu	ADV	adv	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 152
+# sent_id = adugo_biri-0152
 # text = Nowure care ure turagojedo Cibae Tawadu tabo boebo .
 1	Nowure	Nowure	ADV	adv	Mood=Ind	4	advmod	_	_
 2	care	care	ADV	adv	_	4	advmod	_	_
@@ -1756,7 +1548,7 @@
 8	boebo	boebo	PRON	_	_	4	obl	_	_
 9	.	_	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 153
+# sent_id = adugo_biri-0153
 # text = Brae Kukuridoge ebo .
 1	Brae	brae	PROPN	propn	_	2	nsubj	_	_
 2	Kukuridoge	Kukuri	PROPN	propn	_	0	root	_	_
@@ -1764,7 +1556,7 @@
 4	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 154
+# sent_id = adugo_biri-0154
 # text = Boere jaido barogwato , jai rakojere boe awadu keje .
 1	Boere	boere	INTJ	intj	_	3	advmod	_	_
 2	jaido	_	NOUN	n	_	3	nsubj	_	_
@@ -1777,8 +1569,8 @@
 9	keje	keje	ADP	posp	Number=Sing|Person=3	8	case	_	_
 10	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 155
-# text = Du boe egore adugo , aigo akaru kudugodu iure baato ukudawu remawu bogai , dukodi boe egore
+# sent_id = adugo_biri-0155
+# text = Du boe egore adugo , aigo akaru kudugodu iure baato ukudawu remawu bogai , dukodi boe egore .
 1	Du	du	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -1794,11 +1586,11 @@
 13	bogai	bogai	ADP	posp	_	12	case	_	_
 14	,	,	PUNCT	punct	_	17	punct	_	_
 15	dukodi	_	ADV	adv	_	17	advmod	_	_
-16	boe	boe	NOUN	n	_	17	nsubj	_	_
-17	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	SpacesAfter=\s\r\n\r\n
+16	boe	boe	NOUN	n	Number=Plur	17	nsubj	_	_
+17	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+18	.	.	PUNCT	punct	_	17	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 156
+# sent_id = adugo_biri-0156
 # text = Eee cera ai akarudo ...
 1	Eee	~_~eee	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	cera	cera	NOUN	num	_	4	obl	_	_
@@ -1807,7 +1599,7 @@
 5	...	...	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 157
+# sent_id = adugo_biri-0157
 # text = Eee cera awogodori akarudo .
 1	Eee	~_~eee	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	cera	cera	NOUN	num	_	4	obl	_	_
@@ -1816,7 +1608,7 @@
 5	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 158
+# sent_id = adugo_biri-0158
 # text = Eee cera awogodori akarudo ...
 1	Eee	~_~eee	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	cera	cera	NOUN	num	_	4	obl	_	_
@@ -1824,13 +1616,7 @@
 4	akarudo	akarudo	X	_	_	1	ccomp	_	_
 5	...	...	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 159
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 160
+# sent_id = adugo_biri-0160
 # text = Akaru buture keje woe ...
 1	Akaru	aru	VERB	v	Number=Sing|Person=2	0	root	_	_
 2	buture	buture	NOUN	n	_	1	obl	_	_
@@ -1838,12 +1624,12 @@
 4	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	1	advmod	_	_
 5	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 161
+# sent_id = adugo_biri-0161
 # text = Rece ...
 1	Rece	Rece	ADV	adv	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 162
+# sent_id = adugo_biri-0162
 # text = Akaru butuiare Bakororo iaio ieko ...
 1	Akaru	Akaru	NOUN	n	_	2	nmod	_	_
 2	butuiare	butuia	NOUN	n	Mood=Ind	3	nsubj	_	_
@@ -1852,20 +1638,13 @@
 5	ieko	eko	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
 6	...	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 163
+# sent_id = adugo_biri-0163
 # text = Iaio ieko ...
 1	Iaio	aio	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	ieko	eko	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
 3	...	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 164
-# text = Boe egore .
-1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-3	.	.	PUNCT	punct	_	2	punct	_	_
-
-# sent_id = 165
+# sent_id = adugo_biri-0165
 # text = Du raire gu toro .
 1	Du	Du	NOUN	n	Number=Sing	3	nsubj	_	_
 2	raire	rai	NOUN	n	Mood=Ind	1	nmod	_	_
@@ -1874,9 +1653,9 @@
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 166
-# text = du akedu keje ure turagojedo taci : Cibaio Tawadu Ho ho ... Upe ...
-1	du	du	NOUN	n	_	2	nsubj	_	_
+# sent_id = adugo_biri-0166
+# text = Du akedu keje ure turagojedo taci : Cibaio Tawadu Ho ho ... Upe ...
+1	Du	Du	NOUN	n	Number=Sing	2	nsubj	_	_
 2	akedu	akedu	NOUN	n	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	keje	keje	ADP	posp	Number=Sing|Person=1	2	obl	_	_
 4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
@@ -1888,78 +1667,73 @@
 10	Ho	Ho	NOUN	n	_	11	nsubj	_	_
 11	ho	ho	VERB	v	_	5	parataxis	_	_
 12	...	...	PUNCT	punct	_	11	punct	_	_
-13	Upe	Upe	ADV	adv	_	11	advmod	_	_
-14	...	...	PUNCT	punct	_	11	punct	_	_
+13	Upe	Upe	ADV	adv	_	5	advmod	_	_
+14	...	...	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 167
+# sent_id = adugo_biri-0167
 # text = Dore ...
 1	Dore	Do	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 168
+# sent_id = adugo_biri-0168
 # text = Cibaio ... Tawa ...
 1	Cibaio	Cibaio	INTJ	intj	_	3	discourse	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 3	Tawa	Tawa	INTJ	intj	_	0	root	_	_
 4	...	...	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 169
+# sent_id = adugo_biri-0169
 # text = Do ...
 1	Do	Do	ADV	adv	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 170
+# sent_id = adugo_biri-0170
 # text = Upe ...
 1	Upe	Upe	ADV	adv	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 171
-# text = Dore ...
-1	Dore	Do	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 172
+# sent_id = adugo_biri-0172
 # text = Uma ... Na ...
 1	Uma	Uma	AUX	cop	Pred=AtrEq	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 3	Na	na	PROPN	propn	_	1	conj	_	_
 4	...	...	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 173
+# sent_id = adugo_biri-0173
 # text = Iku ...
 1	Iku	~_~iku	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 174
+# sent_id = adugo_biri-0174
 # text = Dawu ... Aie ...
 1	Dawu	Dawu	ADV	adv	_	3	advmod	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 3	Aie	_	PROPN	propn	_	0	root	_	_
 4	...	...	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 175
+# sent_id = adugo_biri-0175
 # text = Were ... Kaia ...
 1	Were	We	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	...	_	PUNCT	punct	_	1	punct	_	_
 3	Kaia	Kaia	PROPN	propn	_	1	ccomp	_	_
 4	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 176
+# sent_id = adugo_biri-0176
 # text = Bubokorire ...
 1	Bubokorire	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 177
+# sent_id = adugo_biri-0177
 # text = Cibaio ...
 1	Cibaio	Cibaio	INTJ	intj	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 178
+# sent_id = adugo_biri-0178
 # text = Tawa ...
 1	Tawa	Tawa	INTJ	intj	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 179
+# sent_id = adugo_biri-0179
 # text = Do ... Awo ... Upe ...
 1	Do	do	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
@@ -1968,23 +1742,13 @@
 5	Upe	Upe	ADV	adv	_	1	advmod	_	_
 6	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 180
-# text = Dore ...
-1	Dore	Do	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 181
+# sent_id = adugo_biri-0181
 # text = Wo ...
 1	Wo	wo	INTJ	intj	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 182
-# text = Wo ...
-1	Wo	wo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 183
+# sent_id = adugo_biri-0183
 # text = Awu baregebo boe egore wo wo ! Ino .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	baregebo	baregebo	NOUN	n	_	4	nsubj	_	_
@@ -1996,7 +1760,7 @@
 8	Ino	_	ADV	adv	_	4	advmod	_	_
 9	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 184
+# sent_id = adugo_biri-0184
 # text = Awu boe pegarewu keje boe egokare woo woo !
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	boe	boe	NOUN	n	_	5	nmod	_	_
@@ -2008,28 +1772,32 @@
 8	woo	woo	INTJ	intj	_	6	obl	_	_
 9	!	!	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 185
+# sent_id = adugo_biri-0185
 # text = Ino .
 1	Ino	o	NOUN	n	Number=Sing|Person=1	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 186
-# text = Boe ere kadodu kadodu taci je Boe egore boe pegarewu keje .
+# sent_id = adugo_biri-0186
+# text = Boe ere kadodu kadodu taci je .
 1	Boe	boe	NOUN	n	Number=Plur	4	nsubj	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
 3	kadodu	_	NOUN	n	_	4	obj	_	_
-4	kadodu	kadodu	VERB	v	_	8	advcl	_	_
+4	kadodu	kadodu	VERB	v	_	0	root	_	_
 5	taci	_	ADV	adv	_	4	advmod	_	_
-6	je	je	ADV	adv	_	8	advmod	_	SpacesAfter=\r\n
-7	Boe	boe	NOUN	n	_	8	nsubj	_	_
-8	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-9	boe	boe	NOUN	n	_	10	nmod	_	_
-10	pegarewu	pega	NOUN	n	Nomzr=Rel	8	obl	_	_
-11	keje	keje	ADP	posp	Number=Sing|Person=3	10	case	_	_
-12	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n\r\n
+6	je	je	ADV	adv	_	4	advmod	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	SpaceAfter=No
+
+# sent_id = adugo_biri-0187
+# text = Boe egore boe pegarewu keje .
+1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4	pegarewu	pega	NOUN	n	Nomzr=Rel	2	obl	_	_
+5	keje	keje	ADP	posp	Number=Sing|Person=3	4	case	_	_
+6	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 187
+# sent_id = adugo_biri-0188
 # text = Barege ebo rugadu boe egore ; Woo ! Woo ! Ino .
 1	Barege	barege	PROPN	propn	_	5	nsubj	_	_
 2	ebo	ebo	PROPN	propn	_	1	flat	_	_
@@ -2045,7 +1813,7 @@
 12	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 188
+# sent_id = adugo_biri-0189
 # text = Boe ere barogo jaido , adugo , aigo jaido .
 1	Boe	boe	NOUN	n	Number=Plur	4	nsubj	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
@@ -2058,7 +1826,7 @@
 9	jaido	jai	NOUN	n	Voice=Cau	8	nmod	_	_
 10	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 189
+# sent_id = adugo_biri-0190
 # text = Boere jai akedudo tu , boere tugeragu cewu ukudawu remawu ji pugeje : emareo , emareo , emareo !
 1	Boere	boe	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	jai	jai	ADP	posp	_	1	obl	_	_
@@ -2080,7 +1848,7 @@
 18	emareo	mareo	VERB	v	Number=Plur|Person=3	16	parataxis	_	_
 19	!	!	PUNCT	punct	_	18	punct	_	_
 
-# sent_id = 190
+# sent_id = adugo_biri-0191
 # text = Akudawu adugo reo , akudawu aigo reo .
 1	Akudawu	akudawy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	adugo	adugo	NOUN	n	_	3	nsubj	_	_
@@ -2092,7 +1860,7 @@
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 191
+# sent_id = adugo_biri-0192
 # text = Akore u ! No no hu ... Hu .
 1	Akore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	u	u	ADV	adv	_	6	advmod	_	_
@@ -2104,7 +1872,7 @@
 8	Hu	Hu	ADV	adv	_	1	advmod	_	_
 9	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 192
+# sent_id = adugo_biri-0193
 # text = Boe akedure dukeje .
 1	Boe	boe	NOUN	n	Number=Sing	2	nsubj	_	_
 2	akedure	akedu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -2112,7 +1880,7 @@
 4	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 193
+# sent_id = adugo_biri-0194
 # text = Ca , maragodure tugoji , baigaji , awu kiegewoji , koeji , akigu , meriri , koe , boe aro pemegado , kiogoaro pemegado , pariko pemegado .
 1	Ca	ca	INTJ	intj	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -2144,7 +1912,7 @@
 28	.	.	PUNCT	punct	_	27	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 194
+# sent_id = adugo_biri-0195
 # text = Ca , akedu keje care uwadodure .
 1	Ca	ca	INTJ	intj	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -2154,7 +1922,7 @@
 6	uwadodure	uwadodure	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 195
+# sent_id = adugo_biri-0196
 # text = Uwadodure boe etae jii je .
 1	Uwadodure	~_~uwadodure	VERB	v	_	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nmod	_	_
@@ -2163,7 +1931,7 @@
 5	je	ty	ADV	adv	_	1	advmod	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 196
+# sent_id = adugo_biri-0197
 # text = Care pamode pagera beri-berido tu ikudawu barogoji .
 1	Care	care	CCONJ	cconj	_	6	advmod	_	_
 2	pamode	pa	PRON	bi	Clusivity=In|Irr=Yes|Mood=Ind|Number=Plur|Person=1	6	nsubj	_	_
@@ -2176,7 +1944,7 @@
 9	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 197
+# sent_id = adugo_biri-0198
 # text = Care boe eegarere tu ...
 1	Care	Care	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -2184,20 +1952,14 @@
 4	tu	tu	ADV	adv	_	3	advmod	_	_
 5	...	...	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 198
+# sent_id = adugo_biri-0199
 # text = Baa okwa ji .
 1	Baa	~_~baa	PROPN	propn	_	0	root	_	_
 2	okwa	okwa	PROPN	propn	_	1	obl	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 199
-# text = Aaa !
-1	Aaa	aa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 200
+# sent_id = adugo_biri-0201
 # text = Paragoduwo pugeje , paragoduwo pugeje .
 1	Paragoduwo	Paragodu	VERB	v	Mood=Des|Number=Sing|Person=3	4	advmod	_	_
 2	pugeje	pugeje	ADV	adv	_	1	advmod	_	_
@@ -2206,13 +1968,13 @@
 5	pugeje	pugeje	ADV	adv	_	4	advmod	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 201
+# sent_id = adugo_biri-0202
 # text = Tuiegare tabo .
 1	Tuiegare	iega	VERB	v	Mood=Ind|Reflex=Yes	0	root	_	_
 2	tabo	tabo	ADP	posp	Number=Sing|Person=3	1	obl	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 202
+# sent_id = adugo_biri-0203
 # text = Icare boe eragodure pugeje .
 1	Icare	_	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -2220,18 +1982,13 @@
 4	pugeje	_	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 203
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 204
+# sent_id = adugo_biri-0205
 # text = Nowu barogwato .
 1	Nowu	Nowu	ADV	adv	_	0	root	_	_
 2	barogwato	barogwato	ADV	adv	_	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 205
+# sent_id = adugo_biri-0206
 # text = U ! Nowu boecoji boe uwadodure todowuge etae ewo nowu adugo biri atugodu aroia atugo tabo .
 1	U	u	INTJ	intj	_	6	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -2251,18 +2008,18 @@
 16	tabo	apo	ADP	posp	Number=Sing|Person=3	15	case	_	_
 17	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 206
+# sent_id = adugo_biri-0207
 # text = I !
 1	I	i	ADV	adv	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 207
+# sent_id = adugo_biri-0208
 # text = Mature .
 1	Mature	Matu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 208
+# sent_id = adugo_biri-0209
 # text = Togududoge eigoiare icare ere nowu adugo biri atugodo , ere aigo biri atugodo , ere iado tu .
 1	Togududoge	okududoge	VERB	v	Reflex=Yes	8	advmod	_	_
 2	eigoiare	eigoiare	ADV	adv	_	1	advmod	_	_
@@ -2283,13 +2040,7 @@
 17	tu	tu	ADV	adv	_	16	advmod	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 209
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 210
+# sent_id = adugo_biri-0211
 # text = Boere bapo reko badojeba ae , uwo bakororo ika ko , nowu barogo keje , adugo keje , aigo keje .
 1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	_
 2	bapo	bapo	NOUN	n	_	3	nsubj	_	_
@@ -2314,39 +2065,47 @@
 21	.	.	PUNCT	punct	_	19	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 211
-# text = Akore Bako roro ika buto re buto re Bako roro ika buto re buto re , buto re Wo .. , wo !
-1	Akore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-2	Bako	Bako	PROPN	propn	_	4	nmod	_	_
-3	roro	roro	PROPN	propn	_	2	flat	_	_
-4	ika	ika	NOUN	n	Number=Sing	5	nmod	_	_
-5	buto	buto	NOUN	n	_	15	dep	_	_
-6	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	dep	_	_
-7	buto	buto	NOUN	n	_	8	dep	_	_
-8	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	dep	_	SpacesAfter=\r\n
-9	Bako	Bako	PROPN	propn	_	11	nmod	_	_
-10	roro	roro	PROPN	propn	_	9	flat	_	_
-11	ika	ika	NOUN	n	Number=Sing	15	nmod	_	_
-12	buto	buto	NOUN	n	_	15	dep	_	_
-13	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	dep	_	_
-14	buto	buto	NOUN	n	_	15	obj	_	_
-15	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	1	ccomp	_	_
-16	,	,	PUNCT	punct	_	18	punct	_	_
-17	buto	buto	NOUN	n	_	18	dep	_	_
-18	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	parataxis	_	_
-19	Wo	wo	INTJ	intj	_	22	discourse	_	_
-20	..	..	PUNCT	punct	_	19	punct	_	_
-21	,	,	PUNCT	punct	_	19	punct	_	_
-22	wo	wo	INTJ	_	_	18	parataxis	_	_
-23	!	!	PUNCT	punct	_	22	punct	_	SpacesAfter=\s\r\n
+# sent_id = adugo_biri-0212
+# text = Akore .
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	SpaceAfter=No
 
-# sent_id = 212
+# sent_id = adugo_biri-0213
+# text = Bako roro ika buto re buto re .
+1	Bako	Bako	PROPN	propn	_	3	nmod	_	_
+2	roro	roro	PROPN	propn	_	1	flat	_	_
+3	ika	ika	NOUN	n	Number=Sing	7	nsubj	_	_
+4	buto	buto	NOUN	n	_	7	dep	_	_
+5	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	dep	_	_
+6	buto	buto	NOUN	n	_	7	obj	_	_
+7	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	SpaceAfter=No
+
+# sent_id = adugo_biri-0214
+# text = Bako roro ika buto re buto re , buto re Wo .. , wo !
+1	Bako	Bako	PROPN	propn	_	3	nmod	_	_
+2	roro	roro	PROPN	propn	_	1	flat	_	_
+3	ika	ika	NOUN	n	Number=Sing	7	nsubj	_	_
+4	buto	buto	NOUN	n	_	7	dep	_	_
+5	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	dep	_	_
+6	buto	buto	NOUN	n	_	7	obj	_	_
+7	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+8	,	,	PUNCT	punct	_	11	punct	_	_
+9	buto	buto	NOUN	n	_	11	nsubj	_	_
+10	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	11	nsubj	_	_
+11	Wo	Wo	VERB	v	_	7	parataxis	_	_
+12	..	..	PUNCT	punct	_	11	punct	_	_
+13	,	,	PUNCT	punct	_	14	punct	_	_
+14	wo	wo	INTJ	_	_	11	conj	_	_
+15	!	!	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n
+
+# sent_id = adugo_biri-0215
 # text = Jii toro .
 1	Jii	jii	ADV	adv	_	0	root	_	_
 2	toro	toro	ADV	adv	Deixis=Remt	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 213
+# sent_id = adugo_biri-0216
 # text = Raire , egore raie .
 1	Raire	rai	ADV	adv	_	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -2354,13 +2113,7 @@
 4	raie	_	ADV	adv	Speech=Ind	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 214
-# text = Aaa !
-1	Aaa	aa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 215
+# sent_id = adugo_biri-0218
 # text = Nowu Bakororo ika akedu keje boe erore baiado tu ...
 1	Nowu	_	PROPN	propn	_	3	nmod	_	_
 2	Bakororo	Bakororo	PROPN	propn	_	1	flat	_	_
@@ -2373,7 +2126,7 @@
 9	tu	tu	ADV	adv	_	8	advmod	_	_
 10	...	...	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 216
+# sent_id = adugo_biri-0219
 # text = Mato barogo uke tabo , adugo uke tabo mato .
 1	Mato	mato	ADV	adv	_	3	advmod	_	_
 2	barogo	barogo	NOUN	n	_	3	nmod	_	_
@@ -2387,7 +2140,7 @@
 10	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 217
+# sent_id = adugo_biri-0220
 # text = Boere nowu barogo adugo uke , aigo uke birido ta , boe ekera amagadukare ji , jetu nono rugadu .
 1	Boere	boe	ADV	adv	Mood=Ind	5	advmod	_	_
 2	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	5	det	_	_
@@ -2410,9 +2163,9 @@
 19	rugadu	rugadu	ADV	adv	_	14	advmod	_	_
 20	.	.	PUNCT	punct	_	14	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 218
-# text = dukeje icare o remawu aremere tugeragu tore ekera ra parugajeje kae , tugidogurarege ekera ra parugajeje kae .
-1	dukeje	keje	ADV	adv	_	5	advmod	_	_
+# sent_id = adugo_biri-0221
+# text = Dukeje icare o remawu aremere tugeragu tore ekera ra parugajeje kae , tugidogurarege ekera ra parugajeje kae .
+1	Dukeje	keje	ADV	adv	_	5	advmod	_	_
 2	icare	icare	ADV	adv	_	5	advmod	_	_
 3	o	_	PROPN	propn	_	5	nsubj	_	_
 4	remawu	remawu	PROPN	propn	_	3	flat	_	_
@@ -2431,7 +2184,7 @@
 17	kae	_	ADP	posp	Number=Sing|Person=3	15	case	_	_
 18	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 219
+# sent_id = adugo_biri-0222
 # text = Ere ko du biagado tu tu tu tu .
 1	Ere	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	ko	ko	VERB	vt	_	0	root	_	_
@@ -2444,7 +2197,7 @@
 9	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 220
+# sent_id = adugo_biri-0223
 # text = Cá eceraere tugedo mitotu jice , tugaregere tugedo mitotu woe .
 1	Cá	cá	NOUN	n	_	3	nsubj	_	_
 2	eceraere	_	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	nsubj	_	_
@@ -2459,7 +2212,7 @@
 11	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 221
+# sent_id = adugo_biri-0224
 # text = Eceraere nowu barogo uke maku jice tumeduia areme etai jice .
 1	Eceraere	~_~eceraere	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
 2	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	3	det	_	_
@@ -2473,7 +2226,7 @@
 10	jice	jice	ADV	adv	_	7	advmod	_	_
 11	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 222
+# sent_id = adugo_biri-0225
 # text = Tugaregere awu tuiaogwaiwu maku jetu tumeduia tugarere etai jetu .
 1	Tugaregere	_	ADV	adv	_	4	advmod	_	_
 2	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
@@ -2486,7 +2239,7 @@
 9	jetu	jetu	ADV	adv	_	7	advmod	_	_
 10	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 223
+# sent_id = adugo_biri-0226
 # text = Kodire tugarere oino ere tuge keje jice , cerae areme edure tuge keje jice .
 1	Kodire	kodire	ADV	adv	Mood=Ind	2	advmod	_	_
 2	tugarere	gare	VERB	v	Mood=Ind|Reflex=Yes	0	root	_	_
@@ -2504,7 +2257,7 @@
 14	jice	jice	ADV	adv	_	11	advmod	_	_
 15	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 224
+# sent_id = adugo_biri-0227
 # text = Ime eedu tuge pai ia rogu keje jetu .
 1	Ime	imedy	NOUN	n	Number=Plur	2	nsubj	_	_
 2	eedu	edu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -2516,7 +2269,7 @@
 8	jetu	jetu	ADV	adv	_	2	advmod	_	_
 9	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 225
+# sent_id = adugo_biri-0228
 # text = Imere eke rogure mitotu jice , tugarege ekere mito , ceraere ekere mito .
 1	Imere	ime	NOUN	n	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	eke	_	NOUN	n	Number=Plur|Person=3|	3	nsubj	_	_
@@ -2533,7 +2286,7 @@
 13	mito	_	VERB	v	Mood=Ind|Number=Sing|Person=3	9	parataxis	_	_
 14	.	.	PUNCT	punct	_	13	punct	_	_
 
-# sent_id = 226
+# sent_id = adugo_biri-0229
 # text = Mare aremere eke makare .
 1	Mare	mare	CCONJ	cconj	_	2	cc	_	_
 2	aremere	reme	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
@@ -2542,14 +2295,14 @@
 5	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 227
+# sent_id = adugo_biri-0230
 # text = Boe pamodukaregure ji .
 1	Boe	boe	NOUN	n	Number=Sing	2	nsubj	_	_
 2	pamodukaregure	pamodukaregu	VERB	v	Nomzr=Rel	0	root	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 228
+# sent_id = adugo_biri-0231
 # text = Nowu pamodu jire brae egore aIeIuia , ino .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	pamodu	_	NOUN	n	_	5	obl	_	_
@@ -2561,7 +2314,7 @@
 8	ino	_	ADV	adv	_	5	advmod	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 229
+# sent_id = adugo_biri-0232
 # text = Nowu inodu karega , nowu inodu karega .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	inodu	inodu	NOUN	n	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -2573,7 +2326,7 @@
 8	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 230
+# sent_id = adugo_biri-0233
 # text = Boe ero birinure , boe ego birinure .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ero	ro	VERB	v	Number=Plur|Person=3	0	root	_	_
@@ -2585,7 +2338,7 @@
 8	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 231
+# sent_id = adugo_biri-0234
 # text = Awu rema imeardure boe pamoduie aigo uke jituji , toro , ia woe duji ia toro .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	rema	rema	AUX	cop	Pred=AtrEq	3	nsubj	_	_
@@ -2605,7 +2358,7 @@
 16	toro	toro	ADV	adv	Deixis=Remt	14	advmod	_	_
 17	.	.	PUNCT	punct	_	14	punct	_	_
 
-# sent_id = 232
+# sent_id = adugo_biri-0235
 # text = Ema karega , boe erore .
 1	Ema	ema	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	karega	karega	ADV	adv	Polarity=Neg	5	advmod	_	_
@@ -2615,7 +2368,7 @@
 6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 233
+# sent_id = adugo_biri-0236
 # text = Dukeje icare cewu ukudawu re adugo cewu akore nono nowu epa akomagadure kae kae kae kae kae !
 1	Dukeje	keje	ADV	adv	_	3	advmod	_	_
 2	icare	icare	ADV	adv	_	3	advmod	_	_
@@ -2636,7 +2389,7 @@
 17	kae	_	ADP	posp	Number=Sing|Person=3	16	case	_	_
 18	!	!	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 234
+# sent_id = adugo_biri-0237
 # text = Uuu ! Eto ji toro ae ure tugu aoto , tuku !
 1	Uuu	Uuu	ADV	adv	_	3	advmod	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -2651,7 +2404,7 @@
 11	tuku	tuku	ADV	adv	_	9	conj	_	_
 12	!	!	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 235
+# sent_id = adugo_biri-0238
 # text = Iku , je kej~wu , koe , meriri , buke , tugo , maku ai .
 1	Iku	~_~iku	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -2671,13 +2424,13 @@
 16	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 236
+# sent_id = adugo_biri-0239
 # text = - Ca !
 1	-	-	PUNCT	punct	_	2	punct	_	_
 2	Ca	ca	INTJ	intj	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 237
+# sent_id = adugo_biri-0240
 # text = Nowu adugo aigo epa rekodu toro baato .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	3	det	_	_
 2	adugo	_	NOUN	n	_	3	nsubj	_	_
@@ -2688,12 +2441,7 @@
 7	baato	baato	ADV	adv	_	5	advmod	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 238
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 239
+# sent_id = adugo_biri-0242
 # text = Meru karegure jii nowu biri tabo jamedu .
 1	Meru	meru	NOUN	n	Number=Sing	2	nsubj	_	_
 2	karegure	karegu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -2704,12 +2452,12 @@
 7	jamedu	jamedu	ADV	adv	_	2	advmod	_	_
 8	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 240
+# sent_id = adugo_biri-0243
 # text = Rekodunure .
 1	Rekodunure	_	ADV	adv	Aspect=Prog|Mood=Ind	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 241
+# sent_id = adugo_biri-0244
 # text = Ba piji , tuwai piji , pu pu pu pu pu kae kae kae kae !
 1	Ba	~_~ba	PRON	_	PronType=Int	0	root	_	_
 2	piji	piji	ADP	posp	_	1	case	_	_
@@ -2728,14 +2476,14 @@
 15	kae	_	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 242
+# sent_id = adugo_biri-0245
 # text = Toro badojeba ae .
 1	Toro	toro	PROPN	propn	_	2	nsubj	_	_
 2	badojeba	badojeba	PROPN	propn	_	0	root	_	_
 3	ae	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 243
+# sent_id = adugo_biri-0246
 # text = Okwa akore ikaji kagaci , kagaci , kagaci , kagaci !
 1	Okwa	~_~okwa	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	akore	akore	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -2750,7 +2498,7 @@
 11	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 244
+# sent_id = adugo_biri-0247
 # text = Tuwureagurudo ji kae kae kae kae !
 1	Tuwureagurudo	wureagurudo	VERB	v	Number=Sing|Person=3|Reflex=Yes|Voice=Cau	0	root	_	_
 2	ji	i	ADP	posp	Number=Sing|Person=3	1	obl	_	_
@@ -2760,7 +2508,7 @@
 6	kae	_	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 245
+# sent_id = adugo_biri-0248
 # text = Biri barigu aoto , riwudu barigu aoto .
 1	Biri	biri	NOUN	n	Number=Sing|Person=3|Poss=Yes	2	nsubj	_	_
 2	barigu	barigu	VERB	vt	Number=Sing|Person=3	3	nsubj	_	_
@@ -2771,12 +2519,7 @@
 7	aoto	aoto	VERB	v	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 246
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 247
+# sent_id = adugo_biri-0250
 # text = Mare care boe egore ure tuwure to ji .
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	care	care	ADV	adv	_	4	advmod	_	_
@@ -2788,7 +2531,7 @@
 8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 248
+# sent_id = adugo_biri-0251
 # text = Boere tuwure to : po po po ji .
 1	Boere	boe	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	tuwure	_	NOUN	n	_	1	obl	_	_
@@ -2800,7 +2543,7 @@
 8	ji	_	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 249
+# sent_id = adugo_biri-0252
 # text = Boere iedo , ure tuwure to ji ino .
 1	Boere	boedy	NOUN	n	_	2	nsubj	_	_
 2	iedo	ie	VERB	v	_	0	root	_	_
@@ -2812,7 +2555,7 @@
 8	ino	ino	ADV	adv	_	6	advmod	_	_
 9	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 250
+# sent_id = adugo_biri-0253
 # text = Iporewu , iporewu du jire egoino hui hui hui !
 1	Iporewu	porewu	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	nsubj	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -2825,7 +2568,7 @@
 9	hui	_	X	_	_	6	conj	_	_
 10	!	!	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 251
+# sent_id = adugo_biri-0254
 # text = Akare Bakorokudu , akare Bakoro Akaru , akare Ipareceba .
 1	Akare	a	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 2	Bakorokudu	_	ADV	adv	_	1	advmod	_	_
@@ -2838,41 +2581,41 @@
 9	Ipareceba	Ipareceba	ADV	adv	_	8	advmod	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 252
+# sent_id = adugo_biri-0255
 # text = Akare kare imi !
 1	Akare	~_~akare	PRON	bi	Mood=Ind|Number=Sing|Person=2|	3	nsubj	_	_
 2	kare	karo	NOUN	n	Number=Plur	3	dep	_	_
 3	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 253
+# sent_id = adugo_biri-0256
 # text = Hui ! Ho !
 1	Hui	_	PRON	_	Reflex=Yes	3	nsubj	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 3	Ho	Ho	PROPN	propn	_	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 254
+# sent_id = adugo_biri-0257
 # text = Ho ...
 1	Ho	Ho	ADV	adv	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 255
+# sent_id = adugo_biri-0258
 # text = Bakororo ...
 1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 256
+# sent_id = adugo_biri-0259
 # text = Aiduia ...
 1	Aiduia	aiduia	NOUN	n	Number=Sing|Person=1	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 257
+# sent_id = adugo_biri-0260
 # text = Itugarege ...
 1	Itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 258
+# sent_id = adugo_biri-0261
 # text = Inowu ikudawu ai ho ... !
 1	Inowu	nowu	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	nsubj	_	_
 2	ikudawu	kudawu	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	nsubj	_	_
@@ -2881,12 +2624,12 @@
 5	...	...	PUNCT	punct	_	4	punct	_	_
 6	!	!	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 259
+# sent_id = adugo_biri-0262
 # text = Orowaribo ...
 1	Orowaribo	_	PROPN	propn	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 260
+# sent_id = adugo_biri-0263
 # text = Aiduia itugarege inowu ikudawu ai ho ... !
 1	Aiduia	iduia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	nsubj	_	_
@@ -2897,7 +2640,7 @@
 7	...	...	PUNCT	punct	_	6	punct	_	_
 8	!	!	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 261
+# sent_id = adugo_biri-0264
 # text = :' Ecerae egore tugudawu ji .
 1	:'	:'	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n
 2	Ecerae	Eceraedy	PROPN	propn	_	3	nsubj	_	_
@@ -2907,7 +2650,7 @@
 6	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 262
+# sent_id = adugo_biri-0265
 # text = Tugarege ekudawu ji : Ho o ... !
 1	Tugarege	Tugarege	PROPN	propn	_	2	nsubj	_	_
 2	ekudawu	kudawu	VERB	posp	Number[subj]=Plur|Person[subj]=3	0	root	_	_
@@ -2918,12 +2661,7 @@
 7	...	...	PUNCT	punct	_	6	punct	_	_
 8	!	!	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 263
-# text = Bakororo ...
-1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 264
+# sent_id = adugo_biri-0267
 # text = Aiduia ira kudawu ukuie ai ho ... !
 1	Aiduia	iduia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	ira	ira	NOUN	n	_	4	nsubj	_	_
@@ -2934,29 +2672,8 @@
 7	...	...	PUNCT	punct	_	4	punct	_	_
 8	!	!	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 265
-# text = Orowaribo ...
-1	Orowaribo	_	PROPN	propn	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 266
-# text = Orowaribo ...
-1	Orowaribo	_	PROPN	propn	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 267
-# text = Aiduia ira kudawu ukuie ai ho ... !
-1	Aiduia	iduia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
-2	ira	ira	NOUN	n	_	4	nsubj	_	_
-3	kudawu	ludawu	NOUN	n	Nomzr=Rel	2	nmod	_	_
-4	ukuie	uku	VERB	v	Speech=Ind	0	root	_	_
-5	ai	ai	ADP	posp	Number=Sing|Person=2	4	obl	_	_
-6	ho	ho	ADV	adv	_	4	advmod	_	_
-7	...	...	PUNCT	punct	_	4	punct	_	_
-8	!	!	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 268
+# sent_id = adugo_biri-0271
 # text = Ecerae egore Tugarege ekudawu bataruji .
 1	Ecerae	Ecerae	PROPN	propn	_	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -2965,7 +2682,7 @@
 5	bataruji	_	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 269
+# sent_id = adugo_biri-0272
 # text = Boe egore Awu reo .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -2973,7 +2690,7 @@
 4	reo	reo	AUX	cop	_	2	ccomp	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 270
+# sent_id = adugo_biri-0273
 # text = Oto padure tu je .
 1	Oto	oto	NOUN	n	_	3	nsubj	_	_
 2	padure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
@@ -2981,48 +2698,43 @@
 4	je	ty	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 271
-# text = dukeje icare akedure .
-1	dukeje	keje	ADV	adv	_	3	advmod	_	_
+# sent_id = adugo_biri-0274
+# text = Dukeje icare akedure .
+1	Dukeje	keje	ADV	adv	_	3	advmod	_	_
 2	icare	_	ADV	adv	_	3	advmod	_	_
 3	akedure	akedu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 272
+# sent_id = adugo_biri-0275
 # text = Boe egore Wa !
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	Wa	wa	INTJ	intj	_	2	ccomp	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 273
+# sent_id = adugo_biri-0276
 # text = Mare raire .
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	raire	rai	ADV	adv	Mood=Ind	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 274
-# text = akedure boe egore wa !
-1	akedure	kedu	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
+# sent_id = adugo_biri-0277
+# text = Akedure boe egore wa !
+1	Akedure	kedu	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	1	parataxis	_	_
 4	wa	wa	INTJ	intj	_	3	ccomp	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 275
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 276
+# sent_id = adugo_biri-0279
 # text = Meri rekodure .
 1	Meri	meri	NOUN	n	_	2	nsubj	_	_
 2	rekodure	rekodure	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 277
+# sent_id = adugo_biri-0280
 # text = Cewu adugo , aigo biri epa ure tugeragu ji ta , turegodu tabo jice , kudawu remawu ae pugeje kodi .
 1	Cewu	cewu	NOUN	n	_	2	nsubj	_	_
 2	adugo	adugo	VERB	v	_	0	root	_	_
@@ -3047,7 +2759,7 @@
 21	.	.	PUNCT	punct	_	20	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 278
+# sent_id = adugo_biri-0281
 # text = Ure maku , jodo keje , akore emareo , emareo emareo !
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	maku	maku	VERB	v	Number=Sing|Person=3	0	root	_	_
@@ -3062,7 +2774,7 @@
 11	emareo	emareo	NOUN	n	_	8	conj	_	_
 12	!	!	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 279
+# sent_id = adugo_biri-0282
 # text = Akudawu adugo reo , akuie akaogajejewu adugo reo !
 1	Akudawu	akudawy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	adugo	adugo	NOUN	n	_	3	nsubj	_	_
@@ -3074,14 +2786,14 @@
 8	reo	reo	AUX	cop	_	0	root	_	_
 9	!	_	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 280
+# sent_id = adugo_biri-0283
 # text = Bu tu akuda .
 1	Bu	bu	PROPN	propn	_	2	nsubj	_	_
 2	tu	tu	PROPN	propn	_	0	root	_	_
 3	akuda	_	ADP	posp	Int=Yes	2	case	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 281
+# sent_id = adugo_biri-0284
 # text = Kejere awu dugugodure , kejere akamogodure , kejere are karo kodu ko , barogo kodu ko , are oce ko , nowa ko , motore ko , karo kodu , barogo kodu ko .
 1	Kejere	kejere	ADV	adv	_	3	advmod	_	_
 2	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
@@ -3118,7 +2830,7 @@
 33	ko	ko	VERB	vt	_	12	parataxis	_	_
 34	.	.	PUNCT	punct	_	33	punct	_	_
 
-# sent_id = 282
+# sent_id = adugo_biri-0285
 # text = Kejere anudure tu je .
 1	Kejere	keje	ADP	posp	Mood=Ind	2	nsubj	_	_
 2	anudure	anudu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3126,7 +2838,7 @@
 4	je	je	ADV	adv	_	2	advmod	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 283
+# sent_id = adugo_biri-0286
 # text = M ! No no hu ! Awu re oto parema .
 1	M	m	INTJ	intj	_	5	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -3140,13 +2852,7 @@
 10	parema	parema	AUX	cop	Pred=AtrEq	0	root	_	_
 11	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 284
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 285
+# sent_id = adugo_biri-0288
 # text = Kodu kuri tabo , cewu ukudawu nowu adugo cewu aigo cewu , kodu tabo kuri cewu ure biri batarudowu ae pugeje .
 1	Kodu	kodu	PROPN	propn	_	5	obl	_	_
 2	kuri	kuri	PROPN	propn	_	1	flat	_	_
@@ -3171,13 +2877,7 @@
 21	pugeje	pugeje	ADV	adv	_	5	advmod	_	_
 22	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 286
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 287
+# sent_id = adugo_biri-0290
 # text = Nowure icare unudure keje boeto ji .
 1	Nowure	Nowure	ADV	adv	Mood=Ind	3	advmod	_	_
 2	icare	icare	ADV	adv	_	3	advmod	_	_
@@ -3187,7 +2887,7 @@
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 288
+# sent_id = adugo_biri-0291
 # text = Baadojeba unudure keje jao kodi .
 1	Baadojeba	Baadojeba	PROPN	propn	_	2	nsubj	_	_
 2	unudure	unudu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3196,7 +2896,7 @@
 5	kodi	kodi	SCONJ	sconj	_	2	mark	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 289
+# sent_id = adugo_biri-0292
 # text = Awu badojeba emare ure batarudo dukodi padure keje jao .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	badojeba	badojeba	NOUN	n	_	3	nmod	_	_
@@ -3210,7 +2910,7 @@
 10	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 290
+# sent_id = adugo_biri-0293
 # text = Barogwato ure maku nowu ukudawu re emawu ai .
 1	Barogwato	barogwato	ADV	adv	_	4	advmod	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
@@ -3222,7 +2922,7 @@
 8	ai	ji	ADP	posp	Number=Sing|Person=2	7	obl	_	_
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 291
+# sent_id = adugo_biri-0294
 # text = IcáNowu ukudawu re ema remawu re ure pedo ure maku nowu towobe tumeduia tugarege etai .
 1	Icá	Icá	PROPN	propn	_	2	nmod	_	SpaceAfter=No
 2	Nowu	_	PROPN	propn	_	3	nmod	_	_
@@ -3242,7 +2942,7 @@
 16	etai	ai	ADP	posp	Number=Plur|Person=3	15	case	_	_
 17	.	.	PUNCT	punct	_	14	punct	_	_
 
-# sent_id = 292
+# sent_id = adugo_biri-0295
 # text = Tuwiemage etai , tumanamage etai .
 1	Tuwiemage	bie	NOUN	n	Number=Plur|Reflex=Yes	0	root	_	_
 2	etai	ai	ADP	posp	Number=Plur|Person=3	1	case	_	_
@@ -3252,7 +2952,7 @@
 6	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 293
+# sent_id = adugo_biri-0296
 # text = Cerae etai karega , tugarege etai .
 1	Cerae	Ceraedy	NOUN	n	Number=Plur	0	root	_	_
 2	etai	ai	ADP	posp	Number=Plur|Person=3	1	case	_	_
@@ -3262,7 +2962,7 @@
 6	etai	ai	ADP	posp	Number=Plur|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 294
+# sent_id = adugo_biri-0297
 # text = Ecerae emode nowu adugo aigo bito , ainore ure , tugaregere erore nowu tugudawu ji .
 1	Ecerae	Ecerae	PROPN	propn	_	6	nsubj	_	_
 2	emode	e	PRON	bi	Irr=Yes|Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
@@ -3282,7 +2982,7 @@
 16	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 295
+# sent_id = adugo_biri-0298
 # text = Tugarege emode , adugo , aigo bito , ecerae emode nowu biri pedo ecerae pu tuiameduji jamedu .
 1	Tugarege	Tugarege	PROPN	propn	_	7	nsubj	_	_
 2	emode	e	PRON	bi	Irr=Yes|Mood=Ind|Number=Plur|Person=3	7	nsubj	_	_
@@ -3303,7 +3003,7 @@
 17	jamedu	jamedu	ADV	adv	_	16	advmod	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	_
 
-# sent_id = 296
+# sent_id = adugo_biri-0299
 # text = Oinore boe erore marigudu .
 1	Oinore	_	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -3312,7 +3012,7 @@
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 297
+# sent_id = adugo_biri-0300
 # text = Oinore icare boe bokware .
 1	Oinore	oino	ADV	adv	Mood=Ind	4	advmod	_	_
 2	icare	icare	ADV	adv	_	4	advmod	_	_
@@ -3320,7 +3020,7 @@
 4	bokware	bokware	PART	prcl	Mood=Ind|Polarity=Neg	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 298
+# sent_id = adugo_biri-0301
 # text = Braere boe pegado , braere boe akedudo , itura pegado itura akedudo , barogo akedudo , karo akedudo , kiogo akedudo .
 1	Braere	Brari	NOUN	n	Number=Plur	3	nsubj	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -3345,7 +3045,7 @@
 21	akedudo	aked	VERB	v	_	18	parataxis	_	_
 22	.	.	PUNCT	punct	_	21	punct	_	_
 
-# sent_id = 299
+# sent_id = adugo_biri-0302
 # text = Macare etaidukare ewidoduwo pugeje !
 1	Macare	macare	CCONJ	cconj	_	3	advmod	_	_
 2	etaidukare	aidu	VERB	v	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	3	nsubj	_	_
@@ -3354,7 +3054,7 @@
 5	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 300
+# sent_id = adugo_biri-0303
 # text = Oinore boe erore boe emoreare oto pa reno .
 1	Oinore	_	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -3366,7 +3066,7 @@
 8	reno	reno	AUX	aux	_	3	parataxis	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 301
+# sent_id = adugo_biri-0304
 # text = Awu bajura reore boere barogo biri batarudo tu .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	bajura	bajura	NOUN	n	_	3	nmod	_	_
@@ -3378,7 +3078,7 @@
 8	tu	tu	VERB	v	Number=Sing|Person=3	0	root	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 302
+# sent_id = adugo_biri-0305
 # text = Awu iwagududoge emoraebatarure , Aroroe , Apiborege , Paiwoe , awu Bakoro Ecerae , Bokodore Ecerae , awu Kie , awu Baadogebage emoreare batarure tu tu .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	iwagududoge	_	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -3409,13 +3109,13 @@
 27	.	.	PUNCT	punct	_	24	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 303
+# sent_id = adugo_biri-0306
 # text = Bajura reore .
 1	Bajura	Bajura	VERB	v	Number=Sing|Person=3	0	root	_	_
 2	reore	_	ADV	adv	Mood=Ind	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 304
+# sent_id = adugo_biri-0307
 # text = Bajura rodu boe emoreae batarure jii je .
 1	Bajura	Bajura	VERB	v	Number=Sing|Person=3	5	advmod	_	_
 2	rodu	rodu	ADV	adv	_	5	advmod	_	_
@@ -3426,12 +3126,12 @@
 7	je	je	ADV	adv	_	5	advmod	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 305
-# text = Awu iogamage bokodori Ecerae e emoreaere batarure icare ure tuginoi .
+# sent_id = adugo_biri-0308
+# text = Awu iogamage bokodori .Ecerae e emoreaere batarure icare ure tuginoi .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	iogamage	ioga	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	nsubj	_	_
-3	bokodori	bokodori	PROPN	propn	_	5	nmod	_	SpacesAfter=\r\n
-4	Ecerae	Ecerae	PROPN	propn	_	3	flat	_	_
+3	bokodori	bokodori	PROPN	propn	_	5	nmod	_	_
+4	.Ecerae	.Eceraedy	PROPN	propn	_	3	flat	_	_
 5	e	_	NOUN	n	_	6	nmod	_	_
 6	emoreaere	_	PRON	bi	Mood=Ind|Number=Plur|Person=3	7	nsubj	_	_
 7	batarure	bataru	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3441,7 +3141,7 @@
 11	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 306
+# sent_id = adugo_biri-0309
 # text = Kuruguga eworo , kuruguga batarure ema jamedu .
 1	Kuruguga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	eworo	woro	VERB	v	Number=Plur|Person=3	0	root	_	_
@@ -3452,7 +3152,7 @@
 7	jamedu	jamedu	ADV	adv	_	5	advmod	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 307
+# sent_id = adugo_biri-0310
 # text = Egaru rore garaci puiogi .
 1	Egaru	garu	NOUN	n	Number=Plur|Person=1	2	nsubj	_	_
 2	rore	ro	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3461,72 +3161,83 @@
 5	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 308
-# text = Awu barogo rugadure egore Ui ui ui !
+# sent_id = adugo_biri-0311
+# text = Awu barogo rugadure egore .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	barogo	barogo	NOUN	n	_	3	nsubj	_	_
 3	rugadure	_	VERB	v	_	0	root	_	_
-4	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	ccomp	_	SpacesAfter=\s\r\n
-5	Ui	Ui	ADP	posp	Number=Sing|Person=3	4	obl	_	_
-6	ui	_	X	_	_	7	nsubj	_	_
-7	ui	_	X	_	_	4	parataxis	_	_
-8	!	!	PUNCT	punct	_	7	punct	_	_
+4	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	SpaceAfter=No
 
-# sent_id = 309
+# sent_id = adugo_biri-0312
+# text = Ui ui ui !
+1	Ui	~_~ui	PRON	_	Reflex=Yes	2	nsubj	_	_
+2	ui	ui	PRON	pron	PronType=Rcp	3	nsubj	_	_
+3	ui	_	X	_	_	0	root	_	_
+4	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = adugo_biri-0313
 # text = Iwororo , iwororo !
 1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	iwororo	iwororo	PROPN	propn	_	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 310
-# text = Iwororo Meribo Bororo Iwororo Okogebo Bororo Iwororo Cibaibo Bororo Iwororo Arerebo Kuruguga Bororo O Oo !
+# sent_id = adugo_biri-0314
+# text = Iwororo Meribo Bororo .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	Meribo	_	PROPN	propn	_	4	nsubj	_	_
-3	Bororo	Bororo	PROPN	propn	_	2	flat	_	SpacesAfter=\r\n
-4	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	nsubj	_	_
-5	Okogebo	_	PROPN	propn	_	7	nsubj	_	_
-6	Bororo	Bororo	PROPN	propn	_	5	flat	_	SpacesAfter=\r\n
-7	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	8	nsubj	_	_
-8	Cibaibo	Cibaibo	PROPN	propn	_	10	nsubj	_	_
-9	Bororo	Bororo	PROPN	propn	_	8	flat	_	SpacesAfter=\r\n
-10	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	13	nmod	_	_
-11	Arerebo	_	PROPN	propn	_	12	nmod	_	_
-12	Kuruguga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	13	nmod	_	_
-13	Bororo	bororo	PROPN	propn	_	0	root	_	_
-14	O	~_~o	PROPN	propn	_	13	flat	_	_
-15	Oo	oo	INTJ	intj	_	14	conj	_	_
-16	!	!	PUNCT	punct	_	15	punct	_	_
+2	Meribo	_	PROPN	propn	_	0	root	_	_
+3	Bororo	Bororo	PROPN	propn	_	2	flat	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	SpaceAfter=No
 
-# sent_id = 311
+# sent_id = adugo_biri-0315
+# text = Iwororo Okogebo Bororo .
+1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	Okogebo	_	PROPN	propn	_	0	root	_	_
+3	Bororo	Bororo	PROPN	propn	_	2	flat	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	SpaceAfter=No
+
+# sent_id = adugo_biri-0316
+# text = Iwororo Cibaibo Bororo .
+1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
+2	Cibaibo	Cibaibo	PROPN	propn	_	0	root	_	_
+3	Bororo	Bororo	PROPN	propn	_	2	flat	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	SpaceAfter=No
+
+# sent_id = adugo_biri-0317
+# text = Iwororo Arerebo Kuruguga Bororo O Oo !
+1	Iwororo	Iwororo	PROPN	propn	_	3	nsubj	_	_
+2	Arerebo	_	PROPN	propn	_	1	flat	_	_
+3	Kuruguga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
+4	Bororo	bororo	PROPN	propn	_	5	nmod	_	_
+5	O	~_~o	PROPN	propn	_	3	obl	_	_
+6	Oo	oo	INTJ	intj	_	5	case	_	_
+7	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = adugo_biri-0318
 # text = Iwororo ...
 1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 312
+# sent_id = adugo_biri-0319
 # text = Iwororo Meriribo Bororo ...
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Meriribo	_	PROPN	propn	_	0	root	_	_
 3	Bororo	Bororo	PROPN	propn	_	2	flat	_	_
 4	...	...	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 313
-# text = Iwororo ...
-1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 314
+# sent_id = adugo_biri-0321
 # text = Iwororo
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
 
-# sent_id = 315
+# sent_id = adugo_biri-0322
 # text = Okogebo Bororo ...
 1	Okogebo	_	PROPN	propn	_	0	root	_	_
 2	Bororo	Bororo	PROPN	propn	_	1	flat	_	_
 3	...	...	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 316
+# sent_id = adugo_biri-0323
 # text = Toro , raire jamedu .
 1	Toro	toro	ADV	adv	Deixis=Remt	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -3534,13 +3245,7 @@
 4	jamedu	jamedu	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 317
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 318
+# sent_id = adugo_biri-0325
 # text = Kuruguga apare icare ure tuginoi .
 1	Kuruguga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	apare	apa	VERB	v	Mood=Ind|Number=Sing|Person=3	5	advmod	_	_
@@ -3549,7 +3254,7 @@
 5	tuginoi	gino	VERB	v	Reflex=Yes|VerbForm=Ger	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 319
+# sent_id = adugo_biri-0326
 # text = Inono rugadu : Oi !
 1	Inono	~_~inono	VERB	v	Number=Sing|Person=1	0	root	_	_
 2	rugadu	rugadu	ADV	adv	_	1	advmod	_	_
@@ -3557,50 +3262,35 @@
 4	Oi	o	VERB	v	VerbForm=Ger	1	ccomp	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 320
+# sent_id = adugo_biri-0327
 # text = Oi !
 1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 321
-# text = Iwororo , Iwororo
+# sent_id = adugo_biri-0328
+# text = Iwororo , Iwororo .
 1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	Iwororo	Iwororo	PROPN	propn	_	0	root	_	SpacesAfter=\r\n\r\n
+3	Iwororo	wororo	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 322
-# text = Meriribo Bororo
+# sent_id = adugo_biri-0329
+# text = Meriribo Bororo .
 1	Meriribo	_	PROPN	propn	_	0	root	_	_
-2	Bororo	Bororo	PROPN	propn	_	1	flat	_	SpacesAfter=\r\n\r\n
+2	Bororo	Bororo	PROPN	propn	_	1	flat	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 323
-# text = Iwororo Okogebo Bororo
-1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	Okogebo	_	PROPN	propn	_	0	root	_	_
-3	Bororo	Bororo	PROPN	propn	_	2	flat	_	SpacesAfter=\r\n\r\n
+# sent_id = adugo_biri-0332
+# text = Iwororo O o o ... !
+1	Iwororo	Iwororo	PROPN	propn	_	4	nsubj	_	_
+2	O	o	PROPN	propn	_	4	nsubj	_	_
+3	o	o	NOUN	n	_	4	nsubj	_	_
+4	o	o	VERB	v	_	0	root	_	_
+5	...	...	PUNCT	punct	_	4	punct	_	_
+6	!	!	PUNCT	punct	_	4	punct	_	_
 
-# newpar
-# sent_id = 324
-# text = Iwororo Cibaibo Bororo Iwororo O o o ... !
-1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	Cibaibo	Cibaibo	PROPN	propn	_	4	nsubj	_	_
-3	Bororo	Bororo	PROPN	propn	_	2	flat	_	SpacesAfter=\r\n
-4	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	7	nsubj	_	_
-5	O	~_~o	PROPN	propn	_	7	nsubj	_	_
-6	o	o	PROPN	propn	_	7	nsubj	_	_
-7	o	o	VERB	v	_	0	root	_	_
-8	...	...	PUNCT	punct	_	7	punct	_	_
-9	!	!	PUNCT	punct	_	7	punct	_	_
-
-# sent_id = 325
-# text = Iwororo ...
-1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 326
+# sent_id = adugo_biri-0334
 # text = Iwororo Meriribo Bororo , Jure Bororo , aiduia itugarege nowu iworo aruguje .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Meriribo	_	PROPN	propn	_	5	nsubj	_	_
@@ -3616,13 +3306,13 @@
 12	aruguje	aruguje	ADP	posp	Number=Sing|Person=3	11	case	_	_
 13	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 327
+# sent_id = adugo_biri-0335
 # text = Oo ... !
 1	Oo	oo	INTJ	intj	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 328
+# sent_id = adugo_biri-0336
 # text = Iwororo OkogeboJure Bororo aiduia itugarege nowu iworo aruduje o ! Bokodori Ecerae egore tuworo kuruguga bataruji , egore tuworo , tugudawu , tumori , adugo , aigo , aipoburewu bataru ji .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	OkogeboJure	OkogeboJu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -3658,7 +3348,7 @@
 32	.	.	PUNCT	punct	_	18	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 329
+# sent_id = adugo_biri-0337
 # text = Ure pobe : awu barogo biri bataru kodure pai woje tuginoi .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	pobe	pobe	NUM	n	_	0	root	_	_
@@ -3673,7 +3363,7 @@
 11	tuginoi	gino	VERB	v	Reflex=Yes|VerbForm=Ger	2	parataxis	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 330
+# sent_id = adugo_biri-0338
 # text = Awu kuruguga bataru kodure pai woje tuginoi , mare nowu bororo mitodu tabo rugadu .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	kuruguga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	nmod	_	_
@@ -3691,13 +3381,13 @@
 14	rugadu	rugadu	ADV	adv	_	7	advmod	_	_
 15	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 331
+# sent_id = adugo_biri-0339
 # text = Aino .
 1	Aino	ino	VERB	vt	Number=Sing|Person=2	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 332
+# sent_id = adugo_biri-0340
 # text = Nowu adugo , aigo , boere barigu nowu tuje aredu aoto jamedu kuri tuku .
 1	Nowu	_	PROPN	propn	_	2	nmod	_	_
 2	adugo	adugo	PROPN	propn	_	11	nsubj	_	_
@@ -3715,7 +3405,7 @@
 14	tuku	tuku	ADV	adv	_	11	advmod	_	_
 15	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 333
+# sent_id = adugo_biri-0341
 # text = Boe egore muga akuie adugo ó reo , akuie adugo ó reo .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -3731,7 +3421,7 @@
 12	reo	reo	AUX	cop	_	2	parataxis	_	_
 13	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 334
+# sent_id = adugo_biri-0342
 # text = Akaba ipo , iwara , akaba kamorewu , akaba kodobo , micígu , kodorabo akaba ukuiedo ema .
 1	Akaba	a	PRON	bi	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	2	nsubj	_	_
 2	ipo	ipo	X	_	_	16	nsubj	_	_
@@ -3752,7 +3442,7 @@
 17	ema	ema	PRON	pron	Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	_
 
-# sent_id = 335
+# sent_id = adugo_biri-0343
 # text = Akuie cere ire awu adugo bito rugadu , akuie adugo ó reo , akuie aigo ó reo .
 1	Akuie	uie	ADP	posp	Number=Sing|Person=2	6	obl	_	_
 2	cere	ce	PRON	bi	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|	6	nsubj	_	_
@@ -3773,7 +3463,7 @@
 17	reo	reo	AUX	cop	_	6	parataxis	_	_
 18	.	.	PUNCT	punct	_	17	punct	_	_
 
-# sent_id = 336
+# sent_id = adugo_biri-0344
 # text = Ajadu aipoburewu , akuie aipoburewu reo .
 1	Ajadu	ajadu	NOUN	n	Gender=Fem|Number=Sing	2	nsubj	_	_
 2	aipoburewu	aipobu	ADJ	adj	Nomzr=Rel	0	root	_	_
@@ -3783,19 +3473,7 @@
 6	reo	reo	AUX	cop	_	2	conj	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 337
-# text = Boe egore .
-1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 338
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 339
+# sent_id = adugo_biri-0347
 # text = Nowu adugo bitodumode jice , aigo bitodumode ia toro , iatoro , ituratadatoro , tori aiatada , jice Kogeiaotada , jice Orareiao tada jice , ure ki bito , jugo ko , buke ko , icare nowu bitodure mori cewu aroe iemode toro uke Kikurirepa .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	adugo	adugo	NOUN	n	_	3	nsubj	_	_
@@ -3845,7 +3523,7 @@
 46	.	_	PUNCT	punct	_	44	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 340
+# sent_id = adugo_biri-0348
 # text = Iarema nowu adugore buke ko : aroe Uke Bukerepa .
 1	Iarema	arema	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	nsubj	_	_
 2	nowu	no	NOUN	n	Nomzr=Rel	5	nmod	_	_
@@ -3859,7 +3537,7 @@
 10	.	_	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 341
+# sent_id = adugo_biri-0349
 # text = U rakoje awadurewu ure bitowu iemode Uke Bukerepa , uwo iemode Uke Bukerewo , uce iemode Uke Bukece .
 1	U	u	ADV	adv	_	2	advmod	_	_
 2	rakoje	_	ADV	adv	_	6	advmod	_	_
@@ -3882,7 +3560,7 @@
 19	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 342
+# sent_id = adugo_biri-0350
 # text = Akaregodumode jae ma , pamode jamedu akedudo kodi karega , mare awu rema oto pa rugadure , awu re turugadu .
 1	Akaregodumode	aregodu	VERB	v	Irr=Yes|Mood=Ind|Number=Sing|Person=2	7	advcl	_	_
 2	jae	jae	NOUN	n	_	1	obl	_	_
@@ -3907,7 +3585,7 @@
 21	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 343
+# sent_id = adugo_biri-0351
 # text = Aino jire ire tawie tu je , taeto tu ji , tawia pagado tu ji , paga tu je , tagaba okwado , tagaba okwado .
 1	Aino	ino	VERB	vt	Number=Sing|Person=2	0	root	_	_
 2	jire	ji	ADV	adv	Mood=Ind	4	advmod	_	_
@@ -3937,14 +3615,14 @@
 26	.	.	PUNCT	punct	_	25	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 344
+# sent_id = adugo_biri-0352
 # text = Awu boe akedunure .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	akedunure	edu	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=2	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 345
+# sent_id = adugo_biri-0353
 # text = Boe ero boe ewadaru akedunure , icare iogugudugodure .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ero	ro	VERB	v	Number=Plur|Person=3	5	nsubj	_	_
@@ -3957,7 +3635,7 @@
 9	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 346
+# sent_id = adugo_biri-0354
 # text = Ia pamode adugo aigo aipoburewu , aroeceba , kuruguga bito oino mai , oino awu meriji , awu barogwato , gravadore pamode makodo pagai , urado pagai .
 1	Ia	ia	PRON	art	Definite=Ind|PronType=Art	4	nsubj	_	_
 2	pamode	pa	PRON	bi	Clusivity=In|Irr=Yes|Mood=Ind|Number=Plur|Person=1	4	nsubj	_	_
@@ -3988,7 +3666,7 @@
 27	pagai	pagai	ADP	posp	_	26	obl	_	_
 28	.	.	PUNCT	punct	_	26	punct	_	_
 
-# sent_id = 347
+# sent_id = adugo_biri-0355
 # text = Pagi remawu pae pagamode woe tu ( ogwari ) .
 1	Pagi	pagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	2	nsubj	_	_
 2	remawu	_	X	x	Polarity=Neg	4	dep	_	_
@@ -4001,7 +3679,7 @@
 9	)	)	PUNCT	punct	_	8	punct	_	_
 10	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 348
+# sent_id = adugo_biri-0356
 # text = Ia pawimode , O !
 1	Ia	ia	PRON	art	Definite=Ind|PronType=Art	2	nsubj	_	_
 2	pawimode	wi	VERB	v	Irr=Yes|Mood=Ind|Number=Plur|Person=2	0	root	_	_
@@ -4009,7 +3687,7 @@
 4	O	o	ADV	adv	_	2	advmod	_	_
 5	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 349
+# sent_id = adugo_biri-0357
 # text = Gravado koia umode Raia Kurirewu ko pagabo birewu aogeje .
 1	Gravado	gravado	NOUN	n	_	2	nmod	_	_
 2	koia	koia	NOUN	n	_	6	nsubj	_	_
@@ -4022,7 +3700,7 @@
 9	aogeje	aogeje	ADP	posp	Number=Sing|Person=3	8	case	_	_
 10	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 350
+# sent_id = adugo_biri-0358
 # text = M ! M ! M !
 1	M	m	INTJ	intj	_	3	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -4031,33 +3709,28 @@
 5	M	~_~m	X	_	_	3	conj	_	_
 6	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 351
-# text = O !
-1	O	o	VERB	v	_	0	root	_	_
-2	!	_	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 352
+# sent_id = adugo_biri-0360
 # text = Bako ...
 1	Bako	Bako	VERB	v	Number[obj]=Sing|Person[obj]=3	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 353
+# sent_id = adugo_biri-0361
 # text = Raro ...
 1	Raro	Raro	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 354
+# sent_id = adugo_biri-0362
 # text = Kaire ...
 1	Kaire	Kai	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	...	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 355
+# sent_id = adugo_biri-0363
 # text = Kaire .
 1	Kaire	Kai	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 356
+# sent_id = adugo_biri-0364
 # text = Cewu pagi paedu pagamode tu gravado nowu kae tu je .
 1	Cewu	cewu	NOUN	n	_	4	nsubj	_	_
 2	pagi	pagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	3	nmod	_	_
@@ -4071,7 +3744,7 @@
 10	je	je	ADV	adv	_	6	advmod	_	_
 11	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 357
+# sent_id = adugo_biri-0365
 # text = Du pemegare , dukaere kudare padure aino .
 1	Du	_	NOUN	n	_	2	nsubj	_	_
 2	pemegare	pemega	VERB	verb	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -4083,21 +3756,21 @@
 8	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 358
+# sent_id = adugo_biri-0366
 # text = U rugadu rena .
 1	U	u	ADV	adv	_	3	advmod	_	_
 2	rugadu	rugadu	ADV	adv	_	3	advmod	_	_
 3	rena	rena	PART	prcl	Foc=Yes|Int=Yes	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 359
+# sent_id = adugo_biri-0367
 # text = Rogu rugadu rena .
 1	Rogu	~_~rogu	NOUN	n	Degree=Dim	3	nsubj	_	_
 2	rugadu	rugadu	ADV	adv	_	1	advmod	_	_
 3	rena	rena	PART	prcl	Foc=Yes|Int=Yes	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 360
+# sent_id = adugo_biri-0368
 # text = Itaidu rogu rugadu rena .
 1	Itaidu	itaidu	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	rogu	_	NOUN	n	Degree=Dim	1	obl	_	_
@@ -4106,7 +3779,7 @@
 5	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 361
+# sent_id = adugo_biri-0369
 # text = Oinore boe egore , boe enore .
 1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -4116,14 +3789,14 @@
 6	enore	jono	NOUN	n	Mood=Ind|Number=Plur|Person=3|Poss=Yes	3	conj	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 362
+# sent_id = adugo_biri-0370
 # text = Urugadu reo .
 1	Urugadu	_	ADV	adv	_	2	advmod	_	_
 2	reo	reo	AUX	cop	_	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 363
+# sent_id = adugo_biri-0371
 # text = Boe ere aigo bito toro boe tada .
 1	Boe	boe	NOUN	n	Number=Plur	4	nsubj	_	_
 2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	nsubj	_	_
@@ -4134,7 +3807,7 @@
 7	tada	tada	ADP	posp	_	6	case	_	_
 8	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 364
+# sent_id = adugo_biri-0372
 # text = Oino Boe remawu ge erore .
 1	Oino	oino	ADV	adv	_	3	advmod	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -4143,13 +3816,13 @@
 5	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 365
+# sent_id = adugo_biri-0373
 # text = Icá !
 1	Icá	icá	PRON	pron	PronType=Int	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 366
-# text = Ere ipo to nowu aigo poruji , Pó ! Pó !
+# sent_id = adugo_biri-0374
+# text = Ere ipo to nowu aigo poruji , Pó !
 1	Ere	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 2	ipo	_	NOUN	n	_	3	obj	_	_
 3	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
@@ -4159,19 +3832,26 @@
 7	,	,	PUNCT	punct	_	8	punct	_	_
 8	Pó	Pó	NOUN	n	_	3	conj	_	_
 9	!	!	PUNCT	punct	_	8	punct	_	_
-10	Pó	Pó	NOUN	n	_	3	parataxis	_	_
-11	!	!	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 367
-# text = dutabore egore Ai rece ...
-1	dutabore	dutabo	ADV	adv	Mood=Ind	2	advmod	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-3	Ai	ji	ADP	posp	Number=Sing|Person=2	2	obl	_	_
-4	rece	rece	ADV	adv	_	2	advmod	_	_
-5	...	...	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
+# sent_id = adugo_biri-0375
+# text = Pó !
+1	Pó	Pó	NOUN	n	_	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
+
+# sent_id = adugo_biri-0376
+# text = Dutabore egore .
+1	Dutabore	dutabore	NOUN	n	_	2	nsubj	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	SpaceAfter=No
+
+# sent_id = adugo_biri-0377
+# text = Ai rece ...
+1	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	2	nsubj	_	_
+2	rece	recewy	DET	dem	Deixis=Remt|Number=Sing|PronType=Dem	0	root	_	_
+3	...	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 368
+# sent_id = adugo_biri-0378
 # text = Ai rece akaru butuiare ...
 1	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	4	nsubj	_	_
 2	rece	_	NOUN	n	_	3	nmod	_	_
@@ -4179,25 +3859,20 @@
 4	butuiare	_	VERB	v	_	0	root	_	_
 5	...	...	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 369
-# text = Bakororo ...
-1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 370
+# sent_id = adugo_biri-0380
 # text = Oiaio ieko ...
 1	Oiaio	Oiaio	PROPN	propn	_	2	nsubj	_	_
 2	ieko	eko	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
 3	...	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 371
+# sent_id = adugo_biri-0381
 # text = Ecera ai akarudo ...
 1	Ecera	~_~ecera	PRON	_	_	3	obl	_	_
 2	ai	ji	ADP	posp	Number=Sing|Person=2	1	case	_	_
 3	akarudo	akarudo	X	_	_	0	root	_	_
 4	...	...	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 372
+# sent_id = adugo_biri-0382
 # text = Ecera ai akarudo Ho !
 1	Ecera	~_~ecera	PRON	_	_	3	nsubj	_	_
 2	ai	ji	ADP	posp	Number=Sing|Person=2	1	case	_	_
@@ -4205,44 +3880,30 @@
 4	Ho	Ho	ADV	adv	_	3	advmod	_	_
 5	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 373
+# sent_id = adugo_biri-0383
 # text = Ho !
 1	Ho	Ho	VERB	v	_	0	root	_	_
 2	!	_	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 374
-# text = Ecera ai akarudo Ecera Awogodori akarudo ...
+# sent_id = adugo_biri-0384
+# text = Ecera ai akarudo .Ecera Awogodori akarudo ...
 1	Ecera	~_~ecera	PRON	_	_	3	nsubj	_	_
 2	ai	ji	ADP	posp	Number=Sing|Person=2	1	case	_	_
-3	akarudo	kary	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	SpacesAfter=\r\n
-4	Ecera	~_~ecera	PRON	_	_	3	obl	_	_
+3	akarudo	kary	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+4	.Ecera	.Ecera	NOUN	num	_	3	obl	_	_
 5	Awogodori	bogodori	ADP	posp	Number=Sing|Person=2	4	case	_	_
 6	akarudo	akarudo	X	_	_	3	dep	_	_
 7	...	...	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 375
+# sent_id = adugo_biri-0385
 # text = Ecera Aiquio akarudo ...
 1	Ecera	~_~ecera	NOUN	n	Number=Plur	2	nsubj	_	_
 2	Aiquio	_	PROPN	propn	_	3	nsubj	_	_
 3	akarudo	akarudo	X	_	_	0	root	_	_
 4	...	...	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 376
-# text = Ecera Aiquio akarudo ...
-1	Ecera	~_~ecera	NOUN	n	Number=Plur	2	nsubj	_	_
-2	Aiquio	_	PROPN	propn	_	3	nsubj	_	_
-3	akarudo	akarudo	X	_	_	0	root	_	_
-4	...	...	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 377
-# text = Ai rece ...
-1	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	2	nsubj	_	_
-2	rece	recewy	DET	dem	Deixis=Remt|Number=Sing|PronType=Dem	0	root	_	_
-3	...	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 378
+# sent_id = adugo_biri-0388
 # text = Ai rece akaru butuiare Bakororo oiaio ieko ...
 1	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	4	nsubj	_	_
 2	rece	_	NOUN	n	_	3	nmod	_	_
@@ -4253,7 +3914,7 @@
 7	ieko	eko	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	4	obl	_	_
 8	...	...	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 379
+# sent_id = adugo_biri-0389
 # text = Bako roro oiaio ieko .
 1	Bako	Bako	PROPN	propn	_	4	nsubj	_	_
 2	roro	roro	PROPN	propn	_	1	flat	_	_
@@ -4261,7 +3922,7 @@
 4	ieko	eko	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 380
+# sent_id = adugo_biri-0390
 # text = M ! M !
 1	M	m	INTJ	intj	_	3	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -4269,7 +3930,7 @@
 4	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 381
+# sent_id = adugo_biri-0391
 # text = Icare boe ere bureagurudo ture moridowu umana , uwie .
 1	Icare	_	ADV	adv	_	5	advmod	_	_
 2	boe	boe	NOUN	n	_	5	nsubj	_	_
@@ -4282,13 +3943,7 @@
 9	uwie	uwie	ADV	adv	_	5	advmod	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 382
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 383
+# sent_id = adugo_biri-0393
 # text = Nowu jire boere bureagurudo .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	4	det	_	_
 2	jire	ji	NOUN	n	Mood=Ind	3	nmod	_	_
@@ -4296,14 +3951,14 @@
 4	bureagurudo	bureaguru	NOUN	n	Voice=Cau	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 384
+# sent_id = adugo_biri-0394
 # text = Boere tugeragu ji .
 1	Boere	boe	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	tugeragu	_	NOUN	n	Reflex=Yes|Speech=IndTrans	1	obl	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 385
+# sent_id = adugo_biri-0395
 # text = Boe ekodo kuri apo baiado , boe egore kae gae !
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ekodo	kodo	VERB	v	Mood=Ind|Number=Plur|Person=3	5	advmod	_	_
@@ -4317,31 +3972,13 @@
 10	gae	gae	VERB	v	_	8	ccomp	_	_
 11	!	_	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 386
+# sent_id = adugo_biri-0396
 # text = Kae gae !
 1	Kae	ai	ADP	n	Number=Sing|Person=3	2	nsubj	_	_
 2	gae	gae	VERB	v	_	0	root	_	_
 3	!	_	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 387
-# text = Kae gae !
-1	Kae	ai	ADP	n	Number=Sing|Person=3	2	nsubj	_	_
-2	gae	gae	VERB	v	_	0	root	_	_
-3	!	_	PUNCT	punct	_	2	punct	_	_
-
-# sent_id = 388
-# text = Kae gae !
-1	Kae	ai	ADP	n	Number=Sing|Person=3	2	nsubj	_	_
-2	gae	gae	VERB	v	_	0	root	_	_
-3	!	_	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 389
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 390
+# sent_id = adugo_biri-0400
 # text = Emareo , emareo , emareo , emareo !
 1	Emareo	mareo	VERB	v	Number=Plur|Person=3	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -4352,7 +3989,7 @@
 7	emareo	mareo	VERB	v	Number=Plur|Person=3	5	parataxis	_	_
 8	!	!	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 391
+# sent_id = adugo_biri-0401
 # text = Aedaga , amana , awie , mori akudawu aIgo biri reo , akudawu adugo reo !
 1	Aedaga	edaga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nsubj	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -4371,7 +4008,7 @@
 15	reo	reo	AUX	cop	_	11	parataxis	_	_
 16	!	_	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 392
+# sent_id = adugo_biri-0402
 # text = Oino Boe egore .
 1	Oino	oino	ADV	adv	_	3	advmod	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -4379,21 +4016,16 @@
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 393
-# text = du care ure batarudo oi !
-1	du	du	ADV	adv	_	5	advmod	_	_
+# sent_id = adugo_biri-0403
+# text = Du care ure batarudo oi !
+1	Du	du	ADV	adv	_	5	advmod	_	_
 2	care	care	ADV	adv	_	5	advmod	_	_
 3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 4	batarudo	bataru	NOUN	n	Voice=Cau	5	obj	_	_
 5	oi	o	VERB	v	VerbForm=Ger	0	root	_	_
 6	!	!	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 394
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 395
+# sent_id = adugo_biri-0405
 # text = Oi ! Ho ... ! Ho ... !
 1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
@@ -4405,7 +4037,7 @@
 8	!	!	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 396
+# sent_id = adugo_biri-0406
 # text = Bakorokudu ukudawu jiboe , boe egore ho ...
 1	Bakorokudu	Bakorokudu	PROPN	propn	_	3	nsubj	_	_
 2	ukudawu	ukudawu	PROPN	propn	_	1	flat	_	_
@@ -4416,38 +4048,18 @@
 7	ho	ho	ADV	adv	_	6	advmod	_	_
 8	...	...	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 397
-# text = Bakororo ...
-1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 398
-# text = Cewu Kie , boe egore Oi !
+# sent_id = adugo_biri-0408
+# text = Cewu Kie , boe egore .Oi !
 1	Cewu	Ce	ADJ	_	Nomzr=Rel	5	advmod	_	_
 2	Kie	_	PROPN	propn	_	1	nmod	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	boe	boe	NOUN	n	Number=Plur	5	nsubj	_	_
-5	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-6	Oi	Oi	ADP	posp	Number=Sing|Person=3	5	obl	_	_
+5	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+6	.Oi	.Oi	ADP	posp	Number=Sing|Person=3	5	obl	_	_
 7	!	!	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 399
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 400
-# text = Bakororo ...
-1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 401
-# text = Bakororo ...
-1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 402
+# sent_id = adugo_biri-0412
 # text = Bakororo aiduia ikudawu ai ...
 1	Bakororo	Bakororo	ADV	adv	Polarity=Neg	0	root	_	_
 2	aiduia	iduia	DET	_	Definite=Ind|PronType=Art	3	det	_	_
@@ -4456,7 +4068,7 @@
 5	...	...	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 403
+# sent_id = adugo_biri-0413
 # text = Awu Bokodori Eceraedu rema .
 1	Awu	awu	PROPN	propn	_	2	nmod	_	_
 2	Bokodori	Bokodori	PROPN	propn	_	3	nmod	_	_
@@ -4464,15 +4076,15 @@
 4	rema	rema	AUX	cop	Pred=AtrEq	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 404
-# text = Awu bokodori Ecerae egore
+# sent_id = adugo_biri-0414
+# text = Awu bokodori Ecerae egore .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	bokodori	bokodori	NOUN	n	_	4	nsubj	_	_
-3	Ecerae	Ecerae	PROPN	propn	_	2	nmod	_	_
-4	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n\r\n
+3	Ecerae	Ecerae	PROPN	propn	_	4	nsubj	_	_
+4	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 405
+# sent_id = adugo_biri-0415
 # text = Iwororo Meriribo Bororo aiduia itugarege enawu ikudawu ai , o ... !
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Meriribo	_	PROPN	propn	_	4	nsubj	_	_
@@ -4488,7 +4100,7 @@
 12	!	!	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 406
+# sent_id = adugo_biri-0416
 # text = Iwororo Kuruguga Bororo aiduia itugarege enawu ikudawu ai , o ... !
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Kuruguga	_	PROPN	propn	_	6	nsubj	_	_
@@ -4503,7 +4115,7 @@
 11	...	...	PUNCT	punct	_	6	punct	_	_
 12	!	!	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 407
+# sent_id = adugo_biri-0417
 # text = Iwororo Kaiwo Bororo aiduia itugarege enawu ikuidawu ai .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Kaiwo	_	VERB	v	_	0	root	_	_
@@ -4515,14 +4127,14 @@
 8	ai	ai	ADP	posp	_	7	case	_	_
 9	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 408
+# sent_id = adugo_biri-0418
 # text = Ooo ... !
 1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 409
+# sent_id = adugo_biri-0419
 # text = Ai , o ... ! Ai ...
 1	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	3	nsubj	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -4532,24 +4144,18 @@
 6	Ai	ai	ADV	adv	_	3	advmod	_	_
 7	...	...	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 410
+# sent_id = adugo_biri-0420
 # text = Wa !
 1	Wa	wa	INTJ	intj	_	0	root	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 411
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 412
+# sent_id = adugo_biri-0422
 # text = Oino .
 1	Oino	oino	ADV	adv	_	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 413
+# sent_id = adugo_biri-0423
 # text = Bakoro Ecerae egore ( faIando ) : Oi !
 1	Bakoro	Bakoro	PROPN	propn	_	3	nsubj	_	_
 2	Ecerae	Ecerae	PROPN	propn	_	1	flat	_	_
@@ -4561,57 +4167,15 @@
 8	Oi	o	NOUN	n	VerbForm=Ger	5	parataxis	_	_
 9	!	!	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 414
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 415
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 416
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 417
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 418
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 419
-# text = Iwororo ...
-1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 420
-# text = Iwororo ...
-1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	0	root	_	_
-2	...	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 421
+# sent_id = adugo_biri-0431
 # text = Iwororo Urugudu Bororo !
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Urugudu	Urugudu	PROPN	propn	_	0	root	_	_
 3	Bororo	Bororo	PROPN	propn	_	2	flat	_	_
 4	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 422
-# text = Iwororo Urugudu Bororo !
-1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	Urugudu	Urugudu	PROPN	propn	_	0	root	_	_
-3	Bororo	Bororo	PROPN	propn	_	2	flat	_	_
-4	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 423
+# sent_id = adugo_biri-0433
 # text = Iwororo Urugudu Bororo aiduia itugarege enawu ikudawu ai .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Urugudu	Urugudu	PROPN	propn	_	4	nsubj	_	_
@@ -4623,69 +4187,48 @@
 8	ai	ai	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 424
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 425
-# text = Ai o ... ! Ai o ... ! Ai o ... ! !'Oino .
+# sent_id = adugo_biri-0435
+# text = Ai o ... !
+1	Ai	Ai	PROPN	propn	_	0	root	_	_
+2	o	_	PROPN	propn	_	1	flat	_	_
+3	...	...	PUNCT	punct	_	1	punct	_	_
+4	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = adugo_biri-0436
+# text = Ai o ... ! Ai o ... ! !'Oino .
 1	Ai	Ai	PROPN	propn	_	0	root	_	_
 2	o	_	PROPN	propn	_	1	nmod	_	_
 3	...	...	PUNCT	punct	_	1	punct	_	_
 4	!	!	PUNCT	punct	_	1	punct	_	_
 5	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	6	nsubj	_	_
 6	o	o	VERB	v	_	1	parataxis	_	_
-7	...	...	PUNCT	punct	_	10	punct	_	_
-8	!	!	PUNCT	punct	_	10	punct	_	_
-9	Ai	a	PRON	bi	Number=Sing|Person=2|VerbForm=Ger	10	nsubj	_	_
-10	o	o	VERB	v	_	6	parataxis	_	_
-11	...	...	PUNCT	punct	_	10	punct	_	_
-12	!	!	PUNCT	punct	_	10	punct	_	_
-13	!'Oino	_	ADV	adv	_	10	advmod	_	_
-14	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n\r\n
+7	...	...	PUNCT	punct	_	6	punct	_	_
+8	!	!	PUNCT	punct	_	6	punct	_	_
+9	!'Oino	_	ADV	adv	_	6	advmod	_	_
+10	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 426
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
+# sent_id = adugo_biri-0437
+# text = Ca ! Woere , Paiwe eiore woe .
+1	Ca	ca	INTJ	intj	_	3	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Woere	Woere	INTJ	intj	_	6	advmod	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	Paiwe	Paiwe	NOUN	n	_	6	nsubj	_	_
+6	eiore	joio	NOUN	n	Mood=Ind|Number=Plur|Person=3|Poss=Yes	0	root	_	_
+7	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	6	advmod	_	_
+8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 427
-# text = Woere , Paiwe eiore woe .
-1	Woere	Woere	INTJ	intj	_	4	discourse	_	_
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	Paiwe	Paiwe	NOUN	n	_	4	nsubj	_	_
-4	eiore	joio	NOUN	n	Mood=Ind|Number=Plur|Person=3|Poss=Yes	0	root	_	_
-5	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	4	advmod	_	_
-6	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 428
-# text = Paiwe egore Oi !
+# sent_id = adugo_biri-0438
+# text = Paiwe egore .Oi !
 1	Paiwe	Paiwe	NOUN	n	_	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-3	Oi	Oi	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	.Oi	.Oi	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 4	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 429
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 430
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 431
-# text = Oi !
-1	Oi	o	VERB	v	VerbForm=Ger	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 432
+# sent_id = adugo_biri-0442
 # text = Iwororo aiduia itugarege enawu ikudawu ai .
 1	Iwororo	Iwororo	ADV	adv	Polarity=Neg	4	advmod	_	_
 2	aiduia	iduia	DET	_	Definite=Ind|PronType=Art	3	det	_	_
@@ -4695,7 +4238,7 @@
 6	ai	ai	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 433
+# sent_id = adugo_biri-0443
 # text = Ooo ... ! Ooo ...
 1	Ooo	Ooo	INTJ	intj	_	4	discourse	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
@@ -4704,7 +4247,7 @@
 5	...	...	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 434
+# sent_id = adugo_biri-0444
 # text = IwororoArigao Bororo aiduia itugarege enawu ikudawu ai .
 1	IwororoArigao	IwororoArigao	PROPN	propn	_	5	nsubj	_	_
 2	Bororo	Bororo	PROPN	propn	_	1	flat	_	_
@@ -4715,13 +4258,7 @@
 7	ai	ai	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 435
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 436
+# sent_id = adugo_biri-0446
 # text = Ai o ... ! Ai o ... !
 1	Ai	Ai	PROPN	propn	_	0	root	_	_
 2	o	_	PROPN	propn	_	1	nmod	_	_
@@ -4733,13 +4270,13 @@
 8	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 437
-# text = Apiborege egore
+# sent_id = adugo_biri-0447
+# text = Apiborege egore .
 1	Apiborege	Apiborogo	NOUN	n	Number=Plur	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n\r\n
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 438
+# sent_id = adugo_biri-0448
 # text = Iwororo Apibo Bororo aiduia itugarege enawu ikudawu ai .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Apibo	Apibo	PROPN	propn	_	4	nsubj	_	_
@@ -4751,32 +4288,7 @@
 8	ai	ai	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 439
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 440
-# text = Iwororo Apibo Bororo aiduia itugarege enawu ikudawu ai .
-1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
-2	Apibo	Apibo	PROPN	propn	_	4	nsubj	_	_
-3	Bororo	Bororo	PROPN	propn	_	2	flat	_	_
-4	aiduia	iduia	DET	_	Definite=Ind|PronType=Art	5	det	_	_
-5	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	6	nsubj	_	_
-6	enawu	nawu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-7	ikudawu	kudawu	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	6	obl	_	_
-8	ai	ai	ADP	posp	Number=Sing|Person=3	7	case	_	_
-9	.	.	PUNCT	punct	_	6	punct	_	_
-
-# sent_id = 441
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 442
+# sent_id = adugo_biri-0452
 # text = Ai o ... ! Wo ... !
 1	Ai	Ai	PROPN	propn	_	2	nsubj	_	_
 2	o	_	PROPN	propn	_	0	root	_	_
@@ -4787,67 +4299,35 @@
 7	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 443
-# text = Iwagududoge egore
+# sent_id = adugo_biri-0453
+# text = Iwagududoge egore .
 1	Iwagududoge	Iwagudu	NOUN	n	Number=Plur	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n\r\n
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\r\n
 
-# newpar
-# sent_id = 444
-# text = IwororoArigao Bororo aiduia itugarege enawu ikudawu ai .
-1	IwororoArigao	IwororoArigao	PROPN	propn	_	5	nsubj	_	_
-2	Bororo	Bororo	PROPN	propn	_	1	flat	_	_
-3	aiduia	iduia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
-4	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	5	nsubj	_	_
-5	enawu	nawu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-6	ikudawu	kudawu	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obl	_	_
-7	ai	ai	ADP	posp	Number=Sing|Person=3	6	case	_	_
-8	.	.	PUNCT	punct	_	5	punct	_	_
-
-# sent_id = 445
+# sent_id = adugo_biri-0455
 # text = Coo ... !
 1	Coo	Coo	INTJ	intj	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 446
-# text = IwororoArigao Bororo aiduia itugarege enawu ikudawu ai .
-1	IwororoArigao	IwororoArigao	PROPN	propn	_	5	nsubj	_	_
-2	Bororo	Bororo	PROPN	propn	_	1	flat	_	_
-3	aiduia	iduia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
-4	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	5	nsubj	_	_
-5	enawu	nawu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-6	ikudawu	kudawu	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obl	_	_
-7	ai	ai	ADP	posp	Number=Sing|Person=3	6	case	_	_
-8	.	.	PUNCT	punct	_	5	punct	_	_
-
-# sent_id = 447
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
+# sent_id = adugo_biri-0459
+# text = Wo ... !
+1	Wo	wo	INTJ	intj	_	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 448
-# text = Ai o ... ! Wo ... !
-1	Ai	Ai	PROPN	propn	_	2	nsubj	_	_
-2	o	_	PROPN	propn	_	0	root	_	_
-3	...	...	PUNCT	punct	_	2	punct	_	_
-4	!	!	PUNCT	punct	_	2	punct	_	_
-5	Wo	wo	INTJ	intj	_	2	parataxis	_	_
-6	...	...	PUNCT	punct	_	5	punct	_	_
-7	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
+3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 449
-# text = Aroroe egore Ooo ...
+# sent_id = adugo_biri-0460
+# text = Aroroe egore ... Ooo ...
 1	Aroroe	aroroe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\s
-3	Ooo	Ooo	INTJ	intj	_	2	ccomp	_	_
-4	...	...	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	...	_	PUNCT	punct	_	2	punct	_	_
+4	Ooo	Ooo	INTJ	intj	_	2	ccomp	_	_
+5	...	...	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 450
+# sent_id = adugo_biri-0461
 # text = Iwororo Arua Bororo aiduia itugarege enawu ikudawu ai .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Arua	Arua	PROPN	propn	_	4	nsubj	_	_
@@ -4859,14 +4339,8 @@
 8	ai	ai	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 451
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 452
+# sent_id = adugo_biri-0463
 # text = Iwororo Batugubo Bororo aiduia itugarege enawu ikudawu ai .
 1	Iwororo	wororo	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nsubj	_	_
 2	Batugubo	_	PROPN	propn	_	4	nsubj	_	_
@@ -4878,13 +4352,7 @@
 8	ai	ai	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 453
-# text = Ooo ... !
-1	Ooo	Ooo	INTJ	intj	_	0	root	_	_
-2	...	...	PUNCT	punct	_	1	punct	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 454
+# sent_id = adugo_biri-0465
 # text = Ai o ... ! Ai o ... ! Wo ... !
 1	Ai	Ai	PROPN	propn	_	0	root	_	_
 2	o	_	PROPN	propn	_	1	flat	_	_
@@ -4898,24 +4366,21 @@
 10	...	...	PUNCT	punct	_	9	punct	_	_
 11	!	!	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 455
+# sent_id = adugo_biri-0466
 # text = !'
 1	!'	!'	PUNCT	punct	_	0	root	_	SpacesAfter=\r\n
 
-# sent_id = 456
-# text = Oino Boe egore Nowu barege ewadaru reo .
-1	Oino	oino	ADV	adv	_	3	advmod	_	_
-2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
-3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\r\n
-4	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	7	det	_	_
-5	barege	barege	NOUN	n	_	6	nmod	_	_
-6	ewadaru	_	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	7	nsubj	_	_
-7	reo	reo	AUX	cop	_	3	punct	_	_
-8	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
+# sent_id = adugo_biri-0468
+# text = Nowu barege ewadaru reo .
+1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	4	det	_	_
+2	barege	barege	NOUN	n	_	3	nmod	_	_
+3	ewadaru	wadaru	NOUN	n	Number=Plur|Person=3	4	nsubj	_	_
+4	reo	reo	AUX	cop	_	0	root	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 457
-# text = Nowu barege ewureagurudodu , boere barogo bureagurudo , boere aigo bureagurudo , imedu mori rabodu , aredu mori rabodu , du boe egore Ca !
+# sent_id = adugo_biri-0469
+# text = Nowu barege ewureagurudodu , boere barogo bureagurudo , boere aigo bureagurudo , imedu mori rabodu , aredu mori rabodu , du boe egore .Ca !
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	barege	barege	NOUN	n	_	3	nsubj	_	_
 3	ewureagurudodu	wureagurudodu	VERB	v	Number=Plur|Person=3	0	root	_	_
@@ -4938,53 +4403,26 @@
 20	,	,	PUNCT	punct	_	23	punct	_	_
 21	du	du	ADV	adv	_	23	advmod	_	_
 22	boe	boe	NOUN	n	_	23	nsubj	_	_
-23	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	SpacesAfter=\s\r\n
-24	Ca	ca	INTJ	intj	_	23	ccomp	_	_
+23	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+24	.Ca	.ca	INTJ	intj	_	23	ccomp	_	_
 25	!	!	PUNCT	punct	_	24	punct	_	_
 
-# sent_id = 458
-# text = Emareo , emareo , emareo , emareo !
-1	Emareo	mareo	VERB	v	Number=Plur|Person=3	0	root	_	_
-2	,	,	PUNCT	punct	_	3	punct	_	_
-3	emareo	mareo	VERB	v	Number=Plur|Person=3	1	parataxis	_	_
-4	,	,	PUNCT	punct	_	5	punct	_	_
-5	emareo	mareo	VERB	v	Number=Plur|Person=3	3	parataxis	_	_
-6	,	,	PUNCT	punct	_	7	punct	_	_
-7	emareo	mareo	VERB	v	Number=Plur|Person=3	5	parataxis	_	_
-8	!	!	PUNCT	punct	_	7	punct	_	_
+# sent_id = adugo_biri-0473
+# text = Ace , atuie mori akudawu aigo reo !
+1	Ace	Acewy	DET	dem	Deixis=Remt|Number=Sing|PronType=Dem	6	det	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	atuie	tuie	NOUN	n	_	4	nmod	_	_
+4	mori	_	NOUN	n	_	5	nmod	_	_
+5	akudawu	_	NOUN	n	_	6	nmod	_	_
+6	aigo	aigo	NOUN	n	_	7	nsubj	_	_
+7	reo	reo	AUX	cop	_	0	root	_	_
+8	!	_	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 459
-# text = Oino boe egore .
-1	Oino	oino	ADV	adv	_	3	advmod	_	_
-2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
-3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-4	.	.	PUNCT	punct	_	3	punct	_	_
-
-# sent_id = 460
-# text = Boe egore Ace , atuie mori akudawu aigo reo !
+# sent_id = adugo_biri-0475
+# text = Boe egore .Ace , atuie mori akudawu , akuie adugo reo !
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-3	Ace	Ace	ADP	posp	Number=Sing|Person=3	2	obl	_	_
-4	,	,	PUNCT	punct	_	2	punct	_	_
-5	atuie	tuie	NOUN	n	_	6	nmod	_	_
-6	mori	_	NOUN	n	_	7	nmod	_	_
-7	akudawu	_	NOUN	n	_	8	nsubj	_	_
-8	aigo	aigo	NOUN	n	_	2	ccomp	_	_
-9	reo	reo	AUX	cop	_	2	ccomp	_	_
-10	!	_	PUNCT	punct	_	2	punct	_	_
-
-# sent_id = 461
-# text = Oino boe egore .
-1	Oino	oino	ADV	adv	_	3	advmod	_	_
-2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
-3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 462
-# text = Boe egore Ace , atuie mori akudawu , akuie adugo reo !
-1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
-2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-3	Ace	Ace	ADP	posp	Number=Sing|Person=3	2	obl	_	_
+2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	.Ace	.Ace	ADP	posp	Number=Sing|Person=3	2	obl	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	atuie	tuie	NOUN	n	_	6	nmod	_	_
 6	mori	_	NOUN	n	_	7	nsubj	_	_
@@ -4995,7 +4433,7 @@
 11	reo	reo	AUX	cop	_	7	parataxis	_	_
 12	!	_	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 463
+# sent_id = adugo_biri-0476
 # text = Ino boe egore .
 1	Ino	o	NOUN	n	Number=Sing|Person=1	3	nsubj	_	_
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -5003,7 +4441,7 @@
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 464
+# sent_id = adugo_biri-0477
 # text = Boe egore aipobureuji jamedu .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -5011,23 +4449,23 @@
 4	jamedu	jamedu	ADV	adv	_	2	advmod	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 465
+# sent_id = adugo_biri-0478
 # text = Boere aipoborewu bureagudo .
 1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	_
 2	aipoborewu	_	NOUN	n	_	3	obj	_	_
 3	bureagudo	bureagu	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 466
-# text = Egore Kae gae gae gae !
-1	Egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-2	Kae	ae	ADP	posp	Number=Sing|Person=1	1	obl	_	_
-3	gae	gae	NOUN	n	_	4	nmod	_	_
+# sent_id = adugo_biri-0479
+# text = Egore .Kae gae gae gae !
+1	Egore	Egore	PROPN	propn	_	5	nsubj	_	_
+2	.Kae	.Kae	PROPN	propn	_	1	flat	_	_
+3	gae	gae	NOUN	n	_	5	nsubj	_	_
 4	gae	gae	NOUN	n	_	5	nsubj	_	_
-5	gae	gae	VERB	v	_	1	ccomp	_	_
-6	!	_	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
+5	gae	gae	VERB	v	_	0	root	_	_
+6	!	_	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 467
+# sent_id = adugo_biri-0480
 # text = Emareo , emareo , emareo !
 1	Emareo	mareo	VERB	v	Number=Plur|Person=3	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -5036,7 +4474,7 @@
 5	emareo	mareo	VERB	v	Number=Plur|Person=3	3	parataxis	_	_
 6	!	!	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 468
+# sent_id = adugo_biri-0481
 # text = Ace , atuie mori akudawu aipoburewu reo !
 1	Ace	Acewy	DET	dem	Deixis=Remt|Number=Sing|PronType=Dem	6	det	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -5047,7 +4485,7 @@
 7	reo	reo	AUX	cop	_	0	root	_	_
 8	!	_	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 469
+# sent_id = adugo_biri-0482
 # text = Akuie aipoburewu reo !
 1	Akuie	~_~akuie	VERB	v	Irr=Yes|Mood=Irr|Number=Sing|Person=2|Speech=Ind	0	root	_	_
 2	aipoburewu	aipobu	ADJ	adj	Nomzr=Rel	1	obl	_	_
@@ -5055,7 +4493,7 @@
 4	!	_	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 470
+# sent_id = adugo_biri-0483
 # text = Mare marigudu awu adugo , aigo , adugo o , padure tu aroe etujemage ewugeje , urororewu aredu keje , nogwaredu keje .
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	marigudu	marigudu	ADV	adv	_	1	advmod	_	_
@@ -5081,27 +4519,22 @@
 22	keje	keje	ADP	posp	_	21	case	_	_
 23	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 471
-# text = Dukodire boe egore Kae gae gae gae !
+# sent_id = adugo_biri-0484
+# text = Dukodire boe egore .
 1	Dukodire	_	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
-3	egore	_	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-4	Kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	_
-5	gae	gae	NOUN	n	_	6	nmod	_	_
-6	gae	gae	NOUN	n	_	7	nsubj	_	_
-7	gae	gae	VERB	v	_	3	ccomp	_	_
-8	!	_	PUNCT	punct	_	3	punct	_	_
+3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	SpaceAfter=No
 
-# sent_id = 472
-# text = Emareo , emareo , emareo !
-1	Emareo	mareo	VERB	v	Number=Plur|Person=3	0	root	_	_
-2	,	,	PUNCT	punct	_	3	punct	_	_
-3	emareo	mareo	VERB	v	Number=Plur|Person=3	1	parataxis	_	_
-4	,	,	PUNCT	punct	_	3	punct	_	_
-5	emareo	mareo	VERB	v	Number=Plur|Person=3	3	parataxis	_	_
-6	!	!	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
+# sent_id = adugo_biri-0485
+# text = Kae gae gae gae !
+1	Kae	ai	ADP	n	Number=Sing|Person=3	4	nsubj	_	_
+2	gae	gae	NOUN	n	_	3	nmod	_	_
+3	gae	gae	NOUN	n	_	4	nsubj	_	_
+4	gae	gae	VERB	v	_	0	root	_	_
+5	!	_	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 473
+# sent_id = adugo_biri-0487
 # text = Atuie , awie mori akudawu , akuie , aigo reo !
 1	Atuie	~_~atuie	VERB	v	Irr=Yes|Mood=Irr|Number=Sing|Person=2|Speech=Ind	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -5115,7 +4548,7 @@
 10	reo	reo	AUX	cop	_	9	punct	_	_
 11	!	_	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 474
+# sent_id = adugo_biri-0488
 # text = Kaawadu aigo reo !
 1	Kaawadu	_	NOUN	n	_	2	nsubj	_	_
 2	aigo	aigo	NOUN	n	_	3	nsubj	_	_
@@ -5123,7 +4556,7 @@
 4	!	_	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 475
+# sent_id = adugo_biri-0489
 # text = Aigo biri kogure Boe etao gajeje kodi .
 1	Aigo	aigo	PROPN	propn	_	3	nsubj	_	_
 2	biri	biri	NOUN	n	Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
@@ -5134,13 +4567,13 @@
 7	kodi	kodi	SCONJ	sconj	_	3	advmod	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 476
+# sent_id = adugo_biri-0490
 # text = Mare ca !
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	ca	_	INTJ	_	_	1	obl	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 477
+# sent_id = adugo_biri-0491
 # text = Nowu aigo ó padure tu aredu , nogwaredu keje kodi jamedu .
 1	Nowu	_	PROPN	propn	_	2	nsubj	_	_
 2	aigo	_	PROPN	propn	_	3	nmod	_	_
@@ -5155,14 +4588,14 @@
 11	jamedu	jamedu	ADV	adv	_	0	root	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 478
+# sent_id = adugo_biri-0492
 # text = Dukodire boe egoino .
 1	Dukodire	_	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
 3	egoino	_	VERB	v	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 479
+# sent_id = adugo_biri-0493
 # text = Awu oino rema , oinore icare .
 1	Awu	awu	ADV	adv	_	3	advmod	_	_
 2	oino	oino	ADV	adv	_	3	advmod	_	_
@@ -5172,7 +4605,7 @@
 6	icare	icare	ADV	adv	_	3	parataxis	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 480
+# sent_id = adugo_biri-0494
 # text = Awu oino maigoduboe pemegare .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	oino	_	ADV	adv	_	4	advmod	_	_
@@ -5180,31 +4613,34 @@
 4	pemegare	pemega	VERB	verb	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 481
+# sent_id = adugo_biri-0495
 # text = Pemegare rugadu .
 1	Pemegare	pemega	VERB	verb	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	rugadu	rugadu	ADV	adv	_	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 482
-# text = Awu boere nowu rogu bureagududo tu je . du boe egore Kae gae gae !
+# sent_id = adugo_biri-0496
+# text = Awu boere nowu rogu bureagududo tu je .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	boere	boedy	NOUN	n	_	5	nsubj	_	_
-3	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	5	det	_	_
+3	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	4	det	_	_
 4	rogu	_	NOUN	n	Degree=Dim	5	nsubj	_	_
 5	bureagududo	jebureagudu	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
 6	tu	tu	ADV	adv	_	5	advmod	_	_
 7	je	je	ADV	adv	_	5	advmod	_	_
 8	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
-9	du	du	ADV	adv	_	11	advmod	_	_
-10	boe	boe	NOUN	n	Number=Plur	11	nsubj	_	_
-11	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	SpacesAfter=\s\r\n
-12	Kae	kae	ADP	posp	Number=Sing|Person=3	11	obl	_	_
-13	gae	gae	NOUN	n	Number=Sing	14	nmod	_	_
-14	gae	gae	NOUN	n	_	11	obl	_	_
-15	!	!	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 483
+# sent_id = adugo_biri-0497
+# text = Du boe egore .Kae gae gae !
+1	Du	du	ADV	adv	_	3	advmod	_	_
+2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
+3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	.Kae	.Kae	PROPN	propn	_	6	nmod	_	_
+5	gae	gae	PROPN	propn	_	4	flat	_	_
+6	gae	gae	NOUN	n	_	3	ccomp	_	_
+7	!	!	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
+
+# sent_id = adugo_biri-0498
 # text = Oino nowu ture buregurudo jiwuji .
 1	Oino	oino	ADV	adv	_	3	advmod	_	_
 2	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	3	det	_	_
@@ -5213,26 +4649,20 @@
 5	jiwuji	_	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 484
+# sent_id = adugo_biri-0499
 # text = Akudawu adugo reo !
 1	Akudawu	akudawy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	adugo	adugo	NOUN	n	_	3	nsubj	_	_
 3	reo	reo	AUX	cop	_	0	root	_	_
 4	!	_	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 485
+# sent_id = adugo_biri-0500
 # text = Akudawu reo !
 1	Akudawu	akudawy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	reo	reo	AUX	cop	_	0	root	_	_
 3	!	_	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 486
-# text = Akudawu reo !
-1	Akudawu	akudawy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
-2	reo	reo	AUX	cop	_	0	root	_	_
-3	!	_	PUNCT	punct	_	2	punct	_	_
-
-# sent_id = 487
+# sent_id = adugo_biri-0502
 # text = Jewu aedaga , amaná mori akudawu adugo reo !
 1	Jewu	jewu	NOUN	n	_	2	nsubj	_	_
 2	aedaga	edaga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	3	nsubj	_	_
@@ -5244,14 +4674,14 @@
 8	reo	reo	AUX	cop	_	0	root	_	_
 9	!	_	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 488
+# sent_id = adugo_biri-0503
 # text = Oino tu je .
 1	Oino	oino	ADV	adv	_	2	advmod	_	_
 2	tu	tu	ADV	adv	_	0	root	_	_
 3	je	je	ADV	adv	_	2	advmod	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 489
+# sent_id = adugo_biri-0504
 # text = U ! Nowu boere adugo biri tawu je .
 1	U	u	INTJ	intj	_	7	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -5263,12 +4693,7 @@
 8	je	ty	ADV	adv	_	7	advmod	_	_
 9	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 490
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 491
+# sent_id = adugo_biri-0506
 # text = Icare nowu boere biri tawu je , icare boere jaido pugeje , boe ere jaido jii je .
 1	Icare	icare	ADV	adv	Mood=Ind	5	advmod	_	_
 2	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	5	nsubj	_	_
@@ -5289,16 +4714,14 @@
 17	je	je	ADV	adv	_	15	advmod	_	_
 18	.	.	PUNCT	punct	_	15	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 492
-# text = Ca ! Nono boe eragodure .
-1	Ca	ca	INTJ	intj	_	5	discourse	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-3	Nono	~_~nono	ADV	adv	_	5	advmod	_	_
-4	boe	boe	NOUN	n	_	5	nsubj	_	_
-5	eragodure	ragodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
+# sent_id = adugo_biri-0508
+# text = Nono boe eragodure .
+1	Nono	~_~nono	NOUN	n	Number=Plur|Person=1	3	nsubj	_	_
+2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
+3	eragodure	ragodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 493
+# sent_id = adugo_biri-0509
 # text = Nowu barege ewugejeboe makaguragare .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	3	det	_	_
 2	barege	barege	NOUN	n	_	3	nsubj	_	_
@@ -5306,7 +4729,7 @@
 4	makaguragare	makaguragare	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 494
+# sent_id = adugo_biri-0510
 # text = Mare nono icare boe eragodure Cibae Tawaduji .
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	nono	nono	ADV	adv	_	5	advmod	_	_
@@ -5317,7 +4740,7 @@
 7	Tawaduji	_	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 495
+# sent_id = adugo_biri-0511
 # text = Braedu Kukuri boe etaidure , boe eegarere .
 1	Braedu	Braedu	PROPN	propn	_	4	nsubj	_	_
 2	Kukuri	_	PROPN	propn	_	1	flat	_	_
@@ -5328,7 +4751,7 @@
 7	eegarere	_	PRON	bi	Mood=Ind|Number=Plur|Person=3	4	parataxis	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 496
+# sent_id = adugo_biri-0512
 # text = Dukodire boere Braedu Kukuri do pudumi .
 1	Dukodire	_	ADV	adv	_	3	advmod	_	_
 2	boere	boedy	NOUN	n	_	3	nsubj	_	_
@@ -5338,7 +4761,7 @@
 6	pudumi	_	PRON	pron	PronType=Prs|Reflex=Yes	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 497
+# sent_id = adugo_biri-0513
 # text = Ia boere Braedu Kukuri arego mato , ia toe tabo , ia tuge meá tabo .
 1	Ia	ia	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	boere	boedy	NOUN	n	_	3	nsubj	_	_
@@ -5357,7 +4780,7 @@
 15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 498
+# sent_id = adugo_biri-0514
 # text = Ure maku boe etai , tu oino .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	maku	maku	VERB	v	Number=Sing|Person=3	0	root	_	_
@@ -5368,12 +4791,7 @@
 7	oino	oino	ADV	adv	AdvType=Man	6	advmod	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 499
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 500
+# sent_id = adugo_biri-0516
 # text = Nonore boe eegarere , boe etaidure nono , nowu inoduji .
 1	Nonore	nonore	ADV	adv	_	6	advmod	_	_
 2	boe	boe	NOUN	n	_	6	nsubj	_	_
@@ -5387,25 +4805,20 @@
 10	inoduji	noduji	NOUN	n	Number=Sing|Person=1	6	obl	_	_
 11	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 501
+# sent_id = adugo_biri-0517
 # text = Oino Ca !
 1	Oino	oino	ADV	adv	_	2	advmod	_	_
 2	Ca	~_~ca	PART	_	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 502
+# sent_id = adugo_biri-0518
 # text = Nowu inodu akedure .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	inodu	inodu	NOUN	n	Number=Sing	3	nsubj	_	_
 3	akedure	akedu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 503
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 504
+# sent_id = adugo_biri-0520
 # text = Boe epagare toro ji toro .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	epagare	paga	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -5414,18 +4827,13 @@
 5	toro	toro	ADV	adv	Deixis=Remt	2	advmod	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 505
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 506
+# sent_id = adugo_biri-0522
 # text = Pugeje ka !
 1	Pugeje	pugeje	ADV	adv	_	2	advmod	_	_
 2	ka	_	ADV	adv	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 507
+# sent_id = adugo_biri-0523
 # text = Nonore icare boe emaragodugodure ji .
 1	Nonore	nono	ADV	adv	Mood=Ind	4	advmod	_	_
 2	icare	icare	ADV	adv	_	4	advmod	_	_
@@ -5434,7 +4842,7 @@
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 508
+# sent_id = adugo_biri-0524
 # text = Boere nowu adugo kujagudo , aigo kujagudo .
 1	Boere	boe	ADV	adv	Mood=Ind	4	advmod	_	_
 2	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	4	det	_	_
@@ -5445,13 +4853,7 @@
 7	kujagudo	kujagudo	VERB	v	_	0	root	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 509
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 510
+# sent_id = adugo_biri-0526
 # text = Nonore icare boe ewoadodure areme eiamedu ae areme eiameduwo toedo , ewo toedo noidoiace , apidoiace , apeo kodu , no kodu , ako kodu , nowu inodu boe ji .
 1	Nonore	nono	ADV	adv	Mood=Ind	4	advmod	_	_
 2	icare	icare	ADV	adv	_	4	advmod	_	_
@@ -5485,7 +4887,7 @@
 30	ji	ji	ADP	posp	Number=Sing|Person=3	29	case	_	_
 31	.	.	PUNCT	punct	_	27	punct	_	_
 
-# sent_id = 511
+# sent_id = adugo_biri-0527
 # text = Nowu boe eroiwareuge enoroere tu ... Aroe amirewu , aroe kuru , du pegakare .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	3	det	_	_
 2	boe	boe	NOUN	n	_	3	nmod	_	_
@@ -5503,7 +4905,7 @@
 14	pegakare	pega	VERB	v	Mood=Ind	8	parataxis	_	_
 15	.	.	PUNCT	punct	_	14	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 512
+# sent_id = adugo_biri-0528
 # text = Marigudu awu inodure rugadu .
 1	Marigudu	marigudu	ADV	adv	_	3	advmod	_	_
 2	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
@@ -5511,18 +4913,13 @@
 4	rugadu	rugadu	ADV	adv	_	3	advmod	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 513
+# sent_id = adugo_biri-0529
 # text = Du pegakare .
 1	Du	Du	NOUN	n	Number=Sing	2	nsubj	_	_
 2	pegakare	pega	VERB	v	Mood=Ind	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 514
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 515
+# sent_id = adugo_biri-0531
 # text = Nonore icare , tugarege eno remagudure ceraei .
 1	Nonore	nono	ADV	adv	Mood=Ind	2	advmod	_	_
 2	icare	icare	ADV	adv	_	6	advmod	_	_
@@ -5533,20 +4930,20 @@
 7	ceraei	ceraei	ADP	posp	Number=Sing|Person=3	6	obl	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 516
-# text = du kodire ceraere toe kurido , tugaregere toe kurido .
-1	du	_	VERB	v	_	2	advmod	_	_
-2	kodire	kodi	SCONJ	sconj	Mood=Ind	5	advmod	_	_
-3	ceraere	cerae	ADV	adv	_	5	advmod	_	_
+# sent_id = adugo_biri-0532
+# text = Du kodire ceraere toe kurido , tugaregere toe kurido .
+1	Du	Du	VERB	v	Number=Sing|Person=3	5	advmod	_	_
+2	kodire	kodi	ADV	adv	Mood=Ind	1	advmod	_	_
+3	ceraere	cerae	SCONJ	sconj	Mood=Ind	5	advmod	_	_
 4	toe	toe	NOUN	n	_	5	nsubj	_	_
-5	kurido	kuri	VERB	v	Voice=Cau	0	root	_	_
+5	kurido	kuri	VERB	v	Voice=Cau	9	advmod	_	_
 6	,	,	PUNCT	punct	_	9	punct	_	_
 7	tugaregere	_	NOUN	n	_	8	nmod	_	_
 8	toe	toe	NOUN	n	_	9	nsubj	_	_
-9	kurido	kuri	VERB	v	Voice=Cau	5	parataxis	_	_
+9	kurido	kuri	VERB	v	Voice=Cau	0	root	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 517
+# sent_id = adugo_biri-0533
 # text = Dukodire icare ... Nowu bai tadare icare awu cerae enoe makudure tugarege etai , tugarege enoe makudure cerae etai puibagi . Awu ime , awu inodu jire boe egore areme ewororoi puaedu ieo .
 1	Dukodire	_	ADV	adv	_	2	advmod	_	_
 2	icare	icare	ADV	adv	_	6	advmod	_	_
@@ -5583,7 +4980,7 @@
 33	ieo	_	PRON	_	Number=Plur|Person=2	32	nsubj	_	_
 34	.	.	PUNCT	punct	_	32	punct	_	_
 
-# sent_id = 518
+# sent_id = adugo_biri-0534
 # text = Awu inodu reo , awu barege ekedodu .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	inodu	inodu	NOUN	n	_	3	nsubj	_	_
@@ -5594,7 +4991,7 @@
 7	ekedodu	kedodu	VERB	v	Number=Plur|Person=3	3	parataxis	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 519
+# sent_id = adugo_biri-0535
 # text = Kode ime rema , eke ariare mito tu je , noidoia kuru rogu tabo tu je .
 1	Kode	kode	ADV	adv	_	2	advmod	_	_
 2	ime	ime	PROPN	propn	_	3	nsubj	_	_
@@ -5614,14 +5011,14 @@
 16	je	je	ADV	adv	_	7	advmod	_	_
 17	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 520
+# sent_id = adugo_biri-0536
 # text = Mito tu je .
 1	Mito	Mi	VERB	vc	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 2	tu	tu	ADV	adv	_	1	advmod	_	_
 3	je	je	ADV	adv	_	1	advmod	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 521
+# sent_id = adugo_biri-0537
 # text = Ure ino tugarege etai jamedu , eke meture tadawu ariare mito tu je .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	ino	ino	ADV	adv	_	3	advmod	_	_
@@ -5638,7 +5035,7 @@
 13	je	je	ADV	adv	_	11	advmod	_	_
 14	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 522
+# sent_id = adugo_biri-0538
 # text = Areme rugadure , U !
 1	Areme	aredy	NOUN	n	_	2	nsubj	_	_
 2	rugadure	_	VERB	v	_	0	root	_	_
@@ -5646,14 +5043,14 @@
 4	U	u	INTJ	intj	_	2	advmod	_	_
 5	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 523
+# sent_id = adugo_biri-0539
 # text = Enogwagere boeji rugadu .
 1	Enogwagere	Enogwage	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	boeji	boeji	X	x	_	1	dep	_	_
 3	rugadu	rugadu	ADV	adv	_	1	advmod	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 524
+# sent_id = adugo_biri-0540
 # text = Oino boe remawu ge erore .
 1	Oino	oino	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -5662,7 +5059,7 @@
 5	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 525
+# sent_id = adugo_biri-0541
 # text = Kodire awu inodu jire boe egore , awu barege ekedodu kejere boe egore areme ewororoi pudaedu ieo .
 1	Kodire	kodire	ADV	adv	Mood=Ind	6	advmod	_	_
 2	awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
@@ -5683,12 +5080,7 @@
 17	ieo	_	PRON	_	Number=Plur|Person=2	16	nsubj	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	_
 
-# sent_id = 526
-# text = Oino .
-1	Oino	oino	ADV	adv	_	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 527
+# sent_id = adugo_biri-0543
 # text = Kodire tugaregere toedo , ere toe kurido , ere toe makado .
 1	Kodire	kodire	ADV	adv	_	3	advmod	_	_
 2	tugaregere	_	NOUN	n	_	3	nsubj	_	_
@@ -5703,7 +5095,7 @@
 11	makado	makado	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 528
+# sent_id = adugo_biri-0544
 # text = Cerae erore oino jamedu .
 1	Cerae	Cerae	NOUN	n	_	2	nsubj	_	_
 2	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -5711,12 +5103,7 @@
 4	jamedu	jamedu	ADV	adv	_	2	advmod	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 529
-# text = Oino .
-1	Oino	oino	ADV	adv	_	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 530
+# sent_id = adugo_biri-0546
 # text = Kodire Boe remawu ge egore Areme ewororoi pudaedu ieo .
 1	Kodire	kodire	ADV	adv	_	3	advmod	_	_
 2	Boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -5729,12 +5116,7 @@
 9	ieo	_	PRON	_	Number=Plur|Person=2	5	ccomp	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 531
-# text = Oino .
-1	Oino	oino	ADV	adv	_	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 532
+# sent_id = adugo_biri-0548
 # text = Boe eiamedu boe to pudogi , pudogi , pudogi , toe tabo .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
 2	eiamedu	iamedu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -5750,7 +5132,7 @@
 12	tabo	apo	ADP	posp	Number=Sing|Person=3	11	case	_	_
 13	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 533
+# sent_id = adugo_biri-0549
 # text = Cerae eregodure tu tugarege enoe togi , Tugarege eregodure Cerae enoe togi jamedu .
 1	Cerae	Ceraedy	NOUN	n	Number=Plur	2	nsubj	_	_
 2	eregodure	regodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -5767,17 +5149,12 @@
 13	jamedu	jamedu	ADV	adv	_	9	advmod	_	_
 14	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 534
+# sent_id = adugo_biri-0550
 # text = Puibagi .
 1	Puibagi	Puibagi	PRON	pron	Clusivity=In|Number[obj]=Plur|Person[obj]=1|PronType=Prs	0	root	_	_
 2	.	_	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 535
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 536
+# sent_id = adugo_biri-0552
 # text = Nowu barogo , boe maragodogodure jitudu , boere kujagudo .
 1	Nowu	_	PROPN	propn	_	5	nsubj	_	_
 2	barogo	barogo	PROPN	propn	_	1	flat	_	_
@@ -5790,14 +5167,14 @@
 9	kujagudo	kujagudo	VERB	v	_	5	parataxis	_	_
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 537
+# sent_id = adugo_biri-0553
 # text = Boere adugo kujagudo .
 1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	_
 2	adugo	adugo	NOUN	n	_	3	nsubj	_	_
 3	kujagudo	kujagu	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 538
+# sent_id = adugo_biri-0554
 # text = Ere kujagudo tu je , icare boe ere nowu Marenaruie ko .
 1	Ere	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	kujagudo	jekujagu	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	_
@@ -5812,17 +5189,7 @@
 11	ko	ko	VERB	vt	_	2	parataxis	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 539
-# text = Oino
-1	Oino	oino	ADV	adv	_	0	root	_	SpacesAfter=\r\n\r\n
-
-# newpar
-# sent_id = 540
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 541
+# sent_id = adugo_biri-0557
 # text = Dukeje icare nowu adúgo epa iera tabore icare nowu uwobe ererure iera tabo .
 1	Dukeje	keje	ADV	adv	_	7	advmod	_	_
 2	icare	icare	ADV	adv	_	7	advmod	_	_
@@ -5839,7 +5206,7 @@
 13	tabo	apo	ADP	posp	Number=Sing|Person=3	12	case	_	_
 14	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 542
+# sent_id = adugo_biri-0558
 # text = Mare makareuge nogware emage du oino emagare , du ema rugadu Reno .
 1	Mare	_	PROPN	propn	_	3	nsubj	_	_
 2	makareuge	makareuge	PROPN	propn	_	1	flat	_	_
@@ -5855,7 +5222,7 @@
 12	Reno	reno	ADV	adv	_	7	advmod	_	_
 13	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 543
+# sent_id = adugo_biri-0559
 # text = Mare nowu pajere mito tu tureru tabo , mare ere tugerabraredo ji jamedu .
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	nowu	nowu	ADV	adv	_	1	advmod	_	_
@@ -5872,7 +5239,7 @@
 13	jamedu	jamedu	ADV	adv	_	11	advmod	_	_
 14	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 544
+# sent_id = adugo_biri-0560
 # text = Ererure iera tabo woe , adugo marice , aigo marice .
 1	Ererure	ereru	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 2	iera	iera	NOUN	n	_	1	obl	_	_
@@ -5886,7 +5253,7 @@
 10	marice	marice	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 545
+# sent_id = adugo_biri-0561
 # text = Ure adugo bitowu iera tabo , aigo bitowu iera tabo .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	adugo	adugo	VERB	v	Number=Sing|Person=3	0	root	_	_
@@ -5900,18 +5267,7 @@
 10	tabo	apo	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 546
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 547
-# text = Mare ca !
-1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	ca	_	INTJ	_	_	1	obl	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 548
+# sent_id = adugo_biri-0564
 # text = Boe ekera bu butugukare tugobaigare ji nonogo tabo .
 1	Boe	boe	NOUN	n	Number=Plur	2	nmod	_	_
 2	ekera	kera	NOUN	n	_	3	nmod	_	_
@@ -5923,12 +5279,7 @@
 8	tabo	_	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 549
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 550
+# sent_id = adugo_biri-0566
 # text = Boere tugera reko oino aoji !
 1	Boere	boe	NOUN	n	Mood=Ind	3	nsubj	_	_
 2	tugera	kera	NOUN	n	_	3	obj	_	_
@@ -5937,7 +5288,7 @@
 5	aoji	joji	ADP	posp	Number=Sing|Person=2	3	obl	_	_
 6	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 551
+# sent_id = adugo_biri-0567
 # text = Ao rore pai , ao rore pai je !
 1	Ao	ao	PROPN	propn	_	2	nmod	_	_
 2	rore	ro	PROPN	propn	_	6	obl	_	_
@@ -5949,7 +5300,7 @@
 8	je	ty	ADV	adv	_	6	advmod	_	_
 9	!	!	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 552
+# sent_id = adugo_biri-0568
 # text = Mare boe ewoadae karega nowu adugo kujagudodu rema , aigo kujagudodu rema .
 1	Mare	mare	CCONJ	cconj	_	2	det	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -5965,7 +5316,7 @@
 12	rema	rema	AUX	cop	_	0	root	_	_
 13	.	.	PUNCT	punct	_	12	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 553
+# sent_id = adugo_biri-0569
 # text = Nonore icare boere adugo , aigo epa , boe eroi ao jitu rugadu .
 1	Nonore	nono	ADV	adv	Mood=Ind	4	advmod	_	_
 2	icare	icare	ADV	adv	_	4	advmod	_	_
@@ -5982,18 +5333,13 @@
 13	rugadu	rugadu	ADV	adv	_	4	advmod	_	_
 14	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 554
-# text = Oino .
-1	Oino	oino	ADV	adv	_	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 555
+# sent_id = adugo_biri-0571
 # text = Oino ca !
 1	Oino	oino	ADV	adv	_	2	advmod	_	_
 2	ca	_	INTJ	_	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 556
+# sent_id = adugo_biri-0572
 # text = Dutabore icare boe ererugodure nono .
 1	Dutabore	Dutabo	ADV	adv	Mood=Ind	4	advmod	_	_
 2	icare	icare	ADV	adv	_	4	advmod	_	_
@@ -6002,7 +5348,7 @@
 5	nono	nono	ADV	adv	Deixis=Med	4	advmod	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 557
+# sent_id = adugo_biri-0573
 # text = Areme ererugodure nowu iera tabo nono , marenaruieji .
 1	Areme	aredy	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ererugodure	rerugodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
@@ -6014,7 +5360,7 @@
 8	marenaruieji	marenaruieji	X	_	_	2	ccomp	_	_
 9	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 558
+# sent_id = adugo_biri-0574
 # text = U ! Ere kana awogado , puibagi , puibagi , piuibagi .
 1	U	u	INTJ	intj	_	5	discourse	_	_
 2	!	!	PUNCT	punct	_	1	punct	_	_
@@ -6029,14 +5375,14 @@
 11	piuibagi	piuibagi	NOUN	n	_	5	parataxis	_	_
 12	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = 559
-# text = Oino du ca !
-1	Oino	oino	ADV	adv	_	3	advmod	_	SpacesAfter=\r\n
-2	du	_	ADV	adv	_	3	advmod	_	_
+# sent_id = adugo_biri-0575
+# text = Oino .du ca !
+1	Oino	oino	ADV	adv	_	3	advmod	_	_
+2	.du	.du	ADV	adv	_	3	advmod	_	_
 3	ca	_	INTJ	_	_	0	root	_	_
 4	!	!	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 560
+# sent_id = adugo_biri-0576
 # text = Nowu akedu kejere icare aremere tugeragu boe eke boeji nono baiado , tumedage enoe boeji nono baiado , puai , pu ukeje .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	5	det	_	_
 2	akedu	_	NOUN	n	_	3	nsubj	_	_
@@ -6062,12 +5408,7 @@
 22	ukeje	keje	ADP	posp	Number=Sing|Person=3	21	case	_	_
 23	.	.	PUNCT	punct	_	14	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 561
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 562
+# sent_id = adugo_biri-0578
 # text = Du tonajire nowu adugo biri epa ure tugeragu ji pugeje .
 1	Du	_	NOUN	n	_	2	nsubj	_	_
 2	tonajire	_	VERB	v	_	0	root	_	_
@@ -6081,19 +5422,14 @@
 10	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
 11	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 563
+# sent_id = adugo_biri-0579
 # text = Bureagurure nowu Baadojebaji .
 1	Bureagurure	Bureaguru	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	nowu	no	NOUN	n	Nomzr=Rel	1	obl	_	_
 3	Baadojebaji	_	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 564
-# text = U !
-1	U	u	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 565
+# sent_id = adugo_biri-0581
 # text = Ere udo nowu Bakoro Ika kowuje .
 1	Ere	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	udo	u	PRON	bi	Number=Sing|Person=3|Voice=Cau	0	root	_	_
@@ -6103,12 +5439,7 @@
 6	kowuje	kowuje	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 566
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 567
+# sent_id = adugo_biri-0583
 # text = Ere tugeragu ji rugadu .
 1	Ere	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
 2	tugeragu	keragu	VERB	v	_	0	root	_	_
@@ -6116,26 +5447,15 @@
 4	rugadu	rugadu	ADV	adv	_	2	advmod	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 568
-# text = Emagore Kae gae gae !
-1	Emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	SpacesAfter=\s\r\n
-2	Kae	ae	ADP	posp	Number=Sing|Person=1	1	obl	_	_
-3	gae	gae	NOUN	n	_	4	nmod	_	_
-4	gae	gae	NOUN	n	_	1	obl	_	_
-5	!	!	PUNCT	punct	_	1	punct	_	_
+# sent_id = adugo_biri-0584
+# text = Emagore .Kae gae gae !
+1	Emagore	mako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	.Kae	.Kae	NOUN	n	_	3	nmod	_	_
+3	gae	gae	NOUN	n	_	4	nsubj	_	_
+4	gae	gae	VERB	v	_	1	ccomp	_	_
+5	!	_	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 569
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 570
-# text = Akudawu reo !
-1	Akudawu	akudawy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
-2	reo	reo	AUX	cop	_	0	root	_	_
-3	!	_	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n
-
-# sent_id = 571
+# sent_id = adugo_biri-0587
 # text = Ere nowu adugo biri barigu aoto rugadu .
 1	Ere	e	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 2	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	3	det	_	_
@@ -6146,14 +5466,9 @@
 7	rugadu	_	ADV	adv	_	6	advmod	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 572
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 573
-# text = Nowu ure tuwure to ji woe , woe , ure tuwure to ji , akore Aiduia itugarege enawu ikudawu , ikuie ai .
-1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	3	det	_	_
+# sent_id = adugo_biri-0589
+# text = Nowu ure tuwure to ji woe , woe , ure tuwure to ji , akore ...
+1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	3	dep	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 3	tuwure	_	VERB	v	Mood=Ind|Reflex=Yes	0	root	_	_
 4	to	to	NOUN	n	_	3	obl	_	_
@@ -6167,23 +5482,27 @@
 12	to	to	NOUN	n	_	11	obl	_	_
 13	ji	ji	ADP	posp	_	12	case	_	_
 14	,	,	PUNCT	punct	_	15	punct	_	_
-15	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	SpacesAfter=\s\s
-16	Aiduia	iduia	DET	_	Definite=Ind|PronType=Art	17	det	_	_
-17	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	18	nmod	_	_
-18	enawu	a	NOUN	n	Nomzr=Rel|Number=Plur|Person=3	15	obl	_	_
-19	ikudawu	ikudawu	NOUN	_	_	18	case	_	_
-20	,	,	PUNCT	punct	_	21	punct	_	_
-21	ikuie	uie	NOUN	n	Number=Sing|Person=1	18	obl	_	_
-22	ai	ai	ADP	posp	_	21	case	_	_
-23	.	.	PUNCT	punct	_	15	punct	_	SpacesAfter=\s\r\n
+15	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	11	parataxis	_	_
+16	...	.	PUNCT	punct	_	15	punct	_	_
 
-# sent_id = 574
+# sent_id = adugo_biri-0590
+# text = Aiduia itugarege enawu ikudawu , ikuie ai .
+1	Aiduia	iduia	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+2	itugarege	tugarege	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	nmod	_	_
+3	enawu	a	NOUN	n	Nomzr=Rel|Number=Plur|Person=3	4	nsubj	_	_
+4	ikudawu	jkudawy	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	ikuie	uie	NOUN	n	Number=Sing|Person=1	4	obl	_	_
+7	ai	ai	ADP	posp	_	6	case	_	_
+8	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
+
+# sent_id = adugo_biri-0591
 # text = Oino tuguieji .
 1	Oino	oino	ADV	adv	_	0	root	_	_
 2	tuguieji	_	ADV	adv	_	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 575
+# sent_id = adugo_biri-0592
 # text = Nonore , nonore , jii ... Awu raire rugadu bakoroo ...
 1	Nonore	nono	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -6198,7 +5517,7 @@
 11	...	...	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 576
+# sent_id = adugo_biri-0593
 # text = Toro Meri rutu kae , Meri butu kae .
 1	Toro	toro	PROPN	propn	_	2	nmod	_	_
 2	Meri	_	PROPN	propn	_	3	nmod	_	_
@@ -6211,7 +5530,7 @@
 9	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 577
+# sent_id = adugo_biri-0594
 # text = Nonore icare ere kado nono rugadu .
 1	Nonore	nono	ADV	adv	Mood=Ind	4	advmod	_	_
 2	icare	_	ADV	adv	_	4	advmod	_	_
@@ -6221,18 +5540,13 @@
 6	rugadu	rugadu	ADV	adv	_	4	advmod	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 578
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 579
+# sent_id = adugo_biri-0596
 # text = Akedu rugadu .
 1	Akedu	Akedu	ADV	adv	_	0	root	_	_
 2	rugadu	rugadu	ADV	adv	_	1	advmod	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 580
+# sent_id = adugo_biri-0597
 # text = Nowu ato padu rugadu Reno .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	ato	ato	NOUN	n	_	3	nsubj	_	_
@@ -6241,7 +5555,7 @@
 5	Reno	reno	ADV	adv	_	3	advmod	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 581
+# sent_id = adugo_biri-0598
 # text = Inodure barogo ukedodu rema .
 1	Inodure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 2	barogo	barogo	NOUN	n	_	3	nmod	_	_
@@ -6249,14 +5563,14 @@
 4	rema	rema	AUX	cop	_	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 582
+# sent_id = adugo_biri-0599
 # text = Barege ekedodu rema .
 1	Barege	barogo	NOUN	n	Number=Plur	2	nsubj	_	_
 2	ekedodu	_	PRON	_	Number=Plur|Person=3|PronType=Tot	3	nsubj	_	_
 3	rema	rema	AUX	cop	Pred=AtrEq	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 583
+# sent_id = adugo_biri-0600
 # text = Oinore Boe erore , Boe egore , Boe ewadarure .
 1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -6269,19 +5583,14 @@
 9	ewadarure	wadaru	VERB	v	Mood=Ind|Number=Plur|Person=3	3	conj	_	_
 10	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 584
-# text = Oino .
-1	Oino	oino	ADV	adv	_	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 585
+# sent_id = adugo_biri-0602
 # text = Mare akado !
 1	Mare	mare	CCONJ	cconj	_	2	cc	_	_
 2	akado	a	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 586
+# sent_id = adugo_biri-0603
 # text = Awu re icare ure oino .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	re	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
@@ -6290,7 +5599,7 @@
 5	oino	_	ADV	adv	_	0	root	_	_
 6	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 587
+# sent_id = adugo_biri-0604
 # text = Awu Boe icare joruduwa bokwagodure oino pugeje jamedu .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
@@ -6302,8 +5611,8 @@
 8	jamedu	jamedu	ADV	adv	_	5	advmod	_	_
 9	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 588
-# text = Awu boe etore egokowodunure tu tu tu turagoduwo bapo kurirewu tabo .
+# sent_id = adugo_biri-0605
+# text = Awu boe etore egokowodunure tu tu tu turagoduwo .bapo kurirewu tabo .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
 2	boe	boe	NOUN	n	_	3	nmod	_	_
 3	etore	_	NOUN	n	_	6	nsubj	_	_
@@ -6311,13 +5620,13 @@
 5	tu	_	NOUN	n	_	6	obj	_	_
 6	tu	tu	VERB	v	Number=Sing|Person=3	0	root	_	_
 7	tu	tu	PROPN	propn	_	10	nsubj	_	_
-8	turagoduwo	_	PRON	bi	_	10	nsubj	_	SpacesAfter=\r\n
-9	bapo	bapo	NOUN	n	_	10	obj	_	_
+8	turagoduwo	_	PRON	bi	_	10	nsubj	_	_
+9	.bapo	.bapo	NOUN	n	_	10	obj	_	_
 10	kurirewu	kuri	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	6	parataxis	_	_
 11	tabo	apo	ADP	posp	Number=Sing|Person=3	10	obl	_	_
 12	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 589
+# sent_id = adugo_biri-0606
 # text = Mare oino cewu uragodure oino boe bokware .
 1	Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	oino	oino	ADV	adv	AdvType=Man	4	advmod	_	_
@@ -6328,12 +5637,7 @@
 7	bokware	bokware	PART	prcl	Mood=Ind|Polarity=Neg	4	dep	_	_
 8	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\s\r\n
 
-# sent_id = 590
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 591
+# sent_id = adugo_biri-0608
 # text = Awu Kaimore , awu CoIbachinire , awu Kuiarure , Ca !
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	Kaimore	Kaimo	NOUN	n	Mood=Ind	5	nsubj	_	_
@@ -6347,18 +5651,12 @@
 10	Ca	_	INTJ	_	_	8	case	_	_
 11	!	!	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 592
+# sent_id = adugo_biri-0609
 # text = Imire .
 1	Imire	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 593
-# text = A !
-1	A	a	INTJ	_	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 594
+# sent_id = adugo_biri-0611
 # text = Nowu adugo ukere emaboe , ukere pobogo , adugo ukere ia ki , ia jui , jugo , du boe egore uke Jugo .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	adugo	adugo	NOUN	n	_	4	nsubj	_	_
@@ -6385,24 +5683,13 @@
 23	Jugo	Jugo	VERB	v	_	21	parataxis	_	_
 24	.	.	PUNCT	punct	_	23	punct	_	_
 
-# sent_id = 595
-# text = Oino .
-1	Oino	oino	ADV	adv	_	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 596
+# sent_id = adugo_biri-0613
 # text = Ie bio .
 1	Ie	ie	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	2	nsubj	_	_
 2	bio	bio	INTJ	intj	_	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n\r\n
 
-# newpar
-# sent_id = 597
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 598
+# sent_id = adugo_biri-0615
 # text = Bitodure toro pobo kurirewu tada , ia toro .
 1	Bitodure	_	VERB	v	_	0	root	_	_
 2	toro	toro	ADV	adv	Deixis=Remt	1	advmod	_	_
@@ -6414,7 +5701,7 @@
 8	toro	toro	ADV	adv	Deixis=Remt	1	advmod	_	_
 9	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 599
+# sent_id = adugo_biri-0616
 # text = Du boe egore nowu epa ieji pugeje .
 1	Du	du	ADV	adv	_	3	advmod	_	_
 2	boe	boe	NOUN	n	_	3	nsubj	_	_
@@ -6426,7 +5713,7 @@
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 600
+# sent_id = adugo_biri-0617
 # text = Kado , kodire akiere Piebaga .
 1	Kado	kado	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
@@ -6435,7 +5722,7 @@
 5	Piebaga	Piebaga	ADV	adv	_	4	advmod	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = 601
+# sent_id = adugo_biri-0618
 # text = Are aigo bito awu birewu marice toro Piebaga tada kodi .
 1	Are	_	PRON	bi	Mood=Ind|Number=Sing|Person=2	3	nsubj	_	_
 2	aigo	_	NOUN	n	Number=Sing	3	obj	_	_
@@ -6449,13 +5736,8 @@
 10	kodi	kodi	SCONJ	sconj	_	3	mark	_	_
 11	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 602
-# text = Oino .
-1	Oino	oino	ADV	adv	_	0	root	_	_
-2	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 603
+# sent_id = adugo_biri-0620
 # text = Awu adugo o rema , aigo o , boe emagokare ji .
 1	Awu	awy	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	_
 2	adugo	_	NOUN	n	_	3	nmod	_	_
@@ -6471,7 +5753,7 @@
 12	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 604
+# sent_id = adugo_biri-0621
 # text = Nowu aigo o , adugo o jeture jitu dure .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	aigo	aigo	NOUN	n	_	3	nsubj	_	_
@@ -6484,8 +5766,8 @@
 9	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
 10	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 605
-# text = Ure adugo bitowu kodo kuri nowu to adugo o tabo tuje ae , boe etuje ae , uworororeudo ae , akore Emareo ! Emareo !
+# sent_id = adugo_biri-0622
+# text = Ure adugo bitowu kodo kuri nowu to adugo o tabo tuje ae , boe etuje ae , uworororeudo ae , akore .Emareo !
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 2	adugo	adugo	NOUN	n	_	3	nmod	_	_
 3	bitowu	bito	NOUN	n	Nomzr=Rel	4	obj	_	_
@@ -6506,24 +5788,17 @@
 18	uworororeudo	uworororeudo	PROPN	propn	_	12	conj	_	_
 19	ae	ae	ADP	posp	_	18	case	_	_
 20	,	,	PUNCT	punct	_	21	punct	_	_
-21	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	conj	_	SpacesAfter=\s\r\n
-22	Emareo	Emareo	ADV	adv	_	24	discourse	_	_
-23	!	!	PUNCT	punct	_	22	punct	_	_
-24	Emareo	Emareo	X	x	_	21	ccomp	_	_
-25	!	!	PUNCT	punct	_	24	punct	_	_
+21	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	12	conj	_	_
+22	.Emareo	.Emareo	X	x	_	21	ccomp	_	_
+23	!	!	PUNCT	punct	_	21	punct	_	_
 
-# sent_id = 606
+# sent_id = adugo_biri-0623
 # text = Emareo !
 1	Emareo	Emareo	AUX	cop	_	0	root	_	_
 2	!	_	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 607
-# text = Emareo !
-1	Emareo	Emareo	AUX	cop	_	0	root	_	_
-2	!	_	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
-
 # newpar
-# sent_id = 608
+# sent_id = adugo_biri-0626
 # text = Imuga , imuga , akuie adugo o reo .
 1	Imuga	muga	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	nsubj	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -6535,7 +5810,7 @@
 8	reo	reo	AUX	cop	_	0	root	_	_
 9	.	.	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 609
+# sent_id = adugo_biri-0627
 # text = Akaba ipo oroedo ema , akaba jetu pagado tu ipo jurají , iwara juraji .
 1	Akaba	a	PRON	bi	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	3	nsubj	_	_
 2	ipo	_	NOUN	n	_	3	obj	_	_
@@ -6553,7 +5828,7 @@
 14	juraji	juraji	ADP	posp	_	13	case	_	_
 15	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 610
+# sent_id = adugo_biri-0628
 # text = Akuie cere iro oino ji .
 1	Akuie	~_~akuie	VERB	v	Irr=Yes|Mood=Irr|Number=Sing|Person=2|Speech=Ind	0	root	_	_
 2	cere	ce	PRON	_	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1	3	nsubj	_	_
@@ -6562,7 +5837,7 @@
 5	ji	ji	ADP	posp	Number=Sing|Person=3	3	obl	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 611
+# sent_id = adugo_biri-0629
 # text = Akuie adugo ó reo , akuie adugo ó reo , akuie aigo ó reo , akuia iago reo .
 1	Akuie	_	PROPN	propn	_	2	nmod	_	_
 2	adugo	adugo	PROPN	propn	_	3	nmod	_	_
@@ -6585,15 +5860,7 @@
 19	.	.	PUNCT	punct	_	18	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 612
-# text = Oino Boe egore .
-1	Oino	oino	ADV	adv	_	3	advmod	_	_
-2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
-3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\s\r\n\r\n
-
-# newpar
-# sent_id = 613
+# sent_id = adugo_biri-0631
 # text = Awu mariguduwu Boe eimore nowu adugo inogice .
 1	Awu	awu	PROPN	propn	_	3	nmod	_	_
 2	mariguduwu	mariguduwu	PROPN	propn	_	1	flat	_	_
@@ -6604,7 +5871,7 @@
 7	inogice	_	VERB	v	_	0	root	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 614
+# sent_id = adugo_biri-0632
 # text = Nowu aroe uwo , adugo biri makudure aiwu imedure , boe etao kajejwudo nowu adugo inegice .
 1	Nowu	Nowu	DET	dem	Number=Sing|PronType=Dem	2	det	_	_
 2	aroe	aroe	NOUN	n	_	3	nsubj	_	_
@@ -6625,73 +5892,51 @@
 17	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 615
-# text = Care Boere nowu ure adugo bitowu kujagudo , dukejere ure nowu boe eimo adugo inegi maku ai , Nonore akore Kae gae gae gae gae !
+# sent_id = adugo_biri-0633
+# text = Care Boere nowu ure adugo bitowu kujagudo , dukejere ure nowu boe eimo adugo inegi maku ai .
 1	Care	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
 2	Boere	Bor	ADV	adv	Mood=Ind	1	advmod	_	_
 3	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	7	dep	_	_
 4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
 5	adugo	adugo	NOUN	n	_	6	nmod	_	_
 6	bitowu	bito	NOUN	n	Nomzr=Rel	7	obj	_	_
-7	kujagudo	kujagu	VERB	v	Voice=Cau	14	advmod	_	_
+7	kujagudo	kujagu	VERB	v	Voice=Cau	15	advmod	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
-9	dukejere	dukejere	ADV	adv	_	14	advmod	_	_
-10	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	14	nsubj	_	_
+9	dukejere	dukejere	ADV	adv	_	15	advmod	_	_
+10	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	nsubj	_	_
 11	nowu	nowu	DET	dem	Number=Sing|PronType=Dem	13	det	_	_
 12	boe	boe	NOUN	n	_	13	nmod	_	_
-13	eimo	eimo	NOUN	n	_	14	obj	_	_
-14	adugo	adugo	VERB	v	_	1	ccomp	_	_
-15	inegi	negi	ADP	posp	Number=Sing|Person=1	14	obl	_	_
-16	maku	maku	NOUN	n	_	14	obl	_	_
-17	ai	ai	ADP	posp	_	16	case	_	_
-18	,	,	PUNCT	punct	_	20	punct	_	SpacesAfter=\s\r\n
-19	Nonore	_	ADV	adv	Mood=Ind	20	advmod	_	_
-20	akore	_	VERB	v	_	14	conj	_	SpacesAfter=\s\r\n
-21	Kae	ae	ADP	posp	Number=Sing|Person=1	20	obl	_	_
-22	gae	gae	NOUN	n	_	23	nmod	_	_
-23	gae	gae	NOUN	n	_	24	nmod	_	_
-24	gae	gae	NOUN	n	_	25	nsubj	_	_
-25	gae	gae	VERB	v	_	20	ccomp	_	_
-26	!	_	PUNCT	punct	_	1	punct	_	_
+13	eimo	eimo	NOUN	n	_	15	obj	_	_
+14	adugo	_	NOUN	n	_	15	nsubj	_	_
+15	inegi	inegi	VERB	v	_	1	ccomp	_	_
+16	maku	maku	NOUN	n	_	15	obl	_	_
+17	ai	ai	ADP	posp	Number=Sing|Person=3	16	case	_	_
+18	.	.	PUNCT	punct	_	1	punct	_	SpaceAfter=No
 
-# sent_id = 616
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
+# sent_id = adugo_biri-0634
+# text = Nonore akore .Kae gae gae gae gae !
+1	Nonore	nonore	ADV	adv	Mood=Ind	2	advmod	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	.Kae	.kae	SCONJ	sconj	_	7	advmod	_	_
+4	gae	gae	VERB	v	_	7	nsubj	_	_
+5	gae	gae	NOUN	n	_	6	nmod	_	_
+6	gae	gae	NOUN	n	_	7	nsubj	_	_
+7	gae	gae	VERB	v	_	2	ccomp	_	_
+8	!	_	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 617
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
+# sent_id = adugo_biri-0637
+# text = Emareo ! Emareo !
+1	Emareo	Emareo	AUX	cop	_	3	discourse	_	_
+2	!	_	PUNCT	punct	_	1	punct	_	_
+3	Emareo	Emareo	AUX	cop	_	0	root	_	_
+4	!	_	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 618
-# text = Ema reo , ema reo !
-1	Ema	ema	ADV	adv	_	0	root	_	_
-2	reo	reo	AUX	aux	_	1	aux	_	_
-3	,	_	PUNCT	punct	_	1	punct	_	_
-4	ema	ema	ADV	adv	_	1	conj	_	_
-5	reo	reo	AUX	aux	_	4	aux	_	_
-6	!	_	PUNCT	punct	_	4	punct	_	_
+# sent_id = adugo_biri-0639
+# text = Emarewu !
+1	Emarewu	marewu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\n\r\n
 
-# sent_id = 619
-# text = Ema reo !
-1	Ema	ema	ADV	adv	_	0	root	_	_
-2	reo	reo	AUX	aux	_	1	aux	_	_
-3	!	_	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 620
-# text = Ema reo !
-1	Ema	ema	ADV	adv	_	0	root	_	_
-2	reo	reo	AUX	adv	_	1	aux	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\r\r
-
-# newpar
-# sent_id = 621
-# text = Ca !
-1	Ca	ca	INTJ	intj	_	0	root	_	_
-2	!	!	PUNCT	punct	_	1	punct	_	_
-
-# sent_id = 622
+# sent_id = adugo_biri-0641
 # text = Akimoadugoinogi reo , akuie akimo adugo buregi reo !
 1	Akimoadugoinogi	kimoadugoinogi	ADP	posp	Number=Sing|Person=2	0	root	_	_
 2	reo	reo	AUX	cop	_	1	parataxis	_	_
@@ -6703,7 +5948,7 @@
 8	reo	reo	AUX	cop	_	5	parataxis	_	_
 9	!	_	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 624
+# sent_id = adugo_biri-0643
 # text = Tugu tu akaoto , tugu tu akaoto !
 1	Tugu	tudugu	VERB	v	Reflex=Yes	0	root	_	_
 2	tu	_	NOUN	n	_	3	nsubj	_	_
@@ -6714,7 +5959,7 @@
 7	akaoto	akaoto	VERB	v	_	3	parataxis	_	_
 8	!	_	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 625
+# sent_id = adugo_biri-0644
 # text = Dutabore amerure , akamagadure , awadure , ature baito , amugure bai tada .
 1	Dutabore	Dutabo	ADV	adv	Mood=Ind	2	advmod	_	_
 2	amerure	meru	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	_	_
@@ -6732,16 +5977,15 @@
 14	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\s\r\n\r\n
 
 # newpar
-# sent_id = 626
+# sent_id = adugo_biri-0645
 # text = Oinore Boe egore .
 1	Oinore	oino	ADV	adv	Mood=Ind	3	advmod	_	_
 2	Boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 627
+# sent_id = adugo_biri-0646
 # text = Ema rugadu .
 1	Ema	ema	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	rugadu	rugadu	ADV	adv	_	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\s\r\n
-
