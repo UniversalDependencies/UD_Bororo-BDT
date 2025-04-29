@@ -3282,9 +3282,9 @@
 3	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
 # sent_id = adugo_biri-0332
-# text = Iwororo O o o ... !
+# text = Iwororo o o o ... !
 1	Iwororo	Iwororo	PROPN	propn	_	4	nsubj	_	_
-2	O	o	PROPN	propn	_	4	nsubj	_	_
+2	o	o	PROPN	propn	_	4	nsubj	_	_
 3	o	o	NOUN	n	_	4	nsubj	_	_
 4	o	o	VERB	v	_	0	root	_	_
 5	...	...	PUNCT	punct	_	4	punct	_	_
