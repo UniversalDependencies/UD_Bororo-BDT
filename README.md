@@ -47,7 +47,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Gerardi, Fabrício Ferraz and Toribio, Lucas and Sollberger, Dolores
+Contributors: Gerardi, Fabrício Ferraz; Toribio, Lucas; Sollberger, Dolores
 Contributing: here
 Contact: fabricio.gerardi@uni-tuebingen.de
 ===============================================================================
