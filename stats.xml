@@ -5,145 +5,128 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>881</sentences><tokens>6993</tokens><words>6993</words><fused>0</fused></total>
-    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
-    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>881</sentences><tokens>6993</tokens><words>6993</words><fused>0</fused></test>
+    <total><sentences>21384</sentences><tokens>160356</tokens><words>160356</words><fused>0</fused></total>
+    <train><sentences>17107</sentences><tokens>128418</tokens><words>128418</words><fused>0</fused></train>
+    <dev><sentences>2138</sentences><tokens>15678</tokens><words>15678</words><fused>0</fused></dev>
+    <test><sentences>2139</sentences><tokens>16260</tokens><words>16260</words><fused>0</fused></test>
   </size>
-  <lemmas unique="992" /><!-- ,, ji, boe, u, ako, ., icare, apo, ty, to, e, i, !, mako, keje -->
-  <forms unique="1848" /><!-- ,, boe, ji, ure, ., icare, to, akore, !, ere, tabo, nowy, pugeje, :, ? -->
+  <lemmas unique="9836" /><!-- ., ,, ako, icare, u, ji, boe, !, tu, nowu, apo, keje, du, ..., e -->
+  <forms unique="13224" /><!-- ., ,, icare, boe, !, ure, nowu, akore, ..., ji, ere, tabo, keje, du, egore -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="16">
-    <tag name="ADJ">9</tag><!-- kuri, _, ako, icare, moture, pemega -->
-    <tag name="ADP">754</tag><!-- ji, apo, to, keje, _, kae, piji, bogai, ai, koia -->
-    <tag name="ADV">681</tag><!-- icare, _, oino, pugeje, ty, woe, toro, dykeje, mato, ica -->
-    <tag name="AUX">15</tag><!-- bokware, rema -->
-    <tag name="CCONJ">40</tag><!-- mare, _, rakydy, rema, _rema, koia, ma, macare -->
-    <tag name="DET">144</tag><!-- nowy, awy, ia, _, cewy, ecewy, cowu, mowy -->
-    <tag name="INTJ">35</tag><!-- uw, ca, kajao, kocare, u, Ahh, Kirabody, booio, boro, ceboere -->
-    <tag name="NOUN">1827</tag><!-- boe, _, batary, karo, ke, imedy, kuiada, bai, pobo, ie -->
-    <tag name="NUM">4</tag><!-- ia, pobe -->
-    <tag name="PART">34</tag><!-- dy, _, ma, rema, kae, uw, bokwa, bokware, ca, dyji -->
-    <tag name="PRON">599</tag><!-- u, e, i, a, _, re, imi, pa, ta, ty -->
-    <tag name="PROPN">252</tag><!-- _, arigao, Pemo, Bororo, Fabrício, João, Iwagudu, Kejari, Bakororo, Meriri -->
-    <tag name="PUNCT">935</tag><!-- ,, ., !, _, ?, :, ;, ..., !_ -->
-    <tag name="SCONJ">76</tag><!-- kodi, dykeje, keje, _, ma, dytabo, du, dybogai, dykae, dykodi -->
-    <tag name="VERB">1428</tag><!-- _, ako, mako, ty, aregody, ro, jorydy, maky, bi, to -->
-    <tag name="X">160</tag><!-- _, dyji, dy, karega, br, nure, Kao, a, gu, hm -->
+  <tags unique="17">
+    <tag name="ADJ">99</tag><!-- bokwa, pega, bakuri, maka, kuri, meartoru, bi, pemega, reo, ami -->
+    <tag name="ADP">16590</tag><!-- ji, apo, keje, _, kae, ai, bogai, piji, tada, koia -->
+    <tag name="ADV">20508</tag><!-- icare, _, pugeje, tu, oino, jamedu, toro, du, rugadu, je -->
+    <tag name="AUX">608</tag><!-- rema, reo, bokware, reno -->
+    <tag name="CCONJ">1053</tag><!-- mare, ma, Icare, _ma, _, ~_~mare, duma, rakudu, Ceima, kaia -->
+    <tag name="DET">4224</tag><!-- nowu, ia, awu, cewu, _, nonowu, iduia, roia, muga, jicewu -->
+    <tag name="INTJ">555</tag><!-- _, u, wa, ca, m, jao, a, je, Iw, kajao -->
+    <tag name="NOUN">36551</tag><!-- _, boe, o, Jesus, aroe, du, pega, pemega, moto, imedu -->
+    <tag name="NUM">1666</tag><!-- 1, 2, 3, 4, 5, pobe, 6, 0, ia, 7 -->
+    <tag name="PART">201</tag><!-- du, _, kana, jetu, na, a, re, jorduwa, pegareuji, bataruji -->
+    <tag name="PRON">9059</tag><!-- u, _, e, i, ema, ce, a, imi, aki, ta -->
+    <tag name="PROPN">5764</tag><!-- _, pao, bakororo, o, bororo, Eceraedu, ro, Aije, remawu, pemegarewu -->
+    <tag name="PUNCT">32183</tag><!-- ., ,, !, ..., ?, ;, _, (, :, ) -->
+    <tag name="SCONJ">1263</tag><!-- kodi, du, dutabo, dukeje, _, keje, wo, koiare, boe, bu -->
+    <tag name="SYM">1</tag><!-- = -->
+    <tag name="VERB">27057</tag><!-- ako, _, tu, aregodu, ro, kodu, mako, pemega, tugu, maku -->
+    <tag name="X">2974</tag><!-- _, nure, duji, boeji, ta, gu, jiboe, dukeje, piji, bororoji -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="76">
-    <feat name="AdvType" value="Loc" upos="ADV">16</feat><!-- woe -->
-    <feat name="AdvType" value="Man" upos="ADV">23</feat><!-- oino, paga, tyjé -->
-    <feat name="AdvType" value="Mod" upos="ADV">1</feat><!-- oino -->
-    <feat name="AdvType" value="Tim" upos="ADV">2</feat><!-- Kajao, roga -->
-    <feat name="Aspect" value="Inc" upos="PRON,VERB">17</feat><!-- akogodyre, etaregodyre, aregodyre, ikiarigodyre, Akaregodyre, beregodyre, cekigodyre, kugudugodyre, pabagudugodyre, takigodyre -->
-    <feat name="Aspect" value="IncProg" upos="ADV,PRON,VERB">16</feat><!-- Boigodynure, Ikogodynure, Itamodugodynure, beregodygodynure, beregodynure, bokwagodyre, erogodynure, ikadykigodykare, itajiagodynure, itowearigodynure -->
-    <feat name="Aspect" value="Iter" upos="VERB">1</feat><!-- tugutugu -->
-    <feat name="Aspect" value="Prog" upos="NOUN,PRON,VERB,X">56</feat><!-- inure, enure, nure, eejiwunure, akaiwonure, eegureanure, ekujagunure, imaragodynure, Boerunure, Iroredynure -->
-    <feat name="Class" value="Adorn" upos="NOUN">1</feat><!-- Ikimopariko -->
-    <feat name="Class" value="DA" upos="NOUN">1</feat><!-- Pagaguarigao -->
-    <feat name="Class" value="Food" upos="NOUN">1</feat><!-- Akeamirewy -->
-    <feat name="Class" value="Neckl" upos="NOUN">1</feat><!-- Ukuiepowari -->
-    <feat name="Clusivity" value="Ex" upos="ADP,NOUN,PRON,VERB,X">36</feat><!-- cimo, cedaregodyre, cedyre, Cemode, Cere, Cedaiwoiadody, Cedaiwore, Cegimejera, Cegodure, Cenure -->
-    <feat name="Clusivity" value="In" upos="ADP,NOUN,PRON,VERB,X">98</feat><!-- pamode, pawadary, pagi, pawo, padyre, padywo, pare, page, pajemage, pawobe -->
-    <feat name="Definite" value="Ind" upos="DET,PRON">24</feat><!-- ia, aia, Iage -->
-    <feat name="Degree" value="Dim" upos="NOUN">21</feat><!-- kiogorogu, karorogu, Iogarogy, Iwierogu, Negedyrogu, aredyrogu, baporogu, boetugurogu, bukerogu, ikerogu -->
-    <feat name="Deixis" value="Med" upos="ADV,DET">56</feat><!-- nowy, nono, no -->
-    <feat name="Deixis" value="Prox" upos="ADV,DET">46</feat><!-- awy, woe, awu -->
-    <feat name="Deixis" value="Remt" upos="ADV,DET">42</feat><!-- toro, nowy, ecewy, cewy, ce -->
-    <feat name="Evident" value="Rep" upos="NOUN,VERB,X">8</feat><!-- iie, imeruie, itaregodyie, kaie, kurimodyie, taregodyie, tubai, tumotyie -->
-    <feat name="Foc" value="Yes" upos="PART">2</feat><!-- kana, na -->
-    <feat name="Gender" value="Fem" upos="ADJ,ADP,NOUN">6</feat><!-- Aredu, Areme, kejewydo, kejewyge, kurireudo, maiwydo -->
-    <feat name="Gender" value="Masc" upos="NOUN">4</feat><!-- imedu, Ceraedu, Ime -->
-    <feat name="Int" value="Yes" upos="ADP,ADV,NOUN,PART,PRON">26</feat><!-- kaeba, kejeba, iogudyba, jiba, kaba, kaboba, taboba, aiba, apoba, bogaiba -->
-    <feat name="Intens" value="Yes" upos="ADJ,ADV">3</feat><!-- rakaguragare, pemegaguragare -->
-    <feat name="Mood" value="Des" upos="VERB">3</feat><!-- botuwo, ikiguruduwo, patuwo -->
-    <feat name="Mood" value="Imp" upos="PRON,VERB">31</feat><!-- Aebu, Tagaba, akaba, akodukaba, amagodo, Akaiwodo, Akore, Aremo, Atudo, Atugukaba -->
-    <feat name="Mood" value="Ind" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB,X">1376</feat><!-- ure, akore, ere, egore, makore, ire, emagore, imode, are, oinore -->
-    <feat name="Mood" value="Irr" upos="PRON,VERB">5</feat><!-- Imaragodyia, arerumodyie, iia, iordywaia, tumodyie -->
-    <feat name="Mood" value="Opt" upos="VERB">1</feat><!-- Taregodyia -->
-    <feat name="Mood" value="Sub" upos="NOUN,PRON,VERB">85</feat><!-- awo, aerydywo, pawo, awadywo, ewo, awaduwo, etuwo, etyre, iwo, oragudure -->
-    <feat name="Nomzr" value="Clau" upos="ADV,VERB">2</feat><!-- barigudy, woedy -->
-    <feat name="Nomzr" value="Rel" upos="ADJ,ADP,ADV,NOUN,PART,PRON,VERB,X">134</feat><!-- maerewy, gejewy, kejewy, kowujedy, kujagurewy, kurirewu, kurirewy, pegarewy, pemegarewy, aiarewy -->
-    <feat name="Number" value="Plur" upos="ADJ,ADP,DET,NOUN,PART,PRON,VERB,X">783</feat><!-- ere, boe, egore, emagore, ure, ji, areme, etyre, to, etaregodyre -->
-    <feat name="Number" value="Sing" upos="ADP,DET,NOUN,PRON,SCONJ,VERB,X">2075</feat><!-- ji, ure, akore, to, tabo, awo, imi, kae, imedy, keje -->
-    <feat name="Number[obj]" value="Plur" upos="PRON,VERB">10</feat><!-- ebito, pagi, epagududo, etudo, ewito, pabito -->
-    <feat name="Number[obj]" value="Sing" upos="VERB">5</feat><!-- arududo, etowuje, ko, tagogududo, taiagududo -->
-    <feat name="Number[psor]" value="Plur" upos="NOUN">42</feat><!-- ewadary, pawadary, pawobe, emearydae, etore, pagore, pawobedoge, tawadary, Itygy, Tagera -->
-    <feat name="Number[psor]" value="Sing" upos="NOUN">138</feat><!-- imuga, ioga, iogwa, iere, ike, iwadary, Imana, iwie, uwai, ake -->
-    <feat name="Number[subj]" value="Plur" upos="PRON,VERB">17</feat><!-- Pagi, emerure, Cemode, Cewogure, Ere, Pamode, Pare, ebitodyre, etaregody, etaregodyre -->
-    <feat name="Number[subj]" value="Sing" upos="PRON,VERB">30</feat><!-- Itaidure, Inure, imi, imuguwo, ire, iwogumode, Akaregodyre, Are, Ikodumode, Imagore -->
-    <feat name="Person" value="1" upos="ADP,NOUN,PRON,SCONJ,VERB,X">580</feat><!-- imi, ire, ii, imode, imuga, ike, inai, ioga, iogwa, pawadary -->
-    <feat name="Person" value="2" upos="ADP,NOUN,PRON,VERB,X">276</feat><!-- awo, ai, are, akera, amode, Aebu, Tamode, amagore, tare, taro -->
-    <feat name="Person" value="3" upos="ADP,NOUN,PART,PRON,SCONJ,VERB,X">1695</feat><!-- ji, ure, akore, to, ere, tabo, kae, egore, keje, bito -->
-    <feat name="Person[obj]" value="1" upos="PRON,VERB">6</feat><!-- pagi, etowuje, pabito, tagogududo, taiagududo -->
-    <feat name="Person[obj]" value="2" upos="VERB">1</feat><!-- arududo -->
-    <feat name="Person[obj]" value="3" upos="VERB">8</feat><!-- ebito, epagududo, etudo, ewito, ko -->
-    <feat name="Person[psor]" value="1" upos="NOUN">5</feat><!-- ibai, ibaidoge, ibaidogedo, ibaimodykare, iiodore -->
-    <feat name="Person[psor]" value="3" upos="NOUN">2</feat><!-- Etore, tugerago -->
-    <feat name="Person[subj]" value="1" upos="PRON,VERB">31</feat><!-- Itaidure, Inure, Pagi, imi, imuguwo, ire, iwogumode, Cemode, Imagore, Pamode -->
-    <feat name="Person[subj]" value="2" upos="PRON,VERB">5</feat><!-- Akaregodyre, Are, Ikodumode, akodumode, tare -->
-    <feat name="Person[subj]" value="3" upos="PRON,VERB">10</feat><!-- emerure, Ere, ebitodyre, etaregody, etaregodyre, ewogu, rorewyge, turemo, utyre -->
-    <feat name="Polarity" value="Neg" upos="ADV,AUX,INTJ,NOUN,PART,PRON,VERB,X">143</feat><!-- karega, bokware, ukare, eerydykare, ikare, boro, rokare, Kajao, Tagaba, akodukaba -->
-    <feat name="Poss" value="Yes" upos="NOUN,X">24</feat><!-- erybo, jorybo, biri, erybore, Jorubo, akemore, ako, batary, ceno, eno -->
-    <feat name="Pred" value="AtrEq" upos="AUX">4</feat><!-- rema -->
-    <feat name="PronType" value="Art" upos="DET,PRON">15</feat><!-- ia, aia -->
-    <feat name="PronType" value="Bi" upos="ADP,NOUN,PRON,SCONJ,VERB">88</feat><!-- ure, ere, are, ire, Inure, emode, enure, imode, pamode, umode -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">29</feat><!-- awy, nowy, awu, cowu, nowyge, awygere, ce, cewy, ecewy, no -->
-    <feat name="PronType" value="Ind" upos="PRON">1</feat><!-- makaguraga -->
-    <feat name="PronType" value="Int" upos="ADV,PRON">32</feat><!-- kaboba, inoba, iogudyba, kaiba, Ioguduba, kaba, Iagudubá, Kabajiba, Kaibá, Kodiba -->
-    <feat name="PronType" value="Prs" upos="PRON,VERB">57</feat><!-- imi, pagi, aki, ema, emage, tagi, Cedaiwore, Pare, are, emagere -->
-    <feat name="PronType" value="Rcp" upos="ADP,NOUN,PRON">8</feat><!-- pujoku, pu, pui, pudabo -->
-    <feat name="PronType" value="Rel" upos="PRON">1</feat><!-- duji -->
-    <feat name="PronType" value="Tot" upos="PRON">4</feat><!-- Tuiamedu, eiamedu, eiamedy, jamedy -->
-    <feat name="Purp" value="Trans" upos="VERB">2</feat><!-- Makydyiagu, Makydykaiagu -->
-    <feat name="Purp" value="Yes" upos="VERB">4</feat><!-- Makydykawo, Makydywo, Maragodydodykawo, Maragodydodywo -->
-    <feat name="Reflex" value="Yes" upos="ADP,NOUN,PRON,VERB">183</feat><!-- tabo, tuge, cimo, tuo, tumugudo, akowarudo, pu, pudumi, pui, pujoku -->
-    <feat name="Speech" value="Ind" upos="ADP,ADV,NOUN,PART,PRON,SCONJ,VERB">22</feat><!-- koiaie, dytaboie, jurekaie, kaegae, aiagu, arerumodyie, boejie, boie, dykodyie, enogwageiagu -->
-    <feat name="Subord" value="Yes" upos="ADP,PRON,VERB">16</feat><!-- imuguwo, iorudiwawo, kowujewy, amuguwo, bagaidy, bagaiwy, erudiwawo, ikadykigodykare, iorydyiwamodedydo, itykadyre -->
-    <feat name="Tense" value="Fut" upos="ADV,NOUN,PRON,VERB,X">179</feat><!-- imode, emode, pamode, amode, umode, Tamode, atumode, ikodymode, itymode, Cemode -->
-    <feat name="VerbForm" value="Ger" upos="PRON,VERB">22</feat><!-- amagoi, makoi, roi, tagagoi, tagoi, Tamaragodyi, Taregodui, Tui, akoi, amaragodui -->
-    <feat name="VerbForm" value="Inf" upos="VERB">2</feat><!-- iwogukaidy, iwogyi -->
-    <feat name="Voice" value="Cau" upos="ADV,NOUN,PRON,VERB">225</feat><!-- bito, pemegado, ebito, etagedydo, iado, kododydo, kodydo, parudo, udo, boecodydo -->
-    <feat name="Voice" value="CauInc" upos="VERB">3</feat><!-- Boigodynure, iririgo, rirygodynure -->
-    <feat name="Voice" value="CauPass" upos="NOUN,VERB">27</feat><!-- Maragodydodyre, kododyre, Badodymodykare, Cedaiwoiadody, Inagoridody, Maragodydodykare, Maragodydodykarewu, Maragodydodykawo, Maragodydodymode, Maragodydodyrewy -->
-    <feat name="Voice" value="Pass" upos="VERB">13</feat><!-- Makydy, Makydyiagu, Makydykaiagu, Makydykarewu, Makydykawo, Makydymode, Makydymodykare, Makydyrewu, Makydywo, makudure -->
+  <feats unique="69">
+    <feat name="AdvType" value="Loc" upos="ADV">245</feat><!-- woe, ure'co'woe, Botorowoe, Jawoe, Toro, meiawoe -->
+    <feat name="AdvType" value="Man" upos="ADV">274</feat><!-- oino, ino, paga, jetuiaga, cenagoino, oiaga, kaga, kaidaga, Tomé, Uiagudumaga -->
+    <feat name="AdvType" value="Mod" upos="ADV">160</feat><!-- rugadu, butoregadu, ino, joradu, urugadu -->
+    <feat name="Aspect" value="Inc" upos="VERB">159</feat><!-- akedure, akogodure, aregodure, ikiarigodure, akaregodure, kugudugodure, Akurure, akogeadure, akurugudure, Akaidure -->
+    <feat name="Aspect" value="IncProg" upos="VERB">2</feat><!-- Tagaiwonure, enogwagenure -->
+    <feat name="Aspect" value="Iter" upos="VERB">3</feat><!-- togwatugu, tagogwatugu -->
+    <feat name="Aspect" value="Prog" upos="ADV,NOUN,PRON,VERB,X">687</feat><!-- nure, unure, enure, inure, Eceraie, Uture, )nure, maenure, baarodugodunure, ekure -->
+    <feat name="Clusivity" value="Ex" upos="ADP,NOUN,PRON,VERB,X">1304</feat><!-- cere, cedure, cedaregodure, kodo, cegodo, kimo, Cegodure, cedabo, cenai, boewo -->
+    <feat name="Clusivity" value="In" upos="ADP,NOUN,PRON,VERB">1059</feat><!-- Pao, pai, paduwo, Pawo, pagimejera, pamode, page, aro, padure, pagera -->
+    <feat name="Definite" value="Ind" upos="DET,PRON">1104</feat><!-- ia, aiduia, aroia, amuga, Aienogwa, akiarega, akana, ikaia, aliança, aregoduia -->
+    <feat name="Degree" value="Dim" upos="NOUN">256</feat><!-- rogu, baporogu, bukerogu, itugu, ikeragu, negedurogu, cenorogu, inagu, nogwaredurogu, jamedurogu -->
+    <feat name="Deixis" value="Med" upos="ADV,DET">1968</feat><!-- nowu, nono, kowu, mano, Inowu, 9Nowu, pudabowu, owu, 2Nowu, 8Nowu -->
+    <feat name="Deixis" value="Prox" upos="ADV,DET">825</feat><!-- awu, woe, akudawu, ure'co'woe, Botorowoe, Jawoe, akenawu, meiawoe -->
+    <feat name="Deixis" value="Remt" upos="ADV,DET">1413</feat><!-- toro, nowu, cewu, tuwororo, jice, ecewu, Utugarece, tooro, poboce, ace -->
+    <feat name="Evident" value="Rep" upos="NOUN,VERB">14</feat><!-- tuwai, ituie, tupai, itaregoduie -->
+    <feat name="Foc" value="Yes" upos="PART">48</feat><!-- kana, na, lmana, modukana, rena, una, kuborewumana, marena, rakamoduna -->
+    <feat name="Gender" value="Fem" upos="ADP,NOUN,PRON">10</feat><!-- nowudo, Arogiarewudo, Awudo, Cebegiwudo, Duwudo, Nawudo, jewudo, jiwudo, pagawudo -->
+    <feat name="Gender" value="Masc" upos="NOUN">9</feat><!-- Ime, kaedu -->
+    <feat name="Int" value="Yes" upos="ADP,ADV,NOUN,PART,PRON">485</feat><!-- kaba, kodiba, kaiba, jiba, inoba, kaboba, kana, ioguduba, koiaba, na -->
+    <feat name="Intens" value="Yes" upos="ADV">9</feat><!-- rakaguragare -->
+    <feat name="Irr" value="Yes" upos="NOUN,PRON,VERB">2079</feat><!-- umode, imode, amode, tamode, emode, aregodumode, inagomode, pamode, padumode, boemode -->
+    <feat name="Mood" value="Des" upos="VERB">23</feat><!-- uwo, butuwo, makowo, owo, pagawo, Joruguwo, Lmeruwo, Pameruwo, Utuwo, aiwo -->
+    <feat name="Mood" value="Imp" upos="PRON,VERB">202</feat><!-- atudo, tagaba, amagodo, aragojedo, amugudo, awiapagado, mito, Akaba, awadudo, maku -->
+    <feat name="Mood" value="Ind" upos="ADP,ADV,AUX,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB,X">24174</feat><!-- ure, akore, ere, egore, ire, nure, pemegarewu, kodire, cere, makore -->
+    <feat name="Mood" value="Irr" upos="VERB">7</feat><!-- Akuruie, akaregoduie, apuie, areduie, aregoduie, atugoie, atuie -->
+    <feat name="Mood" value="Opt" upos="VERB">35</feat><!-- tubaruia, tawuduia, taigoia, turododuia, tagaruia, taregoduia, Tuborekia, tabaruia, taeruduia, tuieduia -->
+    <feat name="Mood" value="Sub" upos="NOUN,PRON,VERB">1281</feat><!-- pawo, paduwo, Ere, ewo, awo, iawo, iwo, uwo, eture, boewo -->
+    <feat name="Nomzr" value="Clau" upos="ADV,VERB">52</feat><!-- kudu, marigudu, Inogwamagudu, makudu, okudu, Bakorokudu, jitudu, kugudu, motudu, oragudu -->
+    <feat name="Nomzr" value="Rel" upos="ADJ,ADP,ADV,NOUN,PART,PRON,VERB,X">2743</feat><!-- pemegarewu, pegarewu, kejewu, kurirewu, bakurirewu, cewu, jiwuge, tadawu, kejewuge, rakarewu -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,NOUN,PART,PRON,VERB,X">16960</feat><!-- boe, ere, egore, ei, Pao, eture, ebo, cere, etai, cedure -->
+    <feat name="Number" value="Sgtv" upos="NOUN">591</feat><!-- imedu, onaregedu, braedu, aredu, turugadu, akedu, kaedu, akonaregedu, aregodu, akiridodu -->
+    <feat name="Number" value="Sing" upos="ADP,DET,NOUN,PRON,SCONJ,VERB,X">34067</feat><!-- ure, akore, ji, tabo, kae, ire, awu, keje, bogai, inagore -->
+    <feat name="Number[obj]" value="Plur" upos="PRON,VERB">111</feat><!-- etudo, paruto, emugudo, pagi, ekududo, ekujagudo, etagagirido, eedadudo, einorudo, eparudo -->
+    <feat name="Number[obj]" value="Sing" upos="VERB">151</feat><!-- ewugeje, taedadudo, towadudo, tadudo, etawuje, tamudo, tarokududo, taerdudo, tagududo, etowuje -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN">560</feat><!-- aro, ewadaru, ecerae, eimejera, ekori, paro, cenogwage, pemegago, pawiemage, tage -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN">1701</feat><!-- arowe, uwai, ikera, Ikirere, ike, iedaga, itugarege, barogwa, iaboe, ikudawu -->
+    <feat name="Number[subj]" value="Plur" upos="PRON,VERB">91</feat><!-- cegi, Jerigi, emagu, etugu, etaregodu, etawadu, ewarigu, etaidu, cemugure, pumegi -->
+    <feat name="Number[subj]" value="Sing" upos="VERB">260</feat><!-- akedure, iture, itaidure, itaregodure, imagore, imugure, akaregodure, imeartorure, itogodure, itaidu -->
+    <feat name="Person" value="1" upos="ADP,NOUN,PRON,SCONJ,VERB,X">8248</feat><!-- ire, inagore, Pao, ii, cere, cedure, imode, cedaregodure, imi, aki -->
+    <feat name="Person" value="2" upos="ADP,NOUN,PRON,VERB">4515</feat><!-- akore, tai, ai, arowe, tagi, tagae, tagai, amode, aregodumode, akiri -->
+    <feat name="Person" value="3" upos="ADP,NOUN,PART,PRON,VERB,X">32865</feat><!-- ure, ji, akore, tabo, ere, egore, kae, ei, bogai, to -->
+    <feat name="Person[obj]" value="1" upos="PRON,VERB">172</feat><!-- ewugeje, taedadudo, towadudo, tadudo, paruto, etawuje, tamudo, tarokududo, pagi, taerdudo -->
+    <feat name="Person[obj]" value="3" upos="VERB">90</feat><!-- etudo, emugudo, ekududo, ekujagudo, etagagirido, oiko, eedadudo, einorudo, eparudo, Ekureudo -->
+    <feat name="Person[psor]" value="1" upos="NOUN">53</feat><!-- inoduji, iei, Icai, imeduji, Ipi, itaregodui, Igrejadoge, Iioi, Ikodui, Iordui -->
+    <feat name="Person[subj]" value="1" upos="PRON,VERB">222</feat><!-- iture, itaidure, itaregodure, imagore, imugure, cegi, Jerigi, imeartorure, itogodure, itaidu -->
+    <feat name="Person[subj]" value="2" upos="VERB">78</feat><!-- akedure, akaregodure, Akurure, akogeadure, akurugudure, Akaidure, Akonagodure, akegodure, akodumode, ameartorumode -->
+    <feat name="Person[subj]" value="3" upos="VERB">47</feat><!-- emagu, etugu, etaregodu, etawadu, ewarigu, etaidu, Emerure, eiagu, Ekagurure, Ererure -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,INTJ,NOUN,PART,PRON,VERB,X">1748</feat><!-- karega, bokware, boro, okwa, rakare, umodukare, boekare, ikare, makokare, Bakoro -->
+    <feat name="Poss" value="Yes" upos="NOUN,X">333</feat><!-- o, egore, bataru, meriri, jorubo, kugarubo, marigurubo, erore, padarobo, biri -->
+    <feat name="Pred" value="AtrEq" upos="AUX">230</feat><!-- rema -->
+    <feat name="PronType" value="Art" upos="DET,PRON">1042</feat><!-- ia, aiduia, aroia, amuga, Aienogwa, akiarega, akana, ikaia, aliança, aregoduia -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">713</feat><!-- awu, nono, jice, nowu, mano, Utugarece, ecebacewu, ecewu, etaiwu, poboce -->
+    <feat name="PronType" value="Ind" upos="PRON">66</feat><!-- Paga, oiaga, Kaga, jetuiaga, ocemaga, Naga, jewetuiaga, kagaga, kaidaga, 5Paga -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">455</feat><!-- inoba, kodiba, icá, ioguduba, kaba, kaiba, ba, já, kaboba, cá -->
+    <feat name="PronType" value="Prs" upos="PRON,VERB">1105</feat><!-- ema, imi, aki, tagi, eimejera, imire, emage, togi, Ecera, enogwa -->
+    <feat name="PronType" value="Rcp" upos="ADP,PRON">120</feat><!-- pudabo, pui, pu, apu -->
+    <feat name="PronType" value="Rel" upos="PRON">17</feat><!-- jameduji, bataruji, pemegareuji, Bakorokuduji, Butoregaduji, bireuji, cereuji, jituji, jokoduji, negeduroguji -->
+    <feat name="PronType" value="Tot" upos="PRON">210</feat><!-- eiamedu, Imedu, jamedu, eroiagudu, ekudu, eedu, eidu, ekodu, emeardu, paiamedu -->
+    <feat name="Purp" value="Yes" upos="VERB">8</feat><!-- 8Taerduwo, Cenogwamaguduwo, Jorduwo, Pagurugoduwo, butugugoduwo, jokodukawo, kadoduwo, kororogoduwo -->
+    <feat name="Reflex" value="Yes" upos="ADP,NOUN,PRON,VERB">3879</feat><!-- tugeragu, tugera, pudui, turugadu, tumugudo, turemo, tui, turagojedo, ui, kimo -->
+    <feat name="Speech" value="Ind" upos="ADP,ADV,NOUN,PART,SCONJ,VERB">181</feat><!-- oweceraie, jetugae, kaie, ikuie, cibaie, rakuduie, eie, pegaie, Emoduie, tudumoduie -->
+    <feat name="Speech" value="IndTrans" upos="NOUN,PRON,VERB">452</feat><!-- tugeragu, tumagu, tuiagu, taedadudo, towadudo, tadudo, tageragu, turegoduiagu, muguiagu, tarokududo -->
+    <feat name="Subord" value="Yes" upos="ADP,VERB">461</feat><!-- jiwu, enowo, imugudo, eiwo, aidu, maiwu, jidu, pijidu, boetojiwu, puidu -->
+    <feat name="VerbForm" value="Ger" upos="PRON,VERB">380</feat><!-- tagoi, tuginoi, tuiordui, akiri, tugodui, makoi, akoi, tui, tumagoi, tumugui -->
+    <feat name="VerbForm" value="Inf" upos="VERB">23</feat><!-- ieraji, inoduji, Israeldogei, iaboeji, iei, Iori, Ipadui, Ipareri, iagei, ikiari -->
+    <feat name="Voice" value="Cau" upos="ADV,NOUN,PRON,VERB">3941</feat><!-- pemegado, kogudo, bito, etudo, kurido, pagado, awadudo, butudo, iogwarido, kado -->
+    <feat name="Voice" value="CauInc" upos="VERB">9</feat><!-- etaregodure, irego, imago -->
+    <feat name="Voice" value="CauPass" upos="NOUN,VERB">196</feat><!-- kododure, kode, kododu, amirewu, uruguiadodu, kadodu, itorodu, Tagorigodu, aogejewu, aregodurewu -->
+    <feat name="Voice" value="Pass" upos="VERB">54</feat><!-- makudure, Kudu, 8Taerduwo, Cenogwamaguduwo, Cenudu, Cere'parina'kudu, Ikudu, Inogwamagudu, Jorduwo, Makudumode -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="32">
-    <dep name="acl">31</dep>
-    <dep name="advcl">145</dep>
-    <dep name="advmod">563</dep>
-    <dep name="amod">6</dep>
-    <dep name="appos">35</dep>
-    <dep name="case">553</dep>
-    <dep name="cc">36</dep>
-    <dep name="ccomp">166</dep>
-    <dep name="clf">3</dep>
-    <dep name="compound">92</dep>
-    <dep name="conj">356</dep>
-    <dep name="cop">15</dep>
-    <dep name="csubj">4</dep>
-    <dep name="dep">238</dep>
-    <dep name="det">127</dep>
-    <dep name="discourse">64</dep>
-    <dep name="dislocated">8</dep>
-    <dep name="flat">14</dep>
-    <dep name="iobj">7</dep>
-    <dep name="mark">101</dep>
-    <dep name="nmod">362</dep>
-    <dep name="nsubj">889</dep>
-    <dep name="nsubj:outer">8</dep>
-    <dep name="nummod">3</dep>
-    <dep name="obj">299</dep>
-    <dep name="obl">657</dep>
-    <dep name="parataxis">329</dep>
-    <dep name="punct">935</dep>
-    <dep name="reparandum">1</dep>
-    <dep name="root">881</dep>
-    <dep name="vocative">17</dep>
-    <dep name="xcomp">48</dep>
+  <deps unique="21">
+    <dep name="acl">1</dep>
+    <dep name="advcl">824</dep>
+    <dep name="advmod">18436</dep>
+    <dep name="case">11382</dep>
+    <dep name="cc">596</dep>
+    <dep name="ccomp">2190</dep>
+    <dep name="compound">2</dep>
+    <dep name="conj">3619</dep>
+    <dep name="cop">2</dep>
+    <dep name="dep">3347</dep>
+    <dep name="det">3989</dep>
+    <dep name="discourse">316</dep>
+    <dep name="flat">1192</dep>
+    <dep name="mark">1038</dep>
+    <dep name="nmod">17639</dep>
+    <dep name="nsubj">20575</dep>
+    <dep name="obj">3240</dep>
+    <dep name="obl">13336</dep>
+    <dep name="parataxis">5134</dep>
+    <dep name="punct">32114</dep>
+    <dep name="root">21384</dep>
   </deps>
 </treebank>
