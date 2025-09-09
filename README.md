@@ -41,6 +41,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 Data available since: UD v2.12
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples spoken nonfiction bible
 Lemmas: manual native
 UPOS: manual native
