@@ -1,7 +1,118 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 5 17:01:41 2026 +0200
+Evaluating the following revision of UD_Bororo-BDT:
+commit dcf7441d50230ea2f64dd6d3f2f6dca99b84af50
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 12:05:55 2026 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'bor_bdt'
+Language code (from CoNLL-U file name) = 'bor'
+Found the following data files: bor_bdt-ud-dev.conllu, bor_bdt-ud-test.conllu, bor_bdt-ud-train.conllu
+Size: counted 160356 of 160356 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.1547926871738.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 17 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 70145 out of 160356 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 21 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 4 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang bor --max-err=10 UD_Bororo-BDT/bor_bdt-ud-dev.conllu
+[Line 100 Sent rituais_bororo-1308]: [L3 WARNING pron-det-without-prontype] The word 'ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 103 Sent rituais_bororo-1308]: [L3 WARNING pron-det-without-prontype] The word 'nowu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 156 Sent coqueiro06-0467]: [L3 WARNING pron-det-without-prontype] The word 'Ire' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 269 Sent coqueiro02-0339]: [L3 WARNING pron-det-without-prontype] The word 'Re' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 276 Sent historia_mitica_bor-0967]: [L3 WARNING pron-det-without-prontype] The word 'nowu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 280 Sent historia_mitica_bor-0967]: [L3 WARNING pron-det-without-prontype] The word 'ere' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 301 Sent historia_mitica_bor-3886]: [L3 WARNING pron-det-without-prontype] The word 'Ere' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 311 Sent historia_mitica_bor-3631]: [L3 WARNING pron-det-without-prontype] The word 'Nowu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 343 Sent novo_testamento_ochoa-7810]: [L3 WARNING pron-det-without-prontype] The word 'Umode' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 353 Sent coqueiro08-0295]: [L3 WARNING pron-det-without-prontype] The word 'Ure' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 772 Sent novo_testamento_ochoa-7927]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'aemaru') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1815 Sent novo_testamento_ochoa-4490]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'bakurirewu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3080 Sent novo_testamento_ochoa-2686]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'uiedaga') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 4974 Sent coqueiro07-0426]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'pui') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 11328 Sent coqueiro02-0898]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'Marigurubo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12653 Sent novo_testamento_ochoa-9670]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'eiamedu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12788 Sent jeremias_2-0068]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] '!'Imedage') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 13091 Sent novo_testamento_ochoa-9522]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'pagarewu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 13203 Sent novo_testamento_ochoa-2309]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 7] ('jeture', 'jiwuge') under the predicate 'etagedudo'.
+[Line 18578 Sent novo_testamento_ochoa-3017]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'emage') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 967
+SYNTAX errors: 12
+*** FAILED *** with 12 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang bor --max-err=10 UD_Bororo-BDT/bor_bdt-ud-test.conllu
+[Line 35 Sent oieigo_ritual-0206]: [L3 WARNING pron-det-without-prontype] The word 'Ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 85 Sent historia_mitica_bor-0781]: [L3 WARNING pron-det-without-prontype] The word 'ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 89 Sent historia_mitica_bor-0781]: [L3 WARNING pron-det-without-prontype] The word 'ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 108 Sent novo_testamento_ochoa-0627]: [L3 WARNING pron-det-without-prontype] The word 'nowu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 112 Sent novo_testamento_ochoa-0627]: [L3 WARNING pron-det-without-prontype] The word 'ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 138 Sent historia_mitica_bor-1685]: [L3 WARNING pron-det-without-prontype] The word 'tare' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 185 Sent historia_mitica_bor-0464]: [L3 WARNING pron-det-without-prontype] The word 'nowu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 195 Sent oieigo_do_p_rodolofo_meruri-0098]: [L3 WARNING pron-det-without-prontype] The word 'muguiagu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 222 Sent novo_testamento_ochoa-7719]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'tuginoi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 238 Sent novo_testamento_ochoa-7569]: [L3 WARNING pron-det-without-prontype] The word 'aiwu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 280 Sent historia_mitica_bor-4100]: [L3 WARNING pron-det-without-prontype] The word 'ure' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1423 Sent coqueiro04-0513]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'Mugurewu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1845 Sent novo_testamento_ochoa-9597]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'amago') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6700 Sent novo_testamento_ochoa-7784]: [L3 SYNTAX too-many-objects] Multiple direct objects [12, 13] ('oiagejewu', 'bure') under the predicate 'tugu'.
+[Line 6820 Sent novo_testamento_ochoa-8868]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'tugeragu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8363 Sent oieigo_do_p_rodolofo_meruri-0028]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'bukejewu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9006 Sent novo_testamento_ochoa-5266]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'du') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9147 Sent novo_testamento_ochoa-3191]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'brae') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12678 Sent novo_testamento_ochoa-2244]: [L3 SYNTAX obl-should-be-nmod] The parent (node [19] 'mugu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12731 Sent novo_testamento_ochoa-10809]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'emagoi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 1034
+SYNTAX errors: 16
+*** FAILED *** with 16 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang bor --max-err=10 UD_Bororo-BDT/bor_bdt-ud-train.conllu
+[Line 23 Sent coqueiro06-0598]: [L3 WARNING pron-det-without-prontype] The word 'Ire' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 79 Sent novo_testamento_ochoa-0571]: [L3 WARNING pron-det-without-prontype] The word 'ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 92 Sent oieigo_ritual-0214]: [L3 WARNING pron-det-without-prontype] The word 'Ere' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 115 Sent novo_testamento_ochoa-9924]: [L3 WARNING pron-det-without-prontype] The word 'tui' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 127 Sent historia_mitica_bor-0455]: [L3 WARNING pron-det-without-prontype] The word 'Ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 164 Sent coqueiro09-0023]: [L3 WARNING pron-det-without-prontype] The word 'Amode' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 184 Sent coqueiro05-0565]: [L3 WARNING pron-det-without-prontype] The word 'Ure' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 191 Sent coqueiro07-0119]: [L3 WARNING pron-det-without-prontype] The word 'Ire' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 199 Sent novo_testamento_ochoa-11350]: [L3 WARNING pron-det-without-prontype] The word 'Nowu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 202 Sent novo_testamento_ochoa-11350]: [L3 WARNING pron-det-without-prontype] The word 'ure' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 585 Sent historia_mitica_bor-3872]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'to') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 617 Sent novo_testamento_ochoa-7671]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'Inogwamagudu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1884 Sent adugo_biri-0114]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'boe') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3869 Sent novo_testamento_ochoa-7283]: [L3 SYNTAX obl-should-be-nmod] The parent (node [19] 'taewo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6295 Sent coqueiro07-0434]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'pui') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8713 Sent daniel_2-0014]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'iordu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9939 Sent novo_testamento_ochoa-6622]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'tageragu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 11449 Sent oieigo_kanajo_antonio_caio-0085]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'tagiridodu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12283 Sent coqueiro01-0681]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ipare') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12682 Sent coqueiro06-0116]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'pawo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 7738
+SYNTAX errors: 120
+*** FAILED *** with 120 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
+(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
+(weight=0.37037037037037) * (score{size}=0.735028404818516) = 0.272232742525376
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{udeprels}=0.567567567567568) = 0.0630630630630631
+(TOTAL score=0.601839015464983) * (availability=1) * (validity=0.01) = 0.00601839015464983
+STARS = 0
+UD_Bororo-BDT	0.00601839015464983	0
