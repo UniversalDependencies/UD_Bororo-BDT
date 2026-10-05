@@ -582,7 +582,7 @@
 8	to	to	NOUN	n	Number=Sing|Person=3	10	nmod	_	_
 9	to	_	ADP	posp	Number=Sing|Person=3	8	case	_	_
 10	to	to	NOUN	n	Number=Sing|Person=3	13	nmod	_	_
-11	Tori	tori	NOUN	n	_	10	obl	_	_
+11	Tori	tori	NOUN	n	_	10	nmod	_	_
 12	to	to	ADP	posp	Number=Sing|Person=3	11	case	_	_
 13	to	to	NOUN	n	Number=Sing|Person=3	5	obl	_	_
 14	to	to	ADP	posp	Number=Sing|Person=3	13	case	_	_
@@ -614,7 +614,7 @@
 1	3	3	NUM	_	_	2	nmod	_	_
 2	Inogwamagudu	Inogwamagudu	NOUN	n	_	6	nmod	_	_
 3	nure	nure	X	_	Aspect=Prog|Mood=Ind	2	dep	_	_
-4	tai	ai	ADP	posp	Number=Sing|Person=2	2	obl	_	_
+4	tai	ai	ADP	posp	Number=Sing|Person=2	2	nmod	_	_
 5	,	,	PUNCT	punct	_	2	punct	_	_
 6	iwiemage	wie	NOUN	n	Number=Plur|Person=1	0	root	_	_
 7	,	,	PUNCT	punct	_	10	punct	_	_
@@ -1881,7 +1881,7 @@
 1	Nowu	nowu	DET	dem	Deixis=Remt	2	det	_	_
 2	Bakororo	Bakororo	PROPN	propn	_	3	nmod	_	_
 3	ika	_	NOUN	n	_	4	nmod	_	_
-4	akedu	akedu	NOUN	n	_	6	obl	_	_
+4	akedu	akedu	NOUN	n	_	6	nmod	_	_
 5	keje	keje	ADP	posp	_	4	case	_	_
 6	boe	boe	NOUN	n	Number=Plur	7	nsubj	_	_
 7	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	8	nsubj	_	_
@@ -2097,7 +2097,7 @@
 # sent_id = coqueiro03-1004
 # text = Meri rekodugodu tabo ure nowu boe butu rogu ikududo ce pugeje nowu amirewu rogu tabo .
 1	Meri	meri	ADV	adv	_	2	nmod	_	_
-2	rekodugodu	rekodugodu	ADV	adv	_	7	obl	_	_
+2	rekodugodu	rekodugodu	ADV	adv	_	7	advmod	_	_
 3	tabo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
 5	nowu	nowu	DET	dem	Deixis=Med	6	det	_	_
@@ -3866,7 +3866,7 @@
 17	tawi	_	NOUN	n	_	23	obl	_	_
 18	piji	piji	ADP	posp	Number=Sing|Person=3	17	case	_	_
 19	taewo	aewo	NOUN	n	Number=Sing|Person=3|Reflex=Yes	23	nmod	_	_
-20	du	du	NOUN	n	_	19	obl	_	_
+20	du	du	NOUN	n	_	19	nmod	_	_
 21	kae	kae	ADP	posp	Number=Sing|Person=3	20	case	_	_
 22	du	du	ADV	adv	_	19	advmod	_	_
 23	reore	_	ADV	x	_	5	parataxis	_	_
@@ -5964,7 +5964,7 @@
 10	maku	maku	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
 11	barogo	barogo	NOUN	n	_	12	nsubj	_	_
 12	pegarewu	pega	NOUN	n	Mood=Ind|Nomzr=Rel	10	nmod	_	_
-13	ai	ji	ADP	posp	Number=Sing|Person=2	12	obl	_	_
+13	ai	ji	ADP	posp	Number=Sing|Person=2	12	nmod	_	_
 14	.	.	PUNCT	punct	_	3	punct	_	_
 
 # sent_id = novo_testamento_ochoa-1724
@@ -6292,7 +6292,7 @@
 1	Icare	icare	ADV	adv	_	4	advmod	_	_
 2	nowu	nowu	DET	dem	Deixis=Med	3	det	_	_
 3	braere	brari	NOUN	n	Number=Plur	4	nmod	_	_
-4	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	6	obl	_	_
+4	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	6	nmod	_	_
 5	to	to	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	pui	pui	PRON	_	PronType=Rcp	9	nsubj	_	_
 7	pugeje	pugeje	ADV	adv	_	6	advmod	_	_
@@ -8710,7 +8710,7 @@
 3	dutabore	dutabo	ADV	adv	Mood=Ind	1	advmod	_	_
 4	iordu	iordu	NOUN	n	Number=Sing	12	nmod	_	_
 5	nure	nure	X	_	Aspect=Prog|Mood=Ind	4	dep	_	_
-6	pobe	pobe	NOUN	n	_	4	obl	_	_
+6	pobe	pobe	NOUN	n	_	4	nmod	_	_
 7	puibiji	_	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	du	du	NOUN	n	_	9	nmod	_	_
 9	emeru	_	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	11	nmod	_	_
@@ -8750,7 +8750,7 @@
 # sent_id = novo_testamento_ochoa-6535
 # text = 8Du inodu tabo ia imedu iei Crispo cedu , nowu sinagoga bai kejewuge eimejera , meartorure Pao ji uwobe apo du kodire , Corinto bakurirewu tadawu ia makareuge emeardure Paulo bataruji , emeartorure jamedu , icare etao pegododure .
 1	8Du	8Du	ADV	adv	_	2	nmod	_	_
-2	inodu	inodu	ADV	adv	_	14	obl	_	_
+2	inodu	inodu	ADV	adv	_	14	advmod	_	_
 3	tabo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	ia	ia	DET	art	Definite=Ind|PronType=Art	5	det	_	_
 5	imedu	imedu	NOUN	n	Number=Sgtv	6	nsubj	_	_
@@ -9936,7 +9936,7 @@
 2	Awu	awu	DET	dem	Deixis=Prox	3	det	_	_
 3	tare	ta	PRON	bi	Mood=Ind|Number=Plur|Person=2	6	nsubj	_	_
 4	tageragu	ageraku	NOUN	n	_	6	obj	_	_
-5	jiwu	ji	ADP	posp	Number=Sing|Person=3|Subord=Yes	4	obl	_	_
+5	jiwu	ji	ADP	posp	Number=Sing|Person=3|Subord=Yes	4	nmod	_	_
 6	ekare	re	PART	prcl	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	1	parataxis	_	_
 7	tagimejerago	tagimejerago	NOUN	n	_	8	nsubj	_	_
 8	pegado	pega	VERB	v	Voice=Cau	6	parataxis	_	_
@@ -11446,7 +11446,7 @@
 10	Bakororo	Bakororo	PROPN	propn	_	12	nmod	_	_
 11	pudabowu	_	PROPN	propn	_	10	flat	_	_
 12	uparigogo	uparigogo	NOUN	n	_	13	nmod	_	_
-13	urugudodu	urugudodu	NOUN	n	_	7	obl	_	_
+13	urugudodu	urugudodu	NOUN	n	_	7	nmod	_	_
 14	parugajeje	parugajeje	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n\r\n
 
@@ -12280,7 +12280,7 @@
 4	ipare	iparedu	NOUN	n	Number=Plur	2	obl	_	_
 5	kugure	kugu	NOUN	n	Mood=Ind	4	nmod	_	_
 6	ei	i	ADP	posp	Number=Plur|Person=3	4	case	_	_
-7	ameduia	meduia	DET	_	Definite=Ind|PronType=Art	4	obl	_	_
+7	ameduia	meduia	DET	_	Definite=Ind|PronType=Art	4	nmod	_	_
 8	ce	ce	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n\r\n
 
@@ -12679,7 +12679,7 @@
 # text = Inagore pawo ai otoborado .
 1	Inagore	ako	VERB	v	Number=Sing|Person=1	0	root	_	_
 2	pawo	pa	NOUN	n	Mood=Sub	4	nsubj	_	_
-3	ai	ai	ADP	posp	_	2	obl	_	_
+3	ai	ai	ADP	posp	_	2	nmod	_	_
 4	otoborado	_	VERB	v	Number=Plur|Person=3|Voice=Cau	1	ccomp	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
@@ -13667,7 +13667,7 @@
 1	Cewu	cewu	DET	dem	Deixis=Remt	2	det	_	_
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 3	Aroe	_	NOUN	n	_	13	nsubj	_	_
-4	pegareuge	pegareu	NOUN	n	Number=Plur	3	obl	_	_
+4	pegareuge	pegareu	NOUN	n	Number=Plur	3	nmod	_	_
 5	ei	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 6	ikera	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	7	nsubj	_	_
 7	awubodure	awubodu	VERB	v	Mood=Ind	13	dep	_	_
@@ -15761,7 +15761,7 @@
 # sent_id = novo_testamento_ochoa-7725
 # text = Paulo ie tabo kana tagao pegododure ?
 1	Paulo	Paulo	NOUN	n	_	2	nmod	_	_
-2	ie	_	NOUN	n	_	4	obl	_	_
+2	ie	_	NOUN	n	_	4	nmod	_	_
 3	tabo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	kana	kana	NOUN	n	_	5	nmod	_	_
 5	tagao	agao	NOUN	n	Reflex=Yes	6	nsubj	_	_
@@ -18556,7 +18556,7 @@
 10	arire	ari	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
 11	pobe	_	NOUN	n	_	21	nmod	_	_
 12	ma	_ma	CCONJ	cconj	_	21	dep	_	_
-13	jewu	_	NOUN	n	_	21	obl	_	_
+13	jewu	_	NOUN	n	_	21	nmod	_	_
 14	metuia	metuia	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	bokware	bokware	AUX	cop	Mood=Ind|Polarity=Neg	18	dep	_	_
 16	tu	tu	ADV	adv	_	18	advmod	_	_
@@ -20070,7 +20070,7 @@
 15	enogorawu	ogora	NOUN	n	Nomzr=Rel|Number=Plur|Person=3	21	obj	_	_
 16	ikera	ikera	NOUN	n	_	17	nmod	_	_
 17	awubodure	awubodu	NOUN	n	Mood=Ind	18	nmod	_	_
-18	pobe	pobe	NOUN	n	_	15	obl	_	_
+18	pobe	pobe	NOUN	n	_	15	nmod	_	_
 19	taci	taci	ADP	posp	_	18	case	_	_
 20	ikera	_	NOUN	n	_	21	nsubj	_	_
 21	awubowuto	awubowuto	VERB	v	Number=Sing|Person=3	10	parataxis	_	_
@@ -21774,7 +21774,7 @@
 35	,	,	PUNCT	punct	_	37	punct	_	_
 36	boe	boe	NOUN	n	_	37	nsubj	_	_
 37	biarewu	bia	NOUN	n	Mood=Ind|Nomzr=Rel	34	nmod	_	_
-38	tada	tada	ADP	posp	_	37	obl	_	_
+38	tada	tada	ADP	posp	_	37	nmod	_	_
 39	,	,	PUNCT	punct	_	41	punct	_	_
 40	pobo	pobo	NOUN	n	_	41	nsubj	_	_
 41	maerewu	mae	NOUN	n	Mood=Ind|Nomzr=Rel	37	conj	_	_
@@ -23775,7 +23775,7 @@
 6	makore	mako	ADV	adv	Mood=Ind	12	advmod	_	_
 7	to	to	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	compadre	compadre	NOUN	n	_	12	nmod	_	_
-9	pobogo	pobogo	NOUN	n	_	8	obl	_	_
+9	pobogo	pobogo	NOUN	n	_	8	nmod	_	_
 10	bogai	bogai	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	turegodowo	uregodowo	NOUN	n	Number=Sing|Person=3|Reflex=Yes	12	nmod	_	_
 12	puicakurige	_	NOUN	n	Clusivity=Ex|Number=Plur|Number[psor]=Plur|Person=1	0	root	_	_
@@ -24111,7 +24111,7 @@
 10	koiare	koia	VERB	v	Mood=Ind	2	conj	_	_
 11	ceemode	cee	NOUN	n	Irr=Yes|Mood=Ind	2	obl	_	_
 12	apo	apo	ADP	posp	Number=Sing|Person=3	11	case	_	_
-13	cemaragoduwo	cemaragodu	NOUN	n	Mood=Sub	11	obl	_	_
+13	cemaragoduwo	cemaragodu	NOUN	n	Mood=Sub	11	nmod	_	_
 14	tadoda	_	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	2	punct	_	_
 
@@ -24364,7 +24364,7 @@
 1	Boetoji	boetoji	ADV	adv	_	3	advmod	_	_
 2	ere	_	PRON	bi	Mood=Ind|Number=Plur|Person=3	3	nsubj	_	_
 3	tumagu	_	NOUN	n	Reflex=Yes|Speech=IndTrans	14	nmod	_	_
-4	Pao	pao	PROPN	propn	_	3	obl	_	_
+4	Pao	pao	PROPN	propn	_	3	nmod	_	_
 5	ai	ai	ADP	posp	Number=Sing|Person=2	4	case	_	_
 6	,	,	PUNCT	punct	_	11	punct	_	_
 7	dukeje	du	SCONJ	x	_	8	dep	_	_
@@ -26103,7 +26103,7 @@
 # sent_id = oieigo_ritual-0108
 # text = Aienogwa eko baraia , icare okoge etugo parure tagai .
 1	Aienogwa	ienogwa	DET	_	Definite=Ind|PronType=Art	2	det	_	_
-2	eko	eko	NOUN	n	_	7	obl	_	_
+2	eko	eko	NOUN	n	_	7	nmod	_	_
 3	baraia	baraia	ADP	posp	_	2	case	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	icare	ica	ADV	adv	Mood=Ind	7	advmod	_	_
@@ -28087,7 +28087,7 @@
 # newpar
 # text = Nowu du kodi ipare ei ikera awubodure pobe taci ikera awubowuto etugudodure baicoreuto tuje apo .
 1	Nowu	nowu	DET	dem	Deixis=Remt	2	det	_	_
-2	du	du	PROPN	propn	_	4	obl	_	_
+2	du	du	PROPN	propn	_	4	nmod	_	_
 3	kodi	_	SCONJ	sconj	_	2	case	_	_
 4	ipare	ipare	NOUN	n	_	6	nmod	_	_
 5	ei	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
@@ -30395,7 +30395,7 @@
 5	pawo	pa	NOUN	n	Mood=Sub	6	nsubj	_	_
 6	paremo	paremo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	7	nmod	_	_
 7	Pao	~_~pao	NOUN	n	_	8	nmod	_	_
-8	mugurewo	mugure	NOUN	n	Mood=Sub	10	obl	_	_
+8	mugurewo	mugure	NOUN	n	Mood=Sub	10	nmod	_	_
 9	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 10	pabagai	pabagai	NOUN	n	_	11	nmod	_	_
 11	boe	_	NOUN	n	_	12	nmod	_	_
@@ -30804,7 +30804,7 @@
 4	tugu	tugu	VERB	vt	Number=Sing|Person=3	0	root	_	_
 5	pawaboto	_	PROPN	propn	_	7	nsubj	_	_
 6	nono	nono	PROPN	propn	_	5	flat	_	_
-7	turoi	ro	VERB	v	Reflex=Yes|VerbForm=Ger	10	obl	_	_
+7	turoi	ro	VERB	v	Reflex=Yes|VerbForm=Ger	10	advcl	_	_
 8	paidu	paidu	ADP	posp	Number=Sing|Person=3|Subord=Yes	7	case	_	_
 9	jamedu	_	ADV	adv	_	7	advmod	_	_
 10	boe	boe	NOUN	n	_	4	obl	_	_
@@ -31788,7 +31788,7 @@
 7	,	,	PUNCT	punct	_	9	punct	_	_
 8	nowu	nowu	DET	dem	Deixis=Med	9	det	_	_
 9	tuge	ke	NOUN	n	Reflex=Yes	10	nmod	_	_
-10	barogo	barogo	NOUN	n	_	12	obl	_	_
+10	barogo	barogo	NOUN	n	_	12	nmod	_	_
 11	koduji	koduji	ADP	posp	Number=Sing|Person=3	10	case	_	_
 12	pa	pa	NOUN	n	_	6	obl	_	_
 13	?	?	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n
@@ -32218,7 +32218,7 @@
 # sent_id = rituais_bororo-0367
 # text = Mano iwo rakojere tuiawo okwa .
 1	Mano	~_~mano	NOUN	n	Number=Plur|Person=1	3	nsubj	_	_
-2	iwo	wo	SCONJ	sc	Number=Sing|Person=1	1	obl	_	_
+2	iwo	wo	SCONJ	sc	Number=Sing|Person=1	1	nmod	_	_
 3	rakojere	kakoje	VERB	v	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 4	tuiawo	ia	VERB	v	Mood=Sub|Number=Plur|Person=3|Reflex=Yes	0	root	_	_
 5	okwa	okwa	ADV	adv	Polarity=Neg	4	advmod	_	_
@@ -33800,9 +33800,9 @@
 3	onare	ona	ADV	adv	Mood=Ind	8	advmod	_	_
 4	aiwuge	_	DET	dem	_	5	det	_	_
 5	ewu	_	NOUN	n	_	6	nsubj	_	_
-6	awure	awure	NOUN	n	_	8	obl	_	_
+6	awure	awure	NOUN	n	_	8	nmod	_	_
 7	kuda	kuda	ADP	posp	_	6	case	_	_
-8	du	du	NOUN	n	_	1	obl	_	_
+8	du	du	NOUN	n	_	1	nmod	_	_
 9	kae	kae	ADP	posp	Number=Sing|Person=3	8	case	_	_
 10	4	4	NUM	_	_	0	root	_	_
 
@@ -33911,7 +33911,7 @@
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	cedaregodure	aregodu	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
 3	nowu	nowu	DET	dem	Deixis=Med	4	det	_	_
-4	pobo	pobo	NOUN	n	_	6	obl	_	_
+4	pobo	pobo	NOUN	n	_	6	nmod	_	_
 5	oia	oia	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	mugu	mugu	NOUN	n	_	2	obl	_	_
 7	kae	kae	ADP	posp	Number=Sing|Person=3	6	case	_	_
@@ -37093,7 +37093,7 @@
 11	boere	boe	VERB	v	Mood=Ind	7	parataxis	_	_
 12	boe	boe	NOUN	n	_	13	nmod	_	_
 13	pa	pa	NOUN	n	_	15	nmod	_	_
-14	Iogai	~_~iogai	ADP	posp	Number=Sing|Person=1	13	obl	_	_
+14	Iogai	~_~iogai	ADP	posp	Number=Sing|Person=1	13	nmod	_	_
 15	irojai	rojai	NOUN	n	Number[psor]=Sing|Person[psor]=1	11	obl	_	_
 16	duji	duji	ADP	posp	Number=Sing|Person=3	15	case	_	_
 17	.	.	PUNCT	punct	_	11	punct	_	_
@@ -38022,7 +38022,7 @@
 1	Awu	awu	DET	dem	Deixis=Prox	2	det	_	_
 2	meri	_	NOUN	n	_	3	nsubj	_	_
 3	boe	_	NOUN	n	_	4	nmod	_	_
-4	eiamedu	eiamedu	NOUN	n	_	6	obl	_	_
+4	eiamedu	eiamedu	NOUN	n	_	6	nmod	_	_
 5	jekarere	jekare	ADP	posp	Mood=Ind	4	case	_	_
 6	Pemo	Pemo	PROPN	propn	_	7	nmod	_	_
 7	ie	_	NOUN	n	_	0	root	_	_
@@ -39140,7 +39140,7 @@
 1	Umode	u	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 2	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
 3	amirewu	ami	NOUN	n	Mood=Ind|Nomzr=Rel	5	obj	_	_
-4	kowujewu	kowuj	ADP	posp	Nomzr=Rel	3	obl	_	_
+4	kowujewu	kowuj	ADP	posp	Nomzr=Rel	3	nmod	_	_
 5	jemode	je	VERB	v	Irr=Yes|Mood=Ind	0	root	_	_
 6	jii	jii	ADV	adv	_	5	advmod	_	_
 7	je	je	ADV	adv	_	5	advmod	_	_
@@ -40365,7 +40365,7 @@
 1	Cebagare	cebagare	NOUN	n	_	2	nmod	_	_
 2	boe	_	NOUN	n	_	3	nmod	_	_
 3	butugurewu	butugu	NOUN	n	Mood=Ind|Nomzr=Rel	7	nmod	_	_
-4	bogai	bogai	ADP	posp	Number=Sing|Person=3	3	obl	_	_
+4	bogai	bogai	ADP	posp	Number=Sing|Person=3	3	nmod	_	_
 5	:	:	PUNCT	punct	_	7	punct	_	_
 6	boe	boe	NOUN	n	_	7	nsubj	_	_
 7	pemega	_	NOUN	n	_	0	root	_	_
@@ -41272,7 +41272,7 @@
 6	mare	mare	CCONJ	cconj	_	7	cc	_	_
 7	ocarokare	ocaro	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 8	pudui	pudui	PRON	_	Reflex=Yes	9	nsubj	_	_
-9	Aroe	Aroe	NOUN	n	_	11	obl	_	_
+9	Aroe	Aroe	NOUN	n	_	11	nmod	_	_
 10	Eimejerai	Eimejerai	ADP	posp	_	9	case	_	_
 11	pudumi	pudumi	PRON	_	Reflex=Yes	12	nmod	_	_
 12	duji	duji	X	_	_	7	dep	_	_
@@ -42236,7 +42236,7 @@
 13	boe	boe	NOUN	n	_	14	nmod	_	_
 14	a	a	NOUN	n	_	15	nmod	_	_
 15	kududowu	kududo	NOUN	n	Nomzr=Rel	9	obl	_	_
-16	tori	tori	NOUN	n	_	15	obl	_	_
+16	tori	tori	NOUN	n	_	15	nmod	_	_
 17	akoji	oji	ADP	posp	Number=Sing|Person=2	16	case	_	_
 18	pugeje	pugeje	ADV	adv	_	15	advmod	_	_
 19	.	.	PUNCT	punct	_	9	punct	_	_
@@ -44036,7 +44036,7 @@
 7	,	,	PUNCT	punct	_	6	punct	_	_
 8	pobo	pobo	NOUN	n	_	9	nmod	_	_
 9	maerewu	mae	NOUN	n	Mood=Ind|Nomzr=Rel	4	nmod	_	_
-10	kaowuge	kao	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	9	obl	_	_
+10	kaowuge	kao	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	9	nmod	_	_
 11	eiamedu	_	PRON	pron	PronType=Tot	12	nmod	_	_
 12	boe	_	NOUN	n	_	18	nmod	_	_
 13	,	,	PUNCT	punct	_	14	punct	_	_
@@ -44919,7 +44919,7 @@
 5	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	6	det	_	_
 6	inoduji	noduji	NOUN	n	Number[psor]=Sing|Person[psor]=1	9	nmod	_	_
 7	iragojei	ragojei	ADP	posp	Number=Sing|Person=1	6	case	_	_
-8	tagabo	apo	ADP	posp	Number=Plur|Person=2	6	obl	_	_
+8	tagabo	apo	ADP	posp	Number=Plur|Person=2	6	nmod	_	_
 9	kimo	kimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	2	obl	_	_
 10	dutabo	dutabo	SCONJ	sconj	_	9	case	_	_
 11	?	?	PUNCT	punct	_	2	punct	_	_
@@ -49505,7 +49505,7 @@
 
 # sent_id = coqueiro02-1587
 # text = Seu pai é Ewiriga .
-1	Seu	Seu	ADV	adv	_	3	obl	_	_
+1	Seu	Seu	ADV	adv	_	3	advmod	_	_
 2	pai	ji	ADP	posp	Clusivity=In|Number=Plur|Person=1	1	case	_	_
 3	é	é	PROPN	propn	_	4	nmod	_	_
 4	Ewiriga	ewiriga	PRON	pron	Number=Sing|Person=3|PronType=Prs	0	root	_	_
@@ -52806,7 +52806,7 @@
 3	cewu	_	NOUN	n	_	4	nsubj	_	_
 4	meardure	meardu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 5	Pao	pao	PROPN	propn	_	6	nmod	_	_
-6	bataru	_	PROPN	propn	_	8	obl	_	_
+6	bataru	_	PROPN	propn	_	8	nmod	_	_
 7	jiwuge	ji	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	6	case	_	_
 8	eiamedu	_	PRON	pron	PronType=Tot	9	nmod	_	_
 9	boe	boe	NOUN	n	Number=Plur	4	conj	_	_
@@ -56824,7 +56824,7 @@
 17	iromodukare	ro	VERB	v	Irr=Yes|Mood=Ind|Number=Sing|Person=1|Polarity=Neg	14	parataxis	_	_
 18	ai	ai	ADP	posp	Number=Sing|Person=2	23	dep	_	_
 19	aro	aro	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	23	nsubj	_	_
-20	magai	magai	NOUN	n	_	19	obl	_	_
+20	magai	magai	NOUN	n	_	19	nmod	_	_
 21	ei	ji	ADP	posp	Number=Plur|Person=3	20	case	_	_
 22	du	du	ADV	adv	_	23	advmod	_	_
 23	reore	reo	VERB	v	Mood=Ind|Number=Sing|Person=3	17	parataxis	_	_
@@ -57220,7 +57220,7 @@
 1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	awo	a	PRON	bi	Mood=Sub|Number=Sing|Person=2	3	nsubj	_	_
 3	metu	_	NOUN	n	_	7	obj	_	_
-4	itadaboe	_	NOUN	n	_	3	obl	_	_
+4	itadaboe	_	NOUN	n	_	3	nmod	_	_
 5	koiare	koia	ADP	posp	Mood=Ind	4	case	_	_
 6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
 7	rawuje	rawuje	VERB	vt	Number=Sing|Person=3	1	ccomp	_	_
@@ -59076,7 +59076,7 @@
 18	!	!	PUNCT	punct	_	25	punct	_	_
 19	(	(	PUNCT	punct	_	25	punct	_	_
 20	Boe	boe	NOUN	n	_	21	nmod	_	_
-21	ewadaru	bataru	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	23	obl	_	_
+21	ewadaru	bataru	NOUN	n	Number=Sing|Number[psor]=Plur|Person=3	23	nmod	_	_
 22	tabo	tabo	ADP	posp	Number=Sing|Person=3	21	case	_	_
 23	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	25	nsubj	_	_
 24	oino	oino	ADV	adv	_	25	advmod	_	_
@@ -61795,7 +61795,7 @@
 # sent_id = coqueiro07-0431
 # text = Bruno rakoja kae , akore pois é gente !
 1	Bruno	_	NOUN	n	Number=Plur|Person=1	5	nsubj	_	_
-2	rakoja	rakoja	NOUN	n	_	1	obl	_	_
+2	rakoja	rakoja	NOUN	n	_	1	nmod	_	_
 3	kae	kae	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
 5	akore	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -62229,7 +62229,7 @@
 # newpar
 # text = Du akedu keje ure turagojedo taci : Cibaio Tawadu Ho ho ...
 1	Du	du	NOUN	n	_	2	nmod	_	_
-2	akedu	akedu	NOUN	n	Number=Sgtv	4	obl	_	_
+2	akedu	akedu	NOUN	n	Number=Sgtv	4	nmod	_	_
 3	keje	keje	ADP	posp	Number=Sing	2	case	_	_
 4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 5	turagojedo	ragojedo	VERB	v	Number=Sing|Person=3|Reflex=Yes|Voice=Cau	0	root	_	_
@@ -62807,12 +62807,12 @@
 4	Jesus	Jesus	NOUN	n	_	5	nsubj	_	_
 5	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
 6	tugeragu	_	NOUN	n	Reflex=Yes|Speech=IndTrans	15	nsubj	_	_
-7	nowu	_	PROPN	propn	_	6	obl	_	_
+7	nowu	_	PROPN	propn	_	6	nmod	_	_
 8	imeduji	meduji	ADP	posp	Number=Sing|Person=1	7	case	_	_
 9	,	,	PUNCT	punct	_	11	punct	_	_
 10	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	11	nsubj	_	_
 11	pemegago	pemegago	NOUN	n	_	13	nmod	_	_
-12	taci	taci	ADP	posp	_	11	obl	_	_
+12	taci	taci	ADP	posp	_	11	nmod	_	_
 13	je	je	ADV	adv	_	6	conj	_	_
 14	,	,	PUNCT	punct	_	13	punct	_	_
 15	imadure	madu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -64122,7 +64122,7 @@
 5	jodo	jodo	NOUN	n	_	2	obl	_	_
 6	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	5	case	_	_
 7	awure	awu	DET	dem	Mood=Ind	8	det	_	_
-8	joia	joia	NOUN	n	_	5	obl	_	_
+8	joia	joia	NOUN	n	_	5	nmod	_	_
 9	keje	keje	ADP	posp	_	8	case	_	_
 10	pugeje	pugeje	ADV	adv	_	5	advmod	_	_
 11	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\r\n
@@ -65208,7 +65208,7 @@
 
 # sent_id = coqueiro04-0480
 # text = Du keje eiamedu boe .
-1	Du	du	NOUN	n	_	3	obl	_	_
+1	Du	du	NOUN	n	_	3	nmod	_	_
 2	keje	keje	ADP	posp	_	1	case	_	_
 3	eiamedu	_	PRON	pron	PronType=Tot	4	nmod	_	_
 4	boe	boe	NOUN	n	Number=Sing|Person=3	0	root	_	_
@@ -68559,7 +68559,7 @@
 10	Pagogwa	ogwa	VERB	v	Clusivity=In|Number=Plur|Person=2	5	conj	_	_
 11	kuguwo	kugu	NOUN	n	Mood=Sub	10	obl	_	_
 12	tabo	tabo	ADP	posp	Number=Sing|Person=3	11	case	_	_
-13	kare	karo	NOUN	n	Number=Plur	11	obl	_	_
+13	kare	karo	NOUN	n	Number=Plur	11	nmod	_	_
 14	ekaguruto	_	ADP	posp	Number=Plur|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\r\n\r\n
 
@@ -69182,7 +69182,7 @@
 3	icare	icare	ADV	adv	_	8	advmod	_	_
 4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 5	tumago	tumago	NOUN	n	_	8	nmod	_	_
-6	okorido	_	NOUN	n	_	5	obl	_	_
+6	okorido	_	NOUN	n	_	5	nmod	_	_
 7	ei	ji	ADP	posp	Number=Plur|Person=3	6	case	_	_
 8	emago	ma	NOUN	v	Number=Plur|Person=3|Voice=Cau	9	nmod	_	_
 9	kawo	ka	NOUN	n	Mood=Sub	0	root	_	_
@@ -75635,7 +75635,7 @@
 3	muguwo	mugu	NOUN	n	Mood=Sub	12	nmod	_	_
 4	itabo	apo	ADP	posp	Number=Sing|Person=1	3	case	_	_
 5	taiwowo	aiwowo	NOUN	n	Number=Sing|Person=3|Reflex=Yes	12	nmod	_	_
-6	ii	ji	ADP	posp	Number=Sing|Person=1	5	obl	_	_
+6	ii	ji	ADP	posp	Number=Sing|Person=1	5	nmod	_	_
 7	akarobi	arobi	ADP	posp	Number=Sing|Person=2	5	case	_	_
 8	baicorewu	baicorewu	PROPN	propn	_	9	nmod	_	_
 9	tada	tada	NOUN	n	_	10	nmod	_	_
@@ -76084,7 +76084,7 @@
 # sent_id = rituais_bororo-1331
 # text = Cenaia kajejewu cibaiu emeru owotogudare .
 1	Cenaia	Cenaia	NOUN	n	_	3	nmod	_	_
-2	kajejewu	kajej	ADP	posp	Nomzr=Rel	1	obl	_	_
+2	kajejewu	kajej	ADP	posp	Nomzr=Rel	1	nmod	_	_
 3	cibaiu	cibaiu	NOUN	n	_	4	nmod	_	_
 4	emeru	meru	NOUN	n	Number=Plur|Person=3	5	nsubj	_	_
 5	owotogudare	owotoguda	VERB	v	Mood=Ind	0	root	_	_
@@ -76523,7 +76523,7 @@
 # text = 6Pamagomodukare Pao bataru kodukae pudui duji .
 1	6Pamagomodukare	6Pamagomodu	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 2	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	3	nmod	_	_
-3	bataru	bataru	NOUN	n	_	5	obl	_	_
+3	bataru	bataru	NOUN	n	_	5	nmod	_	_
 4	kodukae	_	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	pudui	pudui	PRON	_	Reflex=Yes	6	nmod	_	_
 6	duji	duji	X	_	_	1	dep	_	_
@@ -76738,7 +76738,7 @@
 8	awiapagawo	awiapaga	PRON	bi	Mood=Sub|Number=Sing|Person=2	9	nsubj	_	_
 9	awudugu	wudu	NOUN	n	Number=Sing|Person=2	1	obl	_	_
 10	tabo	_	ADP	adp	Number=Sing|Person=3	9	case	_	_
-11	iwadaruji	wadaruji	ADP	posp	Number=Sing|Person=1	9	obl	_	_
+11	iwadaruji	wadaruji	ADP	posp	Number=Sing|Person=1	9	nmod	_	_
 12	.	.	PUNCT	punct	_	1	punct	_	_
 
 # sent_id = coqueiro06-0747
@@ -78134,7 +78134,7 @@
 1	Cordeiro	Cordeiro	NOUN	n	_	2	nmod	_	_
 2	ui	_	PRON	_	Reflex=Yes	3	nsubj	_	_
 3	krucadoge	kruca	NOUN	n	Number=Plur	6	nmod	_	_
-4	boetojiwuge	boetojiwu	NOUN	n	Number=Plur	3	obl	_	_
+4	boetojiwuge	boetojiwu	NOUN	n	Number=Plur	3	nmod	_	_
 5	ei	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
 6	ikera	ke	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	7	nsubj	_	_
 7	awubodure	awubodu	VERB	v	Mood=Ind	0	root	_	_
@@ -79165,7 +79165,7 @@
 2	Nabot	Nabot	NOUN	n	_	3	nmod	_	_
 3	o	o	NOUN	n	_	4	nmod	_	_
 4	bakurirewu	bakuri	NOUN	n	Mood=Ind|Nomzr=Rel	6	nmod	_	_
-5	kejewu	kej	ADP	posp	Nomzr=Rel	4	obl	_	_
+5	kejewu	kej	ADP	posp	Nomzr=Rel	4	nmod	_	_
 6	ime	imedu	NOUN	n	Number=Plur	14	nsubj	_	_
 7	,	,	PUNCT	punct	_	9	punct	_	_
 8	boe	boe	NOUN	n	Number=Plur	9	nsubj	_	_
@@ -80609,7 +80609,7 @@
 # text = Iorubodare Jerigi Otojiwu akae !
 1	Iorubodare	~_~iorubodare	NOUN	n	_	4	nmod	_	_
 2	Jerigi	Jerigi	ADP	posp	_	1	case	_	_
-3	Otojiwu	Otoji	ADP	posp	Nomzr=Rel	1	obl	_	_
+3	Otojiwu	Otoji	ADP	posp	Nomzr=Rel	1	nmod	_	_
 4	akae	akae	NOUN	n	_	0	root	_	_
 5	!	!	PUNCT	punct	_	4	punct	_	_
 
@@ -82383,7 +82383,7 @@
 13	tagai	ai	ADP	posp	Number=Sing|Person=2	12	obl	_	_
 14	muguwo	mugu	NOUN	n	Mood=Sub	12	obl	_	_
 15	tagabo	apo	ADP	posp	Number=Plur|Person=2	14	case	_	_
-16	boe	boe	NOUN	n	Number=Plur	14	obl	_	_
+16	boe	boe	NOUN	n	Number=Plur	14	nmod	_	_
 17	jameduji	jameduji	ADP	posp	Number=Sing|Person=3	16	case	_	_
 18	jii	jii	ADV	adv	_	12	advmod	_	_
 19	je	je	ADV	adv	_	12	advmod	_	_
@@ -82932,7 +82932,7 @@
 # sent_id = historia_mitica_bor-3056
 # text = Nowu Bororo kejere ere tubemegado .
 1	Nowu	nowu	DET	dem	Deixis=Remt	2	det	_	_
-2	Bororo	Bororo	PROPN	propn	_	4	obl	_	_
+2	Bororo	Bororo	PROPN	propn	_	4	nmod	_	_
 3	kejere	keje	SCONJ	sconj	Mood=Ind	2	case	_	_
 4	ere	_	PRON	bi	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
 5	tubemegado	_	VERB	v	_	0	root	_	_
@@ -84407,7 +84407,7 @@
 10	tu	tu	ADV	adv	_	9	advmod	_	_
 11	tu	tu	ADV	adv	_	12	advmod	_	_
 12	tawugeje	_	VERB	n	_	13	nmod	_	_
-13	cenogwa	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	15	obl	_	_
+13	cenogwa	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	15	nmod	_	_
 14	kuridodae	_	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	boe	_	NOUN	n	_	2	obl	_	_
 16	keje	keje	ADP	posp	_	15	case	_	_
@@ -84840,7 +84840,7 @@
 20	ji	ji	ADP	posp	Number=Sing|Person=3	19	case	_	_
 21	nowu	nowu	DET	dem	Deixis=Remt	22	det	_	_
 22	Pao	pao	PROPN	propn	_	23	nsubj	_	_
-23	uwai	bai	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	19	obl	_	_
+23	uwai	bai	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	19	nmod	_	_
 24	tada	tada	ADP	posp	_	23	case	_	_
 25	,	,	PUNCT	punct	_	30	punct	_	_
 26	du	du	ADV	adv	_	30	advmod	_	_
@@ -85420,7 +85420,7 @@
 # sent_id = historia_mitica_bor-2780
 # text = Nowu boeto jiwu kidoguru rema , ema karega .
 1	Nowu	nowu	DET	dem	Deixis=Med	2	det	_	_
-2	boeto	boeto	NOUN	n	Number=Sing	4	obl	_	_
+2	boeto	boeto	NOUN	n	Number=Sing	4	nmod	_	_
 3	jiwu	ji	ADP	posp	Number=Sing|Person=3|Subord=Yes	2	case	_	_
 4	kidoguru	kidoguru	NOUN	n	Number=Sing	5	nsubj	_	_
 5	rema	rema	AUX	cop	Pred=AtrEq	6	dep	_	_
@@ -85807,7 +85807,7 @@
 14	oe	oe	NOUN	n	_	19	nsubj	_	_
 15	kuricigore	kurucigo	NOUN	n	Mood=Ind	16	nmod	_	_
 16	Jesus	Jesus	NOUN	n	_	14	nmod	_	_
-17	Cristo	Cristo	NOUN	n	_	16	obl	_	_
+17	Cristo	Cristo	NOUN	n	_	16	nmod	_	_
 18	tada	tada	ADP	posp	_	17	case	_	_
 19	du	du	PART	prcl	Nomzr=Rel	12	dep	_	_
 20	kodi	kodi	SCONJ	sconj	_	12	mark	_	_
@@ -85996,7 +85996,7 @@
 # text = Ure kaidaga ai kado , ure tawuje mato cedae .
 1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 2	kaidaga	kaidaga	NOUN	n	_	4	obj	_	_
-3	ai	ai	ADP	posp	_	2	obl	_	_
+3	ai	ai	ADP	posp	_	2	nmod	_	_
 4	kado	kado	VERB	v	Number=Sing|Person=3	0	root	_	_
 5	,	,	PUNCT	punct	_	7	punct	_	_
 6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
@@ -86052,7 +86052,7 @@
 # sent_id = coqueiro02-0688
 # text = Kaia to to Kaia to to .
 1	Kaia	Kaia	NOUN	n	_	2	nmod	_	_
-2	to	to	NOUN	n	Number=Sing|Person=3	4	obl	_	_
+2	to	to	NOUN	n	Number=Sing|Person=3	4	nmod	_	_
 3	to	to	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	Kaia	Kaia	NOUN	n	_	5	nmod	_	_
 5	to	to	NOUN	n	Number=Sing|Person=3	0	root	_	_
@@ -86321,7 +86321,7 @@
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	pagaregodure	pagaregodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 5	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	6	det	_	_
-6	moto	moto	NOUN	n	_	9	obl	_	_
+6	moto	moto	NOUN	n	_	9	nmod	_	_
 7	kae	kae	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	boe	boe	NOUN	n	_	9	nmod	_	_
 9	bokwa	bokwa	NOUN	n	_	4	obl	_	_
@@ -86778,7 +86778,7 @@
 10	Marenarure	marenarure	NOUN	n	_	11	nmod	_	_
 11	ema	ema	PRON	pron	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	tumeartoru	_	NOUN	n	_	20	obj	_	_
-13	bogaiwu	bogai	ADP	posp	Number=Sing|Person=3|Subord=Yes	12	obl	_	_
+13	bogaiwu	bogai	ADP	posp	Number=Sing|Person=3|Subord=Yes	12	nmod	_	_
 14	ime	ime	ADV	adv	_	12	advmod	_	_
 15	,	,	PUNCT	punct	_	17	punct	_	_
 16	kodiba	kodi	PRON	pron	PronType=Int	17	nsubj	_	_
@@ -91499,7 +91499,7 @@
 10	Pao	~_~pao	NOUN	n	_	9	obl	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
 12	ime	ime	NOUN	n	_	13	nmod	_	_
-13	eparu	_	NOUN	noun	Number=Plur|Person=3	16	obl	_	_
+13	eparu	_	NOUN	noun	Number=Plur|Person=3	16	nmod	_	_
 14	tabowu	tabo	ADP	posp	Nomzr=Rel	13	case	_	_
 15	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	16	nsubj	_	_
 16	mito	mito	NOUN	n	_	18	nmod	_	_
@@ -92246,7 +92246,7 @@
 # text = Israeldoge , kaboba jiba Tao Aroe Eimejera okwamagudure tai ?
 1	Israeldoge	sraeldoge	NOUN	n	Number=Plur|Number[psor]=Sing|Person=1	3	nmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	kaboba	kabo	NOUN	n	Int=Yes	5	obl	_	_
+3	kaboba	kabo	NOUN	n	Int=Yes	5	nmod	_	_
 4	jiba	_	ADP	posp	Int=Yes	3	case	_	_
 5	Tao	tao	PROPN	propn	_	7	nmod	_	_
 6	Aroe	aroe	NOUN	n	Number=Plur	7	nmod	_	_
@@ -92417,7 +92417,7 @@
 # text = 5Ceerdure awu imeduji , pega remawure , ure boe erugo pui boe jamedu boe keje , judeudoge etada .
 1	5Ceerdure	5ceerdure	NOUN	n	_	14	nmod	_	_
 2	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	_
-3	imeduji	meduji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+3	imeduji	meduji	ADP	posp	Number=Sing|Person=1	1	nmod	_	_
 4	,	,	PUNCT	punct	_	6	punct	_	_
 5	pega	pega	NOUN	n	_	6	nsubj	_	_
 6	remawure	_	VERB	v	_	1	conj	_	_
@@ -92966,7 +92966,7 @@
 2	Tare	ta	VERB	v	Mood=Ind	0	root	_	_
 3	iaboe	aboe	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	obl	_	_
 4	erojai	_	ADP	posp	Number=Plur|Person=3	3	case	_	_
-5	João	João	PROPN	propn	_	3	obl	_	_
+5	João	João	PROPN	propn	_	3	nmod	_	_
 6	ae	_	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	,	,	PUNCT	punct	_	8	punct	_	_
 8	makore	mako	VERB	v	Mood=Ind	2	parataxis	_	_
@@ -95466,7 +95466,7 @@
 3	iromode	ro	VERB	v	Irr=Yes|Mood=Ind|Number=Sing|Person=1	0	root	_	_
 4	boewo	boe	NOUN	n	Mood=Sub	5	nsubj	_	_
 5	tugeragu	_	NOUN	n	Reflex=Yes|Speech=IndTrans	7	nmod	_	_
-6	ii	ji	ADP	posp	Number=Sing|Person=1	5	obl	_	_
+6	ii	ji	ADP	posp	Number=Sing|Person=1	5	nmod	_	_
 7	tuwai	_	NOUN	n	_	3	obl	_	_
 8	kae	kae	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	du	du	PART	prcl	_	3	obl	_	_
@@ -97970,7 +97970,7 @@
 9	jii	_	ADV	adv	_	14	advmod	_	_
 10	ia	ia	DET	art	Definite=Ind|PronType=Art	11	det	_	_
 11	bakurirewu	bakuri	NOUN	n	Mood=Ind|Nomzr=Rel	14	nmod	_	_
-12	iei	ei	ADP	posp	Number=Sing|Person=1	11	obl	_	_
+12	iei	ei	ADP	posp	Number=Sing|Person=1	11	nmod	_	_
 13	Ptolomaida	Ptolomaida	NOUN	n	_	14	nmod	_	_
 14	cedu	cedu	NOUN	n	_	0	root	_	_
 15	kae	kae	ADP	posp	Number=Sing|Person=3	14	case	_	_
@@ -98927,7 +98927,7 @@
 # sent_id = coqueiro02-1439
 # newpar
 # text = Du keje icare nowu aroe uce ure aimo , ure pobo redo joki .
-1	Du	du	NOUN	n	_	6	obl	_	_
+1	Du	du	NOUN	n	_	6	nmod	_	_
 2	keje	keje	ADP	posp	_	1	case	_	_
 3	icare	icare	ADV	adv	_	6	advmod	_	_
 4	nowu	nowu	DET	dem	Deixis=Med	5	det	_	_
@@ -100459,7 +100459,7 @@
 3	koiare	koia	VERB	v	Mood=Ind	0	root	_	_
 4	cemeartorure	_	NOUN	n	Mood=Ind	3	obl	_	_
 5	akaregodui	aregodui	ADP	posp	Number=Sing|Person=2	4	case	_	_
-6	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	obl	_	_
+6	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	nmod	_	_
 7	piji	piji	ADP	posp	_	6	case	_	_
 8	duji	duji	X	_	_	3	dep	_	_
 9	rugadu	rugadu	ADV	adv	_	3	advmod	_	_
@@ -103876,7 +103876,7 @@
 22	,	,	PUNCT	punct	_	24	punct	_	_
 23	boe	boe	NOUN	n	_	24	nmod	_	_
 24	okwatorirewu	okwatori	NOUN	n	Mood=Ind|Nomzr=Rel	26	nmod	_	_
-25	bogaire	bogai	ADP	posp	Mood=Ind|Number=Sing|Person=3	24	obl	_	_
+25	bogaire	bogai	ADP	posp	Mood=Ind|Number=Sing|Person=3	24	nmod	_	_
 26	akaiwore	kaiwo	VERB	v	Mood=Ind|Number=Sing|Person=2	4	conj	_	_
 27	,	,	PUNCT	punct	_	29	punct	_	_
 28	bogaire	bogai	ADV	adv	_	29	advmod	_	_
@@ -104567,7 +104567,7 @@
 1	Nowu	nowu	DET	dem	Deixis=Med	2	det	_	_
 2	ino	ino	PROPN	_	_	3	nmod	_	_
 3	bapera	_	NOUN	n	_	4	nmod	_	_
-4	atugo	_	NOUN	n	_	6	obl	_	_
+4	atugo	_	NOUN	n	_	6	nmod	_	_
 5	koiare	koia	ADP	posp	Mood=Ind	4	case	_	_
 6	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	7	nsubj	_	_
 7	tagiarigo	giarigo	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	_
@@ -107702,7 +107702,7 @@
 7	ekodure	kodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 8	tuiegare	_	NOUN	n	_	7	obl	_	_
 9	tabo	apo	ADP	posp	Number=Sing|Person=3	8	case	_	_
-10	tuwobe	_	NOUN	n	_	8	obl	_	_
+10	tuwobe	_	NOUN	n	_	8	nmod	_	_
 11	ewogai	bogai	ADP	posp	Number=Plur|Person=3	10	case	_	_
 12	.	.	PUNCT	punct	_	7	punct	_	_
 
@@ -111121,7 +111121,7 @@
 # sent_id = adugo_biri-0216
 # text = Ecera ai akarudo .
 1	Ecera	ecera	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	ai	ai	ADP	posp	Number=Sing|Person=2	1	obl	_	_
+2	ai	ai	ADP	posp	Number=Sing|Person=2	1	nmod	_	_
 3	akarudo	arudo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n\r\n
 
@@ -112046,7 +112046,7 @@
 # text = Awu karo kodu gori awu kagariga kodu , parina tabo , cegudure mokuro kuruce pobo corewu tabo .
 1	Awu	awu	DET	dem	Deixis=Prox	2	det	_	_
 2	karo	_	NOUN	n	_	3	nmod	_	_
-3	kodu	kodu	NOUN	n	_	7	obl	_	_
+3	kodu	kodu	NOUN	n	_	7	nmod	_	_
 4	gori	gori	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	6	det	_	_
 6	kagariga	kagariga	NOUN	n	_	7	nmod	_	_
@@ -115804,7 +115804,7 @@
 3	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 4	pai	pai	ADP	posp	Clusivity=In|Number=Plur|Person=1	3	obl	_	_
 5	Tonaregedu	onaregedu	NOUN	n	Reflex=Yes	4	nsubj	_	_
-6	ja	ja	NOUN	n	_	5	obl	_	_
+6	ja	ja	NOUN	n	_	5	nmod	_	_
 7	piji	piji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	_
 
@@ -115897,7 +115897,7 @@
 12	aidure	idu	VERB	v	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
 13	tumagowo	_	PRON	_	Mood=Sub|Number=Sing|Person=3|Reflex=Yes	12	obl	_	_
 14	nowu	nowu	DET	dem	Deixis=Med	15	det	_	_
-15	tagoino	_	NOUN	n	_	13	obl	_	_
+15	tagoino	_	NOUN	n	_	13	nmod	_	_
 16	dutabo	tabo	ADP	posp	Nomzr=Rel	15	case	_	_
 17	.	.	PUNCT	punct	_	12	punct	_	_
 
@@ -117287,7 +117287,7 @@
 # sent_id = jo_2-0025
 # text = Tagonare ii Aroe Eimejera reore ?
 1	Tagonare	tagona	PRON	bi	Mood=Ind|Number=Plur|Person=2	5	nsubj	_	_
-2	ii	ji	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+2	ii	ji	ADP	posp	Number=Sing|Person=1	1	nmod	_	_
 3	Aroe	aroe	NOUN	n	Number=Plur	4	nmod	_	_
 4	Eimejera	eimejera	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 5	reore	reo	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -117430,9 +117430,9 @@
 4	pai	pai	ADP	posp	Clusivity=In|Number=Plur|Person=1	3	obl	_	_
 5	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	6	det	_	_
 6	tuwadaru	bataru	NOUN	n	Number=Sing|Reflex=Yes	14	obj	_	_
-7	remawu	rema	NOUN	n	Nomzr=Rel	6	obl	_	_
+7	remawu	rema	NOUN	n	Nomzr=Rel	6	nmod	_	_
 8	tabo	tabo	ADP	posp	Number=Sing|Person=3	7	case	_	_
-9	ia	ia	DET	_	Definite=Ind|PronType=Art	6	obl	_	_
+9	ia	ia	DET	_	Definite=Ind|PronType=Art	6	nmod	_	_
 10	pugeje	pugeje	ADV	adv	_	9	advmod	_	_
 11	,	,	PUNCT	punct	_	14	punct	_	_
 12	imode	i	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=1	14	nsubj	_	_
@@ -117811,7 +117811,7 @@
 8	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	_
 9	taro	ro	NOUN	n	Number=Plur|Person=2	10	nmod	_	_
 10	pegarewu	pega	NOUN	n	Mood=Ind|Nomzr=Rel	18	nmod	_	_
-11	ai	ji	ADP	posp	Number=Sing|Person=2	10	obl	_	_
+11	ai	ji	ADP	posp	Number=Sing|Person=2	10	nmod	_	_
 12	,	,	PUNCT	punct	_	16	punct	_	_
 13	mare	mare	CCONJ	cconj	_	14	cc	_	_
 14	taeie	_	NOUN	n	_	15	nsubj	_	_
@@ -118447,7 +118447,7 @@
 10	jeture	jetu	VERB	v	Mood=Ind	0	root	_	_
 11	otojiwu	otoji	ADV	adv	_	12	advmod	_	_
 12	uwobe	uwobe	NUM	n	_	13	nmod	_	_
-13	ekie	_	NOUN	n	_	15	obl	_	_
+13	ekie	_	NOUN	n	_	15	nmod	_	_
 14	epadui	jpadui	ADP	posp	Number=Plur|Person=3	13	case	_	_
 15	bapera	bapera	NOUN	n	_	16	nmod	_	_
 16	kejedu	_	ADV	adv	_	10	advmod	_	_
@@ -121468,7 +121468,7 @@
 9	jorduwadowuge	jorduwado	NOUN	n	Nomzr=Rel|Number=Plur	7	nmod	_	_
 10	enorare	enorare	NOUN	n	_	12	nmod	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
-12	inobadu	inobadu	NOUN	n	Number=Sing	9	obl	_	_
+12	inobadu	inobadu	NOUN	n	Number=Sing	9	nmod	_	_
 13	jiba	ji	ADP	posp	Int=Yes	12	case	_	_
 14	rakuduie	rakuduie	ADV	adv	_	15	advmod	_	_
 15	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -123066,7 +123066,7 @@
 7	boe	boe	NOUN	n	Number=Plur	8	nsubj	_	_
 8	codudoge	codu	NOUN	n	Number=Plur	13	nsubj	_	_
 9	emagoi	jmagoi	ADP	posp	Number=Plur|Person=3	8	case	_	_
-10	pudui	pudui	PRON	_	Reflex=Yes	8	obl	_	_
+10	pudui	pudui	PRON	_	Reflex=Yes	8	nmod	_	_
 11	dukeje	du	SCONJ	x	_	10	case	_	_
 12	,	;	PUNCT	punct	_	8	punct	_	_
 13	makokare	mako	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
@@ -124205,7 +124205,7 @@
 13	awu	awu	DET	dem	Deixis=Prox|Number=Sing|PronType=Dem	14	det	_	_
 14	inodu	inodu	ADV	adv	_	15	advmod	_	_
 15	jire	ji	VERB	v	Mood=Ind	0	root	_	_
-16	taerduware	_	NOUN	n	_	19	obl	_	_
+16	taerduware	_	NOUN	n	_	19	nmod	_	_
 17	ji	ji	ADP	posp	Number=Sing|Person=3	16	case	_	_
 18	boe	boe	NOUN	n	_	19	nmod	_	_
 19	paru	paru	NOUN	n	_	15	obl	_	_
@@ -126246,7 +126246,7 @@
 5	boe	_	NOUN	n	_	2	nmod	_	_
 6	butugugodurewu	butugugodu	NOUN	n	Mood=Ind|Nomzr=Rel	2	nmod	_	_
 7	tabo	apo	ADP	posp	Number=Sing|Person=3	6	case	_	_
-8	moto	moto	NOUN	n	Number=Sing	6	obl	_	_
+8	moto	moto	NOUN	n	Number=Sing	6	nmod	_	_
 9	kaeduji	kaeduji	ADP	posp	Number=Sing|Person=3	8	case	_	_
 10	;	_	PUNCT	punct	_	11	punct	_	_
 11	itaregodukare	jtaregodu	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
@@ -128093,7 +128093,7 @@
 # sent_id = novo_testamento_ochoa-11118
 # text = Hebreudoge ewadaru tabo iere Abadon , gregodoge ewadaru iere Epoluon , boe ewadaru tabo iere Ure Boe Pegadowu .
 1	Hebreudoge	Hebreu	NOUN	n	Number=Plur	2	nmod	_	_
-2	ewadaru	_	NOUN	noun	Number=Plur|Person=3	4	obl	_	_
+2	ewadaru	_	NOUN	noun	Number=Plur|Person=3	4	nmod	_	_
 3	tabo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	iere	_	NOUN	noun	Number=Sing|Person=3	5	nmod	_	_
 5	Abadon	Abadon	NOUN	n	_	0	root	_	_
@@ -128788,7 +128788,7 @@
 6	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	7	obj	_	_
 7	tugu	tugu	VERB	vt	Number=Sing|Person=3	2	parataxis	_	_
 8	nowu	nowu	DET	dem	Deixis=Med	9	det	_	_
-9	aria	aria	NOUN	n	_	11	obl	_	_
+9	aria	aria	NOUN	n	_	11	nmod	_	_
 10	kuda	kuda	ADP	posp	_	9	case	_	_
 11	taci	taci	NOUN	n	_	7	obl	_	_
 12	piji	piji	ADP	posp	Number=Sing|Person=3	11	case	_	_
@@ -129953,7 +129953,7 @@
 16	ire	i	VERB	v	Mood=Ind|Number=Sing|Person=3	13	parataxis	_	_
 17	itoredo	oredo	NOUN	n	Number=Sing|Person=1	16	obl	_	_
 18	tagi	tagi	ADP	posp	_	17	case	_	_
-19	Cristo	_	PROPN	propn	_	17	obl	_	_
+19	Cristo	_	PROPN	propn	_	17	nmod	_	_
 20	tada	tada	ADP	posp	_	19	case	_	_
 21	,	,	PUNCT	punct	_	22	punct	_	_
 22	bakaru	bakaru	NOUN	n	_	16	conj	_	_
@@ -131281,7 +131281,7 @@
 10	enogwamagudure	nogwamagudu	VERB	v	Mood=Ind|Number=Plur|Person=3	5	parataxis	_	_
 11	ia	ia	DET	_	Definite=Ind|PronType=Art	12	det	_	_
 12	utugare	utuga	NOUN	n	Mood=Ind|Number=Sing	14	nmod	_	_
-13	iei	ei	ADP	posp	Number=Sing|Person=1	12	obl	_	_
+13	iei	ei	ADP	posp	Number=Sing|Person=1	12	nmod	_	_
 14	Blasto	_	PROPN	propn	_	10	obl	_	_
 15	ceduji	ceduji	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	makowo	mako	VERB	v	Mood=Sub|Number=Sing|Person=3	10	parataxis	_	_
@@ -134429,7 +134429,7 @@
 # newpar
 # text = Paulo imaredui Corinto kejewuge ewugejedu .
 1	Paulo	Paulo	NOUN	n	_	3	nmod	_	_
-2	imaredui	maredui	ADP	posp	Number=Sing|Person=1	1	obl	_	_
+2	imaredui	maredui	ADP	posp	Number=Sing|Person=1	1	nmod	_	_
 3	Corinto	_	PROPN	propn	_	5	obl	_	_
 4	kejewuge	keje	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	3	case	_	_
 5	ewugejedu	wugejedu	VERB	v	Number=Plur|Person=3	0	root	_	_
@@ -134914,7 +134914,7 @@
 3	akaiwodo	akaiwodo	NOUN	n	_	5	nmod	_	_
 4	cewu	ce	ADP	posp	Nomzr=Rel	3	case	_	_
 5	awadaru	bataru	NOUN	n	_	6	nmod	_	_
-6	pegare	pega	NOUN	n	Number=Sing|Person=3	9	obl	_	_
+6	pegare	pega	NOUN	n	Number=Sing|Person=3	9	nmod	_	_
 7	jiwu	ji	ADP	posp	Number=Sing|Person=3|Subord=Yes	6	case	_	_
 8	figueira	figueira	NOUN	n	_	9	nmod	_	_
 9	i	_	NOUN	n	_	1	obl	_	_
@@ -134982,7 +134982,7 @@
 3	keje	keje	ADP	posp	_	2	case	_	_
 4	iaboe	iaboe	NOUN	n	_	5	nsubj	_	_
 5	etaregodure	aregodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-6	Jesus	Jesus	NOUN	n	_	9	obl	_	_
+6	Jesus	Jesus	NOUN	n	_	9	nmod	_	_
 7	ae	_	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	tureadoduwo	_	PRON	bi	_	9	nsubj	_	_
 9	Pilatos	Pilatos	NOUN	n	_	12	nmod	_	_
@@ -135879,7 +135879,7 @@
 # sent_id = novo_testamento_ochoa-6092
 # text = Gregodoge ewadaru tabo iere Dorkas .
 1	Gregodoge	Grego	NOUN	n	Number=Plur	2	nmod	_	_
-2	ewadaru	bataru	NOUN	n	Number=Plur|Person=3	4	obl	_	_
+2	ewadaru	bataru	NOUN	n	Number=Plur|Person=3	4	nmod	_	_
 3	tabo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	5	nmod	_	_
 5	Dorkas	Dorkas	NOUN	n	_	0	root	_	_
@@ -138951,7 +138951,7 @@
 1	Tagimadudo	gimadu	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	_
 2	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	nmod	_	_
 3	Aroe	Aroe	NOUN	n	_	4	nmod	_	_
-4	Eimejera	eimejera	NOUN	n	_	6	obl	_	_
+4	Eimejera	eimejera	NOUN	n	_	6	nmod	_	_
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	boe	_	NOUN	n	_	8	nmod	_	_
 7	jameduji	jameduji	ADP	posp	Number=Sing|Person=3	6	case	_	_
@@ -139286,7 +139286,7 @@
 3	turemo	remo	VERB	v	Reflex=Yes	11	nsubj	_	_
 4	cewu	ce	ADP	posp	Nomzr=Rel	5	nmod	_	_
 5	togwagere	_	NOUN	n	_	6	nmod	_	_
-6	Jesus	Jesus	NOUN	n	_	8	obl	_	_
+6	Jesus	Jesus	NOUN	n	_	8	nmod	_	_
 7	apo	apo	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	tadawu	tadawu	NOUN	n	_	9	nmod	_	_
 9	baito	baito	NOUN	n	_	3	nmod	_	_
@@ -140094,7 +140094,7 @@
 # sent_id = coqueiro06-0131
 # text = Meri rekodu tabo pamode akedudo .
 1	Meri	meri	NOUN	n	_	2	nmod	_	_
-2	rekodu	rekodu	NOUN	n	Number=Sing|Person=3	4	obl	_	_
+2	rekodu	rekodu	NOUN	n	Number=Sing|Person=3	4	nmod	_	_
 3	tabo	apo	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	pamode	pa	PRON	bi	Clusivity=In|Irr=Yes|Mood=Ind|Number=Plur|Person=1	5	nsubj	_	_
 5	akedudo	edudo	VERB	v	Number=Sing|Person=2|Reflex=Yes	0	root	_	_
@@ -143558,7 +143558,7 @@
 7	Pao	pao	PROPN	propn	_	9	nmod	_	_
 8	Onaregedu	onaregedu	PROPN	propn	_	7	flat	_	_
 9	Jesus	Jesus	NOUN	n	_	10	nmod	_	_
-10	Cristo	Cristo	NOUN	n	_	3	obl	_	_
+10	Cristo	Cristo	NOUN	n	_	3	nmod	_	_
 11	tada	tada	ADP	posp	_	10	case	_	_
 12	,	,	PUNCT	punct	_	15	punct	_	_
 13	dure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	nsubj	_	_
@@ -144124,7 +144124,7 @@
 2	Tagimadudo	gimadu	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	_
 3	Jesus	Jesus	NOUN	n	_	4	nmod	_	_
 4	Cristo	Cristo	NOUN	n	_	5	nmod	_	_
-5	ie	_	NOUN	n	_	7	obl	_	_
+5	ie	_	NOUN	n	_	7	nmod	_	_
 6	tabo	apo	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	pemegareuge	pemegareu	NOUN	n	Number=Plur	8	nmod	_	_
 8	eiamedu	eiamedu	NOUN	n	_	9	nmod	_	_
@@ -145411,7 +145411,7 @@
 10	boe	boe	NOUN	n	_	11	nmod	_	_
 11	ero	ro	NOUN	v	Number=Plur|Person=3	15	obl	_	_
 12	pemegarewu	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	11	nmod	_	_
-13	bokwa	bokwa	NOUN	n	_	11	obl	_	_
+13	bokwa	bokwa	NOUN	n	_	11	nmod	_	_
 14	tabowu	tabo	ADP	posp	Nomzr=Rel	13	case	_	_
 15	bie	_	NOUN	n	_	9	parataxis	_	_
 16	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	15	dep	_	_
@@ -145686,7 +145686,7 @@
 8	ia	ia	DET	art	Definite=Ind|PronType=Art	9	det	_	_
 9	toroe	toroe	NOUN	n	_	19	nmod	_	_
 10	pemegareuji	_	X	x	_	9	dep	_	_
-11	tubiji	piji	ADP	posp	Number=Sing|Person=3|Reflex=Yes	9	obl	_	_
+11	tubiji	piji	ADP	posp	Number=Sing|Person=3|Reflex=Yes	9	nmod	_	_
 12	;	_	PUNCT	punct	_	9	punct	_	_
 13	mare	mare	CCONJ	cconj	_	14	cc	_	_
 14	imedu	imedu	NOUN	n	_	9	nmod	_	_
@@ -146393,7 +146393,7 @@
 2	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
 3	tugirimi	kirimi	VERB	v	Reflex=Yes	0	root	_	_
 4	tudugarege	tudugaregedu	NOUN	n	Number=Plur	5	nmod	_	_
-5	eiamedu	eiamedu	NOUN	n	_	9	obl	_	_
+5	eiamedu	eiamedu	NOUN	n	_	9	nmod	_	_
 6	apo	apo	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	nowu	nowu	DET	dem	Deixis=Remt	8	det	_	_
 8	Pao	pao	PROPN	propn	_	9	nsubj	_	_
@@ -149017,7 +149017,7 @@
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
 2	emearudure	mearudu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	Pao	pao	PROPN	propn	_	4	nmod	_	_
-4	bure	bure	NOUN	n	Number=Sing	6	obl	_	_
+4	bure	bure	NOUN	n	Number=Sing	6	nmod	_	_
 5	akoji	oji	ADP	posp	Number=Sing|Person=2	4	case	_	_
 6	kodui	_	PRON	_	Reflex=Yes	9	nsubj	_	_
 7	nowu	nowu	DET	dem	Deixis=Med	8	det	_	_
@@ -149323,7 +149323,7 @@
 # sent_id = reis_1_2-0115
 # text = Nowu meri keje nowu aredu onaregedu kogodure , kogodae rakaguragare dukoiare roiwakare tuwo ake ta .
 1	Nowu	nowu	DET	dem	Deixis=Med	2	det	_	_
-2	meri	meri	NOUN	n	_	6	obl	_	_
+2	meri	meri	NOUN	n	_	6	nmod	_	_
 3	keje	keje	ADP	posp	_	2	case	_	_
 4	nowu	nowu	DET	dem	Deixis=Med	5	det	_	_
 5	aredu	are	NOUN	n	Number=Sgtv	6	nmod	_	_
@@ -149487,7 +149487,7 @@
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
 4	jamedu	jamedu	ADV	adv	_	2	advmod	_	_
 5	Tamode	ta	VERB	v	Irr=Yes|Mood=Ind|Number=Plur|Person=3|Voice=Cau	2	ccomp	_	_
-6	taremo	_	NOUN	n	_	8	obl	_	_
+6	taremo	_	NOUN	n	_	8	nmod	_	_
 7	ia	ia	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	baito	baito	NOUN	n	Number=Sing	5	obl	_	_
 9	dukeje	du	SCONJ	x	_	8	case	_	_
@@ -149880,7 +149880,7 @@
 1	Eerdumode	eerdu	PRON	bi	Irr=Yes|Mood=Ind|Number=Plur|Person=3	2	nsubj	_	_
 2	baru	baru	NOUN	n	_	4	nmod	_	_
 3	pijiwu	_	DET	dem	_	4	det	_	_
-4	boetugu	_	NOUN	n	_	6	obl	_	_
+4	boetugu	_	NOUN	n	_	6	nmod	_	_
 5	aogeje	aogeje	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	Imedu	imedu	NOUN	n	Number=Sgtv	7	nmod	_	_
 7	Onaregedu	onaregedu	PROPN	propn	_	9	nsubj	_	_
@@ -150059,7 +150059,7 @@
 1	7Mare	_	VERB	v	Mood=Ind|Number=Sing|Person=1	2	nsubj	_	_
 2	inojaro	nojaro	VERB	v	Number=Sing|Person=1	0	root	_	_
 3	kurikawo	kurika	NOUN	n	Mood=Sub	5	nsubj	_	_
-4	ii	ji	ADP	posp	Number=Sing|Person=1	3	obl	_	_
+4	ii	ji	ADP	posp	Number=Sing|Person=1	3	nmod	_	_
 5	iordure	ordu	VERB	v	Mood=Ind|Number=Sing|Person=1	2	parataxis	_	_
 6	jiwu	ji	ADV	adv	_	5	advmod	_	_
 7	boe	boe	NOUN	n	_	8	nmod	_	_
@@ -150632,7 +150632,7 @@
 4	jii	jii	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	tagu	aku	NOUN	n	_	6	nmod	_	_
 6	redo	redo	NOUN	n	_	7	nmod	_	_
-7	du	du	NOUN	n	_	9	obl	_	_
+7	du	du	NOUN	n	_	9	nmod	_	_
 8	kae	kae	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	tagonai	_	NOUN	n	_	10	nmod	_	_
 10	taro	taro	NOUN	n	_	11	nmod	_	_
@@ -150817,7 +150817,7 @@
 10	Cewu	cewu	PROPN	propn	_	12	nmod	_	_
 11	onare	_	PROPN	propn	_	10	flat	_	_
 12	meartorure	_	NOUN	n	Mood=Ind	13	nsubj	_	_
-13	Jesus	Jesus	NOUN	n	_	15	obl	_	_
+13	Jesus	Jesus	NOUN	n	_	15	nmod	_	_
 14	jiwugei	jiwugei	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	Jerusalém	jerusalém	NOUN	n	_	9	obl	_	_
 16	tada	tada	ADP	posp	Number=Sing|Person=3	15	case	_	_
@@ -152754,7 +152754,7 @@
 # text = Ia tupa iedui ia bapera rogu ja jitudu .
 1	Ia	ia	DET	det	Definite=Ind	2	det	_	_
 2	tupa	pa	NOUN	n	Number=Sing|Person=3|Reflex=Yes	8	nsubj	_	_
-3	iedui	edui	ADP	posp	Number=Sing|Person=1	2	obl	_	_
+3	iedui	edui	ADP	posp	Number=Sing|Person=1	2	nmod	_	_
 4	ia	ia	DET	art	Definite=Ind|PronType=Art	5	det	_	_
 5	bapera	bapera	NOUN	n	_	6	nmod	_	_
 6	rogu	_	NOUN	n	Degree=Dim|Number=Sing	7	nmod	_	_
@@ -156779,7 +156779,7 @@
 12	imeardu	imeardu	NOUN	n	_	13	nsubj	_	_
 13	kuri	kuri	ADV	adv	_	14	advmod	_	_
 14	magai	magai	NOUN	n	_	16	nmod	_	_
-15	tai	ai	ADP	posp	Number=Sing|Person=2	14	obl	_	_
+15	tai	ai	ADP	posp	Number=Sing|Person=2	14	nmod	_	_
 16	du	du	ADV	adv	_	9	advmod	_	_
 17	reore	_	ADV	x	_	1	conj	_	_
 18	.	.	PUNCT	punct	_	17	punct	_	_
@@ -158399,7 +158399,7 @@
 4	keje	keje	ADP	posp	_	3	obl	_	_
 5	,	,	PUNCT	punct	_	6	punct	_	_
 6	iwudure	budu	NOUN	n	Mood=Ind|Number=Sing|Person=1	7	nmod	_	_
-7	iwi	iwi	NOUN	n	_	10	obl	_	_
+7	iwi	iwi	NOUN	n	_	10	nmod	_	_
 8	tabo	apo	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	bure	bure	NOUN	n	Number=Sing	10	nmod	_	_
 10	paru	paru	NOUN	n	Number=Sing	3	nmod	_	_
@@ -159731,7 +159731,7 @@
 13	uredudu	uredudu	ADV	adv	_	14	advmod	_	_
 14	rutumode	rutu	VERB	v	Irr=Yes|Mood=Ind|Number=Sing|Person=3	4	conj	_	_
 15	baruto	baruto	NOUN	n	Number=Sing	18	nmod	_	_
-16	boe	boe	NOUN	n	Number=Plur	15	obl	_	_
+16	boe	boe	NOUN	n	Number=Plur	15	nmod	_	_
 17	jameduji	jameduji	ADP	posp	Number=Sing|Person=3	16	case	_	_
 18	jii	jii	ADV	adv	_	14	advmod	_	_
 19	je	je	ADV	adv	_	14	advmod	_	_
@@ -161658,7 +161658,7 @@
 1	Mare	mare	CCONJ	_	_	3	nmod	_	_
 2	boe	boe	NOUN	n	Number=Plur	3	nsubj	_	_
 3	paru	paru	NOUN	n	Number=Sing	6	nsubj	_	_
-4	keje	keje	ADP	posp	_	3	obl	_	_
+4	keje	keje	ADP	posp	_	3	nmod	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
 6	ukare	u	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 7	ino	ino	ADV	adv	_	6	advmod	_	_
@@ -161751,7 +161751,7 @@
 6	nowu	nowu	DET	dem	Deixis=Med	7	det	_	_
 7	imearudae	mearudae	NOUN	n	Number=Sing|Person=1	5	obl	_	_
 8	jiwu	ji	ADP	posp	Number=Sing|Person=3|Subord=Yes	7	case	_	_
-9	ime	imedu	NOUN	n	Number=Plur	7	obl	_	_
+9	ime	imedu	NOUN	n	Number=Plur	7	nmod	_	_
 10	etae	ae	ADP	posp	Number=Plur|Person=3	9	case	_	_
 11	;	_	PUNCT	punct	_	12	punct	_	_
 12	du	du	ADV	adv	_	5	advmod	_	_
@@ -163018,7 +163018,7 @@
 # text = Boe enorai Jesus ji boe eewodu jiboe jitu .
 1	Boe	boe	NOUN	n	Number=Plur	3	nmod	_	_
 2	enorai	_	ADP	posp	Number=Plur|Person=3	1	case	_	_
-3	Jesus	Jesus	NOUN	n	_	6	obl	_	_
+3	Jesus	Jesus	NOUN	n	_	6	nmod	_	_
 4	ji	ji	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	boe	boe	NOUN	n	Number=Plur	6	nmod	_	_
 6	eewodu	eewodu	NOUN	n	_	7	nmod	_	_
@@ -163561,7 +163561,7 @@
 6	tuiorudu	jorudu	NOUN	n	Reflex=Yes	7	nmod	_	_
 7	ioguduia	ioguduia	NOUN	n	_	8	nmod	_	_
 8	tuwiria	iwiria	NOUN	n	Reflex=Yes	9	nmod	_	_
-9	ekuio	ekuio	NOUN	n	_	11	obl	_	_
+9	ekuio	ekuio	NOUN	n	_	11	nmod	_	_
 10	oia	oia	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	bukejewu	_	NOUN	n	_	12	nmod	_	_
 12	tuguie	_	NOUN	n	_	14	nmod	_	_
@@ -164070,7 +164070,7 @@
 6	kejewu	keje	ADP	posp	Nomzr=Rel	3	obl	_	_
 7	Igreja	greja	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	3	obl	_	_
 8	jiwu	ji	ADP	posp	Number=Sing|Person=3|Subord=Yes	7	case	_	_
-9	tupa	tupa	NOUN	n	_	7	obl	_	_
+9	tupa	tupa	NOUN	n	_	7	nmod	_	_
 10	bogai	bogai	ADP	posp	Number=Sing|Person=3	9	case	_	_
 11	.	.	PUNCT	punct	_	3	punct	_	_
 
@@ -165784,7 +165784,7 @@
 # sent_id = historia_mitica_bor-3207
 # text = Ere juredo ji Egore krao !
 1	Ere	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	juredo	juredo	NOUN	n	_	4	obl	_	_
+2	juredo	juredo	NOUN	n	_	4	nmod	_	_
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	Egore	Egore	PROPN	propn	_	5	nmod	_	_
 5	krao	_	X	_	_	1	ccomp	_	_
@@ -171135,7 +171135,7 @@
 3	oino	oino	ADV	adv	_	4	advmod	_	_
 4	tagogwamagudukare	tagogwamaguduka	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 5	iaboe	aboe	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	8	nmod	_	_
-6	iaboe	aboe	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	obl	_	_
+6	iaboe	aboe	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	5	nmod	_	_
 7	bogai	bogar	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	ikie	_	NOUN	n	_	4	obl	_	_
 9	tabo	apo	ADP	posp	Number=Sing|Person=3	8	case	_	_
@@ -171402,7 +171402,7 @@
 # sent_id = zacarias_2-0018
 # text = Umode Jerusalém kejewu kowarudoge ebowuge eeda kedodo .
 1	Umode	u	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
-2	Jerusalém	jerusalém	NOUN	n	_	4	obl	_	_
+2	Jerusalém	jerusalém	NOUN	n	_	4	nmod	_	_
 3	kejewu	keje	ADP	posp	Nomzr=Rel	2	case	_	_
 4	kowarudoge	kowaru	NOUN	n	Number=Plur	6	nmod	_	_
 5	ebowuge	bowuge	PRON	pron	Number=Plur|Person=3|PronType=Prs	6	nmod	_	_
@@ -176899,7 +176899,7 @@
 7	nono	nono	ADV	adv	Deixis=Med	4	advmod	_	_
 8	umode	u	PRON	bi	Irr=Yes|Mood=Ind|Number=Sing|Person=3	9	nsubj	_	_
 9	turugadu	urugadu	NOUN	n	Reflex=Yes	13	nsubj	_	_
-10	boe	_	NOUN	n	_	9	obl	_	_
+10	boe	_	NOUN	n	_	9	nmod	_	_
 11	ji	ji	ADP	posp	Number=Sing|Person=3	10	case	_	_
 12	du	du	ADV	adv	_	9	advmod	_	_
 13	rere	re	VERB	v	Mood=Ind	4	parataxis	_	_
@@ -178716,7 +178716,7 @@
 
 # sent_id = historia_mitica_bor-1967
 # text = Mare burere ukare nono karore .
-1	Mare	mare	CCONJ	_	_	4	obl	_	_
+1	Mare	mare	CCONJ	_	_	4	nmod	_	_
 2	burere	bure	ADP	posp	Mood=Ind	1	case	_	_
 3	ukare	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
 4	nono	_	NOUN	n	Number=Plur|Person=1	5	nsubj	_	_
@@ -179472,7 +179472,7 @@
 20	kuri	kuri	ADV	adv	_	22	nmod	_	_
 21	ia	ia	DET	art	Definite=Ind|PronType=Art	22	det	_	_
 22	bakaru	bakaru	NOUN	n	_	19	obl	_	_
-23	tuginoiwu	tuginoi	ADP	posp	Nomzr=Rel	22	obl	_	_
+23	tuginoiwu	tuginoi	ADP	posp	Nomzr=Rel	22	nmod	_	_
 24	rekodaji	_	X	x	_	22	dep	_	_
 25	duji	duji	ADP	posp	Number=Sing|Person=3	22	case	_	_
 26	.	.	PUNCT	punct	_	19	punct	_	_
@@ -180600,7 +180600,7 @@
 2	ei	ji	ADP	posp	Number=Plur|Person=3	1	obl	_	_
 3	Tagorigodu	akorigodu	NOUN	n	Number=Sing|Person=3|Reflex=Yes	1	obl	_	_
 4	kaba	ka	ADP	posp	Int=Yes	3	case	_	_
-5	boe	boe	NOUN	n	Number=Plur	3	obl	_	_
+5	boe	boe	NOUN	n	Number=Plur	3	nmod	_	_
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	,	,	PUNCT	punct	_	8	punct	_	_
 8	taroreru	_	NOUN	n	_	10	nmod	_	_
@@ -180778,7 +180778,7 @@
 # sent_id = historia_mitica_bor-0134
 # text = Mare Pemo koiare ure rodino .
 1	Mare	_	PROPN	propn	_	2	nmod	_	_
-2	Pemo	Pemo	PROPN	propn	_	4	obl	_	_
+2	Pemo	Pemo	PROPN	propn	_	4	nmod	_	_
 3	koiare	koia	ADP	posp	Mood=Ind	2	case	_	_
 4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	nsubj	_	_
 5	rodino	rodino	ADV	x	_	0	root	_	_
@@ -180938,7 +180938,7 @@
 10	Bakororo	Bakororo	PROPN	propn	_	12	nmod	_	_
 11	pudabowu	_	PROPN	propn	_	10	flat	_	_
 12	uparigogo	uparigogo	NOUN	n	_	13	nmod	_	_
-13	urugudodu	urugudodu	NOUN	n	_	7	obl	_	_
+13	urugudodu	urugudodu	NOUN	n	_	7	nmod	_	_
 14	parugajeje	parugajeje	ADP	posp	Number=Sing|Person=3	13	case	_	_
 15	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n\r\n
 
@@ -181184,7 +181184,7 @@
 17	U	u	ADV	adv	_	19	advmod	_	_
 18	!	!	PUNCT	punct	_	17	punct	_	_
 19	Pawiapagamode	pawiapagamode	NOUN	n	_	22	nmod	_	_
-20	iaboe	_	NOUN	n	_	19	obl	_	_
+20	iaboe	_	NOUN	n	_	19	nmod	_	_
 21	bogai	bogai	ADP	posp	Number=Sing|Person=3	20	case	_	_
 22	kimo	kimo	NOUN	n	Clusivity=Ex|Number=Plur|Person=1|Reflex=Yes	10	conj	_	_
 23	?	?	PUNCT	punct	_	10	punct	_	_
