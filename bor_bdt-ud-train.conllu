@@ -2475,7 +2475,7 @@
 4	m	_	X	_	_	3	dep	_	_
 5	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0064
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0064
 # newpar
 # text = Kudu iemaro paduregaje .
 1	Kudu	Ku	VERB	v	Voice=Pass	0	root	_	_
@@ -3217,7 +3217,7 @@
 17	iaji	aji	ADP	posp	Number=Sing|Person=1	13	obl	_	_
 18	.	.	PUNCT	punct	_	13	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0022
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0022
 # newpar
 # text = Inowu arowe tawuduia Itobore pijina mato Inowu arowe tawuduia Itobore jaiowejewu ttaguie ukigaio meririkudu paduiagu taregoduia tawroro okwawugeje .
 1	Inowu	Inowu	DET	dem	Deixis=Med	2	det	_	_
@@ -4460,7 +4460,7 @@
 6	bogai	bogai	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0112
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0112
 # newpar
 # text = Uiedaga Meriri Bakororo ecebacewu etoiaga iemaro paduregaje , aroe turedoduia taboguru uia jetugae .
 1	Uiedaga	Uiedaga	NOUN	n	_	2	nsubj	_	_
@@ -8133,7 +8133,7 @@
 6	koia	koia	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0051
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0051
 # newpar
 # text = Uwaiga itorodo muguiagu .
 1	Uwaiga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	2	nmod	_	_
@@ -8467,7 +8467,7 @@
 2	egore	ako	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
 3	...	...	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0071
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0071
 # text = Arowe turododuia tunowagoro jeragududodu okwabijire .
 1	Arowe	rowe	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nsubj	_	_
 2	turododuia	urododu	VERB	v	Mood=Opt|Number=Plur|Person=2	0	root	_	_
@@ -10085,7 +10085,7 @@
 32	kae	kae	ADP	posp	Number=Sing|Person=3	31	case	_	SpacesAfter=\s\s
 33	.	.	PUNCT	punct	_	26	punct	_	_
 
-# sent_id = lamenta�oes_2-udpipe.txt-0008
+# sent_id = lamentacoes_2-udpipe.txt-0008
 # text = Akogwamagududo Pao ji awabo tada .
 1	Akogwamagududo	ogwamagududo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
 2	Pao	o	NOUN	n	Clusivity=In|Number=Plur|Person=1	1	obl	_	_
@@ -11118,7 +11118,7 @@
 6	etagedudo	akedu	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0101
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0101
 # newpar
 # text = Atugododu jaeiarega .
 1	Atugododu	Atugododu	ADV	adv	_	2	nsubj	_	_
@@ -19440,7 +19440,7 @@
 3	hm	_	X	_	_	2	ccomp	_	_
 4	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = ipare_ereru_(explica�ao_kanajo)-udpipe.txt-0006
+# sent_id = ipare_ereru_(explicacao_kanajo)-udpipe.txt-0006
 # newpar
 # text = Boe etore kugure ekujagu nure , eejiwu nure , nowu jureji .
 1	Boe	boe	NOUN	n	Number=Plur	2	nmod	_	_
@@ -29615,7 +29615,7 @@
 4	akabo	akapo	ADP	posp	_	3	obl	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0081
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0081
 # text = Uiedaga Ukigaio Bakororo ecebacewu etoiaga iemaro paduregaje , aroe turedoduia taboguru uia jetugae .
 1	Uiedaga	Uiedaga	NOUN	n	_	2	nmod	_	_
 2	Ukigaio	Ukigaio	PROPN	propn	_	4	nmod	_	_
@@ -30090,7 +30090,7 @@
 2	ho	ho	ADV	adv	_	1	advmod	_	_
 3	...	...	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0121
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0121
 # newpar
 # text = Bokuoduia arirewu oiaga urugu paduiagu atugoia bopaguduia Itoga Are Bakororo apodoje okwa bukorire .
 1	Bokuoduia	Bokuoduia	NOUN	n	_	2	nmod	_	_
@@ -30225,7 +30225,7 @@
 3	pugeje	pugeje	ADV	adv	_	1	advmod	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0033
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0033
 # newpar
 # text = Napodoje tuguje toro .
 1	Napodoje	_	NOUN	n	_	2	nsubj	_	_
@@ -33441,8 +33441,8 @@
 6	ai	ai	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\r\n
 
-# newdoc id = G:\Mi unidad\hiwi\tasks_materials\task08-corpus\corpus_bororo_compartido\corpus_files\batch03\04-udpipe\ipare_ereru_(explica�ao_kanajo)-udpipe.txt
-# sent_id = ipare_ereru_(explica�ao_kanajo)-udpipe.txt-0001
+# newdoc id = G:\Mi unidad\hiwi\tasks_materials\task08-corpus\corpus_bororo_compartido\corpus_files\batch03\04-udpipe\ipare_ereru_(explicacao_kanajo)-udpipe.txt
+# sent_id = ipare_ereru_(explicacao_kanajo)-udpipe.txt-0001
 # newpar
 # text = Aroe ereru paru .
 1	Aroe	aroe	NOUN	n	Number=Plur	2	nmod	_	_
@@ -35146,7 +35146,7 @@
 3	cedabo	apo	ADP	posp	Clusivity=Ex|Number=Plur|Person=1	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0109
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0109
 # newpar
 # text = Cibae etaro urugudu akije toro .
 1	Cibae	cibae	NOUN	n	_	2	nmod	_	_
@@ -47333,7 +47333,7 @@
 4	kudawuji	kudawuji	X	_	_	2	dep	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0014
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0014
 # text = Utugarece tuiorud !
 1	Utugarece	Utugarecewu	DET	dem	Deixis=Remt|Number=Sing|PronType=Dem	2	det	_	_
 2	tuiorud	tuiorud	NOUN	n	_	0	root	_	_
@@ -63410,7 +63410,7 @@
 8	bogai	bogai	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0094
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0094
 # text = Bopaguduia Jakaduio Eimejera ecebacewu etaro ikudodu paduregaje aroe turododuia Kugarubo uia jetugae .
 1	Bopaguduia	Bopaguduia	PROPN	propn	_	2	nmod	_	_
 2	Jakaduio	_	PROPN	propn	_	3	nmod	_	_
@@ -64243,7 +64243,7 @@
 1	Cegarere	Cegare	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
 2	...	...	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0047
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0047
 # newpar
 # text = Ukuie kudugodu paduigaje .
 1	Ukuie	Ukuie	ADV	adv	_	3	advmod	_	_
@@ -65693,7 +65693,7 @@
 5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0108
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0108
 # newpar
 # text = Areaku Ewiriga Bakororo ukuwodu bureroka okwa akiridodu padure padarobo owotogajeje .
 1	Areaku	~_~areaku	NOUN	n	_	2	nsubj	_	_
@@ -68711,7 +68711,7 @@
 9	jamedu	jamedu	ADV	adv	_	5	advmod	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = lamenta�oes_2-udpipe.txt-0009
+# sent_id = lamentacoes_2-udpipe.txt-0009
 # text = Jerusalém akoragududo !
 1	Jerusalém	jerusalém	NOUN	n	_	2	nsubj	_	_
 2	akoragududo	oragududo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	_
@@ -69199,7 +69199,7 @@
 2	boecoji	boecoji	X	x	_	1	dep	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = ipare_ereru_(explica�ao_kanajo)-udpipe.txt-0007
+# sent_id = ipare_ereru_(explicacao_kanajo)-udpipe.txt-0007
 # newpar
 # text = Icare eture marido oro kae .
 1	Icare	icare	ADV	adv	_	2	advmod	_	_
@@ -70454,7 +70454,7 @@
 4	Ae	~_~ae	ADP	posp	_	1	obl	_	_
 5	...	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0036
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0036
 # newpar
 # text = Mamareuge tagire nono .
 1	Mamareuge	Mamareu	NOUN	n	Number=Plur	2	nsubj	_	_
@@ -71173,7 +71173,7 @@
 6	tu	tu	ADV	adv	_	4	advmod	_	_
 7	...	...	PUNCT	punct	_	4	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0119
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0119
 # newpar
 # text = Aredo Jakomea Urukuio Bakorororodo akowainotu muguiagu tuiorudu iogoduia tuwiria ekuio oia bukejewu tuguie Bokodore ekera ekumodu aregodurewu aruduia awugeje .
 1	Aredo	Are	NOUN	n	Voice=Cau	2	nsubj	_	_
@@ -71555,7 +71555,7 @@
 3	itaimo	taimo	VERB	v	Number=Sing|Person=1	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0066
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0066
 # text = Arowe turododuia tuiogwaio owotogajeje .
 1	Arowe	rowe	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nmod	_	_
 2	turododuia	rododuia	NOUN	n	Number=Sing|Person=3|Reflex=Yes	3	nsubj	_	_
@@ -71666,7 +71666,7 @@
 15	dukeje	dukeje	X	x	_	13	dep	_	_
 16	.	.	PUNCT	punct	_	13	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0086
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0086
 # newpar
 # text = Akiri waratuie tagire nono .
 1	Akiri	kir	VERB	v	Number=Sing|Person=2|VerbForm=Ger	3	advcl	_	_
@@ -75302,7 +75302,7 @@
 10	keje	keje	ADP	posp	_	8	case	_	_
 11	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0117
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0117
 # newpar
 # text = Akaruio bopaguduia Aiparabara Bakororo ema tamarido bureroka pureuwore tagiga oiagadodu padure taiogwaio owotogajeje .
 1	Akaruio	Akaruio	PROPN	propn	_	3	nmod	_	_
@@ -75531,7 +75531,7 @@
 2	jii	jii	ADV	adv	_	1	advmod	_	_
 3	...	...	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0114
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0114
 # newpar
 # text = Jorudu kiogo muguiagu .
 1	Jorudu	Jorudu	ADV	adv	_	3	advmod	_	_
@@ -78479,7 +78479,7 @@
 7	kae	kae	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0040
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0040
 # newpar
 # text = Bure kia birigodu rekoduiagu .
 1	Bure	bure	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
@@ -80999,8 +80999,8 @@
 2	hoi	hoi	ADV	adv	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\r\n
 
-# newdoc id = G:\Mi unidad\hiwi\tasks_materials\task08-corpus\corpus_bororo_compartido\corpus_files\batch02\release03\04-udpipe\oieigo_de_dan�a_2-udpipe.txt
-# sent_id = oieigo_de_dan�a_2-udpipe.txt-0001
+# newdoc id = G:\Mi unidad\hiwi\tasks_materials\task08-corpus\corpus_bororo_compartido\corpus_files\batch02\release03\04-udpipe\oieigo_de_danca_2-udpipe.txt
+# sent_id = oieigo_de_danca_2-udpipe.txt-0001
 # newpar
 # text = Akaru tawuje mato ... I ...
 1	Akaru	Akaru	NOUN	n	_	2	nsubj	_	_
@@ -82774,7 +82774,7 @@
 2	sorte	sorte	ADV	adv	_	0	root	_	_
 3	!	!	PUNCT	punct	_	2	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0099
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0099
 # newpar
 # text = Upodoje tuguje toro .
 1	Upodoje	_	NOUN	n	_	2	nsubj	_	_
@@ -88268,7 +88268,7 @@
 15	rekodaji	rekodaji	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	.	.	PUNCT	punct	_	11	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0053
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0053
 # newpar
 # text = Ako utugodu muguiagu .
 1	Ako	ako	PROPN	propn	_	2	nmod	_	_
@@ -92195,7 +92195,7 @@
 6	poboto	poboto	ADV	adv	_	5	advmod	_	_
 7	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0003
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0003
 # newpar
 # text = Na kana kaina mato Akiarega akagaru otogewu BAEIARI BAKORORO cewogodori kuogorewu jeradudu paduiagu ekumodurewu JAKOMEA BAKORORO AKONAIA OTOIOGIRE .
 1	Na	Na	PROPN	propn	_	3	nmod	_	_
@@ -92713,7 +92713,7 @@
 9	Tb	Tb	NOUN	n	_	5	conj	_	_
 10	...	_	PUNCT	punct	_	5	punct	_	SpacesAfter=\r\n\r\n\r\n\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0031
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0031
 # newpar
 # text = Oieigo jetuiaga .
 1	Oieigo	oieigo	ADV	adv	_	0	root	_	_
@@ -96554,7 +96554,7 @@
 5	remawu	remawu	ADV	adv	_	3	advmod	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0023
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0023
 # newpar
 # text = Akagurudoce uwakururere .
 1	Akagurudoce	kagurudoce	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nsubj	_	_
@@ -98402,7 +98402,7 @@
 3	toro	toro	ADV	adv	Deixis=Remt	1	advmod	_	_
 4	!	!	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
-# sent_id = lamenta�oes_2-udpipe.txt-0006
+# sent_id = lamentacoes_2-udpipe.txt-0006
 # text = Ioguduba reoreba imode ado nono , awudugugoduwo , Sião onaregedu ?
 1	Ioguduba	_	PRON	_	PronType=Int	5	obl	_	_
 2	reoreba	reore	ADP	posp	Int=Yes	1	case	_	_
@@ -98785,7 +98785,7 @@
 5	mato	mato	ADV	adv	_	4	advmod	_	_
 6	?	_	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0019
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0019
 # newpar
 # text = Egowainotu paduregaje Aredo JAKOMEA BAKORORODO egowainotu padure gaje tuiorudu iogoduia tagiri to rorewu oia bukejewu tuguie jurerewu etadugo aregodurewu aruduia awugeje .
 1	Egowainotu	gowainotu	NOUN	n	Number=Plur|Person=3	2	nsubj	_	_
@@ -99510,7 +99510,7 @@
 6	akogodure	ako	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
 7	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n\r\n
 
-# sent_id = oieigo_de_dan�a_2-udpipe.txt-0005
+# sent_id = oieigo_de_danca_2-udpipe.txt-0005
 # newpar
 # text = Oieigo jewetuiaiga ojewetu bokodoriware iga oieigo wararere tagaru uia aiadugodoge ewadarudodu epa bakororo tuiagajejewu okwabijire .
 1	Oieigo	Oieigo	PROPN	propn	_	3	nmod	_	_
@@ -99869,7 +99869,7 @@
 8	jamedu	jamedu	ADV	adv	_	7	advmod	_	_
 9	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0069
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0069
 # newpar
 # text = Uwudore kiagodu butuie mato .
 1	Uwudore	Uwudo	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
@@ -102034,7 +102034,7 @@
 7	pageje	pageje	ADP	posp	Number=Sing|Person=3	6	obl	_	_
 8	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0059
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0059
 # newpar
 # text = Aioreruna aiojitoro .
 1	Aioreruna	ioreruna	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nsubj	_	_
@@ -104142,7 +104142,7 @@
 13	owotogajeje	owotogajeje	ADP	posp	Number=Sing|Person=3	12	case	_	_
 14	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\r\n\r\n\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0110
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0110
 # text = Cibae etaro urugudo bopaguduia Aroiare Bakororo akije toro bukuoduia akudawu baia bukorire .
 1	Cibae	cibae	NOUN	n	_	2	nmod	_	_
 2	etaro	taro	NOUN	v	Number=Plur|Person=3	3	nsubj	_	_
@@ -104421,7 +104421,7 @@
 8	ga	_	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1	0	root	_	_
 9	...	...	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0027
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0027
 # newpar
 # text = Utugarece ewainotu jeturegaje .
 1	Utugarece	Utugarecewu	DET	dem	Deixis=Remt|Number=Sing|PronType=Dem	2	det	_	_
@@ -112277,7 +112277,7 @@
 4	kuruce	kuruce	ADP	posp	Number=Sing|Person=3	3	case	_	_
 5	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0006
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0006
 # text = KOGECOIO BAKORORO ceigoia turugudodu okwabijire .
 1	KOGECOIO	Kogecoio	PROPN	propn	_	3	nmod	_	_
 2	BAKORORO	Bakororo	PROPN	propn	_	1	flat	_	_
@@ -114600,8 +114600,8 @@
 15	kae	kae	ADP	posp	Number=Sing|Person=3	14	case	_	_
 16	.	.	PUNCT	punct	_	13	punct	_	_
 
-# newdoc id = G:\Mi unidad\hiwi\tasks_materials\task08-corpus\corpus_bororo_compartido\corpus_files\batch02\release03\04-udpipe\oieigo_kanaj�_ant�nio_caio-udpipe.txt
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0001
+# newdoc id = G:\Mi unidad\hiwi\tasks_materials\task08-corpus\corpus_bororo_compartido\corpus_files\batch02\release03\04-udpipe\oieigo_kanajo_antonio_caio-udpipe.txt
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0001
 # newpar
 # text = Oieigo jetuiaga Bokodoriware iga Oieigo wararere taagaruia padarogwarewu aiadugodoge eiga jaruru rerudodu aturuwarewu ako .
 1	Oieigo	Oieigo	ADV	adv	_	2	nmod	_	_
@@ -118203,7 +118203,7 @@
 3	egoino	goino	VERB	v	Number=Plur|Person=3	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0067
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0067
 # newpar
 # text = Cibae etaro urugudo akije toro .
 1	Cibae	cibae	NOUN	n	_	2	nmod	_	_
@@ -119130,7 +119130,7 @@
 8	ji	ji	ADP	posp	Number=Sing|Person=3	7	case	_	_
 9	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0080
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0080
 # newpar
 # text = Etoiaga iemaro paduregaje .
 1	Etoiaga	etoiaga	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
@@ -119705,7 +119705,7 @@
 5	pi	pi	ADP	posp	Number=Sing|Person=3	4	case	_	_
 6	...	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0062
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0062
 # newpar
 # text = Ukuwodu jiroka nono .
 1	Ukuwodu	Ukuwodu	ADV	adv	_	2	advmod	_	_
@@ -124094,7 +124094,7 @@
 5	keje	keje	ADP	posp	Number=Sing|Person=3	4	obl	_	_
 6	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_de_dan�a_2-udpipe.txt-0004
+# sent_id = oieigo_de_danca_2-udpipe.txt-0004
 # newpar
 # text = Oieigo jewetuiiga ojewetu bokodoriware iga oieigo wararere tagaru uia cibaiurewu bakororo tuiagajejewu okwabijire .
 1	Oieigo	Oieigo	PROPN	propn	_	3	nmod	_	_
@@ -124600,7 +124600,7 @@
 7	guu	guu	ADV	adv	_	5	advmod	_	_
 8	!	!	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0004
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0004
 # newpar
 # text = Na podoje tuguje toro ecewu bataruduia aroe ewororo jaiobejewu tabarigogo iroiarewu okwa akiri redudu puduiagu turemoduia bopaguduia OKOGE COIO BAKORORO apodojee okwa bukorire .
 1	Na	Na	NOUN	n	_	2	nmod	_	_
@@ -126704,7 +126704,7 @@
 3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0038
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0038
 # newpar
 # text = Akiguia urugudo akije toro .
 1	Akiguia	kiguia	NOUN	n	Number=Sing|Number[psor]=Sing|Person=2	2	nsubj	_	_
@@ -133767,7 +133767,7 @@
 3	bom	bom	X	ideo	_	0	root	_	_
 4	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0032
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0032
 # text = Bokodoriware iga Oieigo wararere taagaruia mamuiawuge eiaruru umuguia iragirirewu kurugugwe engwa akiri uredudu rerudodu kuogorewu cegimejera bopaguduia Marido Bakorororodo tuiagajejewu okwabijire .
 1	Bokodoriware	Bokodoriwaredu	NOUN	n	Number=Plur	2	nmod	_	_
 2	iga	_	PROPN	propn	_	3	nmod	_	_
@@ -150036,7 +150036,7 @@
 7	ebo	apo	ADP	posp	Number=Plur|Person=3	6	case	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0107
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0107
 # text = KOGEÃIO BAKORORO ceigoia turugudodu okwabijire .
 1	KOGEÃIO	Kogeãio	PROPN	propn	_	3	nmod	_	_
 2	BAKORORO	Bakororo	PROPN	propn	_	1	flat	_	_
@@ -150428,7 +150428,7 @@
 6	tabo	apo	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0115
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0115
 # text = Aredo Jakomea Awuru Bakorororodo jorudu kiogo muguiagu tagiridodu tabo Aroe Bakororo pudabowu uparigogo urugudodu parugajeje .
 1	Aredo	Are	NOUN	n	Voice=Cau	2	nsubj	_	_
 2	Jakomea	Jakomea	PROPN	propn	_	3	nsubj	_	_
@@ -154262,7 +154262,7 @@
 3	ikinoigodu	ikinoigodu	X	_	_	1	ccomp	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
-# sent_id = ipare_ereru_(explica�ao_kanajo)-udpipe.txt-0002
+# sent_id = ipare_ereru_(explicacao_kanajo)-udpipe.txt-0002
 # newpar
 # text = Boe egore pawo aroe ereru parudo .
 1	Boe	boe	NOUN	n	Number=Plur	2	nsubj	_	_
@@ -154782,7 +154782,7 @@
 7	kae	kae	ADP	posp	Number=Sing|Person=3	6	case	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0063
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0063
 # text = Areaku Boro Bakororo ukuwodu bureroka okwa akiridodu padure padarobo owotogajeje .
 1	Areaku	~_~areaku	NOUN	n	_	2	nsubj	_	_
 2	Boro	Boro	PROPN	propn	_	4	nmod	_	_
@@ -155447,7 +155447,7 @@
 2	Uwaborewu	_	X	x	Polarity=Neg	1	dep	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0072
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0072
 # newpar
 # text = Burekia birigodu rekoduiagu .
 1	Burekia	Burekia	CCONJ	conj	_	2	nmod	_	_
@@ -160400,7 +160400,7 @@
 11	dutabo	tabo	ADP	posp	Nomzr=Rel	10	case	_	_
 12	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0074
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0074
 # newpar
 # text = Tarududoce roije toro .
 1	Tarududoce	_	NOUN	n	_	2	nsubj	_	_
@@ -165446,7 +165446,7 @@
 4	Pe	Pe	ADV	adv	_	1	conj	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0057
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0057
 # newpar
 # text = Ieraro makudu wararere tugarece eta .
 1	Ieraro	eraro	VERB	v	Number=Sing|Person=1	0	root	_	_
@@ -165519,7 +165519,7 @@
 6	tabo	tabo	ADP	posp	Number=Sing|Person=3	5	case	_	_
 7	.	.	PUNCT	punct	_	4	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0029
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0029
 # newpar
 # text = Aparigogo jorigiare .
 1	Aparigogo	Aparigogo	NOUN	n	Number=Sing	2	nsubj	_	_
@@ -170703,7 +170703,7 @@
 12	piji	piji	ADP	posp	Number=Sing|Person=3	11	case	_	_
 13	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0097
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0097
 # newpar
 # text = Uparigogo okwagujo muguiagu .
 1	Uparigogo	Uparigogo	NOUN	n	_	2	nmod	_	_
@@ -180924,7 +180924,7 @@
 4	ta	ta	VERB	v	Number=Sing|Person=3	0	root	_	_
 5	.	.	PUNCT	punct	_	4	punct	_	SpacesAfter=\r\n
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0085
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0085
 # text = Aredo Tugoagiri Bakorororodo jorudu kiogo muguiagu tagiridodu tabo Aroe Bakororo pudabowu uparigogo urugudodu parugajeje .
 1	Aredo	Are	NOUN	n	Voice=Cau	2	nsubj	_	_
 2	Tugoagiri	Tugoagiri	PROPN	propn	_	4	nmod	_	_

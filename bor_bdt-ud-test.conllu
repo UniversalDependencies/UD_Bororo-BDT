@@ -8991,7 +8991,7 @@
 17	tagai	ai	ADP	posp	Number=Sing|Person=2	16	obl	_	_
 18	.	.	PUNCT	punct	_	16	punct	_	_
 
-# sent_id = ipare_ereru_(explica�ao_kanajo)-udpipe.txt-0004
+# sent_id = ipare_ereru_(explicacao_kanajo)-udpipe.txt-0004
 # text = Aroe ereru nure .
 1	Aroe	aroe	NOUN	n	Number=Plur	2	nmod	_	_
 2	ereru	reru	NOUN	n	Number=Plur|Person=3	0	root	_	_
@@ -13481,7 +13481,7 @@
 3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0049
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0049
 # newpar
 # text = Akiri redudu muguiagu .
 1	Akiri	kir	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
@@ -13944,7 +13944,7 @@
 3	khu	khu	ADV	adv	_	2	advmod	_	_
 4	!	!	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0002
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0002
 # text = Umuguio cegimejera bopaguduia MARIDO BAKORORO tuiagajejewu onawuio okwabijire .
 1	Umuguio	_	PROPN	propn	_	2	nmod	_	_
 2	cegimejera	cegimejera	NOUN	n	_	3	nmod	_	_
@@ -15357,7 +15357,7 @@
 19	kajeje	kajeje	ADP	posp	Number=Sing|Person=3	18	case	_	_
 20	.	.	PUNCT	punct	_	17	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0095
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0095
 # newpar
 # text = Akowainotu muguiagu .
 1	Akowainotu	_	NOUN	n	_	2	nsubj	_	_
@@ -17917,7 +17917,7 @@
 1	Bok	Bok	NOUN	n	_	0	root	_	_
 2	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0042
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0042
 # newpar
 # text = Enogwa iemaro paduregaje .
 1	Enogwa	_	VERB	v	Number=Sing|Person=1	0	root	_	_
@@ -19842,7 +19842,7 @@
 5	keje	keje	ADP	posp	_	4	case	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = oieigo_kanaj�_ant�nio_caio-udpipe.txt-0084
+# sent_id = oieigo_kanajo_antonio_caio-udpipe.txt-0084
 # newpar
 # text = Jorudu kiogo umuguiagu .
 1	Jorudu	Jorudu	ADV	adv	_	3	advmod	_	_
